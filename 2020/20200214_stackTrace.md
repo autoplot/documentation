@@ -48,3 +48,25 @@ java.lang.Exception: xxx
 
 The exception is created deep within Java, and you need to walk up the stack to see what Jython code was used.  The top line is the deepest call, where the Exception is created.  If you scan down the list, you will see around the middle "org.python.pycode" and in parenthesis (currentLineDemo2.jy:3).  This is what the currentLine() function does.
 
+## Catching exceptions
+You may need to handle cases where a process usually works, but when it doesn't you need to take special action.  This is done using a try/except loop like so:
+
+~~~~~
+try:
+  fil=downloadResourceAsTempFile(URL('http://autoplot.org/data/nofile.dat'),monitor)
+except:
+  import traceback
+  traceback.print_exc()
+~~~~~
+
+Another method for doing this is:
+
+~~~~~
+import java.io.IOException
+try:
+  fil=downloadResourceAsTempFile(URL('http://autoplot.org/data/nofile.dat'),monitor)
+except java.io.IOException,ex:
+  print 'file not found'
+  print ex.printStackTrace()
+~~~~~
+Either method may work for you.
