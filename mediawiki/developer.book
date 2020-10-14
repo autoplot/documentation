@@ -1,0 +1,223 @@
+Audience: Scientists wanting some sort of organized documentation and developers of the book.
+
+Purpose: Create an outline for the Autoplot book, from Jeremy's perspective.  Bob will be creating one of these too, and we'll see where the overlaps are to create a final outline for the book.
+
+Similar books: http://www.amazon.com/dp/1590595874/ref=rdr_ext_tmb
+
+<b><center><font size="+3" color="black">Autoplot</font></center></b>
+
+Here's a handy reference:
+http://cds130.org/Devel#Wiki
+
+= Table of Contents =
+
+== '''About''' ==
+# Audience 
+## Engineers who want a variety of ways to get thier data from the device to a graphic that they can interpret
+## Scientists who want to an easy way to get at and share data with their colleagues, and perform common operations to their data
+## Data Providers who wants to add plotting capability to a database.  
+## Students who want free options for analyzing their data that they can take with them when they graduate.
+# What it can do
+## Plot a data in an ASCII files and many other commonly used scientific data formats found on the web
+## The web itself is the data store, automatically handles copying and managing a local cache of data.
+## Intuitive controls for navigating the data 
+## create and browse 1000s of images very quickly, subset very large data files, show transformed versions of data. 
+## Filters and scripting to allow for initial analysis and transformations of data
+## Scripts can be published on the web to provide functionality to collegues.
+== '''Introduction''' ==
+# Motivation: (Why not IDL and MATLAB?) Motivation with VxO and history of DAS2.
+## NASA Virtual Observatories project has graphics component.
+## Often the data were available, but the scientist still needs to be able to easily produce graphics to peek inside the resource.
+## Both IDL and Matlab are commonly used, but neither is universally used, and both are expensive for groups to aquire and learn.
+## Both IDL and Matlab are frameworks to read and handle data that can handle any data type, but Autoplot makes it easy to ingest data in common forms such as ascii tables and CDF files.  What might take ten steps in IDL takes one in Autoplot.
+## Autoplot is open-source and runs on the freely available Java platform.
+# Terminology: QDataSet, canvas, DOM, plots, plot elements, aggregation, .jy, .vap, .jyds, URIs and Data Sources.
+## Autoplot provides graphics to read many data types into one common "data model" "QDataSet."  Once data is read in from a CDF file, to Autoplot it looks the same as if it were from a text file.
+## QDataSet provides operators, so for example it is trivial to load in two datasets and add the two together and plot the result.
+## Autoplot's canvas is built on the Das2 library, so it is very configurable and interactive.
+## Aggregation allows multiple file resources to be combined into a long time series.  When data filenames can be made into templates (like $Y$m$d.dat), each file is loaded in and combined to make long time series.
+## Jython (Python in Java) scripts allow complex scripting of the application.  (e.g. For each file in this directory, make an plot of the data.) (e.g. Prototype this digitizing algorithm.)
+## Jython scripts can also be a source of data.  Instead of reading a CDF file, the script is run and named data sets are produced.  (e.g. Read in this data and try this calibration.)
+## All data is addressed by URIs, which locate and indicate the type of data.  These are compact strings that can be emailed to a colleague, or used in a script.
+## Plug-in Data Sources convert URIs into data Autoplot can display and use in scripts.
+## Additional PngWalk tool allows clients to browse through pre-generated png images, then jump back into Autoplot to explore more deeply.
+# Use-cases: ViRBO, RBSP, etc.
+## D at the University of Iowa produces CDF files and uses Autoplot to provide clients with graphical views of the data.
+## X at U of Y uses Autoplot to look at the data collected immediately after measurements are made.
+## R at LANL uses Autoplot produce PNG images in a batch job.  
+## B at GMU uses Autoplot to feed images to an interactive thin client, using Javascript and AJAX calls to provide rich access to clients everywhere.
+## S at Iowa uses scripting to develop a peak-digitizing algorithm to infer density from the plasma frequencies.
+## Dataset URIs.
+## Plugins for IDL and MATLAB
+# [[developer.datasetSchemes|Sorts of data one looks at in Autoplot]]
+## Common 2-D graphics, such as
+### line plots of density collected over time. 
+### spectrograms where the Z value of a cell is encoded as the color.
+### scatter plots 
+## And also:
+### event bars
+### image files
+### radial spectrograms.
+## Interactive graphics, such as 2-D slices of a 3-D cube of data.
+
+== '''[[Installing Autoplot for the first time]]''' ==
+# Installation with Java Webstart
+## Java 1.7 is freely available from Oracle at [http://java.com/en/download/index.jsp java.com].
+## Autoplot will run on both 32bit and 64bit JVMs (Java virtual machines), but 64bit is required for more memory.
+## Many machines will have this installed out-of-the-box.  (Linux often comes with OpenJDK, which works fine.)
+## Once Java is installed, it should register itself with the browser and clicking on http://autoplot.org/autoplot.jnlp launch file should launch the application.
+## Many browsers have made it so the .jnlp will be downloaded but not run.  Find the .jnlp in the downloads and launch it by double-clicking there.
+## Sometimes it's useful to run from the command line, like so: /usr/local/java/bin/javaws http://autoplot.org/autoplot.jnlp.
+## Note too that webstart limits the size of the JVM.
+# Installation with Single-jar
+## When webstart is not satisfactory, the "single-jar" version can be used.
+## It is a jar file, which is a zip file of the application, with a Unix launch script at the top of it.
+## It can therefore be launched on Windows, Macs, Unix and Linux by double-clicking on it or running from a command prompt.
+## Memory size cannot be controlled on Windows, and sometimes it is quite small.  On Windows, a batch file can be used to launch with a different size.
+## On Mac and Linux, the script can be editted to set an arbitary size.
+# Why there are different installations
+## Personal preference.  
+## Webstart offers ease of installation (when it works), so it's easier to keep up with releases.  
+## Single-jar makes it easier to create a desktop application, and it's clear what you are running.  Removes the uncertainty webstart introduces.
+## There are plans to create a new release mechanism that captures good elements of both systems.
+
+== '''Looking at Data'''==
+# Line plots ("Series") and Spectrograms
+## Line plots and scatter plots [[Image:series.png|thumb]]
+## Spectrograms, LANL NN Spectrograms. [[Image:nnSpectrogram.png|thumb]]
+## Future directions.  Need to simplify spectrograms into horizontal bridging (interpolation vs NN), vertical bridging, and coincidence averaging (mode, average, log average, colorbar average).  Custom-render types in Jython. 
+# Multiple panel-plots [[Image:scatter.png|thumb]]
+## Additional plots can be added below, with the File&rarr;"Add Plot..." dialog. Autoplot will rescale the plot.
+## Layouts can be multiple column as well, using the layout panel.
+# Navigation
+## Axes are "live" in that they respond to mouse events.  For example, the mouse wheel with zoom in and out, and dragging with the middle mouse button will pan. 
+## Often we look at a stack of plots with a common time axis, and in this case the data selector can be switched to a time range selector with the small blue button in the upper left.  These time ranges take many forms, such as year-month-day or year-doy (day of year).  The calendar icon will enter a GUI which allows timeranges to be specified in a number of ways, including by orbit and relative to the current time.
+## some data sets have more than two dimensions, like Flux(Time,Energy,Angle) or SeaSurfaceTemperate(Time,Lat,Lon).  In this case Autoplot will automatically slice on one of the dimensions and add a control under the "data" tab.
+# Saving state with <span id="vap_files">VAP</span> configuration files
+## The current plot layout and URI references to the data are stored in .vap files.
+## These product files are like a .doc file is to Microsoft Word, or an HTML file with .jpg references.
+## These store your configurations and facilitate communication with colleagues.
+## When a .vap is loaded, the timerange can be reset by using "?timerange=" like so: http://autoplot.org/data/autoplot.vap?timerange=2000-01-11
+# printing
+## Printing to the system printer is supported via Java print dialog.
+## The current plot canvas can always be written out to .pdf or .png files.
+## <nowiki>[Menubar]</nowiki>&rarr;Options&rarr;"Additional Options"&rarr;"Printing Tag" allows a timestamp to be specified.
+## The message bubbles can be turned on when printing as well, by setting <nowiki>[Menubar]</nowiki>&rarr;Edit&rarr;"Additional Options"&rarr;"Printing Log Level"
+# [[bookmarks]]
+## Bookmarks store URI references to data.
+## Bookmarks tool is used to manage bookmarks.
+## Bookmarks can also be vap files.
+## Bookmarks can be script references.
+# [[PNG Walks]]
+## The Pngwalk tool generates series of images by stepping through times spanning an interval.
+## The name of each file is templated, like product_$Y$m$d.png, so that the coverage of each image is implicit.
+## The Pngwalk Viewer is an optimized tool for browsing png walks.  
+## Autoplot-generated Pngwalks allow the scientist to jump back into Autoplot with the configuration used for the image.
+<br style="clear:both"/>
+
+== '''Advanced tools'''==
+# [[Slicers and other mouse modules]]
+## A mouse module takes mouse coordinates of a click or drag gesture, and provides useful information.
+## Spectrogram offers a tool to look at slices of the data.  Right-click, switch to vertical slice.
+## Crosshair shows X and Y position, and the Z value at the point.  Other slicers show drag slope, etc.
+## Display Data in a table of numbers.
+## The box zoom is just another one of these mouse modules.
+# [[Exporting data to other formats]]
+# [[High-rank data]]
+## 3-D data, such as Flux[Time,Pitch,Energy], is shown in slices.
+## The data tab contains the operations string that controls the slice.  
+## GUI controls dimension and index of the slice.
+## mouse wheel can be used to rapidly adjust the slice index.
+# [[Remote bookmarks]]
+## Support for workgroups where there should be a set of common bookmarks.
+## remote bookmark is a bookmark-folder with a remoteUrl attribute.  This is resolved shortly after the bookmarks are loaded.
+## a local copy is kept, in case the remote folder cannot be loaded.
+# [[Aggregation]]
+## Aggregation is a central feature of Autoplot, which allows a set of files to be combined into one for each data read.
+# [[Understanding URIs and completions]]
+# [[Data Mash Up Tool]]
+## The data mash up tool combines data from multiple sources to make new derived datasets.
+## For example, a signal taken at 4 Hz and another at 5 Hz are loaded in and the ratio of the two is plotted.
+## A set of URIs is loaded, then typically "synchronized" by interpolating to common time-tags, and then a set of operations is performed.
+
+== '''Under the Hood''' ==
+# What is the Autoplot DOM?
+## The Autoplot DOM is a representation of the state of the application.  
+## Includes the plots and dataSources, and plot elements which render data to the screen.
+## each plotElement also has an entire plot, containing the default settings for the loaded data.
+## The canvas contains rows and columns which lay out the page.  A row can be located relative to another row, as with the marginRow and marginColumn.
+## The DOM has a timerange property, and usually x-axes are bound to this property.
+# .vap file is just an xml version of the DOM.
+## It also contains a version number, so that old .vaps are converted to the latest version of the DOM.
+## Parts of the DOM are considered to be trivial and personal preferences are used, for example the tick length and direction.
+## .vap files can contain the macro "%{PWD}" which refers to the folder containing the .vap file.
+# Property Bindings and Synchronizing
+## A property binding asserts that two DOM properties should be the same.
+## For example, typically the X axes are bound to the dom.timerange, so they all move together.  
+## One node of the DOM tree can be synchronized to another, copying over all the properties.
+## This is recursive, so an entire tree with its root node and all child nodes can be synchronized to another tree.
+# Undo/Redo support
+## As the scientist makes changes to Autoplot and the DOM representing, states are saved in an "undo" list.
+## Triggering Undo just synchronizes the DOM to the previous state.
+## Redo is similar.
+
+== '''Scripting'''==
+# [[developer.book.jyscripts#.jy_scripts|.jy scripts]]
+# [[developer.book.jyscripts#commonly_used_functions|commonly used functions]]
+# [[developer.book.jyscripts#comparison to SciPy|comparison to SciPy]]
+# [[developer.book.jyscripts#Jython_vs_Python|Jython vs Python]]
+# [[developer.book.jyscripts#QDataSet|QDataSet]]
+# [[developer.book.jyscripts#script_and_console_tabs|script and console tabs]]
+# [[developer.book.time|representation of time]]
+
+This should include a section on how datasets are converted to hand compatible geometry.  I was surprised to see Xf[n,2] * h[n] worked, because it converts the h to a rank 1 dataset.  This could get confusing with complex numbers, because * and + will be very different, and the fact that * works for this case could lead one to believe that complex numbers are supported.
+
+.jyds scripts are special scripts which have a limited set of functions they can use for loading data.
+
+== '''Data types handled by Autoplot'''==
+# Explanation of how data types are read into Autoplot.
+# [[ASCII tables]]
+## GUI editor
+## examples of the types
+## syntax of the URI.  
+## examples
+# CDF files [[developer.book.apds.cdf]]
+# [[CDAWeb]]
+# '''.jyds data source'''
+## [[differences with .jy scripts, what you can't do]]
+## [[publishing .jyds scripts for use by the rest of the world.]]
+## [[.jyds extensions]]
+# "discovery" data sources (File->Add Plot From...)
+
+== '''Understanding Das2 Graphics''' ==
+# Das2 is the library used to paint the canvas
+# Based on Java2D graphics, builds more abstract objects like "DasAxis" and "DasPlot"
+# Renderers convert data to pixels on a DasPlot.
+# DasPlot positions (layout) are controlled with row and column objects
+## a row and column identify a box.
+## rows and columns are positioned with strings like left="4em" right="100%-10em"
+## rows and columns are relative to another row or column, or the canvas itself.
+
+== '''Autoplot on the server'''==
+# Applications for server-side Autoplot
+## serving data 
+## serving images
+# [[Apache]]
+## Basic
+## Cluster
+# [[Tomcat]]
+## Basic
+## Cluster
+# [[Command Line]]
+
+=='''Autoplot in the Browser'''==
+# Motivation, use from a smart phone, limit access to data.
+# Future Development
+
+== '''Appendix'''==
+# [[developer.URI_syntax|URI syntax]]
+# '''Autoplot from Source'''
+## Who needs to compile Autoplot from source
+## What does it mean to be open-source
+## bug reporting
+## Building an Autoplot plug-in.  When is this needed?

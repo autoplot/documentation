@@ -1,0 +1,15 @@
+Purpose: Notes for demos
+
+Audience: Scientists and autoplot developers
+
+= scripting to get metadata for a pile of files =
+Sarah had a nice use case where she had a bunch of .wav recordings and needed to figure out which files had been recorded in 32 bits.  
+
+# copy over the files to the local drive
+# short jython script to load in each file and get the metadata.
+# monitor shows progress for each one.  The files could be on a remote site.
+# the results are printed.  Python formatting.
+# the directory name appears twice in the script.  fix this with a variable.
+# we might want to do this for any directory, add a getParam call.
+# add this to the Autoplot Tools menu.
+# documentation string
