@@ -8,7 +8,7 @@ pandoc looks like its a useful tool.  For example:
 
 `pandoc -f mediawiki QFunction -t  markdown_github -o QFunction.md`
 
-converts the one file, but does a poor job with code blocks.
+converts the one file, but does a poor job with code blocks.  I've written an Autoplot script to clean this up.
 
 `pandoc -f html http://autoplot.org//QFunction -t  markdown_github -o QFunction.md`
  
