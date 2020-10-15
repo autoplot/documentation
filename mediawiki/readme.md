@@ -6,10 +6,10 @@ I'll do that to the entire site.
 
 pandoc looks like its a useful tool.  For example:
 
- pandoc -f mediawiki QFunction -t  markdown_github -o QFunction.md
+`pandoc -f mediawiki QFunction -t  markdown_github -o QFunction.md`
 
 converts the one file, but does a poor job with code blocks.
 
- pandoc -f html http://autoplot.org//QFunction -t  markdown_github -o QFunction.md
+`pandoc -f html http://autoplot.org//QFunction -t  markdown_github -o QFunction.md`
  
 downloads the mediawiki page and writes directly to markdown.  It looks like with a little massaging (removing head and tail) this would work nicely.
