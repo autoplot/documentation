@@ -1,0 +1,92 @@
+# org.das2.util.filesystem.FSTreeModelpresent a FileSystem as a TreeModel to display in JTrees.
+FSTreeModel( org.das2.util.filesystem.FileSystem fs )
+
+
+***
+<a name="PENDING_NOTE"></a>
+# PENDING_NOTE
+
+
+
+***
+<a name="getChild"></a>
+# getChild
+getChild( Object parent, int index ) &rarr; Object
+
+
+
+### Parameters:
+parent - an Object
+<br>index - an int
+
+### Returns:
+java.lang.Object
+
+
+<a href="https://github.com/autoplot/dev/search?q=getChild&unscoped_q=getChild">[search for examples]</a>
+
+***
+<a name="getChildCount"></a>
+# getChildCount
+getChildCount( Object parent ) &rarr; int
+
+
+
+### Parameters:
+parent - an Object
+
+### Returns:
+int
+
+
+<a href="https://github.com/autoplot/dev/search?q=getChildCount&unscoped_q=getChildCount">[search for examples]</a>
+
+***
+<a name="getIndexOfChild"></a>
+# getIndexOfChild
+getIndexOfChild( Object parent, Object child ) &rarr; int
+
+
+
+### Parameters:
+parent - an Object
+<br>child - an Object
+
+### Returns:
+int
+
+
+<a href="https://github.com/autoplot/dev/search?q=getIndexOfChild&unscoped_q=getIndexOfChild">[search for examples]</a>
+
+***
+<a name="isLeaf"></a>
+# isLeaf
+isLeaf( Object node ) &rarr; boolean
+
+
+
+### Parameters:
+node - an Object
+
+### Returns:
+boolean
+
+
+<a href="https://github.com/autoplot/dev/search?q=isLeaf&unscoped_q=isLeaf">[search for examples]</a>
+
+***
+<a name="main"></a>
+# main
+main( java.lang.String[] args ) &rarr; void
+
+
+
+### Parameters:
+args - a java.lang.String[]
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+

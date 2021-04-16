@@ -1,0 +1,37 @@
+# org.autoplot.test.Test_052_FocusSwitchingDemonstrate bug where switching between plots would reset filters
+ https://sourceforge.net/p/autoplot/bugs/1375/
+Test_052_FocusSwitching( )
+
+
+***
+<a name="main"></a>
+# main
+main( java.lang.String[] argv ) &rarr; void
+
+
+
+### Parameters:
+argv - a java.lang.String[]
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+***
+<a name="runIt"></a>
+# runIt
+runIt( Object o ) &rarr; int
+
+
+
+### Parameters:
+o - an Object
+
+### Returns:
+int
+
+
+<a href="https://github.com/autoplot/dev/search?q=runIt&unscoped_q=runIt">[search for examples]</a>
+

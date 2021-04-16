@@ -1,0 +1,24 @@
+# org.das2.qds.LDataSet.LDataSetLongWriteAccess
+LDataSetLongWriteAccess( )
+
+
+***
+<a name="putLValue"></a>
+# putLValue
+putLValue( long value ) &rarr; void
+
+
+
+### Parameters:
+value - a long
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=putLValue&unscoped_q=putLValue">[search for examples]</a>
+
+putLValue( int i0, long value ) &rarr; void<br>
+putLValue( int i0, int i1, long value ) &rarr; void<br>
+putLValue( int i0, int i1, int i2, long value ) &rarr; void<br>
+putLValue( int i0, int i1, int i2, int i3, long value ) &rarr; void<br>

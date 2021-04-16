@@ -1,0 +1,18 @@
+# org.autoplot.servlet.SetLogLevelSecret function for adjusting the log level!
+ .../SetLogLevel?logger=autoplot.servlet&level=FINE&handler=T
+SetLogLevel( )
+
+
+***
+<a name="getServletInfo"></a>
+# getServletInfo
+getServletInfo(  ) &rarr; String
+
+Returns a short description of the servlet.
+
+### Returns:
+java.lang.String
+
+
+<a href="https://github.com/autoplot/dev/search?q=getServletInfo&unscoped_q=getServletInfo">[search for examples]</a>
+

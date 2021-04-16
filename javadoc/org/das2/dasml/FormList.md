@@ -1,0 +1,281 @@
+# org.das2.dasml.FormList
+FormList( String name )
+
+
+***
+<a name="addItem"></a>
+# addItem
+addItem( org.das2.dasml.ListOption o ) &rarr; void
+
+
+
+### Parameters:
+o - a ListOption
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=addItem&unscoped_q=addItem">[search for examples]</a>
+
+***
+<a name="addMouseListener"></a>
+# addMouseListener
+addMouseListener( java.awt.event.MouseListener l ) &rarr; void
+
+
+
+### Parameters:
+l - a MouseListener
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=addMouseListener&unscoped_q=addMouseListener">[search for examples]</a>
+
+***
+<a name="addMouseMotionListener"></a>
+# addMouseMotionListener
+addMouseMotionListener( java.awt.event.MouseMotionListener l ) &rarr; void
+
+
+
+### Parameters:
+l - a MouseMotionListener
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=addMouseMotionListener&unscoped_q=addMouseMotionListener">[search for examples]</a>
+
+***
+<a name="deregisterComponent"></a>
+# deregisterComponent
+deregisterComponent(  ) &rarr; void
+
+
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=deregisterComponent&unscoped_q=deregisterComponent">[search for examples]</a>
+
+***
+<a name="getDOMElement"></a>
+# getDOMElement
+getDOMElement( org.w3c.dom.Document document ) &rarr; Element
+
+
+
+### Parameters:
+document - a Document
+
+### Returns:
+org.w3c.dom.Element
+
+
+<a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
+
+***
+<a name="getDasApplication"></a>
+# getDasApplication
+getDasApplication(  ) &rarr; DasApplication
+
+
+
+### Returns:
+org.das2.DasApplication
+
+
+<a href="https://github.com/autoplot/dev/search?q=getDasApplication&unscoped_q=getDasApplication">[search for examples]</a>
+
+***
+<a name="getDasName"></a>
+# getDasName
+getDasName(  ) &rarr; String
+
+
+
+### Returns:
+java.lang.String
+
+
+<a href="https://github.com/autoplot/dev/search?q=getDasName&unscoped_q=getDasName">[search for examples]</a>
+
+***
+<a name="getDelimiter"></a>
+# getDelimiter
+getDelimiter(  ) &rarr; String
+
+
+
+### Returns:
+java.lang.String
+
+
+<a href="https://github.com/autoplot/dev/search?q=getDelimiter&unscoped_q=getDelimiter">[search for examples]</a>
+
+***
+<a name="getDnDSupport"></a>
+# getDnDSupport
+getDnDSupport(  ) &rarr; DnDSupport
+
+
+
+### Returns:
+org.das2.util.DnDSupport
+
+
+<a href="https://github.com/autoplot/dev/search?q=getDnDSupport&unscoped_q=getDnDSupport">[search for examples]</a>
+
+***
+<a name="getEditingMode"></a>
+# getEditingMode
+getEditingMode(  ) &rarr; boolean
+
+
+
+### Returns:
+boolean
+
+
+<a href="https://github.com/autoplot/dev/search?q=getEditingMode&unscoped_q=getEditingMode">[search for examples]</a>
+
+***
+<a name="getForm"></a>
+# getForm
+getForm(  ) &rarr; FormBase
+
+
+
+### Returns:
+org.das2.dasml.FormBase
+
+
+<a href="https://github.com/autoplot/dev/search?q=getForm&unscoped_q=getForm">[search for examples]</a>
+
+***
+<a name="getItem"></a>
+# getItem
+getItem( int index ) &rarr; ListOption
+
+
+
+### Parameters:
+index - an int
+
+### Returns:
+org.das2.dasml.ListOption
+
+
+<a href="https://github.com/autoplot/dev/search?q=getItem&unscoped_q=getItem">[search for examples]</a>
+
+***
+<a name="getItemCount"></a>
+# getItemCount
+getItemCount(  ) &rarr; int
+
+
+
+### Returns:
+int
+
+
+<a href="https://github.com/autoplot/dev/search?q=getItemCount&unscoped_q=getItemCount">[search for examples]</a>
+
+***
+<a name="getSelected"></a>
+# getSelected
+getSelected(  ) &rarr; String
+
+
+
+### Returns:
+java.lang.String
+
+
+<a href="https://github.com/autoplot/dev/search?q=getSelected&unscoped_q=getSelected">[search for examples]</a>
+
+***
+<a name="registerComponent"></a>
+# registerComponent
+registerComponent(  ) &rarr; void
+
+
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=registerComponent&unscoped_q=registerComponent">[search for examples]</a>
+
+***
+<a name="setDasName"></a>
+# setDasName
+setDasName( String name ) &rarr; void
+
+
+
+### Parameters:
+name - a String
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=setDasName&unscoped_q=setDasName">[search for examples]</a>
+
+***
+<a name="setDelimiter"></a>
+# setDelimiter
+setDelimiter( String delimiter ) &rarr; void
+
+
+
+### Parameters:
+delimiter - a String
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=setDelimiter&unscoped_q=setDelimiter">[search for examples]</a>
+
+***
+<a name="setEditingMode"></a>
+# setEditingMode
+setEditingMode( boolean b ) &rarr; void
+
+
+
+### Parameters:
+b - a boolean
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=setEditingMode&unscoped_q=setEditingMode">[search for examples]</a>
+
+***
+<a name="startDrag"></a>
+# startDrag
+startDrag( int x, int y, int action, java.awt.event.MouseEvent evt ) &rarr; boolean
+
+
+
+### Parameters:
+x - an int
+<br>y - an int
+<br>action - an int
+<br>evt - a MouseEvent
+
+### Returns:
+boolean
+
+
+<a href="https://github.com/autoplot/dev/search?q=startDrag&unscoped_q=startDrag">[search for examples]</a>
+
