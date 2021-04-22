@@ -67,6 +67,22 @@ conversion to Jython-like code.
 <a href="https://github.com/autoplot/dev/search?q=convertReverse&unscoped_q=convertReverse">[search for examples]</a>
 
 ***
+<a name="getJavaListType"></a>
+# getJavaListType
+getJavaListType( org.python.parser.ast.List list ) &rarr; String
+
+return the Java type to use for the list.
+
+### Parameters:
+list - an org.python.parser.ast.List
+
+### Returns:
+a String
+
+
+<a href="https://github.com/autoplot/dev/search?q=getJavaListType&unscoped_q=getJavaListType">[search for examples]</a>
+
+***
 <a name="guessCompletions"></a>
 # guessCompletions
 guessCompletions( String clas ) &rarr; List

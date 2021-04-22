@@ -69,7 +69,7 @@ org.autoplot.jythonsupport.JythonUtil.ScriptDescriptor
 getDocumentation( java.io.BufferedReader reader ) &rarr; Map
 
 scrape through the script looking for documentation declarations returns
- an array, possibly containing:<ul>
+ an map, possibly containing:<ul>
  <li>LABEL few words
  <li>TITLE sentence
  <li>DESCRIPTION short paragraph
@@ -84,9 +84,12 @@ reader - a BufferedReader
 
 ### Returns:
 the documentation found.
+### See Also:
+<a href='#getDocumentation'>getDocumentation(java.io.BufferedReader, java.net.URI)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getDocumentation&unscoped_q=getDocumentation">[search for examples]</a>
 
+getDocumentation( java.io.BufferedReader reader, java.net.URI resourceURI ) &rarr; Map<br>
 ***
 <a name="getGetDataSet"></a>
 # getGetDataSet

@@ -1,6 +1,22 @@
-# org.autoplot.jythonsupport.JavaJythonConverter
+# org.autoplot.jythonsupport.JavaJythonConverterConvenient tool for converting Java code found on-line into Jython
+ code which can be tinkered with.
 JavaJythonConverter( javax.swing.JEditorPane editor )
+
+
+JavaJythonConverter( javax.swing.JEditorPane editor, int direction )
 Creates new form JavaJythonConverter
+
+***
+<a name="DIR_JAVA_TO_JYTHON"></a>
+# DIR_JAVA_TO_JYTHON
+
+
+
+***
+<a name="DIR_JYTHON_TO_JAVA"></a>
+# DIR_JYTHON_TO_JAVA
+
+
 
 ***
 <a name="main"></a>
@@ -33,4 +49,20 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setJavaSource&unscoped_q=setJavaSource">[search for examples]</a>
+
+***
+<a name="setPythonSource"></a>
+# setPythonSource
+setPythonSource( String doThis ) &rarr; void
+
+
+
+### Parameters:
+doThis - a String
+
+### Returns:
+void (returns nothing)
+
+
+<a href="https://github.com/autoplot/dev/search?q=setPythonSource&unscoped_q=setPythonSource">[search for examples]</a>
 
