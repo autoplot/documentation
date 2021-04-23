@@ -38,7 +38,7 @@ def paint(g):
     g.color= Color.BLUE
     for i in xrange(0,1000,100):
         g.drawOval(500-i/2,500-i/2,i,i)
-addTopDecoration( dom.canvases[0], paint )
+addBottomDecoration( dom.canvases[0], paint )
 </small></pre></blockquote>
 
 ### Parameters:
