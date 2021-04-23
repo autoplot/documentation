@@ -35,10 +35,10 @@ add code that will paint custom graphics on the canvas or on a plot.
  decorations.
 <blockquote><pre><small>
 def paint(g):
+    g.color= Color.BLUE
     for i in xrange(0,1000,100):
         g.drawOval(500-i/2,500-i/2,i,i)
-
-addBottomDecoration( dom.canvases[0], paint )
+addTopDecoration( dom.canvases[0], paint )
 </small></pre></blockquote>
 
 ### Parameters:
