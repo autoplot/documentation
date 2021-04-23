@@ -1,5 +1,8 @@
-# org.autoplot.dom.BindingSupportIt is apparent that the overhead of BeansBinding is so great that a lightweight
+# org.autoplot.dom.BindingSupport
+
+It is apparent that the overhead of BeansBinding is so great that a lightweight
  binding engine would dramatically improve performance.  This encapsulates.
+
 ***
 <a name="toStringConverter"></a>
 # toStringConverter

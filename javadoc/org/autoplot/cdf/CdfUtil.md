@@ -1,5 +1,8 @@
-# org.autoplot.cdf.CdfUtilstatic methods supporting CdfFileDataSource
-CdfUtil( )
+# org.autoplot.cdf.CdfUtil
+
+static methods supporting CdfFileDataSource
+
+# CdfUtil( )
 Creates a new instance of CdfUtil
 
 ***

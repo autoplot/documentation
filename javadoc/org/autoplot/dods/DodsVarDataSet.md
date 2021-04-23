@@ -1,5 +1,8 @@
-# org.autoplot.dods.DodsVarDataSetAdapter from Dods DArray to look like QDataSet.
-DodsVarDataSet( DArray array )
+# org.autoplot.dods.DodsVarDataSet
+
+Adapter from Dods DArray to look like QDataSet.
+
+# DodsVarDataSet( DArray array )
 Creates a new instance of DodsVarDataSet
 
 ***

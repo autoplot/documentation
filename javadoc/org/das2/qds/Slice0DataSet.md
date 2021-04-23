@@ -1,4 +1,6 @@
-# org.das2.qds.Slice0DataSetWraps a rank N dataset, slicing on an index of the first dimension to make a rank N-1 dataset.
+# org.das2.qds.Slice0DataSet
+
+Wraps a rank N dataset, slicing on an index of the first dimension to make a rank N-1 dataset.
  This is currently used to implement DataSetOps.slice0().
  
  Slicing a rank 1 dataset results in a rank 0 dataset.
@@ -6,10 +8,11 @@
  Supports rank 2 depend_1 datasets.  Supports CONTEXT_0, DELTA_PLUS, DELTA_MINUS
 
  Supports BINS_1, JOIN_0
-Slice0DataSet( QDataSet ds, int index )
+
+# Slice0DataSet( QDataSet ds, int index )
 
 
-Slice0DataSet( QDataSet ds, int index, boolean addContext )
+# Slice0DataSet( QDataSet ds, int index, boolean addContext )
 
 
 ***

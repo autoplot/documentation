@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.DataSetUrlCompletionItemCompletions for the URI when (for example) getDataSet('http:&lt;C&gt;') is entered.
+# org.das2.jythoncompletion.DataSetUrlCompletionItem
+
+Completions for the URI when (for example) getDataSet('http:&lt;C&gt;') is entered.
+
 ***
 <a name="createDocumentationTask"></a>
 # createDocumentationTask

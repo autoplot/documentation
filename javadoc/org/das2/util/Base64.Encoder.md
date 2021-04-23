@@ -1,4 +1,6 @@
-# org.das2.util.Base64.EncoderThis class implements an encoder for encoding byte data using
+# org.das2.util.Base64.Encoder
+
+This class implements an encoder for encoding byte data using
  the Base64 encoding scheme as specified in RFC 4648 and RFC 2045.
 
  <p> Instances of {@link Encoder} class are safe for use by
@@ -8,6 +10,7 @@
  a method of this class will cause a
  {@link java.lang.NullPointerException NullPointerException} to
  be thrown.
+
 ***
 <a name="encode"></a>
 # encode

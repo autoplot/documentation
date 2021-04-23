@@ -1,6 +1,9 @@
-# org.autoplot.servlet.URITemplatesServletURI Templates servlet implements the hybrid generate/parse method
+# org.autoplot.servlet.URITemplatesServlet
+
+URI Templates servlet implements the hybrid generate/parse method
  for resolving URIs.
-URITemplatesServlet( )
+
+# URITemplatesServlet( )
 
 
 ***

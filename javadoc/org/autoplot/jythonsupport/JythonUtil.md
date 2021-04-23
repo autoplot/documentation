@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.JythonUtilUtilities to support Jython scripting.
-JythonUtil( )
+# org.autoplot.jythonsupport.JythonUtil
+
+Utilities to support Jython scripting.
+
+# JythonUtil( )
 
 
 ***

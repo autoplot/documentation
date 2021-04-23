@@ -1,5 +1,8 @@
 # org.das2.qds.filters.BinAverage2dFilterEditorPanel
-BinAverage2dFilterEditorPanel( )
+
+
+
+# BinAverage2dFilterEditorPanel( )
 Creates new form BinAverage2dFilterEditorPanel
 
 ***

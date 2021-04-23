@@ -1,4 +1,7 @@
-# org.das2.dasml.FormListBeanInfoBeanInfo class for FormList
-FormListBeanInfo( )
+# org.das2.dasml.FormListBeanInfo
+
+BeanInfo class for FormList
+
+# FormListBeanInfo( )
 
 

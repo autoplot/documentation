@@ -1,5 +1,8 @@
-# org.das2.datum.LeapSecondsConverterTT2000 converter that takes leap seconds into account from us2000.
-LeapSecondsConverter( boolean us2000ToTT2000 )
+# org.das2.datum.LeapSecondsConverter
+
+TT2000 converter that takes leap seconds into account from us2000.
+
+# LeapSecondsConverter( boolean us2000ToTT2000 )
 
 
 ***

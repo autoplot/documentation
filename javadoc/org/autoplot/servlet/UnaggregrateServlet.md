@@ -1,8 +1,11 @@
-# org.autoplot.servlet.UnaggregrateServletThis provides a generic method for adding a function to the server via Jython scripts.  Introduced
+# org.autoplot.servlet.UnaggregrateServlet
+
+This provides a generic method for adding a function to the server via Jython scripts.  Introduced
  to support wildcard-de-globing, this could be used for a number of different ways.
 
  http://localhost:8084/AutoplotServlet/ScriptServlet2?resourceURI=http://autoplot.org/data/versioning/data_$Y_$m_$d_v$v.qds&timerange=2010-03
-UnaggregrateServlet( )
+
+# UnaggregrateServlet( )
 
 
 ***

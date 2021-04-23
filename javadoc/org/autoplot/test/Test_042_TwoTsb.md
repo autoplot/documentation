@@ -1,6 +1,9 @@
-# org.autoplot.test.Test_042_TwoTsbTest building a configuration with two TSBs listening to the context property of
+# org.autoplot.test.Test_042_TwoTsb
+
+Test building a configuration with two TSBs listening to the context property of
  each plot.
-Test_042_TwoTsb( )
+
+# Test_042_TwoTsb( )
 
 
 ***

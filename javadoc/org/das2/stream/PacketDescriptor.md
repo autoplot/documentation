@@ -1,12 +1,15 @@
-# org.das2.stream.PacketDescriptorRepresents the global properties of the stream, that are accessible to
+# org.das2.stream.PacketDescriptor
+
+Represents the global properties of the stream, that are accessible to
  datasets within.
-PacketDescriptor( org.w3c.dom.Element element )
+
+# PacketDescriptor( org.w3c.dom.Element element )
 creates a new PacketDescriptor
 
-PacketDescriptor( int id, org.w3c.dom.Element element )
+# PacketDescriptor( int id, org.w3c.dom.Element element )
 creates a new PacketDescriptor
 
-PacketDescriptor( )
+# PacketDescriptor( )
 
 
 ***

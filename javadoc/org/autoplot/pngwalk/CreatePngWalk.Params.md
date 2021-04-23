@@ -1,5 +1,8 @@
-# org.autoplot.pngwalk.CreatePngWalk.Paramsparameters specifying the creation of a pngwalk.
-Params( )
+# org.autoplot.pngwalk.CreatePngWalk.Params
+
+parameters specifying the creation of a pngwalk.
+
+# Params( )
 
 
 ***

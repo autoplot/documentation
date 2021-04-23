@@ -1,10 +1,13 @@
-# org.das2.qds.util.AutoHistogramSelf-configuring histogram dynamically adjusts range and bin size as data
+# org.das2.qds.util.AutoHistogram
+
+Self-configuring histogram dynamically adjusts range and bin size as data
  is added.  Also it tries to identify outlier points, which are available
  as a {@code Map<Double,Integer>} going from value to number observed.  Also for
  each bin, we keep track of a running mean and variance, which are useful for
  identifying continuous bins and total moments.  Introduced to support
  automatic cadence algorithm, should be generally useful in data discovery.
-AutoHistogram( )
+
+# AutoHistogram( )
 
 
 ***

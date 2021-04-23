@@ -1,4 +1,6 @@
-# org.das2.util.LatexToGrannyLightweight converter for LaTeX expressions to Granny strings, for the
+# org.das2.util.LatexToGranny
+
+Lightweight converter for LaTeX expressions to Granny strings, for the
  MMS mission.  This handles strings like:<ul>
  <li> cm^{-3} 
  <li> nA/m^{2} 
@@ -6,7 +8,8 @@
  <li> \sqrt{a + b}  (This is not handled by the IDL library either.)
  </ul>
  The IDL project that minimally specifies is: TeXtoIDL, at http://physics.mnstate.edu/craig/textoidl/
-LatexToGranny( )
+
+# LatexToGranny( )
 
 
 ***

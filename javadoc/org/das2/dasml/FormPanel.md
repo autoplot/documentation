@@ -1,6 +1,9 @@
-# org.das2.dasml.FormPanelA subclass of JPanel to override the default Beans properties of
+# org.das2.dasml.FormPanel
+
+A subclass of JPanel to override the default Beans properties of
  a JPanel
-FormPanel( )
+
+# FormPanel( )
 Empty constructor for use with super classes.
 
 ***

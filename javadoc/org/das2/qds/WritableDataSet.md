@@ -1,4 +1,6 @@
-# org.das2.qds.WritableDataSetSome QDataSets are be mutable as well, meaning their values can be assigned
+# org.das2.qds.WritableDataSet
+
+Some QDataSets are be mutable as well, meaning their values can be assigned
  as well as read.  In addition to the value() method they have putValue() methods.
  These datasets cannot be written to once they are made 
  immutable by calling the makeImmutable() of MutablePropertyDataSet, and clients 
@@ -8,6 +10,7 @@
  Mutable datasets warning: No dataset should be mutable once it is accessible to the
  rest of the system.  This would require clients make defensive copies which would 
  seriously degrade performance.
+
 ***
 <a name="putValue"></a>
 # putValue

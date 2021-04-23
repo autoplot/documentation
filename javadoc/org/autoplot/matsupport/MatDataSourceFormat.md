@@ -1,6 +1,9 @@
-# org.autoplot.matsupport.MatDataSourceFormatExport to .mat file for easy import into Matlab.  rank 1 datasets, rank 2 datasets, rank 3 datasets, and rank 2 bundles are supported.
+# org.autoplot.matsupport.MatDataSourceFormat
+
+Export to .mat file for easy import into Matlab.  rank 1 datasets, rank 2 datasets, rank 3 datasets, and rank 2 bundles are supported.
  jmatio library is used to format the files:  https://github.com/gradusnikov/jmatio/ copied on 2018-07-28.
-MatDataSourceFormat( )
+
+# MatDataSourceFormat( )
 
 
 ***

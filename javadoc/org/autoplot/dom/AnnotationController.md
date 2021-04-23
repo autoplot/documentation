@@ -1,5 +1,8 @@
-# org.autoplot.dom.AnnotationControllerimplements the annotation
-AnnotationController( org.autoplot.dom.Application dom, org.autoplot.dom.Annotation annotation, org.das2.graph.DasAnnotation dasAnnotation )
+# org.autoplot.dom.AnnotationController
+
+implements the annotation
+
+# AnnotationController( org.autoplot.dom.Application dom, org.autoplot.dom.Annotation annotation, org.das2.graph.DasAnnotation dasAnnotation )
 
 
 ***

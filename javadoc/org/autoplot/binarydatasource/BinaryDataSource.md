@@ -1,7 +1,10 @@
-# org.autoplot.binarydatasource.BinaryDataSourceBinaryDataSource returns data backed by binary data files.  Data
+# org.autoplot.binarydatasource.BinaryDataSource
+
+BinaryDataSource returns data backed by binary data files.  Data
  is downloaded using the usual mechanisms, then mapped into memory
  using Java NIO, and presented as a QDataSet using BufferDataSet.
-BinaryDataSource( java.net.URI uri )
+
+# BinaryDataSource( java.net.URI uri )
 
 
 ***

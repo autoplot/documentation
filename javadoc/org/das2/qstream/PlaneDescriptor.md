@@ -1,6 +1,9 @@
-# org.das2.qstream.PlaneDescriptorDescribes one of the bundled elements, for example one QDataSet,
+# org.das2.qstream.PlaneDescriptor
+
+Describes one of the bundled elements, for example one QDataSet,
  within a packet.
-PlaneDescriptor( )
+
+# PlaneDescriptor( )
 
 
 ***

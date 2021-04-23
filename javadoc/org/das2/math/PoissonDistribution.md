@@ -1,5 +1,8 @@
-# org.das2.math.PoissonDistributionClass for generating numbers from a Poisson distribution.
-PoissonDistribution( )
+# org.das2.math.PoissonDistribution
+
+Class for generating numbers from a Poisson distribution.
+
+# PoissonDistribution( )
 
 
 ***

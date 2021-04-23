@@ -1,10 +1,13 @@
-# org.autoplot.datasource.WindowManagerKeep track of window positions.  Windows should be passed by this class
+# org.autoplot.datasource.WindowManager
+
+Keep track of window positions.  Windows should be passed by this class
  before they are realized, and the name property of the dialog will be 
  used to look up the last size and position.  When the window has a parent,
  the position is stored relative to the parent.  Finally when a window
  is dismissed, this class should be called again so that the 
  position is kept.
-WindowManager( )
+
+# WindowManager( )
 
 
 ***

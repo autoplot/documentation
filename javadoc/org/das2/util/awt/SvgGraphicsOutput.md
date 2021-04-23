@@ -1,5 +1,8 @@
 # org.das2.util.awt.SvgGraphicsOutput
-SvgGraphicsOutput( )
+
+
+
+# SvgGraphicsOutput( )
 Creates a new instance of SVGGraphicsOutput
 
 ***

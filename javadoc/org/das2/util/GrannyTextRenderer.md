@@ -1,4 +1,6 @@
-# org.das2.util.GrannyTextRendererUtility class for rendering "Granny" strings, which use the codes
+# org.das2.util.GrannyTextRenderer
+
+Utility class for rendering "Granny" strings, which use the codes
  identified by Grandle and Nystrom in their 1980 paper to provide 
  rich formatting such as new lines and superscripts.
  These are strings like "E=mc!e2" where the !e indicates the pen should be 
@@ -22,7 +24,8 @@
    </pre>
  For Greek and math symbols, Unicode characters should be
  used like so: &amp;#9742; (&#9742 phone symbol), or symbols like <tt>&amp;Omega;</tt> and <tt>&amp;omega;</tt>
-GrannyTextRenderer( )
+
+# GrannyTextRenderer( )
 
 
 ***

@@ -1,7 +1,10 @@
-# org.autoplot.AddSampListenerListener for the Cluster Final Archive SAMP protocol.  Other clients
+# org.autoplot.AddSampListener
+
+Listener for the Cluster Final Archive SAMP protocol.  Other clients
  include the SOHO archive viewer, and Ulysses, will include the
  Cluster Final Archive viewer.
-AddSampListener( )
+
+# AddSampListener( )
 
 
 ***

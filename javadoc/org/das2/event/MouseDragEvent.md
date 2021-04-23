@@ -1,8 +1,11 @@
 # org.das2.event.MouseDragEvent
-MouseDragEvent( Object source )
 
 
-MouseDragEvent( Object source, org.das2.event.Gesture gesture )
+
+# MouseDragEvent( Object source )
+
+
+# MouseDragEvent( Object source, org.das2.event.Gesture gesture )
 
 
 ***

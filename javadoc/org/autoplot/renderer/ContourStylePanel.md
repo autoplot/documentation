@@ -1,5 +1,8 @@
-# org.autoplot.renderer.ContourStylePanelGUI for controlling a ContoursRenderer.
-ContourStylePanel( )
+# org.autoplot.renderer.ContourStylePanel
+
+GUI for controlling a ContoursRenderer.
+
+# ContourStylePanel( )
 Creates new form ContourStylePanel
 
 ***

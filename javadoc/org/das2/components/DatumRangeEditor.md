@@ -1,5 +1,8 @@
 # org.das2.components.DatumRangeEditor
-DatumRangeEditor( )
+
+
+
+# DatumRangeEditor( )
 Creates a new instance of DatumEditor
 
 ***

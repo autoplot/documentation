@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.VFSFileSystemFileSystem provides additional abstraction to Apache VFS to implement das2 FileSystems, and provide
+# org.das2.util.filesystem.VFSFileSystem
+
+FileSystem provides additional abstraction to Apache VFS to implement das2 FileSystems, and provide
  SFTP access.
+
 ***
 <a name="close"></a>
 # close

@@ -1,4 +1,7 @@
-# org.das2.dataset.WeightsVectorDataSetDataSet with non-zero values when the source data is valid.
+# org.das2.dataset.WeightsVectorDataSet
+
+DataSet with non-zero values when the source data is valid.
+
 ***
 <a name="create"></a>
 # create

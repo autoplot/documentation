@@ -1,4 +1,6 @@
-# org.autoplot.dom.ChangesSupportSupport class for encapsulating implementation of pendingChanges and mutator locks.
+# org.autoplot.dom.ChangesSupport
+
+Support class for encapsulating implementation of pendingChanges and mutator locks.
 
  PendingChanges are a way of notifying the bean and other clients using the bean that changes are coming to
  the bean.  Clients should use registerPendingChange to indicate that changes are coming.
@@ -12,6 +14,7 @@
  and clients must check valueIsAdjusting to see if another lock is out.
 
  See http://das2.org/wiki/index.php/Pending_changes
+
 ***
 <a name="PROP_PENDINGCHANGES"></a>
 # PROP_PENDINGCHANGES

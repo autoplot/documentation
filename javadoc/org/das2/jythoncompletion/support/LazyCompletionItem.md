@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.support.LazyCompletionItemThe interface representing a completion item with lazy initialization
+# org.das2.jythoncompletion.support.LazyCompletionItem
+
+The interface representing a completion item with lazy initialization
+
 ***
 <a name="accept"></a>
 # accept

@@ -1,4 +1,6 @@
-# org.das2.dataset.parser.VectorDataSetParserClass for reading ascii tables into a VectorDataSet.  This parses a
+# org.das2.dataset.parser.VectorDataSetParser
+
+Class for reading ascii tables into a VectorDataSet.  This parses a
  file by looking at each line to see if it matches one of
  two Patterns: one for properties and one for records.  If a record matched,
  then the record is matched and fields pulled out, parsed and insered a
@@ -7,6 +9,7 @@
  NAME_EQUAL_VALUE_PATTERN for convenience.  The record pattern is currently
  the number of fields identified with whitespace in between.  Note the X
  tags are just the record numbers.
+
 ***
 <a name="NAME_COLON_VALUE_PATTERN"></a>
 # NAME_COLON_VALUE_PATTERN

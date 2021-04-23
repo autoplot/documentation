@@ -1,4 +1,6 @@
-# org.autoplot.ascii.AsciiTableDataSourceDataSource for reading data in ASCII files, where each record is 
+# org.autoplot.ascii.AsciiTableDataSource
+
+DataSource for reading data in ASCII files, where each record is 
  one line of the file, and each record has the same number of fields.  
  This reads in each record and splits on the delimiter, which is typically
  guessed by examining the first 5 viable records.  This also supports
@@ -10,7 +12,8 @@
  Last, a three or four column ASCII file containing two ISO8601 strings 
  for the first two columns is automatically treated as an "events list",
  a list of named intervals.
-AsciiTableDataSource( java.net.URI uri )
+
+# AsciiTableDataSource( java.net.URI uri )
 Creates a new instance of AsciiTableDataSource
 
 ***

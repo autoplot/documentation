@@ -1,5 +1,8 @@
 # org.autoplot.pngwalk.CoversWalkView
-CoversWalkView( org.autoplot.pngwalk.WalkImageSequence sequence )
+
+
+
+# CoversWalkView( org.autoplot.pngwalk.WalkImageSequence sequence )
 
 
 ***

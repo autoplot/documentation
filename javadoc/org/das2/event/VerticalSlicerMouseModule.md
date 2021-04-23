@@ -1,5 +1,8 @@
 # org.das2.event.VerticalSlicerMouseModule
-VerticalSlicerMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.dataset.DataSetConsumer dataSetConsumer, org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
+
+
+
+# VerticalSlicerMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.dataset.DataSetConsumer dataSetConsumer, org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
 
 
 ***

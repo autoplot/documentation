@@ -1,5 +1,8 @@
 # org.autoplot.pngwalk.RowPngWalkView
-RowPngWalkView( org.autoplot.pngwalk.WalkImageSequence sequence )
+
+
+
+# RowPngWalkView( org.autoplot.pngwalk.WalkImageSequence sequence )
 
 
 ***

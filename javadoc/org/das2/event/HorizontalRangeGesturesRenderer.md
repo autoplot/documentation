@@ -1,5 +1,8 @@
 # org.das2.event.HorizontalRangeGesturesRenderer
-HorizontalRangeGesturesRenderer( org.das2.graph.DasCanvasComponent parent )
+
+
+
+# HorizontalRangeGesturesRenderer( org.das2.graph.DasCanvasComponent parent )
 
 
 ***

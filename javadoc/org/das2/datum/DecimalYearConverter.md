@@ -1,5 +1,8 @@
-# org.das2.datum.DecimalYearConverterconverts decimal years to us2000.
-DecimalYearConverter( boolean us2000ToDecimalYear )
+# org.das2.datum.DecimalYearConverter
+
+converts decimal years to us2000.
+
+# DecimalYearConverter( boolean us2000ToDecimalYear )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.qds.OperationsProcessorExtract the sprocess from DataSetOps.
-OperationsProcessor( )
+# org.das2.qds.OperationsProcessor
+
+Extract the sprocess from DataSetOps.
+
+# OperationsProcessor( )
 
 
 ***

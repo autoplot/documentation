@@ -1,6 +1,9 @@
-# org.autoplot.wav.WavDataSource2This version of the DataSource works by wrapping BinaryDataSource.  It
+# org.autoplot.wav.WavDataSource2
+
+This version of the DataSource works by wrapping BinaryDataSource.  It
  reads in the wav header, then creates a URI for the BinaryDataSource.
-WavDataSource2( java.net.URI uri )
+
+# WavDataSource2( java.net.URI uri )
 
 
 ***

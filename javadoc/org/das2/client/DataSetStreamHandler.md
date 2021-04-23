@@ -1,5 +1,8 @@
 # org.das2.client.DataSetStreamHandler
-DataSetStreamHandler( java.util.Map extraProperties, ProgressMonitor monitor )
+
+
+
+# DataSetStreamHandler( java.util.Map extraProperties, ProgressMonitor monitor )
 create a DataSetStreamHandler.
 
 ***

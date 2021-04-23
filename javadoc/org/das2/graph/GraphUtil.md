@@ -1,8 +1,11 @@
-# org.das2.graph.GraphUtilUtilities for drawing graphics and establishing standard behavior.
+# org.das2.graph.GraphUtil
+
+Utilities for drawing graphics and establishing standard behavior.
  This provides functions to get a 16x16 icon for a color, getting a Path
  from a series of data points, and a "visualize" method for simply looking at
  some data.
-GraphUtil( )
+
+# GraphUtil( )
 
 
 ***

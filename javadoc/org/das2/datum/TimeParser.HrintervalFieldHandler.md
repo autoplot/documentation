@@ -1,5 +1,8 @@
-# org.das2.datum.TimeParser.HrintervalFieldHandler$(hrinterval;names=a,b,c,d)  "b" &rarr; "06:00/12:00"
-HrintervalFieldHandler( )
+# org.das2.datum.TimeParser.HrintervalFieldHandler
+
+$(hrinterval;names=a,b,c,d)  "b" &rarr; "06:00/12:00"
+
+# HrintervalFieldHandler( )
 
 
 ***

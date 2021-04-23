@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.WebFileSystemBase class for HTTP and FTP-based filesystems.  A local cache is kept of
+# org.das2.util.filesystem.WebFileSystem
+
+Base class for HTTP and FTP-based filesystems.  A local cache is kept of
  the files.
+
 ***
 <a name="LISTING_TIMEOUT_MS"></a>
 # LISTING_TIMEOUT_MS

@@ -1,8 +1,11 @@
-# org.das2.qds.Slice3DataSetreturn a rank N-1 dataset from a rank N dataset by slicing on the fourth
+# org.das2.qds.Slice3DataSet
+
+return a rank N-1 dataset from a rank N dataset by slicing on the fourth
  dimension.  (Rank 4 supported.)
  
  plane datasets are sliced as well, when they have rank 4 or greater.
-Slice3DataSet( QDataSet ds, int index )
+
+# Slice3DataSet( QDataSet ds, int index )
 
 
 ***

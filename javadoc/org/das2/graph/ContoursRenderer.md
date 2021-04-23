@@ -1,5 +1,8 @@
-# org.das2.graph.ContoursRendererRenderer for making contour plots.
-ContoursRenderer( )
+# org.das2.graph.ContoursRenderer
+
+Renderer for making contour plots.
+
+# ContoursRenderer( )
 
 
 ***

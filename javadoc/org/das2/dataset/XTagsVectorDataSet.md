@@ -1,6 +1,9 @@
-# org.das2.dataset.XTagsVectorDataSetCreate a VectorDataSet that is the X Tags of another DataSet.  This is useful
+# org.das2.dataset.XTagsVectorDataSet
+
+Create a VectorDataSet that is the X Tags of another DataSet.  This is useful
  for unifying the CurveRenderer and SymbolLineRenderer codes.
-XTagsVectorDataSet( org.das2.dataset.DataSet dataset )
+
+# XTagsVectorDataSet( org.das2.dataset.DataSet dataset )
 Creates a new instance of XTagsVectorDataSet
 
 ***

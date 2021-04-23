@@ -1,5 +1,8 @@
 # org.autoplot.TcaElementDialog
-TcaElementDialog( java.awt.Frame parent, boolean modal )
+
+
+
+# TcaElementDialog( java.awt.Frame parent, boolean modal )
 Creates new form AddPlotElementDialog
 
 ***

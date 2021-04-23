@@ -1,5 +1,8 @@
-# org.autoplot.layout.LayoutConstantsConstants for specifying layout
-LayoutConstants( )
+# org.autoplot.layout.LayoutConstants
+
+Constants for specifying layout
+
+# LayoutConstants( )
 
 
 ***

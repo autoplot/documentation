@@ -1,11 +1,14 @@
 # org.das2.graph.dnd.TransferableCanvasComponent
-TransferableCanvasComponent( org.das2.graph.DasAxis axis )
 
 
-TransferableCanvasComponent( org.das2.graph.DasPlot plot )
+
+# TransferableCanvasComponent( org.das2.graph.DasAxis axis )
 
 
-TransferableCanvasComponent( org.das2.graph.DasColorBar cb )
+# TransferableCanvasComponent( org.das2.graph.DasPlot plot )
+
+
+# TransferableCanvasComponent( org.das2.graph.DasColorBar cb )
 
 
 ***

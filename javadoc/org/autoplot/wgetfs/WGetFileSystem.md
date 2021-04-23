@@ -1,6 +1,9 @@
-# org.autoplot.wgetfs.WGetFileSystemwget-based filesystem uses unix wget command.  This was immediately
+# org.autoplot.wgetfs.WGetFileSystem
+
+wget-based filesystem uses unix wget command.  This was immediately
  extended to add support for curl, which comes with macs.
-WGetFileSystem( java.net.URI root, java.io.File localRoot )
+
+# WGetFileSystem( java.net.URI root, java.io.File localRoot )
 
 
 ***

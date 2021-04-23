@@ -1,5 +1,8 @@
-# org.das2.dasml.FormContainerA subclass of JPanel to override the default Beans properties of
+# org.das2.dasml.FormContainer
+
+A subclass of JPanel to override the default Beans properties of
  a JPanel
+
 ***
 <a name="deregisterComponent"></a>
 # deregisterComponent

@@ -1,4 +1,6 @@
-# org.das2.system.NullPreferencesFactoryCreates NullPreferences for use with applets.  The system property 
+# org.das2.system.NullPreferencesFactory
+
+Creates NullPreferences for use with applets.  The system property 
  java.util.prefs.PreferencesFactory should be set to
  org.das2.system.NullPreferencesFactory to use this class.
  
@@ -9,7 +11,8 @@
  
  I'm not sure where I found this solution originally, but here is a nice writeup:
      http://www.allaboutbalance.com/articles/disableprefs/
-NullPreferencesFactory( )
+
+# NullPreferencesFactory( )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.autoplot.wav.WavDataSourceFormatEditorPanel
-WavDataSourceFormatEditorPanel( )
+
+
+
+# WavDataSourceFormatEditorPanel( )
 Creates new form BinaryDataSourceFormatEditorPanel
 
 ***

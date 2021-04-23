@@ -1,6 +1,9 @@
-# org.das2.qds.util.FFTUtilUtilities for FFT operations, such as getting the frequencies for each bin
+# org.das2.qds.util.FFTUtil
+
+Utilities for FFT operations, such as getting the frequencies for each bin
  and fftPower.
-FFTUtil( )
+
+# FFTUtil( )
 
 
 ***

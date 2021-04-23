@@ -1,5 +1,8 @@
-# org.das2.qds.DataSetIteratorIterator for accessing each value of a dataset.
+# org.das2.qds.DataSetIterator
+
+Iterator for accessing each value of a dataset.
  See http://jfaden.net:8080/hudson/job/autoplot-test037/ws/dataSetIterator.jy
+
 ***
 <a name="createEmptyDs"></a>
 # createEmptyDs

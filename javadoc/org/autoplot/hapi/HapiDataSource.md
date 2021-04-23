@@ -1,5 +1,8 @@
-# org.autoplot.hapi.HapiDataSourceHAPI data source uses transactions with HAPI servers to collect data.
-HapiDataSource( java.net.URI uri )
+# org.autoplot.hapi.HapiDataSource
+
+HAPI data source uses transactions with HAPI servers to collect data.
+
+# HapiDataSource( java.net.URI uri )
 
 
 ***

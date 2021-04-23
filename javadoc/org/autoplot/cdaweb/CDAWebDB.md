@@ -1,5 +1,8 @@
-# org.autoplot.cdaweb.CDAWebDBClass for encapsulating the functions of the database
-CDAWebDB( )
+# org.autoplot.cdaweb.CDAWebDB
+
+Class for encapsulating the functions of the database
+
+# CDAWebDB( )
 
 
 ***

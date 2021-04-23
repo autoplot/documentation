@@ -1,5 +1,8 @@
 # org.autoplot.renderer.InternalStylePanel
-InternalStylePanel( )
+
+
+
+# InternalStylePanel( )
 Creates new form InternalStylePanel
 
 ***

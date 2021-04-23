@@ -1,5 +1,8 @@
-# org.das2.qds.filters.TreeUtilFrom http://www.javalobby.org/java/forums/t19857.html
-TreeUtil( )
+# org.das2.qds.filters.TreeUtil
+
+From http://www.javalobby.org/java/forums/t19857.html
+
+# TreeUtil( )
 
 
 ***

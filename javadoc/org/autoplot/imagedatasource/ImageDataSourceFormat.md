@@ -1,4 +1,6 @@
-# org.autoplot.imagedatasource.ImageDataSourceFormatFormat data to RGB images, or ARGB images.
+# org.autoplot.imagedatasource.ImageDataSourceFormat
+
+Format data to RGB images, or ARGB images.
  Formatter presumes data is:<ul>
  <li>(m,n,4) for ARGB 
  <li>(3,m,n) RGB. (this should not be used)
@@ -6,7 +8,8 @@
  </ul>
  When data is (m,n,4) then ds[:,:,0] should be the alpha channel,
  [:,:,1] should be the red channel, and so on.
-ImageDataSourceFormat( )
+
+# ImageDataSourceFormat( )
 
 
 ***

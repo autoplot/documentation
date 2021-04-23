@@ -1,4 +1,6 @@
-# org.das2.dataset.DataSetDescriptorDataSetDescriptors are a source from where datasets are produced.  These uniquely identify a data set
+# org.das2.dataset.DataSetDescriptor
+
+DataSetDescriptors are a source from where datasets are produced.  These uniquely identify a data set
  that is parameteric.  Typically, the parameter is time, so for example, there might be a DataSetDescriptor
  for "discharge of the Iowa River measured at Iowa City."  Clients of the class get
  DataSets from the DataSetDescriptor via the getDataSet( Start, End, Resolution ) method.  So for
@@ -16,6 +18,7 @@
    class    refers to a loadable java class that is an instanceof DataSetDescriptor and
             has the method newDataSetDescriptor( Map params ) throws DasException
 </pre>
+
 ***
 <a name="addDataSetUpdateListener"></a>
 # addDataSetUpdateListener

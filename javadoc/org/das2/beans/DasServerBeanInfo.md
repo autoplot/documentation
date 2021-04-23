@@ -1,4 +1,7 @@
-# org.das2.beans.DasServerBeanInfoBean Info implementation for DasDevicePosition
-DasServerBeanInfo( )
+# org.das2.beans.DasServerBeanInfo
+
+Bean Info implementation for DasDevicePosition
+
+# DasServerBeanInfo( )
 
 

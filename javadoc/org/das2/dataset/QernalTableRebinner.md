@@ -1,5 +1,8 @@
 # org.das2.dataset.QernalTableRebinner
-QernalTableRebinner( org.das2.dataset.QernalTableRebinner.QernalFactory factory )
+
+
+
+# QernalTableRebinner( org.das2.dataset.QernalTableRebinner.QernalFactory factory )
 
 
 ***

@@ -1,4 +1,6 @@
-# org.das2.event.MouseModuleA MouseModule is a pluggable unit that promotes simple
+# org.das2.event.MouseModule
+
+A MouseModule is a pluggable unit that promotes simple
  mouse events into human events or actions that are useful
  for science analysis.  Each component has a mouseInputAdapter
  that manages a set of mouseModules, one is active at any
@@ -9,13 +11,14 @@
  
  This base class will be extended by instances of MouseModule, overriding
  methods they wish to handle.
-MouseModule( org.das2.graph.DasCanvasComponent parent )
+
+# MouseModule( org.das2.graph.DasCanvasComponent parent )
 create the mouse module for the parent component.  This is 
  without a drag renderer, and the class name is used
  for the label.
  paint graphic feedback to the human operator.
 
-MouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.event.DragRenderer dragRenderer, String label )
+# MouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.event.DragRenderer dragRenderer, String label )
 create the mouse module for the parent component using the dragRenderer to
  paint graphic feedback to the human operator.  For example, the 
  dragRenderer might draw a box during the click-drag-release mouse action,

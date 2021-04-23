@@ -1,6 +1,9 @@
-# org.das2.qds.ReverseDataSetreverses the order of the elements of the dataset.  If there is a DEPEND_0,
+# org.das2.qds.ReverseDataSet
+
+reverses the order of the elements of the dataset.  If there is a DEPEND_0,
  high-rank DEPEND properties, or BUNDLE_0, they are reversed as well.
-ReverseDataSet( QDataSet source )
+
+# ReverseDataSet( QDataSet source )
 
 
 ***

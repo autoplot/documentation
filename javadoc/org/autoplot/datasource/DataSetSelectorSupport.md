@@ -1,4 +1,7 @@
-# org.autoplot.datasource.DataSetSelectorSupportAdditional actions for the DataSetSelector.
+# org.autoplot.datasource.DataSetSelectorSupport
+
+Additional actions for the DataSetSelector.
+
 ***
 <a name="browseLocal"></a>
 # browseLocal

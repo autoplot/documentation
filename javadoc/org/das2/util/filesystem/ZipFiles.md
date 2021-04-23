@@ -1,6 +1,9 @@
-# org.das2.util.filesystem.ZipFilesclass taken from http://www.journaldev.com/957/java-zip-file-folder-example,
+# org.das2.util.filesystem.ZipFiles
+
+class taken from http://www.journaldev.com/957/java-zip-file-folder-example,
  thanks Pankaj.
-ZipFiles( )
+
+# ZipFiles( )
 
 
 ***

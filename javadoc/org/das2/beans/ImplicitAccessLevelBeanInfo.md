@@ -1,5 +1,8 @@
-# org.das2.beans.ImplicitAccessLevelBeanInfoImplicitAccessLevelBeanInfo makes any BeanInfo class look like an AccessLevelBeanInfo by implementing
+# org.das2.beans.ImplicitAccessLevelBeanInfo
+
+ImplicitAccessLevelBeanInfo makes any BeanInfo class look like an AccessLevelBeanInfo by implementing
  the default access level and persistence level settings.
+
 ***
 <a name="create"></a>
 # create

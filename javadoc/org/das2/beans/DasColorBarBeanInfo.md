@@ -1,5 +1,8 @@
-# org.das2.beans.DasColorBarBeanInfoBeanInfo class for DasColorBar
-DasColorBarBeanInfo( )
+# org.das2.beans.DasColorBarBeanInfo
+
+BeanInfo class for DasColorBar
+
+# DasColorBarBeanInfo( )
 
 
 ***

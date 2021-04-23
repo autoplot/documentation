@@ -1,4 +1,6 @@
-# org.das2.system.RequestProcessorUtility class for synchronous execution.
+# org.das2.system.RequestProcessor
+
+Utility class for synchronous execution.
  This class maintains a pool of threads that are used to execute arbitrary
  code.  This class also serves as a central place to catch and handle
  unchecked exceptions.
@@ -20,6 +22,7 @@
  after that invokeAfter request begins.  The {@link #waitFor(java.lang.Object)}
  method will cause the calling thread to block until all requests with the
  specified lock finish.
+
 ***
 <a name="invokeAfter"></a>
 # invokeAfter

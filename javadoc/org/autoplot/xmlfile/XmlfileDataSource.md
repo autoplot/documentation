@@ -1,5 +1,8 @@
-# org.autoplot.xmlfile.XmlfileDataSourceReads the XML and delegates to SPASE, HELM, or VOTABLE, and soon more.
-XmlfileDataSource( java.net.URI uri )
+# org.autoplot.xmlfile.XmlfileDataSource
+
+Reads the XML and delegates to SPASE, HELM, or VOTABLE, and soon more.
+
+# XmlfileDataSource( java.net.URI uri )
 
 
 ***

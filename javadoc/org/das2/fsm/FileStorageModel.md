@@ -1,10 +1,13 @@
-# org.das2.fsm.FileStorageModelRepresents a method for storing data sets in a set of files by time.  The
+# org.das2.fsm.FileStorageModel
+
+Represents a method for storing data sets in a set of files by time.  The
  client provides a regex for the files and how each group of the regex is
  interpreted as a time digit.  The model can then be used to provide the set
  of files that cover a time range, etc.
 
  This new implementation uses a TimeParser object to more quickly process 
  file names.
+
 ***
 <a name="cacheCleanup"></a>
 # cacheCleanup

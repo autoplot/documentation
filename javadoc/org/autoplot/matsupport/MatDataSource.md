@@ -1,5 +1,8 @@
-# org.autoplot.matsupport.MatDataSourceRead data from legacy .mat file.
-MatDataSource( java.net.URI uri )
+# org.autoplot.matsupport.MatDataSource
+
+Read data from legacy .mat file.
+
+# MatDataSource( java.net.URI uri )
 
 
 ***

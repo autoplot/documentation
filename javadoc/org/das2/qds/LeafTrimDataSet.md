@@ -1,7 +1,10 @@
-# org.das2.qds.LeafTrimDataSetpull out a subset of the dataset by reducing the number of columns in the
+# org.das2.qds.LeafTrimDataSet
+
+pull out a subset of the dataset by reducing the number of columns in the
  last dimension.  This does not reduce rank.  This assumes the dataset has no
  row with length&gt;end.
-LeafTrimDataSet( QDataSet source, int start, int end )
+
+# LeafTrimDataSet( QDataSet source, int start, int end )
 
 
 ***

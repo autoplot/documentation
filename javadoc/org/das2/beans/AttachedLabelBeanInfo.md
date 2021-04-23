@@ -1,5 +1,8 @@
-# org.das2.beans.AttachedLabelBeanInfoBeanInfo class for DasColorBar
-AttachedLabelBeanInfo( )
+# org.das2.beans.AttachedLabelBeanInfo
+
+BeanInfo class for DasColorBar
+
+# AttachedLabelBeanInfo( )
 
 
 ***

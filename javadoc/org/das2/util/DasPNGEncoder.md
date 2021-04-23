@@ -1,5 +1,8 @@
 # org.das2.util.DasPNGEncoder
-DasPNGEncoder( )
+
+
+
+# DasPNGEncoder( )
 Creates a new instance of DasPNGEncoder
 
 ***

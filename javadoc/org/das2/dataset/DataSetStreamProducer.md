@@ -1,8 +1,11 @@
-# org.das2.dataset.DataSetStreamProducerConfigurable class for serializing a DataSet into a das2Stream.  This class
+# org.das2.dataset.DataSetStreamProducer
+
+Configurable class for serializing a DataSet into a das2Stream.  This class
  handles both VectorDataSets and TableDataSets, and uses java beans properties
  to control how the stream is produced.  This code subsumes the functionality
  of TableUtil.dumpToDas2Stream and VectorUtil.dumpToDas2Stream.
-DataSetStreamProducer( )
+
+# DataSetStreamProducer( )
 Creates a new instance of DataSetStreamProducer
 
 ***

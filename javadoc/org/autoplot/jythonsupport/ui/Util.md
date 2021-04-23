@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.ui.Utilutility methods, for example getting parameters from a script.
-Util( )
+# org.autoplot.jythonsupport.ui.Util
+
+utility methods, for example getting parameters from a script.
+
+# Util( )
 
 
 ***

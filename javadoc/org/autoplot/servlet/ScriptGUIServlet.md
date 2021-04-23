@@ -1,8 +1,11 @@
-# org.autoplot.servlet.ScriptGUIServletRun a script on the server side, and produce a client-side GUI for the 
+# org.autoplot.servlet.ScriptGUIServlet
+
+Run a script on the server side, and produce a client-side GUI for the 
  getParam calls.
  Note this has logging installed which is set up in code, which is bad practice.  This should be 
  removed should this be used in production!
-ScriptGUIServlet( )
+
+# ScriptGUIServlet( )
 
 
 ***

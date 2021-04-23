@@ -1,5 +1,8 @@
-# org.das2.qds.WeightsDataSet.AllValidreturn 1 for any value.
-AllValid( QDataSet ds )
+# org.das2.qds.WeightsDataSet.AllValid
+
+return 1 for any value.
+
+# AllValid( QDataSet ds )
 
 
 ***

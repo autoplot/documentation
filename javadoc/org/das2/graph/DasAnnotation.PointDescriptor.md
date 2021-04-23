@@ -1,4 +1,7 @@
-# org.das2.graph.DasAnnotation.PointDescriptorsomething to point at
+# org.das2.graph.DasAnnotation.PointDescriptor
+
+something to point at
+
 ***
 <a name="getLabel"></a>
 # getLabel

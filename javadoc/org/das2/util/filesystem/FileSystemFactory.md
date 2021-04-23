@@ -1,4 +1,7 @@
-# org.das2.util.filesystem.FileSystemFactorycreates a new instance of a type of filesystem
+# org.das2.util.filesystem.FileSystemFactory
+
+creates a new instance of a type of filesystem
+
 ***
 <a name="createFileSystem"></a>
 # createFileSystem

@@ -1,5 +1,8 @@
 # org.das2.graph.util.GraphicalLogHandler.LogRenderer
-LogRenderer( )
+
+
+
+# LogRenderer( )
 
 
 ***

@@ -1,30 +1,33 @@
-# org.autoplot.datasource.CompletionContextmodels a part of a dataset's URI.  This class is used to serve as both the
+# org.autoplot.datasource.CompletionContext
+
+models a part of a dataset's URI.  This class is used to serve as both the
  input and output of completion engines.  An incomplete completion context is
  passed in, and the engine returns a set of more complete contexts.  This 
  process could be repeated to define a tree, where the leaf nodes are valid 
  datasets urls.
-CompletionContext( )
+
+# CompletionContext( )
 create an empty completion proposal.
 
-CompletionContext( Object context, String completable )
+# CompletionContext( Object context, String completable )
 Object containing a completion proposal.
 
-CompletionContext( Object context, String completable, org.autoplot.datasource.DataSourceFactory owner, String implicitName, String label, String doc )
+# CompletionContext( Object context, String completable, org.autoplot.datasource.DataSourceFactory owner, String implicitName, String label, String doc )
 Object containing a completion proposal.
 
-CompletionContext( Object context, String completable, org.autoplot.datasource.DataSourceFactory owner, String implicitName )
+# CompletionContext( Object context, String completable, org.autoplot.datasource.DataSourceFactory owner, String implicitName )
 Object containing a completion proposal.
 
-CompletionContext( Object context, String completable, String doc )
+# CompletionContext( Object context, String completable, String doc )
 Object containing a completion proposal.
 
-CompletionContext( Object context, String completable, String label, String doc )
+# CompletionContext( Object context, String completable, String label, String doc )
 Object containing a completion proposal.
 
-CompletionContext( Object context, String completable, org.autoplot.datasource.DataSourceFactory owner, String implicitName, String doc )
+# CompletionContext( Object context, String completable, org.autoplot.datasource.DataSourceFactory owner, String implicitName, String doc )
 Object containing a completion proposal.
 
-CompletionContext( Object context, String completable, org.autoplot.datasource.DataSourceFactory owner, String implicitName, String label, String doc, boolean maybePlot )
+# CompletionContext( Object context, String completable, org.autoplot.datasource.DataSourceFactory owner, String implicitName, String label, String doc, boolean maybePlot )
 Object containing a completion proposal.
 
 ***

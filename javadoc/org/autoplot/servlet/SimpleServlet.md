@@ -1,11 +1,14 @@
-# org.autoplot.servlet.SimpleServletSimpleServlet produces PNG,PDF, and SVG products for
+# org.autoplot.servlet.SimpleServlet
+
+SimpleServlet produces PNG,PDF, and SVG products for
  .vap files and Autoplot URIs.  A simple set of controls is provided
  to tweak layout when automatic settings are not satisfactory.
  
  Some known instances:<ul>
  <li>http://jfaden.net/AutoplotServlet/
  </ul>
-SimpleServlet( )
+
+# SimpleServlet( )
 
 
 ***

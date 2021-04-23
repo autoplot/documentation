@@ -1,5 +1,8 @@
-# org.autoplot.dods.DodsDataSourceFactoryReads OpenDAP streams.
-DodsDataSourceFactory( )
+# org.autoplot.dods.DodsDataSourceFactory
+
+Reads OpenDAP streams.
+
+# DodsDataSourceFactory( )
 Creates a new instance of DodsDataSourceFactory
 
 ***

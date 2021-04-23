@@ -1,5 +1,8 @@
-# org.das2.qds.WeightsDataSet.Finitereturn 1 for finite (Non-NaN) values.
-Finite( QDataSet ds )
+# org.das2.qds.WeightsDataSet.Finite
+
+return 1 for finite (Non-NaN) values.
+
+# Finite( QDataSet ds )
 
 
 ***

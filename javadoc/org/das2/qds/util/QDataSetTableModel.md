@@ -1,5 +1,8 @@
-# org.das2.qds.util.QDataSetTableModelTableModel that shows a QDataSet in a JTable.
-QDataSetTableModel( QDataSet ds )
+# org.das2.qds.util.QDataSetTableModel
+
+TableModel that shows a QDataSet in a JTable.
+
+# QDataSetTableModel( QDataSet ds )
 creates a QDataSetTableModel
 
 ***

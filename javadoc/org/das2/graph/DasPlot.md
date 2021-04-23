@@ -1,8 +1,11 @@
-# org.das2.graph.DasPlotDasPlot is the 2D plot containing a horizontal X axis and vertical Y
+# org.das2.graph.DasPlot
+
+DasPlot is the 2D plot containing a horizontal X axis and vertical Y
  axis, and a stack of Renderers that paint data onto the plot.  It coordinates
  calls to each Renderer's updatePlotImage and render methods, and manages
  the rendered stack image to provide previews of new axis settings.
-DasPlot( org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis )
+
+# DasPlot( org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis )
 create a new plot with the x and y axes.
 
 ***

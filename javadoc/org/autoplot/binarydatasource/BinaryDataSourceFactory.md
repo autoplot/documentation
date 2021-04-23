@@ -1,5 +1,8 @@
-# org.autoplot.binarydatasource.BinaryDataSourceFactoryFactory for BinaryDataSource, which reads data from binary files.
-BinaryDataSourceFactory( )
+# org.autoplot.binarydatasource.BinaryDataSourceFactory
+
+Factory for BinaryDataSource, which reads data from binary files.
+
+# BinaryDataSourceFactory( )
 
 
 ***

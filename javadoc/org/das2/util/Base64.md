@@ -1,4 +1,6 @@
-# org.das2.util.Base64This class consists exclusively of static methods for obtaining
+# org.das2.util.Base64
+
+This class consists exclusively of static methods for obtaining
  encoders and decoders for the Base64 encoding scheme. The
  implementation of this class supports the following types of Base64
  as specified in
@@ -34,6 +36,7 @@
  <p> Unless otherwise noted, passing a {@code null} argument to a
  method of this class will cause a {@link java.lang.NullPointerException
  NullPointerException} to be thrown.
+
 ***
 <a name="getDecoder"></a>
 # getDecoder

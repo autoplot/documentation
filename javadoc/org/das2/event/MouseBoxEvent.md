@@ -1,5 +1,8 @@
 # org.das2.event.MouseBoxEvent
-MouseBoxEvent( Object source, java.awt.Point pressPoint, java.awt.Point releasePoint, boolean isModified )
+
+
+
+# MouseBoxEvent( Object source, java.awt.Point pressPoint, java.awt.Point releasePoint, boolean isModified )
 Creates a new instance of MouseBoxEvent
 
 ***

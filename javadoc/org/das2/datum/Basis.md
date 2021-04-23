@@ -1,6 +1,9 @@
-# org.das2.datum.BasisModel a basis vector that defines a dimension.  For example, Units.us2000 has the
+# org.das2.datum.Basis
+
+Model a basis vector that defines a dimension.  For example, Units.us2000 has the
  getOffsetUnits() &rarr; Units.microseconds  and getBasis()&rarr; "since 2000-01-01T00:00".
-Basis( String id, String description, org.das2.datum.Basis parent, double d, String offsetUnitsString )
+
+# Basis( String id, String description, org.das2.datum.Basis parent, double d, String offsetUnitsString )
 
 
 ***

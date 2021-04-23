@@ -1,5 +1,8 @@
 # org.das2.graph.DataRange.Animation
-Animation( DatumRange range, boolean log )
+
+
+
+# Animation( DatumRange range, boolean log )
 
 
 ***

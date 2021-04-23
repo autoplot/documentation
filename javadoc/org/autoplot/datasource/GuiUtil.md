@@ -1,6 +1,9 @@
-# org.autoplot.datasource.GuiUtilUtility class for working with GUIs, first introduced to listen for
+# org.autoplot.datasource.GuiUtil
+
+Utility class for working with GUIs, first introduced to listen for
  who is setting the minimum size.
-GuiUtil( )
+
+# GuiUtil( )
 
 
 ***

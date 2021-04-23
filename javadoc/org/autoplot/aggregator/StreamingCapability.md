@@ -1,5 +1,8 @@
 # org.autoplot.aggregator.StreamingCapability
-StreamingCapability( java.net.URI uri, org.autoplot.aggregator.AggregatingDataSource dss )
+
+
+
+# StreamingCapability( java.net.URI uri, org.autoplot.aggregator.AggregatingDataSource dss )
 
 
 ***

@@ -1,8 +1,11 @@
-# org.autoplot.datasource.DefaultTimeSeriesBrowseDefault implementation commonly found, which handles the resolution parameter
+# org.autoplot.datasource.DefaultTimeSeriesBrowse
+
+Default implementation commonly found, which handles the resolution parameter
  but doesn't implement it.  This uses URISplit.PARAM_TIME_RANGE='timerange' 
  and URISplit.PARAM_TIME_RESOLUTION='resolution'
  for representing the TSB state.
-DefaultTimeSeriesBrowse( )
+
+# DefaultTimeSeriesBrowse( )
 
 
 ***

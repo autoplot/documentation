@@ -1,6 +1,9 @@
-# org.das2.graph.VectorPlotRendererDraw vectors as arrows, from a dataset[:,4] where
+# org.das2.graph.VectorPlotRenderer
+
+Draw vectors as arrows, from a dataset[:,4] where
  dataset[0,:] is x,y,dx,dy.
-VectorPlotRenderer( )
+
+# VectorPlotRenderer( )
 
 
 ***

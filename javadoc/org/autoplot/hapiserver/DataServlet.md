@@ -1,5 +1,8 @@
-# org.autoplot.hapiserver.DataServletServlet for data responses.
-DataServlet( )
+# org.autoplot.hapiserver.DataServlet
+
+Servlet for data responses.
+
+# DataServlet( )
 
 
 ***

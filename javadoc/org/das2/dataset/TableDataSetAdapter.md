@@ -1,6 +1,9 @@
-# org.das2.dataset.TableDataSetAdapterAdapts QDataSets to legacy das2 TableDataSet.
+# org.das2.dataset.TableDataSetAdapter
+
+Adapts QDataSets to legacy das2 TableDataSet.
  See also DataSetAdapter.
-TableDataSetAdapter( QDataSet z, QDataSet x, QDataSet y )
+
+# TableDataSetAdapter( QDataSet z, QDataSet x, QDataSet y )
 Creates a new instance of TableDataSetAdapter
 
 ***

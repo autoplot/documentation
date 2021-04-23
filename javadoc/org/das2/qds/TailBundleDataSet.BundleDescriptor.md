@@ -1,5 +1,8 @@
-# org.das2.qds.TailBundleDataSet.BundleDescriptorspecial dataset describing the bundled datasets in a BundleDataSet.
-BundleDescriptor( )
+# org.das2.qds.TailBundleDataSet.BundleDescriptor
+
+special dataset describing the bundled datasets in a BundleDataSet.
+
+# BundleDescriptor( )
 
 
 ***

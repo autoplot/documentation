@@ -1,5 +1,8 @@
-# org.autoplot.AddPlotElementDialogAllow additional plots to be added, and plot one URI against another.
-AddPlotElementDialog( java.awt.Frame parent, boolean modal )
+# org.autoplot.AddPlotElementDialog
+
+Allow additional plots to be added, and plot one URI against another.
+
+# AddPlotElementDialog( java.awt.Frame parent, boolean modal )
 Creates new form AddPlotElementDialog
 
 ***

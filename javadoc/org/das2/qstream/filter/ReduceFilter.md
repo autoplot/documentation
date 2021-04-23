@@ -1,7 +1,10 @@
-# org.das2.qstream.filter.ReduceFilterReduce packets of the same type by combining packets together.  Currently this
+# org.das2.qstream.filter.ReduceFilter
+
+Reduce packets of the same type by combining packets together.  Currently this
  just does linear averages of the data, but this can easily be extended to support
  other combinations, such as min and max.
-ReduceFilter( )
+
+# ReduceFilter( )
 
 
 ***

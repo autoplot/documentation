@@ -1,5 +1,8 @@
-# org.autoplot.dods.DodsDataSourceRead data via OpenDAP.
-DodsDataSource( java.net.URI uri )
+# org.autoplot.dods.DodsDataSource
+
+Read data via OpenDAP.
+
+# DodsDataSource( java.net.URI uri )
 Creates a new instance of DodsDataSetSource
 
  CDAWEB no longer supports: http://cdaweb.gsfc.nasa.gov/cgi-bin/opendap/nph-dods/istp_public/data/genesis/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density

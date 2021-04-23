@@ -1,5 +1,8 @@
 # org.das2.qds.filters.AddFilterEditorPanel
-AddFilterEditorPanel( )
+
+
+
+# AddFilterEditorPanel( )
 Creates new form AddFilterEditorPanel
 
 ***

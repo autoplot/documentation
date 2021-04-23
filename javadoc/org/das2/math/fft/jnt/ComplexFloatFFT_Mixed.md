@@ -1,4 +1,6 @@
-# org.das2.math.fft.jnt.ComplexFloatFFT_MixedComputes FFT's of complex, single precision data of arbitrary length n.
+# org.das2.math.fft.jnt.ComplexFloatFFT_Mixed
+
+Computes FFT's of complex, single precision data of arbitrary length n.
  This class uses the Mixed Radix method; it has special methods to handle
  factors 2, 3, 4, 5, 6 and 7, as well as a general factor.
  <P>
@@ -7,7 +9,8 @@
 
  <P>
  See {@link ComplexFloatFFT ComplexFloatFFT} for details of data layout.
-ComplexFloatFFT_Mixed( int n )
+
+# ComplexFloatFFT_Mixed( int n )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.das2.qds.util.ReductionReduction is set of static methods for reducing data, or 
+# org.das2.qds.util.Reduction
+
+Reduction is set of static methods for reducing data, or 
  averaging data to make smaller datasets.
-Reduction( )
+
+# Reduction( )
 
 
 ***

@@ -1,4 +1,7 @@
 # org.autoplot.hapi.InputStreamBinaryRecordReader
+
+
+
 ***
 <a name="close"></a>
 # close

@@ -1,5 +1,8 @@
-# org.autoplot.help.TitledBorderDecoratorMakes titled border into link to documentation
-TitledBorderDecorator( )
+# org.autoplot.help.TitledBorderDecorator
+
+Makes titled border into link to documentation
+
+# TitledBorderDecorator( )
 
 
 ***

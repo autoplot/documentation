@@ -1,8 +1,11 @@
-# org.autoplot.datasource.jython.JythonEditorPanelEditor for vap+jyds uris.  These URIs offer a couple of challenges,
+# org.autoplot.datasource.jython.JythonEditorPanel
+
+Editor for vap+jyds uris.  These URIs offer a couple of challenges,
  such as the mode where the resourceURI is the name of the data file and
  the script argument is used.  Also, we identify types and offer decent
  GUI elements to control the types.
-JythonEditorPanel( )
+
+# JythonEditorPanel( )
 Creates new form JythonEditorPanel
 
 ***

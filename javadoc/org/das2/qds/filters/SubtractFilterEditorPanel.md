@@ -1,5 +1,8 @@
 # org.das2.qds.filters.SubtractFilterEditorPanel
-SubtractFilterEditorPanel( )
+
+
+
+# SubtractFilterEditorPanel( )
 Creates new form AddFilterEditorPanel
 
 ***

@@ -1,8 +1,11 @@
-# org.das2.graph.DasRowDasRow object represents the vertical position on the canvas.
-DasRow( org.das2.graph.DasCanvas parent, double top, double bottom )
+# org.das2.graph.DasRow
+
+DasRow object represents the vertical position on the canvas.
+
+# DasRow( org.das2.graph.DasCanvas parent, double top, double bottom )
 create a DasRow with the normal position and no offsets.
 
-DasRow( org.das2.graph.DasCanvas canvas, org.das2.graph.DasRow parent, double nMin, double nMax, double emMin, double emMax, int ptMin, int ptMax )
+# DasRow( org.das2.graph.DasCanvas canvas, org.das2.graph.DasRow parent, double nMin, double nMax, double emMin, double emMax, int ptMin, int ptMax )
 create a DasRow
 
 ***

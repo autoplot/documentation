@@ -1,5 +1,8 @@
 # org.das2.qds.filters.FftPowerFilterEditorPanel
-FftPowerFilterEditorPanel( )
+
+
+
+# FftPowerFilterEditorPanel( )
 Creates new form FftPowerFilterEditorPanel
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.graph.PathIterableA PathIterable is an object that can return a PathIterator for the
+# org.das2.graph.PathIterable
+
+A PathIterable is an object that can return a PathIterator for the
+
 ***
 <a name="pathIterator"></a>
 # pathIterator

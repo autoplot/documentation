@@ -1,4 +1,7 @@
 # org.das2.jythoncompletion.JythonCompletionProvider
+
+
+
 ***
 <a name="PROP_MESSAGE"></a>
 # PROP_MESSAGE

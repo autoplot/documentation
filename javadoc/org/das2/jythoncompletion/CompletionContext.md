@@ -1,6 +1,9 @@
-# org.das2.jythoncompletion.CompletionContextCompletionContext describes a place in code where completion was triggered,
+# org.das2.jythoncompletion.CompletionContext
+
+CompletionContext describes a place in code where completion was triggered,
  containing the type of completion and the context around it.
-CompletionContext( String contextType, String contextString, String completable )
+
+# CompletionContext( String contextType, String contextString, String completable )
 
 
 ***

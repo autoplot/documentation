@@ -1,6 +1,9 @@
-# org.autoplot.html.HtmlTableDataSourceData source for extracting data from HTML tables.  This has been used
+# org.autoplot.html.HtmlTableDataSource
+
+Data source for extracting data from HTML tables.  This has been used
  for looking at real estate sales and weather history.
-HtmlTableDataSource( java.net.URI uri )
+
+# HtmlTableDataSource( java.net.URI uri )
 
 
 ***

@@ -1,7 +1,10 @@
-# org.das2.qds.LongWriteAccessProvide write access to the long array which backs the data.
+# org.das2.qds.LongWriteAccess
+
+Provide write access to the long array which backs the data.
  For example, this could be used with LongDataSet to 
  provide access to the original TT2000 values of a 
  CDF file.
+
 ***
 <a name="putLValue"></a>
 # putLValue

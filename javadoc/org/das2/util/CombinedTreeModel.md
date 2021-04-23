@@ -1,5 +1,8 @@
-# org.das2.util.CombinedTreeModelForms a tree by connecting sub-trees.
-CombinedTreeModel( Object root )
+# org.das2.util.CombinedTreeModel
+
+Forms a tree by connecting sub-trees.
+
+# CombinedTreeModel( Object root )
 
 
 ***

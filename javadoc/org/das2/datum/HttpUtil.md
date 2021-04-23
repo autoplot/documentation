@@ -1,6 +1,9 @@
-# org.das2.datum.HttpUtilUtilities for HTTP protocol, such handling redirects.
+# org.das2.datum.HttpUtil
+
+Utilities for HTTP protocol, such handling redirects.
  This was needed to support Orbits.
-HttpUtil( )
+
+# HttpUtil( )
 
 
 ***

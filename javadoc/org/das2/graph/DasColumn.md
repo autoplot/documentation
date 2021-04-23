@@ -1,8 +1,11 @@
-# org.das2.graph.DasColumnDasColumn object represents the horizontal position on the canvas.
-DasColumn( org.das2.graph.DasCanvas parent, double nMin, double nMax )
+# org.das2.graph.DasColumn
+
+DasColumn object represents the horizontal position on the canvas.
+
+# DasColumn( org.das2.graph.DasCanvas parent, double nMin, double nMax )
 create a DasColumn with the normal position and no offsets.
 
-DasColumn( org.das2.graph.DasCanvas canvas, org.das2.graph.DasColumn parent, double nMin, double nMax, double emMin, double emMax, int ptMin, int ptMax )
+# DasColumn( org.das2.graph.DasCanvas canvas, org.das2.graph.DasColumn parent, double nMin, double nMax, double emMin, double emMax, int ptMin, int ptMax )
 create a DasColumn
 
 ***

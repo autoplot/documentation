@@ -1,5 +1,8 @@
-# org.autoplot.hapi.HapiServerUtility methods for interacting with HAPI servers.
-HapiServer( )
+# org.autoplot.hapi.HapiServer
+
+Utility methods for interacting with HAPI servers.
+
+# HapiServer( )
 
 
 ***

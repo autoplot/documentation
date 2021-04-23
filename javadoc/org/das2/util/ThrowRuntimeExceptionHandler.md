@@ -1,7 +1,10 @@
-# org.das2.util.ThrowRuntimeExceptionHandlerExceptionHandler that throws a RuntimeException caused by the Exception.
+# org.das2.util.ThrowRuntimeExceptionHandler
+
+ExceptionHandler that throws a RuntimeException caused by the Exception.
  This is useful for server-side applications that need to handle the 
  exception externally.
-ThrowRuntimeExceptionHandler( )
+
+# ThrowRuntimeExceptionHandler( )
 Creates a new instance of NullExceptionHandler
 
 ***

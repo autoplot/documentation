@@ -1,5 +1,8 @@
-# org.das2.qds.filters.SlicesFilterEditorPanelGUI for the slices operation.
-SlicesFilterEditorPanel( )
+# org.das2.qds.filters.SlicesFilterEditorPanel
+
+GUI for the slices operation.
+
+# SlicesFilterEditorPanel( )
 
 
 ***

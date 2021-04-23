@@ -1,4 +1,6 @@
-# org.das2.qds.math.fft.jnt.RealDoubleFFTAbstract Class representing FFT's of real, double precision data.
+# org.das2.qds.math.fft.jnt.RealDoubleFFT
+
+Abstract Class representing FFT's of real, double precision data.
  Concrete classes are typically named RealDoubleFFT_<i>method</i>, implement the
  FFT using some particular method.
  <P>
@@ -19,7 +21,8 @@
  RealDoubleFFT for the details.
  Note, however, that each class's backtransform and inverse methods understand
  thier own unique ordering of the transformed result and can invert it correctly.
-RealDoubleFFT( int n )
+
+# RealDoubleFFT( int n )
 Create an FFT for transforming n points of real, double precision data.
 
 ***

@@ -1,8 +1,11 @@
-# org.das2.util.filesystem.VFSFileObjectThis class is part of a wrapper for the Apache Commons VFS.
+# org.das2.util.filesystem.VFSFileObject
+
+This class is part of a wrapper for the Apache Commons VFS.
 
  NOTE: At the moment, many situations where the Commons VFS throws a FileSystemException
  will result in a RuntimeException from this code.  A better way of handling these
  exceptions should probably be found.
+
 ***
 <a name="canRead"></a>
 # canRead

@@ -1,5 +1,8 @@
-# org.das2.qstream.AsciiTimeTransferTypeISO-8601 encoded times.
-AsciiTimeTransferType( int sizeBytes, Units units )
+# org.das2.qstream.AsciiTimeTransferType
+
+ISO-8601 encoded times.
+
+# AsciiTimeTransferType( int sizeBytes, Units units )
 create the ISO8601 transfer type.
 
 ***

@@ -1,5 +1,8 @@
 # org.autoplot.das2Stream.QStreamDataSourceFormatEditorPanel
-QStreamDataSourceFormatEditorPanel( )
+
+
+
+# QStreamDataSourceFormatEditorPanel( )
 Creates new form Das2StreamDataSourceFormatEditorPanel
 
 ***

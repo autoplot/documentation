@@ -1,4 +1,7 @@
-# org.das2.qds.DRank0DataSetImplementation of Rank 0 dataset backed by a double.
+# org.das2.qds.DRank0DataSet
+
+Implementation of Rank 0 dataset backed by a double.
+
 ***
 <a name="create"></a>
 # create

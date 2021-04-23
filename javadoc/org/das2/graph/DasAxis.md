@@ -1,12 +1,15 @@
-# org.das2.graph.DasAxisOne dimensional axis component that transforms data to device space and back, 
+# org.das2.graph.DasAxis
+
+One dimensional axis component that transforms data to device space and back, 
  and provides controls for navigating the 1-D data space.
-DasAxis( Datum min, Datum max, int orientation )
+
+# DasAxis( Datum min, Datum max, int orientation )
 Create an axis object, relating data and canvas pixel coordinates.
 
-DasAxis( DatumRange range, int orientation )
+# DasAxis( DatumRange range, int orientation )
 Create an axis object, relating data and canvas pixel coordinates.
 
-DasAxis( Datum min, Datum max, int orientation, boolean log )
+# DasAxis( Datum min, Datum max, int orientation, boolean log )
 Create an axis object, relating data and canvas pixel coordinates.
 
 ***

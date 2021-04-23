@@ -1,4 +1,7 @@
 # org.das2.dataset.NoKeyProvidedException
-NoKeyProvidedException( String msg )
+
+
+
+# NoKeyProvidedException( String msg )
 Creates a new instance of NoKeyProvidedException
 

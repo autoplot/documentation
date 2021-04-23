@@ -1,4 +1,7 @@
-# org.das2.qds.QubeDataSetIterator.DimensionIteratorFactoryDimensionIteratorFactory creates DimensionIterators
+# org.das2.qds.QubeDataSetIterator.DimensionIteratorFactory
+
+DimensionIteratorFactory creates DimensionIterators
+
 ***
 <a name="newIterator"></a>
 # newIterator

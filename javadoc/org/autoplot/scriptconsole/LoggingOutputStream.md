@@ -1,7 +1,10 @@
-# org.autoplot.scriptconsole.LoggingOutputStreammakes stderr and stdout loggable.
+# org.autoplot.scriptconsole.LoggingOutputStream
+
+makes stderr and stdout loggable.
  from http://blogs.sun.com/nickstephen/entry/java_redirecting_system_out_and
  An OutputStream that writes contents to a Logger upon each call to flush()
-LoggingOutputStream( java.util.logging.Logger logger, java.util.logging.Level level )
+
+# LoggingOutputStream( java.util.logging.Logger logger, java.util.logging.Level level )
 Constructor
 
 ***

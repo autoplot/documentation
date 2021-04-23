@@ -1,5 +1,8 @@
 # org.das2.qds.filters.SetDepend0CadenceFilterEditorPanel
-SetDepend0CadenceFilterEditorPanel( )
+
+
+
+# SetDepend0CadenceFilterEditorPanel( )
 Creates new form SetDepend0CadenceFilterEditorPanel
 
 ***

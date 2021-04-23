@@ -1,8 +1,11 @@
-# org.das2.event.BoxRendererDraws a box
-BoxRenderer( org.das2.graph.DasCanvasComponent parent, boolean updating )
+# org.das2.event.BoxRenderer
+
+Draws a box
+
+# BoxRenderer( org.das2.graph.DasCanvasComponent parent, boolean updating )
 
 
-BoxRenderer( org.das2.graph.DasCanvasComponent parent )
+# BoxRenderer( org.das2.graph.DasCanvasComponent parent )
 
 
 ***

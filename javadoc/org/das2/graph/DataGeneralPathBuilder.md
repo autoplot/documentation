@@ -1,8 +1,11 @@
-# org.das2.graph.DataGeneralPathBuilderintroduce class to handle the task of creating GeneralPaths from a
+# org.das2.graph.DataGeneralPathBuilder
+
+introduce class to handle the task of creating GeneralPaths from a
  series of data points.  We notice that creating the GeneralPath is 
  plenty fast, and it's rendering it that is slow, so this will allow for
  future optimizations.
-DataGeneralPathBuilder( org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
+
+# DataGeneralPathBuilder( org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
 
 
 ***

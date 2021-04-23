@@ -1,5 +1,8 @@
-# org.autoplot.das2Stream.Das2StreamDataSourceFormatFormat the data into das2 streams.
-Das2StreamDataSourceFormat( )
+# org.autoplot.das2Stream.Das2StreamDataSourceFormat
+
+Format the data into das2 streams.
+
+# Das2StreamDataSourceFormat( )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.graph.dnd.TransferableCanvas
-TransferableCanvas( org.das2.graph.DasCanvas canvas )
+
+
+
+# TransferableCanvas( org.das2.graph.DasCanvas canvas )
 Creates a new instance of TransferableCanvas
 
 ***

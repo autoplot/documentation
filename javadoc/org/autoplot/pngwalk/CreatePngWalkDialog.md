@@ -1,7 +1,10 @@
-# org.autoplot.pngwalk.CreatePngWalkDialogProvide dialog to control make pngwalk code.
+# org.autoplot.pngwalk.CreatePngWalkDialog
+
+Provide dialog to control make pngwalk code.
  
  see http://sourceforge.net/tracker/index.php?func=detail&aid=2984095&group_id=199733&atid=970685
-CreatePngWalkDialog( )
+
+# CreatePngWalkDialog( )
 Creates new form CreatePngWalkDialog
 
 ***

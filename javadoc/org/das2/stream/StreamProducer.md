@@ -1,5 +1,8 @@
 # org.das2.stream.StreamProducer
-StreamProducer( java.nio.channels.WritableByteChannel stream )
+
+
+
+# StreamProducer( java.nio.channels.WritableByteChannel stream )
 Creates a new instance of StreamProducer
 
 ***

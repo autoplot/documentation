@@ -1,4 +1,7 @@
 # org.autoplot.util.TransparentLogger
+
+
+
 ***
 <a name="addHandler"></a>
 # addHandler

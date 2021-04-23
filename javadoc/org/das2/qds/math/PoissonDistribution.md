@@ -1,7 +1,10 @@
-# org.das2.qds.math.PoissonDistributionPoissonDistribution generates numbers from the Poisson distribution.
+# org.das2.qds.math.PoissonDistribution
+
+PoissonDistribution generates numbers from the Poisson distribution.
  Adapted from stocc.cpp. 
  2018-08-28.  Made thread safe, use in Jython scripts will be broken.
-PoissonDistribution( )
+
+# PoissonDistribution( )
 
 
 ***

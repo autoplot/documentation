@@ -1,7 +1,10 @@
-# org.das2.qds.filters.AddFilterDialogDialog for picking a new filter to add.  This uses a tree to sort the filters, based on
+# org.das2.qds.filters.AddFilterDialog
+
+Dialog for picking a new filter to add.  This uses a tree to sort the filters, based on
  http://emfisis.physics.uiowa.edu/pub/jy/filters/filters.xml
  at U. Iowa, and keeps track of opened nodes.
-AddFilterDialog( )
+
+# AddFilterDialog( )
 Creates new form AddFilterDialog
 
 ***

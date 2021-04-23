@@ -1,8 +1,11 @@
-# org.autoplot.inline.InlineDataSourceData source used mostly for demonstrations and quick modifications
+# org.autoplot.inline.InlineDataSource
+
+Data source used mostly for demonstrations and quick modifications
  of data.  It also implements the "Mash Up Tool" which is a special
  case of vap+inline, where N datasets are loaded an a combination of these
  datasets is returned.
-InlineDataSource( java.net.URI uri )
+
+# InlineDataSource( java.net.URI uri )
 
 
 ***

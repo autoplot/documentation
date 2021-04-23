@@ -1,11 +1,14 @@
-# org.das2.graph.TickCurveRendererRenderer showing ticks along a curve, useful for orbits.  Note this renderer
+# org.das2.graph.TickCurveRenderer
+
+Renderer showing ticks along a curve, useful for orbits.  Note this renderer
  assumes that someone else is showing the context, so just HH:MM is shown, 
  assuming YYYY-MM-DD is shown elsewhere.
-TickCurveRenderer( QDataSet ds, String xplane, String yplane, org.das2.graph.TickVDescriptor tickv )
+
+# TickCurveRenderer( QDataSet ds, String xplane, String yplane, org.das2.graph.TickVDescriptor tickv )
 Create a new renderer with the x and y planes of the bundle ds identified.  If the xplane or yplane is 
  not identified, then use unbundle(1) for the xplane and unbundle(y) for the yplane.
 
-TickCurveRenderer( )
+# TickCurveRenderer( )
 
 
 ***

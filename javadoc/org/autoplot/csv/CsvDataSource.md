@@ -1,5 +1,8 @@
-# org.autoplot.csv.CsvDataSourceSpecialized reader only reads csv files.  These csv files must be simple tables with the same number of fields in each record.
-CsvDataSource( java.net.URI uri )
+# org.autoplot.csv.CsvDataSource
+
+Specialized reader only reads csv files.  These csv files must be simple tables with the same number of fields in each record.
+
+# CsvDataSource( java.net.URI uri )
 initializer
 
 ***

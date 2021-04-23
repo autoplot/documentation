@@ -1,5 +1,8 @@
 # org.autoplot.csv.CsvDataSourceEditorPanel
-CsvDataSourceEditorPanel( )
+
+
+
+# CsvDataSourceEditorPanel( )
 initializer
 
 ***

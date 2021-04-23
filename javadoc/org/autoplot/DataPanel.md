@@ -1,7 +1,10 @@
-# org.autoplot.DataPanelGUI tab for controlling how data is handled, provides feedback for what is
+# org.autoplot.DataPanel
+
+GUI tab for controlling how data is handled, provides feedback for what is
  being plotted, allows fill value to be specified, and provides the filters
  chain of operations to apply to the data before plotting.
-DataPanel( org.autoplot.AutoplotUI app )
+
+# DataPanel( org.autoplot.AutoplotUI app )
 
 
 ***

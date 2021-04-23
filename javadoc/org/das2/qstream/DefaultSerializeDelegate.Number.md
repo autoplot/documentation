@@ -1,5 +1,8 @@
 # org.das2.qstream.DefaultSerializeDelegate.Number
-Number( )
+
+
+
+# Number( )
 
 
 ***

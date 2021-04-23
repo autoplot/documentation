@@ -1,6 +1,9 @@
-# org.das2.qstream.BundleStreamFormatterLike SimpleStreamFormatter, but this correctly handles bundles.
+# org.das2.qstream.BundleStreamFormatter
+
+Like SimpleStreamFormatter, but this correctly handles bundles.
  This also shows a brute-force method for formatting streams.
-BundleStreamFormatter( )
+
+# BundleStreamFormatter( )
 
 
 ***

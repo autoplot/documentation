@@ -1,5 +1,8 @@
-# org.autoplot.dom.OptionsBean for holding AP configuration options.  Note there are a few AutoplotUI prefs here that shouldn't be.
-Options( )
+# org.autoplot.dom.Options
+
+Bean for holding AP configuration options.  Note there are a few AutoplotUI prefs here that shouldn't be.
+
+# Options( )
 
 
 ***

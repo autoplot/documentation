@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.FSTreeModelpresent a FileSystem as a TreeModel to display in JTrees.
-FSTreeModel( org.das2.util.filesystem.FileSystem fs )
+# org.das2.util.filesystem.FSTreeModel
+
+present a FileSystem as a TreeModel to display in JTrees.
+
+# FSTreeModel( org.das2.util.filesystem.FileSystem fs )
 
 
 ***

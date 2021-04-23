@@ -1,4 +1,6 @@
-# org.autoplot.ascii.AsciiTableTableModelYou will need to:
+# org.autoplot.ascii.AsciiTableTableModel
+
+You will need to:
  <tt>
  model.setParser(parser);
  this.jTable1.setModel(model);
@@ -10,7 +12,8 @@
     model.setRecParser(p);
  }
  </tt>
-AsciiTableTableModel( )
+
+# AsciiTableTableModel( )
 
 
 ***

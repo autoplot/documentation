@@ -1,5 +1,8 @@
-# org.autoplot.ascii.AsciiTableDataSourceEditorPaneleditor panel for managing ASCII table URIs.
-AsciiTableDataSourceEditorPanel( )
+# org.autoplot.ascii.AsciiTableDataSourceEditorPanel
+
+editor panel for managing ASCII table URIs.
+
+# AsciiTableDataSourceEditorPanel( )
 Creates new form AsciiDataSourceEditorPanel
 
 ***

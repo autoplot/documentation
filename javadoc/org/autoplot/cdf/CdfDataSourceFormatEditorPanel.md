@@ -1,5 +1,8 @@
 # org.autoplot.cdf.CdfDataSourceFormatEditorPanel
-CdfDataSourceFormatEditorPanel( )
+
+
+
+# CdfDataSourceFormatEditorPanel( )
 Creates new form BinaryDataSourceFormatEditorPanel
 
 ***

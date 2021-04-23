@@ -1,12 +1,15 @@
-# org.das2.util.monitor.AlertNullProgressMonitorLike the NullProgressMonitor, but print to stderr when the task is
+# org.das2.util.monitor.AlertNullProgressMonitor
+
+Like the NullProgressMonitor, but print to stderr when the task is
  taking a non-trivial amount of time.  The NullProgressMonitor is used
  when the developer thinks that a task is trivial, so this should be used
  to verify.  After one second, this will start dumping messages to 
  stderr.
-AlertNullProgressMonitor( )
+
+# AlertNullProgressMonitor( )
 create a monitor.
 
-AlertNullProgressMonitor( String label )
+# AlertNullProgressMonitor( String label )
 create a monitor with the label.
 
 ***

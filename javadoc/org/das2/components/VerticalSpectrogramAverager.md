@@ -1,4 +1,7 @@
-# org.das2.components.VerticalSpectrogramAveragershow the average of the data over an interval
+# org.das2.components.VerticalSpectrogramAverager
+
+show the average of the data over an interval
+
 ***
 <a name="addAction"></a>
 # addAction

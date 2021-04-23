@@ -1,5 +1,8 @@
 # org.das2.dataset.VectorDataSetAdapter
-VectorDataSetAdapter( QDataSet y, QDataSet x )
+
+
+
+# VectorDataSetAdapter( QDataSet y, QDataSet x )
 Creates a new instance of VectorDataSetAdapter
 
 ***

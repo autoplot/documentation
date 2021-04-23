@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.HttpUtilUtilities for HTTP protocol, such as a cache for the HEAD metadata.
-HttpUtil( )
+# org.das2.util.filesystem.HttpUtil
+
+Utilities for HTTP protocol, such as a cache for the HEAD metadata.
+
+# HttpUtil( )
 
 
 ***

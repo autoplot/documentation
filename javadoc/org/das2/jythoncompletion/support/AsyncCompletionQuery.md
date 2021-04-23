@@ -1,4 +1,6 @@
-# org.das2.jythoncompletion.support.AsyncCompletionQueryDefines query processing of an asynchronous completion task.
+# org.das2.jythoncompletion.support.AsyncCompletionQuery
+
+Defines query processing of an asynchronous completion task.
  <br>
  The {@link #query(CompletionResultSet, Document, int)} abstract method
  needs to be implemented to define the asynchronous querying behavior.
@@ -6,7 +8,8 @@
  In addition filtering of the result set computed during querying
  can be implemented by overriding the
  {@link #canFilter(JTextComponent)} and {@link #filter(CompletionResultSet)}.
-AsyncCompletionQuery( )
+
+# AsyncCompletionQuery( )
 
 
 ***

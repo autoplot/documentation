@@ -1,6 +1,9 @@
-# org.das2.graph.DasAxis.Mementoclass for storing an axis transform.  This is used to keep track
+# org.das2.graph.DasAxis.Memento
+
+class for storing an axis transform.  This is used to keep track
  of the cache image in DasPlot.
-Memento( )
+
+# Memento( )
 
 
 ***

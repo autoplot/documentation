@@ -1,5 +1,8 @@
-# org.das2.qds.WeightsDataSet.ValidRangeFillFinitereturn 1 for finite (Non-NaN) values that are not equal to fill, or outside (not including) vmin to vmax.
-ValidRangeFillFinite( QDataSet ds )
+# org.das2.qds.WeightsDataSet.ValidRangeFillFinite
+
+return 1 for finite (Non-NaN) values that are not equal to fill, or outside (not including) vmin to vmax.
+
+# ValidRangeFillFinite( QDataSet ds )
 
 
 ***

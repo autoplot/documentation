@@ -1,5 +1,8 @@
-# org.autoplot.cdf.CDFConstantsThis class defines the constants used by the CDF library and CDF Java 
+# org.autoplot.cdf.CDFConstants
+
+This class defines the constants used by the CDF library and CDF Java 
  APIs, and it mimics the cdf.h include file from the cdf distribution.
+
 ***
 <a name="CDF_MIN_DIMS"></a>
 # CDF_MIN_DIMS

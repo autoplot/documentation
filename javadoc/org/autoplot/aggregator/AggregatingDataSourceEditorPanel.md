@@ -1,5 +1,8 @@
 # org.autoplot.aggregator.AggregatingDataSourceEditorPanel
-AggregatingDataSourceEditorPanel( )
+
+
+
+# AggregatingDataSourceEditorPanel( )
 Creates new form AggregatingDataSourceEditorPanel
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.hapi.HapiUtilutility classes for Autoplot's HAPI handling
-HapiUtil( )
+# org.autoplot.hapi.HapiUtil
+
+utility classes for Autoplot's HAPI handling
+
+# HapiUtil( )
 
 
 ***

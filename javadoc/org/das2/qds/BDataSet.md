@@ -1,5 +1,8 @@
-# org.das2.qds.BDataSetrank 0,1,2,3 or 4 dataset backed by byte array (1 byte signed numbers).
+# org.das2.qds.BDataSet
+
+rank 0,1,2,3 or 4 dataset backed by byte array (1 byte signed numbers).
  Note access to the array is still done via doubles.
+
 ***
 <a name="version"></a>
 # version

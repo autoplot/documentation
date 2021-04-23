@@ -1,6 +1,9 @@
-# org.das2.components.TearoffTabbedPaneLike the Swing TabbedPane, but this allows the tabs to be 
+# org.das2.components.TearoffTabbedPane
+
+Like the Swing TabbedPane, but this allows the tabs to be 
  removed to other windows or other TearoffTabbedPanes.
-TearoffTabbedPane( )
+
+# TearoffTabbedPane( )
 create a new TearoffTabbedPane
 
 ***

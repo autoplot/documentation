@@ -1,5 +1,8 @@
-# org.autoplot.hapiserver.CsvDataFormatterComma Separated Value (CSV) formatter
-CsvDataFormatter( )
+# org.autoplot.hapiserver.CsvDataFormatter
+
+Comma Separated Value (CSV) formatter
+
+# CsvDataFormatter( )
 
 
 ***

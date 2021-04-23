@@ -1,8 +1,11 @@
 # org.das2.stream.test.RipplesStream
-RipplesStream( boolean compress )
+
+
+
+# RipplesStream( boolean compress )
 Creates a new instance of RipplesStream
 
-RipplesStream( double x1, double y1, double p1, double x2, double y2, double p2, boolean compress )
+# RipplesStream( double x1, double y1, double p1, double x2, double y2, double p2, boolean compress )
 Creates a new instance of RipplesDataSetDescriptor
 
 ***

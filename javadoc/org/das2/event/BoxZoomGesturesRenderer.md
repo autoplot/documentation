@@ -1,5 +1,8 @@
-# org.das2.event.BoxZoomGesturesRendererBoxZoom renderer that shows delegation to X and Y axis zooms.
-BoxZoomGesturesRenderer( org.das2.graph.DasCanvasComponent parent )
+# org.das2.event.BoxZoomGesturesRenderer
+
+BoxZoom renderer that shows delegation to X and Y axis zooms.
+
+# BoxZoomGesturesRenderer( org.das2.graph.DasCanvasComponent parent )
 
 
 ***

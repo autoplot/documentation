@@ -1,6 +1,9 @@
-# org.das2.qstream.CacheTagSerializeDelegateSerialize CacheTags, which have pretty much always been for time tags.
+# org.das2.qstream.CacheTagSerializeDelegate
+
+Serialize CacheTags, which have pretty much always been for time tags.
  TODO: handle non-time cache tags.
-CacheTagSerializeDelegate( )
+
+# CacheTagSerializeDelegate( )
 
 
 ***

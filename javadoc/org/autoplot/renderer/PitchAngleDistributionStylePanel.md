@@ -1,5 +1,8 @@
 # org.autoplot.renderer.PitchAngleDistributionStylePanel
-PitchAngleDistributionStylePanel( )
+
+
+
+# PitchAngleDistributionStylePanel( )
 Creates new form PitchAngleDistributionStylePanel
 
 ***

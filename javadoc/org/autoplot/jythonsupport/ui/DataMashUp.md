@@ -1,7 +1,10 @@
-# org.autoplot.jythonsupport.ui.DataMashUpGUI for specifying mashups, where a number of 
+# org.autoplot.jythonsupport.ui.DataMashUp
+
+GUI for specifying mashups, where a number of 
  data sets are loaded and combined.  These are implemented as small
  jython scripts, consisting only of declarations and an expression.
-DataMashUp( )
+
+# DataMashUp( )
 Creates new form DataMashUp
 
 ***

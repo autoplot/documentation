@@ -1,5 +1,8 @@
 # org.autoplot.hapi.HapiCacheManager
-HapiCacheManager( )
+
+
+
+# HapiCacheManager( )
 Creates new form HapiCacheManager
 
 ***

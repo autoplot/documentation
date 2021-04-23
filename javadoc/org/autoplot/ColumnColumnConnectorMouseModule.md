@@ -1,6 +1,9 @@
-# org.autoplot.ColumnColumnConnectorMouseModuleprovides zoom/pan on the connector object itself.  
+# org.autoplot.ColumnColumnConnectorMouseModule
+
+provides zoom/pan on the connector object itself.  
  TODO: verify that this is just Zoom/Pan, but the direction is reversed.
-ColumnColumnConnectorMouseModule( org.das2.graph.DasPlot topPlot, org.das2.graph.DasPlot bottomPlot )
+
+# ColumnColumnConnectorMouseModule( org.das2.graph.DasPlot topPlot, org.das2.graph.DasPlot bottomPlot )
 
 
 ***

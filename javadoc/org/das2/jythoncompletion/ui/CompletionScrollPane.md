@@ -1,6 +1,9 @@
-# org.das2.jythoncompletion.ui.CompletionScrollPanePane displaying the completion view and accompanying components
+# org.das2.jythoncompletion.ui.CompletionScrollPane
+
+Pane displaying the completion view and accompanying components
  like label for title etc.
-CompletionScrollPane( javax.swing.text.JTextComponent editorComponent, javax.swing.event.ListSelectionListener listSelectionListener, java.awt.event.MouseListener mouseListener )
+
+# CompletionScrollPane( javax.swing.text.JTextComponent editorComponent, javax.swing.event.ListSelectionListener listSelectionListener, java.awt.event.MouseListener mouseListener )
 
 
 ***

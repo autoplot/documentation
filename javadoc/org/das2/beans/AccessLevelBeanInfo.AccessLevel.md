@@ -1,8 +1,11 @@
-# org.das2.beans.AccessLevelBeanInfo.AccessLevelType-safe enumeration class used to specify access levels
+# org.das2.beans.AccessLevelBeanInfo.AccessLevel
+
+Type-safe enumeration class used to specify access levels
  for bean properties.
 
  **NOTE TO DEVELOPERS**
  The order parameter for the constructor should not be specified as a negative number
+
 ***
 <a name="ALL"></a>
 # ALL

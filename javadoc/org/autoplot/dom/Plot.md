@@ -1,6 +1,9 @@
-# org.autoplot.dom.PlotRepresents a 2-D plot with an X and Y axis, and "Z" axis that is often hidden or
+# org.autoplot.dom.Plot
+
+Represents a 2-D plot with an X and Y axis, and "Z" axis that is often hidden or
  implemented with a color bar.
-Plot( )
+
+# Plot( )
 
 
 ***

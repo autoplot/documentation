@@ -1,5 +1,8 @@
-# org.autoplot.AppManagerCount the number of open applications and call exit when there are zero.
-AppManager( )
+# org.autoplot.AppManager
+
+Count the number of open applications and call exit when there are zero.
+
+# AppManager( )
 
 
 ***

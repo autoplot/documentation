@@ -1,5 +1,8 @@
-# org.das2.qstream.AsciiIntegerTransferTypeoptimized for sending integers
-AsciiIntegerTransferType( int sizeBytes )
+# org.das2.qstream.AsciiIntegerTransferType
+
+optimized for sending integers
+
+# AsciiIntegerTransferType( int sizeBytes )
 
 
 ***

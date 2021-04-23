@@ -1,8 +1,11 @@
-# org.das2.dataset.ViewDataSetA DataSet implementation that share properties, yUnits and
+# org.das2.dataset.ViewDataSet
+
+A DataSet implementation that share properties, yUnits and
  yUnits with the instance of AbstractDataSet it is associated with.
  This class is provided so that sub-classes of AbstractDataSet can
  extend this class when creating views of their data without having
  to copy the immutable data AbstractDataSet contains.
+
 ***
 <a name="getProperties"></a>
 # getProperties

@@ -1,5 +1,8 @@
-# org.das2.qstream.StreamDescriptorDescription of the Stream, and manages resources for the stream.
-StreamDescriptor( javax.xml.parsers.DocumentBuilderFactory factory )
+# org.das2.qstream.StreamDescriptor
+
+Description of the Stream, and manages resources for the stream.
+
+# StreamDescriptor( javax.xml.parsers.DocumentBuilderFactory factory )
 
 
 ***

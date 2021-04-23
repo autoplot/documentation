@@ -1,8 +1,11 @@
 # org.das2.datum.format.DateTimeDatumFormatter
-DateTimeDatumFormatter( int opts )
+
+
+
+# DateTimeDatumFormatter( int opts )
 create a formatter with the given options.  Options should be or'd together a|b.
 
-DateTimeDatumFormatter( )
+# DateTimeDatumFormatter( )
 
 
 ***

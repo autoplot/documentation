@@ -1,13 +1,16 @@
-# org.das2.jythoncompletion.support.AsyncCompletionTaskAsynchronous completion task allowing asynchronous query execution
+# org.das2.jythoncompletion.support.AsyncCompletionTask
+
+Asynchronous completion task allowing asynchronous query execution
  through {@link AsyncCompletionQuery}.
  <br>
  This is a final class and all the logic must be defined
  in an implementation of {@link AsyncCompletionQuery} that must
  be passed to constructor of this task.
-AsyncCompletionTask( org.das2.jythoncompletion.support.AsyncCompletionQuery query, javax.swing.text.JTextComponent component )
+
+# AsyncCompletionTask( org.das2.jythoncompletion.support.AsyncCompletionQuery query, javax.swing.text.JTextComponent component )
 Construct asynchronous task for the given component.
 
-AsyncCompletionTask( org.das2.jythoncompletion.support.AsyncCompletionQuery query )
+# AsyncCompletionTask( org.das2.jythoncompletion.support.AsyncCompletionQuery query )
 Constructor for the case when there is no valid component
  which can happen when creating task for documentation or tooltip computation.
 

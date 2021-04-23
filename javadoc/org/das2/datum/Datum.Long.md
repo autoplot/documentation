@@ -1,5 +1,8 @@
-# org.das2.datum.Datum.Longclass backing Datums with a long, such as with CDF_TT2000.
-Long( long value, Units units )
+# org.das2.datum.Datum.Long
+
+class backing Datums with a long, such as with CDF_TT2000.
+
+# Long( long value, Units units )
 
 
 ***

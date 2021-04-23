@@ -1,5 +1,8 @@
 # org.das2.qds.filters.ReducexFilterEditorPanel
-ReducexFilterEditorPanel( )
+
+
+
+# ReducexFilterEditorPanel( )
 Creates new form ReducexFilterEditorPanel
 
 ***

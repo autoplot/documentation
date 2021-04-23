@@ -1,10 +1,13 @@
-# org.autoplot.excel.ExcelSpreadsheetDataSourceCreates QDataSets from an Excel spreadsheet using Apache POI library.<ul>
+# org.autoplot.excel.ExcelSpreadsheetDataSource
+
+Creates QDataSets from an Excel spreadsheet using Apache POI library.<ul>
  <li>http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0
  <li>http://sarahandjeremy.net/~jbf/autoplot/data/hudson_data/xls/2008-lion and tiger summary.xls?sheet=Samantha+tiger+lp+lofreq&firstRow=53&column=Complex_Modulus&depend0=Frequency
  <li>http://www.icip.iastate.edu/sites/default/files/uploads/tables/agriculture/ag-land-hist.xls?column=C14:BM14
  <li>file:///home/jbf/ct/hudson/data/xls/c2-70landvalues.xls?sheet=County&column=BM&depend0=A
  </ul>
-ExcelSpreadsheetDataSource( java.net.URI uri )
+
+# ExcelSpreadsheetDataSource( java.net.URI uri )
 Creates a new instance of ExcelSpreadsheetDataSource.
  file://c:/myfile.xls?column=N&depend0=G
    parameters:

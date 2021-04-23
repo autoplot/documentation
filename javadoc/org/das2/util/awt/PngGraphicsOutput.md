@@ -1,5 +1,8 @@
 # org.das2.util.awt.PngGraphicsOutput
-PngGraphicsOutput( )
+
+
+
+# PngGraphicsOutput( )
 Creates a new instance of PngGraphicsOutput
 
 ***

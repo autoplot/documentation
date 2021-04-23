@@ -1,7 +1,10 @@
-# org.das2.qds.FloatReadAccessProvide access to the float array which backs the data.
+# org.das2.qds.FloatReadAccess
+
+Provide access to the float array which backs the data.
  For example, this is used with FloatDataSet to 
  provide access to the original float values of a CDF to avoid
  noise from rounding.
+
 ***
 <a name="fvalue"></a>
 # fvalue

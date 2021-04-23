@@ -1,6 +1,9 @@
-# org.autoplot.jythonsupport.JythonOpsContains operations that are only available to Jython code, and is dependent
+# org.autoplot.jythonsupport.JythonOps
+
+Contains operations that are only available to Jython code, and is dependent
  on the jython libraries.
-JythonOps( )
+
+# JythonOps( )
 
 
 ***

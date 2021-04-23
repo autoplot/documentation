@@ -1,5 +1,8 @@
-# org.das2.graph.CustomizerInterface to allow customizations to plots to be injected at the end of the DasPlot constructor.
+# org.das2.graph.Customizer
+
+Interface to allow customizations to plots to be injected at the end of the DasPlot constructor.
  The caller needs to be very cautious using this, especially when calling any non-final methods.
+
 ***
 <a name="customize"></a>
 # customize

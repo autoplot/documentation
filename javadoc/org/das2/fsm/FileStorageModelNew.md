@@ -1,4 +1,7 @@
-# org.das2.fsm.FileStorageModelNewPreserve the old name for Jython applications.
+# org.das2.fsm.FileStorageModelNew
+
+Preserve the old name for Jython applications.
+
 ***
 <a name="create"></a>
 # create

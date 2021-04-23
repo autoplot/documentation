@@ -1,4 +1,6 @@
-# org.das2.qds.BundleDataSetcreate a higher rank dataset with dim 1 being a bundle dimension.  Each
+# org.das2.qds.BundleDataSet
+
+create a higher rank dataset with dim 1 being a bundle dimension.  Each
  dataset must have the same length.
 
  Note this was created before BUNDLE_1 and bundle descriptor datasets were
@@ -10,16 +12,17 @@
  <li> 2012-07-17: allow rank 2 datasets to be bundled.  TODO: really?  code doesn't look like it!
  <li> See https://sourceforge.net/p/autoplot/feature-requests/267/
  </ul>
-BundleDataSet( )
+
+# BundleDataSet( )
 Creates a new instance of BundleDataSet that accepts rank 1 datasets.
  (Rank 2 and up are not yet supported.)
 
-BundleDataSet( int rank )
+# BundleDataSet( int rank )
 Creates a new instance of BundleDataSet with the given rank.  Rank 1
  datasets can bundle rank 0 datasets, while rank 2 can only bundle
  rank 1 datasets with the same depend_0.
 
-BundleDataSet( QDataSet ds )
+# BundleDataSet( QDataSet ds )
 create a bundle with the first dataset.  The result will have 
  rank N+1 where ds has rank N.
 

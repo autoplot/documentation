@@ -1,5 +1,8 @@
-# org.autoplot.datasource.InputVerifierinterface for verifying text values that must be parsed.  This
+# org.autoplot.datasource.InputVerifier
+
+interface for verifying text values that must be parsed.  This
  is currently used for validating timerange strings.
+
 ***
 <a name="verify"></a>
 # verify

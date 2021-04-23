@@ -1,5 +1,8 @@
-# org.das2.datum.TimeParser.SubsecFieldHandler$(subsec;places=6)  "36" &rarr; "36 microseconds"
-SubsecFieldHandler( )
+# org.das2.datum.TimeParser.SubsecFieldHandler
+
+$(subsec;places=6)  "36" &rarr; "36 microseconds"
+
+# SubsecFieldHandler( )
 
 
 ***

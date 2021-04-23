@@ -1,6 +1,9 @@
-# org.das2.graph.SelectionUtilutilities for managing selection feedback, where we have a glow to indicate 
+# org.das2.graph.SelectionUtil
+
+utilities for managing selection feedback, where we have a glow to indicate 
  focus.
-SelectionUtil( )
+
+# SelectionUtil( )
 
 
 ***

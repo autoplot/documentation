@@ -1,6 +1,9 @@
-# org.das2.dataset.QuickVectorDataSetAbstract VectorDataSet that allows for defining a vector dataset by
+# org.das2.dataset.QuickVectorDataSet
+
+Abstract VectorDataSet that allows for defining a vector dataset by
  implementing a minimal portion of the api.
-QuickVectorDataSet( )
+
+# QuickVectorDataSet( )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.qds.filters.GetPropertyEditorPanel
-GetPropertyEditorPanel( )
+
+
+
+# GetPropertyEditorPanel( )
 Creates new form getPropertyEditorPanel
 
 ***

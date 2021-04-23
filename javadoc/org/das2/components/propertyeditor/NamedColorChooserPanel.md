@@ -1,5 +1,8 @@
 # org.das2.components.propertyeditor.NamedColorChooserPanel
-NamedColorChooserPanel( )
+
+
+
+# NamedColorChooserPanel( )
 
 
 ***

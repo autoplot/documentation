@@ -1,14 +1,17 @@
-# org.das2.dasml.FormBaseThis class displays a Java form that is generated from an XML Document that is provided as input.
-FormBase( java.net.URL url, org.xml.sax.ErrorHandler eh, boolean editable )
+# org.das2.dasml.FormBase
+
+This class displays a Java form that is generated from an XML Document that is provided as input.
+
+# FormBase( java.net.URL url, org.xml.sax.ErrorHandler eh, boolean editable )
 Creates a FormBase object
 
-FormBase( java.io.InputStream in, org.xml.sax.ErrorHandler eh, boolean editable )
+# FormBase( java.io.InputStream in, org.xml.sax.ErrorHandler eh, boolean editable )
 
 
-FormBase( java.io.Reader reader, org.xml.sax.ErrorHandler eh, boolean editable )
+# FormBase( java.io.Reader reader, org.xml.sax.ErrorHandler eh, boolean editable )
 
 
-FormBase( boolean editable )
+# FormBase( boolean editable )
 
 
 ***

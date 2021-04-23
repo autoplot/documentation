@@ -1,4 +1,7 @@
-# org.das2.util.filesystem.WebProtocoltemplate for web-based protocols to implement FileSystems
+# org.das2.util.filesystem.WebProtocol
+
+template for web-based protocols to implement FileSystems
+
 ***
 <a name="META_EXIST"></a>
 # META_EXIST

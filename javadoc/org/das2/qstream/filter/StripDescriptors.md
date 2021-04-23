@@ -1,5 +1,8 @@
-# org.das2.qstream.filter.StripDescriptorsRemove the packets and retain only the descriptors, which is useful for debugging.
-StripDescriptors( )
+# org.das2.qstream.filter.StripDescriptors
+
+Remove the packets and retain only the descriptors, which is useful for debugging.
+
+# StripDescriptors( )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.autoplot.misc.EnabledDemo
-EnabledDemo( )
+
+
+
+# EnabledDemo( )
 Creates new form EnabledDemo
 
 ***

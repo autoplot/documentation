@@ -1,4 +1,7 @@
 # org.das2.graph.EventsRenderer.TextSpecifier
+
+
+
 ***
 <a name="getText"></a>
 # getText

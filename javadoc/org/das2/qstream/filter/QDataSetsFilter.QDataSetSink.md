@@ -1,5 +1,8 @@
-# org.das2.qstream.filter.QDataSetsFilter.QDataSetSinkimplement this to receive QDataSets packet-by-packet.
-QDataSetSink( )
+# org.das2.qstream.filter.QDataSetsFilter.QDataSetSink
+
+implement this to receive QDataSets packet-by-packet.
+
+# QDataSetSink( )
 
 
 ***

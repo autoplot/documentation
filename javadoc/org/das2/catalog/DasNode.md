@@ -1,5 +1,8 @@
-# org.das2.catalog.DasNodeA single node from the das2 federated catalog, which may, or may not, be fully
+# org.das2.catalog.DasNode
+
+A single node from the das2 federated catalog, which may, or may not, be fully
   realized from source data.
+
 ***
 <a name="getRoot"></a>
 # getRoot

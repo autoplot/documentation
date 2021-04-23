@@ -1,17 +1,20 @@
-# org.das2.datum.RationalNumberrepresent a rational number
-RationalNumber( double d )
+# org.das2.datum.RationalNumber
+
+represent a rational number
+
+# RationalNumber( double d )
 create a rationalNumber that is very close to d.
 
-RationalNumber( org.das2.datum.Ratio n, org.das2.datum.Ratio exp )
+# RationalNumber( org.das2.datum.Ratio n, org.das2.datum.Ratio exp )
 create a rationalNumber with n * 10^exp
 
-RationalNumber( org.das2.datum.Ratio n )
+# RationalNumber( org.das2.datum.Ratio n )
 create a rationalNumber with n * 10^exp
 
-RationalNumber( int n )
+# RationalNumber( int n )
 create a rationalNumber with n * 10^exp
 
-RationalNumber( int n, int d )
+# RationalNumber( int n, int d )
 create a new rational number with numerator n and denominator d. The
  result will be n/d*10^0
 

@@ -1,6 +1,9 @@
-# org.autoplot.datasource.jython.JythonExtensionDataSourceProvide mechanism where data source can be completely defined in a .jyds
+# org.autoplot.datasource.jython.JythonExtensionDataSource
+
+Provide mechanism where data source can be completely defined in a .jyds
  script, but the file extension triggers the script.
-JythonExtensionDataSource( java.net.URI uri )
+
+# JythonExtensionDataSource( java.net.URI uri )
 
 
 ***

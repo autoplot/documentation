@@ -1,6 +1,9 @@
-# org.das2.util.AboutUtilmethod for getting useful build and version information.
+# org.das2.util.AboutUtil
+
+method for getting useful build and version information.
  TODO: Splash should call this to get version, not the other way around.
-AboutUtil( )
+
+# AboutUtil( )
 
 
 ***

@@ -1,4 +1,7 @@
 # org.autoplot.ascii.ColSpanTableCellRenderer.ColSpanTableModel
+
+
+
 ***
 <a name="isColSpan"></a>
 # isColSpan

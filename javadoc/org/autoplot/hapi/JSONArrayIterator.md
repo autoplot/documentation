@@ -1,5 +1,8 @@
-# org.autoplot.hapi.JSONArrayIteratorAllow iteration over JSONArrays.
-JSONArrayIterator( JSONArray array )
+# org.autoplot.hapi.JSONArrayIterator
+
+Allow iteration over JSONArrays.
+
+# JSONArrayIterator( JSONArray array )
 
 
 ***

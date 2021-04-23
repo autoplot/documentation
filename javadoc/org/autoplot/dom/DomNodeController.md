@@ -1,5 +1,8 @@
-# org.autoplot.dom.DomNodeControllerBase class for controller objects that are responsible for managing a node.
-DomNodeController( org.autoplot.dom.DomNode node )
+# org.autoplot.dom.DomNodeController
+
+Base class for controller objects that are responsible for managing a node.
+
+# DomNodeController( org.autoplot.dom.DomNode node )
 
 
 ***

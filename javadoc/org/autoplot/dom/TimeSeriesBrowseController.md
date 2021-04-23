@@ -1,5 +1,8 @@
-# org.autoplot.dom.TimeSeriesBrowseControllerWhen the data source supports loading additional data when the time axis (or plot context) changes, then
+# org.autoplot.dom.TimeSeriesBrowseController
+
+When the data source supports loading additional data when the time axis (or plot context) changes, then
  this is responsible for loading additional data.
+
 ***
 <a name="PROP_TIMERANGE"></a>
 # PROP_TIMERANGE

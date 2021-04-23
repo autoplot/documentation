@@ -1,5 +1,8 @@
-# org.autoplot.LayoutPanelLayoutPanel shows all the plots and plot elements on the canvas.
-LayoutPanel( )
+# org.autoplot.LayoutPanel
+
+LayoutPanel shows all the plots and plot elements on the canvas.
+
+# LayoutPanel( )
 Creates new form LayoutPanel
 
 ***

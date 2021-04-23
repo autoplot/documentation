@@ -1,5 +1,8 @@
-# org.das2.qds.filters.SingleArgumentEditorPanelCommand takes a single argument.
-SingleArgumentEditorPanel( String cmd, String label, String doc, java.lang.String[] examples )
+# org.das2.qds.filters.SingleArgumentEditorPanel
+
+Command takes a single argument.
+
+# SingleArgumentEditorPanel( String cmd, String label, String doc, java.lang.String[] examples )
 
 
 ***

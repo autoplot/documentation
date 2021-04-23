@@ -1,15 +1,18 @@
-# org.das2.qds.demos.RipplesDataSetold das2 ripples dataset, but supports rank 1 and 2.
+# org.das2.qds.demos.RipplesDataSet
+
+old das2 ripples dataset, but supports rank 1 and 2.
  See Ops.ripples.
-RipplesDataSet( )
+
+# RipplesDataSet( )
 
 
-RipplesDataSet( int len0 )
+# RipplesDataSet( int len0 )
 
 
-RipplesDataSet( int len0, int len1 )
+# RipplesDataSet( int len0, int len1 )
 
 
-RipplesDataSet( double x1, double y1, double p1, double x2, double y2, double p2, int xlength, int ylength )
+# RipplesDataSet( double x1, double y1, double p1, double x2, double y2, double p2, int xlength, int ylength )
 
 
 ***

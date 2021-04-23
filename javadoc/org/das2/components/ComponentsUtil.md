@@ -1,5 +1,8 @@
-# org.das2.components.ComponentsUtilUtilities for managing components.
-ComponentsUtil( )
+# org.das2.components.ComponentsUtil
+
+Utilities for managing components.
+
+# ComponentsUtil( )
 
 
 ***

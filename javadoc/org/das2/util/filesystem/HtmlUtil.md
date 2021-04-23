@@ -1,6 +1,9 @@
-# org.das2.util.filesystem.HtmlUtilHTML utilities, such as getting a directory listing, where a "file" is a link
+# org.das2.util.filesystem.HtmlUtil
+
+HTML utilities, such as getting a directory listing, where a "file" is a link
  below the directory we are listing, and read a URL into a String.
-HtmlUtil( )
+
+# HtmlUtil( )
 
 
 ***

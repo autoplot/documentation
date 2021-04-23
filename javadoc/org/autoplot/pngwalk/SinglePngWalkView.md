@@ -1,8 +1,11 @@
-# org.autoplot.pngwalk.SinglePngWalkViewAn implementation of PngWalkView to display a single image.
-SinglePngWalkView( org.autoplot.pngwalk.WalkImageSequence s )
+# org.autoplot.pngwalk.SinglePngWalkView
+
+An implementation of PngWalkView to display a single image.
+
+# SinglePngWalkView( org.autoplot.pngwalk.WalkImageSequence s )
 
 
-SinglePngWalkView( org.autoplot.pngwalk.WalkImageSequence s, org.autoplot.pngwalk.PngWalkTool viewer )
+# SinglePngWalkView( org.autoplot.pngwalk.WalkImageSequence s, org.autoplot.pngwalk.PngWalkTool viewer )
 
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.support.CompletionResultSetListener interface for passing the query results.
+# org.das2.jythoncompletion.support.CompletionResultSet
+
+Listener interface for passing the query results.
+
 ***
 <a name="PRIORITY_SORT_TYPE"></a>
 # PRIORITY_SORT_TYPE

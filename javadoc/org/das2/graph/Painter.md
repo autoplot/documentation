@@ -1,6 +1,9 @@
-# org.das2.graph.Painterinterface for objects that can paint on a graphics context from the canvas.
+# org.das2.graph.Painter
+
+interface for objects that can paint on a graphics context from the canvas.
  We introduce the interface so that objects can be painted without having
  the overhead of full Swing components.
+
 ***
 <a name="paint"></a>
 # paint

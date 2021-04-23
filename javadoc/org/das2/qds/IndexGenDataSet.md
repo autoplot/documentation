@@ -1,5 +1,8 @@
-# org.das2.qds.IndexGenDataSetDataset that simply returns the index as the value.
-IndexGenDataSet( int length )
+# org.das2.qds.IndexGenDataSet
+
+Dataset that simply returns the index as the value.
+
+# IndexGenDataSet( int length )
 Creates a new instance of IndexGenDataSet
 
 ***

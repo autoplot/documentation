@@ -1,7 +1,10 @@
-# org.das2.qds.filters.AbstractFilterEditorPanelImplements the typical filter, where we don't care about the input data and
+# org.das2.qds.filters.AbstractFilterEditorPanel
+
+Implements the typical filter, where we don't care about the input data and
  the filter itself implements the GUI.  Note when the filter property would change, 
  the implementation must fire off a property change.
-AbstractFilterEditorPanel( )
+
+# AbstractFilterEditorPanel( )
 
 
 ***

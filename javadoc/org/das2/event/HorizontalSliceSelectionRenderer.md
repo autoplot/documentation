@@ -1,5 +1,8 @@
 # org.das2.event.HorizontalSliceSelectionRenderer
-HorizontalSliceSelectionRenderer( org.das2.graph.DasCanvasComponent parent )
+
+
+
+# HorizontalSliceSelectionRenderer( org.das2.graph.DasCanvasComponent parent )
 Creates a new instance of HorizontalSliceSelectionRenderer
 
 ***

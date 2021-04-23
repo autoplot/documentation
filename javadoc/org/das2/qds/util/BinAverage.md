@@ -1,4 +1,7 @@
-# org.das2.qds.util.BinAverageutility class providing methods for bin averaging.
+# org.das2.qds.util.BinAverage
+
+utility class providing methods for bin averaging.
+
 ***
 <a name="binAverage"></a>
 # binAverage

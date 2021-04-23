@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.ui.CompletionItemComparatorComparator for completion items either by sort priority or by sort text.
+# org.das2.jythoncompletion.ui.CompletionItemComparator
+
+Comparator for completion items either by sort priority or by sort text.
+
 ***
 <a name="BY_PRIORITY"></a>
 # BY_PRIORITY

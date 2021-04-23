@@ -1,7 +1,10 @@
-# org.autoplot.wav.WavDataSourceFormatFormat data to binary wav file.  The wav file format contains metadata in the first bytes, 
+# org.autoplot.wav.WavDataSourceFormat
+
+Format data to binary wav file.  The wav file format contains metadata in the first bytes, 
  and then the data as interleaved channels.  Java AudioFormat is used to format the header,
  and the BinaryDataSource is used to format the rest of the wav file.
-WavDataSourceFormat( )
+
+# WavDataSourceFormat( )
 
 
 ***

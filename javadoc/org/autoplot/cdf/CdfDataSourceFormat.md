@@ -1,8 +1,11 @@
-# org.autoplot.cdf.CdfDataSourceFormatFormat the QDataSet into CDF tables, using Nand Lal's library.
+# org.autoplot.cdf.CdfDataSourceFormat
+
+Format the QDataSet into CDF tables, using Nand Lal's library.
  Datasets will be assigned names if they don't have a NAME property.
  If the append=T parameter is set, then variables should have names.
  if the bundle=T parameter is set, then bundles should be unbundled into separate variables.
-CdfDataSourceFormat( )
+
+# CdfDataSourceFormat( )
 
 
 ***

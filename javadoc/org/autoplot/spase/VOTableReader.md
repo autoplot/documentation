@@ -1,5 +1,8 @@
-# org.autoplot.spase.VOTableReaderConvert VOTable into QDataSet.  This will return a bundle of parameters.
-VOTableReader( )
+# org.autoplot.spase.VOTableReader
+
+Convert VOTable into QDataSet.  This will return a bundle of parameters.
+
+# VOTableReader( )
 
 
 ***

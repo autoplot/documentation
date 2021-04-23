@@ -1,5 +1,8 @@
 # org.das2.event.DasUpdateEvent
-DasUpdateEvent( org.das2.graph.DasCanvasComponent source )
+
+
+
+# DasUpdateEvent( org.das2.graph.DasCanvasComponent source )
 Creates a new instance of DasUpdateEvent
 
 ***

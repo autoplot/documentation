@@ -1,7 +1,10 @@
-# org.autoplot.AutoplotUtilUtility functions for Autoplot and other related applications. Note this
+# org.autoplot.AutoplotUtil
+
+Utility functions for Autoplot and other related applications. Note this
  has no reference to the specific app AutoplotUI, because this is also used
  in the applet which doesn't use AutoplotUI.
-AutoplotUtil( )
+
+# AutoplotUtil( )
 
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.util.filesystem.LocalFileObjectProvide access to local files.
+# org.das2.util.filesystem.LocalFileObject
+
+Provide access to local files.
+
 ***
 <a name="canRead"></a>
 # canRead

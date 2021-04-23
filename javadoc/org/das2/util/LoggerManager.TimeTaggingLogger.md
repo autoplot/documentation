@@ -1,4 +1,7 @@
-# org.das2.util.LoggerManager.TimeTaggingLoggerLogger keeps track of the last record timetag.
+# org.das2.util.LoggerManager.TimeTaggingLogger
+
+Logger keeps track of the last record timetag.
+
 ***
 <a name="lastTime"></a>
 # lastTime

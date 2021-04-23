@@ -1,4 +1,6 @@
-# org.das2.components.DasProgressPanelProgressMonitor component used throughout das2.
+# org.das2.components.DasProgressPanel
+
+ProgressMonitor component used throughout das2.
 
  Here's an Autoplot script demoing its operation:
 <blockquote><pre>{@code
@@ -14,6 +16,7 @@ for i in range(100):
 
 monitor.finished()
 }</pre></blockquote>
+
 ***
 <a name="MSG_CANCEL_TASK"></a>
 # MSG_CANCEL_TASK

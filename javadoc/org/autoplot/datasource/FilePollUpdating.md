@@ -1,5 +1,8 @@
 # org.autoplot.datasource.FilePollUpdating
-FilePollUpdating( java.net.URI uri, long pollCyclePeriodSeconds )
+
+
+
+# FilePollUpdating( java.net.URI uri, long pollCyclePeriodSeconds )
 
 
 ***

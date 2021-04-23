@@ -1,11 +1,14 @@
-# org.autoplot.dods.MetaDataScraperScrape the metadata from the &lt;dods URL&gt;.html form of the data.  
+# org.autoplot.dods.MetaDataScraper
+
+Scrape the metadata from the &lt;dods URL&gt;.html form of the data.  
  Get a new instance, call parse( &lt;dods URL&gt;.html ), then 
  call getAttr(String varName) which returns a Map of the properties.
 
  Note the scraping is only necessary because Jeremy forgot about the
  .das and .dds extensions.  .dds returns the stream syntax.  .das returns 
  the metadata.
-MetaDataScraper( )
+
+# MetaDataScraper( )
 Creates a new instance of SPDFMetaDataScraper.  Use parseData then getAttr after creating the instance.
 
 ***

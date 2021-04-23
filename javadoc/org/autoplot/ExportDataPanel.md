@@ -1,5 +1,8 @@
-# org.autoplot.ExportDataPanelGUI for specifying how data should be output to a file.
-ExportDataPanel( )
+# org.autoplot.ExportDataPanel
+
+GUI for specifying how data should be output to a file.
+
+# ExportDataPanel( )
 Creates new form ExportDataPanel
 
 ***

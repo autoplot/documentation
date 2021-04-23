@@ -1,5 +1,8 @@
-# org.das2.graph.ColorSeriesRendererDraw a series line connecting data points.
-ColorSeriesRenderer( )
+# org.das2.graph.ColorSeriesRenderer
+
+Draw a series line connecting data points.
+
+# ColorSeriesRenderer( )
 
 
 ***

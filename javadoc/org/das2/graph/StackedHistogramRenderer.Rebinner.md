@@ -1,4 +1,7 @@
 # org.das2.graph.StackedHistogramRenderer.Rebinner
+
+
+
 ***
 <a name="rebin"></a>
 # rebin

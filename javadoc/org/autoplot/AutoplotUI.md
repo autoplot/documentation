@@ -1,6 +1,9 @@
-# org.autoplot.AutoplotUIThe Autoplot application GUI.  This is the entry point for the application, wrapping the internal
+# org.autoplot.AutoplotUI
+
+The Autoplot application GUI.  This is the entry point for the application, wrapping the internal
  application model with conveniences like bookmarks, time range editors and history.
-AutoplotUI( org.autoplot.ApplicationModel model )
+
+# AutoplotUI( org.autoplot.ApplicationModel model )
 Creates new form AutoplotUI
 
 ***

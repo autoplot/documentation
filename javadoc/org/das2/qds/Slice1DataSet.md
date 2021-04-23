@@ -1,4 +1,6 @@
-# org.das2.qds.Slice1DataSetreturn a rank N-1 dataset from a rank N dataset by slicing on the second
+# org.das2.qds.Slice1DataSet
+
+return a rank N-1 dataset from a rank N dataset by slicing on the second
  dimension.  (Rank 2, 3, and 4 supported.)
  
  plane datasets are sliced as well, when they have rank 2 or greater.
@@ -6,10 +8,11 @@
 
  Note when DEPEND_1 has EnumerationUnits (like when it comes from labels() method,
  then this should be the same as the unbundle method.
-Slice1DataSet( QDataSet ds, int index )
+
+# Slice1DataSet( QDataSet ds, int index )
 
 
-Slice1DataSet( QDataSet ds, int index, boolean unbundle )
+# Slice1DataSet( QDataSet ds, int index, boolean unbundle )
 
 
 ***

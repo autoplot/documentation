@@ -1,10 +1,13 @@
-# org.das2.graph.TickVDescriptorA TickVDescriptor describes the position that ticks
+# org.das2.graph.TickVDescriptor
+
+A TickVDescriptor describes the position that ticks
  should be drawn, so that a fairly generic tick drawing routine
  can be used for multiple types of axes.
-TickVDescriptor( double[] minorTicks, double[] ticks, Units units )
+
+# TickVDescriptor( double[] minorTicks, double[] ticks, Units units )
 
 
-TickVDescriptor( QDataSet ticks )
+# TickVDescriptor( QDataSet ticks )
 create the tickVDescriptor for a bunch of given ticks.  The first two ticks are used
  to derive minor ticks, using the DomainDivider code.
 

@@ -1,7 +1,10 @@
-# org.autoplot.datasource.ReferenceCacheProvide a cache of datasets that are in memory, so that the same data is not 
+# org.autoplot.datasource.ReferenceCache
+
+Provide a cache of datasets that are in memory, so that the same data is not 
  loaded twice.  This first implementation uses WeakReferences, so that this 
  cache need not be emptied, but we will avoid the situation where the same 
  data is loaded twice.
+
 ***
 <a name="PROP_ENABLE_REFERENCE_CACHE"></a>
 # PROP_ENABLE_REFERENCE_CACHE

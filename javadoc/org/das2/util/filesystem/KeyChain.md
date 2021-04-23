@@ -1,8 +1,11 @@
-# org.das2.util.filesystem.KeyChainclass that contains the credentials for websites.  This is first
+# org.das2.util.filesystem.KeyChain
+
+class that contains the credentials for websites.  This is first
  introduced so that ftp://papco:@mrfrench.lanl.gov/ and subdirectories
  would just ask for credentials once.  Also, this allows all the sensitive
  information to be stored in one class.
-KeyChain( )
+
+# KeyChain( )
 
 
 ***

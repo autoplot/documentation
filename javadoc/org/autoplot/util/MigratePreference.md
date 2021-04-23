@@ -1,6 +1,9 @@
-# org.autoplot.util.MigratePreferenceThis allows a legacy preference to be used alongside a new preference,
+# org.autoplot.util.MigratePreference
+
+This allows a legacy preference to be used alongside a new preference,
  keeping the users preferences.
-MigratePreference( java.util.prefs.Preferences p1, java.util.prefs.Preferences p2 )
+
+# MigratePreference( java.util.prefs.Preferences p1, java.util.prefs.Preferences p2 )
 create a new where preferences are first read from p1 and if not found 
  there the data is read from from p2 (and if not found there then the
  default is used.  When writing a preference, a copy is made to both

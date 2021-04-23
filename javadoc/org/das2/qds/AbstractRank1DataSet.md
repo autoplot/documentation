@@ -1,5 +1,8 @@
-# org.das2.qds.AbstractRank1DataSetBase class for ad-hoc rank 1 datasets.
-AbstractRank1DataSet( int length )
+# org.das2.qds.AbstractRank1DataSet
+
+Base class for ad-hoc rank 1 datasets.
+
+# AbstractRank1DataSet( int length )
 
 
 ***

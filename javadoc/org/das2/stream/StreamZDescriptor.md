@@ -1,4 +1,7 @@
-# org.das2.stream.StreamZDescriptorMarker for Z.
-StreamZDescriptor( org.w3c.dom.Element element )
+# org.das2.stream.StreamZDescriptor
+
+Marker for Z.
+
+# StreamZDescriptor( org.w3c.dom.Element element )
 
 

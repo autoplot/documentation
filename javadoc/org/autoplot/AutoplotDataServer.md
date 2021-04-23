@@ -1,8 +1,11 @@
-# org.autoplot.AutoplotDataServerData server for U. Iowa P.W. Group converts URIs into streams of data.  These would typically
+# org.autoplot.AutoplotDataServer
+
+Data server for U. Iowa P.W. Group converts URIs into streams of data.  These would typically
  be qstream or older das2stream format, but the code (apparently) supports .xls, .dat, and .bin as well.
 
  See also AutoplotServer, which serves images.
-AutoplotDataServer( )
+
+# AutoplotDataServer( )
 
 
 ***

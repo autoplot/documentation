@@ -1,5 +1,8 @@
 # org.das2.datum.UnitsConverter.ScaleOffset
-ScaleOffset( double scale, double offset )
+
+
+
+# ScaleOffset( double scale, double offset )
 Creates a new UnitsConverter.ScaleOffset.  This
  converter multiplies by scale and adds offset, so
  offset is in the target Units.  For example,

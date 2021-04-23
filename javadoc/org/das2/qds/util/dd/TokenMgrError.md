@@ -1,11 +1,14 @@
-# org.das2.qds.util.dd.TokenMgrErrorToken Manager Error.
-TokenMgrError( )
+# org.das2.qds.util.dd.TokenMgrError
+
+Token Manager Error.
+
+# TokenMgrError( )
 No arg constructor.
 
-TokenMgrError( String message, int reason )
+# TokenMgrError( String message, int reason )
 Constructor with message and reason.
 
-TokenMgrError( boolean EOFSeen, int lexState, int errorLine, int errorColumn, String errorAfter, char curChar, int reason )
+# TokenMgrError( boolean EOFSeen, int lexState, int errorLine, int errorColumn, String errorAfter, char curChar, int reason )
 Full Constructor.
 
 ***

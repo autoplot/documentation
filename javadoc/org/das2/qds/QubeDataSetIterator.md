@@ -1,4 +1,6 @@
-# org.das2.qds.QubeDataSetIteratorDataSetIterator implementation that can be used for all dataset (not just qubes).  
+# org.das2.qds.QubeDataSetIterator
+
+DataSetIterator implementation that can be used for all dataset (not just qubes).  
  Originally this only worked for QDataSets that were qubes, or datasets that 
  had the same dataset geometry for each slice.  At some point this was 
  modified to work with any dataset but the name remains.
@@ -11,7 +13,8 @@
  
  TODO: This does not work for Rank 0 datasets.  See
  sftp://klunk.physics.uiowa.edu/home/jbf/project/autoplot/script/demos/jeremy/qubeDataSetIteratorForNonQubes.jy
-QubeDataSetIterator( QDataSet ds )
+
+# QubeDataSetIterator( QDataSet ds )
 dataset iterator to help in implementing the complex indexing
  types of python.  Each of the dimensions is set to iterate over all
  indeces (e.g ds[:,:,:])

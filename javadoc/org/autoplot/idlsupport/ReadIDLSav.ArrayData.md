@@ -1,5 +1,8 @@
-# org.autoplot.idlsupport.ReadIDLSav.ArrayDatastructure containing an array and dimension information.
-ArrayData( )
+# org.autoplot.idlsupport.ReadIDLSav.ArrayData
+
+structure containing an array and dimension information.
+
+# ArrayData( )
 
 
 ***

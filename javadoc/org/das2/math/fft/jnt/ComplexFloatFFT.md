@@ -1,4 +1,6 @@
-# org.das2.math.fft.jnt.ComplexFloatFFTAbstract Class representing FFT's of complex, single precision data.
+# org.das2.math.fft.jnt.ComplexFloatFFT
+
+Abstract Class representing FFT's of complex, single precision data.
  Concrete classes are typically named ComplexFloatFFT_<i>method</i>, implement the
  FFT using some particular method.
  <P>
@@ -14,7 +16,8 @@
 </PRE>
  The transformed data is returned in the original data array in
  <a href="package-summary.html#wraparound">wrap-around</A> order.
-ComplexFloatFFT( int n )
+
+# ComplexFloatFFT( int n )
 Create an FFT for transforming n points of Complex, single precision data.
 
 ***

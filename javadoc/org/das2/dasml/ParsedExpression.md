@@ -1,5 +1,8 @@
-# org.das2.dasml.ParsedExpressionThis class encapsulates a pre-parsed expression.
-ParsedExpression( String expression )
+# org.das2.dasml.ParsedExpression
+
+This class encapsulates a pre-parsed expression.
+
+# ParsedExpression( String expression )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.autoplot.servlet.SetLogLevelSecret function for adjusting the log level!
+# org.autoplot.servlet.SetLogLevel
+
+Secret function for adjusting the log level!
  .../SetLogLevel?logger=autoplot.servlet&level=FINE&handler=T
-SetLogLevel( )
+
+# SetLogLevel( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.beans.DasAxisBeanInfoBeanInfo class for org.das2.graph.DasAxis.
-DasAxisBeanInfo( )
+# org.das2.beans.DasAxisBeanInfo
+
+BeanInfo class for org.das2.graph.DasAxis.
+
+# DasAxisBeanInfo( )
 
 
 ***

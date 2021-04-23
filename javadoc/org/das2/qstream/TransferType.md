@@ -1,6 +1,9 @@
-# org.das2.qstream.TransferTypeA transfer type is an encoding of a double on to the stream.  It must have a fixed length in bytes.
+# org.das2.qstream.TransferType
+
+A transfer type is an encoding of a double on to the stream.  It must have a fixed length in bytes.
  Some are pure ASCII, and isAscii can be used to check this.
-TransferType( )
+
+# TransferType( )
 
 
 ***

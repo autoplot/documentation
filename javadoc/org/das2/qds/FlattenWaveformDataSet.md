@@ -1,6 +1,9 @@
-# org.das2.qds.FlattenWaveformDataSetconvert rank 2 waveform dataset into an equivalent rank 1 dataset.  Note that
+# org.das2.qds.FlattenWaveformDataSet
+
+convert rank 2 waveform dataset into an equivalent rank 1 dataset.  Note that
  data valid properties for the data's DEPEND_0 are ignored.
-FlattenWaveformDataSet( QDataSet ds )
+
+# FlattenWaveformDataSet( QDataSet ds )
 
 
 ***

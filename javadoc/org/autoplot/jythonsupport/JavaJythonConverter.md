@@ -1,9 +1,12 @@
-# org.autoplot.jythonsupport.JavaJythonConverterConvenient tool for converting Java code found on-line into Jython
+# org.autoplot.jythonsupport.JavaJythonConverter
+
+Convenient tool for converting Java code found on-line into Jython
  code which can be tinkered with.
-JavaJythonConverter( javax.swing.JEditorPane editor )
+
+# JavaJythonConverter( javax.swing.JEditorPane editor )
 
 
-JavaJythonConverter( javax.swing.JEditorPane editor, int direction )
+# JavaJythonConverter( javax.swing.JEditorPane editor, int direction )
 Creates new form JavaJythonConverter
 
 ***

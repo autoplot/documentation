@@ -1,5 +1,8 @@
 # org.das2.graph.CollapseSpectrogramRenderer
-CollapseSpectrogramRenderer( org.das2.dataset.DataSetDescriptor dsd, org.das2.graph.DasColorBar colorBar )
+
+
+
+# CollapseSpectrogramRenderer( org.das2.dataset.DataSetDescriptor dsd, org.das2.graph.DasColorBar colorBar )
 
 
 ***

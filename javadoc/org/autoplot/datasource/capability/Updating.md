@@ -1,4 +1,6 @@
-# org.autoplot.datasource.capability.UpdatingUpdating allows the data sources to notify clients that a different dataset
+# org.autoplot.datasource.capability.Updating
+
+Updating allows the data sources to notify clients that a different dataset
  will be returned if they call getDataSet again.  Implementations should
  take into account that excessive update notifications may be ignored.
 
@@ -12,6 +14,7 @@
 
  Developers should consider using java.beans.PropertyChangeSupport to
  implement this capability, so that it's firePropertyChange method can be used.
+
 ***
 <a name="PROP_DATASET"></a>
 # PROP_DATASET

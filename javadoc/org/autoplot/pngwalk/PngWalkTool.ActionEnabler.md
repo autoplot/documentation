@@ -1,4 +1,7 @@
 # org.autoplot.pngwalk.PngWalkTool.ActionEnabler
+
+
+
 ***
 <a name="isActionEnabled"></a>
 # isActionEnabled

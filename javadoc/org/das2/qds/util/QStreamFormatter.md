@@ -1,6 +1,9 @@
-# org.das2.qds.util.QStreamFormatterFormatter for QStreams, which doesn't require the full QStream parse/format 
+# org.das2.qds.util.QStreamFormatter
+
+Formatter for QStreams, which doesn't require the full QStream parse/format 
  library, useful for debugging.
-QStreamFormatter( )
+
+# QStreamFormatter( )
 
 
 ***

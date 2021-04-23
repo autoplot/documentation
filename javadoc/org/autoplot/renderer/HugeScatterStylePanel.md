@@ -1,5 +1,8 @@
 # org.autoplot.renderer.HugeScatterStylePanel
-HugeScatterStylePanel( )
+
+
+
+# HugeScatterStylePanel( )
 Creates new form PlotStylePanel
 
 ***

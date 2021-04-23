@@ -1,5 +1,8 @@
 # org.das2.components.DataPointReporter
-DataPointReporter( )
+
+
+
+# DataPointReporter( )
 Creates a new instance of DataPointReporter
 
 ***

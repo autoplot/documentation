@@ -1,7 +1,10 @@
-# org.das2.qds.NearestNeighborTcaFunctionreturn a function based on a QDataSet.  For the rank 1 or 2 dataset with 
+# org.das2.qds.NearestNeighborTcaFunction
+
+return a function based on a QDataSet.  For the rank 1 or 2 dataset with 
  DEPEND_0, this function returns the nearest neighbor found within the 
  function, always as a rank 1 dataset.
-NearestNeighborTcaFunction( QDataSet ds )
+
+# NearestNeighborTcaFunction( QDataSet ds )
 Create the function
 
 ***

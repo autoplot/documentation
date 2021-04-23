@@ -1,4 +1,7 @@
-# org.das2.datum.UnitsUtilUseful operations for units, and tests for Steven's Levels of Measurement.
+# org.das2.datum.UnitsUtil
+
+Useful operations for units, and tests for Steven's Levels of Measurement.
+
 ***
 <a name="divide"></a>
 # divide

@@ -1,5 +1,8 @@
 # org.das2.graph.event.DasDevicePositionEvent
-DasDevicePositionEvent( Object source, double min, double max )
+
+
+
+# DasDevicePositionEvent( Object source, double min, double max )
 Creates a new instance of DasDevicePositionEvent
 
 ***

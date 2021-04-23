@@ -1,4 +1,7 @@
-# org.autoplot.dom.RowControllerController for Row objects, mostly keeping the DasRow in sync with the DOM.
+# org.autoplot.dom.RowController
+
+Controller for Row objects, mostly keeping the DasRow in sync with the DOM.
+
 ***
 <a name="getCanvas"></a>
 # getCanvas

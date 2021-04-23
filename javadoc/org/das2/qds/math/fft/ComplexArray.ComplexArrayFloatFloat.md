@@ -1,4 +1,7 @@
-# org.das2.qds.math.fft.ComplexArray.ComplexArrayFloatFloatImplements ComplexArray that is backed by two float arrays.
+# org.das2.qds.math.fft.ComplexArray.ComplexArrayFloatFloat
+
+Implements ComplexArray that is backed by two float arrays.
+
 ***
 <a name="getImag"></a>
 # getImag

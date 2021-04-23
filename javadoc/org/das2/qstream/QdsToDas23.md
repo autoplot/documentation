@@ -1,4 +1,6 @@
-# org.das2.qstream.QdsToDas23Write QDataSets that vary over at most 3 independent variables as a Das2 
+# org.das2.qstream.QdsToDas23
+
+Write QDataSets that vary over at most 3 independent variables as a Das2 
  stream.
  
  This is the general structure of arrays streamed in a das2.3 stream
@@ -14,10 +16,11 @@
  
  This is a direct serialization of QDataSet and does not require any legacy
  das2 classes
-QdsToDas23( )
+
+# QdsToDas23( )
 
 
-QdsToDas23( int genSigDigits, int fracSecDigits )
+# QdsToDas23( int genSigDigits, int fracSecDigits )
 
 
 ***

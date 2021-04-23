@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.ui.CompletionSettingsMaintenance of the editor settings related to the code completion.
+# org.das2.jythoncompletion.ui.CompletionSettings
+
+Maintenance of the editor settings related to the code completion.
+
 ***
 <a name="INSTANCE"></a>
 # INSTANCE

@@ -1,5 +1,8 @@
-# org.das2.beans.StreamDataSetDescriptorBeanInfoBean Info implementation for DasDevicePosition
-StreamDataSetDescriptorBeanInfo( )
+# org.das2.beans.StreamDataSetDescriptorBeanInfo
+
+Bean Info implementation for DasDevicePosition
+
+# StreamDataSetDescriptorBeanInfo( )
 
 
 ***

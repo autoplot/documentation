@@ -1,10 +1,13 @@
-# org.autoplot.cdf.SegmentedBufferDataSetQDataSet implementation that appends datasets together to make them
+# org.autoplot.cdf.SegmentedBufferDataSet
+
+QDataSet implementation that appends datasets together to make them
  look like one long dataset.
  Each dataset must have the same qube.  This is for efficiency.
 
  limitations:<ul>
   <li> doesn't check DEPEND_1 when checking qube.
  </ul>
+
 ***
 <a name="length"></a>
 # length

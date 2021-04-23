@@ -1,5 +1,8 @@
-# org.das2.catalog.DasNodeFactoryPublic static generator functions for das2 federated catalog node objects.
-DasNodeFactory( )
+# org.das2.catalog.DasNodeFactory
+
+Public static generator functions for das2 federated catalog node objects.
+
+# DasNodeFactory( )
 
 
 ***

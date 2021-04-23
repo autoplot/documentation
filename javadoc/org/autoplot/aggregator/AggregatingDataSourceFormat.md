@@ -1,5 +1,8 @@
-# org.autoplot.aggregator.AggregatingDataSourceFormatFormat the data by breaking it up into an aggregated pile of files.
-AggregatingDataSourceFormat( )
+# org.autoplot.aggregator.AggregatingDataSourceFormat
+
+Format the data by breaking it up into an aggregated pile of files.
+
+# AggregatingDataSourceFormat( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.hapi.AbstractBinaryRecordReaderread data record-by-record, so the client doesn't need to worry if the file
+# org.autoplot.hapi.AbstractBinaryRecordReader
+
+read data record-by-record, so the client doesn't need to worry if the file
  is local or coming from the network.
+
 ***
 <a name="readRecord"></a>
 # readRecord

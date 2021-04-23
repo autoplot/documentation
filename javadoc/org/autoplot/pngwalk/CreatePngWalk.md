@@ -1,8 +1,11 @@
-# org.autoplot.pngwalk.CreatePngWalkCreatePngWalk makes a sequence of images from a .vap file or the current state.
+# org.autoplot.pngwalk.CreatePngWalk
+
+CreatePngWalk makes a sequence of images from a .vap file or the current state.
  This is used with PngWalkTool to quickly flip through the images once they
  are created.  This was once a Python script, but it got complex enough that it was useful to
  rewrite it in Java.
-CreatePngWalk( )
+
+# CreatePngWalk( )
 
 
 ***

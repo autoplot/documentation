@@ -1,6 +1,9 @@
-# org.das2.qstream.filter.TrimStreamHandlerConverts all the transfer types to Ascii TransferTypes, but also trims the
+# org.das2.qstream.filter.TrimStreamHandler
+
+Converts all the transfer types to Ascii TransferTypes, but also trims the
  data.
-TrimStreamHandler( java.io.OutputStream out, DatumRange dr )
+
+# TrimStreamHandler( java.io.OutputStream out, DatumRange dr )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.qds.filters.MultiplyFilterEditorPanel
-MultiplyFilterEditorPanel( )
+
+
+
+# MultiplyFilterEditorPanel( )
 Creates new form MultiplyFilterEditorPanel
 
 ***

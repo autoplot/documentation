@@ -1,4 +1,6 @@
-# org.autoplot.transferrable.ImageSelectionTransferable for Images.
+# org.autoplot.transferrable.ImageSelection
+
+Transferable for Images.
  <code>
  ImageSelection imageSelection = new ImageSelection();
  DasCanvas c = parent.applicationModel.canvas;
@@ -7,7 +9,8 @@
  Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
  clipboard.setContents(imageSelection, ImageSelection.getNullClipboardOwner() )
  </code>
-ImageSelection( )
+
+# ImageSelection( )
 
 
 ***

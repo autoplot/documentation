@@ -1,5 +1,8 @@
-# org.autoplot.bookmarks.BookmarksManagerModelInternal model for managing a set of bookmarks.
-BookmarksManagerModel( )
+# org.autoplot.bookmarks.BookmarksManagerModel
+
+Internal model for managing a set of bookmarks.
+
+# BookmarksManagerModel( )
 
 
 ***

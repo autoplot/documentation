@@ -1,9 +1,12 @@
-# org.autoplot.datasource.RecentComboBoxdecorate a comboBox so that it remembers recent entries.  This listens for ActionEvents from a JComboBox
+# org.autoplot.datasource.RecentComboBox
+
+decorate a comboBox so that it remembers recent entries.  This listens for ActionEvents from a JComboBox
  and adds valid items to its droplist.  The recent entries are stored in the bookmarks folder in the file
  "recent.PREF.txt" where PREF is a string assigned to this object identifying the theme, such as "timerange".
  Specifically, the event is validated and recorded into the file, then the file is loaded, sorted and saved
  again.
-RecentComboBox( )
+
+# RecentComboBox( )
 
 
 ***

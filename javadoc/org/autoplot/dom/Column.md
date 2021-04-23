@@ -1,6 +1,9 @@
-# org.autoplot.dom.ColumnRepresents a horizontal position on the page.  Columns are specified
+# org.autoplot.dom.Column
+
+Represents a horizontal position on the page.  Columns are specified
  relative to a parent, which can be the canvas or another column.
-Column( )
+
+# Column( )
 
 
 ***

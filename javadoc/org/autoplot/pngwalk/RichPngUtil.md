@@ -1,4 +1,6 @@
-# org.autoplot.pngwalk.RichPngUtilAt the 2012 MMS meeting at UNH, a group of us proposed that we
+# org.autoplot.pngwalk.RichPngUtil
+
+At the 2012 MMS meeting at UNH, a group of us proposed that we
  embed a little metadata within PNG images which provides lookup 
  information in JSON format.  
 
@@ -16,7 +18,8 @@
 </pre></blockquote>
 
  See http://autoplot.org/richPng
-RichPngUtil( )
+
+# RichPngUtil( )
 
 
 ***

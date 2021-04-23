@@ -1,4 +1,7 @@
-# org.autoplot.fits.FitsDataSourceSupport for reading FITS files using eso.org's JFITS library.
+# org.autoplot.fits.FitsDataSource
+
+Support for reading FITS files using eso.org's JFITS library.
+
 ***
 <a name="getDataSet"></a>
 # getDataSet

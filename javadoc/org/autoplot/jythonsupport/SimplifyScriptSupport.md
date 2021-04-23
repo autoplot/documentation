@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.SimplifyScriptSupportAST support for Jython completions. This is not meant to be thorough, but instead should be helpful when working with scripts.
-SimplifyScriptSupport( )
+# org.autoplot.jythonsupport.SimplifyScriptSupport
+
+AST support for Jython completions. This is not meant to be thorough, but instead should be helpful when working with scripts.
+
+# SimplifyScriptSupport( )
 
 
 ***

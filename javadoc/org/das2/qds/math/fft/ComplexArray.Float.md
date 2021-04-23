@@ -1,4 +1,7 @@
-# org.das2.qds.math.fft.ComplexArray.FloatA complex array that is accessed by floats
+# org.das2.qds.math.fft.ComplexArray.Float
+
+A complex array that is accessed by floats
+
 ***
 <a name="getImag"></a>
 # getImag

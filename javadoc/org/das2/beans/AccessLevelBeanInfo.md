@@ -1,7 +1,10 @@
-# org.das2.beans.AccessLevelBeanInfoThis class is designed to implement access levels for bean properties.
+# org.das2.beans.AccessLevelBeanInfo
+
+This class is designed to implement access levels for bean properties.
  The system property "edu.uiowa.physics.das.beans.AccessLevelBeanInfo.AccessLevel" will
  determine the access level of the bean.  The access levels that are currently supported
  are "ALL" and "END_USER".  The access level must be set prior to this class being loaded.
+
 ***
 <a name="getAccessLevel"></a>
 # getAccessLevel

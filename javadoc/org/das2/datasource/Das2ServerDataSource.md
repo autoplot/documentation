@@ -1,5 +1,8 @@
-# org.das2.datasource.Das2ServerDataSourceDataSource for communicating with Das2servers.
-Das2ServerDataSource( java.net.URI uri )
+# org.das2.datasource.Das2ServerDataSource
+
+DataSource for communicating with Das2servers.
+
+# Das2ServerDataSource( java.net.URI uri )
 
 
 ***

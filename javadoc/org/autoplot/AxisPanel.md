@@ -1,5 +1,8 @@
-# org.autoplot.AxisPanelPanel for controlling the axes of the current focus plot.
-AxisPanel( org.autoplot.ApplicationModel applicationModel )
+# org.autoplot.AxisPanel
+
+Panel for controlling the axes of the current focus plot.
+
+# AxisPanel( org.autoplot.ApplicationModel applicationModel )
 Creates new form PlotStylePanel
 
 ***

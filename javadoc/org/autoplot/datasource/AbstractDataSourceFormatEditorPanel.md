@@ -1,5 +1,8 @@
-# org.autoplot.datasource.AbstractDataSourceFormatEditorPanelbase implements useful features.  This was introduced initially to 
+# org.autoplot.datasource.AbstractDataSourceFormatEditorPanel
+
+base implements useful features.  This was introduced initially to 
  provide a boolean parameter to the HDF5DataSourceFormatEditorPanel.
+
 ***
 <a name="getBooleanParam"></a>
 # getBooleanParam

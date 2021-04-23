@@ -1,6 +1,9 @@
-# org.autoplot.servlet.DataServletDataServlet wraps the command-line data server, so that start-up time is 
+# org.autoplot.servlet.DataServlet
+
+DataServlet wraps the command-line data server, so that start-up time is 
  not an issue and memory caching is used.
-DataServlet( )
+
+# DataServlet( )
 
 
 ***

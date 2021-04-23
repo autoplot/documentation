@@ -1,7 +1,10 @@
-# org.das2.util.ByteBufferInputStreamAn input stream that wraps an NIO ByteBuffer.  Reading from this stream
+# org.das2.util.ByteBufferInputStream
+
+An input stream that wraps an NIO ByteBuffer.  Reading from this stream
  will update the ByteBuffers position.  Calling mark() on this input stream
  will set the mark on the underlying buffer.
-ByteBufferInputStream( java.nio.ByteBuffer buffer )
+
+# ByteBufferInputStream( java.nio.ByteBuffer buffer )
 Creates a new instance of ByteBufferInputStream
 
 ***

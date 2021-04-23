@@ -1,7 +1,10 @@
-# org.autoplot.scriptconsole.DumpRteExceptionHandlerThis dumps the error report to the current working directory.  
+# org.autoplot.scriptconsole.DumpRteExceptionHandler
+
+This dumps the error report to the current working directory.  
  This was motivated by hudson tests that would fail and a person couldn't
  see where it was failing.
-DumpRteExceptionHandler( )
+
+# DumpRteExceptionHandler( )
 
 
 ***

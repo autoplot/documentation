@@ -1,6 +1,9 @@
-# org.autoplot.dom.DebugPropertyChangeSupportPropertyChangeSupport implementation that provides debugging information, 
+# org.autoplot.dom.DebugPropertyChangeSupport
+
+PropertyChangeSupport implementation that provides debugging information, 
  such as toString.
-DebugPropertyChangeSupport( Object bean )
+
+# DebugPropertyChangeSupport( Object bean )
 
 
 ***

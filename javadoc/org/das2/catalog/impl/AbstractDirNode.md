@@ -1,4 +1,6 @@
-# org.das2.catalog.impl.AbstractDirNodeAll nodes which have child catalog nodes should inherit from this package
+# org.das2.catalog.impl.AbstractDirNode
+
+All nodes which have child catalog nodes should inherit from this package
  private class.
  
  In addition to the 3-phase construction interface, this abstract class adds the
@@ -9,6 +11,7 @@
  If derived classes use this sub-node list and fill in their separator string
  the sub-node resolution can be handled by this class with out overriding 
  resolve() and nearest().
+
 ***
 <a name="childPath"></a>
 # childPath

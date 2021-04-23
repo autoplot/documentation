@@ -1,6 +1,9 @@
-# org.autoplot.inline.InlineDataSourceEditorPanelEditor panel for inline URIs.  This supports events lists and short 
+# org.autoplot.inline.InlineDataSourceEditorPanel
+
+Editor panel for inline URIs.  This supports events lists and short 
  Jython scripts with a simple editor.
-InlineDataSourceEditorPanel( )
+
+# InlineDataSourceEditorPanel( )
 Creates new form InlineDataSourceEditorPanel
 
 ***

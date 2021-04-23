@@ -1,5 +1,8 @@
-# org.das2.system.NullMonitorFactoryMonitorFactory implementation that always returns a null monitor.
-NullMonitorFactory( )
+# org.das2.system.NullMonitorFactory
+
+MonitorFactory implementation that always returns a null monitor.
+
+# NullMonitorFactory( )
 
 
 ***

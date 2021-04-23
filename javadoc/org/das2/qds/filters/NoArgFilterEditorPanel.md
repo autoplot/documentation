@@ -1,5 +1,8 @@
 # org.das2.qds.filters.NoArgFilterEditorPanel
-NoArgFilterEditorPanel( )
+
+
+
+# NoArgFilterEditorPanel( )
 Creates new form AbsoValFilterEditorPanel
 
 ***

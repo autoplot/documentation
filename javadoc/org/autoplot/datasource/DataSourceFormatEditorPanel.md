@@ -1,4 +1,7 @@
-# org.autoplot.datasource.DataSourceFormatEditorPanelsimilar to DataSourceEditorPanel, this one is arguments for output.
+# org.autoplot.datasource.DataSourceFormatEditorPanel
+
+similar to DataSourceEditorPanel, this one is arguments for output.
+
 ***
 <a name="getPanel"></a>
 # getPanel

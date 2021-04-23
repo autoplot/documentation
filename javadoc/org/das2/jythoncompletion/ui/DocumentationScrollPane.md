@@ -1,5 +1,8 @@
 # org.das2.jythoncompletion.ui.DocumentationScrollPane
-DocumentationScrollPane( javax.swing.text.JTextComponent editorComponent )
+
+
+
+# DocumentationScrollPane( javax.swing.text.JTextComponent editorComponent )
 Creates a new instance of ScrollJavaDocPane
 
 ***

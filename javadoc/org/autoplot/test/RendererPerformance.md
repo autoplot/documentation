@@ -1,5 +1,8 @@
-# org.autoplot.test.RendererPerformanceIntroduce test to keep track of rendering performance.
-RendererPerformance( )
+# org.autoplot.test.RendererPerformance
+
+Introduce test to keep track of rendering performance.
+
+# RendererPerformance( )
 
 
 ***

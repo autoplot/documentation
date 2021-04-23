@@ -1,6 +1,9 @@
-# org.autoplot.datasource.TestFindDiscoveryDataSourcesSome dataSources allow for data discovery, so the user could push a button
+# org.autoplot.datasource.TestFindDiscoveryDataSources
+
+Some dataSources allow for data discovery, so the user could push a button
  to start exploring.  This experiments with this.
-TestFindDiscoveryDataSources( )
+
+# TestFindDiscoveryDataSources( )
 
 
 ***

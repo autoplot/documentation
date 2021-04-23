@@ -1,8 +1,11 @@
-# org.das2.util.monitor.AbstractProgressMonitorThis is a progress monitor to use when we don't care about the progress,
+# org.das2.util.monitor.AbstractProgressMonitor
+
+This is a progress monitor to use when we don't care about the progress,
  this doesn't provide a view of the progress to the client.
 
  Further, this can act as a base class for other monitor types.
-AbstractProgressMonitor( )
+
+# AbstractProgressMonitor( )
 
 
 ***

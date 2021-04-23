@@ -1,4 +1,6 @@
-# org.das2.qds.WeightsDataSetProvide consistent valid logic to operators by providing a QDataSet
+# org.das2.qds.WeightsDataSet
+
+Provide consistent valid logic to operators by providing a QDataSet
  with 1.0 where the data is valid, and 0.0 where the data is invalid.
  VALID_MIN, VALID_MAX and FILL_VALUE properties are used.
  
@@ -7,6 +9,7 @@
  
  The property FILL_VALUE is no longer set to the fill value used.  https://sourceforge.net/p/autoplot/bugs/1458/
  SUGGEST_FILL will be set in the properties.
+
 ***
 <a name="PROP_SUGGEST_FILL"></a>
 # PROP_SUGGEST_FILL

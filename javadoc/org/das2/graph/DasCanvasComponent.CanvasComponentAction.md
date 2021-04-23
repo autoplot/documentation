@@ -1,5 +1,8 @@
 # org.das2.graph.DasCanvasComponent.CanvasComponentAction
-CanvasComponentAction( String label )
+
+
+
+# CanvasComponentAction( String label )
 
 
 ***

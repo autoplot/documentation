@@ -1,5 +1,8 @@
 # org.das2.dataset.SingleVectorDataSet
-SingleVectorDataSet( Datum x, Datum y, java.util.HashMap properties )
+
+
+
+# SingleVectorDataSet( Datum x, Datum y, java.util.HashMap properties )
 
 
 ***

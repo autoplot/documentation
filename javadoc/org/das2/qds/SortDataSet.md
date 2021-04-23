@@ -1,6 +1,9 @@
-# org.das2.qds.SortDataSetwraps QDataSet, rearranging the elements of the first index as specified
+# org.das2.qds.SortDataSet
+
+wraps QDataSet, rearranging the elements of the first index as specified
  by a rank 1 data set of indeces
-SortDataSet( QDataSet source, QDataSet sort )
+
+# SortDataSet( QDataSet source, QDataSet sort )
 creates the SortDataSet
 
 ***

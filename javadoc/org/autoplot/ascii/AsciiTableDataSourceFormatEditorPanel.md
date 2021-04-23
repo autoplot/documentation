@@ -1,5 +1,8 @@
-# org.autoplot.ascii.AsciiTableDataSourceFormatEditorPanelEditor Panel for formatting data.
-AsciiTableDataSourceFormatEditorPanel( )
+# org.autoplot.ascii.AsciiTableDataSourceFormatEditorPanel
+
+Editor Panel for formatting data.
+
+# AsciiTableDataSourceFormatEditorPanel( )
 Creates new form AsciiTableDataSourceFormatEditorPanel
 
 ***

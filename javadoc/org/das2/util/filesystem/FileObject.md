@@ -1,10 +1,13 @@
-# org.das2.util.filesystem.FileObject<p>Class for describing and accessing files in file systems.  This 
+# org.das2.util.filesystem.FileObject
+
+<p>Class for describing and accessing files in file systems.  This 
  is similar to java.io.File, except that it can describe files on remote
  file systems like an ftp site.</p>
 
  <p>Note: this is modelled after the NetBeans fileSystem FileObject, with the
  thought that we might use it later. </p>
-FileObject( )
+
+# FileObject( )
 
 
 ***

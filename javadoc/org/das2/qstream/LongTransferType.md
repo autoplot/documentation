@@ -1,7 +1,10 @@
-# org.das2.qstream.LongTransferTypeLong transfer type, to support cdfTT2000. 
+# org.das2.qstream.LongTransferType
+
+Long transfer type, to support cdfTT2000. 
  NOTE THERE ARE MANY NUMBERS THAT CANNOT BE PRECISELY REPRESENTED BECAUSE
  DOUBLES ARE USED TO COMMUNICATE DATA.
-LongTransferType( )
+
+# LongTransferType( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.scriptconsole.MakeToolPanellittle panel with "install in tools folder" prompt
-MakeToolPanel( )
+# org.autoplot.scriptconsole.MakeToolPanel
+
+little panel with "install in tools folder" prompt
+
+# MakeToolPanel( )
 Creates new form MakeToolPanel
 
 ***

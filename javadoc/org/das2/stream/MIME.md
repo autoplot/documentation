@@ -1,4 +1,7 @@
-# org.das2.stream.MIMEA listing of MIME types parseable by Das2 clients
+# org.das2.stream.MIME
+
+A listing of MIME types parseable by Das2 clients
+
 ***
 <a name="MIME_DAS2_TEXT"></a>
 # MIME_DAS2_TEXT

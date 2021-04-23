@@ -1,6 +1,9 @@
-# org.das2.system.MutatorLocksee DasAxis.getMutatorLock, DasDevicePosition.getMutatorLock
+# org.das2.system.MutatorLock
+
+see DasAxis.getMutatorLock, DasDevicePosition.getMutatorLock
  TODO: This needs work, because there is no way to query if the lock was
  successful.
+
 ***
 <a name="lock"></a>
 # lock

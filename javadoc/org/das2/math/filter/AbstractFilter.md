@@ -1,4 +1,7 @@
-# org.das2.math.filter.AbstractFilterJava Speech Toolkit code modified to use QDataSets.
+# org.das2.math.filter.AbstractFilter
+
+Java Speech Toolkit code modified to use QDataSets.
+
 ***
 <a name="filter"></a>
 # filter

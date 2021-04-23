@@ -1,4 +1,7 @@
-# org.das2.dasml.FormCheckBoxBeanInfoBean info class for the FormRadioButton class
-FormCheckBoxBeanInfo( )
+# org.das2.dasml.FormCheckBoxBeanInfo
+
+Bean info class for the FormRadioButton class
+
+# FormCheckBoxBeanInfo( )
 
 

@@ -1,8 +1,11 @@
-# org.autoplot.datasource.JScrollPopupMenufrom http://stackoverflow.com/questions/9288350/adding-vertical-scroll-to-a-jpopupmenu
-JScrollPopupMenu( )
+# org.autoplot.datasource.JScrollPopupMenu
+
+from http://stackoverflow.com/questions/9288350/adding-vertical-scroll-to-a-jpopupmenu
+
+# JScrollPopupMenu( )
 
 
-JScrollPopupMenu( String label )
+# JScrollPopupMenu( String label )
 
 
 ***

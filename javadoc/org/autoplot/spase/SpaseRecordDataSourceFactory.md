@@ -1,5 +1,8 @@
 # org.autoplot.spase.SpaseRecordDataSourceFactory
-SpaseRecordDataSourceFactory( )
+
+
+
+# SpaseRecordDataSourceFactory( )
 
 
 ***

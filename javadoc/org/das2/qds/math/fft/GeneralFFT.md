@@ -1,8 +1,11 @@
-# org.das2.qds.math.fft.GeneralFFTProvides forward and reverse FFT methods for any number of elements.  The FFTs
+# org.das2.qds.math.fft.GeneralFFT
+
+Provides forward and reverse FFT methods for any number of elements.  The FFTs
  are implemented using a modified version of the jnt.FFT package from NIST.  This
  version operates on ComplexArray objects that may be backed by das2 data sets
  avoiding unnecessary copies.
-GeneralFFT( int n, boolean doublePrecision, boolean real )
+
+# GeneralFFT( int n, boolean doublePrecision, boolean real )
 Initialize the FFT object by constructing wave tables that can be repeatly used.
 
 ***

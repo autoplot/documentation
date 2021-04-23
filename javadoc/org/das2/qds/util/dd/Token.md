@@ -1,11 +1,14 @@
-# org.das2.qds.util.dd.TokenDescribes the input token stream.
-Token( )
+# org.das2.qds.util.dd.Token
+
+Describes the input token stream.
+
+# Token( )
 No-argument constructor
 
-Token( int kind )
+# Token( int kind )
 Constructs a new token for the specified Image.
 
-Token( int kind, String image )
+# Token( int kind, String image )
 Constructs a new token for the specified Image and Kind.
 
 ***

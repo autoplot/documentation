@@ -1,5 +1,8 @@
 # org.das2.qds.filters.HanningFilterEditorPanel
-HanningFilterEditorPanel( )
+
+
+
+# HanningFilterEditorPanel( )
 Creates new form HanningFilterEditorPanel
 
 ***

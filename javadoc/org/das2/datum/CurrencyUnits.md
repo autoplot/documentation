@@ -1,5 +1,8 @@
-# org.das2.datum.CurrencyUnitsparse a few currencies, for demonstration purposes.
-CurrencyUnits( String id, String ch, String desc )
+# org.das2.datum.CurrencyUnits
+
+parse a few currencies, for demonstration purposes.
+
+# CurrencyUnits( String id, String ch, String desc )
 
 
 ***

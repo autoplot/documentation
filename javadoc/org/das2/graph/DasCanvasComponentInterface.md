@@ -1,4 +1,7 @@
-# org.das2.graph.DasCanvasComponentInterfaceAll entities on the DasCanvas are DasCanvasComponents.
+# org.das2.graph.DasCanvasComponentInterface
+
+All entities on the DasCanvas are DasCanvasComponents.
+
 ***
 <a name="paintComponent"></a>
 # paintComponent

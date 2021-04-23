@@ -1,5 +1,8 @@
-# org.das2.qds.QubeDataSetIterator.SingletonIteratorIterator for a single index.
-SingletonIterator( int index )
+# org.das2.qds.QubeDataSetIterator.SingletonIterator
+
+Iterator for a single index.
+
+# SingletonIterator( int index )
 
 
 ***

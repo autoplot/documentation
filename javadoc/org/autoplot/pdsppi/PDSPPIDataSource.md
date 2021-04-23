@@ -1,5 +1,8 @@
-# org.autoplot.pdsppi.PDSPPIDataSourceRead data from PDS PPI, using their web interface.  Data is communicated 
+# org.autoplot.pdsppi.PDSPPIDataSource
+
+Read data from PDS PPI, using their web interface.  Data is communicated 
  in VOTABLEs.
+
 ***
 <a name="MAX_BUNDLE_COUNT"></a>
 # MAX_BUNDLE_COUNT

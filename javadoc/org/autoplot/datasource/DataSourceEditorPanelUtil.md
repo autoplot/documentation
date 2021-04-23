@@ -1,5 +1,8 @@
-# org.autoplot.datasource.DataSourceEditorPanelUtilUtilities for URLs.
-DataSourceEditorPanelUtil( )
+# org.autoplot.datasource.DataSourceEditorPanelUtil
+
+Utilities for URLs.
+
+# DataSourceEditorPanelUtil( )
 
 
 ***

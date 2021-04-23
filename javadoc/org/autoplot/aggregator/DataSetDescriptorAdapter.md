@@ -1,5 +1,8 @@
-# org.autoplot.aggregator.DataSetDescriptorAdapterwrap aggregating DataSource into das2 DataSetDescriptor.
-DataSetDescriptorAdapter( org.autoplot.aggregator.AggregatingDataSource source )
+# org.autoplot.aggregator.DataSetDescriptorAdapter
+
+wrap aggregating DataSource into das2 DataSetDescriptor.
+
+# DataSetDescriptorAdapter( org.autoplot.aggregator.AggregatingDataSource source )
 Creates a new instance of DataSetDescriptorAdapter
 
 ***

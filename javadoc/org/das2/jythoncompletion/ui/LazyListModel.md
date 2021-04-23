@@ -1,8 +1,11 @@
-# org.das2.jythoncompletion.ui.LazyListModelModel that can compute its values lazily and moreover handle some
+# org.das2.jythoncompletion.ui.LazyListModel
+
+Model that can compute its values lazily and moreover handle some
  kind of filtering.
 
  Made public just to test an impl of Children.EntrySource based on this
  filtering list.
+
 ***
 <a name="addListDataListener"></a>
 # addListDataListener

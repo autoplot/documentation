@@ -1,6 +1,9 @@
-# org.das2.qds.buffer.AsciiDataSetSometimes you might just have numbers encoded in ASCII within a binary stream, 
+# org.das2.qds.buffer.AsciiDataSet
+
+Sometimes you might just have numbers encoded in ASCII within a binary stream, 
  or fixed-length fields allow such parsing.
-AsciiDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back, Object type )
+
+# AsciiDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back, Object type )
 Like the other constructors, but the type is needed as well to get the 
  number of bytes.
 

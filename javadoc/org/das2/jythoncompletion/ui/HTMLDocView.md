@@ -1,6 +1,9 @@
-# org.das2.jythoncompletion.ui.HTMLDocViewHTML documentation view.
+# org.das2.jythoncompletion.ui.HTMLDocView
+
+HTML documentation view.
   Javadoc content is displayed in JEditorPane pane using HTMLEditorKit.
-HTMLDocView( java.awt.Color bgColor )
+
+# HTMLDocView( java.awt.Color bgColor )
 Creates a new instance of HTMLJavaDocView
 
 ***

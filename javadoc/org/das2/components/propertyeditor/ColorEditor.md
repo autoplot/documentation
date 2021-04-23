@@ -1,8 +1,11 @@
 # org.das2.components.propertyeditor.ColorEditor
-ColorEditor( )
+
+
+
+# ColorEditor( )
 Creates a new instance of ColorEditor
 
-ColorEditor( java.awt.Color init )
+# ColorEditor( java.awt.Color init )
 create the editor configured with the default.
 
 ***

@@ -1,5 +1,8 @@
 # org.autoplot.pngwalk.QualityControlPanel
-QualityControlPanel( )
+
+
+
+# QualityControlPanel( )
 Creates new form QualityControlPanel
 
 ***

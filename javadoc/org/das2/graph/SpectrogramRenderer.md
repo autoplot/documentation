@@ -1,6 +1,9 @@
-# org.das2.graph.SpectrogramRendererRenderer for spectrograms.  A setting for rebinning data controls how data is binned into pixel space,
+# org.das2.graph.SpectrogramRenderer
+
+Renderer for spectrograms.  A setting for rebinning data controls how data is binned into pixel space,
  for example by nearest neighbor or interpolation.
-SpectrogramRenderer( org.das2.dataset.DataSetDescriptor dsd, org.das2.graph.DasColorBar colorBar )
+
+# SpectrogramRenderer( org.das2.dataset.DataSetDescriptor dsd, org.das2.graph.DasColorBar colorBar )
 
 
 ***

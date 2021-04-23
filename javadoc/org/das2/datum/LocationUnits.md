@@ -1,5 +1,8 @@
-# org.das2.datum.LocationUnitsUnits for describing locations, Stevens' Interval Scale.
-LocationUnits( String id, String description, Units offsetUnits, org.das2.datum.Basis basis )
+# org.das2.datum.LocationUnits
+
+Units for describing locations, Stevens' Interval Scale.
+
+# LocationUnits( String id, String description, Units offsetUnits, org.das2.datum.Basis basis )
 Creates a new instance of LocationUnit
 
 ***

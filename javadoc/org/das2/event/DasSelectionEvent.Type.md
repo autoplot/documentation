@@ -1,4 +1,7 @@
-# org.das2.event.DasSelectionEvent.TypeType-safe enumeration class for selection type constants.
+# org.das2.event.DasSelectionEvent.Type
+
+Type-safe enumeration class for selection type constants.
+
 ***
 <a name="AREA_SELECTION"></a>
 # AREA_SELECTION

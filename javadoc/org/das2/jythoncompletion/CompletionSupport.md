@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.CompletionSupportsupport functions for Jython editor completions.
+# org.das2.jythoncompletion.CompletionSupport
+
+support functions for Jython editor completions.
+
 ***
 <a name="checkJavaSubClass"></a>
 # checkJavaSubClass

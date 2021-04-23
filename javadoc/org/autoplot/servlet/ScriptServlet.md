@@ -1,8 +1,11 @@
-# org.autoplot.servlet.ScriptServletAllow the clients to run scripts on the server.
+# org.autoplot.servlet.ScriptServlet
+
+Allow the clients to run scripts on the server.
  For now, these are logged for security to the folder /tmp/autoplotservlet (or AUTOPLOT_SERVLET_HOME).
  AUTOPLOT_SERVLET_HOME/allowhosts contains a list of allowed clients.  
  See script.jsp for more information.
-ScriptServlet( )
+
+# ScriptServlet( )
 
 
 ***

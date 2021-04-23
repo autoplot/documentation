@@ -1,5 +1,8 @@
 # org.autoplot.AddAnnotationDialog
-AddAnnotationDialog( )
+
+
+
+# AddAnnotationDialog( )
 Creates new form AddAnnotationDialog
 
 ***

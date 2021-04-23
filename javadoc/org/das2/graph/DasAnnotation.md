@@ -1,8 +1,11 @@
-# org.das2.graph.DasAnnotationThis makes a DasCanvasComponent for GrannyTextRenderer, and 
+# org.das2.graph.DasAnnotation
+
+This makes a DasCanvasComponent for GrannyTextRenderer, and 
  optionally adds an arrow to point at things.
  
  TODO: See http://autoplot.org//developer.annotations
-DasAnnotation( String string )
+
+# DasAnnotation( String string )
 Create the annotation
 
 ***

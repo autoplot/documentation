@@ -1,14 +1,17 @@
-# org.autoplot.ScreenshotsToolJeremy's experiment that will create automatic documentation.
+# org.autoplot.ScreenshotsTool
+
+Jeremy's experiment that will create automatic documentation.
  This is intended to provide a means for users to more easily communicate and 
  to make it easier to create documentation.
  
  This is being modified a bit, namely to delay work such as screening
  private regions, to improve responsiveness and to allow the user the option
  of screening or not.
-ScreenshotsTool( java.awt.Window parent, String outLocationFolder )
+
+# ScreenshotsTool( java.awt.Window parent, String outLocationFolder )
 create a new ScreenshotsTool, which will write screenshots to the location.
 
-ScreenshotsTool( java.awt.Window parent, String outLocationFolder, boolean clearFolder )
+# ScreenshotsTool( java.awt.Window parent, String outLocationFolder, boolean clearFolder )
 create a new ScreenshotsTool, which will write screenshots to the location.  The
  output folder must not exist or be empty, or clearFolder must be set to true.
  This is created and then pushed to the event stack, so that screenshots will

@@ -1,5 +1,8 @@
 # org.das2.beans.CrossHairRendererBeanInfo
-CrossHairRendererBeanInfo( )
+
+
+
+# CrossHairRendererBeanInfo( )
 
 
 ***

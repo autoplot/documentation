@@ -1,5 +1,8 @@
-# org.das2.qds.buffer.NybbleDataSetIntroduced to support looking at data from LWA, which are 12 bit ints.
-NybbleDataSet( int rank, int reclenbits, int recoffsbits, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
+# org.das2.qds.buffer.NybbleDataSet
+
+Introduced to support looking at data from LWA, which are 12 bit ints.
+
+# NybbleDataSet( int rank, int reclenbits, int recoffsbits, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
 
 
 ***

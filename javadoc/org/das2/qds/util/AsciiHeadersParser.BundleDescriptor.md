@@ -1,4 +1,7 @@
 # org.das2.qds.util.AsciiHeadersParser.BundleDescriptor
+
+
+
 ***
 <a name="indexOf"></a>
 # indexOf

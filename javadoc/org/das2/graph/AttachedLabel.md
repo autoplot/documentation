@@ -1,5 +1,8 @@
-# org.das2.graph.AttachedLabelA canvas component for labeling things that is positioned just outside of a row,column box.
-AttachedLabel( String label, int orientation, double emOffset )
+# org.das2.graph.AttachedLabel
+
+A canvas component for labeling things that is positioned just outside of a row,column box.
+
+# AttachedLabel( String label, int orientation, double emOffset )
 constructs an AttachedLabel.
 
 ***

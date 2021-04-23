@@ -1,8 +1,11 @@
-# org.das2.qds.AbstractDataSetAbstract class to simplify defining datasets.  This handles the
+# org.das2.qds.AbstractDataSet
+
+Abstract class to simplify defining datasets.  This handles the
  properties for implementations, and they
  need only implement rank, and override the corresponding value and length
  methods.
-AbstractDataSet( )
+
+# AbstractDataSet( )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.autoplot.GettingStartedPanel
-GettingStartedPanel( )
+
+
+
+# GettingStartedPanel( )
 Creates new form GettingStartedPanel
 
 ***

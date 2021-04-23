@@ -1,5 +1,8 @@
-# org.autoplot.dods.ArrayUtilCopy java arrays into a dataset.
-ArrayUtil( )
+# org.autoplot.dods.ArrayUtil
+
+Copy java arrays into a dataset.
+
+# ArrayUtil( )
 
 
 ***

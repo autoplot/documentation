@@ -1,8 +1,11 @@
 # org.das2.client.Authenticator
-Authenticator( org.das2.client.DasServer dasServer )
 
 
-Authenticator( org.das2.client.DasServer dasServer, String restrictedResourceLabel )
+
+# Authenticator( org.das2.client.DasServer dasServer )
+
+
+# Authenticator( org.das2.client.DasServer dasServer, String restrictedResourceLabel )
 
 
 ***

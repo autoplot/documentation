@@ -1,5 +1,8 @@
 # org.autoplot.APSplash
-APSplash( )
+
+
+
+# APSplash( )
 Creates a new instance of Splash
 
 ***

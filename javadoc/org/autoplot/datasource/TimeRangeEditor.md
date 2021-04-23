@@ -1,6 +1,9 @@
-# org.autoplot.datasource.TimeRangeEditorStandard control for controlling a DatumRange containing times, with
+# org.autoplot.datasource.TimeRangeEditor
+
+Standard control for controlling a DatumRange containing times, with
  next and previous buttons, and a launcher into the TimeRangeTool.
-TimeRangeEditor( )
+
+# TimeRangeEditor( )
 
 
 ***

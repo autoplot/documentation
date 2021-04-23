@@ -1,10 +1,13 @@
-# org.das2.qds.examples.SchemesFor the various QDataSet schemes, show examples and documentation for
+# org.das2.qds.examples.Schemes
+
+For the various QDataSet schemes, show examples and documentation for
  each.  This was motivated when trying to describe the output of 
  org.das2.graph.ContoursRenderer.doAutorange()
  
  Note all QDataSets are "duck-typed," meaning if they happen to meet the 
  requirements of an interface then they are an instance of the interface.
-Schemes( )
+
+# Schemes( )
 
 
 ***

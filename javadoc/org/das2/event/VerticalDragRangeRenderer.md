@@ -1,8 +1,11 @@
 # org.das2.event.VerticalDragRangeRenderer
-VerticalDragRangeRenderer( org.das2.graph.DasCanvasComponent parent )
 
 
-VerticalDragRangeRenderer( org.das2.graph.DasCanvasComponent parent, boolean updating )
+
+# VerticalDragRangeRenderer( org.das2.graph.DasCanvasComponent parent )
+
+
+# VerticalDragRangeRenderer( org.das2.graph.DasCanvasComponent parent, boolean updating )
 
 
 ***

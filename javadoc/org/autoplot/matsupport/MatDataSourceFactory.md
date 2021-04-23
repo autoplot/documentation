@@ -1,5 +1,8 @@
-# org.autoplot.matsupport.MatDataSourceFactoryMatlab file reader
-MatDataSourceFactory( )
+# org.autoplot.matsupport.MatDataSourceFactory
+
+Matlab file reader
+
+# MatDataSourceFactory( )
 
 
 ***

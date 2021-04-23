@@ -1,6 +1,9 @@
-# org.das2.qds.SemanticOpsCommon expressions that apply semantics to QDataSet.  Introduced
+# org.das2.qds.SemanticOps
+
+Common expressions that apply semantics to QDataSet.  Introduced
  to reduce a lot of repeated code, but also to make it clear where semantics
  are being applied.
+
 ***
 <a name="bounds"></a>
 # bounds

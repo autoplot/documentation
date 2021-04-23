@@ -1,5 +1,8 @@
-# org.das2.components.BatchMasterBatchMaster is a object that runs through a batch file, controlling a time axis to produce a series of images.
-BatchMaster( org.das2.graph.DasCanvas canvas )
+# org.das2.components.BatchMaster
+
+BatchMaster is a object that runs through a batch file, controlling a time axis to produce a series of images.
+
+# BatchMaster( org.das2.graph.DasCanvas canvas )
 Creates a new instance of BatchMaster
 
 ***

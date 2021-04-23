@@ -1,5 +1,8 @@
 # org.autoplot.binarydatasource.BinaryDataSourceEditorPanel
-BinaryDataSourceEditorPanel( )
+
+
+
+# BinaryDataSourceEditorPanel( )
 Creates new form BinaryDataSourceEditorPanel
 
 ***

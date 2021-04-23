@@ -1,8 +1,11 @@
 # org.das2.util.IDLValue
-IDLValue( double a )
 
 
-IDLValue( double[] a )
+
+# IDLValue( double a )
+
+
+# IDLValue( double[] a )
 create an IDLValue representing this array.  The data is copied
  as the object is constructed.
 

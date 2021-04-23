@@ -1,5 +1,8 @@
 # org.das2.beans.SpectrogramRendererBeanInfo
-SpectrogramRendererBeanInfo( )
+
+
+
+# SpectrogramRendererBeanInfo( )
 
 
 ***

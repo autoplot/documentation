@@ -1,6 +1,9 @@
-# org.autoplot.state.UndoRedoSupport.StateStackElementA model containing a state, including a description of what changed and
+# org.autoplot.state.UndoRedoSupport.StateStackElement
+
+A model containing a state, including a description of what changed and
  a thumbnail.
-StateStackElement( org.autoplot.dom.Application state, String deltaDesc, String docString )
+
+# StateStackElement( org.autoplot.dom.Application state, String deltaDesc, String docString )
 create an element
 
 ***

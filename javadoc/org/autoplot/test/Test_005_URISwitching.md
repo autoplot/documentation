@@ -1,7 +1,10 @@
-# org.autoplot.test.Test_005_URISwitchingRun through the bookmarks.  This was introduced after a shocking bug
+# org.autoplot.test.Test_005_URISwitching
+
+Run through the bookmarks.  This was introduced after a shocking bug
  wasn't appreciated until after release, and I realized there was no
  headful tests that switched render types.
-Test_005_URISwitching( )
+
+# Test_005_URISwitching( )
 
 
 ***

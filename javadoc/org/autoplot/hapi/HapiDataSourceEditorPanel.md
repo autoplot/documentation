@@ -1,5 +1,8 @@
-# org.autoplot.hapi.HapiDataSourceEditorPanelSwing editor for HAPI URIs
-HapiDataSourceEditorPanel( )
+# org.autoplot.hapi.HapiDataSourceEditorPanel
+
+Swing editor for HAPI URIs
+
+# HapiDataSourceEditorPanel( )
 Creates new form HapiDataSourceEditorPanel
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.datum.SIUnitsFinally introduce SI Units library, which preserves units through
+# org.das2.datum.SIUnits
+
+Finally introduce SI Units library, which preserves units through
  multiplication and division.
+
 ***
 <a name="add"></a>
 # add

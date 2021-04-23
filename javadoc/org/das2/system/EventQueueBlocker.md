@@ -1,5 +1,8 @@
-# org.das2.system.EventQueueBlockerTool for emptying the event queue.  This will post an event and wait until
+# org.das2.system.EventQueueBlocker
+
+Tool for emptying the event queue.  This will post an event and wait until
  the event clears the event queue.
+
 ***
 <a name="clearEventQueue"></a>
 # clearEventQueue

@@ -1,6 +1,9 @@
-# org.das2.qds.buffer.TruncatedFloatDataSetTruncated floats are two-byte floats with low precision used by the plasma wave group.  They
+# org.das2.qds.buffer.TruncatedFloatDataSet
+
+Truncated floats are two-byte floats with low precision used by the plasma wave group.  They
  have an exponent the same size as a 4-byte float, but the mantissa has just 7(?) bits.
-TruncatedFloatDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
+
+# TruncatedFloatDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
 
 
 ***

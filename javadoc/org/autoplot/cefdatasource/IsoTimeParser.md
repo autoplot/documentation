@@ -1,6 +1,9 @@
-# org.autoplot.cefdatasource.IsoTimeParserParser for iso times, that improves performance by caching the 
+# org.autoplot.cefdatasource.IsoTimeParser
+
+Parser for iso times, that improves performance by caching the 
  year, month, day offset.
-IsoTimeParser( int decimalPlaces )
+
+# IsoTimeParser( int decimalPlaces )
 
 
 ***

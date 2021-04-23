@@ -1,7 +1,10 @@
-# org.das2.qds.demos.PlasmaModelModel of plasma distribution function for given density, temperature, speed.
+# org.das2.qds.demos.PlasmaModel
+
+Model of plasma distribution function for given density, temperature, speed.
  A java.util.Random object is passed in so that the data may be reproducible
  (by using a given starting seed).
-PlasmaModel( )
+
+# PlasmaModel( )
 
 
 ***

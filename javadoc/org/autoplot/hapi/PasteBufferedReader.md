@@ -1,6 +1,9 @@
-# org.autoplot.hapi.PasteBufferedReaderpaste several BufferedReaders together to appear as 
+# org.autoplot.hapi.PasteBufferedReader
+
+paste several BufferedReaders together to appear as 
  one BufferedReader.
-PasteBufferedReader( )
+
+# PasteBufferedReader( )
 
 
 ***

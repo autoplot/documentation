@@ -1,5 +1,8 @@
-# org.das2.jythoncompletion.support.CompletionUtilitiesVarious code completion utilities including completion item
+# org.das2.jythoncompletion.support.CompletionUtilities
+
+Various code completion utilities including completion item
  contents rendering.
+
 ***
 <a name="getPreferredWidth"></a>
 # getPreferredWidth

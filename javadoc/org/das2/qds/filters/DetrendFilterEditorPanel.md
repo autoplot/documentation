@@ -1,5 +1,8 @@
 # org.das2.qds.filters.DetrendFilterEditorPanel
-DetrendFilterEditorPanel( )
+
+
+
+# DetrendFilterEditorPanel( )
 Creates new form DetrendFilterEditorPanel
 
 ***

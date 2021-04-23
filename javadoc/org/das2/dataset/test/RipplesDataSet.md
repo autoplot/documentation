@@ -1,8 +1,11 @@
 # org.das2.dataset.test.RipplesDataSet
-RipplesDataSet( )
 
 
-RipplesDataSet( double x1, double y1, double p1, double x2, double y2, double p2, int xlength, int ylength )
+
+# RipplesDataSet( )
+
+
+# RipplesDataSet( double x1, double y1, double p1, double x2, double y2, double p2, int xlength, int ylength )
 creates a dataset that is the sum of two rippley functions that look appealling
  and are useful for testing.
 

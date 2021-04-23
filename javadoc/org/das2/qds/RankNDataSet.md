@@ -1,5 +1,8 @@
-# org.das2.qds.RankNDataSetRankNDataSet is a dataset that can only be accessed by slicing to
+# org.das2.qds.RankNDataSet
+
+RankNDataSet is a dataset that can only be accessed by slicing to
  lower dimensionality.
+
 ***
 <a name="rank"></a>
 # rank

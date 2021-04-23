@@ -1,9 +1,12 @@
-# org.das2.dasml.FormTextFieldA subclass of JTextField to override the default Beans properties of
+# org.das2.dasml.FormTextField
+
+A subclass of JTextField to override the default Beans properties of
  a JTextField
-FormTextField( String name )
+
+# FormTextField( String name )
 
 
-FormTextField( org.w3c.dom.Element element, org.das2.dasml.FormBase form )
+# FormTextField( org.w3c.dom.Element element, org.das2.dasml.FormBase form )
 
 
 ***

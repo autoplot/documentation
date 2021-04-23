@@ -1,5 +1,8 @@
-# org.autoplot.datasource.TimeRangeVerifierverify time range Strings like "2001-03-04" or "orbit:rbspa-pp:103"
-TimeRangeVerifier( )
+# org.autoplot.datasource.TimeRangeVerifier
+
+verify time range Strings like "2001-03-04" or "orbit:rbspa-pp:103"
+
+# TimeRangeVerifier( )
 
 
 ***

@@ -1,7 +1,10 @@
-# org.das2.jythoncompletion.JythonCompletionTaskCompletions for Jython code.  The completion task is created with the
+# org.das2.jythoncompletion.JythonCompletionTask
+
+Completions for Jython code.  The completion task is created with the
  editor configured for completions (code and caret position within code),
  and "query" is called which will fill a CompletionResultSet.
-JythonCompletionTask( javax.swing.text.JTextComponent t )
+
+# JythonCompletionTask( javax.swing.text.JTextComponent t )
 create the completion task on the text component, using its content and caret position.
 
 ***

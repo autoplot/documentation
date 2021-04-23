@@ -1,4 +1,6 @@
-# org.autoplot.ascii.AsciiTableDataSourceFormatFormat the QDataSet into Ascii tables.  
+# org.autoplot.ascii.AsciiTableDataSourceFormat
+
+Format the QDataSet into Ascii tables.  
  <ul>
  <li>header=rich include "rich ascii" metadata.
  <li>header=none don't include any headers.
@@ -8,7 +10,8 @@
  <li>tformat=day
  <li>format=%5.2f use this formatter for data.
  </ul>
-AsciiTableDataSourceFormat( )
+
+# AsciiTableDataSourceFormat( )
 
 
 ***

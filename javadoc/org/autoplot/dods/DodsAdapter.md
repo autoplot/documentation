@@ -1,5 +1,8 @@
 # org.autoplot.dods.DodsAdapter
-DodsAdapter( java.net.URL source, String variable )
+
+
+
+# DodsAdapter( java.net.URL source, String variable )
 Creates a new instance of DodsAdapter
 
 ***

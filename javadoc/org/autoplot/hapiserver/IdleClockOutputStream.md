@@ -1,6 +1,9 @@
-# org.autoplot.hapiserver.IdleClockOutputStreamDebugging output stream which times idle periods 
+# org.autoplot.hapiserver.IdleClockOutputStream
+
+Debugging output stream which times idle periods 
  between write calls.
-IdleClockOutputStream( java.io.OutputStream out )
+
+# IdleClockOutputStream( java.io.OutputStream out )
 
 
 ***

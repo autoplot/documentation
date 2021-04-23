@@ -1,5 +1,8 @@
-# org.das2.graph.RGBImageRendererRenders RBG images stored in a QDataSet[m,n,3], etc.
-RGBImageRenderer( )
+# org.das2.graph.RGBImageRenderer
+
+Renders RBG images stored in a QDataSet[m,n,3], etc.
+
+# RGBImageRenderer( )
 
 
 ***

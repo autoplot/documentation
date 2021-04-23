@@ -1,5 +1,8 @@
-# org.das2.util.ImageUtilUtilities for image files and images.
-ImageUtil( )
+# org.das2.util.ImageUtil
+
+Utilities for image files and images.
+
+# ImageUtil( )
 
 
 ***

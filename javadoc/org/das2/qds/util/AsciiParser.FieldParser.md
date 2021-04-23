@@ -1,5 +1,8 @@
-# org.das2.qds.util.AsciiParser.FieldParserA FieldParser takes character data and returns a number representing
+# org.das2.qds.util.AsciiParser.FieldParser
+
+A FieldParser takes character data and returns a number representing
  the data.  The units of the field are often used with this when parsing.
+
 ***
 <a name="parseField"></a>
 # parseField

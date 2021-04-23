@@ -1,6 +1,9 @@
-# org.das2.util.awt.LoggingEventQueueTool for debugging event queue stuff.  This can be used to log the event
+# org.das2.util.awt.LoggingEventQueue
+
+Tool for debugging event queue stuff.  This can be used to log the event
  queue, or insert breakpoints, etc.
  Toolkit.getDefaultToolkit().getSystemEventQueue().push(new LoggingEventQueue());
+
 ***
 <a name="dumpPendingEvents"></a>
 # dumpPendingEvents

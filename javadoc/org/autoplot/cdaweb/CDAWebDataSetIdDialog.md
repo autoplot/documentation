@@ -1,8 +1,11 @@
-# org.autoplot.cdaweb.CDAWebDataSetIdDialogDialog for picking dataset ID.
-CDAWebDataSetIdDialog( java.awt.Frame parent, boolean modal )
+# org.autoplot.cdaweb.CDAWebDataSetIdDialog
+
+Dialog for picking dataset ID.
+
+# CDAWebDataSetIdDialog( java.awt.Frame parent, boolean modal )
 
 
-CDAWebDataSetIdDialog( java.awt.Dialog parent, boolean modal )
+# CDAWebDataSetIdDialog( java.awt.Dialog parent, boolean modal )
 
 
 ***

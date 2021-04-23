@@ -1,8 +1,11 @@
 # org.das2.graph.DasLabelAxis
-DasLabelAxis( org.das2.datum.DatumVector labels, int orientation )
 
 
-DasLabelAxis( QDataSet labels, int orientation )
+
+# DasLabelAxis( org.das2.datum.DatumVector labels, int orientation )
+
+
+# DasLabelAxis( QDataSet labels, int orientation )
 
 
 ***

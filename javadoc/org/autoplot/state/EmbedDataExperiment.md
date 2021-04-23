@@ -1,6 +1,9 @@
-# org.autoplot.state.EmbedDataExperimentEmbed data and vap in a zip file.  Now that we have PWD, this will
+# org.autoplot.state.EmbedDataExperiment
+
+Embed data and vap in a zip file.  Now that we have PWD, this will
  be straight-forward.
-EmbedDataExperiment( )
+
+# EmbedDataExperiment( )
 
 
 ***

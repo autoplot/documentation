@@ -1,5 +1,8 @@
-# org.autoplot.servlet.CdawebVapServletServlet takes a set of URIs and returns a vap v1.08 that will display them.
-CdawebVapServlet( )
+# org.autoplot.servlet.CdawebVapServlet
+
+Servlet takes a set of URIs and returns a vap v1.08 that will display them.
+
+# CdawebVapServlet( )
 
 
 ***

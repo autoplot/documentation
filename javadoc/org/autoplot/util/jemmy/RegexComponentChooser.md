@@ -1,5 +1,8 @@
-# org.autoplot.util.jemmy.RegexComponentChooserSearch for a component based on the name or title.
-RegexComponentChooser( String regex )
+# org.autoplot.util.jemmy.RegexComponentChooser
+
+Search for a component based on the name or title.
+
+# RegexComponentChooser( String regex )
 create a component chooser for the regex.  It will look at the
  title of Dialogs, the text of JTextComponents and JLabels, etc.
 

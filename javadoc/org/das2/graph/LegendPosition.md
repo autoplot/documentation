@@ -1,4 +1,7 @@
-# org.das2.graph.LegendPositionenumeration of legend positions
+# org.das2.graph.LegendPosition
+
+enumeration of legend positions
+
 ***
 <a name="NW"></a>
 # NW

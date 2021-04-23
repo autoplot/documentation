@@ -1,13 +1,16 @@
-# org.das2.components.DataPointRecorderDataPointRecorder is a GUI for storing data points selected by the user.  
+# org.das2.components.DataPointRecorder
+
+DataPointRecorder is a GUI for storing data points selected by the user.  
  The columns are set dynamically as the data arrives (via addDataPoint).
  
  This replaces DataPointRecorderNew.  (DataPointRecorderNew replaced an older 
  DataPointerRecorder whose name has been reclaimed.)
-DataPointRecorder( )
+
+# DataPointRecorder( )
 create a DataPointRecorder which will collect data such that X
  values are sorted and unique.
 
-DataPointRecorder( boolean sorted )
+# DataPointRecorder( boolean sorted )
 create a DataPointRecorder.  When sorted is true, the data point recorder will only allow
  one point per X value, and the data will be sorted as it is collected.  When it is 
  false, the data will be stored in the order it arrives.

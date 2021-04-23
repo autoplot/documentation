@@ -1,4 +1,6 @@
-# org.autoplot.scriptconsole.GuiExceptionHandlerThis is the original das2 Exception handler dialog, but modified to
+# org.autoplot.scriptconsole.GuiExceptionHandler
+
+This is the original das2 Exception handler dialog, but modified to
  support submitting an error report to a server.
 
  The server is hard-coded to be https://jfaden.net/RTEReceiver/LargeUpload.jsp,
@@ -10,7 +12,8 @@
    "uploadfile"= the file to upload.
  TODO: refactor the error reporting stuff because it should be useful for headless
  applications as well.
-GuiExceptionHandler( )
+
+# GuiExceptionHandler( )
 
 
 ***

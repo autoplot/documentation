@@ -1,7 +1,10 @@
-# org.das2.util.ColorUtilsingle place to contain Color-Name mapping.  These include
+# org.das2.util.ColorUtil
+
+single place to contain Color-Name mapping.  These include
  an old set of 10 or so color names, plus the 130 or so web color
  names like "SaddleBrown" and "DarkOrchid".
-ColorUtil( )
+
+# ColorUtil( )
 
 
 ***

@@ -1,10 +1,13 @@
-# org.autoplot.dom.LabelConverterClass for containing the logic of how macros are implemented.
+# org.autoplot.dom.LabelConverter
+
+Class for containing the logic of how macros are implemented.
  https://sourceforge.net/p/autoplot/feature-requests/426/
  
  This currently supports just the plotElement and plot.  When 
  multiple plotElements are attached to a plot, then the 
  first is used.
-LabelConverter( org.autoplot.dom.Application dom, org.autoplot.dom.Plot plot, org.autoplot.dom.Axis axis, org.autoplot.dom.PlotElement pe, org.autoplot.dom.Annotation an )
+
+# LabelConverter( org.autoplot.dom.Application dom, org.autoplot.dom.Plot plot, org.autoplot.dom.Axis axis, org.autoplot.dom.PlotElement pe, org.autoplot.dom.Annotation an )
 
 
 ***

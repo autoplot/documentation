@@ -1,10 +1,13 @@
-# org.das2.dataset.RebinDescriptorThe RebinDescriptor will quickly look up which 1-D bin a Datum is
+# org.das2.dataset.RebinDescriptor
+
+The RebinDescriptor will quickly look up which 1-D bin a Datum is
  in.  This is not thread-safe, and must be used by only one thread during its
  lifetime.
-RebinDescriptor( double start, double end, Units units, int nBin, boolean isLog )
+
+# RebinDescriptor( double start, double end, Units units, int nBin, boolean isLog )
 
 
-RebinDescriptor( Datum start, Datum end, int nBin, boolean isLog )
+# RebinDescriptor( Datum start, Datum end, int nBin, boolean isLog )
 
 
 ***

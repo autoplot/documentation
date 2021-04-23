@@ -1,5 +1,8 @@
 # org.das2.event.FrequencyDragRenderer
-FrequencyDragRenderer( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis axis )
+
+
+
+# FrequencyDragRenderer( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis axis )
 Creates a new instance of HorizontalFrequencyDragRenderer
 
 ***

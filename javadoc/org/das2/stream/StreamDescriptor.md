@@ -1,9 +1,12 @@
-# org.das2.stream.StreamDescriptorRepresents the global properties of the stream, that are accessible to
+# org.das2.stream.StreamDescriptor
+
+Represents the global properties of the stream, that are accessible to
  datasets within.
-StreamDescriptor( org.w3c.dom.Element element )
+
+# StreamDescriptor( org.w3c.dom.Element element )
 Creates a new instance of StreamProperties
 
-StreamDescriptor( )
+# StreamDescriptor( )
 
 
 ***

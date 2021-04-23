@@ -1,4 +1,7 @@
-# org.autoplot.datasource.DataSourceUtilDataSource utilities.
+# org.autoplot.datasource.DataSourceUtil
+
+DataSource utilities.
+
 ***
 <a name="DEFAULT_TIME_RANGE"></a>
 # DEFAULT_TIME_RANGE

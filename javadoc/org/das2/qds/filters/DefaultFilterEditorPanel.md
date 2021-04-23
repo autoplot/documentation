@@ -1,5 +1,8 @@
-# org.das2.qds.filters.DefaultFilterEditorPanelfall-back can be used for any filter.
-DefaultFilterEditorPanel( )
+# org.das2.qds.filters.DefaultFilterEditorPanel
+
+fall-back can be used for any filter.
+
+# DefaultFilterEditorPanel( )
 Creates new form DefaultEditorPanel
 
 ***

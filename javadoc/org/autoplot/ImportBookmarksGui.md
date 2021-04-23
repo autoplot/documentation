@@ -1,6 +1,9 @@
-# org.autoplot.ImportBookmarksGuiAsk the user if they would like to import the a bookmarks file.  They can
+# org.autoplot.ImportBookmarksGui
+
+Ask the user if they would like to import the a bookmarks file.  They can
  leave it as a remote file as well, so we will keep checking for updates.
-ImportBookmarksGui( )
+
+# ImportBookmarksGui( )
 Creates new form ImportBookmarksGui
 
 ***

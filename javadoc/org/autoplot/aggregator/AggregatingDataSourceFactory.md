@@ -1,5 +1,8 @@
-# org.autoplot.aggregator.AggregatingDataSourceFactoryftp://cdaweb.gsfc.nasa.gov/pub/data/noaa/noaa14/$Y/noaa14_meped1min_sem_$Y$m$d_v01.cdf?timerange=2000-01-01
-AggregatingDataSourceFactory( )
+# org.autoplot.aggregator.AggregatingDataSourceFactory
+
+ftp://cdaweb.gsfc.nasa.gov/pub/data/noaa/noaa14/$Y/noaa14_meped1min_sem_$Y$m$d_v01.cdf?timerange=2000-01-01
+
+# AggregatingDataSourceFactory( )
 Creates a new instance of AggregatingDataSourceFactory
 
 ***

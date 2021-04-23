@@ -1,5 +1,8 @@
-# org.das2.event.HorizontalSlicerMouseModuleSlices spectrogram horizontally, e.g. showing one channel vs time.
-HorizontalSlicerMouseModule( org.das2.graph.DasPlot parent, org.das2.dataset.TableDataSetConsumer dataSetConsumer, org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
+# org.das2.event.HorizontalSlicerMouseModule
+
+Slices spectrogram horizontally, e.g. showing one channel vs time.
+
+# HorizontalSlicerMouseModule( org.das2.graph.DasPlot parent, org.das2.dataset.TableDataSetConsumer dataSetConsumer, org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
 
 
 ***

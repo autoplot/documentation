@@ -1,5 +1,8 @@
-# org.das2.qstream.StreamToolCode for reading streams.  This sends packets to a StreamHandler.
-StreamTool( )
+# org.das2.qstream.StreamTool
+
+Code for reading streams.  This sends packets to a StreamHandler.
+
+# StreamTool( )
 Creates a new instance of StreamTool
 
 ***

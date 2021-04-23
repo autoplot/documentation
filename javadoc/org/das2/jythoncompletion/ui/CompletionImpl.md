@@ -1,4 +1,6 @@
-# org.das2.jythoncompletion.ui.CompletionImplImplementation of the completion processing.
+# org.das2.jythoncompletion.ui.CompletionImpl
+
+Implementation of the completion processing.
  The visual related processing is done in AWT thread together
  with completion providers invocation and result set sorting.
  <br>
@@ -8,6 +10,7 @@
  <p>
  The completion providers typically reschedule computation intensive
  collecting of their result set into an extra thread to keep the GUI responsive.
+
 ***
 <a name="caretUpdate"></a>
 # caretUpdate

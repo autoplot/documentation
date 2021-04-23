@@ -1,5 +1,8 @@
-# org.autoplot.bookmarks.DelayMenuJMenu that delays creating children until the folder is exposed.  Otherwise we would have thousands of
+# org.autoplot.bookmarks.DelayMenu
+
+JMenu that delays creating children until the folder is exposed.  Otherwise we would have thousands of
  JMenuItems created at once, which showed to be slow.
+
 ***
 <a name="calculateMenu"></a>
 # calculateMenu

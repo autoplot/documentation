@@ -1,7 +1,10 @@
-# org.autoplot.datasource.TimeRangeToolEventsListThe EventsList tool makes it easy to browse around a list of events.  It
+# org.autoplot.datasource.TimeRangeToolEventsList
+
+The EventsList tool makes it easy to browse around a list of events.  It
  takes a URI for a dataset which can be represented as an events list, 
  and fires off timeRangeSelection events when an event is selected.
-TimeRangeToolEventsList( )
+
+# TimeRangeToolEventsList( )
 Creates new form TimeRangeToolEventsList
 
 ***

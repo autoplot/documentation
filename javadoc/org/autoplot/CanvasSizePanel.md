@@ -1,6 +1,9 @@
-# org.autoplot.CanvasSizePanelDialog for adjusting the canvas size.  Note this control also appears on
+# org.autoplot.CanvasSizePanel
+
+Dialog for adjusting the canvas size.  Note this control also appears on
  the style tab.
-CanvasSizePanel( )
+
+# CanvasSizePanel( )
 Creates new form CanvasSizePanel
 
 ***

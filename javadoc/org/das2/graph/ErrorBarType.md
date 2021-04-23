@@ -1,4 +1,7 @@
-# org.das2.graph.ErrorBarTypecontrol for the error bar rendering.
+# org.das2.graph.ErrorBarType
+
+control for the error bar rendering.
+
 ***
 <a name="BAR"></a>
 # BAR

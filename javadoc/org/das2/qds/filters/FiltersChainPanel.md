@@ -1,7 +1,10 @@
-# org.das2.qds.filters.FiltersChainPanelChain together a number of FilterEditorPanels to one long filter chain.  For example,
+# org.das2.qds.filters.FiltersChainPanel
+
+Chain together a number of FilterEditorPanels to one long filter chain.  For example,
  |slice1(0)|smooth(5) would add two of the FilterEditorPanel to control each
  filter.  Additionally, this adds and removes filters from the chain.
-FiltersChainPanel( )
+
+# FiltersChainPanel( )
 Creates new form FiltersChainPanel
 
 ***

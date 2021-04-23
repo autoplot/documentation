@@ -1,7 +1,10 @@
-# org.das2.qds.util.TransposeRankNDataSetwrap a qube dataset to transpose the indeces.  This brute force implementation
+# org.das2.qds.util.TransposeRankNDataSet
+
+wrap a qube dataset to transpose the indeces.  This brute force implementation
  calculates the index mapping and is implemented without copying.  For rank 4
  datasets, order[0] must equal 0.
-TransposeRankNDataSet( QDataSet source, int[] order )
+
+# TransposeRankNDataSet( QDataSet source, int[] order )
 
 
 ***

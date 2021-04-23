@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.PyDatumAdapteradapts Datums to PyDatum
-PyDatumAdapter( )
+# org.autoplot.jythonsupport.PyDatumAdapter
+
+adapts Datums to PyDatum
+
+# PyDatumAdapter( )
 
 
 ***

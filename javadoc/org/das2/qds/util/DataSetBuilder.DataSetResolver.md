@@ -1,4 +1,7 @@
-# org.das2.qds.util.DataSetBuilder.DataSetResolverthis was introduced to avoid properties where BUNDLE_1 would temporarily hold the name.
+# org.das2.qds.util.DataSetBuilder.DataSetResolver
+
+this was introduced to avoid properties where BUNDLE_1 would temporarily hold the name.
+
 ***
 <a name="resolve"></a>
 # resolve

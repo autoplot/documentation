@@ -1,5 +1,8 @@
 # org.das2.qds.filters.ContourFilterEditorPanel
-ContourFilterEditorPanel( )
+
+
+
+# ContourFilterEditorPanel( )
 Creates new form ContourFilterEditorPanel
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.stream.StreamComment
-StreamComment( org.w3c.dom.Element element )
+
+
+
+# StreamComment( org.w3c.dom.Element element )
 
 
 ***

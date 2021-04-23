@@ -1,6 +1,9 @@
-# org.autoplot.util.CacheCleanupThis was intended to provide a mechanism to remove old files from
+# org.autoplot.util.CacheCleanup
+
+This was intended to provide a mechanism to remove old files from
  an enduser's cache, where version number updates result in files which
  will never be seen.
+
 ***
 <a name="deleteOldVersions"></a>
 # deleteOldVersions

@@ -1,4 +1,6 @@
-# org.das2.catalog.DasPropProperties retrieved from a das catalog node, a wrapper around Object.  
+# org.das2.catalog.DasProp
+
+Properties retrieved from a das catalog node, a wrapper around Object.  
 
  DasNodes can have properties of different types.  Since Java reflection provides
  methods for determining the actual return type of a property pulled from a catalog
@@ -18,7 +20,8 @@
  Instead this becomes:
    
     Map<String,DasProp> map = node.prop("interface/data/efield/units").map();
-DasProp( Object item )
+
+# DasProp( Object item )
 Wrap a raw object and give it a type.
  
  This constructor does not handle parsing of string objects to some

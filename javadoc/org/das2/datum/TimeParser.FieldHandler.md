@@ -1,6 +1,9 @@
-# org.das2.datum.TimeParser.FieldHandlerInterface to add custom handlers for strings with unique formats.  For example, the RPWS group had files with
+# org.das2.datum.TimeParser.FieldHandler
+
+Interface to add custom handlers for strings with unique formats.  For example, the RPWS group had files with
  two-hex digits indicating the ten-minute interval covered by the file name.  This is also used for orbits.
  TODO: FieldHandler needs to report its affect on the LSD.  (Autoplot gets versioning).
+
 ***
 <a name="configure"></a>
 # configure

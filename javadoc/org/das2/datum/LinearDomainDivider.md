@@ -1,6 +1,9 @@
-# org.das2.datum.LinearDomainDividerA <code>DomainDivider</code> to divide a linear data range into equal segments.
+# org.das2.datum.LinearDomainDivider
+
+A <code>DomainDivider</code> to divide a linear data range into equal segments.
  Within a given order of magnitude, this divider will work in increments of one,
  two, or five.
+
 ***
 <a name="boundaries"></a>
 # boundaries

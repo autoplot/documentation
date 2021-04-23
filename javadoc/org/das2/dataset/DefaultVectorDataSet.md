@@ -1,8 +1,11 @@
 # org.das2.dataset.DefaultVectorDataSet
-DefaultVectorDataSet( double[] xTags, Units xUnits, double[] yValues, Units yUnits, java.util.Map properties )
+
+
+
+# DefaultVectorDataSet( double[] xTags, Units xUnits, double[] yValues, Units yUnits, java.util.Map properties )
 Creates a new instance of DefaultVectorDataSet
 
-DefaultVectorDataSet( double[] xTags, Units xUnits, double[] yValues, Units yUnits, java.util.Map yValuesMap, java.util.Map yUnitsMap, java.util.Map properties )
+# DefaultVectorDataSet( double[] xTags, Units xUnits, double[] yValues, Units yUnits, java.util.Map yValuesMap, java.util.Map yUnitsMap, java.util.Map properties )
 Creates a new instance of DefaultVectorDataSet
  The keys for the properties, yValuesMap, and unitsMap parameter must
  consist solely of String values.  If any of these key sets contain

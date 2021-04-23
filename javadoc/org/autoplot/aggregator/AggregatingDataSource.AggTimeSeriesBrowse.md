@@ -1,5 +1,8 @@
-# org.autoplot.aggregator.AggregatingDataSource.AggTimeSeriesBrowseTimeSeriesBrowse allows users to look up new intervals automatically.
-AggTimeSeriesBrowse( )
+# org.autoplot.aggregator.AggregatingDataSource.AggTimeSeriesBrowse
+
+TimeSeriesBrowse allows users to look up new intervals automatically.
+
+# AggTimeSeriesBrowse( )
 
 
 ***

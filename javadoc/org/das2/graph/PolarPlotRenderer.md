@@ -1,6 +1,9 @@
-# org.das2.graph.PolarPlotRendererPolarPlotRenderer is a refactoring of PitchAngleDistributionRenderer
+# org.das2.graph.PolarPlotRenderer
+
+PolarPlotRenderer is a refactoring of PitchAngleDistributionRenderer
  which will also render rank 1 series.
-PolarPlotRenderer( org.das2.graph.DasColorBar cb )
+
+# PolarPlotRenderer( org.das2.graph.DasColorBar cb )
 
 
 ***

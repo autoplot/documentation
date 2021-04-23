@@ -1,5 +1,8 @@
 # org.autoplot.PlotStylePanel
-PlotStylePanel( org.autoplot.ApplicationModel applicationModel )
+
+
+
+# PlotStylePanel( org.autoplot.ApplicationModel applicationModel )
 Creates new form PlotStylePanel
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.datum.UnitsClass for indicating physical units, and other random units.
+# org.das2.datum.Units
+
+Class for indicating physical units, and other random units.
+
 ***
 <a name="dimensionless"></a>
 # dimensionless

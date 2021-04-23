@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.support.CompletionDocumentationThe interface of an item that can be displayed in the documentation popup.
+# org.das2.jythoncompletion.support.CompletionDocumentation
+
+The interface of an item that can be displayed in the documentation popup.
+
 ***
 <a name="getGotoSourceAction"></a>
 # getGotoSourceAction

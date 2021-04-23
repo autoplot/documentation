@@ -1,5 +1,8 @@
-# org.das2.beans.StackedHistogramRendererBeanInfoBeanInfo class for DasStackedHistogramPlot
-StackedHistogramRendererBeanInfo( )
+# org.das2.beans.StackedHistogramRendererBeanInfo
+
+BeanInfo class for DasStackedHistogramPlot
+
+# StackedHistogramRendererBeanInfo( )
 
 
 ***

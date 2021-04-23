@@ -1,9 +1,12 @@
-# org.autoplot.jythonsupport.DatasetCommandnew implementation of the dataset command allows for keywords in the
+# org.autoplot.jythonsupport.DatasetCommand
+
+new implementation of the dataset command allows for keywords in the
  Jython environment.
 <blockquote><pre><small>{@code
  dataset( [1,2,3,4,3], title='My Data' )
 }</small></pre></blockquote>
-DatasetCommand( )
+
+# DatasetCommand( )
 
 
 ***

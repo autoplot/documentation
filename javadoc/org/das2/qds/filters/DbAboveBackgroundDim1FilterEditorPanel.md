@@ -1,5 +1,8 @@
-# org.das2.qds.filters.DbAboveBackgroundDim1FilterEditorPanelController for dbAboveBackgroundFilter.
-DbAboveBackgroundDim1FilterEditorPanel( )
+# org.das2.qds.filters.DbAboveBackgroundDim1FilterEditorPanel
+
+Controller for dbAboveBackgroundFilter.
+
+# DbAboveBackgroundDim1FilterEditorPanel( )
 Creates new form dbAboveBackgroundDim1FilterEditorPanel
 
 ***

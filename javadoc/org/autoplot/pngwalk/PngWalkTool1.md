@@ -1,6 +1,9 @@
-# org.autoplot.pngwalk.PngWalkTool1Launcher for PngWalkTool to support old name in legacy codes.  The "1" in 
+# org.autoplot.pngwalk.PngWalkTool1
+
+Launcher for PngWalkTool to support old name in legacy codes.  The "1" in 
  PngWalkTool1 was to indicate it was provisional.  Now it's official.
-PngWalkTool1( )
+
+# PngWalkTool1( )
 
 
 ***

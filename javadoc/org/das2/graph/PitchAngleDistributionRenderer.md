@@ -1,8 +1,11 @@
-# org.das2.graph.PitchAngleDistributionRendererDraws a pitch angle distribution, which is a spectrogram wrapped around an origin.  Datasets must
+# org.das2.graph.PitchAngleDistributionRenderer
+
+Draws a pitch angle distribution, which is a spectrogram wrapped around an origin.  Datasets must
  be of the form Z[Angle,Radius].  The dataset Angle must be in radians (Units.radians or dimensionless), or 
  have units Units.degrees.  Note, at one time it would guess the angles dimension, but this was unreliable and was
  removed.
-PitchAngleDistributionRenderer( org.das2.graph.DasColorBar cb )
+
+# PitchAngleDistributionRenderer( org.das2.graph.DasColorBar cb )
 
 
 ***

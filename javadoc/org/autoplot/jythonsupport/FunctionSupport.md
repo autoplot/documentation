@@ -1,11 +1,14 @@
-# org.autoplot.jythonsupport.FunctionSupportCode to support writing Python Functions.
-FunctionSupport( String name, java.lang.String[] parameters )
+# org.autoplot.jythonsupport.FunctionSupport
+
+Code to support writing Python Functions.
+
+# FunctionSupport( String name, java.lang.String[] parameters )
 
 
-FunctionSupport( String name, java.lang.String[] parameters, PyObject[] defaults )
+# FunctionSupport( String name, java.lang.String[] parameters, PyObject[] defaults )
 
 
-FunctionSupport( String name, java.lang.String[] parameters, PyObject[] defaults, String extraPositionalParameters, String extraKeywordParameters )
+# FunctionSupport( String name, java.lang.String[] parameters, PyObject[] defaults, String extraPositionalParameters, String extraKeywordParameters )
 
 
 ***

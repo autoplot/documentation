@@ -1,4 +1,7 @@
-# org.das2.qds.math.fft.ComplexArray.DoubleComplexArray that is accessed by doubles
+# org.das2.qds.math.fft.ComplexArray.Double
+
+ComplexArray that is accessed by doubles
+
 ***
 <a name="getImag"></a>
 # getImag

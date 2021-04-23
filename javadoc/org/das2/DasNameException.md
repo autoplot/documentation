@@ -1,7 +1,10 @@
 # org.das2.DasNameException
-DasNameException( )
+
+
+
+# DasNameException( )
 Creates a new instance of DasNameException
 
-DasNameException( String message )
+# DasNameException( String message )
 
 

@@ -1,5 +1,8 @@
-# org.das2.event.AnnotatorMouseModuleDraw a box and add an annotation.
-AnnotatorMouseModule( org.das2.graph.DasCanvasComponent parent )
+# org.das2.event.AnnotatorMouseModule
+
+Draw a box and add an annotation.
+
+# AnnotatorMouseModule( org.das2.graph.DasCanvasComponent parent )
 Creates a new instance of AnnotatorMouseModule
 
 ***

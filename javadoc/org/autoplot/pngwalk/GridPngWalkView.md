@@ -1,5 +1,8 @@
 # org.autoplot.pngwalk.GridPngWalkView
-GridPngWalkView( org.autoplot.pngwalk.WalkImageSequence sequence )
+
+
+
+# GridPngWalkView( org.autoplot.pngwalk.WalkImageSequence sequence )
 
 
 ***

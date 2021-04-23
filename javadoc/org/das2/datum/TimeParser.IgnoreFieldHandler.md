@@ -1,5 +1,8 @@
-# org.das2.datum.TimeParser.IgnoreFieldHandlerJust skip the field.  This is the default for $v.
-IgnoreFieldHandler( )
+# org.das2.datum.TimeParser.IgnoreFieldHandler
+
+Just skip the field.  This is the default for $v.
+
+# IgnoreFieldHandler( )
 
 
 ***

@@ -1,4 +1,6 @@
-# org.das2.event.DasMouseInputAdapterDasMouseInputAdapter delegates mouse and key events to mouse modules, which
+# org.das2.event.DasMouseInputAdapter
+
+DasMouseInputAdapter delegates mouse and key events to mouse modules, which
  do something with the events.  Also, mouse events are promoted to MouseDragEvents
  which conveniently store information about the entire drag gesture.
 
@@ -9,7 +11,8 @@
  during the drag, or when keys are pressed.
 
  The module will first receive the low-level events before receiving the MouseDragEvents.
-DasMouseInputAdapter( org.das2.graph.DasCanvasComponent parent )
+
+# DasMouseInputAdapter( org.das2.graph.DasCanvasComponent parent )
 Create a DasMouseInputAdapter to handle mouse events for the component.
 
 ***

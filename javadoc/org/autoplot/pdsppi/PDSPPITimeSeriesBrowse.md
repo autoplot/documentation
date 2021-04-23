@@ -1,8 +1,11 @@
 # org.autoplot.pdsppi.PDSPPITimeSeriesBrowse
-PDSPPITimeSeriesBrowse( )
 
 
-PDSPPITimeSeriesBrowse( String uri )
+
+# PDSPPITimeSeriesBrowse( )
+
+
+# PDSPPITimeSeriesBrowse( String uri )
 
 
 ***

@@ -1,4 +1,7 @@
-# org.autoplot.hapiserver.CapabilitiesServletGenerate the HAPI server capabilities
-CapabilitiesServlet( )
+# org.autoplot.hapiserver.CapabilitiesServlet
+
+Generate the HAPI server capabilities
+
+# CapabilitiesServlet( )
 
 

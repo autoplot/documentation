@@ -1,6 +1,9 @@
-# org.autoplot.dom.OptionsPrefsControllerlisten to an Options class and manage storage and retrieval from persistent
+# org.autoplot.dom.OptionsPrefsController
+
+listen to an Options class and manage storage and retrieval from persistent
  storage.
-OptionsPrefsController( org.autoplot.ApplicationModel model, org.autoplot.dom.Options options )
+
+# OptionsPrefsController( org.autoplot.ApplicationModel model, org.autoplot.dom.Options options )
 create a new controller with preferences for the options class.
 
 ***

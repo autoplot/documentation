@@ -1,5 +1,8 @@
-# org.autoplot.pngwalk.ScalePerspectiveImageOpImageOp that draws the reflection as well as the perspective view of the data.
-ScalePerspectiveImageOp( int w, int h, int x1, int y1, int w1, int h1, int rh1, int ssx, int ssy, double p, boolean reflect )
+# org.autoplot.pngwalk.ScalePerspectiveImageOp
+
+ImageOp that draws the reflection as well as the perspective view of the data.
+
+# ScalePerspectiveImageOp( int w, int h, int x1, int y1, int w1, int h1, int rh1, int ssx, int ssy, double p, boolean reflect )
 
 
 ***

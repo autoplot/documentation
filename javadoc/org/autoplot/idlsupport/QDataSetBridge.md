@@ -1,4 +1,7 @@
-# org.autoplot.idlsupport.QDataSetBridgeSee http://autoplot.org/IDL and http://autoplot.org/Matlab which show how this is used in the environments.
+# org.autoplot.idlsupport.QDataSetBridge
+
+See http://autoplot.org/IDL and http://autoplot.org/Matlab which show how this is used in the environments.
+
 ***
 <a name="PROP_FILTER"></a>
 # PROP_FILTER

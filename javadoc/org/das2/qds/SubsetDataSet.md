@@ -1,5 +1,8 @@
-# org.das2.qds.SubsetDataSetExtracts a subset of the source dataset by using a rank 1 subset of indeces on each index.
-SubsetDataSet( QDataSet source )
+# org.das2.qds.SubsetDataSet
+
+Extracts a subset of the source dataset by using a rank 1 subset of indeces on each index.
+
+# SubsetDataSet( QDataSet source )
 create a subSetDataSet for the source, which is read for applyIndex calls
  which reduce each index.
 

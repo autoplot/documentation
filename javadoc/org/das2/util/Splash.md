@@ -1,5 +1,8 @@
 # org.das2.util.Splash
-Splash( )
+
+
+
+# Splash( )
 Creates a new instance of Splash
 
 ***

@@ -1,8 +1,11 @@
-# org.das2.client.DasServerRepresents a remote Das 2.1 compliant server.  
+# org.das2.client.DasServer
+
+Represents a remote Das 2.1 compliant server.  
 
  Use the create() method to instantiate new Das 2 server objects.  Each call to
  create() will only allocate a new server instance if no server matching the given URL
  has already been created.
+
 ***
 <a name="authenticate"></a>
 # authenticate

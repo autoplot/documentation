@@ -1,7 +1,10 @@
-# org.das2.qds.util.AsciiFormatterIt would be useful to have a method for exporting data when working with
+# org.das2.qds.util.AsciiFormatter
+
+It would be useful to have a method for exporting data when working with
  QDataSet, so this is introduced.  This is very limited in its functionality,
  and should be extended as needed.
-AsciiFormatter( )
+
+# AsciiFormatter( )
 
 
 ***

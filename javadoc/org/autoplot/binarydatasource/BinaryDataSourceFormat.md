@@ -1,5 +1,8 @@
-# org.autoplot.binarydatasource.BinaryDataSourceFormatFormat data to binary file.
-BinaryDataSourceFormat( )
+# org.autoplot.binarydatasource.BinaryDataSourceFormat
+
+Format data to binary file.
+
+# BinaryDataSourceFormat( )
 
 
 ***

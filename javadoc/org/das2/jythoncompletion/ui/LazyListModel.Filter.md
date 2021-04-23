@@ -1,6 +1,9 @@
-# org.das2.jythoncompletion.ui.LazyListModel.FilterInterface for those that wish to filter content of the list.
+# org.das2.jythoncompletion.ui.LazyListModel.Filter
+
+Interface for those that wish to filter content of the list.
  This filter is expected to always return the same result for
  the same object - e.g. either always exclude or include it.
+
 ***
 <a name="accept"></a>
 # accept

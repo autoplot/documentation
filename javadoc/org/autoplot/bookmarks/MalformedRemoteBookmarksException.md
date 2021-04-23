@@ -1,4 +1,7 @@
-# org.autoplot.bookmarks.MalformedRemoteBookmarksExceptionmarker class for MalformedRemoteBookmarksException
-MalformedRemoteBookmarksException( String msg )
+# org.autoplot.bookmarks.MalformedRemoteBookmarksException
+
+marker class for MalformedRemoteBookmarksException
+
+# MalformedRemoteBookmarksException( String msg )
 
 

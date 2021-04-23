@@ -1,5 +1,8 @@
 # org.das2.dataset.XSliceDataSet
-XSliceDataSet( org.das2.dataset.TableDataSet tdsSource, int i )
+
+
+
+# XSliceDataSet( org.das2.dataset.TableDataSet tdsSource, int i )
 
 
 ***

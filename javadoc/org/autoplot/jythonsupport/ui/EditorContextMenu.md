@@ -1,5 +1,8 @@
 # org.autoplot.jythonsupport.ui.EditorContextMenu
-EditorContextMenu( org.autoplot.jythonsupport.ui.EditorTextPane edit )
+
+
+
+# EditorContextMenu( org.autoplot.jythonsupport.ui.EditorTextPane edit )
 
 
 ***

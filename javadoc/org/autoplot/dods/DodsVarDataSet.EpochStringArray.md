@@ -1,5 +1,8 @@
 # org.autoplot.dods.DodsVarDataSet.EpochStringArray
-EpochStringArray( DArray array, java.util.Map properties )
+
+
+
+# EpochStringArray( DArray array, java.util.Map properties )
 
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.nbadapt.CharSequenceUtilitiesUtility methods related to character sequences.
+# org.das2.jythoncompletion.nbadapt.CharSequenceUtilities
+
+Utility methods related to character sequences.
+
 ***
 <a name="append"></a>
 # append

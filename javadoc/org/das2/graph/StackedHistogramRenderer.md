@@ -1,8 +1,11 @@
 # org.das2.graph.StackedHistogramRenderer
-StackedHistogramRenderer( org.das2.graph.DasAxis zAxis )
 
 
-StackedHistogramRenderer( org.das2.graph.DasPlot parent, org.das2.dataset.DataSetDescriptor dsd, org.das2.graph.DasAxis zAxis, org.das2.graph.DasAxis yAxis )
+
+# StackedHistogramRenderer( org.das2.graph.DasAxis zAxis )
+
+
+# StackedHistogramRenderer( org.das2.graph.DasPlot parent, org.das2.dataset.DataSetDescriptor dsd, org.das2.graph.DasAxis zAxis, org.das2.graph.DasAxis yAxis )
 
 
 ***

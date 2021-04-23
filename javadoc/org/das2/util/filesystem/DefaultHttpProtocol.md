@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.DefaultHttpProtocolThis http protocol uses the local cache.
-DefaultHttpProtocol( )
+# org.das2.util.filesystem.DefaultHttpProtocol
+
+This http protocol uses the local cache.
+
+# DefaultHttpProtocol( )
 
 
 ***

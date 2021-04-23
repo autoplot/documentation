@@ -1,5 +1,8 @@
-# org.das2.qstream.ShortTransferTypetwo-byte signed integer type.
-ShortTransferType( )
+# org.das2.qstream.ShortTransferType
+
+two-byte signed integer type.
+
+# ShortTransferType( )
 
 
 ***

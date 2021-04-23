@@ -1,5 +1,8 @@
 # org.das2.qstream.DefaultSerializeDelegate.Byte
-Byte( )
+
+
+
+# Byte( )
 
 
 ***

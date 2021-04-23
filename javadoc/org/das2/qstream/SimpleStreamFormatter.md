@@ -1,6 +1,9 @@
-# org.das2.qstream.SimpleStreamFormatterClass for formatting QDataSets as QStreams.  Although this is "SimpleStreamFormatter," this is the only formatter written
+# org.das2.qstream.SimpleStreamFormatter
+
+Class for formatting QDataSets as QStreams.  Although this is "SimpleStreamFormatter," this is the only formatter written
  thus far, except for SerialStreamFormatter, which formats packet-by-packet.
-SimpleStreamFormatter( )
+
+# SimpleStreamFormatter( )
 
 
 ***

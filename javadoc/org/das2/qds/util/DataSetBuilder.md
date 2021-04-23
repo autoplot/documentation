@@ -1,23 +1,26 @@
-# org.das2.qds.util.DataSetBuilderallows dataset of unknown length to be built. Presently, this only builds QUBES, but should allow for geometry changes.
+# org.das2.qds.util.DataSetBuilder
+
+allows dataset of unknown length to be built. Presently, this only builds QUBES, but should allow for geometry changes.
  TODO: consider using WritableDataSet interface.
  The guessRecCount parameter is the initial number of allocated records, and is also the extension when this number of
  records is passed.  The final physical dataset size is not affected by this, because the data is copied.
-DataSetBuilder( int rank )
+
+# DataSetBuilder( int rank )
 Create a new builder for a rank 0 dataset.
 
-DataSetBuilder( int rank, int guessRecCount )
+# DataSetBuilder( int rank, int guessRecCount )
 Create a new builder for a rank 1 dataset.
  guessRecCount is the guess of dim0 size.  Bad guesses will simply result in an extra array copy.
 
-DataSetBuilder( int rank, int guessRecCount, int dim1 )
+# DataSetBuilder( int rank, int guessRecCount, int dim1 )
 Create a new builder for a rank 2 dataset.
  guessRecCount is the guess of dim0 size.  Bad guesses will simply result in an extra array copy.
 
-DataSetBuilder( int rank, int guessRecCount, int dim1, int dim2 )
+# DataSetBuilder( int rank, int guessRecCount, int dim1, int dim2 )
 Create a new builder for a rank 3 dataset.
  guessRecCount is the guess of dim0 size.  Bad guesses will simply result in an extra array copy.
 
-DataSetBuilder( int rank, int guessRecCount, int dim1, int dim2, int dim3 )
+# DataSetBuilder( int rank, int guessRecCount, int dim1, int dim2, int dim3 )
 Create a new builder for a rank 4 dataset.
  guessRecCount is the guess of dim0 size.  Bad guesses will simply result in an extra array copy.
 

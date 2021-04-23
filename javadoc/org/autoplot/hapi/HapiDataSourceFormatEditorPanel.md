@@ -1,5 +1,8 @@
 # org.autoplot.hapi.HapiDataSourceFormatEditorPanel
-HapiDataSourceFormatEditorPanel( )
+
+
+
+# HapiDataSourceFormatEditorPanel( )
 Creates new form HapiDataSourceFormatEditorPanel
 
 ***

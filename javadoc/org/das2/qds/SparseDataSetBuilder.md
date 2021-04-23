@@ -1,10 +1,13 @@
-# org.das2.qds.SparseDataSetBuilderBuilder for SparseDataSets.  This was introduced to fix the problem where
+# org.das2.qds.SparseDataSetBuilder
+
+Builder for SparseDataSets.  This was introduced to fix the problem where
  we wish to calculate the SparseDataSet in one pass, but we can't do this because
  PyQDataSets obscure the type and there was no way to set the length.
  
  This is also useful for building the BundleDescriptor datasets that describe how to 
  unpack rank 2 datasets with the BUNDLE_1 property.
-SparseDataSetBuilder( int rank )
+
+# SparseDataSetBuilder( int rank )
 
 
 ***

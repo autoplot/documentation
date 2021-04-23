@@ -1,4 +1,6 @@
-# org.das2.util.Base64.DecoderThis class implements a decoder for decoding byte data using the
+# org.das2.util.Base64.Decoder
+
+This class implements a decoder for decoding byte data using the
  Base64 encoding scheme as specified in RFC 4648 and RFC 2045.
 
  <p> The Base64 padding character {@code '='} is accepted and
@@ -19,6 +21,7 @@
  a method of this class will cause a
  {@link java.lang.NullPointerException NullPointerException} to
  be thrown.
+
 ***
 <a name="decode"></a>
 # decode

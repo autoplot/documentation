@@ -1,5 +1,8 @@
-# org.das2.components.propertyeditor.PropertyEditorThis class implements a Hierarchical property editor
-PropertyEditor( Object bean )
+# org.das2.components.propertyeditor.PropertyEditor
+
+This class implements a Hierarchical property editor
+
+# PropertyEditor( Object bean )
 create a PropertyEditor for the bean.
 
 ***

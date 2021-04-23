@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.HttpFileSystemFactoryCreates a FileSystem for reading files via HTTP and HTTPS.
-HttpFileSystemFactory( )
+# org.das2.util.filesystem.HttpFileSystemFactory
+
+Creates a FileSystem for reading files via HTTP and HTTPS.
+
+# HttpFileSystemFactory( )
 
 
 ***

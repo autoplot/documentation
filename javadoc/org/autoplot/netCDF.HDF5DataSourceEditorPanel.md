@@ -1,5 +1,8 @@
-# org.autoplot.netCDF.HDF5DataSourceEditorPanelEditor panel for HDF5 files.
-HDF5DataSourceEditorPanel( )
+# org.autoplot.netCDF.HDF5DataSourceEditorPanel
+
+Editor panel for HDF5 files.
+
+# HDF5DataSourceEditorPanel( )
 Creates new form HDF5DataSourceEditorPanel
 
 ***

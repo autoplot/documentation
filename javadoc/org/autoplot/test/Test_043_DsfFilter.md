@@ -1,5 +1,8 @@
-# org.autoplot.test.Test_043_DsfFilterDemonstrate https://sourceforge.net/p/autoplot/feature-requests/476/
-Test_043_DsfFilter( )
+# org.autoplot.test.Test_043_DsfFilter
+
+Demonstrate https://sourceforge.net/p/autoplot/feature-requests/476/
+
+# Test_043_DsfFilter( )
 
 
 ***

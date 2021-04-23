@@ -1,4 +1,7 @@
-# org.das2.util.filesystem.SubFileSystempresent part of a filesystem as a filesystem.
+# org.das2.util.filesystem.SubFileSystem
+
+present part of a filesystem as a filesystem.
+
 ***
 <a name="getFileObject"></a>
 # getFileObject

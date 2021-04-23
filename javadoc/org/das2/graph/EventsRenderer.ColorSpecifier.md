@@ -1,4 +1,7 @@
 # org.das2.graph.EventsRenderer.ColorSpecifier
+
+
+
 ***
 <a name="getColor"></a>
 # getColor

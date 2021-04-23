@@ -1,5 +1,8 @@
-# org.autoplot.dom.DataSourceFilterModel for a source of data plus additional processing.
-DataSourceFilter( )
+# org.autoplot.dom.DataSourceFilter
+
+Model for a source of data plus additional processing.
+
+# DataSourceFilter( )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.das2.dataset.test.WavVectorDataSetWraps .wav file as a VectorDataSet.  The dataset will have a set of data planes
+# org.das2.dataset.test.WavVectorDataSet
+
+Wraps .wav file as a VectorDataSet.  The dataset will have a set of data planes
  for each channel identified channel0, channel1, and so on.  The x values are
  elapsed time, and the y units are dimensionless and normalized to 0.0 to +1.0.
+
 ***
 <a name="createFromFile"></a>
 # createFromFile

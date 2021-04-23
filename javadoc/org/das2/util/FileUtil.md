@@ -1,6 +1,9 @@
-# org.das2.util.FileUtilstatic utility methods.
+# org.das2.util.FileUtil
+
+static utility methods.
  
  introduced Jul 28, 2008.
+
 ***
 <a name="deleteFileTree"></a>
 # deleteFileTree

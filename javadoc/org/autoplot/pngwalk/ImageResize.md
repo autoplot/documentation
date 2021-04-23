@@ -1,6 +1,9 @@
-# org.autoplot.pngwalk.ImageResizefirst from http://today.java.net/pub/a/today/2007/04/03/perils-of-image-getscaledinstance.html
+# org.autoplot.pngwalk.ImageResize
+
+first from http://today.java.net/pub/a/today/2007/04/03/perils-of-image-getscaledinstance.html
  resize taken from http://www.componenthouse.com/article-20
-ImageResize( )
+
+# ImageResize( )
 
 
 ***

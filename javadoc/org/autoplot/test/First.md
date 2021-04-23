@@ -1,5 +1,8 @@
-# org.autoplot.test.Firstfirst testing of Jemmy API.
-First( )
+# org.autoplot.test.First
+
+first testing of Jemmy API.
+
+# First( )
 
 
 ***

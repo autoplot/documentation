@@ -1,5 +1,8 @@
 # org.das2.util.DasMath
-DasMath( )
+
+
+
+# DasMath( )
 Creates a new instance of DasMath
 
 ***

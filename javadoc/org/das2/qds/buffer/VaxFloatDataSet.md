@@ -1,8 +1,11 @@
-# org.das2.qds.buffer.VaxFloatDataSetreader to read Vax floats, motivated by RPWS group need to read ISEE data.
+# org.das2.qds.buffer.VaxFloatDataSet
+
+reader to read Vax floats, motivated by RPWS group need to read ISEE data.
 <blockquote><pre>
 vap+bin:sftp://klunk.physics.uiowa.edu/opt/project/isee/archive/a1977/77295.arc?recLength=880&type=vaxfloat&recOffset=20
 </pre></blockquote>
-VaxFloatDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
+
+# VaxFloatDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
 
 
 ***

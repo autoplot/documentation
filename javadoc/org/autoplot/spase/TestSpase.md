@@ -1,5 +1,8 @@
 # org.autoplot.spase.TestSpase
-TestSpase( )
+
+
+
+# TestSpase( )
 Creates a new instance of TestSpase
 
 ***

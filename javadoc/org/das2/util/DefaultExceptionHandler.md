@@ -1,6 +1,9 @@
-# org.das2.util.DefaultExceptionHandlerWrapper for DasExceptionHandler, a dialog box for endusers with options
+# org.das2.util.DefaultExceptionHandler
+
+Wrapper for DasExceptionHandler, a dialog box for endusers with options
  to get at the debugging information.
-DefaultExceptionHandler( )
+
+# DefaultExceptionHandler( )
 Creates a new instance of DefaultExceptionHandler
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.qstream.DefaultSerializeDelegateHandles the base types, Number, etc.
-DefaultSerializeDelegate( )
+# org.das2.qstream.DefaultSerializeDelegate
+
+Handles the base types, Number, etc.
+
+# DefaultSerializeDelegate( )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.das2.qds.ReplicateDataSetrepeats a dataset n times.  The result has the first index being the
+# org.das2.qds.ReplicateDataSet
+
+repeats a dataset n times.  The result has the first index being the
  repeat index.
-ReplicateDataSet( QDataSet s, int len0 )
+
+# ReplicateDataSet( QDataSet s, int len0 )
 
 
 ***

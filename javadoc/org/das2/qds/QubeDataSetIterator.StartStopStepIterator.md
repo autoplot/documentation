@@ -1,5 +1,8 @@
-# org.das2.qds.QubeDataSetIterator.StartStopStepIteratorIterator for counting off indeces.  (3:15:2 in ds[3:15:2,:])
-StartStopStepIterator( int start, int stop, int step, boolean all )
+# org.das2.qds.QubeDataSetIterator.StartStopStepIterator
+
+Iterator for counting off indeces.  (3:15:2 in ds[3:15:2,:])
+
+# StartStopStepIterator( int start, int stop, int step, boolean all )
 
 
 ***

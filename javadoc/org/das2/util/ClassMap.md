@@ -1,5 +1,8 @@
-# org.das2.util.ClassMapMap that takes a Class for keys, and the get method finds the closest matching class.
-ClassMap( )
+# org.das2.util.ClassMap
+
+Map that takes a Class for keys, and the get method finds the closest matching class.
+
+# ClassMap( )
 Creates a new instance of ClassMap
 
 ***

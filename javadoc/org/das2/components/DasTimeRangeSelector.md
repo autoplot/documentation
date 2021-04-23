@@ -1,11 +1,14 @@
 # org.das2.components.DasTimeRangeSelector
-DasTimeRangeSelector( )
+
+
+
+# DasTimeRangeSelector( )
 Creates a new instance of DasTimeRangeSelector
 
-DasTimeRangeSelector( Datum startTime, Datum endTime )
+# DasTimeRangeSelector( Datum startTime, Datum endTime )
 
 
-DasTimeRangeSelector( DatumRange range )
+# DasTimeRangeSelector( DatumRange range )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.autoplot.servlet.ServletInfoservlet for reporting version information.  This should be 
+# org.autoplot.servlet.ServletInfo
+
+servlet for reporting version information.  This should be 
  updated manually before adding and releasing new features.
-ServletInfo( )
+
+# ServletInfo( )
 
 
 ***

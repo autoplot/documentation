@@ -1,5 +1,8 @@
-# org.das2.datum.LogLinDomainDividerA DomainDivider which divides logarithmically (base 10), with linear subdivisions.
+# org.das2.datum.LogLinDomainDivider
+
+A DomainDivider which divides logarithmically (base 10), with linear subdivisions.
  It provides divisions such as 1,2,3,4,5,6,7,8,9,10,20,30,40,50.....
+
 ***
 <a name="boundaries"></a>
 # boundaries

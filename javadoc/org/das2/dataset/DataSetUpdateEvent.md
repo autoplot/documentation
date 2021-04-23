@@ -1,11 +1,14 @@
 # org.das2.dataset.DataSetUpdateEvent
-DataSetUpdateEvent( Object source )
 
 
-DataSetUpdateEvent( Object source, QDataSet dataSet )
+
+# DataSetUpdateEvent( Object source )
+
+
+# DataSetUpdateEvent( Object source, QDataSet dataSet )
 Creates a new instance of DataSetUpdateEvent
 
-DataSetUpdateEvent( Object source, java.lang.Exception exception )
+# DataSetUpdateEvent( Object source, java.lang.Exception exception )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.qds.QubeDataSetIterator.IndexListIteratorIterator that goes through a list of indeces.
-IndexListIterator( QDataSet ds )
+# org.das2.qds.QubeDataSetIterator.IndexListIterator
+
+Iterator that goes through a list of indeces.
+
+# IndexListIterator( QDataSet ds )
 
 
 ***

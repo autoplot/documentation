@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.MathematicaJythonConverterTool for converting Mathematica expressions into Jython code.
-MathematicaJythonConverter( javax.swing.JEditorPane editor )
+# org.autoplot.jythonsupport.MathematicaJythonConverter
+
+Tool for converting Mathematica expressions into Jython code.
+
+# MathematicaJythonConverter( javax.swing.JEditorPane editor )
 Creates new form JavaJythonConverter
 
 ***

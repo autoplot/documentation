@@ -1,9 +1,12 @@
-# org.das2.datum.format.TimeDatumFormatterFormatter is configured with strings of SimpleDateFormat (yyyy-MM-DD)
+# org.das2.datum.format.TimeDatumFormatter
+
+Formatter is configured with strings of SimpleDateFormat (yyyy-MM-DD)
  or % percent format (%Y-%m-%d) specifiers.  
  SimpleDateFormat is discouraged because most other parts of das2 use the
  shorter form.
  This does not support formats with seconds but no hours and minutes, like "$Y $j $S"
-TimeDatumFormatter( String formatString )
+
+# TimeDatumFormatter( String formatString )
 Creates a new instance of TimeDatumFormatter
 
 ***

@@ -1,7 +1,10 @@
-# org.autoplot.datasource.CompletionsDataSourceEditorGeneric Editor based on completions was first developed with 
+# org.autoplot.datasource.CompletionsDataSourceEditor
+
+Generic Editor based on completions was first developed with 
  JunoWavesDataSource, now will be used instead of completions
  when file icon is used.
-CompletionsDataSourceEditor( )
+
+# CompletionsDataSourceEditor( )
 Creates new form CompletionsDataSourceEditor
 
 ***

@@ -1,4 +1,7 @@
 # org.das2.math.QuadFitUtil
+
+
+
 ***
 <a name="polyfitw"></a>
 # polyfitw

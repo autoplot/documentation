@@ -1,8 +1,11 @@
 # org.das2.jythoncompletion.DefaultDocumentationItem
-DefaultDocumentationItem( String link )
 
 
-DefaultDocumentationItem( String link, String text )
+
+# DefaultDocumentationItem( String link )
+
+
+# DefaultDocumentationItem( String link, String text )
 
 
 ***

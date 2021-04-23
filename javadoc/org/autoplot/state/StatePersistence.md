@@ -1,4 +1,7 @@
-# org.autoplot.state.StatePersistenceClass for serializing and deserializing application configuration.
+# org.autoplot.state.StatePersistence
+
+Class for serializing and deserializing application configuration.
+
 ***
 <a name="currentScheme"></a>
 # currentScheme

@@ -1,6 +1,9 @@
-# org.das2.qstream.AsciiTransferTypeTransfer type that represents data as formatted ASCII strings.  See
+# org.das2.qstream.AsciiTransferType
+
+Transfer type that represents data as formatted ASCII strings.  See
  also AsciiTimeTransferType, which represents UT times.
-AsciiTransferType( int sizeBytes, boolean scientificNotation )
+
+# AsciiTransferType( int sizeBytes, boolean scientificNotation )
 
 
 ***

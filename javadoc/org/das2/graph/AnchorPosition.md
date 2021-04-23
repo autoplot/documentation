@@ -1,4 +1,7 @@
-# org.das2.graph.AnchorPositionenumeration of relative positions to a row, column box.
+# org.das2.graph.AnchorPosition
+
+enumeration of relative positions to a row, column box.
+
 ***
 <a name="NW"></a>
 # NW

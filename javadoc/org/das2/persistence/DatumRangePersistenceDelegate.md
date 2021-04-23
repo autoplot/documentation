@@ -1,5 +1,8 @@
 # org.das2.persistence.DatumRangePersistenceDelegate
-DatumRangePersistenceDelegate( )
+
+
+
+# DatumRangePersistenceDelegate( )
 Creates a new instance of DatumRangePersistenceDelegate
 
 ***

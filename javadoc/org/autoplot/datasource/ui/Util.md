@@ -1,4 +1,7 @@
-# org.autoplot.datasource.ui.Utiltaken from http://www.jguru.com/faq/view.jsp?EID=87579 (see code towards the bottom, view source).
+# org.autoplot.datasource.ui.Util
+
+taken from http://www.jguru.com/faq/view.jsp?EID=87579 (see code towards the bottom, view source).
+
 ***
 <a name="enableComponents"></a>
 # enableComponents

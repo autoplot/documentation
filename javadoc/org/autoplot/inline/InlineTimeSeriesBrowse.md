@@ -1,7 +1,10 @@
-# org.autoplot.inline.InlineTimeSeriesBrowseThis was DefaultTimeSeriesBrowse until it became clear that it didn't properly
+# org.autoplot.inline.InlineTimeSeriesBrowse
+
+This was DefaultTimeSeriesBrowse until it became clear that it didn't properly
  parse and reformat the URIs like
  vap+inline:ds1=getDataSet('http://emfisis.physics.uiowa.edu/Flight/RBSP-A/L3/$Y/$m/$d/rbsp-a_magnetometer_4sec-sm_emfisis-L3_$Y$m$d_v$(v,sep).cdf?Mag&slice1=1&timerange=2014-02-23')&ds2=getDataSet('http://emfisis.physics.uiowa.edu/Flight/RBSP-A/L3/$Y/$m/$d/rbsp-a_magnetometer_4sec-sm_emfisis-L3_$Y$m$d_v$(v,sep).cdf?Mag&slice1=0&timerange=2014-02-23')&ds2&timerange=2014-02-23
  These should have been escaped, but it's probably too late.
+
 ***
 <a name="uri"></a>
 # uri

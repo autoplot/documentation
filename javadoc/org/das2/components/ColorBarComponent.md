@@ -1,5 +1,8 @@
-# org.das2.components.ColorBarComponentColorBarComponent wraps a DasColorBar and DasCanvas to make a component.
-ColorBarComponent( Datum min, Datum max, boolean isLog )
+# org.das2.components.ColorBarComponent
+
+ColorBarComponent wraps a DasColorBar and DasCanvas to make a component.
+
+# ColorBarComponent( Datum min, Datum max, boolean isLog )
 create a new ColorBarComponent
 
 ***

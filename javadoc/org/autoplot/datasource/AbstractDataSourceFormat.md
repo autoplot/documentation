@@ -1,4 +1,7 @@
-# org.autoplot.datasource.AbstractDataSourceFormatprovides getParam to extensions and the file part.
+# org.autoplot.datasource.AbstractDataSourceFormat
+
+provides getParam to extensions and the file part.
+
 ***
 <a name="getBooleanParam"></a>
 # getBooleanParam

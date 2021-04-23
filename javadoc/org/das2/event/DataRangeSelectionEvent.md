@@ -1,8 +1,11 @@
 # org.das2.event.DataRangeSelectionEvent
-DataRangeSelectionEvent( Object source, Datum min, Datum max )
 
 
-DataRangeSelectionEvent( Object source, DatumRange range )
+
+# DataRangeSelectionEvent( Object source, Datum min, Datum max )
+
+
+# DataRangeSelectionEvent( Object source, DatumRange range )
 
 
 ***

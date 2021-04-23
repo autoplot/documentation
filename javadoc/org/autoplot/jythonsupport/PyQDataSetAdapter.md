@@ -1,6 +1,9 @@
-# org.autoplot.jythonsupport.PyQDataSetAdapterAdapt QDataSet results to PyQDataSet, which provides __getitem__
+# org.autoplot.jythonsupport.PyQDataSetAdapter
+
+Adapt QDataSet results to PyQDataSet, which provides __getitem__
  and __setitem__.  (ds[0,0]=ds[0,0]+1)
-PyQDataSetAdapter( )
+
+# PyQDataSetAdapter( )
 
 
 ***

@@ -1,8 +1,11 @@
-# org.das2.qds.util.ValuesTreeModelprovides a TreeModel representation of the dataset's properties.
-ValuesTreeModel( QDataSet ds )
+# org.das2.qds.util.ValuesTreeModel
+
+provides a TreeModel representation of the dataset's properties.
+
+# ValuesTreeModel( QDataSet ds )
 
 
-ValuesTreeModel( String prefix, QDataSet ds )
+# ValuesTreeModel( String prefix, QDataSet ds )
 
 
 ***

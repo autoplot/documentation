@@ -1,7 +1,10 @@
-# org.das2.qds.ConstantDataSetefficient dataset that has no properties and one value.  This can be used as a marker
+# org.das2.qds.ConstantDataSet
+
+efficient dataset that has no properties and one value.  This can be used as a marker
  interface too, where the client can inspect the type and just get the valid value once.
  See also ReplicateDataSet and TagGenDataSet
-ConstantDataSet( int len, double value )
+
+# ConstantDataSet( int len, double value )
 create a rank 1 dataset of the given length.
 
 ***

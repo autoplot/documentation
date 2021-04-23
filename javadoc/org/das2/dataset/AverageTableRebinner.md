@@ -1,6 +1,9 @@
-# org.das2.dataset.AverageTableRebinnerDataSetRebinner implementing either bilinear interpolation in blocks of 4 points, or nearest neighbor interpolation by
+# org.das2.dataset.AverageTableRebinner
+
+DataSetRebinner implementing either bilinear interpolation in blocks of 4 points, or nearest neighbor interpolation by
  grabbing close points, or no interpolation at all..  Points the land on the same pixel are averaged together.
-AverageTableRebinner( )
+
+# AverageTableRebinner( )
 Creates a new instance of TableAverageRebinner
 
 ***

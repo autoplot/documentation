@@ -1,5 +1,8 @@
-# org.das2.dataset.VectorDataSetInterface definition for datasets comprised of a y value
+# org.das2.dataset.VectorDataSet
+
+Interface definition for datasets comprised of a y value
  for each x tag such that y(x).
+
 ***
 <a name="getDatum"></a>
 # getDatum

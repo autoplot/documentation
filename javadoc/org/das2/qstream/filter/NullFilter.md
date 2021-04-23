@@ -1,6 +1,9 @@
-# org.das2.qstream.filter.NullFilterTrivial filter just passes stream on to the next guy.  This is
+# org.das2.qstream.filter.NullFilter
+
+Trivial filter just passes stream on to the next guy.  This is
  useful for starting new filters or debugging.
-NullFilter( )
+
+# NullFilter( )
 
 
 ***

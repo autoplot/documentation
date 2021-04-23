@@ -1,4 +1,7 @@
-# org.das2.beans.AccessLevelBeanInfo.PersistenceLevelthis level indicates what persistence is allowed.
+# org.das2.beans.AccessLevelBeanInfo.PersistenceLevel
+
+this level indicates what persistence is allowed.
+
 ***
 <a name="NONE"></a>
 # NONE

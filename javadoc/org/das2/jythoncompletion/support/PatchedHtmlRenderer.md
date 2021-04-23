@@ -1,5 +1,8 @@
-# org.das2.jythoncompletion.support.PatchedHtmlRendererTemporary patched {@link org.openide.awt.HtmlRenderer} to allow disabling
+# org.das2.jythoncompletion.support.PatchedHtmlRenderer
+
+Temporary patched {@link org.openide.awt.HtmlRenderer} to allow disabling
  of the color change in case when the particular item is selected.
+
 ***
 <a name="STYLE_CLIP"></a>
 # STYLE_CLIP

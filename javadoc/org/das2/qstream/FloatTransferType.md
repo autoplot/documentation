@@ -1,5 +1,8 @@
-# org.das2.qstream.FloatTransferTypeFour byte float type.
-FloatTransferType( )
+# org.das2.qstream.FloatTransferType
+
+Four byte float type.
+
+# FloatTransferType( )
 
 
 ***

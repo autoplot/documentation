@@ -1,7 +1,10 @@
-# org.das2.qstream.DatumRangeSerializeDelegateThis serialize delegate assumes the formatted object is a time range,
+# org.das2.qstream.DatumRangeSerializeDelegate
+
+This serialize delegate assumes the formatted object is a time range,
  and if it doesn't parse then it's a datum range.  Time Ranges
  may be explicitly declared with "time:" prefix.
-DatumRangeSerializeDelegate( )
+
+# DatumRangeSerializeDelegate( )
 
 
 ***

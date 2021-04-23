@@ -1,5 +1,8 @@
 # org.autoplot.datasource.ui.PromptTextArea
-PromptTextArea( String label )
+
+
+
+# PromptTextArea( String label )
 
 
 ***

@@ -1,9 +1,12 @@
-# org.autoplot.JythonMainSupport for invoking Jython script.  This is Just ".../AutoplotUI --script ..." stripped down, and was rewritten after Bob and Jeremy
+# org.autoplot.JythonMain
+
+Support for invoking Jython script.  This is Just ".../AutoplotUI --script ..." stripped down, and was rewritten after Bob and Jeremy
  would see inconsistent behavior between:<pre>
   /usr/local/jre1.6.0_25/bin/java -cp ./autoplot.jar -Djava.awt.headless=true org.autoplot.JythonMain `pwd`/testVars.jy   (and)
   /usr/local/jre1.6.0_25/bin/java -cp ./autoplot.jar -Djava.awt.headless=true org.autoplot.AutoplotUI --script=`pwd`/testVars.jy
  </pre>
-JythonMain( )
+
+# JythonMain( )
 
 
 ***

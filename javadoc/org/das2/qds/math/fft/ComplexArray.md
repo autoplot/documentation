@@ -1,7 +1,10 @@
-# org.das2.qds.math.fft.ComplexArrayInterface for passing complex arrays to and from FFT routines.  The intent is
+# org.das2.qds.math.fft.ComplexArray
+
+Interface for passing complex arrays to and from FFT routines.  The intent is
  that the complex array can be backed by data in any format.  Each elements is
  readable and writeable via get and set methods for the real and imaginary components.
-ComplexArray( )
+
+# ComplexArray( )
 
 
 ***

@@ -1,8 +1,11 @@
-# org.autoplot.servlet.TestServletThis is a stress test for the servlet. Repeatly hitting the it to see if we can mess it up.
+# org.autoplot.servlet.TestServlet
+
+This is a stress test for the servlet. Repeatly hitting the it to see if we can mess it up.
  It expects the servlet to be running at http://localhost:8084/AutoplotServlet/SimpleServlet and the
  URI "file:///home/jbf/autoplot_data/http/www.srl.caltech.edu/ACE/ASC/temp2/ACE_cris_level2_data_1hr_22468.txt?time=field0&timeFormat=%Y+%j+%H+%M+%S&rank2=5:12&skip=3&validMin=1e-20"
  to work.
-TestServlet( )
+
+# TestServlet( )
 
 
 ***

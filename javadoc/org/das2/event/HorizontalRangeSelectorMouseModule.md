@@ -1,5 +1,8 @@
 # org.das2.event.HorizontalRangeSelectorMouseModule
-HorizontalRangeSelectorMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis axis )
+
+
+
+# HorizontalRangeSelectorMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis axis )
 
 
 ***

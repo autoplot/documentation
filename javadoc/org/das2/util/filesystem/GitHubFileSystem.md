@@ -1,4 +1,6 @@
-# org.das2.util.filesystem.GitHubFileSystemGitHubFileSystem allows GitHub directories to be mounted directly, even 
+# org.das2.util.filesystem.GitHubFileSystem
+
+GitHubFileSystem allows GitHub directories to be mounted directly, even 
  though it is not a conventional filesystem with files residing in folders.  
  For example, the file resource README.md found in 
  https://github.com/autoplot/scripts/ is downloaded from 
@@ -13,6 +15,7 @@
  Note, there's a strange interaction with Java and GitHub.com, where Java's
  caching prevents updates from appearing automatically.  See
  https://sourceforge.net/p/autoplot/bugs/2203/ .
+
 ***
 <a name="createGitHubFileSystem"></a>
 # createGitHubFileSystem

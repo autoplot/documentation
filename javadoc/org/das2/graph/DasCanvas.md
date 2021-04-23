@@ -1,8 +1,11 @@
-# org.das2.graph.DasCanvasCanvas for das2 graphics.  The DasCanvas contains any number of DasCanvasComponents such as axes, plots, colorbars, etc.
-DasCanvas( )
+# org.das2.graph.DasCanvas
+
+Canvas for das2 graphics.  The DasCanvas contains any number of DasCanvasComponents such as axes, plots, colorbars, etc.
+
+# DasCanvas( )
 Creates a new instance of DasCanvas.
 
-DasCanvas( int width, int height )
+# DasCanvas( int width, int height )
 Creates a new instance of DasCanvas with the specified width and height
 
 ***

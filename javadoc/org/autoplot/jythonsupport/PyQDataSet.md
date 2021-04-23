@@ -1,12 +1,15 @@
-# org.autoplot.jythonsupport.PyQDataSetPyQDataSet wraps a QDataSet to provide Python operator overloading and
+# org.autoplot.jythonsupport.PyQDataSet
+
+PyQDataSet wraps a QDataSet to provide Python operator overloading and
  indexing.  For example, the Python plus "+" operator is implemented in the
  method "__add__", and ds[0,:] is implemented in __getitem__ and __setitem__.
  The class PyQDataSetAdapter is responsible for creating the PyQDataSet when
  a QDataSet is brought into the Python interpreter.
-PyQDataSet( )
+
+# PyQDataSet( )
 
 
-PyQDataSet( QDataSet ds )
+# PyQDataSet( QDataSet ds )
 Note getDataSet will always provide a writable dataset.
 
 ***

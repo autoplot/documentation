@@ -1,6 +1,9 @@
-# org.das2.qds.RepeatIndexDataSetIncrease the rank by repeating at any of the 4 indeces.  ReplicateDataSet
+# org.das2.qds.RepeatIndexDataSet
+
+Increase the rank by repeating at any of the 4 indeces.  ReplicateDataSet
  only allows repeats on the zeroth index, while this allows any index.
-RepeatIndexDataSet( QDataSet s, int insertIndex, int length )
+
+# RepeatIndexDataSet( QDataSet s, int insertIndex, int length )
 Create the dataset.
 
 ***

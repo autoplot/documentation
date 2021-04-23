@@ -1,11 +1,14 @@
-# org.das2.system.ChangesSupportSupport class for encapsulating implementation of pendingChanges and mutator locks.
+# org.das2.system.ChangesSupport
+
+Support class for encapsulating implementation of pendingChanges and mutator locks.
  PendingChanges are a way of notifying the bean and other clients using the bean that changes are coming to
  the bean.
  mutatorLock() is a way for a client to get exclusive, read-only access to a bean.  This also sets the valueAdjusting
  property.
 
  See http://das2.org/wiki/index.php/Pending_changes (Wiki was lost, but may be recoverable.)
-ChangesSupport( java.beans.PropertyChangeSupport pcs, Object parent )
+
+# ChangesSupport( java.beans.PropertyChangeSupport pcs, Object parent )
 if the propertyChangeSupport is provided, then change messages will be sent to
  it directly.  If null, then one is created with the parent as the source.
 

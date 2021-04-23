@@ -1,5 +1,8 @@
 # org.das2.dataset.VectorDataSetBuilder
-VectorDataSetBuilder( Units xUnits, Units yUnits )
+
+
+
+# VectorDataSetBuilder( Units xUnits, Units yUnits )
 Creates a new instance of VectorDataSetBuilder
 
 ***

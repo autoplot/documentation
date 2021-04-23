@@ -1,6 +1,9 @@
-# org.das2.qstream.QDataSetStreamHandlerreads a stream and produces QDataSets representing the data found on the stream. The stream is read in, and
+# org.das2.qstream.QDataSetStreamHandler
+
+reads a stream and produces QDataSets representing the data found on the stream. The stream is read in, and
  then getDataSet or getDataSet(name) is called to retrieve datasets.
-QDataSetStreamHandler( )
+
+# QDataSetStreamHandler( )
 
 
 ***

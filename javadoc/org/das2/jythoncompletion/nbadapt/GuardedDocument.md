@@ -1,5 +1,8 @@
 # org.das2.jythoncompletion.nbadapt.GuardedDocument
-GuardedDocument( )
+
+
+
+# GuardedDocument( )
 
 
 ***

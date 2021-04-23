@@ -1,5 +1,8 @@
-# org.autoplot.idlsupport.ReadIDLSav.StringDatastructure containing a string and metadata used to read it.
-StringData( )
+# org.autoplot.idlsupport.ReadIDLSav.StringData
+
+structure containing a string and metadata used to read it.
+
+# StringData( )
 
 
 ***

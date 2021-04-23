@@ -1,6 +1,9 @@
-# org.autoplot.jythonsupport.BinaryInfixOpsOperators that do element-wise binary operations that are not assigned to
+# org.autoplot.jythonsupport.BinaryInfixOps
+
+Operators that do element-wise binary operations that are not assigned to
  operator symbols.
-BinaryInfixOps( )
+
+# BinaryInfixOps( )
 
 
 ***

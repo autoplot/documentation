@@ -1,13 +1,16 @@
-# org.autoplot.spase.DOMTreeWalkerTreeModelThis class implements the Swing TreeModel interface so that the DOM tree
+# org.autoplot.spase.DOMTreeWalkerTreeModel
+
+This class implements the Swing TreeModel interface so that the DOM tree
  returned by a TreeWalker can be displayed in a JTree component.
-DOMTreeWalkerTreeModel( org.w3c.dom.traversal.TreeWalker walker )
+
+# DOMTreeWalkerTreeModel( org.w3c.dom.traversal.TreeWalker walker )
 Create a TreeModel for the specified TreeWalker
 
-DOMTreeWalkerTreeModel( org.w3c.dom.Document document )
+# DOMTreeWalkerTreeModel( org.w3c.dom.Document document )
 Create a TreeModel for a TreeWalker that returns all nodes
  in the specified document
 
-DOMTreeWalkerTreeModel( org.w3c.dom.Element element )
+# DOMTreeWalkerTreeModel( org.w3c.dom.Element element )
 Create a TreeModel for a TreeWalker that returns the specified 
  element and all of its descendant nodes.
 

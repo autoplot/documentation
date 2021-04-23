@@ -1,5 +1,8 @@
 # org.autoplot.scriptconsole.GuiExceptionHandlerSubmitForm
-GuiExceptionHandlerSubmitForm( )
+
+
+
+# GuiExceptionHandlerSubmitForm( )
 Creates new form GuiExceptionHandlerSubmitForm
 
 ***

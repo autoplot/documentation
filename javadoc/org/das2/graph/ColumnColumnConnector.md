@@ -1,6 +1,9 @@
-# org.das2.graph.ColumnColumnConnectordraws lines connecting two DasPlots, one on top of the other, typically used
+# org.das2.graph.ColumnColumnConnector
+
+draws lines connecting two DasPlots, one on top of the other, typically used
  to show a zoom in above of a context below.
-ColumnColumnConnector( org.das2.graph.DasCanvas parent, org.das2.graph.DasPlot topPlot, org.das2.graph.DasRow topRow, org.das2.graph.DasPlot bottomPlot )
+
+# ColumnColumnConnector( org.das2.graph.DasCanvas parent, org.das2.graph.DasPlot topPlot, org.das2.graph.DasRow topRow, org.das2.graph.DasPlot bottomPlot )
 
 
 ***

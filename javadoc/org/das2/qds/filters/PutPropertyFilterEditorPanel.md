@@ -1,6 +1,9 @@
-# org.das2.qds.filters.PutPropertyFilterEditorPanelEditor panel for the putProperty filter, which allows valid
+# org.das2.qds.filters.PutPropertyFilterEditorPanel
+
+Editor panel for the putProperty filter, which allows valid
  ranges and missing metadata to be specified.
-PutPropertyFilterEditorPanel( )
+
+# PutPropertyFilterEditorPanel( )
 Creates new form PutPropertyFilterEditorPanel
 
 ***

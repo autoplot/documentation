@@ -1,5 +1,8 @@
 # org.das2.stream.StripHeader
-StripHeader( )
+
+
+
+# StripHeader( )
 
 
 ***

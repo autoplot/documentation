@@ -1,8 +1,11 @@
-# org.autoplot.scriptconsole.LogConsoleGUI for graphically handling log records.  This defines a Handler, and has
+# org.autoplot.scriptconsole.LogConsole
+
+GUI for graphically handling log records.  This defines a Handler, and has
  methods for turning off console logging. (Another class should be used to 
  log stderr and stdout messages.)  Users can dump the records to a file for
  remote analysis.
-LogConsole( )
+
+# LogConsole( )
 Creates new form LogConsole
 
 ***

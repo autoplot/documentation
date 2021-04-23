@@ -1,13 +1,16 @@
-# org.das2.datum.DatumRangeA DatumRange is provided as a means to carry an ordered pair of Datums
+# org.das2.datum.DatumRange
+
+A DatumRange is provided as a means to carry an ordered pair of Datums
  representing an interval.  This sort of data structure comes up often in
  processing, and it's useful to define once and get the operators
  implemented correctly.  Consider using this object whenever you see
  pairs of Datums in interfaces and codes (e.g. tbegin,tend), they are probably
  a DatumRange!
-DatumRange( Datum s1, Datum s2 )
+
+# DatumRange( Datum s1, Datum s2 )
 Creates valid DatumRange from two Datums.
 
-DatumRange( double s1, double s2, Units units )
+# DatumRange( double s1, double s2, Units units )
 create a datum range from two doubles in the context of units.
 
 ***

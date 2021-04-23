@@ -1,5 +1,8 @@
 # org.autoplot.jythonsupport.ui.CompoundUndoManager
-CompoundUndoManager( javax.swing.text.JTextComponent textComponent )
+
+
+
+# CompoundUndoManager( javax.swing.text.JTextComponent textComponent )
 
 
 ***

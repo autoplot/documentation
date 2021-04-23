@@ -1,5 +1,8 @@
 # org.autoplot.imagedatasource.ImageDataSource
-ImageDataSource( java.net.URI uri )
+
+
+
+# ImageDataSource( java.net.URI uri )
 
 
 ***

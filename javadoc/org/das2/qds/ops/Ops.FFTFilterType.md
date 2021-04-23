@@ -1,4 +1,7 @@
-# org.das2.qds.ops.Ops.FFTFilterTypeEnumeration identifying windows applied to data before doing FFTs.
+# org.das2.qds.ops.Ops.FFTFilterType
+
+Enumeration identifying windows applied to data before doing FFTs.
+
 ***
 <a name="Hanning"></a>
 # Hanning

@@ -1,4 +1,7 @@
-# org.autoplot.hapi.AbstractLineReaderSimilar to BufferedReader, so that it can be extended to support caching.
+# org.autoplot.hapi.AbstractLineReader
+
+Similar to BufferedReader, so that it can be extended to support caching.
+
 ***
 <a name="readLine"></a>
 # readLine

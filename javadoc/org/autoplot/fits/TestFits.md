@@ -1,7 +1,10 @@
-# org.autoplot.fits.TestFitsTestFits class provides a static main method for testing the
+# org.autoplot.fits.TestFits
+
+TestFits class provides a static main method for testing the
   FITS class library.  It also shows a typical usage of the
   classes.
-TestFits( )
+
+# TestFits( )
 
 
 ***

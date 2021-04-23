@@ -1,4 +1,7 @@
 # org.das2.beans.DataPointRecorderBeanInfo
-DataPointRecorderBeanInfo( )
+
+
+
+# DataPointRecorderBeanInfo( )
 
 

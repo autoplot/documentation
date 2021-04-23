@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.ui.EditorAnnotationsSupportannotations support for the editor, marking program counter position 
+# org.autoplot.jythonsupport.ui.EditorAnnotationsSupport
+
+annotations support for the editor, marking program counter position 
  and errors.
+
 ***
 <a name="ANNO_ERROR"></a>
 # ANNO_ERROR

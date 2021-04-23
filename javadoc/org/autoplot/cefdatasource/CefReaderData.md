@@ -1,5 +1,8 @@
-# org.autoplot.cefdatasource.CefReaderDataCEF reader based on Chris Perry's IDL CEF Reader code.
-CefReaderData( )
+# org.autoplot.cefdatasource.CefReaderData
+
+CEF reader based on Chris Perry's IDL CEF Reader code.
+
+# CefReaderData( )
 
 
 ***

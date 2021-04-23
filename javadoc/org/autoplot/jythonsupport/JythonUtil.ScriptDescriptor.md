@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.JythonUtil.ScriptDescriptorObject containing a description of a script, containing its parameters
+# org.autoplot.jythonsupport.JythonUtil.ScriptDescriptor
+
+Object containing a description of a script, containing its parameters
  and title describing it.
+
 ***
 <a name="getDescription"></a>
 # getDescription

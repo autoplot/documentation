@@ -1,5 +1,8 @@
-# org.autoplot.scriptconsole.DebuggerConsolelittle GUI for printing the PDB output and sending commands to it.
+# org.autoplot.scriptconsole.DebuggerConsole
+
+little GUI for printing the PDB output and sending commands to it.
  See http://autoplot.org/developer.jython.pdb
+
 ***
 <a name="continu"></a>
 # continu

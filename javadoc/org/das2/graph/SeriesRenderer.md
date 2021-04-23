@@ -1,4 +1,6 @@
-# org.das2.graph.SeriesRendererSeriesRender is a high-performance replacement for the SymbolLineRenderer.
+# org.das2.graph.SeriesRenderer
+
+SeriesRender is a high-performance replacement for the SymbolLineRenderer.
  The SymbolLineRenderer is limited to about 30,000 points, beyond which 
  contracts for speed start breaking, degrading usability.  The goal of the
  SeriesRenderer is to plot 1,000,000 points without breaking the contracts.
@@ -8,7 +10,8 @@
  The SeriesRenderer has a few additional features, such as error bars and 
  fill-to-reference.  These are implemented as "render elements" so that work 
  is encapsulated.
-SeriesRenderer( )
+
+# SeriesRenderer( )
 
 
 ***

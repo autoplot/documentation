@@ -1,15 +1,18 @@
-# org.das2.qds.TailBundleDataSetcreate a high rank dataset the last dimension being the bundle.  Each
+# org.das2.qds.TailBundleDataSet
+
+create a high rank dataset the last dimension being the bundle.  Each
  dataset must have the same length.
 
  Modification History:
    2015-10-30: copied from BundleDataSet
    See https://sourceforge.net/p/autoplot/feature-requests/267/
-TailBundleDataSet( int rank )
+
+# TailBundleDataSet( int rank )
 Creates a new instance of BundleDataSet with the given rank.  Rank 1
  datasets can bundle rank 0 datasets, while rank 2 can only bundle
  rank 1 datasets with the same depend_0.
 
-TailBundleDataSet( QDataSet ds )
+# TailBundleDataSet( QDataSet ds )
 create a bundle with the first dataset.  The result will have 
  rank N+1 where ds has rank N.
 

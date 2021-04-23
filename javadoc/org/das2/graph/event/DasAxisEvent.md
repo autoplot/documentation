@@ -1,5 +1,8 @@
 # org.das2.graph.event.DasAxisEvent
-DasAxisEvent( Object source, double minimum, double maximum )
+
+
+
+# DasAxisEvent( Object source, double minimum, double maximum )
 Creates a new instance of DasAxisEvent
 
 ***

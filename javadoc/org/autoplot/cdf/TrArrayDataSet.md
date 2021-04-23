@@ -1,5 +1,8 @@
-# org.autoplot.cdf.TrArrayDataSetecho ArrayDataSet, but [0,3,2,1] transpose
-TrArrayDataSet( )
+# org.autoplot.cdf.TrArrayDataSet
+
+echo ArrayDataSet, but [0,3,2,1] transpose
+
+# TrArrayDataSet( )
 
 
 ***

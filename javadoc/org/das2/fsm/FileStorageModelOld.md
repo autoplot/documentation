@@ -1,8 +1,11 @@
-# org.das2.fsm.FileStorageModelOldRepresents a method for storing data sets in a set of files by time.  The
+# org.das2.fsm.FileStorageModelOld
+
+Represents a method for storing data sets in a set of files by time.  The
  client provides a regex for the files and how each group of the regex is
  interpreted as a time digit.  The model can then be used to provide the set
  of files that cover a time range, etc.
-FileStorageModelOld( org.das2.fsm.FileStorageModelOld parent, org.das2.util.filesystem.FileSystem root, String regex, org.das2.fsm.FileStorageModelOld.FieldHandler[] handlers )
+
+# FileStorageModelOld( org.das2.fsm.FileStorageModelOld parent, org.das2.util.filesystem.FileSystem root, String regex, org.das2.fsm.FileStorageModelOld.FieldHandler[] handlers )
 
 
 ***

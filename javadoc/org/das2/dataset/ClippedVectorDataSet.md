@@ -1,8 +1,11 @@
 # org.das2.dataset.ClippedVectorDataSet
-ClippedVectorDataSet( org.das2.dataset.VectorDataSet source, DatumRange xclip )
+
+
+
+# ClippedVectorDataSet( org.das2.dataset.VectorDataSet source, DatumRange xclip )
 Creates a new instance of ClippedVectorDataSet
 
-ClippedVectorDataSet( org.das2.dataset.VectorDataSet source, int xoffset, int xlength )
+# ClippedVectorDataSet( org.das2.dataset.VectorDataSet source, int xoffset, int xlength )
 
 
 ***

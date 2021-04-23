@@ -1,8 +1,11 @@
-# org.das2.dataset.WeightsTableDataSetWeightsTableDataSet wraps a TableDataSet and returns 0.0 if the data point is
+# org.das2.dataset.WeightsTableDataSet
+
+WeightsTableDataSet wraps a TableDataSet and returns 0.0 if the data point is
  not valid, and non-zero (generally one) otherwise.
 
  This is intended to provide a consistent way to get the weights without having
  to handle the case where the weights plane doesn't exist.
+
 ***
 <a name="create"></a>
 # create

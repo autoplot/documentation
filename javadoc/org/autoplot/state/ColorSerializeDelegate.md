@@ -1,7 +1,10 @@
-# org.autoplot.state.ColorSerializeDelegateFormat the color as RGB or ARGB, like so: #000000.
+# org.autoplot.state.ColorSerializeDelegate
+
+Format the color as RGB or ARGB, like so: #000000.
  This can be parsed using ColorUtil.decodeColor, names like "burntSienna" 
  can be used in vaps as well.
-ColorSerializeDelegate( )
+
+# ColorSerializeDelegate( )
 
 
 ***

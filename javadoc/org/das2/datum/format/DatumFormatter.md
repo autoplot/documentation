@@ -1,4 +1,7 @@
-# org.das2.datum.format.DatumFormatterFormats Datum objects for printing and parses strings to Datum objects.
+# org.das2.datum.format.DatumFormatter
+
+Formats Datum objects for printing and parses strings to Datum objects.
+
 ***
 <a name="axisFormat"></a>
 # axisFormat

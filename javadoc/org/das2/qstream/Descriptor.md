@@ -1,5 +1,8 @@
-# org.das2.qstream.Descriptormodel elements of the QStream, such as StreamDescriptor, PacketDescriptor,
+# org.das2.qstream.Descriptor
+
+model elements of the QStream, such as StreamDescriptor, PacketDescriptor,
  and EnumerationUnitDescriptor.
+
 ***
 <a name="getDomElement"></a>
 # getDomElement

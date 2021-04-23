@@ -1,5 +1,8 @@
-# org.das2.qds.util.AsciiParser.FixedColumnsParserRecord parser looks at fixed column positions for each record.
-FixedColumnsParser( int[] columnOffsets, int[] columnWidths )
+# org.das2.qds.util.AsciiParser.FixedColumnsParser
+
+Record parser looks at fixed column positions for each record.
+
+# FixedColumnsParser( int[] columnOffsets, int[] columnWidths )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.graph.ColorUtilsingle place to contain Color-Name mapping.  See https://sourceforge.net/p/autoplot/feature-requests/263/
-ColorUtil( )
+# org.das2.graph.ColorUtil
+
+single place to contain Color-Name mapping.  See https://sourceforge.net/p/autoplot/feature-requests/263/
+
+# ColorUtil( )
 
 
 ***

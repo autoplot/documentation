@@ -1,5 +1,8 @@
-# org.autoplot.dom.DataSourceControllerController node manages a DataSourceFilter node.
-DataSourceController( org.autoplot.ApplicationModel model, org.autoplot.dom.DataSourceFilter dsf )
+# org.autoplot.dom.DataSourceController
+
+Controller node manages a DataSourceFilter node.
+
+# DataSourceController( org.autoplot.ApplicationModel model, org.autoplot.dom.DataSourceFilter dsf )
 
 
 ***

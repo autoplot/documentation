@@ -1,5 +1,8 @@
-# org.das2.graph.DasColorBar.Typeenumeration of the types of colorbars.
-Type( String desc, int[] colorTable )
+# org.das2.graph.DasColorBar.Type
+
+enumeration of the types of colorbars.
+
+# Type( String desc, int[] colorTable )
 create a new color table Type.
 
 ***

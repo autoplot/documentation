@@ -1,8 +1,11 @@
-# org.autoplot.tca.UriTcaSourceAllow Autoplot URIs to supply data to label plots.
+# org.autoplot.tca.UriTcaSource
+
+Allow Autoplot URIs to supply data to label plots.
 
    class:org.autoplot.tca.AutoplotTCASource:vap+file:/tmp/foo.txt?rank2=field1-field4&depend0=field0
    class:org.autoplot.tca.AutoplotTCASource:vap+dat:file:/home/jbf/project/autoplot/data/dat/rockets/21139_E_field.txt?skipLines=1&depend0=field0&rank2=field3-field4
-UriTcaSource( String uri )
+
+# UriTcaSource( String uri )
 
 
 ***

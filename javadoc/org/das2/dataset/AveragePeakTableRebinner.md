@@ -1,5 +1,8 @@
 # org.das2.dataset.AveragePeakTableRebinner
-AveragePeakTableRebinner( )
+
+
+
+# AveragePeakTableRebinner( )
 Creates a new instance of TableAveragePeakRebinner
 
 ***

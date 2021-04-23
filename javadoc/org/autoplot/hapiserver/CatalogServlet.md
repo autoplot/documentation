@@ -1,5 +1,8 @@
-# org.autoplot.hapiserver.CatalogServletServlet for the dataset catalog.
-CatalogServlet( )
+# org.autoplot.hapiserver.CatalogServlet
+
+Servlet for the dataset catalog.
+
+# CatalogServlet( )
 
 
 ***

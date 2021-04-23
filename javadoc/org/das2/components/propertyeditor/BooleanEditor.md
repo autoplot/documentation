@@ -1,5 +1,8 @@
 # org.das2.components.propertyeditor.BooleanEditor
-BooleanEditor( )
+
+
+
+# BooleanEditor( )
 Creates a new instance of BooleanEditor
 
 ***

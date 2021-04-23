@@ -1,11 +1,14 @@
-# org.das2.graph.TickMasterClass for managing ticks.  When a set of plots shares a common column and
+# org.das2.graph.TickMaster
+
+Class for managing ticks.  When a set of plots shares a common column and
  axis setting, they should all use the same ticks.  The other problem this
  should fix is when a stack of plots all have heights within a couple of pixels
  of one another, we should try to use the same ticks for them.
 
  DasAxis clients should offer their ticks to this master, which will decide
  which set of ticks to use.
-TickMaster( )
+
+# TickMaster( )
 
 
 ***

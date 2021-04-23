@@ -1,7 +1,10 @@
-# org.das2.qds.buffer.UInt24DataSet3-byte unsigned integers, introduced for an application where we needed
+# org.das2.qds.buffer.UInt24DataSet
+
+3-byte unsigned integers, introduced for an application where we needed
  to get at 3-nybble numbers, but Int24 was confusing because of the sign
  bit.
-UInt24DataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
+
+# UInt24DataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
 
 
 ***

@@ -1,4 +1,6 @@
-# org.das2.util.CredentialsManagerProvides per-resource login credentials 
+# org.das2.util.CredentialsManager
+
+Provides per-resource login credentials 
  
  This class maintains a map of login credentials by resource ID.  The resource ID's 
  themselves are just strings.  The only expectation on resource ID strings is that they
@@ -39,6 +41,7 @@
  the caller somehow knows the username.  The second assumes that you are talking to
  a first generation Das 2.1 server.  Details of server communication are beyond the 
  scope of this class.
+
 ***
 <a name="getHttpBasicHash"></a>
 # getHttpBasicHash

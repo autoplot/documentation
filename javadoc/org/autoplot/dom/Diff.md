@@ -1,4 +1,7 @@
-# org.autoplot.dom.Diffsuper class for containing diffs.
+# org.autoplot.dom.Diff
+
+super class for containing diffs.
+
 ***
 <a name="doDiff"></a>
 # doDiff

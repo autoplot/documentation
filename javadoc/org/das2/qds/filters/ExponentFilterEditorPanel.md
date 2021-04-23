@@ -1,5 +1,8 @@
 # org.das2.qds.filters.ExponentFilterEditorPanel
-ExponentFilterEditorPanel( )
+
+
+
+# ExponentFilterEditorPanel( )
 Creates new form ExponentFilterEditorPanel
 
 ***

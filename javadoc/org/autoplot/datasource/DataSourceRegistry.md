@@ -1,5 +1,8 @@
-# org.autoplot.datasource.DataSourceRegistryThe DataSourceRegistry keeps the map from extension (like .cdf) to 
+# org.autoplot.datasource.DataSourceRegistry
+
+The DataSourceRegistry keeps the map from extension (like .cdf) to 
  the handler for .cdf files.
+
 ***
 <a name="getDataSourceEditorByExt"></a>
 # getDataSourceEditorByExt

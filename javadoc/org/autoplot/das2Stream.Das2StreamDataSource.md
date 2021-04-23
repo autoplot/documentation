@@ -1,5 +1,8 @@
 # org.autoplot.das2Stream.Das2StreamDataSource
-Das2StreamDataSource( java.net.URI uri )
+
+
+
+# Das2StreamDataSource( java.net.URI uri )
 Creates a new instance of Das2StreamDataSource
 
 ***

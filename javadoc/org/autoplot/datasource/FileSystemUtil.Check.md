@@ -1,4 +1,7 @@
-# org.autoplot.datasource.FileSystemUtil.CheckInterface to be used with deleteFilesInTree.
+# org.autoplot.datasource.FileSystemUtil.Check
+
+Interface to be used with deleteFilesInTree.
+
 ***
 <a name="check"></a>
 # check

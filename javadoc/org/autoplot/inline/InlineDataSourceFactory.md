@@ -1,5 +1,8 @@
-# org.autoplot.inline.InlineDataSourceFactoryCreates inline data sources.
-InlineDataSourceFactory( )
+# org.autoplot.inline.InlineDataSourceFactory
+
+Creates inline data sources.
+
+# InlineDataSourceFactory( )
 
 
 ***

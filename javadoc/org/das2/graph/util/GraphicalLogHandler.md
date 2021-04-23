@@ -1,4 +1,7 @@
-# org.das2.graph.util.GraphicalLogHandlerClass attempts to visualize messages sent to the loggers.
+# org.das2.graph.util.GraphicalLogHandler
+
+Class attempts to visualize messages sent to the loggers.
+
 ***
 <a name="close"></a>
 # close

@@ -1,5 +1,8 @@
-# org.das2.graph.DasAnnotation.DatumPairPointDescriptorcreate a PointDescriptor using and x and y Datum.
-DatumPairPointDescriptor( org.das2.graph.DasPlot p, Datum x, Datum y )
+# org.das2.graph.DasAnnotation.DatumPairPointDescriptor
+
+create a PointDescriptor using and x and y Datum.
+
+# DatumPairPointDescriptor( org.das2.graph.DasPlot p, Datum x, Datum y )
 
 
 ***

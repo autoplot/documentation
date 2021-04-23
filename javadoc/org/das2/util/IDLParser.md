@@ -1,6 +1,9 @@
-# org.das2.util.IDLParserThis was created originally to evaluate expressions found in das2server dsdf files that would
+# org.das2.util.IDLParser
+
+This was created originally to evaluate expressions found in das2server dsdf files that would
  describe column locations, which would be expressions like "10^(findgen(3)/3.3)"
-IDLParser( )
+
+# IDLParser( )
 Creates a new instance of idlParser
 
 ***

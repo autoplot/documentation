@@ -1,5 +1,8 @@
-# org.das2.catalog.impl.HttpGetSrcNodeEngine for turning parameter settings into HTTP GET URLs
-HttpGetSrcNode( org.das2.catalog.DasDirNode parent, String name, java.util.List locations )
+# org.das2.catalog.impl.HttpGetSrcNode
+
+Engine for turning parameter settings into HTTP GET URLs
+
+# HttpGetSrcNode( org.das2.catalog.DasDirNode parent, String name, java.util.List locations )
 
 
 ***

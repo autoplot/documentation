@@ -1,13 +1,16 @@
-# org.autoplot.datasource.RecordIteratorIntroduce class to hold code for iterating through any dataset.  
+# org.autoplot.datasource.RecordIterator
+
+Introduce class to hold code for iterating through any dataset.  
  This will detect the time series browse capability and streaming.
  So if the data source is already streaming, then this is trivial.  If
  not, then it will request chunks of data from the time series browse
  and handle them one chunk at a time.  And additional trim can be used,
  see constrainDepend0.
-RecordIterator( String suri, DatumRange timeRange )
+
+# RecordIterator( String suri, DatumRange timeRange )
 create a new RecordIterator for the given URI and time range.
 
-RecordIterator( String suri, DatumRange timeRange, boolean allowStream )
+# RecordIterator( String suri, DatumRange timeRange, boolean allowStream )
 create a new RecordIterator for the given URI and time range.
 
 ***

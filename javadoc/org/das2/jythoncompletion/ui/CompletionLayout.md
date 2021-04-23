@@ -1,4 +1,7 @@
-# org.das2.jythoncompletion.ui.CompletionLayoutLayout of the completion, documentation and tooltip popup windows.
+# org.das2.jythoncompletion.ui.CompletionLayout
+
+Layout of the completion, documentation and tooltip popup windows.
+
 ***
 <a name="COMPLETION_ITEM_HEIGHT"></a>
 # COMPLETION_ITEM_HEIGHT

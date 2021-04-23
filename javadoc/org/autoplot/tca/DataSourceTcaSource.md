@@ -1,6 +1,9 @@
-# org.autoplot.tca.DataSourceTcaSourceAllow Autoplot DataSources to lookup datasets.  The filter within the 
+# org.autoplot.tca.DataSourceTcaSource
+
+Allow Autoplot DataSources to lookup datasets.  The filter within the 
  DataSourceFilter is then applied to the data.
-DataSourceTcaSource( org.autoplot.dom.DataSourceFilter node )
+
+# DataSourceTcaSource( org.autoplot.dom.DataSourceFilter node )
 
 
 ***

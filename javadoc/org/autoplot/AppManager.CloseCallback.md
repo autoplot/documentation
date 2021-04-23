@@ -1,4 +1,7 @@
-# org.autoplot.AppManager.CloseCallbackanything that wants an opportunity to cancel the close request should register here.
+# org.autoplot.AppManager.CloseCallback
+
+anything that wants an opportunity to cancel the close request should register here.
+
 ***
 <a name="checkClose"></a>
 # checkClose

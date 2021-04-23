@@ -1,7 +1,10 @@
-# org.autoplot.dom.ApplicationControllerThe ApplicationController, one per dom, is in charge of managing the 
+# org.autoplot.dom.ApplicationController
+
+The ApplicationController, one per dom, is in charge of managing the 
  application as a whole, for example, adding and deleting plots,
  managing bindings, and managing focus.
-ApplicationController( org.autoplot.ApplicationModel model, org.autoplot.dom.Application application )
+
+# ApplicationController( org.autoplot.ApplicationModel model, org.autoplot.dom.Application application )
 
 
 ***

@@ -1,23 +1,26 @@
-# org.das2.qds.buffer.BufferDataSetrank 1, 2, 3, and 4 datasets backed by NIO buffers.  These have the 
+# org.das2.qds.buffer.BufferDataSet
+
+rank 1, 2, 3, and 4 datasets backed by NIO buffers.  These have the 
  advantage that data can be stored outside of the JVM, and in fact they 
  can be backed by a huge file on disk.  
  
  This code was copied from BinaryDataSource.
-BufferDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, Object type, java.nio.ByteBuffer back )
+
+# BufferDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, Object type, java.nio.ByteBuffer back )
 Create a new BufferDataSet of the given type.  Simple sanity checks are made, including:<ul>
    <li>rank 1 dataset may not have len1&gt;1.
    <li>reclen cannot be shorter than the byte length of the field type. 
    <li>buffer must have room for the dataset
  </ul>
 
-BufferDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, Object type, java.nio.ByteBuffer back )
+# BufferDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, Object type, java.nio.ByteBuffer back )
 Create a new BufferDataSet of the given type.  Simple sanity checks are made, including:<ul>
    <li>rank 1 dataset may not have len1&gt;1.
    <li>reclen cannot be shorter than the byte length of the field type. 
    <li>buffer must have room for the dataset
  </ul>
 
-BufferDataSet( int rank, int reclen, int recoffs, Object bitByte, int len0, int len1, int len2, int len3, Object type, java.nio.ByteBuffer back )
+# BufferDataSet( int rank, int reclen, int recoffs, Object bitByte, int len0, int len1, int len2, int len3, Object type, java.nio.ByteBuffer back )
 Create a new BufferDataSet of the given type.  Simple sanity checks are made, including:<ul>
    <li>rank 1 dataset may not have len1&gt;1.
    <li>reclen cannot be shorter than the byte length of the field type. 

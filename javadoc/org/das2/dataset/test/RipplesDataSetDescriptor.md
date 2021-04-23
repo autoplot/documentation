@@ -1,8 +1,11 @@
 # org.das2.dataset.test.RipplesDataSetDescriptor
-RipplesDataSetDescriptor( )
 
 
-RipplesDataSetDescriptor( double x1, double y1, double p1, double x2, double y2, double p2, int nx, int ny )
+
+# RipplesDataSetDescriptor( )
+
+
+# RipplesDataSetDescriptor( double x1, double y1, double p1, double x2, double y2, double p2, int nx, int ny )
 creates a DataSetDescriptor (note the range and resolution is ignored--an unneccessary use
  since Render now has setDataSet method) that is the sum of two ripples.
 

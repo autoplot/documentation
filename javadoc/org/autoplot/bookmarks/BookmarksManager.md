@@ -1,10 +1,13 @@
-# org.autoplot.bookmarks.BookmarksManagerObject for managing the user's bookmarks.  This object sits quietly beside the Autoplot
+# org.autoplot.bookmarks.BookmarksManager
+
+Object for managing the user's bookmarks.  This object sits quietly beside the Autoplot
  UI, becoming visible when the user asks to manage bookmarks.  This also populates the Bookmarks
  submenu.
-BookmarksManager( java.awt.Frame parent, boolean modal )
+
+# BookmarksManager( java.awt.Frame parent, boolean modal )
 creates new BookmarksManager.  Use
 
-BookmarksManager( java.awt.Frame parent, boolean modal, String name )
+# BookmarksManager( java.awt.Frame parent, boolean modal, String name )
 Creates new BookmarksManager
 
 ***

@@ -1,11 +1,14 @@
-# org.autoplot.help.AutoplotHelpViewer<p>Extends the BasicContentViewerUI to allow the use of external links in
+# org.autoplot.help.AutoplotHelpViewer
+
+<p>Extends the BasicContentViewerUI to allow the use of external links in
  the JavaHelp html.  Any link with an explicitly specified protocol of <code>http</code>,
  <code>ftp</code>, or <code>mailto</code> will be opened in the desktop
  default application.</p>
 
  <p>This class never need be instantiated directly; the JavaHelp system is told
  to use it as the viewer.</p>
-AutoplotHelpViewer( JHelpContentViewer x )
+
+# AutoplotHelpViewer( JHelpContentViewer x )
 
 
 ***

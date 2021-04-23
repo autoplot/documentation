@@ -1,5 +1,8 @@
-# org.autoplot.binarydatasource.BinaryDataSourceFormatEditorPanelFormat to flat binary tables.
-BinaryDataSourceFormatEditorPanel( )
+# org.autoplot.binarydatasource.BinaryDataSourceFormatEditorPanel
+
+Format to flat binary tables.
+
+# BinaryDataSourceFormatEditorPanel( )
 Creates new form BinaryDataSourceFormatEditorPanel
 
 ***

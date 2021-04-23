@@ -1,5 +1,8 @@
 # org.das2.util.InflaterChannel
-InflaterChannel( java.nio.channels.ReadableByteChannel in )
+
+
+
+# InflaterChannel( java.nio.channels.ReadableByteChannel in )
 Creates a new instance of InflaterChannel
 
 ***

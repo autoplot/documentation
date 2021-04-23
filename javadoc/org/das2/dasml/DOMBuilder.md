@@ -1,5 +1,8 @@
-# org.das2.dasml.DOMBuilderNew stateful serialize utility that uses names when available.
-DOMBuilder( Object bean )
+# org.das2.dasml.DOMBuilder
+
+New stateful serialize utility that uses names when available.
+
+# DOMBuilder( Object bean )
 
 
 ***

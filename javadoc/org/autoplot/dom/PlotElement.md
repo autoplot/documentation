@@ -1,6 +1,9 @@
-# org.autoplot.dom.PlotElementRepresents the method for painting data on to a plot, and filters that
+# org.autoplot.dom.PlotElement
+
+Represents the method for painting data on to a plot, and filters that
  are applied to the data before plotting.
-PlotElement( )
+
+# PlotElement( )
 
 
 ***

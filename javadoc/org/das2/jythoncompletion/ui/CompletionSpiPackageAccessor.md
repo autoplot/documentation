@@ -1,5 +1,8 @@
-# org.das2.jythoncompletion.ui.CompletionSpiPackageAccessorAccessor for the package-private functionality in org.netbeans.api.editor.completion.
-CompletionSpiPackageAccessor( )
+# org.das2.jythoncompletion.ui.CompletionSpiPackageAccessor
+
+Accessor for the package-private functionality in org.netbeans.api.editor.completion.
+
+# CompletionSpiPackageAccessor( )
 
 
 ***

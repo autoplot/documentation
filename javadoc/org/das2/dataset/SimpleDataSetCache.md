@@ -1,5 +1,8 @@
-# org.das2.dataset.SimpleDataSetCachesimply cache data by storing one per DataSetDescriptor.
-SimpleDataSetCache( )
+# org.das2.dataset.SimpleDataSetCache
+
+simply cache data by storing one per DataSetDescriptor.
+
+# SimpleDataSetCache( )
 Creates a new instance of StandardDataStreamCache
 
 ***

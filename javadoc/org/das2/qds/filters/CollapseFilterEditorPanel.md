@@ -1,5 +1,8 @@
 # org.das2.qds.filters.CollapseFilterEditorPanel
-CollapseFilterEditorPanel( )
+
+
+
+# CollapseFilterEditorPanel( )
 Creates new form CollapseFilterEditorPanel
 
 ***

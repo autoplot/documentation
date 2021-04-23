@@ -1,5 +1,8 @@
 # org.das2.util.CredentialsDialog
-CredentialsDialog( java.awt.Frame parent )
+
+
+
+# CredentialsDialog( java.awt.Frame parent )
 Creates new form CredentialsDialog
 
 ***

@@ -1,5 +1,8 @@
 # org.autoplot.PdfOptionsPanel
-PdfOptionsPanel( )
+
+
+
+# PdfOptionsPanel( )
 Creates new form PdfOptionsPanel
 
 ***

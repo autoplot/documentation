@@ -1,5 +1,8 @@
 # org.autoplot.scriptconsole.ScriptPanelSupport.MyOutputStream
-MyOutputStream( java.io.OutputStream out, org.autoplot.scriptconsole.DebuggerConsole dc )
+
+
+
+# MyOutputStream( java.io.OutputStream out, org.autoplot.scriptconsole.DebuggerConsole dc )
 
 
 ***

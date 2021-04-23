@@ -1,4 +1,6 @@
-# org.das2.catalog.impl.AbstractNodeAll nodes loadable by the DasNodeFactory should inherit from this package 
+# org.das2.catalog.impl.AbstractNode
+
+All nodes loadable by the DasNodeFactory should inherit from this package 
  private abstract class.  
  
  It supports the general 3-phase construction.  In general the construction 
@@ -10,6 +12,7 @@
  2. Resolve one of the URLs to get a full definition of the object.
  
  3. Possibly merge information from a secondary URL if requested.
+
 ***
 <a name="getRoot"></a>
 # getRoot

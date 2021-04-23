@@ -1,6 +1,9 @@
-# org.das2.qstream.filter.MinMaxReduceFilterSecond attempt at figuring this out.  This uses SerialStreamFormatter
+# org.das2.qstream.filter.MinMaxReduceFilter
+
+Second attempt at figuring this out.  This uses SerialStreamFormatter
  to format the new stream packet by packet.
-MinMaxReduceFilter( )
+
+# MinMaxReduceFilter( )
 
 
 ***

@@ -1,9 +1,12 @@
-# org.autoplot.datasource.AbstractDataSourceBase class for file-based DataSources that keeps track of the uri, makes
+# org.autoplot.datasource.AbstractDataSource
+
+Base class for file-based DataSources that keeps track of the uri, makes
  the parameters available, manages capabilities and has do-nothing
  implementations for rarely-used methods of DataSource.
 
  Also this provides the filePollUpdating parameter and Updating capability.
-AbstractDataSource( java.net.URI uri )
+
+# AbstractDataSource( java.net.URI uri )
 
 
 ***

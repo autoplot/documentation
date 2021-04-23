@@ -1,6 +1,9 @@
-# org.autoplot.server.RequestHandlerHandles requests coming in from the server.
+# org.autoplot.server.RequestHandler
+
+Handles requests coming in from the server.
  TODO: check against --script option in Autoplot.  JythonMain had a problem with imports.
-RequestHandler( )
+
+# RequestHandler( )
 
 
 ***

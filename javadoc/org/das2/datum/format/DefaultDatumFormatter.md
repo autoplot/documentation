@@ -1,5 +1,8 @@
-# org.das2.datum.format.DefaultDatumFormatterFormats Datum objects for printing and parses strings to Datum objects.
-DefaultDatumFormatter( String formatString )
+# org.das2.datum.format.DefaultDatumFormatter
+
+Formats Datum objects for printing and parses strings to Datum objects.
+
+# DefaultDatumFormatter( String formatString )
 
 
 ***

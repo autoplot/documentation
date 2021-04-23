@@ -1,4 +1,6 @@
-# org.das2.datum.DomainDividerDivides a given range of input values into useful intervals.  This can be
+# org.das2.datum.DomainDivider
+
+Divides a given range of input values into useful intervals.  This can be
  used, for example, to determine the locations of tick marks on an axis.
  Implementations will vary their behavior based on a number of factors including
  the type of data in question.
@@ -9,6 +11,7 @@
  <p>
  Implementations should have protected constructors so factory methods in
  <code>DomainDividerUtil</code> can access them.
+
 ***
 <a name="MAX_BOUNDARIES"></a>
 # MAX_BOUNDARIES

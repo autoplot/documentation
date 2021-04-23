@@ -1,5 +1,8 @@
-# org.das2.qds.FDataSetrank 0,1,2,3 or 4 dataset backed by float array (4 byte real numbers).
+# org.das2.qds.FDataSet
+
+rank 0,1,2,3 or 4 dataset backed by float array (4 byte real numbers).
  Note access to the array is still done via doubles.
+
 ***
 <a name="version"></a>
 # version

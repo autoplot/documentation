@@ -1,8 +1,11 @@
-# org.das2.jythoncompletion.MessageCompletionItemCompletion that just shows a message.
-MessageCompletionItem( String message )
+# org.das2.jythoncompletion.MessageCompletionItem
+
+Completion that just shows a message.
+
+# MessageCompletionItem( String message )
 
 
-MessageCompletionItem( String message, String documentation )
+# MessageCompletionItem( String message, String documentation )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.ui.NamedURIListToolGUI for creating a list of URIs and variables associated with them.
-NamedURIListTool( )
+# org.autoplot.jythonsupport.ui.NamedURIListTool
+
+GUI for creating a list of URIs and variables associated with them.
+
+# NamedURIListTool( )
 
 
 ***

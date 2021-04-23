@@ -1,7 +1,10 @@
-# org.autoplot.cdf.CdfJavaDataSourceEditorPanelEditor panel for CDF files.  The "Java" part of the name comes from this is a
+# org.autoplot.cdf.CdfJavaDataSourceEditorPanel
+
+Editor panel for CDF files.  The "Java" part of the name comes from this is a
  second implementation of the CDF reader, where the first was a native reader
  interfaced to Autoplot via Java Native Interface.
-CdfJavaDataSourceEditorPanel( )
+
+# CdfJavaDataSourceEditorPanel( )
 Creates new form AggregatingDataSourceEditorPanel
 
 ***

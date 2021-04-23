@@ -1,6 +1,9 @@
-# org.das2.event.ZoomPanMouseModuleProvide navigation similar to Google Maps, where drag events result a pan on the axes, and mouse wheel events
+# org.das2.event.ZoomPanMouseModule
+
+Provide navigation similar to Google Maps, where drag events result a pan on the axes, and mouse wheel events
  are zoom in and zoom out.  This is typically attached to the middle mouse button.
-ZoomPanMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis horizontalAxis, org.das2.graph.DasAxis verticalAxis )
+
+# ZoomPanMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis horizontalAxis, org.das2.graph.DasAxis verticalAxis )
 Creates a new instance of ZoomPanMouseModule
 
 ***

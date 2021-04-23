@@ -1,5 +1,8 @@
-# org.autoplot.datasource.CompletionsListOld class, which I believe is no longer used.
-CompletionsList( )
+# org.autoplot.datasource.CompletionsList
+
+Old class, which I believe is no longer used.
+
+# CompletionsList( )
 
 
 ***

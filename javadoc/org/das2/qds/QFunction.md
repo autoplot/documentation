@@ -1,4 +1,6 @@
-# org.das2.qds.QFunctionQFunctions try to recycle as much of the QDataSet interface as possible to
+# org.das2.qds.QFunction
+
+QFunctions try to recycle as much of the QDataSet interface as possible to
  define functions.  Functions take N parameters as input and result in M parameter
  output.  The N parameters are passed into value as a rank 1 bundle QDataSet, or rank 0 
  dataset when there is just one input.
@@ -15,6 +17,7 @@
  <li> allow tabulation and plotting of a function.
  <li> non-linear function optimization.
  </ul>
+
 ***
 <a name="exampleInput"></a>
 # exampleInput

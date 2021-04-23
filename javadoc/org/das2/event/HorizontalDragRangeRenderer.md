@@ -1,8 +1,11 @@
 # org.das2.event.HorizontalDragRangeRenderer
-HorizontalDragRangeRenderer( org.das2.graph.DasCanvasComponent parent )
 
 
-HorizontalDragRangeRenderer( org.das2.graph.DasCanvasComponent parent, boolean updating )
+
+# HorizontalDragRangeRenderer( org.das2.graph.DasCanvasComponent parent )
+
+
+# HorizontalDragRangeRenderer( org.das2.graph.DasCanvasComponent parent, boolean updating )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.qds.util.OdlParserTool for parsing ODL found at the top of .sts files.
-OdlParser( )
+# org.das2.qds.util.OdlParser
+
+Tool for parsing ODL found at the top of .sts files.
+
+# OdlParser( )
 
 
 ***

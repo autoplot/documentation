@@ -1,7 +1,10 @@
-# org.das2.qds.DataSetAnnotationsPlace to experiment with runtime notes about datasets in this 
+# org.das2.qds.DataSetAnnotations
+
+Place to experiment with runtime notes about datasets in this 
  single-instance lookup table.  This uses weak references so that 
  datasets will be garbage collected.
-DataSetAnnotations( )
+
+# DataSetAnnotations( )
 
 
 ***

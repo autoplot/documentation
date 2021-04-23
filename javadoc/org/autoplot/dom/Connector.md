@@ -1,9 +1,12 @@
-# org.autoplot.dom.ConnectorTwo plots are joined together to connect axes.  
+# org.autoplot.dom.Connector
+
+Two plots are joined together to connect axes.  
  The class is intended to be immutable, but because XMLDecoder is used it must be mutable.
-Connector( )
+
+# Connector( )
 called during restore
 
-Connector( String plotA, String plotB )
+# Connector( String plotA, String plotB )
 
 
 ***

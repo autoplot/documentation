@@ -1,6 +1,9 @@
-# org.das2.util.ObjectLocatorKeeps track of shapes and Objects located at each point, and can quickly find the closest.
+# org.das2.util.ObjectLocator
+
+Keeps track of shapes and Objects located at each point, and can quickly find the closest.
  consider Use spheres of influence.  Brute force implementation presently
-ObjectLocator( )
+
+# ObjectLocator( )
 
 
 ***

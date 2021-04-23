@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.FTPFileSystemThis original FtpFileSystem implementation is based on Java's FTP client.  Note, Autoplot uses a third-party library because
+# org.das2.util.filesystem.FTPFileSystem
+
+This original FtpFileSystem implementation is based on Java's FTP client.  Note, Autoplot uses a third-party library because
  of limitations of the Java implementation.  See DataSource project of Autoplot.  TODO: like what?
+
 ***
 <a name="isDirectory"></a>
 # isDirectory

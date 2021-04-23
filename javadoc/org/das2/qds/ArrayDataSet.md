@@ -1,4 +1,6 @@
-# org.das2.qds.ArrayDataSetArrayDataSet is the abstract base class for QDataSets which are backed by
+# org.das2.qds.ArrayDataSet
+
+ArrayDataSet is the abstract base class for QDataSets which are backed by
  Java arrays  For example, DDataSet is a QDataSet which uses a double array
  to store its data.  Data is stored in 1-D Java arrays for performance, 
  inspired by https://www.cs.cmu.edu/~artigas/papers/cacm01.pdf.  Note for 
@@ -8,6 +10,7 @@
  A number of static methods were initially defined in DDataSet, then
  copied into FDataSet and others when they were made.  This super implementation
  will parent all such datasets and provide common methods.
+
 ***
 <a name="about"></a>
 # about

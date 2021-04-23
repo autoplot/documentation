@@ -1,4 +1,6 @@
-# org.autoplot.dom.DomNodeAutoplot's state is stored in a tree of nodes, with Java types constraining to particular abstractions.  Each node
+# org.autoplot.dom.DomNode
+
+Autoplot's state is stored in a tree of nodes, with Java types constraining to particular abstractions.  Each node
  can have children, and implements:<ul>
   <li> copy -- make a copy of this node and its children.
   <li> syncTo -- make this node look like another node.  (e.g. undo to old state). syncTo can also be told to exclude properties.
@@ -24,7 +26,8 @@
  Some nodes currently have the method "setXAutomatically" where X is a property.  This is currently used to indicate who is setting
  the property.  For example, PlotElement has setComponentAutomatically for use when a slice is set automatically by the application.
  This is handled specially in SerializeUtil
-DomNode( )
+
+# DomNode( )
 
 
 ***

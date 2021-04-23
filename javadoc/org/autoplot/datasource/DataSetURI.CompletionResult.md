@@ -1,7 +1,10 @@
-# org.autoplot.datasource.DataSetURI.CompletionResultRepresents a single suggestion in a completion list.  For example,
+# org.autoplot.datasource.DataSetURI.CompletionResult
+
+Represents a single suggestion in a completion list.  For example,
  http://autoplot.org/data/versioning/data_&lt;C&gt; would result in completions for each file in the folder,
  and the aggregation, and each is represented by one completion result.  The completion result contains
  the human-readable label and a documentation string, as well as the replacement text.
+
 ***
 <a name="completion"></a>
 # completion

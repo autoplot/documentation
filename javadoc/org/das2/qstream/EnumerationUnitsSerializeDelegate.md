@@ -1,6 +1,9 @@
-# org.das2.qstream.EnumerationUnitsSerializeDelegateenumeration units can have an initial set of values declared, and 
+# org.das2.qstream.EnumerationUnitsSerializeDelegate
+
+enumeration units can have an initial set of values declared, and 
  each stream has its own delegate.
-EnumerationUnitsSerializeDelegate( )
+
+# EnumerationUnitsSerializeDelegate( )
 
 
 ***

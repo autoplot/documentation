@@ -1,5 +1,8 @@
-# org.autoplot.GuiSupportExtra methods to support AutoplotUI.
-GuiSupport( org.autoplot.AutoplotUI parent )
+# org.autoplot.GuiSupport
+
+Extra methods to support AutoplotUI.
+
+# GuiSupport( org.autoplot.AutoplotUI parent )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.datasource.DataSetSelectorSwing component for selecting dataset URIs.  This provides hooks for completions.
-DataSetSelector( )
+# org.autoplot.datasource.DataSetSelector
+
+Swing component for selecting dataset URIs.  This provides hooks for completions.
+
+# DataSetSelector( )
 Creates new form DataSetSelector
 
 ***

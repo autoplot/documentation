@@ -1,11 +1,14 @@
-# org.das2.event.DataPointSelectionEventThis is the general-purpose "a data point was selected" event.  Note that
+# org.das2.event.DataPointSelectionEvent
+
+This is the general-purpose "a data point was selected" event.  Note that
  auxiliary data is supported, such as a keystroke that triggered the event.
  
  The X and Y Datums may be null, so that code may be reused.
-DataPointSelectionEvent( Object source, Datum x, Datum y, java.util.Map planes )
+
+# DataPointSelectionEvent( Object source, Datum x, Datum y, java.util.Map planes )
 Creates a new instance of DataPointSelectionEvent
 
-DataPointSelectionEvent( Object source, Datum x, Datum y )
+# DataPointSelectionEvent( Object source, Datum x, Datum y )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.netCDF.HDF5DataSourceFormatEditorPanelOptions for formatting to HDF5.
-HDF5DataSourceFormatEditorPanel( )
+# org.autoplot.netCDF.HDF5DataSourceFormatEditorPanel
+
+Options for formatting to HDF5.
+
+# HDF5DataSourceFormatEditorPanel( )
 Creates new form BinaryDataSourceFormatEditorPanel
 
 ***

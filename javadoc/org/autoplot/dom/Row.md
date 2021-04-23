@@ -1,6 +1,9 @@
-# org.autoplot.dom.RowRepresents a vertical position on the page.  Rows are specified
+# org.autoplot.dom.Row
+
+Represents a vertical position on the page.  Rows are specified
  relative to a parent, which can be the canvas or another row.
-Row( )
+
+# Row( )
 
 
 ***

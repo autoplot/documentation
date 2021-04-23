@@ -1,7 +1,10 @@
-# org.das2.qds.OldDataSetIteratorIterator that provides access to each dataset point, hiding rank when
+# org.das2.qds.OldDataSetIterator
+
+Iterator that provides access to each dataset point, hiding rank when
  when it is not needed.
  
  TODO: Rank2 and Rank3 have problems with zero length indeces.
+
 ***
 <a name="create"></a>
 # create

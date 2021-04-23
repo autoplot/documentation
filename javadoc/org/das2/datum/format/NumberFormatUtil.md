@@ -1,6 +1,9 @@
-# org.das2.datum.format.NumberFormatUtilNote this is a copy of org.das2.util.NumberFormatUtil so that this can be an
+# org.das2.datum.format.NumberFormatUtil
+
+Note this is a copy of org.das2.util.NumberFormatUtil so that this can be an
  independent package.
-NumberFormatUtil( )
+
+# NumberFormatUtil( )
 
 
 ***

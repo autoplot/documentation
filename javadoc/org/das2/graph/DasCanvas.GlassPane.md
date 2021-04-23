@@ -1,6 +1,9 @@
-# org.das2.graph.DasCanvas.GlassPaneJPanel that lives above all other components, and is capable of blocking keyboard and mouse input from
+# org.das2.graph.DasCanvas.GlassPane
+
+JPanel that lives above all other components, and is capable of blocking keyboard and mouse input from
  all components underneath.
-GlassPane( )
+
+# GlassPane( )
 
 
 ***

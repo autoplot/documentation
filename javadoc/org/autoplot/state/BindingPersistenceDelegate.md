@@ -1,5 +1,8 @@
 # org.autoplot.state.BindingPersistenceDelegate
-BindingPersistenceDelegate( )
+
+
+
+# BindingPersistenceDelegate( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.html.AsciiTableMakerGeneric class for converting a table of ascii strings to datums.
-AsciiTableMaker( )
+# org.autoplot.html.AsciiTableMaker
+
+Generic class for converting a table of ascii strings to datums.
+
+# AsciiTableMaker( )
 
 
 ***

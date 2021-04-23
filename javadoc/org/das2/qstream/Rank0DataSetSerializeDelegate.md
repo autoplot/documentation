@@ -1,5 +1,8 @@
 # org.das2.qstream.Rank0DataSetSerializeDelegate
-Rank0DataSetSerializeDelegate( )
+
+
+
+# Rank0DataSetSerializeDelegate( )
 
 
 ***

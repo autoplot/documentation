@@ -1,4 +1,6 @@
-# org.autoplot.RecentUrisDialogPresent GUI showing history of plotted URIs with buttons for
+# org.autoplot.RecentUrisDialog
+
+Present GUI showing history of plotted URIs with buttons for
  ok, plotting below, as an overplot, or editing.  The getModifiers()
  method is called to see which action was pressed:
 <pre>
@@ -7,7 +9,8 @@
    KeyEvent.SHIFT_MASK  overplot
    KeyEvent.ALT_MASK    edit this URI.
  </pre>
-RecentUrisDialog( java.awt.Frame parent, boolean modal )
+
+# RecentUrisDialog( java.awt.Frame parent, boolean modal )
 Creates new form RecentUrisDialog
 
 ***

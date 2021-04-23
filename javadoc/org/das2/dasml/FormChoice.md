@@ -1,5 +1,8 @@
-# org.das2.dasml.FormChoiceDrop down list for making single selections.
-FormChoice( String name )
+# org.das2.dasml.FormChoice
+
+Drop down list for making single selections.
+
+# FormChoice( String name )
 
 
 ***

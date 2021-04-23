@@ -1,6 +1,9 @@
-# org.autoplot.state.UndoRedoSupportUndoRedoSupport keeps track of a series of application states, providing
+# org.autoplot.state.UndoRedoSupport
+
+UndoRedoSupport keeps track of a series of application states, providing
  "undo" and "redo" operations.
-UndoRedoSupport( org.autoplot.ApplicationModel applicationModel )
+
+# UndoRedoSupport( org.autoplot.ApplicationModel applicationModel )
 Creates a new instance of UndoRedoSupport
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.qstream.XMLSerializeDelegateExtension to SerializeDelegate that allows for embedding object within XML.
+# org.das2.qstream.XMLSerializeDelegate
+
+Extension to SerializeDelegate that allows for embedding object within XML.
+
 ***
 <a name="xmlFormat"></a>
 # xmlFormat

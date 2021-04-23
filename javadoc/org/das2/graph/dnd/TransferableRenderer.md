@@ -1,5 +1,8 @@
 # org.das2.graph.dnd.TransferableRenderer
-TransferableRenderer( org.das2.graph.Renderer renderer )
+
+
+
+# TransferableRenderer( org.das2.graph.Renderer renderer )
 Creates a new instance of TransferableRenderer
 
 ***

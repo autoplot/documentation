@@ -1,6 +1,9 @@
-# org.das2.beans.BeansUtilUtilities for JavaBeans conventions, allowing custom editors to be 
+# org.das2.beans.BeansUtil
+
+Utilities for JavaBeans conventions, allowing custom editors to be 
  used to edit JavaBeans with set/get properties.
-BeansUtil( )
+
+# BeansUtil( )
 
 
 ***

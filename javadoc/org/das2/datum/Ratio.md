@@ -1,8 +1,11 @@
-# org.das2.datum.RatioRepresent the ratio of two integers.
-Ratio( int i )
+# org.das2.datum.Ratio
+
+Represent the ratio of two integers.
+
+# Ratio( int i )
 
 
-Ratio( int n, int d )
+# Ratio( int n, int d )
 
 
 ***

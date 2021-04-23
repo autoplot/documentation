@@ -1,5 +1,8 @@
 # org.autoplot.MoveCacheDialog
-MoveCacheDialog( )
+
+
+
+# MoveCacheDialog( )
 Creates new form MoveCacheDialog
 
 ***

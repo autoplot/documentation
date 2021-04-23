@@ -1,5 +1,8 @@
 # org.das2.event.CutoffMouseModule
-CutoffMouseModule( org.das2.graph.DasPlot parent, org.das2.dataset.DataSetConsumer consumer )
+
+
+
+# CutoffMouseModule( org.das2.graph.DasPlot parent, org.das2.dataset.DataSetConsumer consumer )
 
 
 ***

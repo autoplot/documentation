@@ -1,5 +1,8 @@
-# org.autoplot.datasource.AbstractDataSourceFactoryDefault implementations for many types of DataSourceFactory
-AbstractDataSourceFactory( )
+# org.autoplot.datasource.AbstractDataSourceFactory
+
+Default implementations for many types of DataSourceFactory
+
+# AbstractDataSourceFactory( )
 
 
 ***

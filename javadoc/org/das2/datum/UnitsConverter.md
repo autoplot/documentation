@@ -1,6 +1,9 @@
-# org.das2.datum.UnitsConverterUnits Converter object performs scale/offset conversions, but can
+# org.das2.datum.UnitsConverter
+
+Units Converter object performs scale/offset conversions, but can
  also be used any double-to-double conversion, and contains an
  implementation to chain multiple conversions together.
+
 ***
 <a name="IDENTITY"></a>
 # IDENTITY

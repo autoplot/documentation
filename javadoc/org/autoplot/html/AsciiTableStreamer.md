@@ -1,6 +1,9 @@
-# org.autoplot.html.AsciiTableStreamerGeneric class for converting a table of ASCII strings to QDataSet stream.
+# org.autoplot.html.AsciiTableStreamer
+
+Generic class for converting a table of ASCII strings to QDataSet stream.
  This supports streaming sources by reporting QDataSet records as they arrive.
-AsciiTableStreamer( )
+
+# AsciiTableStreamer( )
 
 
 ***

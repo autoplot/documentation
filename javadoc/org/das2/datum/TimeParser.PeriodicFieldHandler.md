@@ -1,6 +1,9 @@
-# org.das2.datum.TimeParser.PeriodicFieldHandlerregular intervals are numbered.
+# org.das2.datum.TimeParser.PeriodicFieldHandler
+
+regular intervals are numbered.
  $(periodic;offset=0;start=2000-001;period=P1D)", "0",  "2000-001"
-PeriodicFieldHandler( )
+
+# PeriodicFieldHandler( )
 
 
 ***

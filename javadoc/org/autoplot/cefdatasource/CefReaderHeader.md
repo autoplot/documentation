@@ -1,6 +1,9 @@
-# org.autoplot.cefdatasource.CefReaderHeaderReads the CEF Header, which contains metadata and information about how to
+# org.autoplot.cefdatasource.CefReaderHeader
+
+Reads the CEF Header, which contains metadata and information about how to
  parse the stream.
-CefReaderHeader( )
+
+# CefReaderHeader( )
 
 
 ***

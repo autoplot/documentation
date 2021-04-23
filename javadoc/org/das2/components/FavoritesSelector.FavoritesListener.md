@@ -1,4 +1,7 @@
 # org.das2.components.FavoritesSelector.FavoritesListener
+
+
+
 ***
 <a name="addFavoriteSelected"></a>
 # addFavoriteSelected

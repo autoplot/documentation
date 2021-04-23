@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.UtilUtilities for Jython scripts in both the datasource and application contexts.
-Util( )
+# org.autoplot.jythonsupport.Util
+
+Utilities for Jython scripts in both the datasource and application contexts.
+
+# Util( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.idlsupport.IdlsavDataSourceFactoryFactory for reading IDLSave files.
-IdlsavDataSourceFactory( )
+# org.autoplot.idlsupport.IdlsavDataSourceFactory
+
+Factory for reading IDLSave files.
+
+# IdlsavDataSourceFactory( )
 
 
 ***

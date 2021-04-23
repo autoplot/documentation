@@ -1,4 +1,7 @@
 # org.das2.graph.StackedHistogramRenderer.RebinListener
+
+
+
 ***
 <a name="propertyChange"></a>
 # propertyChange

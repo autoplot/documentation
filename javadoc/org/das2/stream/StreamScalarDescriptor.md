@@ -1,9 +1,12 @@
-# org.das2.stream.StreamScalarDescriptorThis is a rank 1 element of a packet, either a dependent or independent 
+# org.das2.stream.StreamScalarDescriptor
+
+This is a rank 1 element of a packet, either a dependent or independent 
  parameter.
-StreamScalarDescriptor( org.w3c.dom.Element element )
+
+# StreamScalarDescriptor( org.w3c.dom.Element element )
 
 
-StreamScalarDescriptor( )
+# StreamScalarDescriptor( )
 
 
 ***

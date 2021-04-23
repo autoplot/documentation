@@ -1,6 +1,9 @@
-# org.autoplot.spase.XMLTypeCheckChecks to see if this sort of XML file is handled.  This works with a SAX
+# org.autoplot.spase.XMLTypeCheck
+
+Checks to see if this sort of XML file is handled.  This works with a SAX
  parser, and looks at the tags to see if a file appears to be of a given type.
-XMLTypeCheck( )
+
+# XMLTypeCheck( )
 
 
 ***

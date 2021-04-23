@@ -1,6 +1,9 @@
-# org.autoplot.datasource.DataSetURIWorks with DataSourceRegistry to translate a URI into a DataSource.  Also,
+# org.autoplot.datasource.DataSetURI
+
+Works with DataSourceRegistry to translate a URI into a DataSource.  Also,
  will provide completions.
-DataSetURI( )
+
+# DataSetURI( )
 
 
 ***

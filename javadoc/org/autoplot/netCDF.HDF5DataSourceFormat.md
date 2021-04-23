@@ -1,5 +1,8 @@
-# org.autoplot.netCDF.HDF5DataSourceFormatFormat HDF5 files using the NetCDF library.  These files do not work with Matlab, and this needs to be explored more.
-HDF5DataSourceFormat( )
+# org.autoplot.netCDF.HDF5DataSourceFormat
+
+Format HDF5 files using the NetCDF library.  These files do not work with Matlab, and this needs to be explored more.
+
+# HDF5DataSourceFormat( )
 
 
 ***

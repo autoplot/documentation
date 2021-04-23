@@ -1,5 +1,8 @@
 # org.autoplot.BindToHiddenDialog
-BindToHiddenDialog( )
+
+
+
+# BindToHiddenDialog( )
 Creates new form BindToHiddenDialog
 
 ***

@@ -1,6 +1,9 @@
-# org.autoplot.servlet.CompletionsServletServlet to provide completions and will be used to bridge the thin client launcher with
+# org.autoplot.servlet.CompletionsServlet
+
+Servlet to provide completions and will be used to bridge the thin client launcher with
  the thin client fully-qualified URI.
-CompletionsServlet( )
+
+# CompletionsServlet( )
 
 
 ***

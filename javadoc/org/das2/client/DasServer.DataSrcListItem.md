@@ -1,5 +1,8 @@
-# org.das2.client.DasServer.DataSrcListItemClass to represent know information about an item in a list of data sources.
-DataSrcListItem( boolean bDirectory, String sName, String sDesc )
+# org.das2.client.DasServer.DataSrcListItem
+
+Class to represent know information about an item in a list of data sources.
+
+# DataSrcListItem( boolean bDirectory, String sName, String sDesc )
 Create a data source item with a description string
 
 ***

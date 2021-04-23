@@ -1,5 +1,8 @@
 # org.das2.event.TimeRangeSelectionEvent
-TimeRangeSelectionEvent( Object source, DatumRange range )
+
+
+
+# TimeRangeSelectionEvent( Object source, DatumRange range )
 Creates a new instance of TimeRangeSelectionEvent
 
 ***

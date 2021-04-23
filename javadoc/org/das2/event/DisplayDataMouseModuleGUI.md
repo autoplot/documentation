@@ -1,5 +1,8 @@
 # org.das2.event.DisplayDataMouseModuleGUI
-DisplayDataMouseModuleGUI( )
+
+
+
+# DisplayDataMouseModuleGUI( )
 Creates new form DisplayDataMouseModuleGUI
 
 ***

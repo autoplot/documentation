@@ -1,5 +1,8 @@
-# org.das2.datum.TimeParser.EnumFieldHandler"$Y$m$d-$(enum;values=a,b,c,d)", "20130202-a", "2013-02-02/2013-02-03"
-EnumFieldHandler( )
+# org.das2.datum.TimeParser.EnumFieldHandler
+
+"$Y$m$d-$(enum;values=a,b,c,d)", "20130202-a", "2013-02-02/2013-02-03"
+
+# EnumFieldHandler( )
 
 
 ***

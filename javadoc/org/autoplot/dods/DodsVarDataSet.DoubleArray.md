@@ -1,5 +1,8 @@
 # org.autoplot.dods.DodsVarDataSet.DoubleArray
-DoubleArray( DArray array, java.util.Map properties )
+
+
+
+# DoubleArray( DArray array, java.util.Map properties )
 
 
 ***

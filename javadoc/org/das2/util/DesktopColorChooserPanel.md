@@ -1,5 +1,8 @@
-# org.das2.util.DesktopColorChooserPanelPanel for picking colors off the desktop and maintaining a list of colors.
-DesktopColorChooserPanel( )
+# org.das2.util.DesktopColorChooserPanel
+
+Panel for picking colors off the desktop and maintaining a list of colors.
+
+# DesktopColorChooserPanel( )
 
 
 ***

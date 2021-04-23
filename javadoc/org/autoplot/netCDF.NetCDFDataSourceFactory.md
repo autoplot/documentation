@@ -1,5 +1,8 @@
-# org.autoplot.netCDF.NetCDFDataSourceFactoryFactory for NetCDF and HDF5 data sources.
-NetCDFDataSourceFactory( )
+# org.autoplot.netCDF.NetCDFDataSourceFactory
+
+Factory for NetCDF and HDF5 data sources.
+
+# NetCDFDataSourceFactory( )
 Creates a new instance of NetCDFDataSourceFactory
 
 ***

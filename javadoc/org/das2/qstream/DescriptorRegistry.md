@@ -1,6 +1,9 @@
-# org.das2.qstream.DescriptorRegistryRegistry for XML elements that appear on QStreams.  The tag name is used
+# org.das2.qstream.DescriptorRegistry
+
+Registry for XML elements that appear on QStreams.  The tag name is used
  to register the element.
-DescriptorRegistry( )
+
+# DescriptorRegistry( )
 
 
 ***

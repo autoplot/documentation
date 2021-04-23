@@ -1,6 +1,9 @@
-# org.das2.components.propertyeditor.DisplayableType-safe enumerations that are used as property types
+# org.das2.components.propertyeditor.Displayable
+
+Type-safe enumerations that are used as property types
  that are editable with a PropertyEditor should
  implement this interface.
+
 ***
 <a name="drawListIcon"></a>
 # drawListIcon

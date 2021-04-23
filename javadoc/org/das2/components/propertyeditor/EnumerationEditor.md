@@ -1,11 +1,14 @@
 # org.das2.components.propertyeditor.EnumerationEditor
-EnumerationEditor( )
+
+
+
+# EnumerationEditor( )
 Creates a new instance of EnumerationEditor
 
-EnumerationEditor( java.lang.Class c )
+# EnumerationEditor( java.lang.Class c )
 create an editor for the class.
 
-EnumerationEditor( Object o )
+# EnumerationEditor( Object o )
 create an editor for o's class, with o as the initial value.
 
 ***

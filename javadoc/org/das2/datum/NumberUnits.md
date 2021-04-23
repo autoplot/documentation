@@ -1,8 +1,11 @@
 # org.das2.datum.NumberUnits
-NumberUnits( String id )
 
 
-NumberUnits( String id, String description )
+
+# NumberUnits( String id )
+
+
+# NumberUnits( String id, String description )
 
 
 ***

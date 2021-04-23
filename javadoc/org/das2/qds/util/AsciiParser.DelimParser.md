@@ -1,6 +1,9 @@
-# org.das2.qds.util.AsciiParser.DelimParserDelimParser splits the line on a regex (like "," or "\\s+") to create the fields.
+# org.das2.qds.util.AsciiParser.DelimParser
+
+DelimParser splits the line on a regex (like "," or "\\s+") to create the fields.
  Trailing and leading whitespace is ignored.
-DelimParser( int fieldCount, String delim )
+
+# DelimParser( int fieldCount, String delim )
 
 
 ***

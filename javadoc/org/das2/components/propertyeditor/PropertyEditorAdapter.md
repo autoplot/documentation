@@ -1,5 +1,8 @@
 # org.das2.components.propertyeditor.PropertyEditorAdapter
-PropertyEditorAdapter( )
+
+
+
+# PropertyEditorAdapter( )
 Creates a new instance of PropertyEditorAdapter
 
 ***

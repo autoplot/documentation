@@ -1,4 +1,6 @@
-# org.das2.math.fft.jnt.ComplexDoubleFFTAbstract Class representing FFT's of complex, double precision data.
+# org.das2.math.fft.jnt.ComplexDoubleFFT
+
+Abstract Class representing FFT's of complex, double precision data.
  Concrete classes are typically named ComplexDoubleFFT_<i>method</i>, implement the
  FFT using some particular method.
  <P>
@@ -14,7 +16,8 @@
 </PRE>
  The transformed data is returned in the original data array in
  <a href="package-summary.html#wraparound">wrap-around</A> order.
-ComplexDoubleFFT( int n )
+
+# ComplexDoubleFFT( int n )
 Create an FFT for transforming n points of complex, double precision data.
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.qds.math.fft.jnt.FactorizeSupplies static methods for factoring integers needed by various FFT classes.
-Factorize( )
+# org.das2.qds.math.fft.jnt.Factorize
+
+Supplies static methods for factoring integers needed by various FFT classes.
+
+# Factorize( )
 
 
 ***

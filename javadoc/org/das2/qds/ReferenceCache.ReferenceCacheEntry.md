@@ -1,5 +1,8 @@
-# org.das2.qds.ReferenceCache.ReferenceCacheEntryKeep track of the status of a load.  This keeps track of the thread that is actually
+# org.das2.qds.ReferenceCache.ReferenceCacheEntry
+
+Keep track of the status of a load.  This keeps track of the thread that is actually
  loading the data and it's
+
 ***
 <a name="exception"></a>
 # exception

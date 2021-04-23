@@ -1,11 +1,14 @@
 # org.das2.DasPropertyException
-DasPropertyException( org.das2.DasPropertyException.MessageType type, String propertyName, String objectName, String value )
 
 
-DasPropertyException( org.das2.DasPropertyException.MessageType type, String propertyName, String objectName )
+
+# DasPropertyException( org.das2.DasPropertyException.MessageType type, String propertyName, String objectName, String value )
 
 
-DasPropertyException( org.das2.DasPropertyException.MessageType type )
+# DasPropertyException( org.das2.DasPropertyException.MessageType type, String propertyName, String objectName )
+
+
+# DasPropertyException( org.das2.DasPropertyException.MessageType type )
 
 
 ***

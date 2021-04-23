@@ -1,6 +1,9 @@
-# org.autoplot.asdatasource.AudioSystemDataSourceFactoryRead data directly from the desktop audio system, to create a useful source
+# org.autoplot.asdatasource.AudioSystemDataSourceFactory
+
+Read data directly from the desktop audio system, to create a useful source
  of data for demonstration purposes.
-AudioSystemDataSourceFactory( )
+
+# AudioSystemDataSourceFactory( )
 
 
 ***

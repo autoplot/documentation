@@ -1,5 +1,8 @@
-# org.autoplot.scriptconsole.CommandLineTextPaneGenerally-useful command line component with history and keybindings.
-CommandLineTextPane( )
+# org.autoplot.scriptconsole.CommandLineTextPane
+
+Generally-useful command line component with history and keybindings.
+
+# CommandLineTextPane( )
 
 
 ***

@@ -1,4 +1,7 @@
-# org.autoplot.netCDF.NetCdfVarDataSetwraps a netCDF variable (or HDF5 variable) to present it as a QDataSet.
+# org.autoplot.netCDF.NetCdfVarDataSet
+
+wraps a netCDF variable (or HDF5 variable) to present it as a QDataSet.
+
 ***
 <a name="create"></a>
 # create

@@ -1,5 +1,8 @@
-# org.das2.qstream.MapSerializeDelegateStore map property to QStream.
-MapSerializeDelegate( )
+# org.das2.qstream.MapSerializeDelegate
+
+Store map property to QStream.
+
+# MapSerializeDelegate( )
 
 
 ***

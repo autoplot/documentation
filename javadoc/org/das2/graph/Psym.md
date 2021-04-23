@@ -1,5 +1,8 @@
-# org.das2.graph.PsymType-safe enumeration class for the psym property of
+# org.das2.graph.Psym
+
+Type-safe enumeration class for the psym property of
  a <code>DasSymbolPlot</code>, with values for none, dots, circles, etc.
+
 ***
 <a name="NONE"></a>
 # NONE

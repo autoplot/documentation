@@ -1,11 +1,14 @@
 # org.das2.dataset.ClippedTableDataSet
-ClippedTableDataSet( QDataSet source, Datum xmin, Datum xmax, Datum ymin, Datum ymax )
 
 
-ClippedTableDataSet( QDataSet source, DatumRange xrange, DatumRange yrange )
+
+# ClippedTableDataSet( QDataSet source, Datum xmin, Datum xmax, Datum ymin, Datum ymax )
 
 
-ClippedTableDataSet( QDataSet source, int xoffset, int xlength, int yoffset, int ylength )
+# ClippedTableDataSet( QDataSet source, DatumRange xrange, DatumRange yrange )
+
+
+# ClippedTableDataSet( QDataSet source, int xoffset, int xlength, int yoffset, int ylength )
 
 
 ***

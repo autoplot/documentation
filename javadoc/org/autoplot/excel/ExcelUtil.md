@@ -1,5 +1,8 @@
-# org.autoplot.excel.ExcelUtilUtilties.
-ExcelUtil( )
+# org.autoplot.excel.ExcelUtil
+
+Utilties.
+
+# ExcelUtil( )
 
 
 ***

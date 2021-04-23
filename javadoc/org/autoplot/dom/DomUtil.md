@@ -1,5 +1,8 @@
-# org.autoplot.dom.DomUtiloperations for the DOM, such as search-for-node and child properties
-DomUtil( )
+# org.autoplot.dom.DomUtil
+
+operations for the DOM, such as search-for-node and child properties
+
+# DomUtil( )
 
 
 ***

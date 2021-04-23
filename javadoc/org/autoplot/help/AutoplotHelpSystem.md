@@ -1,4 +1,7 @@
-# org.autoplot.help.AutoplotHelpSystemEncapsulates JavaHelp functionality for convenient access by components.
+# org.autoplot.help.AutoplotHelpSystem
+
+Encapsulates JavaHelp functionality for convenient access by components.
+
 ***
 <a name="displayDefaultHelp"></a>
 # displayDefaultHelp

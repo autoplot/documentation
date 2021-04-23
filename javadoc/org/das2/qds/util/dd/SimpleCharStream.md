@@ -1,30 +1,33 @@
-# org.das2.qds.util.dd.SimpleCharStreamAn implementation of interface CharStream, where the stream is assumed to
+# org.das2.qds.util.dd.SimpleCharStream
+
+An implementation of interface CharStream, where the stream is assumed to
  contain only ASCII characters (without unicode processing).
-SimpleCharStream( java.io.Reader dstream, int startline, int startcolumn, int buffersize )
+
+# SimpleCharStream( java.io.Reader dstream, int startline, int startcolumn, int buffersize )
 Constructor.
 
-SimpleCharStream( java.io.Reader dstream, int startline, int startcolumn )
+# SimpleCharStream( java.io.Reader dstream, int startline, int startcolumn )
 Constructor.
 
-SimpleCharStream( java.io.Reader dstream )
+# SimpleCharStream( java.io.Reader dstream )
 Constructor.
 
-SimpleCharStream( java.io.InputStream dstream, String encoding, int startline, int startcolumn, int buffersize )
+# SimpleCharStream( java.io.InputStream dstream, String encoding, int startline, int startcolumn, int buffersize )
 Constructor.
 
-SimpleCharStream( java.io.InputStream dstream, int startline, int startcolumn, int buffersize )
+# SimpleCharStream( java.io.InputStream dstream, int startline, int startcolumn, int buffersize )
 Constructor.
 
-SimpleCharStream( java.io.InputStream dstream, String encoding, int startline, int startcolumn )
+# SimpleCharStream( java.io.InputStream dstream, String encoding, int startline, int startcolumn )
 Constructor.
 
-SimpleCharStream( java.io.InputStream dstream, int startline, int startcolumn )
+# SimpleCharStream( java.io.InputStream dstream, int startline, int startcolumn )
 Constructor.
 
-SimpleCharStream( java.io.InputStream dstream, String encoding )
+# SimpleCharStream( java.io.InputStream dstream, String encoding )
 Constructor.
 
-SimpleCharStream( java.io.InputStream dstream )
+# SimpleCharStream( java.io.InputStream dstream )
 Constructor.
 
 ***

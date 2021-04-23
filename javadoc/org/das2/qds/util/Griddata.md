@@ -1,4 +1,6 @@
-# org.das2.qds.util.GriddataCodes for interpolating from irregular grids to regular grids.
+# org.das2.qds.util.Griddata
+
+Codes for interpolating from irregular grids to regular grids.
  
  For these codes we use "trigulations" which are datasets that contain connections
  of points in other datasets.  These are rank 2 datasets tri[n,3] where the 3 points are
@@ -9,7 +11,8 @@
  interpolation, and 4-points for 3-D triangle interpolation. 
  
  DO NOT USE THIS CLASS, IT IS STILL UNDER DEVELOPMENT!  This is barely tested for the nfree=1-D case!
-Griddata( )
+
+# Griddata( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.jythoncompletion.support.CompletionItemThe interface representing a single item of the result list that can be displayed
+# org.das2.jythoncompletion.support.CompletionItem
+
+The interface representing a single item of the result list that can be displayed
  in the completion popup.
+
 ***
 <a name="createDocumentationTask"></a>
 # createDocumentationTask

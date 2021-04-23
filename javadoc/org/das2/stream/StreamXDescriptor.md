@@ -1,8 +1,11 @@
 # org.das2.stream.StreamXDescriptor
-StreamXDescriptor( )
 
 
-StreamXDescriptor( org.w3c.dom.Element element )
+
+# StreamXDescriptor( )
+
+
+# StreamXDescriptor( org.w3c.dom.Element element )
 
 
 ***

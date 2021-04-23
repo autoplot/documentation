@@ -1,6 +1,9 @@
-# org.das2.qds.util.BundleBuilderreduce and standardize code needed to build bundle descriptors used in BUNDLE_1.  This can
+# org.das2.qds.util.BundleBuilder
+
+reduce and standardize code needed to build bundle descriptors used in BUNDLE_1.  This can
  only build a bundle of rank 1 datasets.
-BundleBuilder( int size )
+
+# BundleBuilder( int size )
 create the builder for the BundleDescriptor to go into BUNDLE_1 property.
 
 ***

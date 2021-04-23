@@ -1,10 +1,13 @@
-# org.autoplot.JarRelauncherThe only way to get an executable jar to have more memory is to have a little java process that
+# org.autoplot.JarRelauncher
+
+The only way to get an executable jar to have more memory is to have a little java process that
  launches a bigger one that has more memory available to it.
 
  http://stackoverflow.com/questions/12201878/specifying-jvm-heap-sizes-in-jar?rq=1
 
  This is also Ed West's recommendation.
-JarRelauncher( )
+
+# JarRelauncher( )
 
 
 ***

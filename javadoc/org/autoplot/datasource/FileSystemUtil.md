@@ -1,5 +1,8 @@
-# org.autoplot.datasource.FileSystemUtilMore abstract filesystem functions.
-FileSystemUtil( )
+# org.autoplot.datasource.FileSystemUtil
+
+More abstract filesystem functions.
+
+# FileSystemUtil( )
 
 
 ***

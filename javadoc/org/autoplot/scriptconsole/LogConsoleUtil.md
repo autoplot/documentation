@@ -1,5 +1,8 @@
 # org.autoplot.scriptconsole.LogConsoleUtil
-LogConsoleUtil( )
+
+
+
+# LogConsoleUtil( )
 
 
 ***

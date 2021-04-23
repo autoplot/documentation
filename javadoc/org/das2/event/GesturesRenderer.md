@@ -1,5 +1,8 @@
 # org.das2.event.GesturesRenderer
-GesturesRenderer( org.das2.graph.DasCanvasComponent parent )
+
+
+
+# GesturesRenderer( org.das2.graph.DasCanvasComponent parent )
 Creates a new instance of GesturesRenderer
 
 ***

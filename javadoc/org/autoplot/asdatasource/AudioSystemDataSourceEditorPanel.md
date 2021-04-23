@@ -1,5 +1,8 @@
 # org.autoplot.asdatasource.AudioSystemDataSourceEditorPanel
-AudioSystemDataSourceEditorPanel( )
+
+
+
+# AudioSystemDataSourceEditorPanel( )
 Creates new form AudioSystemDataSourceEditorPanel
 
 ***

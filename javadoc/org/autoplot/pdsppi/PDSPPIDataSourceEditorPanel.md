@@ -1,5 +1,8 @@
-# org.autoplot.pdsppi.PDSPPIDataSourceEditorPanelEditor panel for getting data from PDS/PPI node.
-PDSPPIDataSourceEditorPanel( )
+# org.autoplot.pdsppi.PDSPPIDataSourceEditorPanel
+
+Editor panel for getting data from PDS/PPI node.
+
+# PDSPPIDataSourceEditorPanel( )
 Creates new form PPARAMPPIDataSourceEditorPanel
 
 ***

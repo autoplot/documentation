@@ -1,6 +1,9 @@
-# org.autoplot.datasource.capability.Streamingallows the records to be read in as they are available.  Note
+# org.autoplot.datasource.capability.Streaming
+
+allows the records to be read in as they are available.  Note
  when the Iterator hasNext method may block until more records are 
  available.
+
 ***
 <a name="streamDataSet"></a>
 # streamDataSet

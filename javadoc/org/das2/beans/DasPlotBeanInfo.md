@@ -1,5 +1,8 @@
 # org.das2.beans.DasPlotBeanInfo
-DasPlotBeanInfo( )
+
+
+
+# DasPlotBeanInfo( )
 
 
 ***

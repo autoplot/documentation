@@ -1,6 +1,9 @@
-# org.das2.jythoncompletion.nbadapt.BaseDocumentThis dummy class is used to minimize changes to Netbeans code.  It will never
+# org.das2.jythoncompletion.nbadapt.BaseDocument
+
+This dummy class is used to minimize changes to Netbeans code.  It will never
  be instantiated.
-BaseDocument( )
+
+# BaseDocument( )
 
 
 ***

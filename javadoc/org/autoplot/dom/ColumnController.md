@@ -1,4 +1,7 @@
 # org.autoplot.dom.ColumnController
+
+
+
 ***
 <a name="getCanvas"></a>
 # getCanvas

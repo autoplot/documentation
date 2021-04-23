@@ -1,4 +1,6 @@
-# org.autoplot.datasource.capability.TimeSeriesBrowseThis capability allows DataSources that know how to produce data sets
+# org.autoplot.datasource.capability.TimeSeriesBrowse
+
+This capability allows DataSources that know how to produce data sets
  from a long time series to provide views of the DataSource for different
  times and resolutions.
  
@@ -8,6 +10,7 @@
 
  Note DataSources providing this capability must insert CacheTags into the
  QDataSets they produce.
+
 ***
 <a name="PROB_NO_TIMERANGE_PROVIDED"></a>
 # PROB_NO_TIMERANGE_PROVIDED

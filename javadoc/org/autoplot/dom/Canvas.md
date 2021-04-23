@@ -1,5 +1,8 @@
-# org.autoplot.dom.CanvasThe state of the canvas which is the area on which plots are drawn.
-Canvas( )
+# org.autoplot.dom.Canvas
+
+The state of the canvas which is the area on which plots are drawn.
+
+# Canvas( )
 
 
 ***

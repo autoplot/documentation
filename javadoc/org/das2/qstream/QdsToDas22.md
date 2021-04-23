@@ -1,4 +1,6 @@
-# org.das2.qstream.QdsToDas22Write QDataSets that vary over at most 2 independent variables as a Das2 
+# org.das2.qstream.QdsToDas22
+
+Write QDataSets that vary over at most 2 independent variables as a Das2 
  stream.
  Since Das2 streams can have at most 2 independent variables, higher
  dimensional (not necessarily higher rank) QDataSets can't be written using
@@ -14,10 +16,11 @@
  
  This is a direct serialization of QDataSet and does not require any legacy
  das2 dataset classes such as VectorDataset or TableDataset.
-QdsToDas22( )
+
+# QdsToDas22( )
 
 
-QdsToDas22( int genSigDigits, int fracSecDigits )
+# QdsToDas22( int genSigDigits, int fracSecDigits )
 
 
 ***

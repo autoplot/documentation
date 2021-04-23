@@ -1,6 +1,9 @@
-# org.autoplot.datasource.jython.JythonExtensionDataSourceFactoryCreates JythonExceptionDataSource's, which are data sources defined
+# org.autoplot.datasource.jython.JythonExtensionDataSourceFactory
+
+Creates JythonExceptionDataSource's, which are data sources defined
  by Jython scripts, but the script need not be in the URI.
-JythonExtensionDataSourceFactory( )
+
+# JythonExtensionDataSourceFactory( )
 
 
 ***

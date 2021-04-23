@@ -1,9 +1,12 @@
-# org.autoplot.dom.PlotControllerManages a Plot node, for example listening for autoRange updates 
+# org.autoplot.dom.PlotController
+
+Manages a Plot node, for example listening for autoRange updates 
  and layout changes.
-PlotController( org.autoplot.dom.Application dom, org.autoplot.dom.Plot domPlot, org.das2.graph.DasPlot dasPlot, org.das2.graph.DasColorBar colorbar )
+
+# PlotController( org.autoplot.dom.Application dom, org.autoplot.dom.Plot domPlot, org.das2.graph.DasPlot dasPlot, org.das2.graph.DasColorBar colorbar )
 
 
-PlotController( org.autoplot.dom.Application dom, org.autoplot.dom.Plot plot )
+# PlotController( org.autoplot.dom.Application dom, org.autoplot.dom.Plot plot )
 
 
 ***

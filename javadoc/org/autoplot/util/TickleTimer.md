@@ -1,9 +1,12 @@
-# org.autoplot.util.TickleTimerTickleTimer is a timer that fires once it's been left alone for 
+# org.autoplot.util.TickleTimer
+
+TickleTimer is a timer that fires once it's been left alone for 
  a while.  The idea is the keyboard can be pecked away and 
  the change event will not be fired until the keyboard is idle.
 
  java.util.Timer performs very similar functionality.
-TickleTimer( long delay, java.beans.PropertyChangeListener listener )
+
+# TickleTimer( long delay, java.beans.PropertyChangeListener listener )
 
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.qds.DDataSetrank 0,1,2,3 or 4 dataset backed by double array (8 byte real numbers).
+# org.das2.qds.DDataSet
+
+rank 0,1,2,3 or 4 dataset backed by double array (8 byte real numbers).
+
 ***
 <a name="version"></a>
 # version

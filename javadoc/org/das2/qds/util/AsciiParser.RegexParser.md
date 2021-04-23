@@ -1,5 +1,8 @@
-# org.das2.qds.util.AsciiParser.RegexParserparser uses a regular expression to match each record.
-RegexParser( org.das2.qds.util.AsciiParser parser, String regex )
+# org.das2.qds.util.AsciiParser.RegexParser
+
+parser uses a regular expression to match each record.
+
+# RegexParser( org.das2.qds.util.AsciiParser parser, String regex )
 
 
 ***

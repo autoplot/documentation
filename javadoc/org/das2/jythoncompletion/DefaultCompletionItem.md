@@ -1,8 +1,11 @@
-# org.das2.jythoncompletion.DefaultCompletionItemCompletion item which will insert text when accepted.
-DefaultCompletionItem( String text, int offset, String complete, String label, String link, int sortPriority, javax.swing.ImageIcon icon )
+# org.das2.jythoncompletion.DefaultCompletionItem
+
+Completion item which will insert text when accepted.
+
+# DefaultCompletionItem( String text, int offset, String complete, String label, String link, int sortPriority, javax.swing.ImageIcon icon )
 
 
-DefaultCompletionItem( String text, int offset, String complete, String label, String link )
+# DefaultCompletionItem( String text, int offset, String complete, String label, String link )
 
 
 ***

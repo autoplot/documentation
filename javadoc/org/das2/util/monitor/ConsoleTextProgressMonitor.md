@@ -1,7 +1,10 @@
-# org.das2.util.monitor.ConsoleTextProgressMonitorExample monitor that prints progress messages to the console (stderr).
+# org.das2.util.monitor.ConsoleTextProgressMonitor
+
+Example monitor that prints progress messages to the console (stderr).
  TODO: It might be nice to find a library that supports terminals so that newlines
  are not printed.
-ConsoleTextProgressMonitor( )
+
+# ConsoleTextProgressMonitor( )
 
 
 ***

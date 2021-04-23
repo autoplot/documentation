@@ -1,5 +1,8 @@
 # org.das2.graph.XAxisDataLoader
-XAxisDataLoader( org.das2.graph.Renderer r, org.das2.dataset.DataSetDescriptor dsd )
+
+
+
+# XAxisDataLoader( org.das2.graph.Renderer r, org.das2.dataset.DataSetDescriptor dsd )
 Creates a new instance of DataLoader
 
 ***

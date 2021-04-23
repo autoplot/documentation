@@ -1,4 +1,6 @@
-# org.das2.graph.HugeScatterRendererHugeScatterRenderer
+# org.das2.graph.HugeScatterRenderer
+
+HugeScatterRenderer
 
  This renderer can handle vector data sets with hundreds of thousands of points
  by histogramming the points and then creating a greyscale spectrogram of
@@ -13,7 +15,8 @@
  </ul>
  
  Created on April 14, 2005, 8:45 PM
-HugeScatterRenderer( org.das2.dataset.DataSetDescriptor dsd )
+
+# HugeScatterRenderer( org.das2.dataset.DataSetDescriptor dsd )
 
 
 ***

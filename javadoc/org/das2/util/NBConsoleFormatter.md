@@ -1,6 +1,9 @@
-# org.das2.util.NBConsoleFormatterFormats log messages to the stdout, so that Netbeans will automatically
+# org.das2.util.NBConsoleFormatter
+
+Formats log messages to the stdout, so that Netbeans will automatically
  make links from the stack traces printed to stderr.
-NBConsoleFormatter( )
+
+# NBConsoleFormatter( )
 
 
 ***

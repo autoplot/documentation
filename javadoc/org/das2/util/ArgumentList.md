@@ -1,10 +1,13 @@
-# org.das2.util.ArgumentListUtility class for processing the String[] arguments passed into the main routine,
+# org.das2.util.ArgumentList
+
+Utility class for processing the String[] arguments passed into the main routine,
  handing positional and switch parameters.  Also automatically generates the
  usage documentation.
 
  Note in Autoplot's pngwalk, we add a parameter and positional argument with the
  same name.  This should continue to be supported.
-ArgumentList( String programName )
+
+# ArgumentList( String programName )
 creates the processor for the program.  <tt>programName</tt> is provided
  for the usage statement.  After creating the object, arguments are
  specified one by one, and then the process method is called.

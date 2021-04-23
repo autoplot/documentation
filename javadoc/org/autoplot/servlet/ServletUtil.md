@@ -1,5 +1,8 @@
-# org.autoplot.servlet.ServletUtilUtilities for the servlets
-ServletUtil( )
+# org.autoplot.servlet.ServletUtil
+
+Utilities for the servlets
+
+# ServletUtil( )
 
 
 ***

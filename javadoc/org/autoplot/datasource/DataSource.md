@@ -1,4 +1,7 @@
-# org.autoplot.datasource.DataSourceLike the DataLoader of das2, but provides minimal dataset discovery metadata
+# org.autoplot.datasource.DataSource
+
+Like the DataLoader of das2, but provides minimal dataset discovery metadata
+
 ***
 <a name="asynchronousLoad"></a>
 # asynchronousLoad

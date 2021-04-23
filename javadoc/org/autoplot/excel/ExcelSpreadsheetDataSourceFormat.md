@@ -1,5 +1,8 @@
-# org.autoplot.excel.ExcelSpreadsheetDataSourceFormatFormat the QDataSet into Excel spreadsheets (1990s format).
-ExcelSpreadsheetDataSourceFormat( )
+# org.autoplot.excel.ExcelSpreadsheetDataSourceFormat
+
+Format the QDataSet into Excel spreadsheets (1990s format).
+
+# ExcelSpreadsheetDataSourceFormat( )
 
 
 ***

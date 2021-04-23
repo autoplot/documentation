@@ -1,5 +1,8 @@
-# org.das2.qds.TransposeRank2DataSetold dataset type transposes a rank 2 dataset with DEPEND_1 and DEPEND_0.
-TransposeRank2DataSet( QDataSet source )
+# org.das2.qds.TransposeRank2DataSet
+
+old dataset type transposes a rank 2 dataset with DEPEND_1 and DEPEND_0.
+
+# TransposeRank2DataSet( QDataSet source )
 Creates a new instance of TransposeRank2DataSet
 
 ***

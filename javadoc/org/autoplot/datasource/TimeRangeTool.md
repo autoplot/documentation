@@ -1,5 +1,8 @@
-# org.autoplot.datasource.TimeRangeToolGUI for creating valid time ranges by calendar times, orbit, or NRT
-TimeRangeTool( )
+# org.autoplot.datasource.TimeRangeTool
+
+GUI for creating valid time ranges by calendar times, orbit, or NRT
+
+# TimeRangeTool( )
 Creates new form TimeRangeTool
 
 ***

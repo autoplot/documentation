@@ -1,9 +1,13 @@
-# org.autoplot.ScriptContextScriptContext provides the API to perform abstract functions with 
- the application.  For example, <tt>
-   ScriptContext.load('http://autoplot.org/data/somedata.dat')
-   ScriptContext.writeToPdf('/tmp/foo.pdf')
- </tt>
-ScriptContext( )
+# org.autoplot.ScriptContext
+
+ScriptContext provides the API to perform abstract functions with 
+ the application.  For example, 
+<blockquote><pre><small>{@code
+ ScriptContext.load('http://autoplot.org/data/somedata.dat')
+ ScriptContext.writeToPdf('/tmp/foo.pdf')
+}</small></pre></blockquote>
+
+# ScriptContext( )
 
 
 ***

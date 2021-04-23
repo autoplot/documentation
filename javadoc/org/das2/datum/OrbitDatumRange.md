@@ -1,4 +1,6 @@
-# org.das2.datum.OrbitDatumRangeDatumRange implementation that identifies times by orbit number.  Note orbit numbers are strings, see Cassini for why.
+# org.das2.datum.OrbitDatumRange
+
+DatumRange implementation that identifies times by orbit number.  Note orbit numbers are strings, see Cassini for why.
  next will return the same one at the end of the sequence.
  <code>
    dr= new OrbitDatumRange( "crres", "6" )
@@ -7,10 +9,11 @@
    dr.toString() &rarr; "orbit:crres:7"
  </code>
  Also, orbit:http://das2.org/wiki/index.php/Orbits/crres:6 is supported for development work and personal lists.
-OrbitDatumRange( String sc, String orbit )
+
+# OrbitDatumRange( String sc, String orbit )
 
 
-OrbitDatumRange( String sc, String orbit, Units unitPref )
+# OrbitDatumRange( String sc, String orbit, Units unitPref )
 
 
 ***

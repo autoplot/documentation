@@ -1,11 +1,14 @@
-# org.das2.graph.CurveRendererOld renderer that really doesn't do anything that the SeriesRenderer can't do,
+# org.das2.graph.CurveRenderer
+
+Old renderer that really doesn't do anything that the SeriesRenderer can't do,
  but is much easier to understand.
-CurveRenderer( org.das2.dataset.DataSetDescriptor dsd, String xplane, String yplane )
+
+# CurveRenderer( org.das2.dataset.DataSetDescriptor dsd, String xplane, String yplane )
 The dataset descriptor should return a rank 2 QDataSet with time for
  and a bundle descriptor for BUNDLE_1.  DataSetOps.unbundle is used
  to extract the xplane and yplane components.
 
-CurveRenderer( )
+# CurveRenderer( )
 Constructor for renderer which takes a dataset which is Y(DEPEND_0=X)
 
 ***

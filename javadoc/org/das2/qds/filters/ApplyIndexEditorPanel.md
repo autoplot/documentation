@@ -1,5 +1,8 @@
-# org.das2.qds.filters.ApplyIndexEditorPanelApplyIndex allows a subset of the data to be extracted.
-ApplyIndexEditorPanel( )
+# org.das2.qds.filters.ApplyIndexEditorPanel
+
+ApplyIndex allows a subset of the data to be extracted.
+
+# ApplyIndexEditorPanel( )
 Creates new form ApplyIndexEditorPanel
 
 ***

@@ -1,10 +1,13 @@
-# org.autoplot.test.Test_032_FilterChainGUI1) Plot vap+inline:ripples(100,100)+randn(100)/50+outerProduct(ones(100),randn(110)/50)
+# org.autoplot.test.Test_032_FilterChainGUI
+
+1) Plot vap+inline:ripples(100,100)+randn(100)/50+outerProduct(ones(100),randn(110)/50)
    2) Enter data tab
    3) Add a filter by clicking (+) button
    4) Add slice0 filter and set operations test field to "10"
    5) Add "add filter" and set parameter to 10.
    6) After each filter is added, go to canvas view to show changes to canvas.
-Test_032_FilterChainGUI( )
+
+# Test_032_FilterChainGUI( )
 
 
 ***

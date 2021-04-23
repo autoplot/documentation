@@ -1,11 +1,14 @@
-# org.autoplot.state.SerializeUtilUtility class for creating a Document from a DomNode.  Note that there is special
+# org.autoplot.state.SerializeUtil
+
+Utility class for creating a Document from a DomNode.  Note that there is special
  handling for:<ul>
  <li>controller -- these nodes are dropped.
  <li>class -- this is noise from java.
  <li>*Automatically -- properties ending in "Automatically" are used to set another property.
  </ul>
  There may be other exceptional properties that are not documented here.
-SerializeUtil( )
+
+# SerializeUtil( )
 
 
 ***

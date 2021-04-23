@@ -1,6 +1,9 @@
-# org.das2.dataset.LimitSizeBytesDataSetCacheDataCache that attempts to limit the amount of memory it consumes,
+# org.das2.dataset.LimitSizeBytesDataSetCache
+
+DataCache that attempts to limit the amount of memory it consumes,
  by using DataSetUtil.guessSizeBytes(DataSet)
-LimitSizeBytesDataSetCache( long totalSizeLimitBytes )
+
+# LimitSizeBytesDataSetCache( long totalSizeLimitBytes )
 Creates a new instance of LimitSizeBytesDataSetCache
 
 ***

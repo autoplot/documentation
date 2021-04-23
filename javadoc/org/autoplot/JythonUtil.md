@@ -1,7 +1,10 @@
-# org.autoplot.JythonUtilUtilities for Jython functions, such as a standard way to initialize
+# org.autoplot.JythonUtil
+
+Utilities for Jython functions, such as a standard way to initialize
  an interpreter and invoke a script asynchronously.  See also 1310.
  TODO: this needs review, since the autoplot.py was added to the imports.
-JythonUtil( )
+
+# JythonUtil( )
 
 
 ***

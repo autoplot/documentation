@@ -1,5 +1,8 @@
-# org.autoplot.dom.PlotElementUtilstatic utilities the plot element controller uses.
-PlotElementUtil( )
+# org.autoplot.dom.PlotElementUtil
+
+static utilities the plot element controller uses.
+
+# PlotElementUtil( )
 
 
 ***

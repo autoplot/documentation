@@ -1,10 +1,13 @@
-# org.das2.qstream.FormatStreamHandlerWrites the stream based on the messages sent to it.  This overlaps with the SimpleStreamFormatter,
+# org.das2.qstream.FormatStreamHandler
+
+Writes the stream based on the messages sent to it.  This overlaps with the SimpleStreamFormatter,
  but was needed to support streams.  The SimpleStreamFormatter took a QDataSet and formatted it.  This formats
  based on the callbacks.
 
  Note the library was poorly designed, and this is pretty simple because most of the hard work is buried within
  the StreamDescriptor.  StreamDescriptor should be simplified, and the code should be moved to here.
-FormatStreamHandler( )
+
+# FormatStreamHandler( )
 
 
 ***

@@ -1,17 +1,20 @@
 # org.das2.stream.StreamException
-StreamException( String message )
+
+
+
+# StreamException( String message )
 Creates a new instance of StreamException
 
-StreamException( String type, String message )
+# StreamException( String type, String message )
 
 
-StreamException( java.lang.Exception cause )
+# StreamException( java.lang.Exception cause )
 
 
-StreamException( org.xml.sax.SAXException se )
+# StreamException( org.xml.sax.SAXException se )
 
 
-StreamException( java.io.IOException ioe )
+# StreamException( java.io.IOException ioe )
 
 
 ***

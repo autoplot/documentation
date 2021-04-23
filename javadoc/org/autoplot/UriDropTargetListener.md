@@ -1,5 +1,8 @@
-# org.autoplot.UriDropTargetListenerDropTarget allows URIs to be dropped onto plots of the page.
-UriDropTargetListener( org.autoplot.datasource.DataSetSelector dss, org.autoplot.ApplicationModel model )
+# org.autoplot.UriDropTargetListener
+
+DropTarget allows URIs to be dropped onto plots of the page.
+
+# UriDropTargetListener( org.autoplot.datasource.DataSetSelector dss, org.autoplot.ApplicationModel model )
 
 
 ***

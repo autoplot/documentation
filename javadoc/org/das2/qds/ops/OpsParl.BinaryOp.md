@@ -1,4 +1,7 @@
-# org.das2.qds.ops.OpsParl.BinaryOpBinaryOps are operations such as add, pow, atan2
+# org.das2.qds.ops.OpsParl.BinaryOp
+
+BinaryOps are operations such as add, pow, atan2
+
 ***
 <a name="op"></a>
 # op

@@ -1,6 +1,9 @@
-# org.autoplot.inline.MakeAggMapGiven a vap+inline URI, can its getDataSet calls be converted so that
+# org.autoplot.inline.MakeAggMap
+
+Given a vap+inline URI, can its getDataSet calls be converted so that
  the vap+inline URI becomes an aggregation?
-MakeAggMap( )
+
+# MakeAggMap( )
 
 
 ***

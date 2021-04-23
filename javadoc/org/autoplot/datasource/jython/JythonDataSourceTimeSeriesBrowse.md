@@ -1,4 +1,7 @@
-# org.autoplot.datasource.jython.JythonDataSourceTimeSeriesBrowsecontainer for the state simply manages the timerange argument.
+# org.autoplot.datasource.jython.JythonDataSourceTimeSeriesBrowse
+
+container for the state simply manages the timerange argument.
+
 ***
 <a name="blurURI"></a>
 # blurURI

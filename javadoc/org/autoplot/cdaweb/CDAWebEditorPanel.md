@@ -1,5 +1,8 @@
-# org.autoplot.cdaweb.CDAWebEditorPanelEditor Panel for data with CDAWeb at NASA/Goddard.
-CDAWebEditorPanel( )
+# org.autoplot.cdaweb.CDAWebEditorPanel
+
+Editor Panel for data with CDAWeb at NASA/Goddard.
+
+# CDAWebEditorPanel( )
 Creates new form CDAWebEditorPanel
 
 ***

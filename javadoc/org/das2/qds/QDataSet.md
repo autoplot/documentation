@@ -1,4 +1,6 @@
-# org.das2.qds.QDataSet<p>QDataSets are less abstract and more flexible data model for das2.  das2's 
+# org.das2.qds.QDataSet
+
+<p>QDataSets are less abstract and more flexible data model for das2.  das2's 
  old data model was developed to deliver spectrogram time series data sets
  where the dataset structure would change over time, and the interface is highly
  optimized for that environment.  It's difficult to express many datasets in these
@@ -16,6 +18,7 @@
  the legacy Das2 dataset.  </p>
  
  <p>This is inspired by the CDF data model and PaPCo's dataset model.</p>
+
 ***
 <a name="DEPEND_0"></a>
 # DEPEND_0

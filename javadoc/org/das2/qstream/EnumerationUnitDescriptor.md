@@ -1,6 +1,9 @@
-# org.das2.qstream.EnumerationUnitDescriptorThis handles enumeration units that are defined within the stream (not within
+# org.das2.qstream.EnumerationUnitDescriptor
+
+This handles enumeration units that are defined within the stream (not within
  a header).
-EnumerationUnitDescriptor( )
+
+# EnumerationUnitDescriptor( )
 will be called when writing streams.
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.LayoutListenerListens to changes in axis labels and colorbar visible to trigger relayout.
-LayoutListener( org.autoplot.ApplicationModel model )
+# org.autoplot.LayoutListener
+
+Listens to changes in axis labels and colorbar visible to trigger relayout.
+
+# LayoutListener( org.autoplot.ApplicationModel model )
 
 
 ***

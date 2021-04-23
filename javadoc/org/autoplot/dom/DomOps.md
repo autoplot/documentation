@@ -1,9 +1,12 @@
-# org.autoplot.dom.DomOpsMany operations are defined within the DOM object controllers that needn't
+# org.autoplot.dom.DomOps
+
+Many operations are defined within the DOM object controllers that needn't
  be.  This class is a place for operations that are performed on the DOM
  independent of the controllers.  For example, the operation to swap the
  position of two plots is easily implemented by changing the rowid and columnid
  properties of the two plots.
-DomOps( )
+
+# DomOps( )
 
 
 ***

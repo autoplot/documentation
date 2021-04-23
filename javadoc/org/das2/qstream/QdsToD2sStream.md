@@ -1,8 +1,11 @@
-# org.das2.qstream.QdsToD2sStreamBase class for QDataSet to das2 stream serializers
-QdsToD2sStream( )
+# org.das2.qstream.QdsToD2sStream
+
+Base class for QDataSet to das2 stream serializers
+
+# QdsToD2sStream( )
 Initialize a binary QDataSet to das2 stream exporter
 
-QdsToD2sStream( int genSigDigits, int fracSecDigits )
+# QdsToD2sStream( int genSigDigits, int fracSecDigits )
 Initialize a text QDataSet to das2 stream exporter
 
 ***

@@ -1,7 +1,10 @@
-# org.das2.qds.IndexListDataSetIteratorIterator that uses a rank 2 list of indeces.  For example,
+# org.das2.qds.IndexListDataSetIterator
+
+Iterator that uses a rank 2 list of indeces.  For example,
  to iterate over 10 points of a rank 2 dataset, this would be constructed
  with a dataset[10,2].
-IndexListDataSetIterator( QDataSet indeces )
+
+# IndexListDataSetIterator( QDataSet indeces )
 Create the iterator
 
 ***

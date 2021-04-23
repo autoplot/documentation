@@ -1,6 +1,9 @@
-# org.das2.components.propertyeditor.EnumerationType-safe enumerations that are used as property types
+# org.das2.components.propertyeditor.Enumeration
+
+Type-safe enumerations that are used as property types
  that are editable with a PropertyEditor should
  implement this interface.
+
 ***
 <a name="getListIcon"></a>
 # getListIcon

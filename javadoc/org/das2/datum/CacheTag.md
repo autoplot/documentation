@@ -1,9 +1,12 @@
-# org.das2.datum.CacheTagCacheTags are used to represent the coverage of datasets stored in a cache, and are
+# org.das2.datum.CacheTag
+
+CacheTags are used to represent the coverage of datasets stored in a cache, and are
  the reference used to decide if a cache entry is capable of satisfying a data request.
-CacheTag( Datum start, Datum end, Datum resolution )
+
+# CacheTag( Datum start, Datum end, Datum resolution )
 Constructs a new CacheTag.
 
-CacheTag( DatumRange range, Datum resolution )
+# CacheTag( DatumRange range, Datum resolution )
 Constructs a new CacheTag.
 
 ***

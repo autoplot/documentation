@@ -1,6 +1,9 @@
-# org.das2.qds.math.fft.jnt.RealDoubleFFT_EvenComputes FFT's of real, double precision data when n is even, by
+# org.das2.qds.math.fft.jnt.RealDoubleFFT_Even
+
+Computes FFT's of real, double precision data when n is even, by
  computing complex FFT.
-RealDoubleFFT_Even( int n )
+
+# RealDoubleFFT_Even( int n )
 Create an FFT for transforming n points of real, double precision data.
 
 ***

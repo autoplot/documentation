@@ -1,5 +1,8 @@
-# org.das2.qstream.filter.RenderTypeFilterDemonstrate how a node is added to a packet descriptor.
-RenderTypeFilter( )
+# org.das2.qstream.filter.RenderTypeFilter
+
+Demonstrate how a node is added to a packet descriptor.
+
+# RenderTypeFilter( )
 
 
 ***

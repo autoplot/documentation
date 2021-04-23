@@ -1,5 +1,8 @@
-# org.das2.qds.buffer.UShortDataSetUnsigned Short.
-UShortDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
+# org.das2.qds.buffer.UShortDataSet
+
+Unsigned Short.
+
+# UShortDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
 
 
 ***

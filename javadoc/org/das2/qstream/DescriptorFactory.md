@@ -1,4 +1,7 @@
-# org.das2.qstream.DescriptorFactoryFactor for converting the XML packet into the Descriptor that implements.
+# org.das2.qstream.DescriptorFactory
+
+Factor for converting the XML packet into the Descriptor that implements.
+
 ***
 <a name="create"></a>
 # create

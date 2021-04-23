@@ -1,6 +1,9 @@
-# org.autoplot.dom.ApplicationRepresents a state of the application as a whole, with its one canvas and
+# org.autoplot.dom.Application
+
+Represents a state of the application as a whole, with its one canvas and
  multiple plots, axes, and bindings.
-Application( )
+
+# Application( )
 
 
 ***

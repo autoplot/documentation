@@ -1,5 +1,8 @@
-# org.das2.dataset.DataSetAdapterPresents legacy das2 datasets as QDataSets. See also TableDataSetAdapter,VectorDataSetAdapter
-DataSetAdapter( )
+# org.das2.dataset.DataSetAdapter
+
+Presents legacy das2 datasets as QDataSets. See also TableDataSetAdapter,VectorDataSetAdapter
+
+# DataSetAdapter( )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.math.fft.WindowTableDataSet
-WindowTableDataSet( org.das2.dataset.VectorDataSet source, int windowSize )
+
+
+
+# WindowTableDataSet( org.das2.dataset.VectorDataSet source, int windowSize )
 Creates a new instance of WindowTableDataSet
 
 ***

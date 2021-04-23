@@ -1,7 +1,10 @@
-# org.autoplot.AddDataSourcePanelAdds a Data Source to the application.  Note this does not work with Webstart
+# org.autoplot.AddDataSourcePanel
+
+Adds a Data Source to the application.  Note this does not work with Webstart
  because of security limitations but does with the jumbojar version.
  TODO: This has not been used in a while and needs attention (PREF_RECENT).
-AddDataSourcePanel( )
+
+# AddDataSourcePanel( )
 Creates new form AddDataSourcePanel
 
 ***

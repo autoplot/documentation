@@ -1,5 +1,8 @@
 # org.das2.qds.filters.MedianFilterEditorPanel
-MedianFilterEditorPanel( )
+
+
+
+# MedianFilterEditorPanel( )
 Creates new form MedianFilterEditorPanel
 
 ***

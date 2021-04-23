@@ -1,5 +1,8 @@
-# org.autoplot.test.Test_060_HapiEditorPaneltests of the HapiEditorPanel, after discovering broken functionality.
-Test_060_HapiEditorPanel( )
+# org.autoplot.test.Test_060_HapiEditorPanel
+
+tests of the HapiEditorPanel, after discovering broken functionality.
+
+# Test_060_HapiEditorPanel( )
 
 
 ***

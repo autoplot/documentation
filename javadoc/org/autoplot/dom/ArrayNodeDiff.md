@@ -1,4 +1,7 @@
-# org.autoplot.dom.ArrayNodeDiffrepresent and implement array actions like insert, delete and move node.
+# org.autoplot.dom.ArrayNodeDiff
+
+represent and implement array actions like insert, delete and move node.
+
 ***
 <a name="doDiff"></a>
 # doDiff

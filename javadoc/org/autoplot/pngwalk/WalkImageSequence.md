@@ -1,11 +1,14 @@
-# org.autoplot.pngwalk.WalkImageSequence<p>This class maintains a list of <code>WalkImage</code>s and provides functionality
+# org.autoplot.pngwalk.WalkImageSequence
+
+<p>This class maintains a list of <code>WalkImage</code>s and provides functionality
  for navigating through it.  Whenever the current index is changed, whether explicitly
  set or via one of the navigation functions, a <code>PropertyChangeEvent</code> is fired.
  This allows UI code to control the index and view code to respond.</p>
 
  <p>Access is also provided to the {@link WalkImage} objects so that view
  code can retrieve images, thumbnails, etc.</p>
-WalkImageSequence( String template )
+
+# WalkImageSequence( String template )
 Create an image sequence based on a URI template.
 
 ***

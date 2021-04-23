@@ -1,10 +1,13 @@
-# org.autoplot.csv.TableOpsI'd still like to refactor all the table-type sources to get the common codes.
+# org.autoplot.csv.TableOps
+
+I'd still like to refactor all the table-type sources to get the common codes.
  These include:<ul>
    <li> html tables
    <li> xls, csv
    <li> dat
  </ul>
-TableOps( )
+
+# TableOps( )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.das2.util.filesystem.Globknown bug: *.java matches ".java". The unix glob behavior is to
+# org.das2.util.filesystem.Glob
+
+known bug: *.java matches ".java". The unix glob behavior is to
  require that a leading . must be explicitly matched.
-Glob( )
+
+# Glob( )
 
 
 ***

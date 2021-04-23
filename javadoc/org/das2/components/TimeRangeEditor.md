@@ -1,12 +1,15 @@
-# org.das2.components.TimeRangeEditorcode copied from DasTimeRangeSelector for use with Autoplot.  
+# org.das2.components.TimeRangeEditor
+
+code copied from DasTimeRangeSelector for use with Autoplot.  
  DasTimeRangeSelector wasn't very beany...
-TimeRangeEditor( )
+
+# TimeRangeEditor( )
 creates an instance of the editor, with an arbitrary range (today) loaded.
 
-TimeRangeEditor( Datum startTime, Datum endTime )
+# TimeRangeEditor( Datum startTime, Datum endTime )
 create an editor with the initial range.
 
-TimeRangeEditor( DatumRange range )
+# TimeRangeEditor( DatumRange range )
 create an editor with the initial range.
 
 ***

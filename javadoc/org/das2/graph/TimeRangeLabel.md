@@ -1,5 +1,8 @@
 # org.das2.graph.TimeRangeLabel
-TimeRangeLabel( org.das2.graph.DataRange dataRange )
+
+
+
+# TimeRangeLabel( org.das2.graph.DataRange dataRange )
 Creates a new instance of TimeRangeLabel
 
 ***

@@ -1,9 +1,12 @@
 # org.das2.dataset.DefaultTableDataSet
-DefaultTableDataSet( double[] xTags, Units xUnits, double[][] yTags, Units yUnits, double[][][] zValues, Units zUnits, java.util.Map zValuesMap, java.util.Map zUnitsMap, java.util.Map properties )
+
+
+
+# DefaultTableDataSet( double[] xTags, Units xUnits, double[][] yTags, Units yUnits, double[][][] zValues, Units zUnits, java.util.Map zValuesMap, java.util.Map zUnitsMap, java.util.Map properties )
 Creates a new instance of DefaultTableDataSet for tables where the
  table geometry changes, and the DataSet contains multiple planes.
 
-DefaultTableDataSet( double[] xTags, Units xUnits, double[] yTags, Units yUnits, double[][] zValues, Units zUnits, java.util.Map properties )
+# DefaultTableDataSet( double[] xTags, Units xUnits, double[] yTags, Units yUnits, double[][] zValues, Units zUnits, java.util.Map properties )
 Creates a DefaultTableDataSet when the table geometry changes.
 
 ***

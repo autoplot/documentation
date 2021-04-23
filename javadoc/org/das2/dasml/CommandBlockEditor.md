@@ -1,5 +1,8 @@
 # org.das2.dasml.CommandBlockEditor
-CommandBlockEditor( )
+
+
+
+# CommandBlockEditor( )
 Creates a new instance of CommandBlockEditor
 
 ***

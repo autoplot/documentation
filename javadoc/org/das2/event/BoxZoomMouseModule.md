@@ -1,6 +1,9 @@
-# org.das2.event.BoxZoomMouseModuleProvide a box zoom where drag to draw a box that will be the new range, and mouse wheel events
+# org.das2.event.BoxZoomMouseModule
+
+Provide a box zoom where drag to draw a box that will be the new range, and mouse wheel events
  are zoom in and zoom out.  This is typically attached to the left mouse button.
-BoxZoomMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.dataset.DataSetConsumer consumer, org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis )
+
+# BoxZoomMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.dataset.DataSetConsumer consumer, org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis )
 Creates a new instance of BoxZoomMouseModule
 
 ***

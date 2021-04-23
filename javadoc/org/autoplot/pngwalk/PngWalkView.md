@@ -1,6 +1,9 @@
-# org.autoplot.pngwalk.PngWalkViewThis is the abstract superclass for views in the PNGWalk tool.  Concrete
+# org.autoplot.pngwalk.PngWalkView
+
+This is the abstract superclass for views in the PNGWalk tool.  Concrete
  subclasses will do the work of actually laying out a particular view and
  handling events on it.
+
 ***
 <a name="PROP_THUMBNAILSIZE"></a>
 # PROP_THUMBNAILSIZE

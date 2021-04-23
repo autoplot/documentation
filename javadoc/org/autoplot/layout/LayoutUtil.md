@@ -1,5 +1,8 @@
-# org.autoplot.layout.LayoutUtilutility methods for adjusting canvas layout.
-LayoutUtil( )
+# org.autoplot.layout.LayoutUtil
+
+utility methods for adjusting canvas layout.
+
+# LayoutUtil( )
 
 
 ***

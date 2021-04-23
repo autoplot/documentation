@@ -1,5 +1,8 @@
-# org.autoplot.bookmarks.RemoteStatusholder for status of remote bookmarks
-RemoteStatus( )
+# org.autoplot.bookmarks.RemoteStatus
+
+holder for status of remote bookmarks
+
+# RemoteStatus( )
 
 
 ***

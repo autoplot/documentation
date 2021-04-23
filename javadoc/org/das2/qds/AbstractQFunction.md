@@ -1,6 +1,9 @@
-# org.das2.qds.AbstractQFunctionAbstract class implements values and exampleOutput based on
+# org.das2.qds.AbstractQFunction
+
+Abstract class implements values and exampleOutput based on
  value and exampleInput.
-AbstractQFunction( )
+
+# AbstractQFunction( )
 
 
 ***

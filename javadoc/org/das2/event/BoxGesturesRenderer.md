@@ -1,5 +1,8 @@
 # org.das2.event.BoxGesturesRenderer
-BoxGesturesRenderer( org.das2.graph.DasCanvasComponent parent )
+
+
+
+# BoxGesturesRenderer( org.das2.graph.DasCanvasComponent parent )
 
 
 ***

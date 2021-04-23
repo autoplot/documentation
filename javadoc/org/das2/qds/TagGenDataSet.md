@@ -1,13 +1,16 @@
-# org.das2.qds.TagGenDataSetreturn a value based on the scale and offset.  For example, this
+# org.das2.qds.TagGenDataSet
+
+return a value based on the scale and offset.  For example, this
  is used to create timetags:
  <blockquote><pre>
    TagGenDataSet( 1440, 60, 0, Units.t2000 )
  </pre></blockquote>
  These are the 1440 minutely timetags in the first day of 2000-01-01.
-TagGenDataSet( int length, double scale, double offset )
+
+# TagGenDataSet( int length, double scale, double offset )
 create new dimensionless TagGenDataSet
 
-TagGenDataSet( int length, double scale, double offset, Units units )
+# TagGenDataSet( int length, double scale, double offset, Units units )
 create new TagGenDataSet
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.util.DasProgressMonitorReadableByteChannel
-DasProgressMonitorReadableByteChannel( java.nio.channels.ReadableByteChannel in, ProgressMonitor monitor )
+
+
+
+# DasProgressMonitorReadableByteChannel( java.nio.channels.ReadableByteChannel in, ProgressMonitor monitor )
 Creates a new instance of DasProgressMonitorInputStream
 
 ***

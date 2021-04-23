@@ -1,9 +1,12 @@
-# org.das2.dataset.ConstantDataSetDescriptorThis class wraps a DataSet to use where DataSetDescriptors are required.  This 
+# org.das2.dataset.ConstantDataSetDescriptor
+
+This class wraps a DataSet to use where DataSetDescriptors are required.  This 
  trivially returns the wrapped DataSet regardless of the getDataSet parameters.
  Originally this class was used with Renderers, which needed a DataSetDescriptor 
  for their operation.  Now that they interact only with DataSets, and this
  class should not be used with them, use Renderer.setDataSet instead.
-ConstantDataSetDescriptor( org.das2.dataset.DataSet ds )
+
+# ConstantDataSetDescriptor( org.das2.dataset.DataSet ds )
 Creates a new instance of ConstantDataSetDescriptor
 
 ***

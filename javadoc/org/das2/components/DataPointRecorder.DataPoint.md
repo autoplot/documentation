@@ -1,8 +1,11 @@
-# org.das2.components.DataPointRecorder.DataPointNote this is all pre-QDataSet.  QDataSet would be a much better way of implementing this.
-DataPoint( Datum x1, Datum x2, java.util.Map planes )
+# org.das2.components.DataPointRecorder.DataPoint
+
+Note this is all pre-QDataSet.  QDataSet would be a much better way of implementing this.
+
+# DataPoint( Datum x1, Datum x2, java.util.Map planes )
 
 
-DataPoint( org.das2.datum.Datum[] data, java.util.Map planes )
+# DataPoint( org.das2.datum.Datum[] data, java.util.Map planes )
 
 
 ***

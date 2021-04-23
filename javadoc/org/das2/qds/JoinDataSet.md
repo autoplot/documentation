@@ -1,12 +1,15 @@
-# org.das2.qds.JoinDataSetCreate a higher rank dataset with dim 0 being a JOIN dimension.  Join implies
+# org.das2.qds.JoinDataSet
+
+Create a higher rank dataset with dim 0 being a JOIN dimension.  Join implies
  that the joined datasets occupy the same physical dimension, and this can
  be thought of as the "array of" index.  Note DEPEND_0 is treated as a
  special case of join.
  Note this dataset is mutable, and clients should not mutate it once the reference is made public.
-JoinDataSet( int rank )
+
+# JoinDataSet( int rank )
 Creates a new instance of JoinDataSet
 
-JoinDataSet( QDataSet ds1 )
+# JoinDataSet( QDataSet ds1 )
 create a new JoinDataSet, and join the first dataset.
 <blockquote><pre>
 ds1= Ops.rand(30);

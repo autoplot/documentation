@@ -1,8 +1,11 @@
 # org.autoplot.cefdatasource.ReformDataSet
-ReformDataSet( QDataSet ds, int[] sizes )
+
+
+
+# ReformDataSet( QDataSet ds, int[] sizes )
 change the dimensionality of the QUBE dataset, backed by the source dataset.
 
-ReformDataSet( QDataSet ds, int offset, int[] sizes )
+# ReformDataSet( QDataSet ds, int offset, int[] sizes )
 
 
 ***

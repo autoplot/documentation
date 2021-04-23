@@ -1,5 +1,8 @@
-# org.das2.components.DasProgressWheelSmall 16x16 pixel progress wheel, designed intentionally for loading TCAs with X axis.
-DasProgressWheel( )
+# org.das2.components.DasProgressWheel
+
+Small 16x16 pixel progress wheel, designed intentionally for loading TCAs with X axis.
+
+# DasProgressWheel( )
 
 
 ***

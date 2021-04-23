@@ -1,5 +1,8 @@
 # org.autoplot.renderer.SeriesStylePanel
-SeriesStylePanel( )
+
+
+
+# SeriesStylePanel( )
 Creates new form PlotStylePanel
 
 ***

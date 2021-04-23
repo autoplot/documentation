@@ -1,5 +1,8 @@
-# org.das2.graph.DefaultPlotSymbolDraw one of a set of commonly used plot symbols, such as box, diamond, circle or star.
-DefaultPlotSymbol( java.awt.Shape p, String label )
+# org.das2.graph.DefaultPlotSymbol
+
+Draw one of a set of commonly used plot symbols, such as box, diamond, circle or star.
+
+# DefaultPlotSymbol( java.awt.Shape p, String label )
 
 
 ***

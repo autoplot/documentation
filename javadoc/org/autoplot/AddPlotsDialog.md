@@ -1,5 +1,8 @@
 # org.autoplot.AddPlotsDialog
-AddPlotsDialog( )
+
+
+
+# AddPlotsDialog( )
 Creates new form AddPlotsDialog
 
 ***

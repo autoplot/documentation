@@ -1,4 +1,6 @@
-# org.das2.util.ExpectProvides similar functions as the Unix Expect tool.<br>
+# org.das2.util.Expect
+
+Provides similar functions as the Unix Expect tool.<br>
  There are two ways to create an Expect object: a constructor that takes an
  {@link InputStream} handle and {@link OutputStream} handle; or spawning a
  process by providing a command String. <br>
@@ -17,7 +19,8 @@
  A call to expect() will block for at most timeout seconds. Expect is not
  designed to be thread-safe, in other words, do not call methods of the same
  Expect object in different threads.
-Expect( java.io.InputStream input, java.io.OutputStream output )
+
+# Expect( java.io.InputStream input, java.io.OutputStream output )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.autoplot.state.DatumSerializeDelegate
-DatumSerializeDelegate( )
+
+
+
+# DatumSerializeDelegate( )
 
 
 ***

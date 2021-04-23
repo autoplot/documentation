@@ -1,8 +1,11 @@
 # org.das2.dataset.test.PolynomialDataSetDescriptor
-PolynomialDataSetDescriptor( double[] c, Units xUnits, Units yUnits, Datum resolution )
+
+
+
+# PolynomialDataSetDescriptor( double[] c, Units xUnits, Units yUnits, Datum resolution )
 Creates a new instance of PolynomialDataSetDescriptor
 
-PolynomialDataSetDescriptor( double[] c, Units xUnits, Units yUnits, Datum resolution, Datum xOffset )
+# PolynomialDataSetDescriptor( double[] c, Units xUnits, Units yUnits, Datum resolution, Datum xOffset )
 
 
 ***

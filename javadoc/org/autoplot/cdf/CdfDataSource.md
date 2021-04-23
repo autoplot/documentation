@@ -1,6 +1,9 @@
-# org.autoplot.cdf.CdfDataSourceCDF data source based on Nand Lal's pure-Java
+# org.autoplot.cdf.CdfDataSource
+
+CDF data source based on Nand Lal's pure-Java
  CDF reader.  CDF, or Common Data Format, is a NASA data format.
-CdfDataSource( java.net.URI uri )
+
+# CdfDataSource( java.net.URI uri )
 
 
 ***

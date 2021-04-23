@@ -1,5 +1,8 @@
 # org.autoplot.jythonsupport.ui.SquigglePainter
-SquigglePainter( java.awt.Color color )
+
+
+
+# SquigglePainter( java.awt.Color color )
 
 
 ***

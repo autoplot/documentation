@@ -1,9 +1,12 @@
-# org.autoplot.datasource.RecentComboBoxModelProvide a comboBoxModel so that the ComboBox remembers recent entries.  This listens for ActionEvents from a
+# org.autoplot.datasource.RecentComboBoxModel
+
+Provide a comboBoxModel so that the ComboBox remembers recent entries.  This listens for ActionEvents from a
  JComboBox and adds valid items to its droplist.  The recent entries are stored in the bookmarks folder in the
  file "recent.PREF.txt" where PREF is a string assigned to this object identifying the theme, such as
  "timerange".  Specifically, the event is validated and recorded into the file, then the file is loaded,
  sorted and saved again.
-RecentComboBoxModel( String pref )
+
+# RecentComboBoxModel( String pref )
 
 
 ***

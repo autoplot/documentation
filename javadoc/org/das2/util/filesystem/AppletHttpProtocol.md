@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.AppletHttpProtocoluses HTTP, and doesn't download resources to cache
-AppletHttpProtocol( )
+# org.das2.util.filesystem.AppletHttpProtocol
+
+uses HTTP, and doesn't download resources to cache
+
+# AppletHttpProtocol( )
 
 
 ***

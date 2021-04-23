@@ -1,5 +1,8 @@
-# org.das2.util.NumberFormatUtilprovide convenient and consistent access to DecimalFormat objects.
-NumberFormatUtil( )
+# org.das2.util.NumberFormatUtil
+
+provide convenient and consistent access to DecimalFormat objects.
+
+# NumberFormatUtil( )
 
 
 ***

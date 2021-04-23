@@ -1,5 +1,8 @@
-# org.das2.util.awt.PdfGraphicsOutputsupport writing to PDF.
-PdfGraphicsOutput( )
+# org.das2.util.awt.PdfGraphicsOutput
+
+support writing to PDF.
+
+# PdfGraphicsOutput( )
 Creates a new instance of PDFGraphicsOutput
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.qds.util.LSpecForm a rank 2 dataset with L and Time for tags by identifying monotonic sweeps
+# org.das2.qds.util.LSpec
+
+Form a rank 2 dataset with L and Time for tags by identifying monotonic sweeps
  in two rank 1 datasets, and interpolating along the sweep.
+
 ***
 <a name="USER_PROP_SWEEPS"></a>
 # USER_PROP_SWEEPS

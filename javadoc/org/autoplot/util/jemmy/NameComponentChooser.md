@@ -1,5 +1,8 @@
-# org.autoplot.util.jemmy.NameComponentChooserSearch for a component based on the name.
-NameComponentChooser( String regex )
+# org.autoplot.util.jemmy.NameComponentChooser
+
+Search for a component based on the name.
+
+# NameComponentChooser( String regex )
 
 
 ***

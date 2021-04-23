@@ -1,4 +1,6 @@
-# org.das2.util.monitor.SubTaskMonitorcreates a ProgressMonitor that maps its progress to a parent's progress.
+# org.das2.util.monitor.SubTaskMonitor
+
+creates a ProgressMonitor that maps its progress to a parent's progress.
  For example, if a process takes a progress monitor, but is implemented in
  two steps that each take a progress monitor, then two subtask monitors can
  be created to monitor each step, and the client who passed in the monitor 
@@ -10,6 +12,7 @@
  processes.  In this case, SubTaskMonitors should be used, and getSubtaskMonitor
  was added.  Note too that this class should not be called directly, because
  getSubtaskMonitor allows the source class to return a monitor of its own design.
+
 ***
 <a name="canBeCancelled"></a>
 # canBeCancelled

@@ -1,4 +1,7 @@
-# org.autoplot.scriptconsole.ScriptPanelSupportError annotations, saveAs, etc.
+# org.autoplot.scriptconsole.ScriptPanelSupport
+
+Error annotations, saveAs, etc.
+
 ***
 <a name="PROP_INTERRUPTABLE"></a>
 # PROP_INTERRUPTABLE

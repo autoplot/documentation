@@ -1,6 +1,9 @@
-# org.das2.dataset.NullDataSetCacheDataSetCache that does no caching at all.  This is useful for batch
+# org.das2.dataset.NullDataSetCache
+
+DataSetCache that does no caching at all.  This is useful for batch
  mode or when dataset caching is undesirable.
-NullDataSetCache( )
+
+# NullDataSetCache( )
 
 
 ***

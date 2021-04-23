@@ -1,5 +1,8 @@
-# org.autoplot.dom.CanvasControllerController for canvases.
-CanvasController( org.autoplot.dom.Application dom, org.autoplot.dom.Canvas canvas )
+# org.autoplot.dom.CanvasController
+
+Controller for canvases.
+
+# CanvasController( org.autoplot.dom.Application dom, org.autoplot.dom.Canvas canvas )
 
 
 ***

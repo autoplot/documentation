@@ -1,4 +1,7 @@
-# org.das2.graph.PsymConnectorEnumeration of symbol connecting lines, such as None, Solid, DotFine.
+# org.das2.graph.PsymConnector
+
+Enumeration of symbol connecting lines, such as None, Solid, DotFine.
+
 ***
 <a name="NONE"></a>
 # NONE

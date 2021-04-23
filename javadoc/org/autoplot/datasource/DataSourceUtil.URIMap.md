@@ -1,4 +1,7 @@
-# org.autoplot.datasource.DataSourceUtil.URIMapsomething which returns a new URI given an old one.
+# org.autoplot.datasource.DataSourceUtil.URIMap
+
+something which returns a new URI given an old one.
+
 ***
 <a name="map"></a>
 # map

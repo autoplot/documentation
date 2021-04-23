@@ -1,5 +1,8 @@
 # org.autoplot.dom.BindingModel
-BindingModel( String context, String src, String srcProp, String dst, String dstProp )
+
+
+
+# BindingModel( String context, String src, String srcProp, String dst, String dstProp )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.autoplot.OperationsPanelMake a special component for managing filters.  This extracts the functionality
+# org.autoplot.OperationsPanel
+
+Make a special component for managing filters.  This extracts the functionality
  from the DataPanel.
-OperationsPanel( )
+
+# OperationsPanel( )
 Creates new form OperationsPanel
 
 ***

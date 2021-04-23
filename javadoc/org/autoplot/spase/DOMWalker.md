@@ -1,12 +1,15 @@
 # org.autoplot.spase.DOMWalker
-DOMWalker( org.w3c.dom.traversal.TreeWalker walker )
+
+
+
+# DOMWalker( org.w3c.dom.traversal.TreeWalker walker )
 Create a TreeModel for the specified TreeWalker
 
-DOMWalker( org.w3c.dom.Document document )
+# DOMWalker( org.w3c.dom.Document document )
 Create a TreeModel for a TreeWalker that returns all nodes
  in the specified document
 
-DOMWalker( org.w3c.dom.Element element )
+# DOMWalker( org.w3c.dom.Element element )
 Create a TreeModel for a TreeWalker that returns the specified 
  element and all of its descendant nodes.
 

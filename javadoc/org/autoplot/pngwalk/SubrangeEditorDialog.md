@@ -1,5 +1,8 @@
 # org.autoplot.pngwalk.SubrangeEditorDialog
-SubrangeEditorDialog( java.awt.Frame parent, boolean modal )
+
+
+
+# SubrangeEditorDialog( java.awt.Frame parent, boolean modal )
 Creates new form SubrangeEditorDialog
 
 ***

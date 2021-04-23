@@ -1,4 +1,7 @@
 # org.autoplot.PlotStylePanel.StylePanel
+
+
+
 ***
 <a name="doElementBindings"></a>
 # doElementBindings

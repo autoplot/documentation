@@ -1,5 +1,8 @@
-# org.autoplot.datasource.SourceTypesBrowserDialog for explicitly selecting data source type.
-SourceTypesBrowser( )
+# org.autoplot.datasource.SourceTypesBrowser
+
+Dialog for explicitly selecting data source type.
+
+# SourceTypesBrowser( )
 Creates new form SourceTypesBrowser
 
 ***

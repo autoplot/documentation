@@ -1,5 +1,8 @@
 # org.das2.event.DisplayDataMouseModule
-DisplayDataMouseModule( org.das2.graph.DasPlot parent )
+
+
+
+# DisplayDataMouseModule( org.das2.graph.DasPlot parent )
 Creates a new instance of DisplayDataMouseModule
 
 ***

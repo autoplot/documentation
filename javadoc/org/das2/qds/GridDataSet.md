@@ -1,5 +1,8 @@
-# org.das2.qds.GridDataSetgrids a bundle of (X,Y,Z) data into a table Z(X,Y).
-GridDataSet( )
+# org.das2.qds.GridDataSet
+
+grids a bundle of (X,Y,Z) data into a table Z(X,Y).
+
+# GridDataSet( )
 creates the dataset, initially length is zero.
 
 ***

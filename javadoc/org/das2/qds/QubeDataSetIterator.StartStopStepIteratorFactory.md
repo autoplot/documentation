@@ -1,5 +1,8 @@
-# org.das2.qds.QubeDataSetIterator.StartStopStepIteratorFactorygenerates iterator for counting off indeces.  (3:15:2 in ds[3:15:2,:])
-StartStopStepIteratorFactory( Number start, Number stop, Number step )
+# org.das2.qds.QubeDataSetIterator.StartStopStepIteratorFactory
+
+generates iterator for counting off indeces.  (3:15:2 in ds[3:15:2,:])
+
+# StartStopStepIteratorFactory( Number start, Number stop, Number step )
 create the factory which will create iterators.
 
 ***

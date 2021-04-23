@@ -1,8 +1,11 @@
-# org.das2.jythoncompletion.support.CompletionTaskThe inteface of a task performing a code completion query.
+# org.das2.jythoncompletion.support.CompletionTask
+
+The inteface of a task performing a code completion query.
  <br>
  The support class
  {@link org.netbeans.spi.editor.completion.support.AsyncCompletionTask}
  can be used for convenience when the task requires an asynchronous evaluation.
+
 ***
 <a name="cancel"></a>
 # cancel

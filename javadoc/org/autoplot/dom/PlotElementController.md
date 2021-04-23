@@ -1,4 +1,6 @@
-# org.autoplot.dom.PlotElementControllerPlotElementController manages the PlotElement, for example resolving the datasource and loading the dataset.
+# org.autoplot.dom.PlotElementController
+
+PlotElementController manages the PlotElement, for example resolving the datasource and loading the dataset.
  Once the data is loaded, the listening PlotElementController receives the update and does the following:<ol>
   <li> resolve the plot type: spectrogram, lineplot, stack of lineplot, etc, using AutoplotUtil.guessRenderType(fillDs);
   <li> reset the plot element, setting the plot type and creating children if needed.  For example, a B-GSM (demo 5) is
@@ -6,7 +8,8 @@
   <li> if the component property is not empty, then we implement the component and display that.
   <li> adjusting the component slice index will not affect ranging when the index is changed.
  </ol>
-PlotElementController( org.autoplot.ApplicationModel model, org.autoplot.dom.Application dom, org.autoplot.dom.PlotElement plotElement )
+
+# PlotElementController( org.autoplot.ApplicationModel model, org.autoplot.dom.Application dom, org.autoplot.dom.PlotElement plotElement )
 
 
 ***

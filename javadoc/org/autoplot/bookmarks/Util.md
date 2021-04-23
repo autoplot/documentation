@@ -1,5 +1,8 @@
-# org.autoplot.bookmarks.UtilUtility functions for the DataSetSelector.
-Util( )
+# org.autoplot.bookmarks.Util
+
+Utility functions for the DataSetSelector.
+
+# Util( )
 
 
 ***

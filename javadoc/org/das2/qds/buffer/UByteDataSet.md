@@ -1,6 +1,9 @@
-# org.das2.qds.buffer.UByteDataSetUnsigned Byte.  This also contains a method
+# org.das2.qds.buffer.UByteDataSet
+
+Unsigned Byte.  This also contains a method
  for extracting the data at a location as a string.
-UByteDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
+
+# UByteDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
 
 
 ***

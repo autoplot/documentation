@@ -1,8 +1,11 @@
-# org.autoplot.cdaweb.CDAWebDataSourceSpecial data source for reading time series from NASA Goddard's CDAWeb
+# org.autoplot.cdaweb.CDAWebDataSource
+
+Special data source for reading time series from NASA Goddard's CDAWeb
  database.  This uses an XML file to locate data files (soon a web service), and
  delegates to the CDF file reader to read them.  This code handles the
  aggregation into a time series.
-CDAWebDataSource( java.net.URI uri )
+
+# CDAWebDataSource( java.net.URI uri )
 
 
 ***

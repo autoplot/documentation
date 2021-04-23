@@ -1,8 +1,11 @@
-# org.das2.event.AbstractDragRendererDo-nothing drag renderer and extension point for other DragRenderers.
-AbstractDragRenderer( )
+# org.das2.event.AbstractDragRenderer
+
+Do-nothing drag renderer and extension point for other DragRenderers.
+
+# AbstractDragRenderer( )
 
 
-AbstractDragRenderer( org.das2.graph.DasCanvasComponent parent )
+# AbstractDragRenderer( org.das2.graph.DasCanvasComponent parent )
 
 
 ***

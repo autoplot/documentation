@@ -1,7 +1,10 @@
-# org.das2.components.DasProgressLabelOne-line Label component prints the update progress to a
+# org.das2.components.DasProgressLabel
+
+One-line Label component prints the update progress to a
  JLabel component.  This is either created by the client and set with 
  setLabelComponent, or this class will also create one with getLabelComponent.
-DasProgressLabel( String taskLabel )
+
+# DasProgressLabel( String taskLabel )
 create the DasProgessLabel with the given label for the task.
 
 ***

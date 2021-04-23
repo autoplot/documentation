@@ -1,4 +1,6 @@
-# org.autoplot.datasource.DataSourceEditorPanelInterface for discovering a GUI editor for an URL.
+# org.autoplot.datasource.DataSourceEditorPanel
+
+Interface for discovering a GUI editor for an URL.
  Note the correct order to use a GUI is:
  <tt>
     reject( String uri ) is the URI close enough that we can create an editor for it?  Editors that never reject, "allow discovery"
@@ -10,6 +12,7 @@
  </tt>
  Data Sources that support discovery will create a DataSourceEditorPanel with
  no parameters, e.g. "vap+cdaweb:"
+
 ***
 <a name="getPanel"></a>
 # getPanel

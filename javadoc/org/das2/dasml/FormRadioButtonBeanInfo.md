@@ -1,4 +1,7 @@
-# org.das2.dasml.FormRadioButtonBeanInfoBean info class for the FormRadioButton class
-FormRadioButtonBeanInfo( )
+# org.das2.dasml.FormRadioButtonBeanInfo
+
+Bean info class for the FormRadioButton class
+
+# FormRadioButtonBeanInfo( )
 
 

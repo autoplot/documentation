@@ -1,7 +1,10 @@
-# org.das2.dataset.AverageNoInterpolateTableRebinnerThis rebinner will bin average elements that fall on the same bin, and will enlarge cells that
+# org.das2.dataset.AverageNoInterpolateTableRebinner
+
+This rebinner will bin average elements that fall on the same bin, and will enlarge cells that
  cover multiple bins.  This is done efficiently, and also does not introduce half-pixel aliasing because
  input cells covering multiple output cells are averaged weighting by overlap.
-AverageNoInterpolateTableRebinner( )
+
+# AverageNoInterpolateTableRebinner( )
 
 
 ***

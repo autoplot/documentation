@@ -1,8 +1,11 @@
 # org.das2.dataset.test.SineWaveDataSetDescriptor
-SineWaveDataSetDescriptor( Datum amplitude, Datum period )
+
+
+
+# SineWaveDataSetDescriptor( Datum amplitude, Datum period )
 Creates a new instance of SineWaveDataSetDescriptor with arbitrary phase.
 
-SineWaveDataSetDescriptor( Datum amplitude, Datum period, Datum phase )
+# SineWaveDataSetDescriptor( Datum amplitude, Datum period, Datum phase )
 Creates a new instance of SineWaveDataSetDescriptor
 
 ***

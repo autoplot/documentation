@@ -1,7 +1,10 @@
-# org.das2.math.ContourContouring based on code published in Javatech, Volume 13 Issue 9, "Contour Plotting In Java"
+# org.das2.math.Contour
+
+Contouring based on code published in Javatech, Volume 13 Issue 9, "Contour Plotting In Java"
  by David Rand.  This code is based on Fortran code implementing 1978 article by W. V. Snyder.
  W. V. Snyder, "Algorithm 531, Contour plotting [J6]," ACM Trans. Math. Softw. 4, 3 (Sept. 1978), 290-294.
-Contour( )
+
+# Contour( )
 
 
 ***

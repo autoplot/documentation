@@ -1,5 +1,8 @@
-# org.das2.qstream.IntegerTransferType"int4" is the canonical name, but "integer" is accepted as well.
-IntegerTransferType( )
+# org.das2.qstream.IntegerTransferType
+
+"int4" is the canonical name, but "integer" is accepted as well.
+
+# IntegerTransferType( )
 
 
 ***

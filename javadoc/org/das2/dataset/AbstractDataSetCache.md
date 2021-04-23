@@ -1,6 +1,9 @@
-# org.das2.dataset.AbstractDataSetCacheKeeps keep track of cache statistics and to give consistent
+# org.das2.dataset.AbstractDataSetCache
+
+Keeps keep track of cache statistics and to give consistent
  log messages, and provides the Entry class.
-AbstractDataSetCache( )
+
+# AbstractDataSetCache( )
 
 
 ***

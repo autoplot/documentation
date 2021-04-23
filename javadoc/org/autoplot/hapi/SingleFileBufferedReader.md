@@ -1,5 +1,8 @@
 # org.autoplot.hapi.SingleFileBufferedReader
-SingleFileBufferedReader( java.io.BufferedReader reader )
+
+
+
+# SingleFileBufferedReader( java.io.BufferedReader reader )
 
 
 ***

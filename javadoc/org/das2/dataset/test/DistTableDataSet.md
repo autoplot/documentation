@@ -1,5 +1,8 @@
 # org.das2.dataset.test.DistTableDataSet
-DistTableDataSet( int size )
+
+
+
+# DistTableDataSet( int size )
 Creates a new instance of DistTableDataSet
 
 ***

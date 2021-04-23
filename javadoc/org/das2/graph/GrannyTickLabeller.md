@@ -1,9 +1,12 @@
-# org.das2.graph.GrannyTickLabellerTickLabeller based on the formatting and bounding-box capabilities of the
+# org.das2.graph.GrannyTickLabeller
+
+TickLabeller based on the formatting and bounding-box capabilities of the
  GrannyTextRenderer.  This class by default creates a DatumFormatter for
  the tickDescriptor it receives, and then uses the grannyFormat method to
  get the label.  This object is useful as-is, but provides an easy way to
  get complex labels (e.g. TCAs) by overriding init and getLabel.
-GrannyTickLabeller( )
+
+# GrannyTickLabeller( )
 
 
 ***

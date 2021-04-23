@@ -1,6 +1,9 @@
-# org.autoplot.hapi.PasteBinaryRecordReaderpaste several BufferedReaders together to appear as 
+# org.autoplot.hapi.PasteBinaryRecordReader
+
+paste several BufferedReaders together to appear as 
  one BufferedReader.
-PasteBinaryRecordReader( )
+
+# PasteBinaryRecordReader( )
 
 
 ***

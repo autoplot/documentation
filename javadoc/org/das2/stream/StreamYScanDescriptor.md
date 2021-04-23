@@ -1,8 +1,11 @@
 # org.das2.stream.StreamYScanDescriptor
-StreamYScanDescriptor( org.w3c.dom.Element element )
 
 
-StreamYScanDescriptor( )
+
+# StreamYScanDescriptor( org.w3c.dom.Element element )
+
+
+# StreamYScanDescriptor( )
 
 
 ***

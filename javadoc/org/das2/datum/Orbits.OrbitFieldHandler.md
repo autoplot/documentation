@@ -1,5 +1,8 @@
-# org.das2.datum.Orbits.OrbitFieldHandlerallow orbits to be used in file names
-OrbitFieldHandler( )
+# org.das2.datum.Orbits.OrbitFieldHandler
+
+allow orbits to be used in file names
+
+# OrbitFieldHandler( )
 
 
 ***

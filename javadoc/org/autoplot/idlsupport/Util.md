@@ -1,5 +1,8 @@
 # org.autoplot.idlsupport.Util
-Util( )
+
+
+
+# Util( )
 normally a Util class is just a bunch of static methods, but its easier
  to get at the methods if we can create an instance.
 

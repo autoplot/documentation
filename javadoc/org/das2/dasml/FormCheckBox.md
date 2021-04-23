@@ -1,6 +1,9 @@
-# org.das2.dasml.FormCheckBoxThis class is provided to override the Java Beans properties of
+# org.das2.dasml.FormCheckBox
+
+This class is provided to override the Java Beans properties of
  the JCheckBox class.
-FormCheckBox( String name, String label )
+
+# FormCheckBox( String name, String label )
 
 
 ***

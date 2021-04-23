@@ -1,5 +1,8 @@
 # org.das2.event.DasSelectionEvent
-DasSelectionEvent( Object source, org.das2.event.DasSelectionEvent.Type selectionType, boolean isShiftDown, java.awt.Point dot, java.awt.Point mark )
+
+
+
+# DasSelectionEvent( Object source, org.das2.event.DasSelectionEvent.Type selectionType, boolean isShiftDown, java.awt.Point dot, java.awt.Point mark )
 Creates a new instance of DasSelectionEvent
 
 ***

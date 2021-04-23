@@ -1,5 +1,8 @@
 # org.das2.event.MouseRangeSelectionEvent
-MouseRangeSelectionEvent( Object source, int min, int max, boolean isModified )
+
+
+
+# MouseRangeSelectionEvent( Object source, int min, int max, boolean isModified )
 Creates a new instance of DasDevicePositionEvent
 
 ***

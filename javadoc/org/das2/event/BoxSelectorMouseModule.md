@@ -1,4 +1,6 @@
-# org.das2.event.BoxSelectorMouseModuleGeneral purpose mouse module for getting data point selections.  The client
+# org.das2.event.BoxSelectorMouseModule
+
+General purpose mouse module for getting data point selections.  The client
  provides the DragRenderer, generally a vertical line, horizontal line or a
  crosshair.
 
@@ -10,7 +12,8 @@
  </ul>
  This is intended to be used as a base class for other slicers which need a
  range to be selected in X, Y, or both.
-BoxSelectorMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis, org.das2.dataset.DataSetConsumer consumer, org.das2.event.DragRenderer dragRenderer, String label )
+
+# BoxSelectorMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis, org.das2.dataset.DataSetConsumer consumer, org.das2.event.DragRenderer dragRenderer, String label )
 create a new BoxSelectorMouseModule
 
 ***

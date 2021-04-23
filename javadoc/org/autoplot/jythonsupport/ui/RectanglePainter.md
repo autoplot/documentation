@@ -1,5 +1,8 @@
 # org.autoplot.jythonsupport.ui.RectanglePainter
-RectanglePainter( java.awt.Color color )
+
+
+
+# RectanglePainter( java.awt.Color color )
 
 
 ***

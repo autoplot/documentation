@@ -1,9 +1,12 @@
-# org.autoplot.ascii.MultiFieldTimeParserParse the record by recombining the separated fields, then parsing
+# org.autoplot.ascii.MultiFieldTimeParser
+
+Parse the record by recombining the separated fields, then parsing
  the combined string.
 
  2010/03/11: Indeterminate field length is used when one field is in a record.
  2010/03/11: The last field, if just one digit type (%S), can contain fractional part.
-MultiFieldTimeParser( int firstColumn, java.lang.String[] timeFormats, org.das2.datum.TimeParser parser, Units units )
+
+# MultiFieldTimeParser( int firstColumn, java.lang.String[] timeFormats, org.das2.datum.TimeParser parser, Units units )
 
 
 ***

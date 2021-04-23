@@ -1,5 +1,8 @@
-# org.autoplot.renderer.ImageStylePanelcontroller for the Image plot type.
-ImageStylePanel( )
+# org.autoplot.renderer.ImageStylePanel
+
+controller for the Image plot type.
+
+# ImageStylePanel( )
 Creates new form PlotStylePanel
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.dom.AnnotationAnnotations for annotating the canvas.
-Annotation( )
+# org.autoplot.dom.Annotation
+
+Annotations for annotating the canvas.
+
+# Annotation( )
 
 
 ***

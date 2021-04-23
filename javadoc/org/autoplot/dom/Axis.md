@@ -1,6 +1,9 @@
-# org.autoplot.dom.AxisThe state of an axis, X, Y, or a Z axis colorbar, such as range and the
+# org.autoplot.dom.Axis
+
+The state of an axis, X, Y, or a Z axis colorbar, such as range and the
  scale type.
-Axis( )
+
+# Axis( )
 
 
 ***

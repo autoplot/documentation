@@ -1,5 +1,8 @@
 # org.autoplot.renderer.EventsStylePanel
-EventsStylePanel( )
+
+
+
+# EventsStylePanel( )
 Creates new form EventsStylePanel
 
 ***

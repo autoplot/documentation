@@ -1,5 +1,8 @@
-# org.das2.qds.filters.SliceFilterEditorPanelEditor panel to replace the original GUI that was a part of the data panel.
-SliceFilterEditorPanel( )
+# org.das2.qds.filters.SliceFilterEditorPanel
+
+Editor panel to replace the original GUI that was a part of the data panel.
+
+# SliceFilterEditorPanel( )
 Creates new form SlicesFilterEditorPanel
 
 ***

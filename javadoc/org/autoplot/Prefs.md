@@ -1,5 +1,8 @@
-# org.autoplot.Prefsclass for containing preferences
-Prefs( )
+# org.autoplot.Prefs
+
+class for containing preferences
+
+# Prefs( )
 
 
 ***

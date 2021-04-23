@@ -1,5 +1,8 @@
-# org.autoplot.servlet.TimeRangeParserExtract a clean Java code for parsing ISO8601 strings.
-TimeRangeParser( )
+# org.autoplot.servlet.TimeRangeParser
+
+Extract a clean Java code for parsing ISO8601 strings.
+
+# TimeRangeParser( )
 
 
 ***

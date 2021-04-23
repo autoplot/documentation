@@ -1,7 +1,10 @@
-# org.autoplot.ExportDataFormatPanelExtract just the GUI that is used to specify how a dataset will be exported.
+# org.autoplot.ExportDataFormatPanel
+
+Extract just the GUI that is used to specify how a dataset will be exported.
  This will surely be confused with the ExportDataPanel, which also specifies
  which dataset should be used.
-ExportDataFormatPanel( )
+
+# ExportDataFormatPanel( )
 Creates new form ExportDataFormatPanel
 
 ***

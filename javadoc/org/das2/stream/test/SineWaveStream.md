@@ -1,5 +1,8 @@
 # org.das2.stream.test.SineWaveStream
-SineWaveStream( boolean compress )
+
+
+
+# SineWaveStream( boolean compress )
 
 
 ***

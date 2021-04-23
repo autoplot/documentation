@@ -1,4 +1,6 @@
-# org.autoplot.servlet.JnlpServletAlternative to the CGI/Perl based solutions for dynamically creating the JNLP to
+# org.autoplot.servlet.JnlpServlet
+
+Alternative to the CGI/Perl based solutions for dynamically creating the JNLP to
  launch into a specific Autoplot configuration.
  
  This uses the following rules:
@@ -19,7 +21,8 @@
   http://autoplot.org/autoplot.jnlp?version=hudson&vap+cdaweb:filter=polar
   http://autoplot.org/autoplot.jnlp?vap+bin:http://www-pw.physics.uiowa.edu/voyager/data/pra/v1790205?reportOffset=yes&open=rank2=6:262&recLength=528&type=ushort&byteOrder=big
   http://autoplot.org/autoplot.jnlp?max-heap-size=4G'
-JnlpServlet( )
+
+# JnlpServlet( )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.event.MoveComponentMouseModule
-MoveComponentMouseModule( org.das2.graph.DasCanvasComponent parent )
+
+
+
+# MoveComponentMouseModule( org.das2.graph.DasCanvasComponent parent )
 Creates a new instance of MoveComponentMouseModule
 
 ***

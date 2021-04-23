@@ -1,5 +1,8 @@
-# org.das2.qstream.filter.ToAsciiStreamHandlerConverts all the transfer types to Ascii TransferTypes.
-ToAsciiStreamHandler( java.io.OutputStream out )
+# org.das2.qstream.filter.ToAsciiStreamHandler
+
+Converts all the transfer types to Ascii TransferTypes.
+
+# ToAsciiStreamHandler( java.io.OutputStream out )
 
 
 ***

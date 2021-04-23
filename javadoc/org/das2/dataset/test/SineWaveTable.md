@@ -1,5 +1,8 @@
 # org.das2.dataset.test.SineWaveTable
-SineWaveTable( int size )
+
+
+
+# SineWaveTable( int size )
 Creates a new instance of SineWaveTable
 
 ***

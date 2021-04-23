@@ -1,6 +1,9 @@
-# org.autoplot.hapiserver.BinaryDataFormatterFormat to binary types.  Note that TransferTypes use doubles to communicate,
+# org.autoplot.hapiserver.BinaryDataFormatter
+
+Format to binary types.  Note that TransferTypes use doubles to communicate,
  so floating point numbers may not format precisely.
-BinaryDataFormatter( )
+
+# BinaryDataFormatter( )
 
 
 ***

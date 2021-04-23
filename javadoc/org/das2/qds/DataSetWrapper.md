@@ -1,5 +1,8 @@
-# org.das2.qds.DataSetWrapperWraps a dataset, making the properties mutable.  This is also intended to be base class for extension.
-DataSetWrapper( QDataSet ds )
+# org.das2.qds.DataSetWrapper
+
+Wraps a dataset, making the properties mutable.  This is also intended to be base class for extension.
+
+# DataSetWrapper( QDataSet ds )
 
 
 ***

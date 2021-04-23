@@ -1,4 +1,7 @@
 # org.autoplot.hapiserver.DataFormatter
+
+
+
 ***
 <a name="finalize"></a>
 # finalize

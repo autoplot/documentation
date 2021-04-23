@@ -1,7 +1,10 @@
-# org.das2.qds.RecordIteratorMake any QDataSet into a table, then iterate over the records.  This
+# org.das2.qds.RecordIterator
+
+Make any QDataSet into a table, then iterate over the records.  This
  was introduced to support the first Autoplot HAPI server, but will be
  useful elsewhere.
-RecordIterator( QDataSet src )
+
+# RecordIterator( QDataSet src )
 set up the iterator.  If the src is rank 1 with a DEPEND_0, then
  the two are bundled together.
 

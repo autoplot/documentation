@@ -1,4 +1,6 @@
-# org.autoplot.cdf.TrDDataSethacked DDataSet implementation does transpose for column major files.
+# org.autoplot.cdf.TrDDataSet
+
+hacked DDataSet implementation does transpose for column major files.
  rank 1,2,or 3 dataset backed by double array.  Note this is not
  simply a transpose of DDataSet, as the name implies.  The zeroth index is 
  the same, and the remaining index are reversed.
@@ -9,6 +11,7 @@
 
  TODO: This wasn't modified with the makeImmutable changes.  See ArrayDataSet.  Note this class may be deprecated after 
  the NIO-based reader is released.
+
 ***
 <a name="version"></a>
 # version

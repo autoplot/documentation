@@ -1,7 +1,10 @@
-# org.autoplot.datasource.jython.JythonDataSourceUse a jython script to read and process data from a number of sources.
+# org.autoplot.datasource.jython.JythonDataSource
+
+Use a jython script to read and process data from a number of sources.
  Special parameters:
  <li>  timerange  if used then TimeSeriesBrowse is added.
-JythonDataSource( java.net.URI uri, org.autoplot.datasource.jython.JythonDataSourceFactory factory )
+
+# JythonDataSource( java.net.URI uri, org.autoplot.datasource.jython.JythonDataSourceFactory factory )
 
 
 ***

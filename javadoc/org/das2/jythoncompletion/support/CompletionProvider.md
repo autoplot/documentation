@@ -1,5 +1,8 @@
-# org.das2.jythoncompletion.support.CompletionProviderThe basic interface of the code completion querying SPI. Various implementations can
+# org.das2.jythoncompletion.support.CompletionProvider
+
+The basic interface of the code completion querying SPI. Various implementations can
  be registered per a document mime-type.
+
 ***
 <a name="COMPLETION_QUERY_TYPE"></a>
 # COMPLETION_QUERY_TYPE

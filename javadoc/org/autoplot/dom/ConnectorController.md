@@ -1,5 +1,8 @@
-# org.autoplot.dom.ConnectorControllerController class for a connector
-ConnectorController( org.autoplot.dom.Application dom, org.autoplot.dom.Connector connector )
+# org.autoplot.dom.ConnectorController
+
+Controller class for a connector
+
+# ConnectorController( org.autoplot.dom.Application dom, org.autoplot.dom.Connector connector )
 
 
 ***

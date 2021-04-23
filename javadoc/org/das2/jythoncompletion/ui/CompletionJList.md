@@ -1,5 +1,8 @@
 # org.das2.jythoncompletion.ui.CompletionJList
-CompletionJList( int maxVisibleRowCount, java.awt.event.MouseListener mouseListener, java.awt.Font font )
+
+
+
+# CompletionJList( int maxVisibleRowCount, java.awt.event.MouseListener mouseListener, java.awt.Font font )
 
 
 ***

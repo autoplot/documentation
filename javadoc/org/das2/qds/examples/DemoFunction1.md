@@ -1,5 +1,8 @@
-# org.das2.qds.examples.DemoFunction1First example function just returns sine of the function.
-DemoFunction1( )
+# org.das2.qds.examples.DemoFunction1
+
+First example function just returns sine of the function.
+
+# DemoFunction1( )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.qds.filters.Histogram2dFilterEditorPanel
-Histogram2dFilterEditorPanel( )
+
+
+
+# Histogram2dFilterEditorPanel( )
 Creates new form Histogram2dFilterEditorPanel
 
 ***

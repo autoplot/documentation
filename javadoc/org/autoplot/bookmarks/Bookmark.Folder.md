@@ -1,8 +1,11 @@
 # org.autoplot.bookmarks.Bookmark.Folder
-Folder( String title )
 
 
-Folder( String title, String remoteUrl )
+
+# Folder( String title )
+
+
+# Folder( String title, String remoteUrl )
 
 
 ***

@@ -1,7 +1,10 @@
-# org.autoplot.ApplicationModelInternal model of the application to separate model from view.
+# org.autoplot.ApplicationModel
+
+Internal model of the application to separate model from view.
  Note this is the legacy model that still remains from the first implementation
  of Autoplot, and represents the most simple application.
-ApplicationModel( )
+
+# ApplicationModel( )
 
 
 ***

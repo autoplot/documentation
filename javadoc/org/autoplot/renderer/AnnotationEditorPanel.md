@@ -1,5 +1,8 @@
-# org.autoplot.renderer.AnnotationEditorPanelFriendly editor for Annotation objects.
-AnnotationEditorPanel( )
+# org.autoplot.renderer.AnnotationEditorPanel
+
+Friendly editor for Annotation objects.
+
+# AnnotationEditorPanel( )
 Creates new form AnnotationEditorPanel
 
 ***

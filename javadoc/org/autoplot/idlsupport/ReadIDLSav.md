@@ -1,11 +1,14 @@
-# org.autoplot.idlsupport.ReadIDLSavRead data from IDL Save Files.  This was written using
+# org.autoplot.idlsupport.ReadIDLSav
+
+Read data from IDL Save Files.  This was written using
  http://www.physics.wisc.edu/~craigm/idl/savefmt/node20.html
  https://cow.physics.wisc.edu/~craigm/idl/savefmt.pdf
  and https://github.com/scipy/scipy/blob/master/scipy/io/idl.py
  for reference, and with no involvement from individuals at
  Harris Geospacial.  No warrenties are implied and this must
  be used at your own risk.
-ReadIDLSav( )
+
+# ReadIDLSav( )
 
 
 ***

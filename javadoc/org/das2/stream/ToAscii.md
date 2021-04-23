@@ -1,5 +1,8 @@
 # org.das2.stream.ToAscii
-ToAscii( org.das2.stream.StreamHandler handler )
+
+
+
+# ToAscii( org.das2.stream.StreamHandler handler )
 Creates a new instance of ToAscii
 
 ***

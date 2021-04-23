@@ -1,5 +1,8 @@
 # org.autoplot.metatree.SpaseMetadataModel
-SpaseMetadataModel( )
+
+
+
+# SpaseMetadataModel( )
 Creates a new instance of SpaseMetadataModel
 
 ***

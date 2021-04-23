@@ -1,5 +1,8 @@
 # org.das2.stream.test.LocalFileStandardDataStreamSource
-LocalFileStandardDataStreamSource( java.io.File file )
+
+
+
+# LocalFileStandardDataStreamSource( java.io.File file )
 Creates a new instance of LocalFileStandardDataStreamSource
 
 ***

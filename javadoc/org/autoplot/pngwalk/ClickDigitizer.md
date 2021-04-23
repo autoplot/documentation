@@ -1,7 +1,10 @@
-# org.autoplot.pngwalk.ClickDigitizerQuick-n-dirty class for picking off points from images.  The ClickDigitizer knows how to 
+# org.autoplot.pngwalk.ClickDigitizer
+
+Quick-n-dirty class for picking off points from images.  The ClickDigitizer knows how to 
  grab JSON metadata from the image (http://autoplot.org/richPng) and invTransform the pixel
  location to a dataset.
-ClickDigitizer( org.autoplot.pngwalk.PngWalkView view )
+
+# ClickDigitizer( org.autoplot.pngwalk.PngWalkView view )
 
 
 ***

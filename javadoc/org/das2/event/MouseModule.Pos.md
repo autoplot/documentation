@@ -1,4 +1,7 @@
-# org.das2.event.MouseModule.Posused by subclasses to describe positions.
+# org.das2.event.MouseModule.Pos
+
+used by subclasses to describe positions.
+
 ***
 <a name="_null"></a>
 # _null

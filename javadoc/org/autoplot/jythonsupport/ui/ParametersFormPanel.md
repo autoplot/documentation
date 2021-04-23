@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.ui.ParametersFormPanelGUI component for controlling script parameters.
-ParametersFormPanel( )
+# org.autoplot.jythonsupport.ui.ParametersFormPanel
+
+GUI component for controlling script parameters.
+
+# ParametersFormPanel( )
 
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.dataset.DataSetGeneral interface for objects encapsulating a data set
+# org.das2.dataset.DataSet
+
+General interface for objects encapsulating a data set
+
 ***
 <a name="PROPERTY_CACHE_TAG"></a>
 # PROPERTY_CACHE_TAG

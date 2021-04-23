@@ -1,5 +1,8 @@
 # org.autoplot.renderer.SpectrogramStylePanel
-SpectrogramStylePanel( )
+
+
+
+# SpectrogramStylePanel( )
 Creates new form PlotStylePanel
 
 ***

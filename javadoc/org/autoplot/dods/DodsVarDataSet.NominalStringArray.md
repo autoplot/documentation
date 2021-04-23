@@ -1,5 +1,8 @@
 # org.autoplot.dods.DodsVarDataSet.NominalStringArray
-NominalStringArray( DArray array, java.util.Map properties )
+
+
+
+# NominalStringArray( DArray array, java.util.Map properties )
 
 
 ***

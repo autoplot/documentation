@@ -1,5 +1,8 @@
 # org.autoplot.bookmarks.BookmarksManagerTransferrable.BookmarkTransferable
-BookmarkTransferable( org.autoplot.bookmarks.Bookmark bookmark, boolean readOnly )
+
+
+
+# BookmarkTransferable( org.autoplot.bookmarks.Bookmark bookmark, boolean readOnly )
 
 
 ***

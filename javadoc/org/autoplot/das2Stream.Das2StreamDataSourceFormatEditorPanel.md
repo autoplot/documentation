@@ -1,5 +1,8 @@
-# org.autoplot.das2Stream.Das2StreamDataSourceFormatEditorPanelToggle options for das2 stream export.
-Das2StreamDataSourceFormatEditorPanel( )
+# org.autoplot.das2Stream.Das2StreamDataSourceFormatEditorPanel
+
+Toggle options for das2 stream export.
+
+# Das2StreamDataSourceFormatEditorPanel( )
 
 
 ***

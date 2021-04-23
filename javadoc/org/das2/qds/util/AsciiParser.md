@@ -1,4 +1,6 @@
-# org.das2.qds.util.AsciiParserClass for reading ASCII tables into a QDataSet.  This parses a file by breaking
+# org.das2.qds.util.AsciiParser
+
+Class for reading ASCII tables into a QDataSet.  This parses a file by breaking
  it up into records, and passing the record off to a delegate record parser.
  The record parser then breaks up the record into fields, and each field is 
  parsed by a delegate field parser.  Each column of the table has a Unit, field name,
@@ -23,7 +25,8 @@
  NAME_EQUAL_VALUE_PATTERN for convenience.   
 
  Adapted to QDataSet model, Jeremy, May 2007.
-AsciiParser( )
+
+# AsciiParser( )
 Creates a new instance.  This is created and then 
  configured before any files can be parsed.
 

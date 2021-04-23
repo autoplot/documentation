@@ -1,10 +1,13 @@
-# org.das2.datum.TimeTemplatorExperiment with a tool for quickly creating time templates.  This has 
+# org.das2.datum.TimeTemplator
+
+Experiment with a tool for quickly creating time templates.  This has 
  a fair amount of work to be done, but I think it would be useful:
  1. variable length fields need to be supported.
  2. there's a bug where the indeces sent to the field picker are not adjusted for template lengths.
  3. support for recognizing enums.
  4. controls/columns added for enums in table.
-TimeTemplator( )
+
+# TimeTemplator( )
 Creates new form TimeTemplator
 
 ***

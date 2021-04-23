@@ -1,5 +1,8 @@
-# org.autoplot.renderer.BoundsStylePanelStyle panel for orbit renderer
-BoundsStylePanel( )
+# org.autoplot.renderer.BoundsStylePanel
+
+Style panel for orbit renderer
+
+# BoundsStylePanel( )
 Creates new form DigitalStylePanel
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.qstream.DatumSerializeDelegateThis serialize delegate handles Datums.
-DatumSerializeDelegate( )
+# org.das2.qstream.DatumSerializeDelegate
+
+This serialize delegate handles Datums.
+
+# DatumSerializeDelegate( )
 
 
 ***

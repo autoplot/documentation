@@ -1,6 +1,9 @@
-# org.das2.qstream.StreamHandlerThis describes an object that is able to receive a stream from StreamTool.readStream, which breaks the stream up
+# org.das2.qstream.StreamHandler
+
+This describes an object that is able to receive a stream from StreamTool.readStream, which breaks the stream up
  into descriptors and packets.  This was copied from das2's das2stream library to create QStream, which is to replace it.
  See http://das2.org/wiki/index.php/Das2/QStreams
+
 ***
 <a name="packet"></a>
 # packet

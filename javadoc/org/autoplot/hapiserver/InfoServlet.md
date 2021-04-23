@@ -1,5 +1,8 @@
-# org.autoplot.hapiserver.InfoServletInfo servlet returns information about parameters.
-InfoServlet( )
+# org.autoplot.hapiserver.InfoServlet
+
+Info servlet returns information about parameters.
+
+# InfoServlet( )
 
 
 ***

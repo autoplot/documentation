@@ -1,5 +1,8 @@
 # org.das2.util.DeflaterChannel
-DeflaterChannel( java.nio.channels.WritableByteChannel out )
+
+
+
+# DeflaterChannel( java.nio.channels.WritableByteChannel out )
 
 
 ***

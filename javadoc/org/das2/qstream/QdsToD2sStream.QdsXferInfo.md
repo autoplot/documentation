@@ -1,6 +1,9 @@
-# org.das2.qstream.QdsToD2sStream.QdsXferInfoDetermine and hold the information needed to transfer values out of a
+# org.das2.qstream.QdsToD2sStream.QdsXferInfo
+
+Determine and hold the information needed to transfer values out of a
  given QDataSet into a byte buffer.  The byte order is always native 
  endian
+
 ***
 <a name="name"></a>
 # name

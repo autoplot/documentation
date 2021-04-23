@@ -1,5 +1,8 @@
-# org.autoplot.aggregator.AggregationPollUpdatingAggregation polling checks for updates of the set, for a given timerange.
-AggregationPollUpdating( org.das2.fsm.FileStorageModel fsm, DatumRange dr, long pollCyclePeriodSeconds )
+# org.autoplot.aggregator.AggregationPollUpdating
+
+Aggregation polling checks for updates of the set, for a given timerange.
+
+# AggregationPollUpdating( org.das2.fsm.FileStorageModel fsm, DatumRange dr, long pollCyclePeriodSeconds )
 
 
 ***

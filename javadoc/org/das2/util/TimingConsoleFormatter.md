@@ -1,5 +1,8 @@
-# org.das2.util.TimingConsoleFormatterPrint the elapsed time and logger name with each message.
-TimingConsoleFormatter( )
+# org.das2.util.TimingConsoleFormatter
+
+Print the elapsed time and logger name with each message.
+
+# TimingConsoleFormatter( )
 
 
 ***

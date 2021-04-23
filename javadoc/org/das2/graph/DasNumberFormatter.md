@@ -1,5 +1,8 @@
 # org.das2.graph.DasNumberFormatter
-DasNumberFormatter( )
+
+
+
+# DasNumberFormatter( )
 Creates a new instance of DecFormat
 
 ***

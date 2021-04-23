@@ -1,5 +1,8 @@
-# org.das2.client.QDataSetStreamHandlerRead the Das2Stream into a QDataSet.
-QDataSetStreamHandler( )
+# org.das2.client.QDataSetStreamHandler
+
+Read the Das2Stream into a QDataSet.
+
+# QDataSetStreamHandler( )
 
 
 ***

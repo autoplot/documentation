@@ -1,5 +1,8 @@
 # org.das2.client.InputStreamMeter
-InputStreamMeter( )
+
+
+
+# InputStreamMeter( )
 Creates a new instance of InputStreamMeter
 
 ***

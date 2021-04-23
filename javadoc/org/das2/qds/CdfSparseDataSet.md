@@ -1,4 +1,6 @@
-# org.das2.qds.CdfSparseDataSetdataset for modeling when data values repeat.  Instead of storing 
+# org.das2.qds.CdfSparseDataSet
+
+dataset for modeling when data values repeat.  Instead of storing 
  copies of the data, the get method looks up the index.  For example:
  <pre>
  ds= CdfSparseDataSet(1,200)
@@ -7,7 +9,8 @@
  ds.putValues( 110, dataset(3) )
  plot( ds )
  </pre>
-CdfSparseDataSet( int rank, int length )
+
+# CdfSparseDataSet( int rank, int length )
 create the DataSet with the given length.
 
 ***

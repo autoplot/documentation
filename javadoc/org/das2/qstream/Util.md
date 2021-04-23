@@ -1,5 +1,8 @@
-# org.das2.qstream.UtilUtility classes for formatting and parsing streams.
-Util( )
+# org.das2.qstream.Util
+
+Utility classes for formatting and parsing streams.
+
+# Util( )
 
 
 ***

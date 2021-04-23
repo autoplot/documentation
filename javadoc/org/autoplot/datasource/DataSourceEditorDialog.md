@@ -1,9 +1,12 @@
-# org.autoplot.datasource.DataSourceEditorDialogDialog that contains DataSourceEditorPanels, and actions like:
+# org.autoplot.datasource.DataSourceEditorDialog
+
+Dialog that contains DataSourceEditorPanels, and actions like:
  Cancel, Overplot, Plot Below, and Plot.
-DataSourceEditorDialog( java.awt.Frame parent, java.awt.Component message, boolean modal )
+
+# DataSourceEditorDialog( java.awt.Frame parent, java.awt.Component message, boolean modal )
 Creates new form DataSourceEditorDialog
 
-DataSourceEditorDialog( java.awt.Dialog parent, java.awt.Component message, boolean modal )
+# DataSourceEditorDialog( java.awt.Dialog parent, java.awt.Component message, boolean modal )
 
 
 ***

@@ -1,4 +1,6 @@
-# org.das2.util.monitor.ProgressMonitor<code>ProgressMonitor</code> defines a set of methods that are useful for
+# org.das2.util.monitor.ProgressMonitor
+
+<code>ProgressMonitor</code> defines a set of methods that are useful for
  keeping track of the progress of an operation.  This interface also allows
  the operation being tracked to be notified if the user wishes to cancel the
  operation.  Code using this interface to track progress should call
@@ -31,6 +33,7 @@
  finished(); or it should do nothing with the monitor, possibly passing the
  monitor to a subprocess.  This is to ensure that it's easy to see that
  the monitor lifecycle is properly performed. </p>
+
 ***
 <a name="SIZE_INDETERMINATE"></a>
 # SIZE_INDETERMINATE

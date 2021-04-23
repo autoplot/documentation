@@ -1,5 +1,8 @@
-# org.das2.util.ConsoleExceptionHandlerExceptionHandler that prints stack traces out to the stderr.
-ConsoleExceptionHandler( )
+# org.das2.util.ConsoleExceptionHandler
+
+ExceptionHandler that prints stack traces out to the stderr.
+
+# ConsoleExceptionHandler( )
 Creates a new instance of ConsoleExceptionHandler
 
 ***

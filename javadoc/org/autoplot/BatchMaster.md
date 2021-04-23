@@ -1,5 +1,8 @@
-# org.autoplot.BatchMasterTool for running batches, generating inputs for jython scripts.
-BatchMaster( org.autoplot.dom.Application dom )
+# org.autoplot.BatchMaster
+
+Tool for running batches, generating inputs for jython scripts.
+
+# BatchMaster( org.autoplot.dom.Application dom )
 Creates new form BatchMaster
 
 ***

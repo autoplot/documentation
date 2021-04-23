@@ -1,10 +1,13 @@
-# org.autoplot.EventThreadResponseMonitorThis utility regularly posts events on the event thread, and measures processing time.
+# org.autoplot.EventThreadResponseMonitor
+
+This utility regularly posts events on the event thread, and measures processing time.
  This should never be more than 500ms (warnLevel below).
  See org.das2.util.awt.LoggingEventQueue, which was a similar experiment from 2005.
  This now monitors the event thread for hung events.
 
  Bugs found: https://sourceforge.net/p/autoplot/bugs/863/
-EventThreadResponseMonitor( )
+
+# EventThreadResponseMonitor( )
 
 
 ***

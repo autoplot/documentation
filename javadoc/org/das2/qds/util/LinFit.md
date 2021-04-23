@@ -1,11 +1,14 @@
-# org.das2.qds.util.LinFitLinear Fit routine. This will allow errors on the Y values, and will report
+# org.das2.qds.util.LinFit
+
+Linear Fit routine. This will allow errors on the Y values, and will report
  chi squared.
 
  Borrowed from pamguard, https://sourceforge.net/projects/pamguard/.
-LinFit( QDataSet x, QDataSet y )
+
+# LinFit( QDataSet x, QDataSet y )
 do fit with uniform weights or weight=0 where fill is found.
 
-LinFit( QDataSet x, QDataSet y, QDataSet sig )
+# LinFit( QDataSet x, QDataSet y, QDataSet sig )
 do fit with weights. X and Y must not contain fill where sig&gt;0.
 
 ***

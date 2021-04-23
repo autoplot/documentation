@@ -1,5 +1,8 @@
-# org.das2.datum.format.LatinPrefixDatumFormatterFormats Datums using K and M, etc labels and a specified precision.
-LatinPrefixDatumFormatter( int digits )
+# org.das2.datum.format.LatinPrefixDatumFormatter
+
+Formats Datums using K and M, etc labels and a specified precision.
+
+# LatinPrefixDatumFormatter( int digits )
 
 
 ***

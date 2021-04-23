@@ -1,5 +1,8 @@
-# org.das2.graph.DasAxis.Lockuntil we switch to java 1.5, use this lock object instead of
+# org.das2.graph.DasAxis.Lock
+
+until we switch to java 1.5, use this lock object instead of
  java.util.concurrent.lock
+
 ***
 <a name="lock"></a>
 # lock

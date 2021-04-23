@@ -1,5 +1,8 @@
-# org.autoplot.excel.ExcelSpreadsheetDataSourceEditorPanelRead data from Excel spreadsheets.  This supports .xls, but not .xlsx.
-ExcelSpreadsheetDataSourceEditorPanel( )
+# org.autoplot.excel.ExcelSpreadsheetDataSourceEditorPanel
+
+Read data from Excel spreadsheets.  This supports .xls, but not .xlsx.
+
+# ExcelSpreadsheetDataSourceEditorPanel( )
 
 
 ***

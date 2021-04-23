@@ -1,5 +1,8 @@
-# org.autoplot.state.EnumPersistenceDelegatePersistenceDelegate for nominal data (e.g. upper, lower)
-EnumPersistenceDelegate( )
+# org.autoplot.state.EnumPersistenceDelegate
+
+PersistenceDelegate for nominal data (e.g. upper, lower)
+
+# EnumPersistenceDelegate( )
 
 
 ***

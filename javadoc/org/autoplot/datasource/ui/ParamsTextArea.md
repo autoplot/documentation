@@ -1,7 +1,10 @@
-# org.autoplot.datasource.ui.ParamsTextAreaAttempt to make a general-purpose way to make a GUI for a data
+# org.autoplot.datasource.ui.ParamsTextArea
+
+Attempt to make a general-purpose way to make a GUI for a data
  source.  This should probably be evaluated, because there's another
  automatic gui-creator that is more effective.
-ParamsTextArea( )
+
+# ParamsTextArea( )
 
 
 ***

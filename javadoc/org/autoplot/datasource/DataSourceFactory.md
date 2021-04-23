@@ -1,6 +1,9 @@
-# org.autoplot.datasource.DataSourceFactoryDataSourceFactories create data sources which resolve a URI into a QDataSet.
+# org.autoplot.datasource.DataSourceFactory
+
+DataSourceFactories create data sources which resolve a URI into a QDataSet.
  Some DataSourceFactories support discovery, meaning they will provide
  a GUI to create URIs with no other information.
+
 ***
 <a name="getCapability"></a>
 # getCapability

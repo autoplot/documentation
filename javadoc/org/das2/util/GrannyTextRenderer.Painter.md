@@ -1,4 +1,7 @@
 # org.das2.util.GrannyTextRenderer.Painter
+
+
+
 ***
 <a name="paint"></a>
 # paint

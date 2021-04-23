@@ -1,4 +1,6 @@
-# org.autoplot.SandboxSecurity Manager which allows Autoplot access to:<ul>
+# org.autoplot.Sandbox
+
+Security Manager which allows Autoplot access to:<ul>
  <li>read and write files under HOME/autoplot_data
  <li>read and write files under HOME/.java/.userprefs
  </ul>
@@ -11,7 +13,8 @@
  
  Presently this just logs access.  Level FINER implies that the property 
  access would be okay, and FINE implied this needs to be studied more.
-Sandbox( )
+
+# Sandbox( )
 
 
 ***

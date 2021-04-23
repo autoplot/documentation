@@ -1,8 +1,11 @@
-# org.das2.graph.AuralizorStream QDataSet to the sound system, using DEPEND_0 to control
+# org.das2.graph.Auralizor
+
+Stream QDataSet to the sound system, using DEPEND_0 to control
  sampling rate.  Note this does not support the new waveform packet 
  scheme introduced a few years ago, and can easily be made to support 
  it.
-Auralizor( QDataSet ds )
+
+# Auralizor( QDataSet ds )
 create an Auralizor for rendering the dataset to the sound system.
 
 ***

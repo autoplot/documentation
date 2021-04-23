@@ -1,6 +1,9 @@
-# org.autoplot.idlsupport.WriteIDLSavwrite data to IDL Save File
+# org.autoplot.idlsupport.WriteIDLSav
+
+write data to IDL Save File
  http://www.physics.wisc.edu/~craigm/idl/savefmt/node20.html
-WriteIDLSav( )
+
+# WriteIDLSav( )
 
 
 ***

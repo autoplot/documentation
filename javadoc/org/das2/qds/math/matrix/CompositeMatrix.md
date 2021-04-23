@@ -1,8 +1,11 @@
-# org.das2.qds.math.matrix.CompositeMatrixAll of the elementary row and column operations are applied to both
+# org.das2.qds.math.matrix.CompositeMatrix
+
+All of the elementary row and column operations are applied to both
  underlying matrices.  Reads are done from the first matrix.  Writes
  are not allowed (except those that are side effects of elementary
  matrix operations).
-CompositeMatrix( org.das2.qds.math.matrix.Matrix m1, org.das2.qds.math.matrix.Matrix m2 )
+
+# CompositeMatrix( org.das2.qds.math.matrix.Matrix m1, org.das2.qds.math.matrix.Matrix m2 )
 
 
 ***

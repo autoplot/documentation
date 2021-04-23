@@ -1,5 +1,8 @@
 # org.das2.event.MouseRangeGestureSelectionEvent
-MouseRangeGestureSelectionEvent( Object source, int min, int max, org.das2.event.Gesture g )
+
+
+
+# MouseRangeGestureSelectionEvent( Object source, int min, int max, org.das2.event.Gesture g )
 Creates a new instance of MouseRangeGestureSelectionEvent
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.UriTimeRangeToggleButtonComponent for showing the status of the data set selector / time range selector GUI.
-UriTimeRangeToggleButton( )
+# org.autoplot.UriTimeRangeToggleButton
+
+Component for showing the status of the data set selector / time range selector GUI.
+
+# UriTimeRangeToggleButton( )
 
 
 ***

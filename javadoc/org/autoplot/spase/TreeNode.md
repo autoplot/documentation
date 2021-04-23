@@ -1,4 +1,7 @@
-# org.autoplot.spase.TreeNodeprovide separation from DOM objects by decorating them.
+# org.autoplot.spase.TreeNode
+
+provide separation from DOM objects by decorating them.
+
 ***
 <a name="getDomNode"></a>
 # getDomNode

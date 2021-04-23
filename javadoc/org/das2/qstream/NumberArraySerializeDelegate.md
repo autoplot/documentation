@@ -1,5 +1,8 @@
 # org.das2.qstream.NumberArraySerializeDelegate
-NumberArraySerializeDelegate( )
+
+
+
+# NumberArraySerializeDelegate( )
 
 
 ***

@@ -1,14 +1,17 @@
-# org.das2.dataset.TableDataSetBuilderHandles 1-N planes of table data.
+# org.das2.dataset.TableDataSetBuilder
+
+Handles 1-N planes of table data.
 
  Update Note:  Historically by default there was an un-named plane, that was always
                present in the builder.  I removed that so that all planes could have a
                name, it probably breaks lots of stuff so extensive tests are needed
                before this change is committed. -cwp 2014-09-22
-TableDataSetBuilder( Units xUnits, Units yUnits, Units zUnits )
+
+# TableDataSetBuilder( Units xUnits, Units yUnits, Units zUnits )
 Creates a new instance of TableDataSetBuilder with a default plane
  A single plane with the empty string as it's name is defined.
 
-TableDataSetBuilder( Units xUnits, Units yUnits, Units zUnits, String name )
+# TableDataSetBuilder( Units xUnits, Units yUnits, Units zUnits, String name )
 Creates a new instance of TableDataSetBuilder with a named default plane
 
 ***

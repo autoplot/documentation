@@ -1,7 +1,10 @@
-# org.autoplot.util.CanvasLayoutPanelThis is the small GUI in the upper left corner of the layout tab, which
+# org.autoplot.util.CanvasLayoutPanel
+
+This is the small GUI in the upper left corner of the layout tab, which
  shows abstractly where plots sit in relation to one another, for
  reference.
-CanvasLayoutPanel( )
+
+# CanvasLayoutPanel( )
 
 
 ***

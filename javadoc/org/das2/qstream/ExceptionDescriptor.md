@@ -1,5 +1,8 @@
 # org.das2.qstream.ExceptionDescriptor
-ExceptionDescriptor( )
+
+
+
+# ExceptionDescriptor( )
 will be called when writing streams.
 
 ***

@@ -1,4 +1,7 @@
-# org.autoplot.MouseModuleTypeEnumeration to store the current mouse module preference.
+# org.autoplot.MouseModuleType
+
+Enumeration to store the current mouse module preference.
+
 ***
 <a name="crosshairDigitizer"></a>
 # crosshairDigitizer

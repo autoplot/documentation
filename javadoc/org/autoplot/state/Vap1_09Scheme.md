@@ -1,7 +1,10 @@
-# org.autoplot.state.Vap1_09Schemein vap 1.09, we add the properties:<ul>
+# org.autoplot.state.Vap1_09Scheme
+
+in vap 1.09, we add the properties:<ul>
  <li>scale property which can be bound.  Adding it breaks old Autoplots.
  </ul>
-Vap1_09Scheme( )
+
+# Vap1_09Scheme( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.datum.LogDomainDividerA <code>DomainDivider</code> to divide a range into (base 10) logarithmically equal
+# org.das2.datum.LogDomainDivider
+
+A <code>DomainDivider</code> to divide a range into (base 10) logarithmically equal
  segments.
+
 ***
 <a name="boundaries"></a>
 # boundaries

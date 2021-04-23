@@ -1,10 +1,13 @@
-# org.das2.event.LabelDragRendererLabelDragRenderer draws a label at the current mouse location.  Typically
+# org.das2.event.LabelDragRenderer
+
+LabelDragRenderer draws a label at the current mouse location.  Typically
  this one overrides this class and calls the setLabel and super.renderDrag
  classes.
-LabelDragRenderer( org.das2.graph.DasCanvasComponent parent )
+
+# LabelDragRenderer( org.das2.graph.DasCanvasComponent parent )
 create an instance.
 
-LabelDragRenderer( )
+# LabelDragRenderer( )
 create an instance, and presumably the mouse module will set the parent.
 
 ***

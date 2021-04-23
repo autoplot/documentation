@@ -1,8 +1,11 @@
-# org.das2.qds.filters.FilterEditorPanelInterface for adding small GUIs to control each of the filters.  For example
+# org.das2.qds.filters.FilterEditorPanel
+
+Interface for adding small GUIs to control each of the filters.  For example
  "|divide(5)" is controlled with a GUI that accepts the float parameter that 
  might check that the operand is not zero.  These should each implement get
  and setFilter, and fire off a property change event when the value is changed,
  so the GUI can be interactively.
+
 ***
 <a name="PROP_FILTER"></a>
 # PROP_FILTER

@@ -1,7 +1,10 @@
-# org.autoplot.datasource.LogNamesUseful Constants for retrieving loggers, to be used like so: Logger.getLogger(LogNames.APDSS).  This
+# org.autoplot.datasource.LogNames
+
+Useful Constants for retrieving loggers, to be used like so: Logger.getLogger(LogNames.APDSS).  This
  is intended to encourage use of standard names, and minimize the number of log channels.
  See http://www.autoplot.org/developer.logging .
-LogNames( )
+
+# LogNames( )
 
 
 ***

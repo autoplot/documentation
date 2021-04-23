@@ -1,4 +1,6 @@
-# org.das2.qds.QubeDataSetIterator.DimensionIteratorDimensionIterator iterates over an index.  For example, using 
+# org.das2.qds.QubeDataSetIterator.DimensionIterator
+
+DimensionIterator iterates over an index.  For example, using 
  Jython for brevity:
 <blockquote><pre><small>{@code
  ds= zeros(15,4,2)
@@ -10,6 +12,7 @@
  i3= [0,1,0,1]
  ds[i1,i2,i3]  # uses IndexListIterator
 }</small></pre></blockquote>
+
 ***
 <a name="hasNext"></a>
 # hasNext

@@ -1,5 +1,8 @@
-# org.autoplot.test.Test_022_ContextOverviewDo a context overview and some zooming.
-Test_022_ContextOverview( )
+# org.autoplot.test.Test_022_ContextOverview
+
+Do a context overview and some zooming.
+
+# Test_022_ContextOverview( )
 
 
 ***

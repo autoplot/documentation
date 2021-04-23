@@ -1,5 +1,8 @@
 # org.das2.dataset.YSliceDataSet
-YSliceDataSet( org.das2.dataset.TableDataSet source, int jIndex, int table )
+
+
+
+# YSliceDataSet( org.das2.dataset.TableDataSet source, int jIndex, int table )
 
 
 ***

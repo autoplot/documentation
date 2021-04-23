@@ -1,5 +1,8 @@
-# org.autoplot.util.RunLaterListenermaybe a handy class to have something run later.
-RunLaterListener( String propertyName, org.autoplot.util.RunLaterListener.PropertyChange node, boolean immediatelyAfter )
+# org.autoplot.util.RunLaterListener
+
+maybe a handy class to have something run later.
+
+# RunLaterListener( String propertyName, org.autoplot.util.RunLaterListener.PropertyChange node, boolean immediatelyAfter )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.das2.graph.DasCanvasComponentSuper class providing base functionality for all canvas components such as 
+# org.das2.graph.DasCanvasComponent
+
+Super class providing base functionality for all canvas components such as 
  DasAxis, DasPlot, and DasLabel.
-DasCanvasComponent( )
+
+# DasCanvasComponent( )
 constructs a DasCanvasComponent, creating the
  DasMouseInputAdapter for it and assigning a
  default name to it.

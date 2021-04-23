@@ -1,6 +1,9 @@
-# org.das2.qstream.AsciiHexIntegerTransferTypeformat as hex, useful for RGB colors, where the color is represented as
+# org.das2.qstream.AsciiHexIntegerTransferType
+
+format as hex, useful for RGB colors, where the color is represented as
  0xRRGGBB.
-AsciiHexIntegerTransferType( int sizeBytes )
+
+# AsciiHexIntegerTransferType( int sizeBytes )
 
 
 ***

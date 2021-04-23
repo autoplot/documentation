@@ -1,5 +1,8 @@
-# org.autoplot.html.HtmlParserStreamerStream the table into an AsciiTableStreamer.
-HtmlParserStreamer( )
+# org.autoplot.html.HtmlParserStreamer
+
+Stream the table into an AsciiTableStreamer.
+
+# HtmlParserStreamer( )
 
 
 ***

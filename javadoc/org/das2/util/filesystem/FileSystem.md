@@ -1,7 +1,10 @@
-# org.das2.util.filesystem.FileSystemFilesystems provide an abstraction layer so that clients can access
+# org.das2.util.filesystem.FileSystem
+
+Filesystems provide an abstraction layer so that clients can access
  any hierarchy of files in a implementation-independent way.  For example,
  remote filesystems accessible via HTTP are accessible through the same
  interface as a local filesystem.
+
 ***
 <a name="PROP_CASE_INSENSITIVE"></a>
 # PROP_CASE_INSENSITIVE

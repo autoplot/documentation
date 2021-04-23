@@ -1,10 +1,13 @@
-# org.das2.qds.ops.OpsA fairly complete set of operations for QDataSets, including binary operations
+# org.das2.qds.ops.Ops
+
+A fairly complete set of operations for QDataSets, including binary operations
  like "add" and "subtract", but also more abstract (and complex) operations like
  smooth and fftPower.  Most operations check data units and validity, but
  consult the documentation for each function.
  
  These operations are all available in Jython scripts, and some, like add, are
  connected to operator symbols like +.
+
 ***
 <a name="PI"></a>
 # PI

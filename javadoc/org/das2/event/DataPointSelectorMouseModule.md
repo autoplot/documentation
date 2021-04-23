@@ -1,4 +1,6 @@
-# org.das2.event.DataPointSelectorMouseModuleGeneral purpose mouse module for getting data point selections.  The client
+# org.das2.event.DataPointSelectorMouseModule
+
+General purpose mouse module for getting data point selections.  The client
  provides the DragRenderer, generally a vertical line, horizontal line or a
  crosshair.
 
@@ -6,7 +8,8 @@
    dragEvents     as the mouse is dragged,
    keyEvents      when a key is pressed.  (The key is the "keyChar" plane of the event)
    releaseEvents  when the mouse is released.  (false by default)
-DataPointSelectorMouseModule( org.das2.graph.DasPlot parent, org.das2.dataset.DataSetConsumer consumer, org.das2.event.DragRenderer dragRenderer, String label )
+
+# DataPointSelectorMouseModule( org.das2.graph.DasPlot parent, org.das2.dataset.DataSetConsumer consumer, org.das2.event.DragRenderer dragRenderer, String label )
 
 
 ***

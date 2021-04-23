@@ -1,6 +1,9 @@
-# org.autoplot.scriptconsole.ExitExceptionHandlerException handler introduced for Hudson/Jenkins tests.  
+# org.autoplot.scriptconsole.ExitExceptionHandler
+
+Exception handler introduced for Hudson/Jenkins tests.  
  Prints the exception and exits.
-ExitExceptionHandler( )
+
+# ExitExceptionHandler( )
 
 
 ***

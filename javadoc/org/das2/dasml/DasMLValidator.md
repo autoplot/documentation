@@ -1,10 +1,13 @@
-# org.das2.dasml.DasMLValidatorA validator for the dasML language developed for the University of
+# org.das2.dasml.DasMLValidator
+
+A validator for the dasML language developed for the University of
  Iowa Space Plasma Wave Group.  This class is used as a pre-processor
  to (hopefully) provide clear and helpful error messages.
 
  Warning:  This class is not thread-safe.  Unexpected results can occur
     if multiple threads use an instance of this class concurrently.
-DasMLValidator( )
+
+# DasMLValidator( )
 Creates a new instance of DasMLValidator
 
 ***

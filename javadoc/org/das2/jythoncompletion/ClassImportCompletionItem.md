@@ -1,5 +1,8 @@
-# org.das2.jythoncompletion.ClassImportCompletionItemOffer a class to use and add import for it.
-ClassImportCompletionItem( String text, int offset, String complete, String label, String link, int sortPriority, javax.swing.ImageIcon icon, String pkg, String name )
+# org.das2.jythoncompletion.ClassImportCompletionItem
+
+Offer a class to use and add import for it.
+
+# ClassImportCompletionItem( String text, int offset, String complete, String label, String link, int sortPriority, javax.swing.ImageIcon icon, String pkg, String name )
 
 
 ***

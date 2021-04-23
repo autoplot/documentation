@@ -1,11 +1,14 @@
-# org.das2.qds.LengthsDataSetDataSet that is the lengths of another dataset.  The total of all the leaves
+# org.das2.qds.LengthsDataSet
+
+DataSet that is the lengths of another dataset.  The total of all the leaves
  is the total number of elements in the dataset.  The rank is one less than
  that of the wrapped dataset, and the values are the lengths of the last dimension
  of the wrapped dataset.
 
  It's expected that this will be generally useful and a handy way to make
  a QUBE dataset implementation such as DDataSet support non-qube datasets.
-LengthsDataSet( QDataSet ds )
+
+# LengthsDataSet( QDataSet ds )
 
 
 ***

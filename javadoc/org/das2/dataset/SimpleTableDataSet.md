@@ -1,10 +1,13 @@
-# org.das2.dataset.SimpleTableDataSetoptimized TableDataSet where only 1-table data set is supported,
+# org.das2.dataset.SimpleTableDataSet
+
+optimized TableDataSet where only 1-table data set is supported,
  and is backed by a 1-D array.  This is to house the result of the rebin method 
  used for spectrograms.
-SimpleTableDataSet( double[] x, double[] y, double[] z, Units xunits, Units yunits, Units zunits )
+
+# SimpleTableDataSet( double[] x, double[] y, double[] z, Units xunits, Units yunits, Units zunits )
 
 
-SimpleTableDataSet( double[] x, double[] y, double[] z, Units xunits, Units yunits, Units zunits, String planeName, org.das2.dataset.TableDataSet planeData )
+# SimpleTableDataSet( double[] x, double[] y, double[] z, Units xunits, Units yunits, Units zunits, String planeName, org.das2.dataset.TableDataSet planeData )
 
 
 ***

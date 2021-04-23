@@ -1,4 +1,7 @@
-# org.das2.dasml.FormChoiceBeanInfoBeanInfo class for FormChoice
-FormChoiceBeanInfo( )
+# org.das2.dasml.FormChoiceBeanInfo
+
+BeanInfo class for FormChoice
+
+# FormChoiceBeanInfo( )
 
 

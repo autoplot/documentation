@@ -1,4 +1,6 @@
-# org.das2.qds.ops.CoerceUtilUtility class for reconciling the geometries of two datasets.  For example,
+# org.das2.qds.ops.CoerceUtil
+
+Utility class for reconciling the geometries of two datasets.  For example,
  a rank 1 dataset's values can be repeated to make it rank 2.
 
  TODO: dataset geometry is increased by keeping a reference to a dataset with
@@ -13,7 +15,8 @@
     return lengths.value(i0);
  }
 </pre></blockquote>
-CoerceUtil( )
+
+# CoerceUtil( )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.das2.NameContextAn instance of <code>NameContext</code> defines the name space for a
+# org.das2.NameContext
+
+An instance of <code>NameContext</code> defines the name space for a
  dasml/das2 application.  Methods for querying values of properties are
  also provided.
+
 ***
 <a name="SIMPLE_NAME"></a>
 # SIMPLE_NAME

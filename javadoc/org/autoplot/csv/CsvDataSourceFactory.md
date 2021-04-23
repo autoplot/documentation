@@ -1,5 +1,8 @@
-# org.autoplot.csv.CsvDataSourceFactoryFactory for producing comma separated values file sources.
-CsvDataSourceFactory( )
+# org.autoplot.csv.CsvDataSourceFactory
+
+Factory for producing comma separated values file sources.
+
+# CsvDataSourceFactory( )
 
 
 ***

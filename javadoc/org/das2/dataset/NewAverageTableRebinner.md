@@ -1,5 +1,8 @@
-# org.das2.dataset.NewAverageTableRebinnernot thread safe!!!
-NewAverageTableRebinner( org.das2.dataset.DataSet ds, org.das2.dataset.RebinDescriptor ddX, org.das2.dataset.RebinDescriptor ddY )
+# org.das2.dataset.NewAverageTableRebinner
+
+not thread safe!!!
+
+# NewAverageTableRebinner( org.das2.dataset.DataSet ds, org.das2.dataset.RebinDescriptor ddX, org.das2.dataset.RebinDescriptor ddY )
 Creates a new instance of TableAverageRebinner
 
 ***

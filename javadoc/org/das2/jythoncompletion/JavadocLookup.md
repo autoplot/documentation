@@ -1,6 +1,9 @@
-# org.das2.jythoncompletion.JavadocLookupProvide a class for keeping track of the Javadoc lookups, 
+# org.das2.jythoncompletion.JavadocLookup
+
+Provide a class for keeping track of the Javadoc lookups, 
  so this is not buried in code (so much).
-JavadocLookup( )
+
+# JavadocLookup( )
 
 
 ***

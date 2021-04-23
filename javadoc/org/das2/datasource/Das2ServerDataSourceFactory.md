@@ -1,5 +1,8 @@
-# org.das2.datasource.Das2ServerDataSourceFactoryDataSourceFactory for communicating with Das2servers.
-Das2ServerDataSourceFactory( )
+# org.das2.datasource.Das2ServerDataSourceFactory
+
+DataSourceFactory for communicating with Das2servers.
+
+# Das2ServerDataSourceFactory( )
 
 
 ***

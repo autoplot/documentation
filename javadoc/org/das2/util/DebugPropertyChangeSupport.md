@@ -1,6 +1,9 @@
-# org.das2.util.DebugPropertyChangeSupportPropertyChangeSupport implementation that provides debugging information, 
+# org.das2.util.DebugPropertyChangeSupport
+
+PropertyChangeSupport implementation that provides debugging information, 
  such as toString.
-DebugPropertyChangeSupport( Object bean )
+
+# DebugPropertyChangeSupport( Object bean )
 
 
 ***

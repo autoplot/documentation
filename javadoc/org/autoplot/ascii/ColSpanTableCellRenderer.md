@@ -1,5 +1,8 @@
-# org.autoplot.ascii.ColSpanTableCellRendererThis allows colspan in a JTable.
-ColSpanTableCellRenderer( )
+# org.autoplot.ascii.ColSpanTableCellRenderer
+
+This allows colspan in a JTable.
+
+# ColSpanTableCellRenderer( )
 
 
 ***

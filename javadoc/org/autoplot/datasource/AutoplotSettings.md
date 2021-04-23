@@ -1,6 +1,9 @@
-# org.autoplot.datasource.AutoplotSettingsAutoplot's settings, stored in Java preferences, include
+# org.autoplot.datasource.AutoplotSettings
+
+Autoplot's settings, stored in Java preferences, include
  things like the last folder opened.  Also this code handles
  property resolution like ${HOME}/autoplot_data.
+
 ***
 <a name="PREF_LAST_OPEN_FOLDER"></a>
 # PREF_LAST_OPEN_FOLDER

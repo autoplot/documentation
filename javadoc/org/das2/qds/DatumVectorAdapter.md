@@ -1,5 +1,8 @@
-# org.das2.qds.DatumVectorAdapterutility routines for adapting legacy das2 DatumVector.
-DatumVectorAdapter( )
+# org.das2.qds.DatumVectorAdapter
+
+utility routines for adapting legacy das2 DatumVector.
+
+# DatumVectorAdapter( )
 
 
 ***

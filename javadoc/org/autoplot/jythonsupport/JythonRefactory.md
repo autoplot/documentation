@@ -1,6 +1,9 @@
-# org.autoplot.jythonsupport.JythonRefactoryProvide one class that manages backwards compatibility as package names
+# org.autoplot.jythonsupport.JythonRefactory
+
+Provide one class that manages backwards compatibility as package names
  are changed.  See https://sourceforge.net/p/autoplot/feature-requests/528/
-JythonRefactory( )
+
+# JythonRefactory( )
 
 
 ***

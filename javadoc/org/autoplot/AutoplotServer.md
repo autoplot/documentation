@@ -1,5 +1,8 @@
-# org.autoplot.AutoplotServerServer for producing images from Autoplot URIs, first requested by U. Michigan.
-AutoplotServer( )
+# org.autoplot.AutoplotServer
+
+Server for producing images from Autoplot URIs, first requested by U. Michigan.
+
+# AutoplotServer( )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.autoplot.pngwalk.WalkImageA class to manage an image for the PNGWalk tool. Handles downloading and
+# org.autoplot.pngwalk.WalkImage
+
+A class to manage an image for the PNGWalk tool. Handles downloading and
  thumbnail generation.
-WalkImage( java.net.URI uri, boolean haveThumbs400 )
+
+# WalkImage( java.net.URI uri, boolean haveThumbs400 )
 
 
 ***

@@ -1,5 +1,8 @@
 # org.das2.dataset.LimitCountDataSetCache
-LimitCountDataSetCache( int count )
+
+
+
+# LimitCountDataSetCache( int count )
 Creates a new instance of StandardDataStreamCache
 
 ***

@@ -1,6 +1,9 @@
-# org.das2.dasml.FormButtonThis class is provided to override the Java Beans properties of
+# org.das2.dasml.FormButton
+
+This class is provided to override the Java Beans properties of
  the JButton class.
-FormButton( String name, String label )
+
+# FormButton( String name, String label )
 
 
 ***

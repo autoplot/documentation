@@ -1,6 +1,9 @@
-# org.autoplot.cdaweb.CDAWebDataSourceFactoryCreate a CDAWebDataSource.  The source contains knowledge of the CDAWeb database, knowing
+# org.autoplot.cdaweb.CDAWebDataSourceFactory
+
+Create a CDAWebDataSource.  The source contains knowledge of the CDAWeb database, knowing
  how the files are stored, aggregation templates, and metadata describing the dataset.
-CDAWebDataSourceFactory( )
+
+# CDAWebDataSourceFactory( )
 
 
 ***

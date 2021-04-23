@@ -1,14 +1,17 @@
-# org.das2.datum.EnumerationUnitsUnits class for mapping arbitrary objects to Datums.  Nothing about the contract
+# org.das2.datum.EnumerationUnits
+
+Units class for mapping arbitrary objects to Datums.  Nothing about the contract
  for a Datum requires that they correspond to physical quantities, and we can
  assign a mapping from numbers to objects using this class.  This allows 
  information such as "Cluster 1" or "Spin Flip" to be encoded.
  
  This is used to model ordinal or nominal data, as described in
  http://en.wikipedia.org/wiki/Level_of_measurement
-EnumerationUnits( String id )
+
+# EnumerationUnits( String id )
 
 
-EnumerationUnits( String id, String description )
+# EnumerationUnits( String id, String description )
 
 
 ***

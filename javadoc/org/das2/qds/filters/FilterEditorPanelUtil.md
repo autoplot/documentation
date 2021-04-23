@@ -1,5 +1,8 @@
-# org.das2.qds.filters.FilterEditorPanelUtilUtility classes
-FilterEditorPanelUtil( )
+# org.das2.qds.filters.FilterEditorPanelUtil
+
+Utility classes
+
+# FilterEditorPanelUtil( )
 
 
 ***

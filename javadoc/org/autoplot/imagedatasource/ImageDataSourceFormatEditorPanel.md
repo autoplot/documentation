@@ -1,5 +1,8 @@
 # org.autoplot.imagedatasource.ImageDataSourceFormatEditorPanel
-ImageDataSourceFormatEditorPanel( )
+
+
+
+# ImageDataSourceFormatEditorPanel( )
 Creates new form ImageDataSourceFormatEditorPanel
 
 ***

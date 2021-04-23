@@ -1,8 +1,11 @@
-# org.das2.util.filesystem.ExpensiveOpCacheThis simply reduces invocations of an expensive operation by
+# org.das2.util.filesystem.ExpensiveOpCache
+
+This simply reduces invocations of an expensive operation by
  caching the result for a given number of milliseconds.  This was
  introduced to remove the number of HEAD requests to the server for
  a given file.
-ExpensiveOpCache( org.das2.util.filesystem.ExpensiveOpCache.Op op, int limitMs )
+
+# ExpensiveOpCache( org.das2.util.filesystem.ExpensiveOpCache.Op op, int limitMs )
 Cache the result of op for no more than limitMs milliseconds.
 
 ***

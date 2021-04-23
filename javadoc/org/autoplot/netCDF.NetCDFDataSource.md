@@ -1,5 +1,8 @@
-# org.autoplot.netCDF.NetCDFDataSourceRead Data from NetCDF and HDF5 files.
-NetCDFDataSource( java.net.URI uri )
+# org.autoplot.netCDF.NetCDFDataSource
+
+Read Data from NetCDF and HDF5 files.
+
+# NetCDFDataSource( java.net.URI uri )
 Creates a new instance of NetCDFDataSource
 
 ***

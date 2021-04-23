@@ -1,4 +1,7 @@
-# org.das2.qds.ops.Ops.UnaryOpUnaryOps are one-argument operations, such as sin, abs, and sqrt
+# org.das2.qds.ops.Ops.UnaryOp
+
+UnaryOps are one-argument operations, such as sin, abs, and sqrt
+
 ***
 <a name="op"></a>
 # op

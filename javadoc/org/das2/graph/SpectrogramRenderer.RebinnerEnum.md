@@ -1,5 +1,8 @@
 # org.das2.graph.SpectrogramRenderer.RebinnerEnum
-RebinnerEnum( org.das2.dataset.DataSetRebinner rebinner, String label )
+
+
+
+# RebinnerEnum( org.das2.dataset.DataSetRebinner rebinner, String label )
 
 
 ***

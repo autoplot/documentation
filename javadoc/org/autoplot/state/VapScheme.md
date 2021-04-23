@@ -1,7 +1,10 @@
-# org.autoplot.state.VapSchemeinterface allowing for handling forward compatibility.  This is really
+# org.autoplot.state.VapScheme
+
+interface allowing for handling forward compatibility.  This is really
  simplified, and really only serves to rename properties.  (By design it should
  handle more complex transformations, but this didn't work, and we use xslt
  instead.)
+
 ***
 <a name="addUnresolvedProperty"></a>
 # addUnresolvedProperty

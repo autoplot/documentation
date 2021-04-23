@@ -1,5 +1,8 @@
-# org.das2.util.filesystem.FileSystem.DirectoryEntryDirectoryEntry defines a structure for containing directory entry data.
-DirectoryEntry( )
+# org.das2.util.filesystem.FileSystem.DirectoryEntry
+
+DirectoryEntry defines a structure for containing directory entry data.
+
+# DirectoryEntry( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.qds.filters.AnyFilterEditorPanelCatch-all fall-back for handling things we don't have an editor for.
-AnyFilterEditorPanel( )
+# org.das2.qds.filters.AnyFilterEditorPanel
+
+Catch-all fall-back for handling things we don't have an editor for.
+
+# AnyFilterEditorPanel( )
 Creates new form AnyFilterEditorPanel
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.test.Test_000_InitVerify that Jemmy will work, set the mouse position for tests.
-Test_000_Init( )
+# org.autoplot.test.Test_000_Init
+
+Verify that Jemmy will work, set the mouse position for tests.
+
+# Test_000_Init( )
 
 
 ***

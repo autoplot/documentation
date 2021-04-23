@@ -1,6 +1,9 @@
-# org.autoplot.bookmarks.BookmarkInternal representation of a Bookmark, containing an Autoplot URI, title, and additional documentation 
+# org.autoplot.bookmarks.Bookmark
+
+Internal representation of a Bookmark, containing an Autoplot URI, title, and additional documentation 
  for the URI.  This can also be a folder that contains a list of Bookmarks, or a remote folder that is controlled be
  a remote bookmarks file./
+
 ***
 <a name="TITLE_ERROR_OCCURRED"></a>
 # TITLE_ERROR_OCCURRED

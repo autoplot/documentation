@@ -1,5 +1,8 @@
 # org.autoplot.spase.SpaseRecordDataSource
-SpaseRecordDataSource( java.net.URI uri )
+
+
+
+# SpaseRecordDataSource( java.net.URI uri )
 Creates a new instance of SpaseRecordDataSource
 
 ***

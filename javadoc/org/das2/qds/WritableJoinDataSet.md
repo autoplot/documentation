@@ -1,11 +1,14 @@
-# org.das2.qds.WritableJoinDataSetJoin of WritableDataSets where each dataset is writable.  Note type checking is
+# org.das2.qds.WritableJoinDataSet
+
+Join of WritableDataSets where each dataset is writable.  Note type checking is
  only done when the constructor that accepts a dataset, otherwise type checking
  is not done until the data is accessed.  This was introduced to properly
  support Ops.copy.
-WritableJoinDataSet( int rank )
+
+# WritableJoinDataSet( int rank )
 
 
-WritableJoinDataSet( QDataSet ds )
+# WritableJoinDataSet( QDataSet ds )
 
 
 ***

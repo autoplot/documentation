@@ -1,5 +1,8 @@
-# org.das2.qds.WeightsDataSet.FillFinitereturn 1 for finite (Non-NaN) values that are not equal to fill, or (float)fill.
-FillFinite( QDataSet ds )
+# org.das2.qds.WeightsDataSet.FillFinite
+
+return 1 for finite (Non-NaN) values that are not equal to fill, or (float)fill.
+
+# FillFinite( QDataSet ds )
 
 
 ***

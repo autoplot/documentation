@@ -1,8 +1,11 @@
-# org.autoplot.netCDF.APIOServiceProviderAPIOServiceProvider adapts Autoplot's data model to NetCDF to allow Autoplot
+# org.autoplot.netCDF.APIOServiceProvider
+
+APIOServiceProvider adapts Autoplot's data model to NetCDF to allow Autoplot
  URIs to be read into NetCDF.  The property vapuri in the NCML file contains
  an Autoplot URI.  It's been a while since we've played with this (to prove
  the idea), and I'm not sure where example NCML files are found.
-APIOServiceProvider( )
+
+# APIOServiceProvider( )
 
 
 ***

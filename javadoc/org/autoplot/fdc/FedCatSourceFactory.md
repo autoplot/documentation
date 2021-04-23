@@ -1,5 +1,8 @@
-# org.autoplot.fdc.FedCatSourceFactoryGenerates data sources based off URIs of the form: vap+dfc:LOCATION
-FedCatSourceFactory( )
+# org.autoplot.fdc.FedCatSourceFactory
+
+Generates data sources based off URIs of the form: vap+dfc:LOCATION
+
+# FedCatSourceFactory( )
 
 
 ***

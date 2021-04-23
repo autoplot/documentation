@@ -1,5 +1,8 @@
-# org.das2.system.DefaultMonitorFactoryProvided so we could look at monitors leftover when debugging.  Note Autoplot appears to get old monitors from here
-DefaultMonitorFactory( )
+# org.das2.system.DefaultMonitorFactory
+
+Provided so we could look at monitors leftover when debugging.  Note Autoplot appears to get old monitors from here
+
+# DefaultMonitorFactory( )
 
 
 ***

@@ -1,10 +1,13 @@
-# org.das2.graph.LevelerManages a set of rows or columns, making sure they fill a space without
+# org.das2.graph.Leveler
+
+Manages a set of rows or columns, making sure they fill a space without
  overlapping.  This is an ancient class that would manage a set of rows to support a 
  PaPCo- or Autoplot-like application.
-Leveler( org.das2.graph.DasCanvas parent )
+
+# Leveler( org.das2.graph.DasCanvas parent )
 
 
-Leveler( org.das2.graph.DasCanvas parent, org.das2.graph.DasRow row )
+# Leveler( org.das2.graph.DasCanvas parent, org.das2.graph.DasRow row )
 
 
 ***

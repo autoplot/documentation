@@ -1,5 +1,8 @@
-# org.autoplot.datasource.ThreadManagerBrought in as things are removed from the das2 threads, and a number of
+# org.autoplot.datasource.ThreadManager
+
+Brought in as things are removed from the das2 threads, and a number of
  processes are assumed to be run just once.
+
 ***
 <a name="getInstance"></a>
 # getInstance

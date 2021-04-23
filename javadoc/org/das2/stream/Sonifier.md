@@ -1,5 +1,8 @@
-# org.das2.stream.Sonifierdemo code that shows how a das2stream can be piped to an audiosystem.
-Sonifier( )
+# org.das2.stream.Sonifier
+
+demo code that shows how a das2stream can be piped to an audiosystem.
+
+# Sonifier( )
 
 
 ***

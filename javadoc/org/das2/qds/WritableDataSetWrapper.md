@@ -1,6 +1,9 @@
-# org.das2.qds.WritableDataSetWrapperJython needs all datasets to be writable, and this provides the write capability while avoiding unnecessary
+# org.das2.qds.WritableDataSetWrapper
+
+Jython needs all datasets to be writable, and this provides the write capability while avoiding unnecessary
  copies when the dataset is never mutated.
-WritableDataSetWrapper( QDataSet ds )
+
+# WritableDataSetWrapper( QDataSet ds )
 create the WritableDataSetWrapper
 
 ***

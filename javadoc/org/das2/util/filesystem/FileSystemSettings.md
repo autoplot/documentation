@@ -1,4 +1,7 @@
-# org.das2.util.filesystem.FileSystemSettingscontrols for file systems.
+# org.das2.util.filesystem.FileSystemSettings
+
+controls for file systems.
+
 ***
 <a name="PROP_LOCALCACHEDIR"></a>
 # PROP_LOCALCACHEDIR

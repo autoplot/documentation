@@ -1,5 +1,8 @@
 # org.autoplot.dods.DodsVarDataSet.Int16Array
-Int16Array( DArray array, java.util.Map properties )
+
+
+
+# Int16Array( DArray array, java.util.Map properties )
 
 
 ***

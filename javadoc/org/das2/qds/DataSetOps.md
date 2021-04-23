@@ -1,6 +1,9 @@
-# org.das2.qds.DataSetOpsUseful operations for QDataSets, such as slice2, leafTrim.
+# org.das2.qds.DataSetOps
+
+Useful operations for QDataSets, such as slice2, leafTrim.
  TODO: identify which functions appear here instead of Ops.java.
-DataSetOps( )
+
+# DataSetOps( )
 
 
 ***

@@ -1,10 +1,13 @@
-# org.das2.qds.util.AsciiHeadersParserThis additional support for parsing ascii data looks at the comment block in
+# org.das2.qds.util.AsciiHeadersParser
+
+This additional support for parsing ascii data looks at the comment block in
  an ASCII file for a structured set of Dataset tags further describing the
  data.  This is loosely formatted JSON that describes each column of the
  data file more abstractly than the AsciiParser.
 
  This is based on QDataSet metadata tags, as much as possible.
-AsciiHeadersParser( )
+
+# AsciiHeadersParser( )
 
 
 ***

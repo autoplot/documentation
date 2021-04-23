@@ -1,8 +1,11 @@
-# org.das2.qds.util.dd.SimpleExpTokenManagerToken Manager.
-SimpleExpTokenManager( org.das2.qds.util.dd.SimpleCharStream stream )
+# org.das2.qds.util.dd.SimpleExpTokenManager
+
+Token Manager.
+
+# SimpleExpTokenManager( org.das2.qds.util.dd.SimpleCharStream stream )
 Constructor.
 
-SimpleExpTokenManager( org.das2.qds.util.dd.SimpleCharStream stream, int lexState )
+# SimpleExpTokenManager( org.das2.qds.util.dd.SimpleCharStream stream, int lexState )
 Constructor.
 
 ***

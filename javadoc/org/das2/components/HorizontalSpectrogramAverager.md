@@ -1,4 +1,7 @@
-# org.das2.components.HorizontalSpectrogramAveragershow the average of the data over an interval
+# org.das2.components.HorizontalSpectrogramAverager
+
+show the average of the data over an interval
+
 ***
 <a name="PROP_MODE"></a>
 # PROP_MODE

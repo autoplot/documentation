@@ -1,5 +1,8 @@
-# org.autoplot.idlsupport.APDataSetExtension to QDataSetBridge, which supports reading in data from Autoplot URIs.
-APDataSet( )
+# org.autoplot.idlsupport.APDataSet
+
+Extension to QDataSetBridge, which supports reading in data from Autoplot URIs.
+
+# APDataSet( )
 1.4.1 clean up Das2Server source so that monitor is only called once.
 
 ***

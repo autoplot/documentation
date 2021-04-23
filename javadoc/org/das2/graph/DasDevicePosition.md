@@ -1,7 +1,10 @@
-# org.das2.graph.DasDevicePositionDasRows and DasColumns are both DasDevidePositions that lay out the
+# org.das2.graph.DasDevicePosition
+
+DasRows and DasColumns are both DasDevidePositions that lay out the
  canvas.  Any object on the DasCanvas have a row and column object to indicate
  the position of the object.
-DasDevicePosition( org.das2.graph.DasCanvas parent, double minimum, double maximum, boolean width )
+
+# DasDevicePosition( org.das2.graph.DasCanvas parent, double minimum, double maximum, boolean width )
 
 
 ***

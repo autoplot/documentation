@@ -1,11 +1,14 @@
 # org.das2.graph.RangeLabel
-RangeLabel( Datum lDatum, Datum rDatum )
 
 
-RangeLabel( DatumRange dr )
+
+# RangeLabel( Datum lDatum, Datum rDatum )
 
 
-RangeLabel( )
+# RangeLabel( DatumRange dr )
+
+
+# RangeLabel( )
 
 
 ***

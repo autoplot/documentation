@@ -1,4 +1,6 @@
-# org.autoplot.datasource.URISplitClass for containing the elemental parts of a URI, and utility
+# org.autoplot.datasource.URISplit
+
+Class for containing the elemental parts of a URI, and utility
  routines for working with URIs.
 
  We need a working definition of well-formed and colloquial URIs:
@@ -21,7 +23,8 @@
  
  This routine knows nothing about the data source that will interpret the
  URI, so this needs to be established.
-URISplit( )
+
+# URISplit( )
 
 
 ***

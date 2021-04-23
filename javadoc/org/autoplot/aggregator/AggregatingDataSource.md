@@ -1,4 +1,6 @@
-# org.autoplot.aggregator.AggregatingDataSourceData Source that aggregates (or combines) the data from granule files containing 
+# org.autoplot.aggregator.AggregatingDataSource
+
+Data Source that aggregates (or combines) the data from granule files containing 
  data for intervals.  For example, 
  https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v$v.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000109
  is the aggregation of daily files from the CDAWeb.  This provides an 
@@ -7,7 +9,8 @@
  
  The result of this is not guaranteed to be monotonically increasing in 
  time.  See https://sourceforge.net/p/autoplot/bugs/1326/
-AggregatingDataSource( java.net.URI uri, org.autoplot.datasource.DataSourceFactory delegateFactory )
+
+# AggregatingDataSource( java.net.URI uri, org.autoplot.datasource.DataSourceFactory delegateFactory )
 Creates a new instance of AggregatingDataSource
 
 ***

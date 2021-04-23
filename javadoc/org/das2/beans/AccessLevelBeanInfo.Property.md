@@ -1,16 +1,19 @@
-# org.das2.beans.AccessLevelBeanInfo.PropertyAccessLevelBeanInfo.Property is a helper class for subclasses of
+# org.das2.beans.AccessLevelBeanInfo.Property
+
+AccessLevelBeanInfo.Property is a helper class for subclasses of
  AccessLevelBeanInfo to specify a list of properties in a way that
  is independant of the underlying Bean/PropertyDescriptor implementation.
-Property( String name, org.das2.beans.AccessLevelBeanInfo.AccessLevel level, org.das2.beans.AccessLevelBeanInfo.PersistenceLevel persistenceLevel, String getter, String setter, java.lang.Class editor )
+
+# Property( String name, org.das2.beans.AccessLevelBeanInfo.AccessLevel level, org.das2.beans.AccessLevelBeanInfo.PersistenceLevel persistenceLevel, String getter, String setter, java.lang.Class editor )
 Creates a new Property object.
 
-Property( String name, org.das2.beans.AccessLevelBeanInfo.AccessLevel level, String getter, String setter, java.lang.Class editor )
+# Property( String name, org.das2.beans.AccessLevelBeanInfo.AccessLevel level, String getter, String setter, java.lang.Class editor )
 Creates a new Property object.
 
-Property( String name, org.das2.beans.AccessLevelBeanInfo.AccessLevel level, org.das2.beans.AccessLevelBeanInfo.PersistenceLevel persistenceLevel, String getter, String setter, String igetter, String isetter, java.lang.Class editor )
+# Property( String name, org.das2.beans.AccessLevelBeanInfo.AccessLevel level, org.das2.beans.AccessLevelBeanInfo.PersistenceLevel persistenceLevel, String getter, String setter, String igetter, String isetter, java.lang.Class editor )
 Creates a new Property object that is indexed.
 
-Property( String name, org.das2.beans.AccessLevelBeanInfo.AccessLevel level, String getter, String setter, String igetter, String isetter, java.lang.Class editor )
+# Property( String name, org.das2.beans.AccessLevelBeanInfo.AccessLevel level, String getter, String setter, String igetter, String isetter, java.lang.Class editor )
 Creates a new Property object that is indexed.
 
 ***

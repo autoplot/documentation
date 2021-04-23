@@ -1,7 +1,10 @@
-# org.das2.util.LoggerManagerCentral place that keeps track of loggers.  Note that both org.das.datum 
+# org.das2.util.LoggerManager
+
+Central place that keeps track of loggers.  Note that both org.das.datum 
  and org.das2.datum have this same class, which is there to avoid coupling between the 
  packages.
-LoggerManager( )
+
+# LoggerManager( )
 
 
 ***

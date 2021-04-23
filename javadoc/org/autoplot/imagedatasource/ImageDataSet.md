@@ -1,12 +1,15 @@
-# org.autoplot.imagedatasource.ImageDataSetAdapt a BufferedImage to a rank 2 or rank 3 QDataSet, using
+# org.autoplot.imagedatasource.ImageDataSet
+
+Adapt a BufferedImage to a rank 2 or rank 3 QDataSet, using
  ColorOp to extract red, green, or blue channels.  When mask
  is null and op is null, then a rank 3 dataset [w,h,3] is returned, 
  a bundle of red, green, blue channels.
-ImageDataSet( java.awt.image.BufferedImage image )
+
+# ImageDataSet( java.awt.image.BufferedImage image )
 create a dataset from the image,
  returning a rank 3 dataset ds[w,h,3].
 
-ImageDataSet( java.awt.image.BufferedImage image, java.awt.Color mask, org.autoplot.imagedatasource.ImageDataSet.ColorOp op )
+# ImageDataSet( java.awt.image.BufferedImage image, java.awt.Color mask, org.autoplot.imagedatasource.ImageDataSet.ColorOp op )
 create a dataset from the image.  When mask and op are null,
  then a rank 3 dataset ds[w,h,3] is returned.
 

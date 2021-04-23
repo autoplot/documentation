@@ -1,5 +1,8 @@
 # org.das2.graph.RowRowConnector
-RowRowConnector( org.das2.graph.DasCanvas parent, org.das2.graph.DasRow leftRow, org.das2.graph.DasRow rightRow, org.das2.graph.DasColumn leftColumn, org.das2.graph.DasColumn rightColumn )
+
+
+
+# RowRowConnector( org.das2.graph.DasCanvas parent, org.das2.graph.DasRow leftRow, org.das2.graph.DasRow rightRow, org.das2.graph.DasColumn leftColumn, org.das2.graph.DasColumn rightColumn )
 
 
 ***

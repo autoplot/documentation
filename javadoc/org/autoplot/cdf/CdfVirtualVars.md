@@ -1,8 +1,11 @@
-# org.autoplot.cdf.CdfVirtualVarsImplementations of the CDF virtual variables seen in CDAWeb, but implemented in QDataSet.
+# org.autoplot.cdf.CdfVirtualVars
+
+Implementations of the CDF virtual variables seen in CDAWeb, but implemented in QDataSet.
  These should reflect a subset of those functions, with the IDL implementations at
  http://spdf.gsfc.nasa.gov/CDAWlib.html
  see ftp://cdaweb.gsfc.nasa.gov/pub/CDAWlib/unix/CDAWlib.tar.gz, routine read_myCDF.pro
-CdfVirtualVars( )
+
+# CdfVirtualVars( )
 
 
 ***

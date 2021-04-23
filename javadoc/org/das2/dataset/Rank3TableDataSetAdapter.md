@@ -1,5 +1,8 @@
 # org.das2.dataset.Rank3TableDataSetAdapter
-Rank3TableDataSetAdapter( QDataSet z, QDataSet x, QDataSet y )
+
+
+
+# Rank3TableDataSetAdapter( QDataSet z, QDataSet x, QDataSet y )
 Creates a new instance of TableDataSetAdapter
 
 ***

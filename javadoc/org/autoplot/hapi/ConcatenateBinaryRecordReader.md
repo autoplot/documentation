@@ -1,5 +1,8 @@
-# org.autoplot.hapi.ConcatenateBinaryRecordReaderconcatenates multiple readers so that they appear as one reader.
-ConcatenateBinaryRecordReader( )
+# org.autoplot.hapi.ConcatenateBinaryRecordReader
+
+concatenates multiple readers so that they appear as one reader.
+
+# ConcatenateBinaryRecordReader( )
 
 
 ***

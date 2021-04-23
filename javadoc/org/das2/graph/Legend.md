@@ -1,6 +1,9 @@
-# org.das2.graph.LegendLegend component for the canvas.  This is similar to the 
+# org.das2.graph.Legend
+
+Legend component for the canvas.  This is similar to the 
  DasPlot legend, whose code was derived from here.
-Legend( )
+
+# Legend( )
 
 
 ***

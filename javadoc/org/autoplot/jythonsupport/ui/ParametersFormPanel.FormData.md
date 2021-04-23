@@ -1,5 +1,8 @@
-# org.autoplot.jythonsupport.ui.ParametersFormPanel.FormDatarepresent the data on the form.
-FormData( )
+# org.autoplot.jythonsupport.ui.ParametersFormPanel.FormData
+
+represent the data on the form.
+
+# FormData( )
 
 
 ***

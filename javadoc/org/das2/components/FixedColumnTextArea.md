@@ -1,5 +1,8 @@
 # org.das2.components.FixedColumnTextArea
-FixedColumnTextArea( )
+
+
+
+# FixedColumnTextArea( )
 Creates a new instance of FixedColumnTextPane
 
 ***

@@ -1,5 +1,8 @@
-# org.autoplot.hapi.HapiDataSourceFormatFormat the QDataSet into HAPI server info and data responses.
-HapiDataSourceFormat( )
+# org.autoplot.hapi.HapiDataSourceFormat
+
+Format the QDataSet into HAPI server info and data responses.
+
+# HapiDataSourceFormat( )
 
 
 ***

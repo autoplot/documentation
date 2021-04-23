@@ -1,9 +1,12 @@
-# org.das2.datum.Datum<p>A Datum is a number in the context of a Unit, for example "15 microseconds."
+# org.das2.datum.Datum
+
+<p>A Datum is a number in the context of a Unit, for example "15 microseconds."
    A Datum object has methods for formatting itself as a String, representing 
   itself as a double in the context of another Unit, and mathematical
  operators that allow simple calculations to be made at the physical quantities.
  Also a Datum's precision can be limited to improve formatting.</p>
  <p>
+
 ***
 <a name="abs"></a>
 # abs

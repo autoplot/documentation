@@ -1,4 +1,6 @@
-# org.das2.catalog.impl.NodeFactoryStatic generator functions for das2 federated catalog node objects. 
+# org.das2.catalog.impl.NodeFactory
+
+Static generator functions for das2 federated catalog node objects. 
  
  One of the main purposes of this class is to maintain the root node registry.  Since
  many formally constant responses (such as completions) are now dynamic, something has
@@ -12,7 +14,8 @@
  to a file object on disk due to the '?' character in the URL.  The das2 catalog is
  supposed to paper over all kinds of weird URLs, so directly downloading and caching
  items seems like the best bet.
-NodeFactory( )
+
+# NodeFactory( )
 
 
 ***

@@ -1,4 +1,7 @@
-# org.das2.graph.AnchorTypeAnchor Type
+# org.das2.graph.AnchorType
+
+Anchor Type
+
 ***
 <a name="CANVAS"></a>
 # CANVAS

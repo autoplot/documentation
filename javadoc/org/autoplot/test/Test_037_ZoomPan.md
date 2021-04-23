@@ -1,5 +1,8 @@
-# org.autoplot.test.Test_037_ZoomPanverify the zoom pan functions of the mousewheel.
-Test_037_ZoomPan( )
+# org.autoplot.test.Test_037_ZoomPan
+
+verify the zoom pan functions of the mousewheel.
+
+# Test_037_ZoomPan( )
 
 
 ***

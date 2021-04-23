@@ -1,4 +1,7 @@
-# org.das2.qstream.SerializeDelegateinterface for serializing (formatting) and parsing objects.
+# org.das2.qstream.SerializeDelegate
+
+interface for serializing (formatting) and parsing objects.
+
 ***
 <a name="format"></a>
 # format

@@ -1,5 +1,8 @@
-# org.autoplot.cefdatasource.DoubleParsercode borrowed from Javalution
-DoubleParser( )
+# org.autoplot.cefdatasource.DoubleParser
+
+code borrowed from Javalution
+
+# DoubleParser( )
 
 
 ***

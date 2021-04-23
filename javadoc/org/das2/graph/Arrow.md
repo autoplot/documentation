@@ -1,6 +1,9 @@
-# org.das2.graph.ArrowAn arrow component that lives on the canvas, and utility methods
+# org.das2.graph.Arrow
+
+An arrow component that lives on the canvas, and utility methods
  for drawing arrows.
-Arrow( org.das2.graph.DasCanvas c, java.awt.Point head, java.awt.Point tail )
+
+# Arrow( org.das2.graph.DasCanvas c, java.awt.Point head, java.awt.Point tail )
 
 
 ***

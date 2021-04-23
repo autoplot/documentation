@@ -1,4 +1,7 @@
 # org.das2.graph.DasCanvas.Cell
+
+
+
 ***
 <a name="equals"></a>
 # equals

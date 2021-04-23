@@ -1,5 +1,8 @@
-# org.autoplot.cdf.CdfJavaDataSourceFactoryRead data from CDF files using the Java reader provided by NASA/Goddard.
-CdfJavaDataSourceFactory( )
+# org.autoplot.cdf.CdfJavaDataSourceFactory
+
+Read data from CDF files using the Java reader provided by NASA/Goddard.
+
+# CdfJavaDataSourceFactory( )
 Creates a new instance of CdfFileDataSourceFactory
 
 ***

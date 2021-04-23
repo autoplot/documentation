@@ -1,5 +1,8 @@
-# org.autoplot.asdatasource.AudioSystemDataSourceprovide a dataset by grabbing data from the desktop's audio system.
-AudioSystemDataSource( java.net.URI uri )
+# org.autoplot.asdatasource.AudioSystemDataSource
+
+provide a dataset by grabbing data from the desktop's audio system.
+
+# AudioSystemDataSource( java.net.URI uri )
 
 
 ***

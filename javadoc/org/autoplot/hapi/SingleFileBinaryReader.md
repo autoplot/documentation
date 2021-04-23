@@ -1,5 +1,8 @@
 # org.autoplot.hapi.SingleFileBinaryReader
-SingleFileBinaryReader( java.io.File f )
+
+
+
+# SingleFileBinaryReader( java.io.File f )
 
 
 ***

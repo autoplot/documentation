@@ -1,4 +1,7 @@
-# org.das2.graph.BorderTypeBorder types.
+# org.das2.graph.BorderType
+
+Border types.
+
 ***
 <a name="NONE"></a>
 # NONE

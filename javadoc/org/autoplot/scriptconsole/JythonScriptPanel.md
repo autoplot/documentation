@@ -1,5 +1,8 @@
-# org.autoplot.scriptconsole.JythonScriptPanelGUI for editing and running Jython scripts.
-JythonScriptPanel( org.autoplot.AutoplotUI app, org.autoplot.datasource.DataSetSelector selector )
+# org.autoplot.scriptconsole.JythonScriptPanel
+
+GUI for editing and running Jython scripts.
+
+# JythonScriptPanel( org.autoplot.AutoplotUI app, org.autoplot.datasource.DataSetSelector selector )
 Creates new form JythonScriptPanel
 
 ***

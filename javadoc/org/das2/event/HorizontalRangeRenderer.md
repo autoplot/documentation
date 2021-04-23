@@ -1,5 +1,8 @@
 # org.das2.event.HorizontalRangeRenderer
-HorizontalRangeRenderer( org.das2.graph.DasCanvasComponent parent )
+
+
+
+# HorizontalRangeRenderer( org.das2.graph.DasCanvasComponent parent )
 
 
 ***

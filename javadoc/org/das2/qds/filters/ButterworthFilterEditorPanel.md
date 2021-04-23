@@ -1,5 +1,8 @@
 # org.das2.qds.filters.ButterworthFilterEditorPanel
-ButterworthFilterEditorPanel( )
+
+
+
+# ButterworthFilterEditorPanel( )
 Creates new form ButterworthFilterEditorPane
 
 ***

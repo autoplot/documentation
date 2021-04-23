@@ -1,5 +1,8 @@
-# org.autoplot.pdsppi.PDSPPIDBClass containing the logic for communicating with the PDS-PPI database.
-PDSPPIDB( )
+# org.autoplot.pdsppi.PDSPPIDB
+
+Class containing the logic for communicating with the PDS-PPI database.
+
+# PDSPPIDB( )
 
 
 ***

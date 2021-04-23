@@ -1,5 +1,8 @@
 # org.das2.util.DenseConsoleFormatter
-DenseConsoleFormatter( )
+
+
+
+# DenseConsoleFormatter( )
 
 
 ***

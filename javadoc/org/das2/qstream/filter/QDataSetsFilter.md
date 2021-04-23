@@ -1,9 +1,12 @@
-# org.das2.qstream.filter.QDataSetsFilterUse this to promote the abstraction of the stream to QDataSets.  This was
+# org.das2.qstream.filter.QDataSetsFilter
+
+Use this to promote the abstraction of the stream to QDataSets.  This was
  introduced when it became clear that to introduce an FFT filter would be
  quite difficult with the StreamHandler interface.  For example, take a simple
  rank 2 spectrogram.  The DEPEND_1 tags can be encoded inline, or as a single
  packet.  It would be burdensome to have to handle both cases.
-QDataSetsFilter( )
+
+# QDataSetsFilter( )
 
 
 ***

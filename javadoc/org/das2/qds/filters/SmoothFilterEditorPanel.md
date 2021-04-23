@@ -1,5 +1,8 @@
 # org.das2.qds.filters.SmoothFilterEditorPanel
-SmoothFilterEditorPanel( )
+
+
+
+# SmoothFilterEditorPanel( )
 Creates new form SmoothFilterEditorPanel
 
 ***

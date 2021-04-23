@@ -1,5 +1,8 @@
-# org.das2.graph.LookupAxisThis is like a TCA, but is an axis which has ticks positioned by another axis.
-LookupAxis( org.das2.graph.DasAxis axis )
+# org.das2.graph.LookupAxis
+
+This is like a TCA, but is an axis which has ticks positioned by another axis.
+
+# LookupAxis( org.das2.graph.DasAxis axis )
 
 
 ***

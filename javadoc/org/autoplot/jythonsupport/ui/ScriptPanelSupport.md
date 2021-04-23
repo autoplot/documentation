@@ -1,5 +1,8 @@
 # org.autoplot.jythonsupport.ui.ScriptPanelSupport
-ScriptPanelSupport( org.autoplot.jythonsupport.ui.EditorTextPane editor )
+
+
+
+# ScriptPanelSupport( org.autoplot.jythonsupport.ui.EditorTextPane editor )
 
 
 ***

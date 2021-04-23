@@ -1,5 +1,8 @@
-# org.das2.qds.QubeDataSetIterator.SingletonIteratorFactoryFactory for iterator for a single index.
-SingletonIteratorFactory( int index )
+# org.das2.qds.QubeDataSetIterator.SingletonIteratorFactory
+
+Factory for iterator for a single index.
+
+# SingletonIteratorFactory( int index )
 
 
 ***

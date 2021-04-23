@@ -1,7 +1,10 @@
-# org.das2.datum.TimeParserTimeParser designed to quickly parse strings with a known format.  This parser has been
+# org.das2.datum.TimeParser
+
+TimeParser designed to quickly parse strings with a known format.  This parser has been
  shown to perform around 20 times faster than the discovery parser.
  
  This class is not thread-safe, so clients must make sure that only one thread accesses the class at a time.
+
 ***
 <a name="TIMEFORMAT_Z"></a>
 # TIMEFORMAT_Z

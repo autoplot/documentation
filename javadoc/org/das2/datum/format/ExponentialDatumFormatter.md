@@ -1,8 +1,11 @@
-# org.das2.datum.format.ExponentialDatumFormatterFormats Datums forcing a given exponent and number of decimal places.
+# org.das2.datum.format.ExponentialDatumFormatter
+
+Formats Datums forcing a given exponent and number of decimal places.
  This is useful for axes where each of the labels should have the same
  exponent.  Zero is treated specially, just "0" is returned.  This helps
  one to quickly identify zero on the axis.
-ExponentialDatumFormatter( int digits, int exponent )
+
+# ExponentialDatumFormatter( int digits, int exponent )
 
 
 ***

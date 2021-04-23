@@ -1,5 +1,8 @@
-# org.das2.qds.buffer.Int24DataSet3-byte integers, for example in some .wav formats.
-Int24DataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
+# org.das2.qds.buffer.Int24DataSet
+
+3-byte integers, for example in some .wav formats.
+
+# Int24DataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back )
 
 
 ***

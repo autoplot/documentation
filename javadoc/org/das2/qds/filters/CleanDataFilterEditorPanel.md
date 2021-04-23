@@ -1,5 +1,8 @@
-# org.das2.qds.filters.CleanDataFilterEditorPanelClean Data filter
-CleanDataFilterEditorPanel( )
+# org.das2.qds.filters.CleanDataFilterEditorPanel
+
+Clean Data filter
+
+# CleanDataFilterEditorPanel( )
 Creates new form SmoothFilterEditorPanel
 
 ***

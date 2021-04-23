@@ -1,9 +1,12 @@
-# org.das2.graph.DasColorBarAxis that converts to RGB color instead of horizontal or vertical
+# org.das2.graph.DasColorBar
+
+Axis that converts to RGB color instead of horizontal or vertical
  position.
-DasColorBar( Datum min, Datum max, boolean log )
+
+# DasColorBar( Datum min, Datum max, boolean log )
 Create an color bar object, relating data and color.
 
-DasColorBar( Datum min, Datum max, int orientation, boolean log )
+# DasColorBar( Datum min, Datum max, int orientation, boolean log )
 Create an color bar object, relating data and color.
 
 ***

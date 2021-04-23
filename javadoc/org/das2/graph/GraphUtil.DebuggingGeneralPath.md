@@ -1,4 +1,7 @@
-# org.das2.graph.GraphUtil.DebuggingGeneralPathDebuggingGeneralPath can be used for debugging.
+# org.das2.graph.GraphUtil.DebuggingGeneralPath
+
+DebuggingGeneralPath can be used for debugging.
+
 ***
 <a name="lineTo"></a>
 # lineTo

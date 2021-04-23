@@ -1,5 +1,8 @@
 # org.das2.client.StreamDataSetDescriptor
-StreamDataSetDescriptor( org.das2.stream.StreamDescriptor sd, org.das2.client.StandardDataStreamSource sdss )
+
+
+
+# StreamDataSetDescriptor( org.das2.stream.StreamDescriptor sd, org.das2.client.StandardDataStreamSource sdss )
 
 
 ***

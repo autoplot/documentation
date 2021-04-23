@@ -1,5 +1,8 @@
 # org.autoplot.datasource.ui.TableRowHeaderModel
-TableRowHeaderModel( javax.swing.JTable table )
+
+
+
+# TableRowHeaderModel( javax.swing.JTable table )
 
 
 ***

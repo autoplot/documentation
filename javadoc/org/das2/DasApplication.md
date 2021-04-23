@@ -1,5 +1,8 @@
-# org.das2.DasApplicationDasApplication object manages per-application resources, like object name space, 
+# org.das2.DasApplication
+
+DasApplication object manages per-application resources, like object name space, 
  dataset caching, progress monitoring, exception handling and a network speed limiter.
+
 ***
 <a name="createMainFrame"></a>
 # <del>createMainFrame</del>

@@ -1,4 +1,7 @@
-# org.das2.persistence.StatePersistenceProvides object serialization, using delegates to handle das2 immutable objects.
+# org.das2.persistence.StatePersistence
+
+Provides object serialization, using delegates to handle das2 immutable objects.
+
 ***
 <a name="restoreState"></a>
 # restoreState

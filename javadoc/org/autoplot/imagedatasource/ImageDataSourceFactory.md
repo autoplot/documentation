@@ -1,5 +1,8 @@
-# org.autoplot.imagedatasource.ImageDataSourceFactoryFactory for ImageDataSource, which read in images into datasets.
-ImageDataSourceFactory( )
+# org.autoplot.imagedatasource.ImageDataSourceFactory
+
+Factory for ImageDataSource, which read in images into datasets.
+
+# ImageDataSourceFactory( )
 
 
 ***

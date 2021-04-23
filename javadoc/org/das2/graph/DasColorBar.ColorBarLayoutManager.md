@@ -1,4 +1,7 @@
-# org.das2.graph.DasColorBar.ColorBarLayoutManagerTODO: Ed document me
+# org.das2.graph.DasColorBar.ColorBarLayoutManager
+
+TODO: Ed document me
+
 ***
 <a name="layoutContainer"></a>
 # layoutContainer

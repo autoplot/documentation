@@ -1,4 +1,7 @@
-# org.autoplot.pngwalk.QualityControlSequenceMirror WalkImageSequence, storing the global properties of the quality control.
+# org.autoplot.pngwalk.QualityControlSequence
+
+Mirror WalkImageSequence, storing the global properties of the quality control.
+
 ***
 <a name="getQCTotals"></a>
 # getQCTotals

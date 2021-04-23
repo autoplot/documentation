@@ -1,5 +1,8 @@
-# org.autoplot.das2Stream.QStreamDataSourceFormatFormat the data into QStreams.
-QStreamDataSourceFormat( )
+# org.autoplot.das2Stream.QStreamDataSourceFormat
+
+Format the data into QStreams.
+
+# QStreamDataSourceFormat( )
 
 
 ***

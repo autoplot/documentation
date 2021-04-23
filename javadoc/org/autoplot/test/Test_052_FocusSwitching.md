@@ -1,6 +1,9 @@
-# org.autoplot.test.Test_052_FocusSwitchingDemonstrate bug where switching between plots would reset filters
+# org.autoplot.test.Test_052_FocusSwitching
+
+Demonstrate bug where switching between plots would reset filters
  https://sourceforge.net/p/autoplot/bugs/1375/
-Test_052_FocusSwitching( )
+
+# Test_052_FocusSwitching( )
 
 
 ***

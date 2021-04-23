@@ -1,4 +1,7 @@
-# org.das2.catalog.DasDirNodeAll directory node objects can have children
+# org.das2.catalog.DasDirNode
+
+All directory node objects can have children
+
 ***
 <a name="childPath"></a>
 # childPath

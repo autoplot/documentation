@@ -1,4 +1,7 @@
-# org.das2.beans.RowRowConnectorBeanInfoBeanInfo class for DasColorBar
-RowRowConnectorBeanInfo( )
+# org.das2.beans.RowRowConnectorBeanInfo
+
+BeanInfo class for DasColorBar
+
+# RowRowConnectorBeanInfo( )
 
 

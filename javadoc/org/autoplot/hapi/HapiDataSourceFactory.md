@@ -1,5 +1,8 @@
-# org.autoplot.hapi.HapiDataSourceFactoryConstructor for HAPI data sources.
-HapiDataSourceFactory( )
+# org.autoplot.hapi.HapiDataSourceFactory
+
+Constructor for HAPI data sources.
+
+# HapiDataSourceFactory( )
 
 
 ***

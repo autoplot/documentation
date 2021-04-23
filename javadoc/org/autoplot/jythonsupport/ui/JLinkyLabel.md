@@ -1,4 +1,7 @@
-# org.autoplot.jythonsupport.ui.JLinkyLabelcheck for links in label.
-JLinkyLabel( java.net.URL context, String label )
+# org.autoplot.jythonsupport.ui.JLinkyLabel
+
+check for links in label.
+
+# JLinkyLabel( java.net.URL context, String label )
 
 

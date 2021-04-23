@@ -1,5 +1,8 @@
-# org.autoplot.hapiserver.NoCloseOutputStreamWriterLogger which wraps an output stream but will not close it when this
+# org.autoplot.hapiserver.NoCloseOutputStreamWriter
+
+Logger which wraps an output stream but will not close it when this
  OutputStreamWriter is closed.
+
 ***
 <a name="close"></a>
 # close

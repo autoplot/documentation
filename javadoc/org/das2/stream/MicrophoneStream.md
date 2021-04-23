@@ -1,5 +1,8 @@
 # org.das2.stream.MicrophoneStream
-MicrophoneStream( javax.sound.sampled.TargetDataLine line, javax.sound.sampled.AudioFileFormat.Type targetType, java.io.File file )
+
+
+
+# MicrophoneStream( javax.sound.sampled.TargetDataLine line, javax.sound.sampled.AudioFileFormat.Type targetType, java.io.File file )
 
 
 ***

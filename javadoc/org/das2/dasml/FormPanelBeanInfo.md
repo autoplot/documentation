@@ -1,4 +1,7 @@
-# org.das2.dasml.FormPanelBeanInfoBean info class for the FormPanel class
-FormPanelBeanInfo( )
+# org.das2.dasml.FormPanelBeanInfo
+
+Bean info class for the FormPanel class
+
+# FormPanelBeanInfo( )
 
 

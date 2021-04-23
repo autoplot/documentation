@@ -1,10 +1,13 @@
-# org.das2.datum.OrbitsOrbits are a map of string identifiers to DatumRanges, typically used to enumerate the orbits a spacecraft makes.
+# org.das2.datum.Orbits
+
+Orbits are a map of string identifiers to DatumRanges, typically used to enumerate the orbits a spacecraft makes.
  For example, Cassini orbit "C" was from 2004-366T07:03 to 2005-032T03:27 and "33" was from  2006-318T23:34 to 2006-330T22:23.
  There are two types of orbits: canonical, which have an identifier like "cassini" and can be used by the community, and user
  which have identifiers like  http://das2.org/wiki/index.php/testorbits .  In either case, these refer to a file.
  The canonical ones are stored on the das2 wiki at  http://das2.org/wiki/index.php/Orbits/&lt;id&gt;.  This file is a
  three-column ascii file with the orbit id in either the first or last column.  Note any line not meeting this spec is ignored,
  so that orbit files can contain additional documentation (and can sit within a wiki).
+
 ***
 <a name="compare"></a>
 # compare

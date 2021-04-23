@@ -1,6 +1,9 @@
-# org.das2.graph.DasCanvas.RowColumnLayoutLayout manager for managing the Row, Column layout implemented by swing.
+# org.das2.graph.DasCanvas.RowColumnLayout
+
+Layout manager for managing the Row, Column layout implemented by swing.
  This will probably change in the future when we move away from using
  swing to handle the DasCanvasComponents.
+
 ***
 <a name="addLayoutComponent"></a>
 # addLayoutComponent

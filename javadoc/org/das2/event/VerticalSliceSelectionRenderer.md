@@ -1,5 +1,8 @@
 # org.das2.event.VerticalSliceSelectionRenderer
-VerticalSliceSelectionRenderer( org.das2.graph.DasCanvasComponent parent )
+
+
+
+# VerticalSliceSelectionRenderer( org.das2.graph.DasCanvasComponent parent )
 Creates a new instance of VerticalLineSelectionRenderer
 
 ***

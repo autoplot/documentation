@@ -1,7 +1,10 @@
-# org.das2.qstream.StreamCommentStreamComment allows comments to be put onto the stream.
+# org.das2.qstream.StreamComment
+
+StreamComment allows comments to be put onto the stream.
  TODO: consider that comments should be sourced by the stream producer, but what about comments from filters?
    That is, if I'm a filter and I produce comments, should I throw out the comments I receive?
-StreamComment( String type, String message )
+
+# StreamComment( String type, String message )
 
 
 ***

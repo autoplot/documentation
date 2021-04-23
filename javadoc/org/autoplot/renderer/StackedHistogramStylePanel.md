@@ -1,5 +1,8 @@
-# org.autoplot.renderer.StackedHistogramStylePanelspecialized GUI for controlling the renderer.
-StackedHistogramStylePanel( )
+# org.autoplot.renderer.StackedHistogramStylePanel
+
+specialized GUI for controlling the renderer.
+
+# StackedHistogramStylePanel( )
 Creates new form StackedHistogramStylePane
 
 ***

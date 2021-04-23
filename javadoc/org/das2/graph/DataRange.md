@@ -1,5 +1,8 @@
 # org.das2.graph.DataRange
-DataRange( org.das2.graph.DasAxis parent, Datum min, Datum max, boolean log )
+
+
+
+# DataRange( org.das2.graph.DasAxis parent, Datum min, Datum max, boolean log )
 
 
 ***

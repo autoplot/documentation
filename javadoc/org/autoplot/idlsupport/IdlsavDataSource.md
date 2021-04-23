@@ -1,5 +1,8 @@
-# org.autoplot.idlsupport.IdlsavDataSourceRead a variable from an IDLSav file.
-IdlsavDataSource( java.net.URI uri )
+# org.autoplot.idlsupport.IdlsavDataSource
+
+Read a variable from an IDLSav file.
+
+# IdlsavDataSource( java.net.URI uri )
 
 
 ***

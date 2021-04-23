@@ -1,5 +1,8 @@
-# org.autoplot.datasource.ui.PromptTextFieldTextfield with help text when empty and not focused.
-PromptTextField( String label )
+# org.autoplot.datasource.ui.PromptTextField
+
+Textfield with help text when empty and not focused.
+
+# PromptTextField( String label )
 
 
 ***

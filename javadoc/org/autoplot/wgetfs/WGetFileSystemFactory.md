@@ -1,8 +1,11 @@
-# org.autoplot.wgetfs.WGetFileSystemFactoryImplemented to relieve all the annoying http problems we see at LANL.  If
+# org.autoplot.wgetfs.WGetFileSystemFactory
+
+Implemented to relieve all the annoying http problems we see at LANL.  If
  the system is a Mac, then curl is used, otherwise wget is used.  Either
  way, if the system environment property AP_WGET, WGET, AP_CURL, CURL is set
  then the implied executable is used.
-WGetFileSystemFactory( )
+
+# WGetFileSystemFactory( )
 
 
 ***

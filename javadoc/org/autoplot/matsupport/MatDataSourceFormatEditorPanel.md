@@ -1,5 +1,8 @@
 # org.autoplot.matsupport.MatDataSourceFormatEditorPanel
-MatDataSourceFormatEditorPanel( )
+
+
+
+# MatDataSourceFormatEditorPanel( )
 Creates new form BinaryDataSourceFormatEditorPanel
 
 ***

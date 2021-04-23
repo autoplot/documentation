@@ -1,4 +1,7 @@
-# org.autoplot.ApplicationModel.ResizeRequestListenerlisten for requests to change the size.  w,h is the new size.
+# org.autoplot.ApplicationModel.ResizeRequestListener
+
+listen for requests to change the size.  w,h is the new size.
+
 ***
 <a name="resize"></a>
 # resize

@@ -1,5 +1,8 @@
-# org.autoplot.dods.SPDFUtilstatic methods for helping to use the SPDF dods server.
-SPDFUtil( )
+# org.autoplot.dods.SPDFUtil
+
+static methods for helping to use the SPDF dods server.
+
+# SPDFUtil( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.event.PointSlopeDragRendererShows the slope from the click point to the drag point.
-PointSlopeDragRenderer( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
+# org.das2.event.PointSlopeDragRenderer
+
+Shows the slope from the click point to the drag point.
+
+# PointSlopeDragRenderer( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
 Creates a new instance of PointSlopeDragRenderer
 
 ***

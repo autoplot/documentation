@@ -1,9 +1,12 @@
-# org.das2.qds.TrimStrideWrapperWraps rank N qube dataset to present a dataset with the same rank that is a subset of
+# org.das2.qds.TrimStrideWrapper
+
+Wraps rank N qube dataset to present a dataset with the same rank that is a subset of
  wrapped dataset.
 
  Note this was used before trim() was a native operator for datasets, and it
  should be used when the zeroth dimension is trimmed with stride==1.
-TrimStrideWrapper( QDataSet ds )
+
+# TrimStrideWrapper( QDataSet ds )
 construct a wrapper with no trimming by default.  setTrim is
  called to trim a dimension.
 

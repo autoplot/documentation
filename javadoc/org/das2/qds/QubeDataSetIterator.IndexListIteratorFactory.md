@@ -1,5 +1,8 @@
-# org.das2.qds.QubeDataSetIterator.IndexListIteratorFactoryFactory for iterator that goes through a list of indeces.
-IndexListIteratorFactory( QDataSet ds )
+# org.das2.qds.QubeDataSetIterator.IndexListIteratorFactory
+
+Factory for iterator that goes through a list of indeces.
+
+# IndexListIteratorFactory( QDataSet ds )
 
 
 ***

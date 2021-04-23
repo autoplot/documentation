@@ -1,5 +1,8 @@
 # org.autoplot.renderer.DigitalStylePanel
-DigitalStylePanel( )
+
+
+
+# DigitalStylePanel( )
 Creates new form DigitalStylePanel
 
 ***

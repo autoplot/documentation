@@ -1,11 +1,14 @@
 # org.das2.math.matrix.ArrayMatrix
-ArrayMatrix( int rows, int columns )
 
 
-ArrayMatrix( double[] array, int rows, int columns )
+
+# ArrayMatrix( int rows, int columns )
 
 
-ArrayMatrix( org.das2.math.matrix.Matrix m )
+# ArrayMatrix( double[] array, int rows, int columns )
+
+
+# ArrayMatrix( org.das2.math.matrix.Matrix m )
 
 
 ***

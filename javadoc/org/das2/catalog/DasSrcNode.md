@@ -1,4 +1,7 @@
-# org.das2.catalog.DasSrcNodeSource nodes add extra functions to generic catalog nodes
+# org.das2.catalog.DasSrcNode
+
+Source nodes add extra functions to generic catalog nodes
+
 ***
 <a name="query"></a>
 # query

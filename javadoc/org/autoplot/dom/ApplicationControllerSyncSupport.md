@@ -1,2 +1,5 @@
-# org.autoplot.dom.ApplicationControllerSyncSupportSupport methods for synchronizing two Application trees with different
+# org.autoplot.dom.ApplicationControllerSyncSupport
+
+Support methods for synchronizing two Application trees with different
  geometries.
+

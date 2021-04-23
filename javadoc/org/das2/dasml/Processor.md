@@ -1,5 +1,8 @@
-# org.das2.dasml.ProcessorIntroduced to factor out all the dasml stuff from the graph package.
-Processor( )
+# org.das2.dasml.Processor
+
+Introduced to factor out all the dasml stuff from the graph package.
+
+# Processor( )
 
 
 ***

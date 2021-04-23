@@ -1,6 +1,9 @@
-# org.autoplot.orbit.OrbitDataSourceFactoryOrbit data sources added for demonstration purposes, but it will also be useful for showing
+# org.autoplot.orbit.OrbitDataSourceFactory
+
+Orbit data sources added for demonstration purposes, but it will also be useful for showing
  reference orbits.  An example URI is "vap+orbit:rbspa-pp&timerange=2014"
-OrbitDataSourceFactory( )
+
+# OrbitDataSourceFactory( )
 
 
 ***

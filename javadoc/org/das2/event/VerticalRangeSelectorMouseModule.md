@@ -1,5 +1,8 @@
 # org.das2.event.VerticalRangeSelectorMouseModule
-VerticalRangeSelectorMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis axis )
+
+
+
+# VerticalRangeSelectorMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis axis )
 
 
 ***

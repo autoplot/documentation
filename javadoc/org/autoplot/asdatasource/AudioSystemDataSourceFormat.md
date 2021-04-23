@@ -1,5 +1,8 @@
-# org.autoplot.asdatasource.AudioSystemDataSourceFormat"format" the data by streaming it out to the sound card.
-AudioSystemDataSourceFormat( )
+# org.autoplot.asdatasource.AudioSystemDataSourceFormat
+
+"format" the data by streaming it out to the sound card.
+
+# AudioSystemDataSourceFormat( )
 
 
 ***

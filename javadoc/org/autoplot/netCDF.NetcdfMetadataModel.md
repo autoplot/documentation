@@ -1,5 +1,8 @@
-# org.autoplot.netCDF.NetcdfMetadataModelThis was once used to implement scale_factor and add_offset, but is no longer used.
-NetcdfMetadataModel( )
+# org.autoplot.netCDF.NetcdfMetadataModel
+
+This was once used to implement scale_factor and add_offset, but is no longer used.
+
+# NetcdfMetadataModel( )
 Creates a new instance of NetcdfMetadataModel
 
 ***

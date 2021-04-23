@@ -1,4 +1,7 @@
-# org.das2.util.filesystem.WriteCapabilityThe FileObject can be written.
+# org.das2.util.filesystem.WriteCapability
+
+The FileObject can be written.
+
 ***
 <a name="canWrite"></a>
 # canWrite

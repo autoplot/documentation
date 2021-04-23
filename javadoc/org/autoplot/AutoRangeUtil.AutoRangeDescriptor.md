@@ -1,6 +1,9 @@
-# org.autoplot.AutoRangeUtil.AutoRangeDescriptorlegacy class for describing the results of the autorange routine.
+# org.autoplot.AutoRangeUtil.AutoRangeDescriptor
+
+legacy class for describing the results of the autorange routine.
  Note that QDataSet bounding cubes provide the same functionality.
-AutoRangeDescriptor( )
+
+# AutoRangeDescriptor( )
 
 
 ***

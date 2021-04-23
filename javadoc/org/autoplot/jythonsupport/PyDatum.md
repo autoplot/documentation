@@ -1,11 +1,14 @@
-# org.autoplot.jythonsupport.PyDatumWrap a das2 Datum, implementing operators.
-PyDatum( )
+# org.autoplot.jythonsupport.PyDatum
+
+Wrap a das2 Datum, implementing operators.
+
+# PyDatum( )
 findbugs says that because PyJavaInstance is externalizable, then there needs to be a no-arg constructor.
 
-PyDatum( Datum d )
+# PyDatum( Datum d )
 
 
-PyDatum( String s )
+# PyDatum( String s )
 create a PyDatum by parsing to Datum with Ops.datum.
 
 ***

@@ -1,8 +1,11 @@
-# org.das2.components.DataPointRecorderNewDataPointRecorderNew is a GUI for storing data points selected by the user.  
+# org.das2.components.DataPointRecorderNew
+
+DataPointRecorderNew is a GUI for storing data points selected by the user.  
  This is the old recorder but:
  1. uses QDataSet to handle the data.  No more strange internal object.
  2. allows the columns to be declared explicitly by code, and data is merged in by name.
-DataPointRecorderNew( )
+
+# DataPointRecorderNew( )
 Creates a new instance of DataPointRecorder
 
 ***

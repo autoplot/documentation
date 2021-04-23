@@ -1,13 +1,16 @@
-# org.das2.event.BoxSelectionEventThis is the range analog to the DataPointSelectionEvent.  The 
+# org.das2.event.BoxSelectionEvent
+
+This is the range analog to the DataPointSelectionEvent.  The 
  DataPointSelectionEvent is a point, and this is a box.
 
  Note that it's acceptable to have null xrange and yrange, so that the same
  code can support a variety of applications.  It's left to the programmer to
  see that these are used consistently.
-BoxSelectionEvent( Object source, DatumRange xrange, DatumRange yrange )
+
+# BoxSelectionEvent( Object source, DatumRange xrange, DatumRange yrange )
 create the BoxSelectionEvent with additional planes of data.
 
-BoxSelectionEvent( Object source, DatumRange xrange, DatumRange yrange, java.util.HashMap planes )
+# BoxSelectionEvent( Object source, DatumRange xrange, DatumRange yrange, java.util.HashMap planes )
 create the BoxSelectionEvent with additional planes of data.
 
 ***

@@ -1,6 +1,9 @@
-# org.autoplot.jythonsupport.JythonToJavaConverterexperiment with code which converts the Jython AST (syntax tree) into Java
+# org.autoplot.jythonsupport.JythonToJavaConverter
+
+experiment with code which converts the Jython AST (syntax tree) into Java
  code.
-JythonToJavaConverter( )
+
+# JythonToJavaConverter( )
 
 
 ***

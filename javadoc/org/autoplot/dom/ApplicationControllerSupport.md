@@ -1,4 +1,7 @@
 # org.autoplot.dom.ApplicationControllerSupport
+
+
+
 ***
 <a name="addScatter"></a>
 # addScatter

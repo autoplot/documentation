@@ -1,5 +1,8 @@
-# org.das2.event.BoxRangeSelectorMouseModule//@deprecated  use BoxSelectorMouseModule
-BoxRangeSelectorMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.dataset.DataSetConsumer consumer, org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis )
+# org.das2.event.BoxRangeSelectorMouseModule
+
+//@deprecated  use BoxSelectorMouseModule
+
+# BoxRangeSelectorMouseModule( org.das2.graph.DasCanvasComponent parent, org.das2.dataset.DataSetConsumer consumer, org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis )
 
 
 ***

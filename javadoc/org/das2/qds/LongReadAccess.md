@@ -1,7 +1,10 @@
-# org.das2.qds.LongReadAccessProvide access to the long array which backs the data.
+# org.das2.qds.LongReadAccess
+
+Provide access to the long array which backs the data.
  For example, this is used with LongDataSet to 
  provide access to the original TT2000 values of a 
  CDF file.
+
 ***
 <a name="lvalue"></a>
 # lvalue

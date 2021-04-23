@@ -1,4 +1,7 @@
-# org.das2.datum.TimeUtilVarious time utilities
+# org.das2.datum.TimeUtil
+
+Various time utilities
+
 ***
 <a name="YEAR"></a>
 # YEAR

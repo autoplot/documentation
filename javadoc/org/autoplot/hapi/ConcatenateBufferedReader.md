@@ -1,5 +1,8 @@
-# org.autoplot.hapi.ConcatenateBufferedReaderconcatenates multiple readers so that they appear as one reader.
-ConcatenateBufferedReader( )
+# org.autoplot.hapi.ConcatenateBufferedReader
+
+concatenates multiple readers so that they appear as one reader.
+
+# ConcatenateBufferedReader( )
 
 
 ***

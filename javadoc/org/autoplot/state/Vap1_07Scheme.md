@@ -1,7 +1,10 @@
-# org.autoplot.state.Vap1_07Schemein vap1.07, we add the properties:
+# org.autoplot.state.Vap1_07Scheme
+
+in vap1.07, we add the properties:
     plots[:].context
     plots[:].ticksURI
-Vap1_07Scheme( )
+
+# Vap1_07Scheme( )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.autoplot.OptionsDialogCustom GUI for editing options.  This should be
+# org.autoplot.OptionsDialog
+
+Custom GUI for editing options.  This should be
  presented in a modal dialog.
-OptionsDialog( )
+
+# OptionsDialog( )
 Creates new form OptionsDialog
 
 ***

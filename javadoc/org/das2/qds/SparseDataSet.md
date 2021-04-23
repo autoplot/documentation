@@ -1,10 +1,13 @@
-# org.das2.qds.SparseDataSetDataSet for storing sparse data.  This is used initially to describe bundles.
+# org.das2.qds.SparseDataSet
+
+DataSet for storing sparse data.  This is used initially to describe bundles.
  This returns 0 where no data has been set.  For example,
 <blockquote><pre>
 sp= SparseDataSet.createQube([2,4])
 sp[2,2]= 1
 print sp[0,0]
 </pre></blockquote>
+
 ***
 <a name="createQube"></a>
 # createQube

@@ -1,5 +1,8 @@
 # org.autoplot.state.TypeSafeEnumSerializeDelegate
-TypeSafeEnumSerializeDelegate( )
+
+
+
+# TypeSafeEnumSerializeDelegate( )
 
 
 ***

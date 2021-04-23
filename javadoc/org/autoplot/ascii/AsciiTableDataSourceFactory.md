@@ -1,5 +1,8 @@
-# org.autoplot.ascii.AsciiTableDataSourceFactoryFactory for AsciiTableDataSource readers for the ASCII table reader.
-AsciiTableDataSourceFactory( )
+# org.autoplot.ascii.AsciiTableDataSourceFactory
+
+Factory for AsciiTableDataSource readers for the ASCII table reader.
+
+# AsciiTableDataSourceFactory( )
 Creates a new instance of AsciiTableDataSourceFactory
 
 ***

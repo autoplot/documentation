@@ -1,6 +1,9 @@
-# org.autoplot.datasource.MetadataModelMaps various metadata models to set of canonical name/value pairs
+# org.autoplot.datasource.MetadataModel
+
+Maps various metadata models to set of canonical name/value pairs
  See QDataSet properties for list of properties.
-MetadataModel( )
+
+# MetadataModel( )
 
 
 ***

@@ -1,4 +1,6 @@
-# org.das2.graph.EventsRendererDraw colored horizontal bars for the dataset, marking events datasets or modes of the data.  This expects
+# org.das2.graph.EventsRenderer
+
+Draw colored horizontal bars for the dataset, marking events datasets or modes of the data.  This expects
  a QDataSet with the canonical scheme:
 <blockquote><pre><small>{@code
     Events[:,BUNDLE_1=4] where the columns are:
@@ -9,7 +11,8 @@
 }</small></pre></blockquote>
  Note this also contains systems for coloring data in old schemes, such as the colorSpecifier interface and textSpecifier.
  These should not be used when a dataset will be sufficient.
-EventsRenderer( )
+
+# EventsRenderer( )
 
 
 ***

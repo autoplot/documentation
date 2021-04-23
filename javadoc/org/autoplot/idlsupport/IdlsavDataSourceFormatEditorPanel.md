@@ -1,5 +1,8 @@
 # org.autoplot.idlsupport.IdlsavDataSourceFormatEditorPanel
-IdlsavDataSourceFormatEditorPanel( )
+
+
+
+# IdlsavDataSourceFormatEditorPanel( )
 Creates new form BinaryDataSourceFormatEditorPanel
 
 ***

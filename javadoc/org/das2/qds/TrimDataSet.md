@@ -1,6 +1,9 @@
-# org.das2.qds.TrimDataSetImplements Trim operation by wrapping dataset.
+# org.das2.qds.TrimDataSet
+
+Implements Trim operation by wrapping dataset.
  Supports rank 2 depend_1 datasets.  Supports CONTEXT_0, DataSetUtil.correlativeProperties()
-TrimDataSet( QDataSet ds, int start, int stop )
+
+# TrimDataSet( QDataSet ds, int start, int stop )
 
 
 ***

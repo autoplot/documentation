@@ -1,5 +1,8 @@
-# org.autoplot.idlsupport.IdlsavDataSourceFormatExport to idlsav support.  rank 1 datasets, rank 2 datasets, rank 3 datasets, and rank 2 bundles are supported.
-IdlsavDataSourceFormat( )
+# org.autoplot.idlsupport.IdlsavDataSourceFormat
+
+Export to idlsav support.  rank 1 datasets, rank 2 datasets, rank 3 datasets, and rank 2 bundles are supported.
+
+# IdlsavDataSourceFormat( )
 
 
 ***

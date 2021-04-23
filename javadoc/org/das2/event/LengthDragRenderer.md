@@ -1,5 +1,8 @@
-# org.das2.event.LengthDragRendererIndicate the length and the slope of the line.
-LengthDragRenderer( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
+# org.das2.event.LengthDragRenderer
+
+Indicate the length and the slope of the line.
+
+# LengthDragRenderer( org.das2.graph.DasCanvasComponent parent, org.das2.graph.DasAxis xaxis, org.das2.graph.DasAxis yaxis )
 Creates a new instance of PointSlopeDragRenderer
 
 ***

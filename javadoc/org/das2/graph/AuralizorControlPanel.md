@@ -1,5 +1,8 @@
 # org.das2.graph.AuralizorControlPanel
-AuralizorControlPanel( )
+
+
+
+# AuralizorControlPanel( )
 Creates new form AuralizorControlPanel
 
 ***

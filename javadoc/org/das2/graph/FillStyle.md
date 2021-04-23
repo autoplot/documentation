@@ -1,4 +1,7 @@
-# org.das2.graph.FillStyleControls if the symbols are filled or not.
+# org.das2.graph.FillStyle
+
+Controls if the symbols are filled or not.
+
 ***
 <a name="STYLE_FILL"></a>
 # STYLE_FILL

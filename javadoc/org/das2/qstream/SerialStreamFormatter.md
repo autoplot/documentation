@@ -1,4 +1,6 @@
-# org.das2.qstream.SerialStreamFormatterWe need a class that can format a stream serially.  SimpleStreamFormatter needs the whole dataset, which really
+# org.das2.qstream.SerialStreamFormatter
+
+We need a class that can format a stream serially.  SimpleStreamFormatter needs the whole dataset, which really
  misses the point with QStreams, that you can process and create data streams serially on the server side.  The
  das2stream codes were first coded with this use case, but QStreams were not and because of this a good serial
  generator was never created.
@@ -6,7 +8,8 @@
  See the main method for an example of how this is used.
 
  Note this class is not thread-safe and assumes that only one thread will be working on the stream.  This may change.
-SerialStreamFormatter( )
+
+# SerialStreamFormatter( )
 
 
 ***

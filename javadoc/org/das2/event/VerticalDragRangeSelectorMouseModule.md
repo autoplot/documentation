@@ -1,6 +1,9 @@
-# org.das2.event.VerticalDragRangeSelectorMouseModuleWith the HorizontalDragRangeRenderer and VerticalSpectrogramAverager,
+# org.das2.event.VerticalDragRangeSelectorMouseModule
+
+With the HorizontalDragRangeRenderer and VerticalSpectrogramAverager,
  this shows the average over an interval.
-VerticalDragRangeSelectorMouseModule( org.das2.graph.DasPlot parent, org.das2.dataset.DataSetConsumer dataSetConsumer, org.das2.graph.DasAxis axis )
+
+# VerticalDragRangeSelectorMouseModule( org.das2.graph.DasPlot parent, org.das2.dataset.DataSetConsumer dataSetConsumer, org.das2.graph.DasAxis axis )
 
 
 ***

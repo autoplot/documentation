@@ -1,5 +1,8 @@
-# org.autoplot.csv.CsvDataSourceFormatFormat data to CSV (comma separated values) file.
-CsvDataSourceFormat( )
+# org.autoplot.csv.CsvDataSourceFormat
+
+Format data to CSV (comma separated values) file.
+
+# CsvDataSourceFormat( )
 
 
 ***

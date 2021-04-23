@@ -1,6 +1,9 @@
-# org.das2.dataset.LanlNNRebinnerDataSetRebinner for explicitly doing NN rebinning.  The AverageTableRebinner had been used for the purpose, and
+# org.das2.dataset.LanlNNRebinner
+
+DataSetRebinner for explicitly doing NN rebinning.  The AverageTableRebinner had been used for the purpose, and
  there were numerous problems.  Also, this looks for BIN_PLUS, BIN_MINUS, BIN_MAX, and BIN_MIN properties in the dataset.
-LanlNNRebinner( )
+
+# LanlNNRebinner( )
 
 
 ***

@@ -1,6 +1,9 @@
-# org.autoplot.servlet.ShutdownListenerLister shuts down resources used by das2, such as its 
+# org.autoplot.servlet.ShutdownListener
+
+Lister shuts down resources used by das2, such as its 
  "RequestProcessor" thread pool.
-ShutdownListener( )
+
+# ShutdownListener( )
 
 
 ***

@@ -1,5 +1,8 @@
-# org.das2.util.OsUtilUtility methods for operating system functions.
-OsUtil( )
+# org.das2.util.OsUtil
+
+Utility methods for operating system functions.
+
+# OsUtil( )
 
 
 ***

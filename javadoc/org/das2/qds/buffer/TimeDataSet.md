@@ -1,8 +1,11 @@
-# org.das2.qds.buffer.TimeDataSetOften we see where time is left decoded in binary streams, occupying ~21 
+# org.das2.qds.buffer.TimeDataSet
+
+Often we see where time is left decoded in binary streams, occupying ~21 
  bytes (ASCII characters) instead of 8 bytes to represent them as a double.  This extension
  allows this sort of data to be read in as well, making the data available 
  as Units.us2000.
-TimeDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back, Object type )
+
+# TimeDataSet( int rank, int reclen, int recoffs, int len0, int len1, int len2, int len3, java.nio.ByteBuffer back, Object type )
 Like the other constructors, but the type is needed as well to get the 
  number of bytes.
 

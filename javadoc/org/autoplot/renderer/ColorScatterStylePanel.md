@@ -1,5 +1,8 @@
-# org.autoplot.renderer.ColorScatterStylePanelLike the SeriesStylePanel, but color is removed and colorbar added.
-ColorScatterStylePanel( )
+# org.autoplot.renderer.ColorScatterStylePanel
+
+Like the SeriesStylePanel, but color is removed and colorbar added.
+
+# ColorScatterStylePanel( )
 Creates new form PlotStylePanel
 
 ***

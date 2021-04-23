@@ -1,5 +1,8 @@
-# org.das2.qstream.filter.PipeFilterAllow filters to be used from the command line.  Currently this just uses the reduce filter.
-PipeFilter( )
+# org.das2.qstream.filter.PipeFilter
+
+Allow filters to be used from the command line.  Currently this just uses the reduce filter.
+
+# PipeFilter( )
 
 
 ***
