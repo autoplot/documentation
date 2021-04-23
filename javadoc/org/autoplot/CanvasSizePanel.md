@@ -15,6 +15,8 @@ the jRadioButton2
 
 <a href="https://github.com/autoplot/dev/search?q=getFixedRadioButton&unscoped_q=getFixedRadioButton">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getHeightTextField"></a>
 # getHeightTextField
@@ -26,6 +28,8 @@ getHeightTextField(  ) &rarr; JFormattedTextField
 the heightTextField
 
 <a href="https://github.com/autoplot/dev/search?q=getHeightTextField&unscoped_q=getHeightTextField">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getResizeRadioButton"></a>
@@ -39,6 +43,8 @@ the jRadioButton1
 
 <a href="https://github.com/autoplot/dev/search?q=getResizeRadioButton&unscoped_q=getResizeRadioButton">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWidthTextField"></a>
 # getWidthTextField
@@ -50,4 +56,6 @@ getWidthTextField(  ) &rarr; JFormattedTextField
 the widthTextField
 
 <a href="https://github.com/autoplot/dev/search?q=getWidthTextField&unscoped_q=getWidthTextField">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

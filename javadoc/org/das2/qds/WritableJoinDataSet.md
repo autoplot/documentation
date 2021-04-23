@@ -25,6 +25,8 @@ an org.das2.qds.WritableDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putValue"></a>
 # putValue
@@ -40,6 +42,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putValue( int i0, double d ) &rarr; void<br>
 putValue( int i0, int i1, double d ) &rarr; void<br>

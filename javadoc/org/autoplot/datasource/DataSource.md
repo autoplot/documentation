@@ -14,6 +14,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=asynchronousLoad&unscoped_q=asynchronousLoad">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCapability"></a>
 # getCapability
@@ -37,6 +39,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getCapability&unscoped_q=getCapability">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSet"></a>
 # getDataSet
@@ -59,6 +63,8 @@ the DataSet for the URI, or null if no data is available.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMetadata"></a>
 # getMetadata
@@ -80,6 +86,8 @@ a java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadata&unscoped_q=getMetadata">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMetadataModel"></a>
 # getMetadataModel
@@ -93,6 +101,8 @@ an org.autoplot.datasource.MetadataModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadataModel&unscoped_q=getMetadataModel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getProperties"></a>
@@ -108,6 +118,8 @@ the properties.
 
 <a href="https://github.com/autoplot/dev/search?q=getProperties&unscoped_q=getProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getURI"></a>
 # getURI
@@ -120,4 +132,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

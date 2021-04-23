@@ -55,6 +55,8 @@ java.lang.String[]
 
 <a href="https://github.com/autoplot/dev/search?q=IDLTokenizer&unscoped_q=IDLTokenizer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parseIDLArray"></a>
 # parseIDLArray
@@ -70,6 +72,8 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseIDLArray&unscoped_q=parseIDLArray">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parseIDLArrayTokens"></a>
@@ -88,6 +92,8 @@ org.das2.util.IDLValue
 
 <a href="https://github.com/autoplot/dev/search?q=parseIDLArrayTokens&unscoped_q=parseIDLArrayTokens">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parseIDLScalar"></a>
 # parseIDLScalar
@@ -103,4 +109,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseIDLScalar&unscoped_q=parseIDLScalar">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

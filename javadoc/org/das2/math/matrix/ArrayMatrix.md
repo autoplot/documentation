@@ -24,6 +24,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="get"></a>
 # get
@@ -41,6 +43,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rowTimes"></a>
 # rowTimes
@@ -57,6 +61,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=rowTimes&unscoped_q=rowTimes">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="rowTimesAddTo"></a>
@@ -76,6 +82,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=rowTimesAddTo&unscoped_q=rowTimesAddTo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="set"></a>
 # set
@@ -94,6 +102,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=set&unscoped_q=set">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="swapRows"></a>
 # swapRows
@@ -110,4 +120,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=swapRows&unscoped_q=swapRows">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=dataSetUpdated&unscoped_q=dataSetUpdated">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCurrentRequest"></a>
 # getCurrentRequest
@@ -30,6 +32,8 @@ org.das2.graph.DataLoader.Request
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCurrentRequest&unscoped_q=getCurrentRequest">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSetDescriptor"></a>
@@ -44,6 +48,8 @@ org.das2.dataset.DataSetDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetDescriptor&unscoped_q=getDataSetDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUnsolicitedRequests"></a>
 # getUnsolicitedRequests
@@ -56,6 +62,8 @@ org.das2.graph.DataLoader.Request[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUnsolicitedRequests&unscoped_q=getUnsolicitedRequests">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getUnsolicitedRequests( int i ) &rarr; Request<br>
 ***
@@ -70,6 +78,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFullResolution&unscoped_q=isFullResolution">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSetDescriptor"></a>
@@ -87,6 +97,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetDescriptor&unscoped_q=setDataSetDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFullResolution"></a>
 # setFullResolution
@@ -102,6 +114,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFullResolution&unscoped_q=setFullResolution">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setReloadDataSet"></a>
@@ -119,6 +133,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setReloadDataSet&unscoped_q=setReloadDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="update"></a>
 # update
@@ -131,4 +147,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

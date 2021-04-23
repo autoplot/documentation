@@ -19,6 +19,8 @@ java.awt.image.BufferedImage
 
 <a href="https://github.com/autoplot/dev/search?q=createCompatibleDestImage&unscoped_q=createCompatibleDestImage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="filter"></a>
 # filter
@@ -36,6 +38,8 @@ java.awt.image.BufferedImage
 
 <a href="https://github.com/autoplot/dev/search?q=filter&unscoped_q=filter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBounds2D"></a>
 # getBounds2D
@@ -51,6 +55,8 @@ java.awt.geom.Rectangle2D
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBounds2D&unscoped_q=getBounds2D">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPoint2D"></a>
@@ -69,6 +75,8 @@ java.awt.geom.Point2D
 
 <a href="https://github.com/autoplot/dev/search?q=getPoint2D&unscoped_q=getPoint2D">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRenderingHints"></a>
 # getRenderingHints
@@ -81,4 +89,6 @@ java.awt.RenderingHints
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderingHints&unscoped_q=getRenderingHints">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

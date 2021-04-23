@@ -19,6 +19,8 @@ a connection, typically the same one as passed in.
 
 <a href="https://github.com/autoplot/dev/search?q=checkRedirect&unscoped_q=checkRedirect">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="consumeStream"></a>
 # consumeStream
@@ -38,6 +40,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=consumeStream&unscoped_q=consumeStream">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="copyConnectProperties"></a>
 # copyConnectProperties
@@ -54,6 +58,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyConnectProperties&unscoped_q=copyConnectProperties">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMetadata"></a>
@@ -75,4 +81,6 @@ the metadata
 <a href='WebProtocol.md#HTTP_RESPONSE_CODE'>WebProtocol#HTTP_RESPONSE_CODE</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadata&unscoped_q=getMetadata">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

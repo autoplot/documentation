@@ -28,6 +28,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=enterSandbox&unscoped_q=enterSandbox">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSandboxManager"></a>
 # getSandboxManager
@@ -48,4 +50,6 @@ a java.lang.SecurityManager
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSandboxManager&unscoped_q=getSandboxManager">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

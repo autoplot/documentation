@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=copyOptions&unscoped_q=copyOptions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setOptions"></a>
 # setOptions
@@ -34,4 +36,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOptions&unscoped_q=setOptions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

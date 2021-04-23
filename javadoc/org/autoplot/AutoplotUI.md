@@ -76,6 +76,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=about&unscoped_q=about">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="basicMode"></a>
 # basicMode
@@ -89,6 +91,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=basicMode&unscoped_q=basicMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="clearBottomPanel"></a>
 # clearBottomPanel
@@ -101,6 +105,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearBottomPanel&unscoped_q=clearBottomPanel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="clearLeftPanel"></a>
@@ -118,6 +124,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=clearLeftPanel&unscoped_q=clearLeftPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="clearRightPanel"></a>
 # clearRightPanel
@@ -130,6 +138,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearRightPanel&unscoped_q=clearRightPanel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="enterAddPlotElementDialog"></a>
@@ -144,6 +154,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=enterAddPlotElementDialog&unscoped_q=enterAddPlotElementDialog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getApplicationModel"></a>
 # getApplicationModel
@@ -155,6 +167,8 @@ provide access to the universal application model.
 access to the universal application model.
 
 <a href="https://github.com/autoplot/dev/search?q=getApplicationModel&unscoped_q=getApplicationModel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataPanel"></a>
@@ -168,6 +182,8 @@ the data panel.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataPanel&unscoped_q=getDataPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetSelector"></a>
 # getDataSetSelector
@@ -179,6 +195,8 @@ provide access to the dataSetSelector which browses and resets the plot URIs.
 the dataSetSelector
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetSelector&unscoped_q=getDataSetSelector">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDocumentModel"></a>
@@ -195,6 +213,8 @@ the application state.
 
 <a href="https://github.com/autoplot/dev/search?q=getDocumentModel&unscoped_q=getDocumentModel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDom"></a>
 # getDom
@@ -206,6 +226,8 @@ return the dom (application state) associated with this application.
 the dom associated with this application.
 
 <a href="https://github.com/autoplot/dev/search?q=getDom&unscoped_q=getDom">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDropTargetListener"></a>
@@ -219,6 +241,8 @@ the dropListener.
 
 <a href="https://github.com/autoplot/dev/search?q=getDropTargetListener&unscoped_q=getDropTargetListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEditorCard"></a>
 # getEditorCard
@@ -231,6 +255,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEditorCard&unscoped_q=getEditorCard">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPersistentStateSupport"></a>
@@ -249,6 +275,8 @@ org.autoplot.PersistentStateSupport
 
 <a href="https://github.com/autoplot/dev/search?q=getPersistentStateSupport&unscoped_q=getPersistentStateSupport">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getProcessId"></a>
 # getProcessId
@@ -263,6 +291,8 @@ fallback - the string (null is okay) to return when the pid cannot be found.
 the process id or the fallback provided by the caller.
 
 <a href="https://github.com/autoplot/dev/search?q=getProcessId&unscoped_q=getProcessId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getScriptEditor"></a>
@@ -279,6 +309,8 @@ null or the editor panel
 <a href='#getScriptPanel'>getScriptPanel()</a> which returns the panel<br>
 
 <a href="https://github.com/autoplot/dev/search?q=getScriptEditor&unscoped_q=getScriptEditor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getScriptPanel"></a>
@@ -301,6 +333,8 @@ the editor panel in the script tab.
 
 <a href="https://github.com/autoplot/dev/search?q=getScriptPanel&unscoped_q=getScriptPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTabs"></a>
 # getTabs
@@ -312,6 +346,8 @@ provide access to the tabs so that component can be added
 TabbedPane.
 
 <a href="https://github.com/autoplot/dev/search?q=getTabs&unscoped_q=getTabs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTickleTimer"></a>
@@ -326,6 +362,8 @@ an org.autoplot.util.TickleTimer
 
 <a href="https://github.com/autoplot/dev/search?q=getTickleTimer&unscoped_q=getTickleTimer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTimeRangeEditor"></a>
 # getTimeRangeEditor
@@ -337,6 +375,8 @@ provide access to the timeRangeEditor which controls dom.timerange.
 the timeRangeEditor
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRangeEditor&unscoped_q=getTimeRangeEditor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUndoRedoSupport"></a>
@@ -350,6 +390,8 @@ the undoRedoSupport.
 
 <a href="https://github.com/autoplot/dev/search?q=getUndoRedoSupport&unscoped_q=getUndoRedoSupport">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWindowExtraHeight"></a>
 # getWindowExtraHeight
@@ -362,6 +404,8 @@ the extra pixels needed by the GUI for borders and address bar.
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowExtraHeight&unscoped_q=getWindowExtraHeight">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWindowExtraWidth"></a>
 # getWindowExtraWidth
@@ -373,6 +417,8 @@ return the extra pixels needed by the GUI for borders and address bar.
 the extra pixels needed by the GUI for borders and address bar.
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowExtraWidth&unscoped_q=getWindowExtraWidth">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="handleSingleInstanceURI"></a>
@@ -391,6 +437,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=handleSingleInstanceURI&unscoped_q=handleSingleInstanceURI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isBasicMode"></a>
 # isBasicMode
@@ -404,6 +452,8 @@ true if the GUI is in basic mode
 
 <a href="https://github.com/autoplot/dev/search?q=isBasicMode&unscoped_q=isBasicMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isExpertMode"></a>
 # isExpertMode
@@ -415,6 +465,8 @@ true if the GUI is in expert mode, showing more functions for users comfortable 
 true if the GUI is in expert mode
 
 <a href="https://github.com/autoplot/dev/search?q=isExpertMode&unscoped_q=isExpertMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -432,6 +484,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="newApplication"></a>
 # newApplication
@@ -444,6 +498,8 @@ an org.autoplot.AutoplotUI
 
 
 <a href="https://github.com/autoplot/dev/search?q=newApplication&unscoped_q=newApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="plotUri"></a>
@@ -463,6 +519,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=plotUri&unscoped_q=plotUri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="raiseApplicationWindow"></a>
 # raiseApplicationWindow
@@ -480,6 +538,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=raiseApplicationWindow&unscoped_q=raiseApplicationWindow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reloadTools"></a>
 # reloadTools
@@ -492,6 +552,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reloadTools&unscoped_q=reloadTools">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resetAction"></a>
@@ -511,6 +573,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resetAction&unscoped_q=resetAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resizeForCanvasSize"></a>
 # resizeForCanvasSize
@@ -529,6 +593,8 @@ nominal scale factor
 
 <a href="https://github.com/autoplot/dev/search?q=resizeForCanvasSize&unscoped_q=resizeForCanvasSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 resizeForCanvasSize( int w, int h, int extraW, int extraH ) &rarr; double<br>
 ***
 <a name="resizeForDefaultCanvasSize"></a>
@@ -542,6 +608,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resizeForDefaultCanvasSize&unscoped_q=resizeForDefaultCanvasSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="reviewBookmark"></a>
@@ -563,6 +631,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=reviewBookmark&unscoped_q=reviewBookmark">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="runScriptTools"></a>
 # runScriptTools
@@ -579,6 +649,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=runScriptTools&unscoped_q=runScriptTools">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setBottomPanel"></a>
@@ -599,6 +671,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setBottomPanel&unscoped_q=setBottomPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEditorCard"></a>
 # setEditorCard
@@ -615,6 +689,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setEditorCard&unscoped_q=setEditorCard">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setExpertMode"></a>
 # setExpertMode
@@ -630,6 +706,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setExpertMode&unscoped_q=setExpertMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLeftPanel"></a>
@@ -653,6 +731,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLeftPanel&unscoped_q=setLeftPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMessage"></a>
 # setMessage
@@ -668,6 +748,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMessage&unscoped_q=setMessage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setMessage( javax.swing.Icon icon, String message ) &rarr; void<br>
 ***
@@ -689,6 +771,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRightPanel&unscoped_q=setRightPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSize"></a>
 # setSize
@@ -705,6 +789,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSize&unscoped_q=setSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setSize( java.awt.Dimension d ) &rarr; void<br>
 ***
@@ -723,6 +809,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setStatus&unscoped_q=setStatus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 setStatus( javax.swing.Icon icon, String message ) &rarr; void<br>
 ***
 <a name="switchToEditorCard"></a>
@@ -739,4 +827,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=switchToEditorCard&unscoped_q=switchToEditorCard">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

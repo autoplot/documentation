@@ -68,6 +68,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addPropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="addUpdateListener"></a>
@@ -85,6 +87,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addUpdateListener&unscoped_q=addUpdateListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="contains"></a>
 # contains
@@ -99,6 +103,8 @@ x - the pixel position
 true if ( getDMinimum() &lt;= x ) &amp;&amp; ( x &lt;= getDMaximum() );
 
 <a href="https://github.com/autoplot/dev/search?q=contains&unscoped_q=contains">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="formatFormatStr"></a>
@@ -118,6 +124,8 @@ String like "100%-5em+4pt"
 
 <a href="https://github.com/autoplot/dev/search?q=formatFormatStr&unscoped_q=formatFormatStr">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="formatLayoutStr"></a>
 # formatLayoutStr
@@ -136,6 +144,8 @@ String like "100%-5em+4pt"
 
 <a href="https://github.com/autoplot/dev/search?q=formatLayoutStr&unscoped_q=formatLayoutStr">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDMaximum"></a>
 # getDMaximum
@@ -149,6 +159,8 @@ the pixel position (pixel=point for now)
 
 <a href="https://github.com/autoplot/dev/search?q=getDMaximum&unscoped_q=getDMaximum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDMiddle"></a>
 # getDMiddle
@@ -160,6 +172,8 @@ returns pixel position (device position) of the the middle of the row or column
 pixel position (device position) of the the middle of the row or column
 
 <a href="https://github.com/autoplot/dev/search?q=getDMiddle&unscoped_q=getDMiddle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDMinimum"></a>
@@ -174,6 +188,8 @@ the pixel position (pixel=point for now)
 
 <a href="https://github.com/autoplot/dev/search?q=getDMinimum&unscoped_q=getDMinimum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDasName"></a>
 # getDasName
@@ -185,6 +201,8 @@ get the name associated with this object.
 the name associated with this object.
 
 <a href="https://github.com/autoplot/dev/search?q=getDasName&unscoped_q=getDasName">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getEmMaximum"></a>
@@ -198,6 +216,8 @@ the em offset that controls the position of the bottom/right boundary.
 
 <a href="https://github.com/autoplot/dev/search?q=getEmMaximum&unscoped_q=getEmMaximum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEmMinimum"></a>
 # getEmMinimum
@@ -209,6 +229,8 @@ return the em offset that controls the position of the top/left boundary.
 the em offset that controls the position of the top/left boundary.
 
 <a href="https://github.com/autoplot/dev/search?q=getEmMinimum&unscoped_q=getEmMinimum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getEmSize"></a>
@@ -223,6 +245,8 @@ the em height in points.
 
 <a href="https://github.com/autoplot/dev/search?q=getEmSize&unscoped_q=getEmSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMaximum"></a>
 # getMaximum
@@ -234,6 +258,8 @@ return the normal position control of the bottom/right.
 the normal position control of the bottom/right.
 
 <a href="https://github.com/autoplot/dev/search?q=getMaximum&unscoped_q=getMaximum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMinimum"></a>
@@ -247,6 +273,8 @@ the normal position control of the top/left.
 
 <a href="https://github.com/autoplot/dev/search?q=getMinimum&unscoped_q=getMinimum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParent"></a>
 # getParent
@@ -258,6 +286,8 @@ return the parent canvas.
 the parent canvas.
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getParentDevicePosition"></a>
@@ -272,6 +302,8 @@ the parent, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getParentDevicePosition&unscoped_q=getParentDevicePosition">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPtMaximum"></a>
 # getPtMaximum
@@ -283,6 +315,8 @@ return the points offset that controls the position of the bottom/right boundary
 the points offset that controls the position of the bottom/right boundary.
 
 <a href="https://github.com/autoplot/dev/search?q=getPtMaximum&unscoped_q=getPtMaximum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPtMinimum"></a>
@@ -296,6 +330,8 @@ the points offset
 
 <a href="https://github.com/autoplot/dev/search?q=getPtMinimum&unscoped_q=getPtMinimum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isValueIsAdjusting"></a>
 # isValueIsAdjusting
@@ -308,6 +344,8 @@ return true if the value is currently adjusting because a
 true if the value is currently adjusting.
 
 <a href="https://github.com/autoplot/dev/search?q=isValueIsAdjusting&unscoped_q=isValueIsAdjusting">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parseFormatStr"></a>
@@ -333,6 +371,8 @@ the length in pixels (or points).
 
 <a href="https://github.com/autoplot/dev/search?q=parseLayoutStr&unscoped_q=parseLayoutStr">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 parseLayoutStr( String s ) &rarr; double<br>
 parseLayoutStr( org.das2.graph.DasDevicePosition pos, String spec ) &rarr; void<br>
 ***
@@ -347,6 +387,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeListeners&unscoped_q=removeListeners">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -365,6 +407,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 removePropertyChangeListener( java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="removeUpdateListener"></a>
@@ -381,6 +425,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeUpdateListener&unscoped_q=removeUpdateListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDMaximum"></a>
@@ -400,6 +446,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDMaximum&unscoped_q=setDMaximum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDMinimum"></a>
 # setDMinimum
@@ -416,6 +464,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDMinimum&unscoped_q=setDMinimum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDPosition"></a>
@@ -434,6 +484,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDPosition&unscoped_q=setDPosition">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDasName"></a>
 # setDasName
@@ -449,6 +501,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDasName&unscoped_q=setDasName">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setEmMaximum"></a>
@@ -466,6 +520,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setEmMaximum&unscoped_q=setEmMaximum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEmMinimum"></a>
 # setEmMinimum
@@ -481,6 +537,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEmMinimum&unscoped_q=setEmMinimum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setMax"></a>
@@ -500,6 +558,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setMax&unscoped_q=setMax">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMaximum"></a>
 # setMaximum
@@ -516,6 +576,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMaximum&unscoped_q=setMaximum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setMin"></a>
@@ -535,6 +597,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setMin&unscoped_q=setMin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMinimum"></a>
 # setMinimum
@@ -552,6 +616,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setMinimum&unscoped_q=setMinimum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setParent"></a>
 # setParent
@@ -567,6 +633,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setParent&unscoped_q=setParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPtMaximum"></a>
@@ -584,6 +652,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPtMaximum&unscoped_q=setPtMaximum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPtMinimum"></a>
 # setPtMinimum
@@ -599,6 +669,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPtMinimum&unscoped_q=setPtMinimum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="toRectangle"></a>
@@ -617,6 +689,8 @@ rectangle in canvas pixel coordinates.
 
 <a href="https://github.com/autoplot/dev/search?q=toRectangle&unscoped_q=toRectangle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -628,4 +702,6 @@ return a human-readable string representing the object for debugging.
 a human-readable string representing the object for debugging.
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

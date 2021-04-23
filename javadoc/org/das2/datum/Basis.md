@@ -88,6 +88,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getDescription&unscoped_q=getDescription">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getId"></a>
 # getId
@@ -100,6 +102,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getId&unscoped_q=getId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getOffset"></a>
@@ -118,6 +122,8 @@ a double
 
 <a href="https://github.com/autoplot/dev/search?q=getOffset&unscoped_q=getOffset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -133,6 +139,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="registerConverter"></a>
@@ -152,6 +160,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=registerConverter&unscoped_q=registerConverter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -164,4 +174,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

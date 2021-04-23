@@ -12,6 +12,8 @@ org.autoplot.dom.Canvas
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvas&unscoped_q=getCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDasColumn"></a>
 # getDasColumn
@@ -24,6 +26,8 @@ org.das2.graph.DasColumn
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasColumn&unscoped_q=getDasColumn">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isLayoutEqual"></a>
@@ -40,6 +44,8 @@ true if they are equal.
 
 <a href="https://github.com/autoplot/dev/search?q=isLayoutEqual&unscoped_q=isLayoutEqual">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeBindings"></a>
 # removeBindings
@@ -53,6 +59,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeBindings&unscoped_q=removeBindings">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeReferences"></a>
 # removeReferences
@@ -65,4 +73,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeReferences&unscoped_q=removeReferences">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

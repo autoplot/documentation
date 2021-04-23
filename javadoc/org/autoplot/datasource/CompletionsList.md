@@ -21,3 +21,5 @@ javax.swing.JPopupMenu
 
 <a href="https://github.com/autoplot/dev/search?q=fillPopupNew&unscoped_q=fillPopupNew">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

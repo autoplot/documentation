@@ -15,6 +15,8 @@ org.das2.datum.DatumVector
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doubleValue"></a>
 # doubleValue
@@ -32,6 +34,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=doubleValue&unscoped_q=doubleValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="get"></a>
 # get
@@ -48,6 +52,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLength"></a>
 # getLength
@@ -60,6 +66,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLength&unscoped_q=getLength">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSubVector"></a>
@@ -77,6 +85,8 @@ the DatumVector
 
 <a href="https://github.com/autoplot/dev/search?q=getSubVector&unscoped_q=getSubVector">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUnits"></a>
 # getUnits
@@ -89,6 +99,8 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="multiply"></a>
@@ -106,6 +118,8 @@ org.das2.datum.DatumVector
 
 <a href="https://github.com/autoplot/dev/search?q=multiply&unscoped_q=multiply">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="newDatumVector"></a>
 # newDatumVector
@@ -122,6 +136,8 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=newDatumVector&unscoped_q=newDatumVector">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 newDatumVector( double[] array, Units units ) &rarr; DatumVector<br>
 newDatumVector( double[] array, double resolution, Units units ) &rarr; DatumVector<br>
@@ -142,6 +158,8 @@ org.das2.datum.DatumVector
 
 <a href="https://github.com/autoplot/dev/search?q=subtract&unscoped_q=subtract">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toDoubleArray"></a>
 # toDoubleArray
@@ -158,6 +176,8 @@ double[]
 
 <a href="https://github.com/autoplot/dev/search?q=toDoubleArray&unscoped_q=toDoubleArray">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 toDoubleArray( double[] array, Units units ) &rarr; double<br>
 ***
 <a name="toString"></a>
@@ -171,4 +191,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

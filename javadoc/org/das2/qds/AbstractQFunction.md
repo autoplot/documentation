@@ -16,6 +16,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=exampleInput&unscoped_q=exampleInput">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="exampleOutput"></a>
 # exampleOutput
@@ -28,6 +30,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=exampleOutput&unscoped_q=exampleOutput">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="value"></a>
@@ -45,6 +49,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="values"></a>
 # values
@@ -61,4 +67,6 @@ vs - rank N+1 set of values, where {@code exampleInput} returns rank N.
 rank M+1 set of values, where {@code value} returns rank M.
 
 <a href="https://github.com/autoplot/dev/search?q=values&unscoped_q=values">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -15,6 +15,8 @@ javax.swing.JLabel
 
 <a href="https://github.com/autoplot/dev/search?q=getInstructionsLabel&unscoped_q=getInstructionsLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMessageLabel"></a>
 # getMessageLabel
@@ -27,6 +29,8 @@ javax.swing.JLabel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMessageLabel&unscoped_q=getMessageLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMyEdit"></a>
@@ -41,6 +45,8 @@ javax.swing.JTable
 
 <a href="https://github.com/autoplot/dev/search?q=getMyEdit&unscoped_q=getMyEdit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRenderersComboBox"></a>
 # getRenderersComboBox
@@ -53,6 +59,8 @@ javax.swing.JComboBox
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderersComboBox&unscoped_q=getRenderersComboBox">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getYClip"></a>
@@ -67,6 +75,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=getYClip&unscoped_q=getYClip">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getYClipCheckBox"></a>
 # getYClipCheckBox
@@ -79,4 +89,6 @@ javax.swing.JCheckBox
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYClipCheckBox&unscoped_q=getYClipCheckBox">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

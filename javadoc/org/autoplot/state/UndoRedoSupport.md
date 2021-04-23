@@ -44,6 +44,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addPropertyChangeListener( java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="getDepth"></a>
@@ -57,6 +59,8 @@ get the current depth, where depth can be lower than the number of
 the current depth.
 
 <a href="https://github.com/autoplot/dev/search?q=getDepth&unscoped_q=getDepth">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLongUndoDescription"></a>
@@ -74,6 +78,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getLongUndoDescription&unscoped_q=getLongUndoDescription">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRedoAction"></a>
 # getRedoAction
@@ -85,6 +91,8 @@ get the action to trigger redo.
 action that can be attached to button.
 
 <a href="https://github.com/autoplot/dev/search?q=getRedoAction&unscoped_q=getRedoAction">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRedoDescription"></a>
@@ -98,6 +106,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRedoDescription&unscoped_q=getRedoDescription">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRedoLabel"></a>
@@ -113,6 +123,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getRedoLabel&unscoped_q=getRedoLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSaveStateDepth"></a>
 # getSaveStateDepth
@@ -126,6 +138,8 @@ an int
 
 <a href="https://github.com/autoplot/dev/search?q=getSaveStateDepth&unscoped_q=getSaveStateDepth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSizeLimit"></a>
 # getSizeLimit
@@ -137,6 +151,8 @@ get the number of states which will be kept
 size
 
 <a href="https://github.com/autoplot/dev/search?q=getSizeLimit&unscoped_q=getSizeLimit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUndoAction"></a>
@@ -150,6 +166,8 @@ action that can be attached to button.
 
 <a href="https://github.com/autoplot/dev/search?q=getUndoAction&unscoped_q=getUndoAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUndoDescription"></a>
 # getUndoDescription
@@ -161,6 +179,8 @@ get the longer description for the action, intended to be used for the tooltip.
 a human-readable description
 
 <a href="https://github.com/autoplot/dev/search?q=getUndoDescription&unscoped_q=getUndoDescription">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUndoLabel"></a>
@@ -175,6 +195,8 @@ the level
 
 <a href="https://github.com/autoplot/dev/search?q=getUndoLabel&unscoped_q=getUndoLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isIgnoringUpdates"></a>
 # isIgnoringUpdates
@@ -186,6 +208,8 @@ Getter for property ignoringUpdates.
 Value of property ignoringUpdates.
 
 <a href="https://github.com/autoplot/dev/search?q=isIgnoringUpdates&unscoped_q=isIgnoringUpdates">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="peekAt"></a>
@@ -203,6 +227,8 @@ an org.autoplot.state.UndoRedoSupport.StateStackElement
 
 <a href="https://github.com/autoplot/dev/search?q=peekAt&unscoped_q=peekAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="pushState"></a>
 # pushState
@@ -219,6 +245,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=pushState&unscoped_q=pushState">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 pushState( java.beans.PropertyChangeEvent ev, String label ) &rarr; void<br>
 ***
 <a name="redo"></a>
@@ -232,6 +260,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=redo&unscoped_q=redo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="refreshUndoMultipleMenu"></a>
@@ -248,6 +278,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=refreshUndoMultipleMenu&unscoped_q=refreshUndoMultipleMenu">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -266,6 +298,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 removePropertyChangeListener( java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="resetHistory"></a>
@@ -279,6 +313,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetHistory&unscoped_q=resetHistory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setIgnoringUpdates"></a>
@@ -296,6 +332,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setIgnoringUpdates&unscoped_q=setIgnoringUpdates">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSaveStateDepth"></a>
 # setSaveStateDepth
@@ -311,6 +349,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSaveStateDepth&unscoped_q=setSaveStateDepth">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSizeLimit"></a>
@@ -328,6 +368,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSizeLimit&unscoped_q=setSizeLimit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="undo"></a>
 # undo
@@ -340,5 +382,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=undo&unscoped_q=undo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 undo( int level ) &rarr; void<br>

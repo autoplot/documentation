@@ -28,6 +28,8 @@ line - for example 'a,b,"c,d"'
 
 <a href="https://github.com/autoplot/dev/search?q=csvSplit&unscoped_q=csvSplit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDurationForHumans"></a>
 # getDurationForHumans
@@ -43,6 +45,8 @@ a duration like "2.6 hours"
 
 <a href="https://github.com/autoplot/dev/search?q=getDurationForHumans&unscoped_q=getDurationForHumans">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getHapiHome"></a>
 # getHapiHome
@@ -54,6 +58,8 @@ return the root of the HAPI server.
 the root of the HAPI server.
 
 <a href="https://github.com/autoplot/dev/search?q=getHapiHome&unscoped_q=getHapiHome">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getNumberOfElements"></a>
@@ -70,6 +76,8 @@ an int array with the number of elements in each parameter.
 
 <a href="https://github.com/autoplot/dev/search?q=getNumberOfElements&unscoped_q=getNumberOfElements">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hapiVersion"></a>
 # hapiVersion
@@ -81,6 +89,8 @@ return the HAPI protocol version.
 the HAPI protocol version.
 
 <a href="https://github.com/autoplot/dev/search?q=hapiVersion&unscoped_q=hapiVersion">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -98,6 +108,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="maybeInitialize"></a>
 # maybeInitialize
@@ -113,6 +125,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeInitialize&unscoped_q=maybeInitialize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="raiseBadId"></a>
@@ -132,6 +146,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=raiseBadId&unscoped_q=raiseBadId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="serverVersion"></a>
 # serverVersion
@@ -143,6 +159,8 @@ return the server implementation version.
 the server implementation version.
 
 <a href="https://github.com/autoplot/dev/search?q=serverVersion&unscoped_q=serverVersion">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setHapiHome"></a>
@@ -160,6 +178,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setHapiHome&unscoped_q=setHapiHome">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="subsetParams"></a>
 # subsetParams
@@ -175,6 +195,8 @@ info - the root node of the info response.
 the new JSONObject, with special tag __indexmap__ showing which columns are to be included in a data response.
 
 <a href="https://github.com/autoplot/dev/search?q=subsetParams&unscoped_q=subsetParams">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="transfer"></a>
@@ -194,6 +216,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=transfer&unscoped_q=transfer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="validateJSON"></a>
 # validateJSON
@@ -209,4 +233,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=validateJSON&unscoped_q=validateJSON">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

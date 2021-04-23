@@ -139,6 +139,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDelimParser"></a>
 # getDelimParser
@@ -156,6 +158,8 @@ the DelimParser.
 
 <a href="https://github.com/autoplot/dev/search?q=getDelimParser&unscoped_q=getDelimParser">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFieldCount"></a>
 # getFieldCount
@@ -170,6 +174,8 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldCount&unscoped_q=getFieldCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFieldIndex"></a>
@@ -187,6 +193,8 @@ string - the label for the field, such as "field2" or "time"
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldIndex&unscoped_q=getFieldIndex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFieldLabels"></a>
 # getFieldLabels
@@ -200,6 +208,8 @@ a java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldLabels&unscoped_q=getFieldLabels">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFieldNames"></a>
@@ -215,6 +225,8 @@ a java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldNames&unscoped_q=getFieldNames">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFieldUnits"></a>
@@ -232,6 +244,8 @@ a java.lang.String[]
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldUnits&unscoped_q=getFieldUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFillValue"></a>
 # getFillValue
@@ -245,6 +259,8 @@ Value of property fillValue.
 
 <a href="https://github.com/autoplot/dev/search?q=getFillValue&unscoped_q=getFillValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getHeaderDelimiter"></a>
 # getHeaderDelimiter
@@ -257,6 +273,8 @@ the header delimiter.
 
 <a href="https://github.com/autoplot/dev/search?q=getHeaderDelimiter&unscoped_q=getHeaderDelimiter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRecordParser"></a>
 # getRecordParser
@@ -268,6 +286,8 @@ Getter for property recordParser.
 Value of property recordParser.
 
 <a href="https://github.com/autoplot/dev/search?q=getRecordParser&unscoped_q=getRecordParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRegexForFormat"></a>
@@ -286,6 +306,8 @@ for example "d5,d5,f9,a"
 
 <a href="https://github.com/autoplot/dev/search?q=getRegexForFormat&unscoped_q=getRegexForFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRegexParser"></a>
 # getRegexParser
@@ -302,6 +324,8 @@ regex - a String
 the regex parser
 
 <a href="https://github.com/autoplot/dev/search?q=getRegexParser&unscoped_q=getRegexParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRegexParserForFormat"></a>
@@ -325,6 +349,8 @@ an org.das2.qds.util.AsciiParser.RegexParser
 
 <a href="https://github.com/autoplot/dev/search?q=getRegexParserForFormat&unscoped_q=getRegexParserForFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRichFields"></a>
 # getRichFields
@@ -337,6 +363,8 @@ returns the high rank rich fields in a map from NAME to LABEL.
 the high rank rich fields in a map from NAME to LABEL.
 
 <a href="https://github.com/autoplot/dev/search?q=getRichFields&unscoped_q=getRichFields">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUnits"></a>
@@ -353,6 +381,8 @@ Value of the property at <CODE>index</CODE>.
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValidMax"></a>
 # getValidMax
@@ -365,6 +395,8 @@ the validMax
 
 <a href="https://github.com/autoplot/dev/search?q=getValidMax&unscoped_q=getValidMax">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValidMin"></a>
 # getValidMin
@@ -376,6 +408,8 @@ get the minimum valid value for any field.
 validMin
 
 <a href="https://github.com/autoplot/dev/search?q=getValidMin&unscoped_q=getValidMin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="guessDelimParser"></a>
@@ -392,6 +426,8 @@ org.das2.qds.util.AsciiParser.DelimParser
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessDelimParser&unscoped_q=guessDelimParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 guessDelimParser( String line, int lineNumber ) &rarr; DelimParser<br>
 ***
@@ -411,6 +447,8 @@ the apparent field count.
 
 <a href="https://github.com/autoplot/dev/search?q=guessFieldCount&unscoped_q=guessFieldCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="guessSkipAndDelimParser"></a>
 # guessSkipAndDelimParser
@@ -428,6 +466,8 @@ filename - a String
 the record parser to use, or null if no records are found.
 
 <a href="https://github.com/autoplot/dev/search?q=guessSkipAndDelimParser&unscoped_q=guessSkipAndDelimParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="guessSkipLines"></a>
@@ -447,6 +487,8 @@ an int
 
 <a href="https://github.com/autoplot/dev/search?q=guessSkipLines&unscoped_q=guessSkipLines">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isHeader"></a>
 # isHeader
@@ -464,6 +506,8 @@ iline - the line number in the file, starting with 0.
 true if the line is a header line.
 
 <a href="https://github.com/autoplot/dev/search?q=isHeader&unscoped_q=isHeader">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isIso8601Time"></a>
@@ -483,6 +527,8 @@ true if this is clearly an ISO time.
 
 <a href="https://github.com/autoplot/dev/search?q=isIso8601Time&unscoped_q=isIso8601Time">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isKeepFileHeader"></a>
 # isKeepFileHeader
@@ -494,6 +540,8 @@ Getter for property keepHeader.
 Value of property keepHeader.
 
 <a href="https://github.com/autoplot/dev/search?q=isKeepFileHeader&unscoped_q=isKeepFileHeader">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isRichHeader"></a>
@@ -515,6 +563,8 @@ true if parsing as a Rich Header should be attempted.
 
 <a href="https://github.com/autoplot/dev/search?q=isRichHeader&unscoped_q=isRichHeader">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 isRichHeader(  ) &rarr; boolean<br>
 ***
 <a name="newParser"></a>
@@ -530,6 +580,8 @@ fieldCount - the number of fields
 the file parser
 
 <a href="https://github.com/autoplot/dev/search?q=newParser&unscoped_q=newParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 newParser( java.lang.String[] fieldNames ) &rarr; AsciiParser<br>
 ***
@@ -547,6 +599,8 @@ filename - the file to read
 a rank 2 dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=readFile&unscoped_q=readFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="readFirstParseableRecord"></a>
@@ -567,6 +621,8 @@ the first parseable line, or null if no such line exists.
 
 <a href="https://github.com/autoplot/dev/search?q=readFirstParseableRecord&unscoped_q=readFirstParseableRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readFirstRecord"></a>
 # readFirstRecord
@@ -583,6 +639,8 @@ filename - a String
 the first line after skip lines and comment lines.
 
 <a href="https://github.com/autoplot/dev/search?q=readFirstRecord&unscoped_q=readFirstRecord">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 readFirstRecord( java.io.BufferedReader reader ) &rarr; String<br>
 ***
@@ -602,6 +660,8 @@ an org.das2.qds.WritableDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=readStream&unscoped_q=readStream">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 readStream( java.io.Reader in, String firstRecord, ProgressMonitor mon ) &rarr; WritableDataSet<br>
 ***
 <a name="removePropertyChangeListener"></a>
@@ -618,6 +678,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setCommentPrefix"></a>
@@ -636,6 +698,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setCommentPrefix&unscoped_q=setCommentPrefix">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDelimParser"></a>
 # setDelimParser
@@ -652,6 +716,8 @@ filename - filename to read in.
 the record parser that will split each line into fields
 
 <a href="https://github.com/autoplot/dev/search?q=setDelimParser&unscoped_q=setDelimParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setDelimParser( java.io.Reader in, String delimRegex ) &rarr; DelimParser<br>
 ***
@@ -671,6 +737,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFieldParser&unscoped_q=setFieldParser">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFillValue"></a>
 # setFillValue
@@ -686,6 +754,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillValue&unscoped_q=setFillValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFixedColumnsParser"></a>
@@ -703,6 +773,8 @@ filename - filename to read in.
 the record parser that will split each line.
 
 <a href="https://github.com/autoplot/dev/search?q=setFixedColumnsParser&unscoped_q=setFixedColumnsParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setFixedColumnsParser( java.io.Reader in, String delim ) &rarr; FixedColumnsParser<br>
 setFixedColumnsParser( int[] columnOffsets, int[] columnWidths, org.das2.qds.util.AsciiParser.FieldParser[] parsers ) &rarr; FixedColumnsParser<br>
@@ -724,6 +796,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setHeaderDelimiter&unscoped_q=setHeaderDelimiter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setKeepFileHeader"></a>
 # setKeepFileHeader
@@ -740,6 +814,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setKeepFileHeader&unscoped_q=setKeepFileHeader">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPropertyPattern"></a>
@@ -760,6 +836,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPropertyPattern&unscoped_q=setPropertyPattern">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRecordCountLimit"></a>
 # setRecordCountLimit
@@ -777,6 +855,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRecordCountLimit&unscoped_q=setRecordCountLimit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRecordParser"></a>
 # setRecordParser
@@ -792,6 +872,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRecordParser&unscoped_q=setRecordParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRecordStart"></a>
@@ -809,6 +891,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRecordStart&unscoped_q=setRecordStart">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRegexParser"></a>
 # setRegexParser
@@ -823,6 +907,8 @@ fieldNames - a java.lang.String[]
 the parser for each record.
 
 <a href="https://github.com/autoplot/dev/search?q=setRegexParser&unscoped_q=setRegexParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSkipLines"></a>
@@ -842,6 +928,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSkipLines&unscoped_q=setSkipLines">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUnits"></a>
 # setUnits
@@ -859,6 +947,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUnits&unscoped_q=setUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setUnits( org.das2.datum.Units[] u ) &rarr; void<br>
 ***
@@ -878,6 +968,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setValidMax&unscoped_q=setValidMax">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setValidMin"></a>
 # setValidMin
@@ -894,6 +986,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setValidMin&unscoped_q=setValidMin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setWhereConstraint"></a>
@@ -914,4 +1008,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWhereConstraint&unscoped_q=setWhereConstraint">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

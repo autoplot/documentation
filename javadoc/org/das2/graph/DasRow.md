@@ -23,6 +23,8 @@ the device location of the bottom (non-inclusive) of the row.
 
 <a href="https://github.com/autoplot/dev/search?q=bottom&unscoped_q=bottom">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="create"></a>
 # create
@@ -44,6 +46,8 @@ a new DasRow.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 create( org.das2.graph.DasCanvas parent ) &rarr; DasRow<br>
 create( org.das2.graph.DasCanvas parent, int iplot, int nplot ) &rarr; DasRow<br>
 ***
@@ -62,6 +66,8 @@ the new row.
 
 <a href="https://github.com/autoplot/dev/search?q=createAttachedRow&unscoped_q=createAttachedRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createSubRow"></a>
 # <del>createSubRow</del>
@@ -79,6 +85,8 @@ the height in points (pixels) of the row.
 
 <a href="https://github.com/autoplot/dev/search?q=getHeight&unscoped_q=getHeight">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="top"></a>
 # top
@@ -90,4 +98,6 @@ return the device location of the top of the row.
 the device location of the top of the row.
 
 <a href="https://github.com/autoplot/dev/search?q=top&unscoped_q=top">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -20,6 +20,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDataRangeSelectionListener&unscoped_q=addDataRangeSelectionListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetSelector"></a>
 # getDataSetSelector
@@ -32,6 +34,8 @@ return the dataSetSelector, so that for example a button for bookmarks
 the DataSetSelector component.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetSelector&unscoped_q=getDataSetSelector">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="makeCanonical"></a>
@@ -49,6 +53,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=makeCanonical&unscoped_q=makeCanonical">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeDataRangeSelectionListener"></a>
 # removeDataRangeSelectionListener
@@ -64,4 +70,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataRangeSelectionListener&unscoped_q=removeDataRangeSelectionListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

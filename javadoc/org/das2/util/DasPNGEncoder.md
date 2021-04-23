@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addText&unscoped_q=addText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeAllText"></a>
 # removeAllText
@@ -34,6 +36,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeAllText&unscoped_q=removeAllText">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeText"></a>
@@ -52,6 +56,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeText&unscoped_q=removeText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setGamma"></a>
 # setGamma
@@ -67,6 +73,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setGamma&unscoped_q=setGamma">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="write"></a>
@@ -84,4 +92,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

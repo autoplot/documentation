@@ -27,6 +27,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPlane"></a>
 # getPlane
@@ -43,6 +45,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getPlane&unscoped_q=getPlane">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPlaneIds"></a>
 # getPlaneIds
@@ -55,6 +59,8 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlaneIds&unscoped_q=getPlaneIds">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getX"></a>
@@ -69,6 +75,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=getX&unscoped_q=getX">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getY"></a>
 # getY
@@ -81,6 +89,8 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getY&unscoped_q=getY">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="set"></a>
@@ -99,6 +109,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=set&unscoped_q=set">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSet"></a>
 # setDataSet
@@ -115,6 +127,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -127,4 +141,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

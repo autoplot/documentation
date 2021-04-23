@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=checkTime&unscoped_q=checkTime">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInstance"></a>
 # getInstance
@@ -30,6 +32,8 @@ org.autoplot.APSplash
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLogHandler"></a>
@@ -44,6 +48,8 @@ java.util.logging.Handler
 
 <a href="https://github.com/autoplot/dev/search?q=getLogHandler&unscoped_q=getLogHandler">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getVersion"></a>
 # getVersion
@@ -56,6 +62,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getVersion&unscoped_q=getVersion">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hideSplash"></a>
@@ -70,6 +78,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=hideSplash&unscoped_q=hideSplash">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="showSplash"></a>
 # showSplash
@@ -82,4 +92,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showSplash&unscoped_q=showSplash">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

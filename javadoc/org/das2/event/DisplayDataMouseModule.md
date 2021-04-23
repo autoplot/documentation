@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -30,6 +32,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getListIcon"></a>
@@ -44,6 +48,8 @@ javax.swing.Icon
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getListLabel"></a>
 # getListLabel
@@ -57,6 +63,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getListLabel&unscoped_q=getListLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isYclip"></a>
 # isYclip
@@ -68,6 +76,8 @@ Getter for property yclip.
 Value of property yclip.
 
 <a href="https://github.com/autoplot/dev/search?q=isYclip&unscoped_q=isYclip">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mouseRangeSelected"></a>
@@ -85,6 +95,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mouseRangeSelected&unscoped_q=mouseRangeSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -101,6 +113,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setYclip"></a>
 # setYclip
@@ -116,4 +130,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setYclip&unscoped_q=setYclip">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

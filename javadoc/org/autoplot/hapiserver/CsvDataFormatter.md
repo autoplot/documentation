@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=finalize&unscoped_q=finalize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="initialize"></a>
 # initialize
@@ -36,6 +38,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=initialize&unscoped_q=initialize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="initializeReader"></a>
 # initializeReader
@@ -53,6 +57,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=initializeReader&unscoped_q=initializeReader">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -68,6 +74,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="readRecord"></a>
@@ -85,6 +93,8 @@ the parsed record.
 
 <a href="https://github.com/autoplot/dev/search?q=readRecord&unscoped_q=readRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="sendRecord"></a>
 # sendRecord
@@ -101,4 +111,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=sendRecord&unscoped_q=sendRecord">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -40,3 +40,5 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getPixelsPerInch&unscoped_q=getPixelsPerInch">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

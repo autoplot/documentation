@@ -19,6 +19,8 @@ an icon.
 
 <a href="https://github.com/autoplot/dev/search?q=colorIcon&unscoped_q=colorIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDisplayName"></a>
 # getDisplayName
@@ -31,6 +33,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDisplayName&unscoped_q=getDisplayName">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLargeDisplayIcon"></a>
@@ -45,6 +49,8 @@ javax.swing.Icon
 
 <a href="https://github.com/autoplot/dev/search?q=getLargeDisplayIcon&unscoped_q=getLargeDisplayIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSmallDisplayIcon"></a>
 # getSmallDisplayIcon
@@ -57,6 +63,8 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSmallDisplayIcon&unscoped_q=getSmallDisplayIcon">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -74,6 +82,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toHexString"></a>
 # toHexString
@@ -90,6 +100,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=toHexString&unscoped_q=toHexString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="updateChooser"></a>
 # updateChooser
@@ -102,4 +114,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updateChooser&unscoped_q=updateChooser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

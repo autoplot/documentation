@@ -15,6 +15,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=defaultDataPath&unscoped_q=defaultDataPath">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="defaultTestPath"></a>
 # defaultTestPath
@@ -27,6 +29,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=defaultTestPath&unscoped_q=defaultTestPath">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getNearestNode"></a>
@@ -46,6 +50,8 @@ sUrl - An autoplot URL
 The nearest loadable DasNode for the path specified.
 
 <a href="https://github.com/autoplot/dev/search?q=getNearestNode&unscoped_q=getNearestNode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getNode"></a>
@@ -79,4 +85,6 @@ sUrl - a String
 The node requested, or throws an error
 
 <a href="https://github.com/autoplot/dev/search?q=getNode&unscoped_q=getNode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

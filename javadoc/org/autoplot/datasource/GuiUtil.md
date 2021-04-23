@@ -20,6 +20,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addResizeListenerToAll&unscoped_q=addResizeListenerToAll">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasScrollPane"></a>
 # hasScrollPane
@@ -36,4 +38,6 @@ c - the component
 true if a child has a scroll
 
 <a href="https://github.com/autoplot/dev/search?q=hasScrollPane&unscoped_q=hasScrollPane">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

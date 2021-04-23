@@ -28,6 +28,8 @@ the index of the field, or -1 if the column doesn't exist.
 
 <a href="https://github.com/autoplot/dev/search?q=columnIndex&unscoped_q=columnIndex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDelim"></a>
 # getDelim
@@ -45,6 +47,8 @@ the delimiter.
 
 <a href="https://github.com/autoplot/dev/search?q=getDelim&unscoped_q=getDelim">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFieldIndex"></a>
 # getFieldIndex
@@ -60,6 +64,8 @@ string - the field for which we want to identify the index
 the field index, or -1 if the column doesn't exist.
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldIndex&unscoped_q=getFieldIndex">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parseRangeStr"></a>
@@ -81,4 +87,6 @@ o - the range string or field names, etc.
 the two-element range, where first index is inclusive, second is exclusive.
 
 <a href="https://github.com/autoplot/dev/search?q=parseRangeStr&unscoped_q=parseRangeStr">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

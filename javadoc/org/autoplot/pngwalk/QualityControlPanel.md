@@ -25,6 +25,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=displayRecord&unscoped_q=displayRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWalkImageSequece"></a>
 # getWalkImageSequece
@@ -37,6 +39,8 @@ org.autoplot.pngwalk.WalkImageSequence
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWalkImageSequece&unscoped_q=getWalkImageSequece">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -54,6 +58,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPreviousCommentText"></a>
 # setPreviousCommentText
@@ -70,6 +76,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPreviousCommentText&unscoped_q=setPreviousCommentText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setWalkImageSequece"></a>
 # setWalkImageSequece
@@ -85,4 +93,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWalkImageSequece&unscoped_q=setWalkImageSequece">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

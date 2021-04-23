@@ -28,6 +28,8 @@ java.lang.String[]
 
 <a href="https://github.com/autoplot/dev/search?q=axisFormat&unscoped_q=axisFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="format"></a>
 # format
@@ -43,6 +45,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="grannyFormat"></a>
@@ -60,6 +64,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=grannyFormat&unscoped_q=grannyFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDayOfYear"></a>
 # isDayOfYear
@@ -72,6 +78,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDayOfYear&unscoped_q=isDayOfYear">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDayOfYear"></a>
@@ -88,4 +96,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDayOfYear&unscoped_q=setDayOfYear">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

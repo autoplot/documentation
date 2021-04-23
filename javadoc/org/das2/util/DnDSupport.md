@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setParent&unscoped_q=setParent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="startDrag"></a>
 # startDrag
@@ -33,4 +35,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=startDrag&unscoped_q=startDrag">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -33,6 +33,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addPropertyChangeListener( String propname, java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="getControlPanel"></a>
@@ -47,6 +49,8 @@ javax.swing.JPanel
 
 <a href="https://github.com/autoplot/dev/search?q=getControlPanel&unscoped_q=getControlPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPosition"></a>
 # getPosition
@@ -59,6 +63,8 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPosition&unscoped_q=getPosition">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isScale"></a>
@@ -73,6 +79,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isScale&unscoped_q=isScale">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="playSound"></a>
 # playSound
@@ -86,6 +94,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=playSound&unscoped_q=playSound">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -103,6 +113,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 removePropertyChangeListener( String propname, java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="reset"></a>
@@ -116,6 +128,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSet"></a>
@@ -135,6 +149,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPosition"></a>
 # setPosition
@@ -151,6 +167,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPosition&unscoped_q=setPosition">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setScale"></a>
 # setScale
@@ -166,4 +184,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setScale&unscoped_q=setScale">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

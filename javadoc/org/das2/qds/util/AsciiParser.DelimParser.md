@@ -22,6 +22,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=fieldCount&unscoped_q=fieldCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 fieldCount( String line ) &rarr; int<br>
 ***
 <a name="getDelim"></a>
@@ -35,6 +37,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDelim&unscoped_q=getDelim">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="readNextRecord"></a>
@@ -51,6 +55,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=readNextRecord&unscoped_q=readNextRecord">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setGuessUnits"></a>
@@ -69,6 +75,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setGuessUnits&unscoped_q=setGuessUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setShowException"></a>
 # setShowException
@@ -84,6 +92,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowException&unscoped_q=setShowException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSkipField"></a>
@@ -102,6 +112,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSkipField&unscoped_q=setSkipField">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="splitRecord"></a>
 # splitRecord
@@ -119,6 +131,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=splitRecord&unscoped_q=splitRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -131,6 +145,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="tryParseRecord"></a>
@@ -149,4 +165,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=tryParseRecord&unscoped_q=tryParseRecord">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

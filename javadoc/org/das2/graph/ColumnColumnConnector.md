@@ -49,6 +49,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getActiveRegion"></a>
 # getActiveRegion
@@ -62,6 +64,8 @@ java.awt.Shape
 
 <a href="https://github.com/autoplot/dev/search?q=getActiveRegion&unscoped_q=getActiveRegion">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCurtainOpacityPercent"></a>
 # getCurtainOpacityPercent
@@ -73,6 +77,8 @@ Getter for property curtainOpacityPercent.
 Value of property curtainOpacityPercent.
 
 <a href="https://github.com/autoplot/dev/search?q=getCurtainOpacityPercent&unscoped_q=getCurtainOpacityPercent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFillColor"></a>
@@ -86,6 +92,8 @@ Value of property fillColor.
 
 <a href="https://github.com/autoplot/dev/search?q=getFillColor&unscoped_q=getFillColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isBottomCurtain"></a>
 # isBottomCurtain
@@ -97,6 +105,8 @@ Getter for property bottomCurtain.
 Value of property bottomCurtain.
 
 <a href="https://github.com/autoplot/dev/search?q=isBottomCurtain&unscoped_q=isBottomCurtain">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isFill"></a>
@@ -110,6 +120,8 @@ Value of property fill.
 
 <a href="https://github.com/autoplot/dev/search?q=isFill&unscoped_q=isFill">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isShowYPosition"></a>
 # isShowYPosition
@@ -122,6 +134,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowYPosition&unscoped_q=isShowYPosition">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -139,6 +153,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resize"></a>
 # resize
@@ -151,6 +167,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setBottomCurtain"></a>
@@ -168,6 +186,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setBottomCurtain&unscoped_q=setBottomCurtain">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setCurtainOpacityPercent"></a>
 # setCurtainOpacityPercent
@@ -183,6 +203,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCurtainOpacityPercent&unscoped_q=setCurtainOpacityPercent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFill"></a>
@@ -200,6 +222,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFill&unscoped_q=setFill">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFillColor"></a>
 # setFillColor
@@ -216,6 +240,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFillColor&unscoped_q=setFillColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setShowYPosition"></a>
 # setShowYPosition
@@ -231,4 +257,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowYPosition&unscoped_q=setShowYPosition">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

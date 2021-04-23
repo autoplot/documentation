@@ -17,6 +17,8 @@ the dimensions, or null for Sequences or Grids
 
 <a href="https://github.com/autoplot/dev/search?q=getRecDims&unscoped_q=getRecDims">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parse"></a>
 # parse
@@ -32,4 +34,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

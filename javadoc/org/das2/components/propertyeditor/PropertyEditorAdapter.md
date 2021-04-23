@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addCellEditorListener&unscoped_q=addCellEditorListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="cancelCellEditing"></a>
 # cancelCellEditing
@@ -31,6 +33,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=cancelCellEditing&unscoped_q=cancelCellEditing">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCellEditorValue"></a>
 # getCellEditorValue
@@ -43,6 +47,8 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCellEditorValue&unscoped_q=getCellEditorValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTableCellEditorComponent"></a>
@@ -64,6 +70,8 @@ java.awt.Component
 
 <a href="https://github.com/autoplot/dev/search?q=getTableCellEditorComponent&unscoped_q=getTableCellEditorComponent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isCellEditable"></a>
 # isCellEditable
@@ -79,6 +87,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isCellEditable&unscoped_q=isCellEditable">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeCellEditorListener"></a>
@@ -96,6 +106,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeCellEditorListener&unscoped_q=removeCellEditorListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="shouldSelectCell"></a>
 # shouldSelectCell
@@ -112,6 +124,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=shouldSelectCell&unscoped_q=shouldSelectCell">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="stopCellEditing"></a>
 # stopCellEditing
@@ -124,4 +138,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=stopCellEditing&unscoped_q=stopCellEditing">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

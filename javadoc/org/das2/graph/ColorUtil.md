@@ -29,6 +29,8 @@ a java.awt.Color
 
 <a href="https://github.com/autoplot/dev/search?q=decodeColor&unscoped_q=decodeColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="encodeColor"></a>
 # encodeColor
@@ -45,6 +47,8 @@ named color or hex string like "#FF0000" for Red.
 
 <a href="https://github.com/autoplot/dev/search?q=encodeColor&unscoped_q=encodeColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNamedColors"></a>
 # getNamedColors
@@ -56,6 +60,8 @@ return a map of the named colors.
 a map of the named colors.
 
 <a href="https://github.com/autoplot/dev/search?q=getNamedColors&unscoped_q=getNamedColors">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRicePaperColor"></a>
@@ -69,6 +75,8 @@ a java.awt.Color
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRicePaperColor&unscoped_q=getRicePaperColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="nameForColor"></a>
@@ -84,4 +92,6 @@ color - a Color
 the preferred name (or #RGB) for the color
 
 <a href="https://github.com/autoplot/dev/search?q=nameForColor&unscoped_q=nameForColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

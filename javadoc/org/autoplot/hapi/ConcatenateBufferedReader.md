@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="concatenateBufferedReader"></a>
 # concatenateBufferedReader
@@ -32,6 +34,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=concatenateBufferedReader&unscoped_q=concatenateBufferedReader">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -48,6 +52,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readLine"></a>
 # readLine
@@ -60,4 +66,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=readLine&unscoped_q=readLine">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

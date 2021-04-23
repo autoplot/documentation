@@ -21,6 +21,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addAction&unscoped_q=addAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addPropertyChangeListener"></a>
 # addPropertyChangeListener
@@ -37,6 +39,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="clear"></a>
 # clear
@@ -49,6 +53,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clear&unscoped_q=clear">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createAverager"></a>
@@ -67,6 +73,8 @@ org.das2.components.HorizontalSpectrogramAverager
 
 <a href="https://github.com/autoplot/dev/search?q=createAverager&unscoped_q=createAverager">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="dataRangeSelected"></a>
 # dataRangeSelected
@@ -83,6 +91,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=dataRangeSelected&unscoped_q=dataRangeSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="dispose"></a>
 # dispose
@@ -95,6 +105,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dispose&unscoped_q=dispose">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSet"></a>
@@ -109,6 +121,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMode"></a>
 # getMode
@@ -121,6 +135,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMode&unscoped_q=getMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -138,6 +154,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMode"></a>
 # setMode
@@ -154,6 +172,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setMode&unscoped_q=setMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="showPopup"></a>
 # showPopup
@@ -166,4 +186,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showPopup&unscoped_q=showPopup">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

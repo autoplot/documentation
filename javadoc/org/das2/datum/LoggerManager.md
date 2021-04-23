@@ -20,6 +20,8 @@ a java.util.logging.Logger
 
 <a href="https://github.com/autoplot/dev/search?q=getLogger&unscoped_q=getLogger">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLoggers"></a>
 # getLoggers
@@ -32,4 +34,6 @@ a java.util.Set
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLoggers&unscoped_q=getLoggers">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

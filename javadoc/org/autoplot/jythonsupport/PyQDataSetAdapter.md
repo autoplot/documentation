@@ -19,6 +19,8 @@ PyObject
 
 <a href="https://github.com/autoplot/dev/search?q=adapt&unscoped_q=adapt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="adaptList"></a>
 # adaptList
@@ -37,6 +39,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=adaptList&unscoped_q=adaptList">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 adaptList( PyList p, Units u ) &rarr; QDataSet<br>
 ***
 <a name="adaptTuple"></a>
@@ -54,6 +58,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=adaptTuple&unscoped_q=adaptTuple">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 adaptTuple( PyTuple p, Units u ) &rarr; QDataSet<br>
 ***
 <a name="canAdapt"></a>
@@ -70,4 +76,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=canAdapt&unscoped_q=canAdapt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

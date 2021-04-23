@@ -19,6 +19,8 @@ org.w3c.dom.Element
 
 <a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDnDSupport"></a>
 # getDnDSupport
@@ -31,4 +33,6 @@ org.das2.util.DnDSupport
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDnDSupport&unscoped_q=getDnDSupport">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -25,6 +25,8 @@ rank 1 or 2 dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=flattenJoin&unscoped_q=flattenJoin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSet"></a>
 # getDataSet
@@ -40,6 +42,8 @@ the dataset
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getDataSet(  ) &rarr; QDataSet<br>
 ***
 <a name="getDataSetNames"></a>
@@ -54,6 +58,8 @@ a java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetNames&unscoped_q=getDataSetNames">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetNamesAndDescriptions"></a>
 # getDataSetNamesAndDescriptions
@@ -67,6 +73,8 @@ a java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetNamesAndDescriptions&unscoped_q=getDataSetNamesAndDescriptions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getReadPackets"></a>
 # getReadPackets
@@ -79,6 +87,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getReadPackets&unscoped_q=getReadPackets">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isFlattenableJoin"></a>
@@ -98,6 +108,8 @@ true if the data can be joined.
 
 <a href="https://github.com/autoplot/dev/search?q=isFlattenableJoin&unscoped_q=isFlattenableJoin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="packet"></a>
 # packet
@@ -115,6 +127,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=packet&unscoped_q=packet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="packetDescriptor"></a>
 # packetDescriptor
@@ -130,6 +144,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=packetDescriptor&unscoped_q=packetDescriptor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setReadPackets"></a>
@@ -147,6 +163,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setReadPackets&unscoped_q=setReadPackets">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="streamClosed"></a>
 # streamClosed
@@ -162,6 +180,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=streamClosed&unscoped_q=streamClosed">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="streamComment"></a>
@@ -179,6 +199,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=streamComment&unscoped_q=streamComment">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="streamDescriptor"></a>
 # streamDescriptor
@@ -195,6 +217,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=streamDescriptor&unscoped_q=streamDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="streamException"></a>
 # streamException
@@ -210,4 +234,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=streamException&unscoped_q=streamException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

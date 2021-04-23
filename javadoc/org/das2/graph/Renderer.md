@@ -139,6 +139,8 @@ true if the renderer will accept the context.
 
 <a href="https://github.com/autoplot/dev/search?q=acceptContext&unscoped_q=acceptContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="acceptsDataSet"></a>
 # acceptsDataSet
@@ -155,6 +157,8 @@ true if the dataset appears to be acceptable.
 
 <a href="https://github.com/autoplot/dev/search?q=acceptsDataSet&unscoped_q=acceptsDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addPropertyChangeListener"></a>
 # addPropertyChangeListener
@@ -170,6 +174,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addPropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
@@ -188,6 +194,8 @@ the parsed value.
 
 <a href="https://github.com/autoplot/dev/search?q=decodePlotSymbolConnectorControl&unscoped_q=decodePlotSymbolConnectorControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="decodePlotSymbolControl"></a>
 # decodePlotSymbolControl
@@ -203,6 +211,8 @@ s - the symbol name, such as none, circles, triangles, cross, ex, star, diamond,
 the parsed value.
 
 <a href="https://github.com/autoplot/dev/search?q=decodePlotSymbolControl&unscoped_q=decodePlotSymbolControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="drawListIcon"></a>
@@ -222,6 +232,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=drawListIcon&unscoped_q=drawListIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="encodeBooleanControl"></a>
 # encodeBooleanControl
@@ -236,6 +248,8 @@ v - the boolean value.
 "T" or "F"
 
 <a href="https://github.com/autoplot/dev/search?q=encodeBooleanControl&unscoped_q=encodeBooleanControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="encodeColorControl"></a>
@@ -254,6 +268,8 @@ the color encoded as a string.
 
 <a href="https://github.com/autoplot/dev/search?q=encodeColorControl&unscoped_q=encodeColorControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="encodePlotSymbolConnectorControl"></a>
 # encodePlotSymbolConnectorControl
@@ -269,6 +285,8 @@ psymConnector - a PsymConnector
 the string encoding.
 
 <a href="https://github.com/autoplot/dev/search?q=encodePlotSymbolConnectorControl&unscoped_q=encodePlotSymbolConnectorControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="encodePlotSymbolControl"></a>
@@ -286,6 +304,8 @@ the string encoding.
 
 <a href="https://github.com/autoplot/dev/search?q=encodePlotSymbolControl&unscoped_q=encodePlotSymbolControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="formatControl"></a>
 # formatControl
@@ -301,6 +321,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatControl&unscoped_q=formatControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getBooleanControl"></a>
@@ -318,6 +340,8 @@ the boolean value, where "T" is true, false otherwise; or the default when the v
 
 <a href="https://github.com/autoplot/dev/search?q=getBooleanControl&unscoped_q=getBooleanControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBottomDecorator"></a>
 # getBottomDecorator
@@ -331,6 +355,8 @@ org.das2.graph.Painter
 
 <a href="https://github.com/autoplot/dev/search?q=getBottomDecorator&unscoped_q=getBottomDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColorBar"></a>
 # getColorBar
@@ -342,6 +368,8 @@ get the colorbar for the renderer.
 the colorbar for the renderer.
 
 <a href="https://github.com/autoplot/dev/search?q=getColorBar&unscoped_q=getColorBar">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getColorControl"></a>
@@ -361,6 +389,8 @@ the Color or the default when the value is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getColorControl&unscoped_q=getColorControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getConsumedDataSet"></a>
 # getConsumedDataSet
@@ -373,6 +403,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getConsumedDataSet&unscoped_q=getConsumedDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getControl"></a>
@@ -388,6 +420,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getControl&unscoped_q=getControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getControl( String key, String deft ) &rarr; String<br>
 ***
 <a name="getDataLoader"></a>
@@ -402,6 +436,8 @@ org.das2.graph.DataLoader
 
 <a href="https://github.com/autoplot/dev/search?q=getDataLoader&unscoped_q=getDataLoader">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSet"></a>
 # getDataSet
@@ -414,6 +450,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSetDescriptor"></a>
@@ -428,6 +466,8 @@ org.das2.dataset.DataSetDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetDescriptor&unscoped_q=getDataSetDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetID"></a>
 # getDataSetID
@@ -440,6 +480,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetID&unscoped_q=getDataSetID">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDatumControl"></a>
@@ -456,6 +498,8 @@ key - the key name.
 the Datum or the default when the value is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumControl&unscoped_q=getDatumControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDoubleArrayControl"></a>
@@ -474,6 +518,8 @@ the double array, each element parsed with Double.parseDouble or the default whe
 
 <a href="https://github.com/autoplot/dev/search?q=getDoubleArrayControl&unscoped_q=getDoubleArrayControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDoubleControl"></a>
 # getDoubleControl
@@ -490,6 +536,8 @@ the double, parsed with Double.parseDouble; or the default when the value is not
 
 <a href="https://github.com/autoplot/dev/search?q=getDoubleControl&unscoped_q=getDoubleControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getId"></a>
 # getId
@@ -502,6 +550,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getId&unscoped_q=getId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getIntegerControl"></a>
@@ -519,6 +569,8 @@ the int, parsed with Integer.parseInt; or the default when the value is not foun
 
 <a href="https://github.com/autoplot/dev/search?q=getIntegerControl&unscoped_q=getIntegerControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLastException"></a>
 # getLastException
@@ -531,6 +583,8 @@ java.lang.Exception
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLastException&unscoped_q=getLastException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLegendLabel"></a>
@@ -545,6 +599,8 @@ the label to describe the renderer
 
 <a href="https://github.com/autoplot/dev/search?q=getLegendLabel&unscoped_q=getLegendLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getListIcon"></a>
 # getListIcon
@@ -557,6 +613,8 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getListLabel"></a>
@@ -571,6 +629,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getListLabel&unscoped_q=getListLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParent"></a>
 # getParent
@@ -584,6 +644,8 @@ org.das2.graph.DasPlot
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRenderCount"></a>
 # getRenderCount
@@ -595,6 +657,8 @@ return the number of times render has been called since the last reset.
 number of times render has been called since the last reset.
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderCount&unscoped_q=getRenderCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getStatsFile"></a>
@@ -609,6 +673,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getStatsFile&unscoped_q=getStatsFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTopDecorator"></a>
 # getTopDecorator
@@ -622,6 +688,8 @@ org.das2.graph.Painter
 
 <a href="https://github.com/autoplot/dev/search?q=getTopDecorator&unscoped_q=getTopDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUpdateCount"></a>
 # getUpdateCount
@@ -633,6 +701,8 @@ return the number of times updatePlotImage has been called since the last reset.
 the number of times updatePlotImage has been called since the last reset.
 
 <a href="https://github.com/autoplot/dev/search?q=getUpdateCount&unscoped_q=getUpdateCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getXmemento"></a>
@@ -647,6 +717,8 @@ org.das2.graph.DasAxis.Memento
 
 <a href="https://github.com/autoplot/dev/search?q=getXmemento&unscoped_q=getXmemento">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getYmemento"></a>
 # getYmemento
@@ -659,6 +731,8 @@ org.das2.graph.DasAxis.Memento
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYmemento&unscoped_q=getYmemento">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hasControl"></a>
@@ -675,6 +749,8 @@ true if the control is specified.
 
 <a href="https://github.com/autoplot/dev/search?q=hasControl&unscoped_q=hasControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isActive"></a>
 # isActive
@@ -686,6 +762,8 @@ true when the renderer should be drawn.
 true when the renderer should be drawn.
 
 <a href="https://github.com/autoplot/dev/search?q=isActive&unscoped_q=isActive">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDrawLegendLabel"></a>
@@ -700,6 +778,8 @@ true if the legend label should be drawn
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawLegendLabel&unscoped_q=isDrawLegendLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDumpDataSet"></a>
 # isDumpDataSet
@@ -711,6 +791,8 @@ Getter for property dumpDataSet.
 Value of property dumpDataSet.
 
 <a href="https://github.com/autoplot/dev/search?q=isDumpDataSet&unscoped_q=isDumpDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isTableDataSet"></a>
@@ -727,6 +809,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isTableDataSet&unscoped_q=isTableDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parseControl"></a>
@@ -745,6 +829,8 @@ c - the control string or null.
 the control string, parsed.
 
 <a href="https://github.com/autoplot/dev/search?q=parseControl&unscoped_q=parseControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parseLayoutString"></a>
@@ -766,6 +852,8 @@ the size in pixels
 
 <a href="https://github.com/autoplot/dev/search?q=parseLayoutString&unscoped_q=parseLayoutString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -781,6 +869,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removePropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
@@ -804,6 +894,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resetCounters"></a>
 # resetCounters
@@ -816,6 +908,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetCounters&unscoped_q=resetCounters">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setActive"></a>
@@ -835,6 +929,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setActive&unscoped_q=setActive">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setBottomDecorator"></a>
 # setBottomDecorator
@@ -851,6 +947,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBottomDecorator&unscoped_q=setBottomDecorator">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setColorBar"></a>
@@ -869,6 +967,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColorBar&unscoped_q=setColorBar">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setControl"></a>
@@ -889,6 +989,8 @@ void (returns nothing)
 <a href='#CONTROL_KEY_COLOR etc'>CONTROL_KEY_COLOR etc</a> etc<br>
 
 <a href="https://github.com/autoplot/dev/search?q=setControl&unscoped_q=setControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSet"></a>
@@ -914,6 +1016,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSetDescriptor"></a>
 # setDataSetDescriptor
@@ -929,6 +1033,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetDescriptor&unscoped_q=setDataSetDescriptor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSetID"></a>
@@ -946,6 +1052,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetID&unscoped_q=setDataSetID">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSetLoader"></a>
 # setDataSetLoader
@@ -961,6 +1069,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetLoader&unscoped_q=setDataSetLoader">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDrawLegendLabel"></a>
@@ -979,6 +1089,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawLegendLabel&unscoped_q=setDrawLegendLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDumpDataSet"></a>
 # setDumpDataSet
@@ -996,6 +1108,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDumpDataSet&unscoped_q=setDumpDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setException"></a>
 # setException
@@ -1011,6 +1125,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setException&unscoped_q=setException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setId"></a>
@@ -1028,6 +1144,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setId&unscoped_q=setId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLastException"></a>
 # setLastException
@@ -1043,6 +1161,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLastException&unscoped_q=setLastException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLegendLabel"></a>
@@ -1061,6 +1181,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLegendLabel&unscoped_q=setLegendLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setParent"></a>
 # setParent
@@ -1077,6 +1199,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setParent&unscoped_q=setParent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setStatsFile"></a>
 # setStatsFile
@@ -1092,6 +1216,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStatsFile&unscoped_q=setStatsFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTopDecorator"></a>
@@ -1110,6 +1236,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTopDecorator&unscoped_q=setTopDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUpFont"></a>
 # setUpFont
@@ -1126,6 +1254,8 @@ the relative font.
 
 <a href="https://github.com/autoplot/dev/search?q=setUpFont&unscoped_q=setUpFont">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="update"></a>
 # update
@@ -1141,6 +1271,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="updateCacheImage"></a>
 # updateCacheImage
@@ -1154,6 +1286,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updateCacheImage&unscoped_q=updateCacheImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="updatePlotImage"></a>
@@ -1182,4 +1316,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updatePlotImage&unscoped_q=updatePlotImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

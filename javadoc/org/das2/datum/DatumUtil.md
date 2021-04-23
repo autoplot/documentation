@@ -15,6 +15,8 @@ The order-one-ified Datum.
 
 <a href="https://github.com/autoplot/dev/search?q=asOrderOneUnits&unscoped_q=asOrderOneUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="bestFormatter"></a>
 # bestFormatter
@@ -30,6 +32,8 @@ org.das2.datum.format.DatumFormatter
 
 
 <a href="https://github.com/autoplot/dev/search?q=bestFormatter&unscoped_q=bestFormatter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 bestFormatter( Datum minimum, Datum maximum, int nsteps ) &rarr; DatumFormatter<br>
 ***
@@ -50,6 +54,8 @@ org.das2.datum.format.DatumFormatter
 
 <a href="https://github.com/autoplot/dev/search?q=bestTimeFormatter&unscoped_q=bestTimeFormatter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createValid"></a>
 # createValid
@@ -66,6 +72,8 @@ a Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=createValid&unscoped_q=createValid">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="datumStringSplit"></a>
@@ -100,6 +108,8 @@ the magnitude and the units, or [null,s] when it is not parseable.
 
 <a href="https://github.com/autoplot/dev/search?q=datumStringSplit&unscoped_q=datumStringSplit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="divp"></a>
 # divp
@@ -118,6 +128,8 @@ the dimensionless amount.
 
 <a href="https://github.com/autoplot/dev/search?q=divp&unscoped_q=divp">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doubleValues"></a>
 # doubleValues
@@ -135,6 +147,8 @@ double[]
 
 <a href="https://github.com/autoplot/dev/search?q=doubleValues&unscoped_q=doubleValues">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 doubleValues( org.das2.datum.Datum[] datums, org.das2.datum.Units[] unitsArray ) &rarr; double<br>
 ***
 <a name="fractionalDigits"></a>
@@ -151,6 +165,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=fractionalDigits&unscoped_q=fractionalDigits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="limitLogResolutionFormatter"></a>
@@ -170,6 +186,8 @@ org.das2.datum.format.DatumFormatter
 
 <a href="https://github.com/autoplot/dev/search?q=limitLogResolutionFormatter&unscoped_q=limitLogResolutionFormatter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="limitResolutionFormatter"></a>
 # limitResolutionFormatter
@@ -187,6 +205,8 @@ org.das2.datum.format.DatumFormatter
 
 
 <a href="https://github.com/autoplot/dev/search?q=limitResolutionFormatter&unscoped_q=limitResolutionFormatter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="lookupDatum"></a>
@@ -223,6 +243,8 @@ a Datum containing the value.
 
 <a href="https://github.com/autoplot/dev/search?q=lookupDatum&unscoped_q=lookupDatum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="modp"></a>
 # modp
@@ -248,6 +270,8 @@ the amount.
 
 <a href="https://github.com/autoplot/dev/search?q=modp&unscoped_q=modp">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="numericalResolutionLimit"></a>
 # numericalResolutionLimit
@@ -264,6 +288,8 @@ datum - a datum
 a datum in the offset units.
 
 <a href="https://github.com/autoplot/dev/search?q=numericalResolutionLimit&unscoped_q=numericalResolutionLimit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parse"></a>
@@ -286,6 +312,8 @@ the Datum
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parseValid"></a>
 # parseValid
@@ -302,6 +330,8 @@ s - the string representing the Datum, e.g. "5 Hz"
 the Datum
 
 <a href="https://github.com/autoplot/dev/search?q=parseValid&unscoped_q=parseValid">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="splitDatumString"></a>
@@ -329,6 +359,8 @@ two element array
 
 <a href="https://github.com/autoplot/dev/search?q=splitDatumString&unscoped_q=splitDatumString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="zeros"></a>
 # zeros
@@ -346,4 +378,6 @@ string for newFormatter.
 <a href='DatumFormatterFactory.md#newFormatter'>DatumFormatterFactory#newFormatter(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=zeros&unscoped_q=zeros">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

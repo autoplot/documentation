@@ -21,6 +21,8 @@ rank 1 dataset with DEPEND_0 = newTags.
 
 <a href="https://github.com/autoplot/dev/search?q=binAverage&unscoped_q=binAverage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 binAverage( QDataSet ds, QDataSet newTags0, QDataSet newTags1 ) &rarr; DDataSet<br>
 ***
 <a name="binAverageBundle"></a>
@@ -42,6 +44,8 @@ rank 3 dataset of z averages with depend_0, depend_1, and depend_2.  WEIGHTS con
 <a href='#rebinBundle'>rebinBundle(QDataSet, QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=binAverageBundle&unscoped_q=binAverageBundle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 binAverageBundle( QDataSet ds, QDataSet dep0, QDataSet dep1 ) &rarr; DDataSet<br>
 ***
@@ -65,6 +69,8 @@ rank 2 dataset of z averages with depend_0 and depend_1.  WEIGHTS contains the t
 
 <a href="https://github.com/autoplot/dev/search?q=binMeanAverageDeviation&unscoped_q=binMeanAverageDeviation">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="boxcar"></a>
 # boxcar
@@ -81,6 +87,8 @@ ds - a rank 1 dataset of size N
 rank 1 dataset of size N
 
 <a href="https://github.com/autoplot/dev/search?q=boxcar&unscoped_q=boxcar">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="rebin"></a>
@@ -102,6 +110,8 @@ rank 1 dataset with DEPEND_0 = newTags.
 <a href='#binAverage'>binAverage(QDataSet, QDataSet )</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=rebin&unscoped_q=rebin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 rebin( QDataSet ds, QDataSet newTags0, QDataSet newTags1 ) &rarr; DDataSet<br>
 rebin( QDataSet ds, int n0 ) &rarr; QDataSet<br>
@@ -127,4 +137,6 @@ ds - a QDataSet
 QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=residuals&unscoped_q=residuals">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

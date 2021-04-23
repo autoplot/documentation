@@ -15,6 +15,8 @@ the instance
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLinkForJavaSignature"></a>
 # getLinkForJavaSignature
@@ -34,6 +36,8 @@ null or the link, like http://docs.oracle.com/javase/6/docs/api/javax/swing/JChe
 
 <a href="https://github.com/autoplot/dev/search?q=getLinkForJavaSignature&unscoped_q=getLinkForJavaSignature">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="searchForSignature"></a>
 # searchForSignature
@@ -49,6 +53,8 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=searchForSignature&unscoped_q=searchForSignature">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLinkForJavaSignature"></a>
@@ -67,4 +73,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLinkForJavaSignature&unscoped_q=setLinkForJavaSignature">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

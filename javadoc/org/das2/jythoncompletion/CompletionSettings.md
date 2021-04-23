@@ -60,6 +60,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDocHome"></a>
 # getDocHome
@@ -72,6 +74,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDocHome&unscoped_q=getDocHome">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDocumentationPaneSize"></a>
@@ -86,6 +90,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getDocumentationPaneSize&unscoped_q=getDocumentationPaneSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEditorFont"></a>
 # getEditorFont
@@ -98,6 +104,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEditorFont&unscoped_q=getEditorFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isSafeCompletions"></a>
@@ -112,6 +120,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isSafeCompletions&unscoped_q=isSafeCompletions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isShowTabs"></a>
 # isShowTabs
@@ -124,6 +134,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowTabs&unscoped_q=isShowTabs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isTabIsCompletion"></a>
@@ -138,6 +150,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isTabIsCompletion&unscoped_q=isTabIsCompletion">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isTabIsSpaces"></a>
 # isTabIsSpaces
@@ -151,6 +165,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isTabIsSpaces&unscoped_q=isTabIsSpaces">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="loadPreferences"></a>
 # loadPreferences
@@ -163,6 +179,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=loadPreferences&unscoped_q=loadPreferences">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -180,6 +198,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDocHome"></a>
 # setDocHome
@@ -195,6 +215,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDocHome&unscoped_q=setDocHome">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDocumentationPaneSize"></a>
@@ -212,6 +234,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDocumentationPaneSize&unscoped_q=setDocumentationPaneSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEditorFont"></a>
 # setEditorFont
@@ -227,6 +251,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEditorFont&unscoped_q=setEditorFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSafeCompletions"></a>
@@ -244,6 +270,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSafeCompletions&unscoped_q=setSafeCompletions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setShowTabs"></a>
 # setShowTabs
@@ -259,6 +287,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowTabs&unscoped_q=setShowTabs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTabIsCompletion"></a>
@@ -276,6 +306,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTabIsCompletion&unscoped_q=setTabIsCompletion">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTabIsSpaces"></a>
 # setTabIsSpaces
@@ -291,4 +323,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTabIsSpaces&unscoped_q=setTabIsSpaces">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

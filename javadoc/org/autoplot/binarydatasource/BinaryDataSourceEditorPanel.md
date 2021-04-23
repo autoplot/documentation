@@ -105,6 +105,8 @@ javax.swing.JPanel
 
 <a href="https://github.com/autoplot/dev/search?q=getPanel&unscoped_q=getPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getURI"></a>
 # getURI
@@ -117,6 +119,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="markProblems"></a>
@@ -133,6 +137,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=markProblems&unscoped_q=markProblems">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="prepare"></a>
@@ -152,6 +158,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=prepare&unscoped_q=prepare">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reject"></a>
 # reject
@@ -168,6 +176,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=reject&unscoped_q=reject">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setURI"></a>
 # setURI
@@ -183,4 +193,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setURI&unscoped_q=setURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

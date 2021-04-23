@@ -21,6 +21,8 @@ int[]
 
 <a href="https://github.com/autoplot/dev/search?q=factor&unscoped_q=factor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="log2"></a>
 # log2
@@ -36,4 +38,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=log2&unscoped_q=log2">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

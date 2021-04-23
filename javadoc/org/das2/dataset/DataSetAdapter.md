@@ -26,6 +26,8 @@ A new QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createLegacyDataSet"></a>
 # createLegacyDataSet
@@ -46,4 +48,6 @@ A new Das2 DataSet
    DON'T USE THIS CODE!  Use org.das2.qstream.QdsToD2sStream IN THE QStream project!
 
 <a href="https://github.com/autoplot/dev/search?q=createLegacyDataSet&unscoped_q=createLegacyDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

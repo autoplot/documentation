@@ -39,6 +39,8 @@ org.autoplot.dom.DomNode
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="diffs"></a>
 # diffs
@@ -55,6 +57,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=diffs&unscoped_q=diffs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getController"></a>
 # getController
@@ -67,6 +71,8 @@ org.autoplot.dom.DataSourceController
 
 
 <a href="https://github.com/autoplot/dev/search?q=getController&unscoped_q=getController">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFill"></a>
@@ -81,6 +87,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getFill&unscoped_q=getFill">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFilters"></a>
 # getFilters
@@ -93,6 +101,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFilters&unscoped_q=getFilters">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUri"></a>
@@ -107,6 +117,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getUri&unscoped_q=getUri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValidRange"></a>
 # getValidRange
@@ -119,6 +131,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getValidRange&unscoped_q=getValidRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFill"></a>
@@ -136,6 +150,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFill&unscoped_q=setFill">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFilters"></a>
 # setFilters
@@ -151,6 +167,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFilters&unscoped_q=setFilters">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setUri"></a>
@@ -168,6 +186,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setUri&unscoped_q=setUri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setValidRange"></a>
 # setValidRange
@@ -183,6 +203,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setValidRange&unscoped_q=setValidRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="syncTo"></a>
@@ -200,6 +222,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 syncTo( org.autoplot.dom.DomNode n, java.util.List exclude ) &rarr; void<br>
 ***
 <a name="toString"></a>
@@ -213,4 +237,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

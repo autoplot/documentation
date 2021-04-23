@@ -17,6 +17,8 @@ the list.
 
 <a href="https://github.com/autoplot/dev/search?q=getRecent&unscoped_q=getRecent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="loadRecent"></a>
 # loadRecent
@@ -36,6 +38,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=loadRecent&unscoped_q=loadRecent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRecent"></a>
 # setRecent
@@ -52,4 +56,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRecent&unscoped_q=setRecent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

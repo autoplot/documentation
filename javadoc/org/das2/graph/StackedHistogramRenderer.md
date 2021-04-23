@@ -18,6 +18,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getControl&unscoped_q=getControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getListIcon"></a>
 # getListIcon
@@ -30,6 +32,8 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getListLabel"></a>
@@ -44,6 +48,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getListLabel&unscoped_q=getListLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPeaksIndicator"></a>
 # getPeaksIndicator
@@ -55,6 +61,8 @@ Getter for property peaksIndicator.
 Value of property peaksIndicator.
 
 <a href="https://github.com/autoplot/dev/search?q=getPeaksIndicator&unscoped_q=getPeaksIndicator">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getZAxis"></a>
@@ -69,6 +77,8 @@ org.das2.graph.DasAxis
 
 <a href="https://github.com/autoplot/dev/search?q=getZAxis&unscoped_q=getZAxis">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSliceRebinnedData"></a>
 # isSliceRebinnedData
@@ -80,6 +90,8 @@ Getter for property sliceRebinnedData.
 Value of property sliceRebinnedData.
 
 <a href="https://github.com/autoplot/dev/search?q=isSliceRebinnedData&unscoped_q=isSliceRebinnedData">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="propertyChange"></a>
@@ -96,6 +108,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=propertyChange&unscoped_q=propertyChange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="render"></a>
@@ -115,6 +129,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setControl"></a>
 # setControl
@@ -130,6 +146,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setControl&unscoped_q=setControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPeaksIndicator"></a>
@@ -147,6 +165,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPeaksIndicator&unscoped_q=setPeaksIndicator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSliceRebinnedData"></a>
 # setSliceRebinnedData
@@ -162,6 +182,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSliceRebinnedData&unscoped_q=setSliceRebinnedData">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setYAxis"></a>
@@ -180,6 +202,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setYAxis&unscoped_q=setYAxis">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setZAxis"></a>
 # setZAxis
@@ -196,6 +220,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setZAxis&unscoped_q=setZAxis">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setZTitle"></a>
 # setZTitle
@@ -211,6 +237,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setZTitle&unscoped_q=setZTitle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="updatePlotImage"></a>
@@ -229,4 +257,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updatePlotImage&unscoped_q=updatePlotImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

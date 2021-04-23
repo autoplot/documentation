@@ -21,6 +21,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addPropertyChangeListener( String name, java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="annotateError"></a>
@@ -38,6 +40,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=annotateError&unscoped_q=annotateError">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 annotateError( PyException ex, int offset, PythonInterpreter interp ) &rarr; void<br>
 ***
 <a name="getInterruptible"></a>
@@ -50,6 +54,8 @@ return the interruptible InteractiveInterpreter that runs the script.
 the interruptible
 
 <a href="https://github.com/autoplot/dev/search?q=getInterruptible&unscoped_q=getInterruptible">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSaveFile"></a>
@@ -64,6 +70,8 @@ response code, such as JFileChooser.APPROVE_OPTION or JFileChooser.CANCEL_OPTION
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/javax/swing/JFileChooser.md#showSaveDialog'>javax.swing.JFileChooser#showSaveDialog(java.awt.Component)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getSaveFile&unscoped_q=getSaveFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -80,5 +88,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removePropertyChangeListener( String name, java.beans.PropertyChangeListener listener ) &rarr; void<br>

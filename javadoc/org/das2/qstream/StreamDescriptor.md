@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDescriptor&unscoped_q=addDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addDescriptor( org.das2.qstream.Descriptor pd, int descriptorId ) &rarr; void<br>
 ***
 <a name="descriptorId"></a>
@@ -35,6 +37,8 @@ the id
 
 <a href="https://github.com/autoplot/dev/search?q=descriptorId&unscoped_q=descriptorId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getByteOrder"></a>
 # getByteOrder
@@ -48,6 +52,8 @@ java.nio.ByteOrder
 
 <a href="https://github.com/autoplot/dev/search?q=getByteOrder&unscoped_q=getByteOrder">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDomElement"></a>
 # getDomElement
@@ -60,6 +66,8 @@ org.w3c.dom.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDomElement&unscoped_q=getDomElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hasDescriptor"></a>
@@ -83,6 +91,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=hasDescriptor&unscoped_q=hasDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAsciiTypes"></a>
 # isAsciiTypes
@@ -95,6 +105,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAsciiTypes&unscoped_q=isAsciiTypes">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="newDocument"></a>
@@ -113,6 +125,8 @@ the Document, which will have elements added to it.
 
 <a href="https://github.com/autoplot/dev/search?q=newDocument&unscoped_q=newDocument">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="retireDescriptor"></a>
 # retireDescriptor
@@ -129,6 +143,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=retireDescriptor&unscoped_q=retireDescriptor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="send"></a>
@@ -147,6 +163,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=send&unscoped_q=send">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAsciiTypes"></a>
 # setAsciiTypes
@@ -162,6 +180,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAsciiTypes&unscoped_q=setAsciiTypes">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setByteOrder"></a>
@@ -179,6 +199,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setByteOrder&unscoped_q=setByteOrder">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDomElement"></a>
 # setDomElement
@@ -194,4 +216,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDomElement&unscoped_q=setDomElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

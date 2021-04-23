@@ -23,6 +23,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addCookie&unscoped_q=addCookie">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="checkUserInfo"></a>
 # checkUserInfo
@@ -40,6 +42,8 @@ the user info (user:password) associated, or null if the user info isn't found.
 
 <a href="https://github.com/autoplot/dev/search?q=checkUserInfo&unscoped_q=checkUserInfo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="clearAll"></a>
 # clearAll
@@ -52,6 +56,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearAll&unscoped_q=clearAll">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="clearUserPassword"></a>
@@ -69,6 +75,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=clearUserPassword&unscoped_q=clearUserPassword">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 clearUserPassword( java.net.URL url ) &rarr; void<br>
 ***
 <a name="getDefault"></a>
@@ -81,6 +89,8 @@ get the single instance of the class.
 the single instance of the class.
 
 <a href="https://github.com/autoplot/dev/search?q=getDefault&unscoped_q=getDefault">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getInstance"></a>
@@ -98,6 +108,8 @@ an org.das2.util.filesystem.KeyChain
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUserInfo"></a>
@@ -117,6 +129,8 @@ a String
 <a href='#getUserInfo'>getUserInfo(java.net.URL)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getUserInfo&unscoped_q=getUserInfo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getUserInfo( java.net.URL url ) &rarr; String<br>
 getUserInfo( java.net.URL url, String userInfo ) &rarr; String<br>
@@ -142,6 +156,8 @@ the base-64 encoded credentials.
 
 <a href="https://github.com/autoplot/dev/search?q=getUserInfoBase64Encoded&unscoped_q=getUserInfoBase64Encoded">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWWWAuthenticate"></a>
 # getWWWAuthenticate
@@ -157,6 +173,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWWWAuthenticate&unscoped_q=getWWWAuthenticate">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hideUserInfo"></a>
@@ -174,6 +192,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=hideUserInfo&unscoped_q=hideUserInfo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -190,6 +210,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resolveUserInfo"></a>
 # resolveUserInfo
@@ -204,6 +226,8 @@ root - the URI, possibly needing a username and password.
 the URI with the username and password.
 
 <a href="https://github.com/autoplot/dev/search?q=resolveUserInfo&unscoped_q=resolveUserInfo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setParentGUI"></a>
@@ -220,6 +244,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setParentGUI&unscoped_q=setParentGUI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setUserInfo"></a>
@@ -239,6 +265,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setUserInfo&unscoped_q=setUserInfo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="writeKeysFile"></a>
 # writeKeysFile
@@ -251,5 +279,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeKeysFile&unscoped_q=writeKeysFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 writeKeysFile( boolean toFile ) &rarr; void<br>

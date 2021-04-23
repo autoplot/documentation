@@ -15,6 +15,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getScheme&unscoped_q=getScheme">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isEmbedData"></a>
 # isEmbedData
@@ -27,4 +29,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isEmbedData&unscoped_q=isEmbedData">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -35,6 +35,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=checkValidIndexList&unscoped_q=checkValidIndexList">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createEmptyDs"></a>
 # createEmptyDs
@@ -56,6 +58,8 @@ empty dataset with structural properties set.
 
 <a href="https://github.com/autoplot/dev/search?q=createEmptyDs&unscoped_q=createEmptyDs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="currentJythonLine"></a>
 # currentJythonLine
@@ -71,6 +75,8 @@ the current line or ???
 <a href='JythonOps.md#currentLine'>JythonOps#currentLine()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=currentJythonLine&unscoped_q=currentJythonLine">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getValue"></a>
@@ -88,6 +94,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasNext"></a>
 # hasNext
@@ -99,6 +107,8 @@ true if there are more values.
 true if there are more values.
 
 <a href="https://github.com/autoplot/dev/search?q=hasNext&unscoped_q=hasNext">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="index"></a>
@@ -116,6 +126,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=index&unscoped_q=index">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="length"></a>
 # length
@@ -132,6 +144,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="next"></a>
 # next
@@ -147,6 +161,8 @@ void (returns nothing)
 <a href='#getValue'>getValue(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="putValue"></a>
@@ -165,6 +181,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rank"></a>
 # rank
@@ -177,6 +195,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setIndexIteratorFactory"></a>
@@ -194,6 +214,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setIndexIteratorFactory&unscoped_q=setIndexIteratorFactory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setMonitor"></a>
@@ -213,6 +235,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMonitor&unscoped_q=setMonitor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="sliceIterator"></a>
@@ -235,6 +259,8 @@ an iterator for the slice.
 
 <a href="https://github.com/autoplot/dev/search?q=sliceIterator&unscoped_q=sliceIterator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -247,4 +273,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

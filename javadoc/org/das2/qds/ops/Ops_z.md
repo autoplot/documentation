@@ -16,6 +16,8 @@ an org.das2.qds.WritableDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=zeros&unscoped_q=zeros">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 zeros( int len0, int len1 ) &rarr; WritableDataSet<br>
 zeros( int len0, int len1, int len2 ) &rarr; WritableDataSet<br>
 zeros( QDataSet ds ) &rarr; WritableDataSet<br>

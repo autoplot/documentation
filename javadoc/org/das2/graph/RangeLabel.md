@@ -30,6 +30,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDataRangeSelectionListener&unscoped_q=addDataRangeSelectionListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAlignment"></a>
 # getAlignment
@@ -42,6 +44,8 @@ org.das2.graph.RangeLabel.Alignment
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAlignment&unscoped_q=getAlignment">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDatumRange"></a>
@@ -56,6 +60,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumRange&unscoped_q=getDatumRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDsLabel"></a>
 # getDsLabel
@@ -68,6 +74,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDsLabel&unscoped_q=getDsLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getInDebugMode"></a>
@@ -82,6 +90,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=getInDebugMode&unscoped_q=getInDebugMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getOffsetFromPlot"></a>
 # getOffsetFromPlot
@@ -94,6 +104,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOffsetFromPlot&unscoped_q=getOffsetFromPlot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getValidRange"></a>
@@ -108,6 +120,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getValidRange&unscoped_q=getValidRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getVerticalAlignment"></a>
 # getVerticalAlignment
@@ -120,6 +134,8 @@ org.das2.graph.RangeLabel.VerticalAlignment
 
 
 <a href="https://github.com/autoplot/dev/search?q=getVerticalAlignment&unscoped_q=getVerticalAlignment">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getWordsAfterLabelDatumRange"></a>
@@ -134,6 +150,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getWordsAfterLabelDatumRange&unscoped_q=getWordsAfterLabelDatumRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWordsAfterLabelSingleDatum"></a>
 # getWordsAfterLabelSingleDatum
@@ -146,6 +164,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWordsAfterLabelSingleDatum&unscoped_q=getWordsAfterLabelSingleDatum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeDataRangeSelectionListener"></a>
@@ -163,6 +183,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataRangeSelectionListener&unscoped_q=removeDataRangeSelectionListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resetInSingleMode"></a>
 # resetInSingleMode
@@ -176,6 +198,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resetInSingleMode&unscoped_q=resetInSingleMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resize"></a>
 # resize
@@ -188,6 +212,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAlignment"></a>
@@ -205,6 +231,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAlignment&unscoped_q=setAlignment">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDatumRange"></a>
 # setDatumRange
@@ -220,6 +248,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDatumRange&unscoped_q=setDatumRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDsLabel"></a>
@@ -237,6 +267,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDsLabel&unscoped_q=setDsLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setInDebugMode"></a>
 # setInDebugMode
@@ -252,6 +284,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setInDebugMode&unscoped_q=setInDebugMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setInSingleMode"></a>
@@ -269,6 +303,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setInSingleMode&unscoped_q=setInSingleMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setOffsetFromPlot"></a>
 # setOffsetFromPlot
@@ -284,6 +320,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOffsetFromPlot&unscoped_q=setOffsetFromPlot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setValidRange"></a>
@@ -301,6 +339,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setValidRange&unscoped_q=setValidRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setVerticalAlignment"></a>
 # setVerticalAlignment
@@ -316,6 +356,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setVerticalAlignment&unscoped_q=setVerticalAlignment">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setWordsAfterLabelDatumRange"></a>
@@ -333,6 +375,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setWordsAfterLabelDatumRange&unscoped_q=setWordsAfterLabelDatumRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setWordsAfterLabelSingleDatum"></a>
 # setWordsAfterLabelSingleDatum
@@ -348,4 +392,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWordsAfterLabelSingleDatum&unscoped_q=setWordsAfterLabelSingleDatum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

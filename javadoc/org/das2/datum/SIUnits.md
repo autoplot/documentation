@@ -18,6 +18,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="create"></a>
 # create
@@ -33,6 +35,8 @@ org.das2.datum.SIUnits
 
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 create( String id, String desc, org.das2.datum.Ratio m, org.das2.datum.Ratio kg, org.das2.datum.Ratio s, org.das2.datum.Ratio A, org.das2.datum.Ratio K, org.das2.datum.RationalNumber multiplier ) &rarr; SIUnits<br>
 create( String id, String desc, int m, int kg, int s, double multiplier ) &rarr; SIUnits<br>
@@ -57,6 +61,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=divide&unscoped_q=divide">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="fromClusterCDFSIConversion"></a>
 # fromClusterCDFSIConversion
@@ -75,6 +81,8 @@ the SIUnits
 
 <a href="https://github.com/autoplot/dev/search?q=fromClusterCDFSIConversion&unscoped_q=fromClusterCDFSIConversion">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -90,6 +98,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="multiply"></a>
@@ -107,6 +117,8 @@ org.das2.datum.SIUnits
 
 
 <a href="https://github.com/autoplot/dev/search?q=multiply&unscoped_q=multiply">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 multiply( String id, String desc, org.das2.datum.SIUnits s1, org.das2.datum.RationalNumber s ) &rarr; SIUnits<br>
 multiply( Number a, Number b, Units bUnits ) &rarr; Datum<br>
@@ -129,6 +141,8 @@ SI unit, e.g. SIUnits.si_s
 
 <a href="https://github.com/autoplot/dev/search?q=pow&unscoped_q=pow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="subtract"></a>
 # subtract
@@ -147,6 +161,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=subtract&unscoped_q=subtract">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -159,4 +175,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

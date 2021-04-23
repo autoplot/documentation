@@ -66,4 +66,6 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=showModalMessage&unscoped_q=showModalMessage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 showModalMessage( java.awt.Frame owner, int type, String title, java.lang.String[] message ) &rarr; int<br>

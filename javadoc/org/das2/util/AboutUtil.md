@@ -16,6 +16,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getAboutHtml&unscoped_q=getAboutHtml">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBuildInfos"></a>
 # getBuildInfos
@@ -27,6 +29,8 @@ searches class path for META-INF/build.txt, returns nice strings
 one line per jar
 
 <a href="https://github.com/autoplot/dev/search?q=getBuildInfos&unscoped_q=getBuildInfos">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getJenkinsURL"></a>
@@ -40,6 +44,8 @@ Identify the release by looking for build.jenkinsURL .  It's expected
 build URL, or "" if one is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getJenkinsURL&unscoped_q=getJenkinsURL">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getReleaseTag"></a>
@@ -55,6 +61,8 @@ clas - a java.lang.Class
 release tag or "(dev)" if the tag is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getReleaseTag&unscoped_q=getReleaseTag">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getReleaseTag(  ) &rarr; String<br>
 ***
@@ -72,4 +80,6 @@ neededVersion - the Java version, such as "1.8.0_102"
 true if the JRE is at least the version, or if the JRE cannot be parsed.
 
 <a href="https://github.com/autoplot/dev/search?q=isJreVersionAtLeast&unscoped_q=isJreVersionAtLeast">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

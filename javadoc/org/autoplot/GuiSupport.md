@@ -15,6 +15,8 @@ javax.swing.Action
 
 <a href="https://github.com/autoplot/dev/search?q=createCloneApplicationAction&unscoped_q=createCloneApplicationAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createEZAccessMenu"></a>
 # createEZAccessMenu
@@ -30,6 +32,8 @@ javax.swing.JMenu
 
 
 <a href="https://github.com/autoplot/dev/search?q=createEZAccessMenu&unscoped_q=createEZAccessMenu">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createExamplesPopup"></a>
@@ -49,6 +53,8 @@ a java.awt.event.MouseAdapter
 
 <a href="https://github.com/autoplot/dev/search?q=createExamplesPopup&unscoped_q=createExamplesPopup">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createNewApplicationAction"></a>
 # createNewApplicationAction
@@ -61,6 +67,8 @@ javax.swing.Action
 
 
 <a href="https://github.com/autoplot/dev/search?q=createNewApplicationAction&unscoped_q=createNewApplicationAction">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createNewDOMAction"></a>
@@ -75,6 +83,8 @@ javax.swing.Action
 
 <a href="https://github.com/autoplot/dev/search?q=createNewDOMAction&unscoped_q=createNewDOMAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doCopyDataSetImage"></a>
 # doCopyDataSetImage
@@ -88,6 +98,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doCopyDataSetImage&unscoped_q=doCopyDataSetImage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doCopyDataSetURL"></a>
 # doCopyDataSetURL
@@ -100,6 +112,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=doCopyDataSetURL&unscoped_q=doCopyDataSetURL">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="doPasteClipboardPlotElementsIntoPlot"></a>
@@ -122,6 +136,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doPasteClipboardPlotElementsIntoPlot&unscoped_q=doPasteClipboardPlotElementsIntoPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doPasteDataSetURL"></a>
 # doPasteDataSetURL
@@ -134,6 +150,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=doPasteDataSetURL&unscoped_q=doPasteDataSetURL">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="editPlotElement"></a>
@@ -152,6 +170,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=editPlotElement&unscoped_q=editPlotElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFileNameExtensionFilter"></a>
 # getFileNameExtensionFilter
@@ -168,6 +188,8 @@ the FileFilter
 
 <a href="https://github.com/autoplot/dev/search?q=getFileNameExtensionFilter&unscoped_q=getFileNameExtensionFilter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFrameForComponent"></a>
 # getFrameForComponent
@@ -183,6 +205,8 @@ a java.awt.Frame
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFrameForComponent&unscoped_q=getFrameForComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPrintAction"></a>
@@ -202,6 +226,8 @@ a javax.swing.Action
 
 <a href="https://github.com/autoplot/dev/search?q=getPrintAction&unscoped_q=getPrintAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getStylePanel"></a>
 # getStylePanel
@@ -216,6 +242,8 @@ renderType - the render type, such as RenderType.colorScatter
 the GUI controller.
 
 <a href="https://github.com/autoplot/dev/search?q=getStylePanel&unscoped_q=getStylePanel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="importBookmarks"></a>
@@ -232,6 +260,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=importBookmarks&unscoped_q=importBookmarks">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="pasteClipboardIntoPlot"></a>
@@ -251,6 +281,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=pasteClipboardIntoPlot&unscoped_q=pasteClipboardIntoPlot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="pasteClipboardPlotElementsIntoPlot"></a>
@@ -273,6 +305,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=pasteClipboardPlotElementsIntoPlot&unscoped_q=pasteClipboardPlotElementsIntoPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="pickFont"></a>
 # pickFont
@@ -289,6 +323,8 @@ a java.awt.Font
 
 
 <a href="https://github.com/autoplot/dev/search?q=pickFont&unscoped_q=pickFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="raiseApplicationWindow"></a>
@@ -308,6 +344,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=raiseApplicationWindow&unscoped_q=raiseApplicationWindow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setClipboard"></a>
 # setClipboard
@@ -324,6 +362,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setClipboard&unscoped_q=setClipboard">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFont"></a>
 # setFont
@@ -339,4 +379,6 @@ app - an ApplicationModel
 the Font actually used.
 
 <a href="https://github.com/autoplot/dev/search?q=setFont&unscoped_q=setFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

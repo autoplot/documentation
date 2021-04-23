@@ -21,6 +21,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addImport&unscoped_q=addImport">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addImport( javax.swing.text.Document doc, String pkg, String name, int cursorPosition ) &rarr; void<br>
 addImport( String src, String pkg, String name ) &rarr; String<br>
 ***
@@ -38,6 +40,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=convert&unscoped_q=convert">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="convertReverse"></a>
@@ -66,6 +70,8 @@ conversion to Jython-like code.
 
 <a href="https://github.com/autoplot/dev/search?q=convertReverse&unscoped_q=convertReverse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getJavaListType"></a>
 # getJavaListType
@@ -81,6 +87,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getJavaListType&unscoped_q=getJavaListType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="guessCompletions"></a>
@@ -99,6 +107,8 @@ list of completions.
 
 <a href="https://github.com/autoplot/dev/search?q=guessCompletions&unscoped_q=guessCompletions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="guessPackage"></a>
 # guessPackage
@@ -115,6 +125,8 @@ clas - the class name, for example "JSlider"
 the package or null, for example "javax.swing"
 
 <a href="https://github.com/autoplot/dev/search?q=guessPackage&unscoped_q=guessPackage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hasImport"></a>
@@ -134,6 +146,8 @@ true if the class has been imported already.
 
 <a href="https://github.com/autoplot/dev/search?q=hasImport&unscoped_q=hasImport">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -149,4 +163,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

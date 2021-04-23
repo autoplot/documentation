@@ -19,6 +19,8 @@ a good formatter
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumFormatter&unscoped_q=getDatumFormatter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDomainDivider"></a>
 # getDomainDivider
@@ -37,6 +39,8 @@ org.das2.datum.DomainDivider
 
 <a href="https://github.com/autoplot/dev/search?q=getDomainDivider&unscoped_q=getDomainDivider">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getDomainDivider( Datum min, Datum max ) &rarr; DomainDivider<br>
 ***
 <a name="main"></a>
@@ -53,4 +57,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=clear&unscoped_q=clear">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMouseDragEvent"></a>
 # getMouseDragEvent
@@ -37,6 +39,8 @@ org.das2.event.MouseDragEvent
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseDragEvent&unscoped_q=getMouseDragEvent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isPointSelection"></a>
 # isPointSelection
@@ -50,6 +54,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isPointSelection&unscoped_q=isPointSelection">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isUpdatingDragSelection"></a>
 # isUpdatingDragSelection
@@ -62,6 +68,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isUpdatingDragSelection&unscoped_q=isUpdatingDragSelection">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="keyPressed"></a>
@@ -79,6 +87,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=keyPressed&unscoped_q=keyPressed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="keyReleased"></a>
 # keyReleased
@@ -95,6 +105,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=keyReleased&unscoped_q=keyReleased">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="keyTyped"></a>
 # keyTyped
@@ -110,6 +122,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=keyTyped&unscoped_q=keyTyped">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="renderDrag"></a>
@@ -129,6 +143,8 @@ java.awt.Rectangle[]
 
 <a href="https://github.com/autoplot/dev/search?q=renderDrag&unscoped_q=renderDrag">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="renderLabel"></a>
 # renderLabel
@@ -147,4 +163,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=renderLabel&unscoped_q=renderLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

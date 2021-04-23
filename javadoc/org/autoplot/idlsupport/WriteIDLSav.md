@@ -20,6 +20,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addVariable&unscoped_q=addVariable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="checkVariableType"></a>
 # checkVariableType
@@ -37,6 +39,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=checkVariableType&unscoped_q=checkVariableType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -53,6 +57,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="write"></a>
 # write
@@ -68,4 +74,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

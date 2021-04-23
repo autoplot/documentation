@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="run"></a>
 # run
@@ -45,6 +47,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=run&unscoped_q=run">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="start"></a>
 # start
@@ -59,6 +63,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=start&unscoped_q=start">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="stopRecording"></a>
@@ -84,4 +90,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=stopRecording&unscoped_q=stopRecording">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -19,6 +19,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isValidFile&unscoped_q=isValidFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="sendIospMessage"></a>
 # sendIospMessage
@@ -36,4 +38,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=sendIospMessage&unscoped_q=sendIospMessage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

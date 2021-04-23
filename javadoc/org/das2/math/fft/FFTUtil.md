@@ -20,6 +20,8 @@ org.das2.math.fft.ComplexArray.Double
 
 <a href="https://github.com/autoplot/dev/search?q=fft&unscoped_q=fft">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="fftPower"></a>
 # fftPower
@@ -36,6 +38,8 @@ org.das2.dataset.VectorDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=fftPower&unscoped_q=fftPower">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 fftPower( org.das2.math.fft.GeneralFFT fft, org.das2.dataset.VectorDataSet vds, org.das2.dataset.VectorDataSet weights ) &rarr; VectorDataSet<br>
 ***
@@ -54,6 +58,8 @@ the frequencies of the bins
 
 <a href="https://github.com/autoplot/dev/search?q=getFrequencyDomainTags&unscoped_q=getFrequencyDomainTags">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWindow10PercentEdgeCosine"></a>
 # getWindow10PercentEdgeCosine
@@ -70,6 +76,8 @@ org.das2.dataset.VectorDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getWindow10PercentEdgeCosine&unscoped_q=getWindow10PercentEdgeCosine">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWindowUnity"></a>
 # getWindowUnity
@@ -85,4 +93,6 @@ org.das2.dataset.VectorDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowUnity&unscoped_q=getWindowUnity">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

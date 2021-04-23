@@ -21,6 +21,8 @@ SparseDataSet with the given rank and dimensions based on qube.
 
 <a href="https://github.com/autoplot/dev/search?q=createQube&unscoped_q=createQube">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createRank"></a>
 # createRank
@@ -39,6 +41,8 @@ a dataset that is empty.
 <a href='#createQube'>createQube(int[])</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=createRank&unscoped_q=createRank">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createRankLen"></a>
@@ -60,6 +64,8 @@ SparseDataSet with the given rank.
 
 <a href="https://github.com/autoplot/dev/search?q=createRankLen&unscoped_q=createRankLen">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="length"></a>
 # length
@@ -72,6 +78,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 length( int i ) &rarr; int<br>
 length( int i0, int i1 ) &rarr; int<br>
@@ -92,6 +100,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 putValue( int i0, double d ) &rarr; void<br>
 putValue( int i0, int i1, double d ) &rarr; void<br>
 putValue( int i0, int i1, int i2, double d ) &rarr; void<br>
@@ -108,6 +118,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLength"></a>
@@ -126,6 +138,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLength&unscoped_q=setLength">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setQube"></a>
 # setQube
@@ -142,6 +156,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setQube&unscoped_q=setQube">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="value"></a>
 # value
@@ -154,6 +170,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 value( int i0 ) &rarr; double<br>
 value( int i0, int i1 ) &rarr; double<br>

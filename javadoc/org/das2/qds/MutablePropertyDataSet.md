@@ -14,6 +14,8 @@ true if the dataset has been made immutable.
 
 <a href="https://github.com/autoplot/dev/search?q=isImmutable&unscoped_q=isImmutable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="makeImmutable"></a>
 # makeImmutable
@@ -28,6 +30,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=makeImmutable&unscoped_q=makeImmutable">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="putProperty"></a>
@@ -50,5 +54,7 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/QDataSet.md#UNITS'>QDataSet#UNITS</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=putProperty&unscoped_q=putProperty">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putProperty( String name, int index, Object value ) &rarr; void<br>

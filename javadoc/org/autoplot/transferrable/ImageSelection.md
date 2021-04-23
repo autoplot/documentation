@@ -26,6 +26,8 @@ java.awt.datatransfer.Transferable
 
 <a href="https://github.com/autoplot/dev/search?q=createTransferable&unscoped_q=createTransferable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNullClipboardOwner"></a>
 # getNullClipboardOwner
@@ -38,6 +40,8 @@ java.awt.datatransfer.ClipboardOwner
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNullClipboardOwner&unscoped_q=getNullClipboardOwner">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSourceActions"></a>
@@ -55,6 +59,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getSourceActions&unscoped_q=getSourceActions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTransferData"></a>
 # getTransferData
@@ -71,6 +77,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getTransferData&unscoped_q=getTransferData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTransferDataFlavors"></a>
 # getTransferDataFlavors
@@ -83,6 +91,8 @@ java.awt.datatransfer.DataFlavor[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTransferDataFlavors&unscoped_q=getTransferDataFlavors">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="importData"></a>
@@ -101,6 +111,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=importData&unscoped_q=importData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDataFlavorSupported"></a>
 # isDataFlavorSupported
@@ -117,6 +129,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isDataFlavorSupported&unscoped_q=isDataFlavorSupported">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setImage"></a>
 # setImage
@@ -132,4 +146,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setImage&unscoped_q=setImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

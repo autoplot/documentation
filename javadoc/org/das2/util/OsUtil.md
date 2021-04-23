@@ -23,6 +23,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=closeQuietly&unscoped_q=closeQuietly">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="contentEquals"></a>
 # contentEquals
@@ -44,6 +46,8 @@ true if the content of the streams are equal or they both don't
 
 <a href="https://github.com/autoplot/dev/search?q=contentEquals&unscoped_q=contentEquals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 contentEquals( java.io.File file1, java.io.File file2 ) &rarr; boolean<br>
 ***
 <a name="getProcessId"></a>
@@ -59,4 +63,6 @@ fallback - the string (null is okay) to return when the pid cannot be found.
 the process id or the fallback provided by the caller.
 
 <a href="https://github.com/autoplot/dev/search?q=getProcessId&unscoped_q=getProcessId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

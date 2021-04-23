@@ -21,6 +21,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=keyPressed&unscoped_q=keyPressed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="keyReleased"></a>
 # keyReleased
@@ -38,6 +40,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=keyReleased&unscoped_q=keyReleased">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="keyTyped"></a>
@@ -57,6 +61,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=keyTyped&unscoped_q=keyTyped">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseClicked"></a>
 # mouseClicked
@@ -72,6 +78,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseClicked&unscoped_q=mouseClicked">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mouseDragged"></a>
@@ -89,6 +97,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mouseDragged&unscoped_q=mouseDragged">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseEntered"></a>
 # mouseEntered
@@ -104,6 +114,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseEntered&unscoped_q=mouseEntered">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mouseExited"></a>
@@ -121,6 +133,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mouseExited&unscoped_q=mouseExited">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseMoved"></a>
 # mouseMoved
@@ -136,6 +150,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseMoved&unscoped_q=mouseMoved">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mousePressed"></a>
@@ -153,6 +169,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mousePressed&unscoped_q=mousePressed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseReleased"></a>
 # mouseReleased
@@ -168,6 +186,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseReleased&unscoped_q=mouseReleased">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDragRenderer"></a>
@@ -186,4 +206,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDragRenderer&unscoped_q=setDragRenderer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

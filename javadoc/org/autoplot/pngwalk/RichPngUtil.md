@@ -35,6 +35,8 @@ the axis range
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXRange"></a>
 # getXRange
@@ -50,4 +52,6 @@ json - rich png ascii string
 null or the range found.
 
 <a href="https://github.com/autoplot/dev/search?q=getXRange&unscoped_q=getXRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -37,6 +37,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=guessFieldCount&unscoped_q=guessFieldCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -53,6 +55,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="newParser"></a>
 # newParser
@@ -68,6 +72,8 @@ org.das2.dataset.parser.VectorDataSetParser
 
 
 <a href="https://github.com/autoplot/dev/search?q=newParser&unscoped_q=newParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 newParser( java.lang.String[] fieldNames ) &rarr; VectorDataSetParser<br>
 ***
@@ -86,6 +92,8 @@ org.das2.dataset.VectorDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=readFile&unscoped_q=readFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readStream"></a>
 # readStream
@@ -101,6 +109,8 @@ org.das2.dataset.VectorDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=readStream&unscoped_q=readStream">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPropertyPattern"></a>
@@ -119,6 +129,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPropertyPattern&unscoped_q=setPropertyPattern">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRecordCountLimit"></a>
 # setRecordCountLimit
@@ -135,6 +147,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRecordCountLimit&unscoped_q=setRecordCountLimit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSkipLines"></a>
 # setSkipLines
@@ -150,4 +164,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSkipLines&unscoped_q=setSkipLines">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

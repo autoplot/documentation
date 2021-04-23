@@ -18,6 +18,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTimeSeriesBrowse"></a>
 # getTimeSeriesBrowse
@@ -29,6 +31,8 @@ TODO: why are there two of these???
 TimeSeriesBrowse
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeSeriesBrowse&unscoped_q=getTimeSeriesBrowse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getURI"></a>
@@ -43,6 +47,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -55,4 +61,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

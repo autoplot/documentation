@@ -39,6 +39,8 @@ an org.das2.stream.DataTransferType
 
 <a href="https://github.com/autoplot/dev/search?q=getByName&unscoped_q=getByName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSizeBytes"></a>
 # getSizeBytes
@@ -51,6 +53,8 @@ the size of the item in bytes.
 
 <a href="https://github.com/autoplot/dev/search?q=getSizeBytes&unscoped_q=getSizeBytes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAscii"></a>
 # isAscii
@@ -62,6 +66,8 @@ If type terminates a line, then use \n to delineate
 true if ascii
 
 <a href="https://github.com/autoplot/dev/search?q=isAscii&unscoped_q=isAscii">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="read"></a>
@@ -78,6 +84,8 @@ the double representing.
 
 <a href="https://github.com/autoplot/dev/search?q=read&unscoped_q=read">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -90,6 +98,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="write"></a>
@@ -108,4 +118,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

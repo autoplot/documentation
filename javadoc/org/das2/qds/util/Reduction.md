@@ -23,6 +23,8 @@ rank 2 ds containing frequency of occurrence for each bin, with DEPEND_0=xxx and
 
 <a href="https://github.com/autoplot/dev/search?q=hexbin&unscoped_q=hexbin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="histogram2D"></a>
 # histogram2D
@@ -44,6 +46,8 @@ rank 2 ds containing frequency of occurrence for each bin, with DEPEND_0=xxx and
 
 <a href="https://github.com/autoplot/dev/search?q=histogram2D&unscoped_q=histogram2D">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="lastPointAt2D"></a>
 # lastPointAt2D
@@ -64,6 +68,8 @@ rank 2 ds containing the last point at each bin, with DEPEND_0=xxx and DEPEND_1=
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/ops/Ops.md#histogram2d'>org.das2.qds.ops.Ops#histogram2d(QDataSet, QDataSet, int[], QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=lastPointAt2D&unscoped_q=lastPointAt2D">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="reduce2D"></a>
@@ -96,6 +102,8 @@ the reduced dataset, rank 1 with DEPEND_0.
 
 <a href="https://github.com/autoplot/dev/search?q=reduce2D&unscoped_q=reduce2D">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reducex"></a>
 # reducex
@@ -125,5 +133,7 @@ ds - rank 1 or rank 2 dataset.  Must have DEPEND_0 (presently) and be a qube.  I
 the reduced dataset, or null if the input dataset was null.
 
 <a href="https://github.com/autoplot/dev/search?q=reducex&unscoped_q=reducex">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 reducex( QDataSet ds, QDataSet xLimit, boolean xregular ) &rarr; QDataSet<br>

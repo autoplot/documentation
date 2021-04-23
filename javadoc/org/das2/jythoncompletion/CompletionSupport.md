@@ -15,6 +15,8 @@ null or the CompletionContext for this.
 
 <a href="https://github.com/autoplot/dev/search?q=checkJavaSubClass&unscoped_q=checkJavaSubClass">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCompletionContext"></a>
 # getCompletionContext
@@ -29,5 +31,7 @@ editor - the editor component containing the script and the carot position.
 the completion context
 
 <a href="https://github.com/autoplot/dev/search?q=getCompletionContext&unscoped_q=getCompletionContext">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getCompletionContext( String line, int pos, int i0, int i1, int i2 ) &rarr; CompletionContext<br>

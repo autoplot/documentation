@@ -37,6 +37,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCaption"></a>
 # getCaption
@@ -49,6 +51,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCaption&unscoped_q=getCaption">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDatumRange"></a>
@@ -63,6 +67,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumRange&unscoped_q=getDatumRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getImage"></a>
 # getImage
@@ -76,6 +82,8 @@ a java.awt.image.BufferedImage
 
 <a href="https://github.com/autoplot/dev/search?q=getImage&unscoped_q=getImage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInitLoadBirthTime"></a>
 # getInitLoadBirthTime
@@ -87,6 +95,8 @@ get the time that the image load was triggered.
 the time in millis, to be compared to System.currentTimeMillis.
 
 <a href="https://github.com/autoplot/dev/search?q=getInitLoadBirthTime&unscoped_q=getInitLoadBirthTime">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSquishedThumbnail"></a>
@@ -100,6 +110,8 @@ java.awt.image.BufferedImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSquishedThumbnail&unscoped_q=getSquishedThumbnail">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getSquishedThumbnail( boolean loadIfNeeded ) &rarr; BufferedImage<br>
 ***
@@ -115,6 +127,8 @@ org.autoplot.pngwalk.WalkImage.Status
 
 <a href="https://github.com/autoplot/dev/search?q=getStatus&unscoped_q=getStatus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getThumbnail"></a>
 # getThumbnail
@@ -127,6 +141,8 @@ java.awt.image.BufferedImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=getThumbnail&unscoped_q=getThumbnail">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getThumbnail( int w, int h, boolean waitOk ) &rarr; BufferedImage<br>
 getThumbnail( boolean loadIfNeeded ) &rarr; BufferedImage<br>
@@ -146,6 +162,8 @@ java.awt.Dimension
 
 <a href="https://github.com/autoplot/dev/search?q=getThumbnailDimension&unscoped_q=getThumbnailDimension">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getThumbnailImmediately"></a>
 # getThumbnailImmediately
@@ -161,6 +179,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=getThumbnailImmediately&unscoped_q=getThumbnailImmediately">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUri"></a>
 # getUri
@@ -173,6 +193,8 @@ java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUri&unscoped_q=getUri">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="readImage"></a>
@@ -190,6 +212,8 @@ a java.awt.image.BufferedImage
 
 <a href="https://github.com/autoplot/dev/search?q=readImage&unscoped_q=readImage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -205,6 +229,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="rotateImage"></a>
@@ -223,6 +249,8 @@ the rotated image.
 
 <a href="https://github.com/autoplot/dev/search?q=rotateImage&unscoped_q=rotateImage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setCaption"></a>
 # setCaption
@@ -238,6 +266,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCaption&unscoped_q=setCaption">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDatumRange"></a>
@@ -255,6 +285,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDatumRange&unscoped_q=setDatumRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -268,6 +300,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="waitForImage"></a>
 # waitForImage
@@ -279,4 +313,6 @@ contain logic which will wait for the image to load.
 the image, or missingImage.
 
 <a href="https://github.com/autoplot/dev/search?q=waitForImage&unscoped_q=waitForImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

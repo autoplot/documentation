@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addFavorite&unscoped_q=addFavorite">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addFavoritesListener"></a>
 # addFavoritesListener
@@ -31,6 +33,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addFavoritesListener&unscoped_q=addFavoritesListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getActionListener"></a>
 # getActionListener
@@ -43,6 +47,8 @@ java.awt.event.ActionListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=getActionListener&unscoped_q=getActionListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getInstance"></a>
@@ -60,6 +66,8 @@ org.das2.components.FavoritesSelector
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMenu"></a>
 # getMenu
@@ -73,6 +81,8 @@ javax.swing.JPopupMenu
 
 <a href="https://github.com/autoplot/dev/search?q=getMenu&unscoped_q=getMenu">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeAll"></a>
 # removeAll
@@ -85,6 +95,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeAll&unscoped_q=removeAll">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeFavorite"></a>
@@ -102,6 +114,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeFavorite&unscoped_q=removeFavorite">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="size"></a>
 # size
@@ -114,4 +128,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=size&unscoped_q=size">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

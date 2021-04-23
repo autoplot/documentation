@@ -14,6 +14,8 @@ the column
 
 <a href="https://github.com/autoplot/dev/search?q=addColumn&unscoped_q=addColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addColumns"></a>
 # addColumns
@@ -29,6 +31,8 @@ a list of the new Columns.
 
 <a href="https://github.com/autoplot/dev/search?q=addColumns&unscoped_q=addColumns">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addRow"></a>
 # addRow
@@ -40,6 +44,8 @@ add a row to the application, below.
 the row
 
 <a href="https://github.com/autoplot/dev/search?q=addRow&unscoped_q=addRow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addRows"></a>
@@ -57,6 +63,8 @@ a java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=addRows&unscoped_q=addRows">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addRows( int count, Object dir ) &rarr; List<br>
 ***
 <a name="getDasCanvas"></a>
@@ -71,6 +79,8 @@ org.das2.graph.DasCanvas
 
 <a href="https://github.com/autoplot/dev/search?q=getDasCanvas&unscoped_q=getDasCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDropTargetListener"></a>
 # getDropTargetListener
@@ -83,6 +93,8 @@ java.awt.dnd.DropTargetListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDropTargetListener&unscoped_q=getDropTargetListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRowFor"></a>
@@ -99,6 +111,8 @@ org.autoplot.dom.Row
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRowFor&unscoped_q=getRowFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="indicateSelection"></a>
@@ -117,6 +131,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=indicateSelection&unscoped_q=indicateSelection">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="maybeAddColumn"></a>
 # maybeAddColumn
@@ -132,6 +148,8 @@ spec - spec like "30%+1em,60%-4em"
 a column that implements.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeAddColumn&unscoped_q=maybeAddColumn">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="maybeAddRow"></a>
@@ -149,6 +167,8 @@ a row that implements.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeAddRow&unscoped_q=maybeAddRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setColumn"></a>
 # setColumn
@@ -164,6 +184,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColumn&unscoped_q=setColumn">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDimensions"></a>
@@ -182,6 +204,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDimensions&unscoped_q=setDimensions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDropTargetListener"></a>
 # setDropTargetListener
@@ -197,6 +221,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDropTargetListener&unscoped_q=setDropTargetListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRow"></a>
@@ -214,6 +240,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRow&unscoped_q=setRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -226,4 +254,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

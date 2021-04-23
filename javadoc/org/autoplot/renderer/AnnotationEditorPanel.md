@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doBindings&unscoped_q=doBindings">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAnchorType"></a>
 # getAnchorType
@@ -30,6 +32,8 @@ org.das2.graph.AnchorType
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAnchorType&unscoped_q=getAnchorType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -47,6 +51,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="releaseBindings"></a>
 # releaseBindings
@@ -59,6 +65,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=releaseBindings&unscoped_q=releaseBindings">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAnchorType"></a>
@@ -75,4 +83,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAnchorType&unscoped_q=setAnchorType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

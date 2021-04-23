@@ -16,6 +16,8 @@ the result
 
 <a href="https://github.com/autoplot/dev/search?q=divide&unscoped_q=divide">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="divideToString"></a>
 # divideToString
@@ -34,6 +36,8 @@ String for the result, or "A/B"
 
 <a href="https://github.com/autoplot/dev/search?q=divideToString&unscoped_q=divideToString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInverseUnit"></a>
 # getInverseUnit
@@ -49,6 +53,8 @@ unit - the unit
 the inverse unit, or throws exception if one is not known.
 
 <a href="https://github.com/autoplot/dev/search?q=getInverseUnit&unscoped_q=getInverseUnit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isIntervalMeasurement"></a>
@@ -72,6 +78,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isIntervalMeasurement&unscoped_q=isIntervalMeasurement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isIntervalOrRatioMeasurement"></a>
 # isIntervalOrRatioMeasurement
@@ -92,6 +100,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isIntervalOrRatioMeasurement&unscoped_q=isIntervalOrRatioMeasurement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isNominalMeasurement"></a>
 # isNominalMeasurement
@@ -111,6 +121,8 @@ true if the unit is nominal.
 
 <a href="https://github.com/autoplot/dev/search?q=isNominalMeasurement&unscoped_q=isNominalMeasurement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isOrdinalMeasurement"></a>
 # isOrdinalMeasurement
@@ -129,6 +141,8 @@ unit - an Units
 true if the unit is ordinal.
 
 <a href="https://github.com/autoplot/dev/search?q=isOrdinalMeasurement&unscoped_q=isOrdinalMeasurement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isRatioMeasurement"></a>
@@ -152,6 +166,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isRatioMeasurement&unscoped_q=isRatioMeasurement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isRatiometric"></a>
 # isRatiometric
@@ -173,6 +189,8 @@ true if the unit is used to measure distance in a logarithmic space
 
 <a href="https://github.com/autoplot/dev/search?q=isRatiometric&unscoped_q=isRatiometric">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isTimeLocation"></a>
 # isTimeLocation
@@ -188,4 +206,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isTimeLocation&unscoped_q=isTimeLocation">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

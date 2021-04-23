@@ -20,6 +20,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=formatToFile&unscoped_q=formatToFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 formatToFile( String f, org.das2.qds.QDataSet[] dss ) &rarr; void<br>
 formatToFile( java.io.File f, QDataSet ds ) &rarr; void<br>
 formatToFile( String f, QDataSet ds ) &rarr; void<br>

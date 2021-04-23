@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addCellEditorListener&unscoped_q=addCellEditorListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="cancelCellEditing"></a>
 # cancelCellEditing
@@ -32,6 +34,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=cancelCellEditing&unscoped_q=cancelCellEditing">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getAsText"></a>
@@ -48,6 +52,8 @@ The property value as a human editable string.
 
 <a href="https://github.com/autoplot/dev/search?q=getAsText&unscoped_q=getAsText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCellEditorValue"></a>
 # getCellEditorValue
@@ -59,6 +65,8 @@ Returns the value contained in the editor.
 the value contained in the editor
 
 <a href="https://github.com/autoplot/dev/search?q=getCellEditorValue&unscoped_q=getCellEditorValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getCustomEditor"></a>
@@ -81,6 +89,8 @@ A java.awt.Component that will allow a human to directly
 
 <a href="https://github.com/autoplot/dev/search?q=getCustomEditor&unscoped_q=getCustomEditor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getJavaInitializationString"></a>
 # getJavaInitializationString
@@ -99,6 +109,8 @@ A fragment of Java code representing an initializer for the
 
 <a href="https://github.com/autoplot/dev/search?q=getJavaInitializationString&unscoped_q=getJavaInitializationString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getOptions"></a>
 # getOptions
@@ -111,6 +123,8 @@ org.das2.dasml.ListOption[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOptions&unscoped_q=getOptions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTableCellEditorComponent"></a>
@@ -146,6 +160,8 @@ the component for editing
 
 <a href="https://github.com/autoplot/dev/search?q=getTableCellEditorComponent&unscoped_q=getTableCellEditorComponent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTags"></a>
 # getTags
@@ -164,6 +180,8 @@ The tag values for this property.  May be null if this
 
 <a href="https://github.com/autoplot/dev/search?q=getTags&unscoped_q=getTags">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValue"></a>
 # getValue
@@ -176,6 +194,8 @@ The value of the property.  Primitive types such as "int" will
  be wrapped as the corresponding object type such as "java.lang.Integer".
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isCellEditable"></a>
@@ -201,6 +221,8 @@ true if editing can be started
 
 <a href="https://github.com/autoplot/dev/search?q=isCellEditable&unscoped_q=isCellEditable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isPaintable"></a>
 # isPaintable
@@ -212,6 +234,8 @@ Determines whether this property editor is paintable.
 True if the class will honor the paintValue method.
 
 <a href="https://github.com/autoplot/dev/search?q=isPaintable&unscoped_q=isPaintable">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -228,6 +252,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="paintValue"></a>
@@ -255,6 +281,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=paintValue&unscoped_q=paintValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeCellEditorListener"></a>
 # removeCellEditorListener
@@ -270,6 +298,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeCellEditorListener&unscoped_q=removeCellEditorListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAsText"></a>
@@ -290,6 +320,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAsText&unscoped_q=setAsText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setOptions"></a>
 # setOptions
@@ -305,6 +337,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOptions&unscoped_q=setOptions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setValue"></a>
@@ -326,6 +360,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setValue&unscoped_q=setValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="shouldSelectCell"></a>
@@ -354,6 +390,8 @@ true if the editor would like the editing cell to be selected;
 
 <a href="https://github.com/autoplot/dev/search?q=shouldSelectCell&unscoped_q=shouldSelectCell">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="showDialog"></a>
 # showDialog
@@ -366,6 +404,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showDialog&unscoped_q=showDialog">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="stopCellEditing"></a>
@@ -382,6 +422,8 @@ true if editing was stopped; false otherwise
 
 <a href="https://github.com/autoplot/dev/search?q=stopCellEditing&unscoped_q=stopCellEditing">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="supportsCustomEditor"></a>
 # supportsCustomEditor
@@ -393,4 +435,6 @@ Determines whether this property editor supports a custom editor.
 True if the propertyEditor can provide a custom editor.
 
 <a href="https://github.com/autoplot/dev/search?q=supportsCustomEditor&unscoped_q=supportsCustomEditor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

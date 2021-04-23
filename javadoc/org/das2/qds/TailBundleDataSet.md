@@ -31,6 +31,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=bundle&unscoped_q=bundle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="length"></a>
 # length
@@ -43,6 +45,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 length( int i0 ) &rarr; int<br>
 length( int i0, int i1 ) &rarr; int<br>
@@ -64,6 +68,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=property&unscoped_q=property">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rank"></a>
 # rank
@@ -77,6 +83,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -89,6 +97,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="unbundle"></a>
@@ -105,6 +115,8 @@ the dataset at i.
 
 <a href="https://github.com/autoplot/dev/search?q=unbundle&unscoped_q=unbundle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="value"></a>
 # value
@@ -120,6 +132,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 value( int i0, int i1 ) &rarr; double<br>
 value( int i0, int i1, int i2 ) &rarr; double<br>

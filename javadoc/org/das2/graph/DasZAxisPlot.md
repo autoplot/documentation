@@ -12,6 +12,8 @@ org.das2.dataset.DataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXAxis"></a>
 # getXAxis
@@ -24,6 +26,8 @@ org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXAxis&unscoped_q=getXAxis">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getYAxis"></a>
@@ -38,6 +42,8 @@ org.das2.graph.DasAxis
 
 <a href="https://github.com/autoplot/dev/search?q=getYAxis&unscoped_q=getYAxis">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getZAxis"></a>
 # getZAxis
@@ -50,6 +56,8 @@ org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=getZAxis&unscoped_q=getZAxis">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setZAxis"></a>
@@ -66,4 +74,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setZAxis&unscoped_q=setZAxis">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -25,6 +25,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=acceptContext&unscoped_q=acceptContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="acceptsDataSet"></a>
 # acceptsDataSet
@@ -40,6 +42,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=acceptsDataSet&unscoped_q=acceptsDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="doAutorange"></a>
@@ -57,6 +61,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=doAutorange&unscoped_q=doAutorange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLineThick"></a>
 # getLineThick
@@ -69,6 +75,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLineThick&unscoped_q=getLineThick">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="render"></a>
@@ -88,6 +96,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSet"></a>
 # setDataSet
@@ -104,6 +114,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLineThick"></a>
 # setLineThick
@@ -119,4 +131,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLineThick&unscoped_q=setLineThick">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

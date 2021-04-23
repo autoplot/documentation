@@ -37,6 +37,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTable"></a>
 # getTable
@@ -53,6 +55,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getTable&unscoped_q=getTable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTables"></a>
 # getTables
@@ -64,4 +68,6 @@ return a list of the tables, with column and human readable description after.
 a list of the tables, with column and human readable description after.
 
 <a href="https://github.com/autoplot/dev/search?q=getTables&unscoped_q=getTables">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

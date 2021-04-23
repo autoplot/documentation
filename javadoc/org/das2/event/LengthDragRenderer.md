@@ -14,6 +14,8 @@ true if the fit should be shown
 
 <a href="https://github.com/autoplot/dev/search?q=isShowFit&unscoped_q=isShowFit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isShowSlope"></a>
 # isShowSlope
@@ -25,6 +27,8 @@ true if the slope should be shown
 true if the slope should be shown
 
 <a href="https://github.com/autoplot/dev/search?q=isShowSlope&unscoped_q=isShowSlope">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="renderDrag"></a>
@@ -44,6 +48,8 @@ java.awt.Rectangle[]
 
 <a href="https://github.com/autoplot/dev/search?q=renderDrag&unscoped_q=renderDrag">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setShowFit"></a>
 # setShowFit
@@ -60,6 +66,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setShowFit&unscoped_q=setShowFit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setShowSlope"></a>
 # setShowSlope
@@ -75,4 +83,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowSlope&unscoped_q=setShowSlope">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

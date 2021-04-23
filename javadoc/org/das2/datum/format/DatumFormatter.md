@@ -18,6 +18,8 @@ a java.lang.String[]
 
 <a href="https://github.com/autoplot/dev/search?q=axisFormat&unscoped_q=axisFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="format"></a>
 # format
@@ -33,6 +35,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 format( Datum datum, Units units ) &rarr; String<br>
 ***
@@ -55,5 +59,7 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=grannyFormat&unscoped_q=grannyFormat">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 grannyFormat( Datum datum, Units units ) &rarr; String<br>

@@ -16,6 +16,8 @@ a rank 2 dataset of complex numbers.
 
 <a href="https://github.com/autoplot/dev/search?q=ifft&unscoped_q=ifft">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ifft( QDataSet ds, QDataSet window, int stepFraction, ProgressMonitor mon ) &rarr; QDataSet<br>
 ***
 <a name="imax"></a>
@@ -33,6 +35,8 @@ the index of the maximum value, or -1 if the data is all fill.
 
 <a href="https://github.com/autoplot/dev/search?q=imax&unscoped_q=imax">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 imax( Object ds ) &rarr; int<br>
 ***
 <a name="imin"></a>
@@ -49,6 +53,8 @@ ds - rank 1 dataset
 the index of the maximum value, or -1 if the data is all fill.
 
 <a href="https://github.com/autoplot/dev/search?q=imin&unscoped_q=imin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 imin( Object ds ) &rarr; int<br>
 ***
@@ -71,6 +77,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=indgen&unscoped_q=indgen">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 indgen( int len0, int len1 ) &rarr; QDataSet<br>
 indgen( int len0, int len1, int len2 ) &rarr; QDataSet<br>
 ***
@@ -90,6 +98,8 @@ rank 1 dataset filled with zeros.
 <a href='Ops_d.md#dblarr'>dblarr(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=intarr&unscoped_q=intarr">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 intarr( int len0, int len1 ) &rarr; QDataSet<br>
 intarr( int len0, int len1, int len2 ) &rarr; QDataSet<br>
@@ -132,6 +142,8 @@ the result.
 
 <a href="https://github.com/autoplot/dev/search?q=interpolate&unscoped_q=interpolate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 interpolate( Object vv, Object findex ) &rarr; QDataSet<br>
 interpolate( QDataSet vv, QDataSet findex0, QDataSet findex1 ) &rarr; QDataSet<br>
 interpolate( Object vv, Object findex0, Object findex1 ) &rarr; QDataSet<br>
@@ -157,6 +169,8 @@ rank 2 dataset
 
 <a href="https://github.com/autoplot/dev/search?q=interpolateGrid&unscoped_q=interpolateGrid">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 interpolateGrid( Object x, Object y, Object z ) &rarr; QDataSet<br>
 ***
 <a name="interpolateMod"></a>
@@ -178,6 +192,8 @@ the result, a rank 1 dataset with one element for each findex.
 
 <a href="https://github.com/autoplot/dev/search?q=interpolateMod&unscoped_q=interpolateMod">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="irange"></a>
 # irange
@@ -198,6 +214,8 @@ an iterator for the numbers in the interval.
 
 <a href="https://github.com/autoplot/dev/search?q=irange&unscoped_q=irange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 irange( double min, double max ) &rarr; Iterator<br>
 irange( double max ) &rarr; Iterator<br>
 ***
@@ -216,6 +234,8 @@ the multiplier to make the dataset into radians, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=isAngleRange&unscoped_q=isAngleRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isBundle"></a>
 # isBundle
@@ -233,6 +253,8 @@ true if the dataset is a bundle.
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/examples/Schemes.md'>org.das2.qds.examples.Schemes</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=isBundle&unscoped_q=isBundle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isLegacyBundle"></a>
@@ -253,6 +275,8 @@ return true if DEPEND_1 is set and its units are EnumerationUnits.
 
 <a href="https://github.com/autoplot/dev/search?q=isLegacyBundle&unscoped_q=isLegacyBundle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSafeName"></a>
 # isSafeName
@@ -269,4 +293,6 @@ name - a String
 true if the name is a safe identifier name.
 
 <a href="https://github.com/autoplot/dev/search?q=isSafeName&unscoped_q=isSafeName">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

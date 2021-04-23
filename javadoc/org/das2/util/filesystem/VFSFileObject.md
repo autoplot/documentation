@@ -16,6 +16,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=canRead&unscoped_q=canRead">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="canWrite"></a>
 # canWrite
@@ -29,6 +31,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=canWrite&unscoped_q=canWrite">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="close"></a>
 # close
@@ -41,6 +45,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createFile"></a>
@@ -56,6 +62,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=createFile&unscoped_q=createFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createFolder"></a>
 # createFolder
@@ -70,6 +78,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=createFolder&unscoped_q=createFolder">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="delete"></a>
 # delete
@@ -83,6 +93,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=delete&unscoped_q=delete">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="exists"></a>
 # exists
@@ -95,6 +107,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=exists&unscoped_q=exists">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getChannel"></a>
@@ -112,6 +126,8 @@ java.nio.channels.ReadableByteChannel
 
 <a href="https://github.com/autoplot/dev/search?q=getChannel&unscoped_q=getChannel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getChildren"></a>
 # getChildren
@@ -124,6 +140,8 @@ org.das2.util.filesystem.FileObject[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getChildren&unscoped_q=getChildren">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFile"></a>
@@ -141,6 +159,8 @@ java.io.File
 
 <a href="https://github.com/autoplot/dev/search?q=getFile&unscoped_q=getFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInputStream"></a>
 # getInputStream
@@ -157,6 +177,8 @@ java.io.InputStream
 
 <a href="https://github.com/autoplot/dev/search?q=getInputStream&unscoped_q=getInputStream">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNameExt"></a>
 # getNameExt
@@ -169,6 +191,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNameExt&unscoped_q=getNameExt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getOutputStream"></a>
@@ -186,6 +210,8 @@ java.io.OutputStream
 
 <a href="https://github.com/autoplot/dev/search?q=getOutputStream&unscoped_q=getOutputStream">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParent"></a>
 # getParent
@@ -198,6 +224,8 @@ org.das2.util.filesystem.FileObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSize"></a>
@@ -212,6 +240,8 @@ long
 
 <a href="https://github.com/autoplot/dev/search?q=getSize&unscoped_q=getSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isData"></a>
 # isData
@@ -224,6 +254,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isData&unscoped_q=isData">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isFolder"></a>
@@ -238,6 +270,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isFolder&unscoped_q=isFolder">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isLocal"></a>
 # isLocal
@@ -250,6 +284,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLocal&unscoped_q=isLocal">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isReadOnly"></a>
@@ -264,6 +300,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isReadOnly&unscoped_q=isReadOnly">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isRoot"></a>
 # isRoot
@@ -277,6 +315,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isRoot&unscoped_q=isRoot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="lastModified"></a>
 # lastModified
@@ -289,4 +329,6 @@ java.util.Date
 
 
 <a href="https://github.com/autoplot/dev/search?q=lastModified&unscoped_q=lastModified">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

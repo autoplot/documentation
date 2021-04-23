@@ -16,6 +16,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=atomicLock&unscoped_q=atomicLock">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="atomicUnlock"></a>
 # atomicUnlock
@@ -29,6 +31,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=atomicUnlock&unscoped_q=atomicUnlock">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDefaultRootElement"></a>
 # getDefaultRootElement
@@ -41,6 +45,8 @@ javax.swing.text.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDefaultRootElement&unscoped_q=getDefaultRootElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getParagraphElement"></a>
@@ -57,4 +63,6 @@ javax.swing.text.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParagraphElement&unscoped_q=getParagraphElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

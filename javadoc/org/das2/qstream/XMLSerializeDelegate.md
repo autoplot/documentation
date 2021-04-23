@@ -16,6 +16,8 @@ org.w3c.dom.Element
 
 <a href="https://github.com/autoplot/dev/search?q=xmlFormat&unscoped_q=xmlFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="xmlParse"></a>
 # xmlParse
@@ -31,4 +33,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=xmlParse&unscoped_q=xmlParse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

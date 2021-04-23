@@ -39,6 +39,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=drawListIcon&unscoped_q=drawListIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCursor"></a>
 # getCursor
@@ -51,6 +53,8 @@ return a cursor that indicates the selected module.  Note this is currently
 a cursor that indicates the selected module.
 
 <a href="https://github.com/autoplot/dev/search?q=getCursor&unscoped_q=getCursor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDirections"></a>
@@ -65,6 +69,8 @@ the directions, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getDirections&unscoped_q=getDirections">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDragRenderer"></a>
 # getDragRenderer
@@ -77,6 +83,8 @@ the current drag renderer.
 
 <a href="https://github.com/autoplot/dev/search?q=getDragRenderer&unscoped_q=getDragRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -88,6 +96,8 @@ returns a human-readable string that identifies the module
 a human-readable string that identifies the module
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getListIcon"></a>
@@ -102,6 +112,8 @@ the list icon.
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getListLabel"></a>
 # getListLabel
@@ -115,6 +127,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getListLabel&unscoped_q=getListLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParent"></a>
 # getParent
@@ -127,6 +141,8 @@ return the canvas component (for example, a DasPlot) where this
 the canvas component.
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="keyPressed"></a>
@@ -144,6 +160,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=keyPressed&unscoped_q=keyPressed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="keyReleased"></a>
 # keyReleased
@@ -159,6 +177,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=keyReleased&unscoped_q=keyReleased">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="keyTyped"></a>
@@ -176,6 +196,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=keyTyped&unscoped_q=keyTyped">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseClicked"></a>
 # mouseClicked
@@ -191,6 +213,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseClicked&unscoped_q=mouseClicked">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mouseDragged"></a>
@@ -208,6 +232,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mouseDragged&unscoped_q=mouseDragged">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseEntered"></a>
 # mouseEntered
@@ -223,6 +249,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseEntered&unscoped_q=mouseEntered">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mouseExited"></a>
@@ -240,6 +268,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mouseExited&unscoped_q=mouseExited">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseMoved"></a>
 # mouseMoved
@@ -255,6 +285,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseMoved&unscoped_q=mouseMoved">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mousePointSelected"></a>
@@ -273,6 +305,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mousePointSelected&unscoped_q=mousePointSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mousePressed"></a>
 # mousePressed
@@ -288,6 +322,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mousePressed&unscoped_q=mousePressed">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mouseRangeSelected"></a>
@@ -306,6 +342,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mouseRangeSelected&unscoped_q=mouseRangeSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseReleased"></a>
 # mouseReleased
@@ -322,6 +360,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mouseReleased&unscoped_q=mouseReleased">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseWheelMoved"></a>
 # mouseWheelMoved
@@ -337,6 +377,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseWheelMoved&unscoped_q=mouseWheelMoved">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="position"></a>
@@ -356,6 +398,8 @@ enumeration of the position, for example Pos.beyondMin.
 
 <a href="https://github.com/autoplot/dev/search?q=position&unscoped_q=position">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDirections"></a>
 # setDirections
@@ -373,6 +417,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDirections&unscoped_q=setDirections">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDragRenderer"></a>
 # setDragRenderer
@@ -389,6 +435,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDragRenderer&unscoped_q=setDragRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLabel"></a>
 # setLabel
@@ -404,4 +452,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabel&unscoped_q=setLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=devicePositionChanged&unscoped_q=devicePositionChanged">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="deviceRangeChanged"></a>
 # deviceRangeChanged
@@ -30,4 +32,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=deviceRangeChanged&unscoped_q=deviceRangeChanged">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

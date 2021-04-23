@@ -20,6 +20,8 @@ short
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnNumber&unscoped_q=getColumnNumber">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColumns"></a>
 # getColumns
@@ -40,6 +42,8 @@ a java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=getColumns&unscoped_q=getColumns">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSheets"></a>
 # getSheets
@@ -57,4 +61,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSheets&unscoped_q=getSheets">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

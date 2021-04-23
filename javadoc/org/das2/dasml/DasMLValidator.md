@@ -40,6 +40,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=endDocument&unscoped_q=endDocument">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="endElement"></a>
 # endElement
@@ -57,6 +59,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=endElement&unscoped_q=endElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="error"></a>
@@ -77,6 +81,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=error&unscoped_q=error">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="fatalError"></a>
 # fatalError
@@ -96,6 +102,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=fatalError&unscoped_q=fatalError">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLastError"></a>
 # getLastError
@@ -113,6 +121,8 @@ the last error.
 
 <a href="https://github.com/autoplot/dev/search?q=getLastError&unscoped_q=getLastError">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -128,6 +138,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDocumentLocator"></a>
@@ -148,6 +160,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDocumentLocator&unscoped_q=setDocumentLocator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="startDocument"></a>
 # startDocument
@@ -162,6 +176,8 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/ContentHandler.md#startDocument'>org.xml.sax.ContentHandler#startDocument</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=startDocument&unscoped_q=startDocument">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="startElement"></a>
@@ -184,6 +200,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=startElement&unscoped_q=startElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="validate"></a>
 # validate
@@ -205,6 +223,8 @@ true if the document is a valid dasML document.
 
 <a href="https://github.com/autoplot/dev/search?q=validate&unscoped_q=validate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="warning"></a>
 # warning
@@ -223,4 +243,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/SAXParseException.md'>org.xml.sax.SAXParseException</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=warning&unscoped_q=warning">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

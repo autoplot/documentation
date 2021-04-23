@@ -28,4 +28,6 @@ rank 2 bundle of [n,3] with DEPEND_0 as the contour number
 
 <a href="https://github.com/autoplot/dev/search?q=performContour&unscoped_q=performContour">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 performContour( Object form ) &rarr; QDataSet<br>

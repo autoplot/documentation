@@ -13,6 +13,8 @@ true if the file can be created.
 
 <a href="https://github.com/autoplot/dev/search?q=canWrite&unscoped_q=canWrite">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="delete"></a>
 # delete
@@ -24,6 +26,8 @@ delete the file
 true if the file was deleted.
 
 <a href="https://github.com/autoplot/dev/search?q=delete&unscoped_q=delete">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getOutputStream"></a>
@@ -37,4 +41,6 @@ a java.io.OutputStream
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOutputStream&unscoped_q=getOutputStream">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

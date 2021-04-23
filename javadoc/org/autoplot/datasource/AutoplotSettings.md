@@ -53,6 +53,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAutoplotData"></a>
 # getAutoplotData
@@ -67,6 +69,8 @@ the user's Autoplot data folder.
 
 <a href="https://github.com/autoplot/dev/search?q=getAutoplotData&unscoped_q=getAutoplotData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFscache"></a>
 # getFscache
@@ -79,6 +83,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFscache&unscoped_q=getFscache">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPreferences"></a>
@@ -95,6 +101,8 @@ c - the class requesting preferences.
 the preferences object this class should use.
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferences&unscoped_q=getPreferences">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="loadPreferences"></a>
@@ -116,6 +124,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=loadPreferences&unscoped_q=loadPreferences">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -131,6 +141,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resolveProperty"></a>
@@ -149,6 +161,8 @@ the value with references resolved.
 
 <a href="https://github.com/autoplot/dev/search?q=resolveProperty&unscoped_q=resolveProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFscache"></a>
 # setFscache
@@ -165,6 +179,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFscache&unscoped_q=setFscache">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="settings"></a>
 # settings
@@ -177,4 +193,6 @@ org.autoplot.datasource.AutoplotSettings
 
 
 <a href="https://github.com/autoplot/dev/search?q=settings&unscoped_q=settings">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

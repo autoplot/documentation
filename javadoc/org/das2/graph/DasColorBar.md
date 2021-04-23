@@ -37,6 +37,8 @@ java.awt.Shape
 
 <a href="https://github.com/autoplot/dev/search?q=getActiveRegion&unscoped_q=getActiveRegion">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColorBarColumn"></a>
 # getColorBarColumn
@@ -53,6 +55,8 @@ the new column.
 
 <a href="https://github.com/autoplot/dev/search?q=getColorBarColumn&unscoped_q=getColorBarColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFillColor"></a>
 # getFillColor
@@ -66,6 +70,8 @@ the fill color.
 
 <a href="https://github.com/autoplot/dev/search?q=getFillColor&unscoped_q=getFillColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFillColorIndex"></a>
 # getFillColorIndex
@@ -77,6 +83,8 @@ return the index of the fill color in the indexed color model.
 the index of the fill color
 
 <a href="https://github.com/autoplot/dev/search?q=getFillColorIndex&unscoped_q=getFillColorIndex">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getIndexColorModel"></a>
@@ -90,6 +98,8 @@ the color model
 
 <a href="https://github.com/autoplot/dev/search?q=getIndexColorModel&unscoped_q=getIndexColorModel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getType"></a>
 # getType
@@ -101,6 +111,8 @@ return the type of colorbar (e.g. DasColorBar.Type.GRAYSCALE or DasColorBar.Type
 the type of colorbar
 
 <a href="https://github.com/autoplot/dev/search?q=getType&unscoped_q=getType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="indexColorTransform"></a>
@@ -120,6 +132,8 @@ the index into the color table.
 
 <a href="https://github.com/autoplot/dev/search?q=indexColorTransform&unscoped_q=indexColorTransform">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isShowColorBar"></a>
 # isShowColorBar
@@ -132,6 +146,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowColorBar&unscoped_q=isShowColorBar">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="rgbTransform"></a>
@@ -151,6 +167,8 @@ the combined RGB components
 
 <a href="https://github.com/autoplot/dev/search?q=rgbTransform&unscoped_q=rgbTransform">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFillColor"></a>
 # setFillColor
@@ -167,6 +185,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillColor&unscoped_q=setFillColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setShowColorBar"></a>
@@ -185,6 +205,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setShowColorBar&unscoped_q=setShowColorBar">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setType"></a>
 # setType
@@ -200,4 +222,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setType&unscoped_q=setType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

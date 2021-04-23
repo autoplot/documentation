@@ -166,6 +166,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=acceptContext&unscoped_q=acceptContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addPainter"></a>
 # addPainter
@@ -186,6 +188,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPainter&unscoped_q=addPainter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="clearPainters"></a>
 # clearPainters
@@ -198,6 +202,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearPainters&unscoped_q=clearPainters">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="contains"></a>
@@ -216,6 +222,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=contains&unscoped_q=contains">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getActiveRegion"></a>
 # getActiveRegion
@@ -228,6 +236,8 @@ java.awt.Shape
 
 
 <a href="https://github.com/autoplot/dev/search?q=getActiveRegion&unscoped_q=getActiveRegion">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getAnchorBackground"></a>
@@ -242,6 +252,8 @@ java.awt.Color
 
 <a href="https://github.com/autoplot/dev/search?q=getAnchorBackground&unscoped_q=getAnchorBackground">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAnchorBorderType"></a>
 # getAnchorBorderType
@@ -254,6 +266,8 @@ org.das2.graph.BorderType
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAnchorBorderType&unscoped_q=getAnchorBorderType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getAnchorOffset"></a>
@@ -268,6 +282,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getAnchorOffset&unscoped_q=getAnchorOffset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAnchorPosition"></a>
 # getAnchorPosition
@@ -279,6 +295,8 @@ get the location within the box where the annotation will be drawn.
 anchorPosition
 
 <a href="https://github.com/autoplot/dev/search?q=getAnchorPosition&unscoped_q=getAnchorPosition">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getAnchorType"></a>
@@ -293,6 +311,8 @@ org.das2.graph.AnchorType
 
 <a href="https://github.com/autoplot/dev/search?q=getAnchorType&unscoped_q=getAnchorType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getArrowStyle"></a>
 # getArrowStyle
@@ -304,6 +324,8 @@ get the arrow style
 the arrow style
 
 <a href="https://github.com/autoplot/dev/search?q=getArrowStyle&unscoped_q=getArrowStyle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getBorderType"></a>
@@ -317,6 +339,8 @@ the border type
 
 <a href="https://github.com/autoplot/dev/search?q=getBorderType&unscoped_q=getBorderType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFontSize"></a>
 # getFontSize
@@ -329,6 +353,8 @@ the font size in points.
 
 <a href="https://github.com/autoplot/dev/search?q=getFontSize&unscoped_q=getFontSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPointAt"></a>
 # getPointAt
@@ -340,6 +366,8 @@ return the thing we are pointing at.
 the thing we are pointing at.
 
 <a href="https://github.com/autoplot/dev/search?q=getPointAt&unscoped_q=getPointAt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPointAtOffset"></a>
@@ -354,6 +382,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getPointAtOffset&unscoped_q=getPointAtOffset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPointAtX"></a>
 # getPointAtX
@@ -366,6 +396,8 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPointAtX&unscoped_q=getPointAtX">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPointAtY"></a>
@@ -380,6 +412,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=getPointAtY&unscoped_q=getPointAtY">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getReferenceX"></a>
 # getReferenceX
@@ -392,6 +426,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getReferenceX&unscoped_q=getReferenceX">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getReferenceY"></a>
@@ -406,6 +442,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getReferenceY&unscoped_q=getReferenceY">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getScale"></a>
 # getScale
@@ -419,6 +457,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getScale&unscoped_q=getScale">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSymbol"></a>
 # getSymbol
@@ -431,6 +471,8 @@ org.das2.graph.PlotSymbol
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSymbol&unscoped_q=getSymbol">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getText"></a>
@@ -446,6 +488,8 @@ the text.
 
 <a href="https://github.com/autoplot/dev/search?q=getText&unscoped_q=getText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTextColor"></a>
 # getTextColor
@@ -458,6 +502,8 @@ java.awt.Color
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTextColor&unscoped_q=getTextColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUrl"></a>
@@ -472,6 +518,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getUrl&unscoped_q=getUrl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getVerticalAnchorType"></a>
 # getVerticalAnchorType
@@ -484,6 +532,8 @@ org.das2.graph.AnchorType
 
 
 <a href="https://github.com/autoplot/dev/search?q=getVerticalAnchorType&unscoped_q=getVerticalAnchorType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getXrange"></a>
@@ -498,6 +548,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getXrange&unscoped_q=getXrange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getYrange"></a>
 # getYrange
@@ -510,6 +562,8 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYrange&unscoped_q=getYrange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isOverrideColors"></a>
@@ -524,6 +578,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isOverrideColors&unscoped_q=isOverrideColors">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isShowArrow"></a>
 # isShowArrow
@@ -537,6 +593,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isShowArrow&unscoped_q=isShowArrow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSplitAnchorType"></a>
 # isSplitAnchorType
@@ -549,6 +607,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isSplitAnchorType&unscoped_q=isSplitAnchorType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="paintComponent"></a>
@@ -566,6 +626,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=paintComponent&unscoped_q=paintComponent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePainter"></a>
 # removePainter
@@ -582,6 +644,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePainter&unscoped_q=removePainter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resize"></a>
 # resize
@@ -594,6 +658,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAnchorBackground"></a>
@@ -611,6 +677,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAnchorBackground&unscoped_q=setAnchorBackground">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAnchorBorderType"></a>
 # setAnchorBorderType
@@ -626,6 +694,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAnchorBorderType&unscoped_q=setAnchorBorderType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAnchorOffset"></a>
@@ -645,6 +715,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAnchorOffset&unscoped_q=setAnchorOffset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAnchorPosition"></a>
 # setAnchorPosition
@@ -660,6 +732,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAnchorPosition&unscoped_q=setAnchorPosition">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAnchorType"></a>
@@ -677,6 +751,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAnchorType&unscoped_q=setAnchorType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setArrowStyle"></a>
 # setArrowStyle
@@ -693,6 +769,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setArrowStyle&unscoped_q=setArrowStyle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setBorderType"></a>
 # setBorderType
@@ -708,6 +786,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBorderType&unscoped_q=setBorderType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFontSize"></a>
@@ -726,6 +806,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFontSize&unscoped_q=setFontSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setOverrideColors"></a>
 # setOverrideColors
@@ -741,6 +823,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOverrideColors&unscoped_q=setOverrideColors">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPlot"></a>
@@ -758,6 +842,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPlot&unscoped_q=setPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPointAt"></a>
 # setPointAt
@@ -773,6 +859,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPointAt&unscoped_q=setPointAt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPointAtOffset"></a>
@@ -790,6 +878,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPointAtOffset&unscoped_q=setPointAtOffset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPointAtX"></a>
 # setPointAtX
@@ -805,6 +895,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPointAtX&unscoped_q=setPointAtX">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPointAtY"></a>
@@ -822,6 +914,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPointAtY&unscoped_q=setPointAtY">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setReferenceX"></a>
 # setReferenceX
@@ -838,6 +932,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setReferenceX&unscoped_q=setReferenceX">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setReferenceY"></a>
 # setReferenceY
@@ -853,6 +949,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReferenceY&unscoped_q=setReferenceY">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setScale"></a>
@@ -871,6 +969,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setScale&unscoped_q=setScale">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setShowArrow"></a>
 # setShowArrow
@@ -886,6 +986,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowArrow&unscoped_q=setShowArrow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSplitAnchorType"></a>
@@ -903,6 +1005,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSplitAnchorType&unscoped_q=setSplitAnchorType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSymbol"></a>
 # setSymbol
@@ -918,6 +1022,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSymbol&unscoped_q=setSymbol">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setText"></a>
@@ -940,6 +1046,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setText&unscoped_q=setText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTextColor"></a>
 # setTextColor
@@ -956,6 +1064,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTextColor&unscoped_q=setTextColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setUrl"></a>
@@ -974,6 +1084,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setUrl&unscoped_q=setUrl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setVerticalAnchorType"></a>
 # setVerticalAnchorType
@@ -991,6 +1103,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setVerticalAnchorType&unscoped_q=setVerticalAnchorType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setXrange"></a>
 # setXrange
@@ -1007,6 +1121,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setXrange&unscoped_q=setXrange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setYrange"></a>
 # setYrange
@@ -1022,4 +1138,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setYrange&unscoped_q=setYrange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

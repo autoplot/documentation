@@ -27,6 +27,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedURIs&unscoped_q=getSelectedURIs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setVap"></a>
 # setVap
@@ -43,6 +45,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setVap&unscoped_q=setVap">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="showDialog"></a>
 # showDialog
@@ -58,4 +62,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=showDialog&unscoped_q=showDialog">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

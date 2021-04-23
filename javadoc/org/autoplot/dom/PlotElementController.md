@@ -84,6 +84,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=bindToContoursRenderer&unscoped_q=bindToContoursRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="bindToDigitalRenderer"></a>
 # bindToDigitalRenderer
@@ -99,6 +101,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=bindToDigitalRenderer&unscoped_q=bindToDigitalRenderer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="bindToEventsRenderer"></a>
@@ -116,6 +120,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=bindToEventsRenderer&unscoped_q=bindToEventsRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="bindToImageVectorDataSetRenderer"></a>
 # bindToImageVectorDataSetRenderer
@@ -131,6 +137,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=bindToImageVectorDataSetRenderer&unscoped_q=bindToImageVectorDataSetRenderer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="bindToPolarPlotRenderer"></a>
@@ -148,6 +156,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=bindToPolarPlotRenderer&unscoped_q=bindToPolarPlotRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="bindToSeriesRenderer"></a>
 # bindToSeriesRenderer
@@ -163,6 +173,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=bindToSeriesRenderer&unscoped_q=bindToSeriesRenderer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="bindToSpectrogramRenderer"></a>
@@ -180,6 +192,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=bindToSpectrogramRenderer&unscoped_q=bindToSpectrogramRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="bindToTickCurveRenderer"></a>
 # bindToTickCurveRenderer
@@ -195,6 +209,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=bindToTickCurveRenderer&unscoped_q=bindToTickCurveRenderer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="doAutoranging"></a>
@@ -213,6 +229,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=doAutoranging&unscoped_q=doAutoranging">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 doAutoranging( org.autoplot.dom.PlotElement peleCopy, java.util.Map props, QDataSet fillDs, boolean ignoreDsProps ) &rarr; void<br>
 ***
@@ -237,6 +255,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doResetRenderType&unscoped_q=doResetRenderType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getApplication"></a>
 # getApplication
@@ -249,6 +269,8 @@ an org.autoplot.dom.Application
 
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getChildPlotElements"></a>
@@ -264,6 +286,8 @@ a java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=getChildPlotElements&unscoped_q=getChildPlotElements">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDasPlot"></a>
 # getDasPlot
@@ -275,6 +299,8 @@ return the plot containing this plotElement's renderer, or null.
 the plot containing this plotElement's renderer, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getDasPlot&unscoped_q=getDasPlot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSet"></a>
@@ -289,6 +315,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSourceFilter"></a>
 # getDataSourceFilter
@@ -301,6 +329,8 @@ an org.autoplot.dom.DataSourceFilter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFilter&unscoped_q=getDataSourceFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getParentPlotElement"></a>
@@ -315,6 +345,8 @@ an org.autoplot.dom.PlotElement
 
 <a href="https://github.com/autoplot/dev/search?q=getParentPlotElement&unscoped_q=getParentPlotElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPlotElement"></a>
 # getPlotElement
@@ -326,6 +358,8 @@ return the plot element.
 the plot element.
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotElement&unscoped_q=getPlotElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRenderer"></a>
@@ -340,6 +374,8 @@ org.das2.graph.Renderer
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderer&unscoped_q=getRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDsfReset"></a>
 # isDsfReset
@@ -352,6 +388,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDsfReset&unscoped_q=isDsfReset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isPendingChanges"></a>
@@ -366,6 +404,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isPendingChanges&unscoped_q=isPendingChanges">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isResetComponent"></a>
 # isResetComponent
@@ -378,6 +418,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isResetComponent&unscoped_q=isResetComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isResetPlotElement"></a>
@@ -392,6 +434,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isResetPlotElement&unscoped_q=isResetPlotElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isResetRanges"></a>
 # isResetRanges
@@ -404,6 +448,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isResetRanges&unscoped_q=isResetRanges">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isResetRenderType"></a>
@@ -418,6 +464,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isResetRenderType&unscoped_q=isResetRenderType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSliceAutoranges"></a>
 # isSliceAutoranges
@@ -430,6 +478,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isSliceAutoranges&unscoped_q=isSliceAutoranges">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="pendingChanges"></a>
@@ -446,6 +496,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=pendingChanges&unscoped_q=pendingChanges">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resolveRenderType"></a>
@@ -464,6 +516,8 @@ the render string with canonical types.  The result will always contain a greate
 
 <a href="https://github.com/autoplot/dev/search?q=resolveRenderType&unscoped_q=resolveRenderType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDsfReset"></a>
 # setDsfReset
@@ -479,6 +533,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDsfReset&unscoped_q=setDsfReset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRenderer"></a>
@@ -499,6 +555,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRenderer&unscoped_q=setRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setResetComponent"></a>
 # setResetComponent
@@ -514,6 +572,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setResetComponent&unscoped_q=setResetComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setResetPlotElement"></a>
@@ -531,6 +591,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setResetPlotElement&unscoped_q=setResetPlotElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setResetRanges"></a>
 # setResetRanges
@@ -546,6 +608,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setResetRanges&unscoped_q=setResetRanges">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setResetRenderType"></a>
@@ -563,6 +627,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setResetRenderType&unscoped_q=setResetRenderType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSliceAutoranges"></a>
 # setSliceAutoranges
@@ -579,6 +645,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSliceAutoranges&unscoped_q=setSliceAutoranges">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -591,4 +659,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

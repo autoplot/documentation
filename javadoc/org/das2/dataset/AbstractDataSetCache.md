@@ -31,6 +31,8 @@ org.das2.dataset.DataSet
 
 <a href="https://github.com/autoplot/dev/search?q=coalese&unscoped_q=coalese">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="haveStored"></a>
 # haveStored
@@ -48,6 +50,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=haveStored&unscoped_q=haveStored">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isResetCache"></a>
 # isResetCache
@@ -59,6 +63,8 @@ Getter for property resetCache.
 Value of property resetCache.
 
 <a href="https://github.com/autoplot/dev/search?q=isResetCache&unscoped_q=isResetCache">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="reset"></a>
@@ -72,6 +78,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="retrieve"></a>
@@ -90,6 +98,8 @@ org.das2.dataset.DataSet
 
 <a href="https://github.com/autoplot/dev/search?q=retrieve&unscoped_q=retrieve">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setResetCache"></a>
 # setResetCache
@@ -105,6 +115,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setResetCache&unscoped_q=setResetCache">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="store"></a>
@@ -123,4 +135,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=store&unscoped_q=store">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

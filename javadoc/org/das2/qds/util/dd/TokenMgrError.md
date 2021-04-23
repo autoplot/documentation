@@ -27,3 +27,5 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getMessage&unscoped_q=getMessage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

@@ -17,6 +17,8 @@ the capability, such as an instance of org.autoplot.datasource.capability.TimeSe
 
 <a href="https://github.com/autoplot/dev/search?q=getCapability&unscoped_q=getCapability">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCompletions"></a>
 # getCompletions
@@ -35,6 +37,8 @@ a set of completions
 
 <a href="https://github.com/autoplot/dev/search?q=getCompletions&unscoped_q=getCompletions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSource"></a>
 # getDataSource
@@ -50,6 +54,8 @@ the DataSource
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDescription"></a>
 # getDescription
@@ -63,6 +69,8 @@ return a short description of the factory, or empty string.  For example,
 a short description of the factory.
 
 <a href="https://github.com/autoplot/dev/search?q=getDescription&unscoped_q=getDescription">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isFileResource"></a>
@@ -78,6 +86,8 @@ true if the data source is based on files.  For example, a CDF file
 true if the data source is based on files.
 
 <a href="https://github.com/autoplot/dev/search?q=isFileResource&unscoped_q=isFileResource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="reject"></a>
@@ -100,6 +110,8 @@ true if the string cannot be used as a URI.
 
 <a href="https://github.com/autoplot/dev/search?q=reject&unscoped_q=reject">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="supportsDiscovery"></a>
 # supportsDiscovery
@@ -113,4 +125,6 @@ mark that this source has an editor that allows discovery of data,
 true if the data source factory supports discovery.
 
 <a href="https://github.com/autoplot/dev/search?q=supportsDiscovery&unscoped_q=supportsDiscovery">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

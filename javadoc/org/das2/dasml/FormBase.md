@@ -27,6 +27,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addForm&unscoped_q=addForm">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addWindow"></a>
 # addWindow
@@ -42,6 +44,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addWindow&unscoped_q=addWindow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="checkValue"></a>
@@ -61,6 +65,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=checkValue&unscoped_q=checkValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="deregisterComponent"></a>
 # deregisterComponent
@@ -73,6 +79,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=deregisterComponent&unscoped_q=deregisterComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDOMElement"></a>
@@ -90,6 +98,8 @@ org.w3c.dom.Element
 
 <a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDasApplication"></a>
 # getDasApplication
@@ -102,6 +112,8 @@ org.das2.DasApplication
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasApplication&unscoped_q=getDasApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDasName"></a>
@@ -116,6 +128,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getDasName&unscoped_q=getDasName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDnDSupport"></a>
 # getDnDSupport
@@ -128,6 +142,8 @@ org.das2.util.DnDSupport
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDnDSupport&unscoped_q=getDnDSupport">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getEditingMode"></a>
@@ -142,6 +158,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=getEditingMode&unscoped_q=getEditingMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getForm"></a>
 # getForm
@@ -155,6 +173,8 @@ org.das2.dasml.FormBase
 
 <a href="https://github.com/autoplot/dev/search?q=getForm&unscoped_q=getForm">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWindowList"></a>
 # getWindowList
@@ -167,6 +187,8 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowList&unscoped_q=getWindowList">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="invoke"></a>
@@ -185,6 +207,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=invoke&unscoped_q=invoke">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="registerComponent"></a>
 # registerComponent
@@ -197,6 +221,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerComponent&unscoped_q=registerComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeWindow"></a>
@@ -213,6 +239,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeWindow&unscoped_q=removeWindow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="serialize"></a>
@@ -231,6 +259,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=serialize&unscoped_q=serialize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDasName"></a>
 # setDasName
@@ -247,6 +277,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDasName&unscoped_q=setDasName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEditingMode"></a>
 # setEditingMode
@@ -262,6 +294,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEditingMode&unscoped_q=setEditingMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="startDrag"></a>
@@ -281,4 +315,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=startDrag&unscoped_q=startDrag">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

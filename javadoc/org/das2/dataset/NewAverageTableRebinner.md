@@ -15,6 +15,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isEnlargePixels&unscoped_q=isEnlargePixels">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isInterpolate"></a>
 # isInterpolate
@@ -26,6 +28,8 @@ Getter for property interpolate.
 Value of property interpolate.
 
 <a href="https://github.com/autoplot/dev/search?q=isInterpolate&unscoped_q=isInterpolate">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="rebin"></a>
@@ -45,6 +49,8 @@ org.das2.dataset.DataSet
 
 <a href="https://github.com/autoplot/dev/search?q=rebin&unscoped_q=rebin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEnlargePixels"></a>
 # setEnlargePixels
@@ -61,6 +67,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setEnlargePixels&unscoped_q=setEnlargePixels">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setInterpolate"></a>
 # setInterpolate
@@ -76,4 +84,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setInterpolate&unscoped_q=setInterpolate">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

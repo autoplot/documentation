@@ -34,6 +34,8 @@ org.autoplot.dom.DomNode
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="diffs"></a>
 # diffs
@@ -50,6 +52,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=diffs&unscoped_q=diffs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getController"></a>
 # getController
@@ -62,6 +66,8 @@ org.autoplot.dom.ColumnController
 
 
 <a href="https://github.com/autoplot/dev/search?q=getController&unscoped_q=getController">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLeft"></a>
@@ -76,6 +82,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getLeft&unscoped_q=getLeft">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParent"></a>
 # getParent
@@ -89,6 +97,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRight"></a>
 # getRight
@@ -101,6 +111,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRight&unscoped_q=getRight">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLeft"></a>
@@ -118,6 +130,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLeft&unscoped_q=setLeft">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setParent"></a>
 # setParent
@@ -133,6 +147,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setParent&unscoped_q=setParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRight"></a>
@@ -150,6 +166,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRight&unscoped_q=setRight">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="syncTo"></a>
 # syncTo
@@ -165,5 +183,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 syncTo( org.autoplot.dom.DomNode n, java.util.List exclude ) &rarr; void<br>

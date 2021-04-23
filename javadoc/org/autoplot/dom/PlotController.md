@@ -44,6 +44,8 @@ the new plot which is the overview.
 
 <a href="https://github.com/autoplot/dev/search?q=contextOverview&unscoped_q=contextOverview">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doHints"></a>
 # doHints
@@ -70,6 +72,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doHints&unscoped_q=doHints">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getApplication"></a>
 # getApplication
@@ -83,6 +87,8 @@ org.autoplot.dom.Application
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBindings"></a>
 # getBindings
@@ -95,6 +101,8 @@ org.autoplot.dom.BindingModel[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBindings&unscoped_q=getBindings">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getBindings( int index ) &rarr; BindingModel<br>
 ***
@@ -110,6 +118,8 @@ an org.autoplot.dom.Column
 
 <a href="https://github.com/autoplot/dev/search?q=getColumn&unscoped_q=getColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDasColorBar"></a>
 # getDasColorBar
@@ -122,6 +132,8 @@ org.das2.graph.DasColorBar
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasColorBar&unscoped_q=getDasColorBar">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDasPlot"></a>
@@ -136,6 +148,8 @@ org.das2.graph.DasPlot
 
 <a href="https://github.com/autoplot/dev/search?q=getDasPlot&unscoped_q=getDasPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getExpertMenuItems"></a>
 # getExpertMenuItems
@@ -148,6 +162,8 @@ javax.swing.JMenuItem[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getExpertMenuItems&unscoped_q=getExpertMenuItems">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPlot"></a>
@@ -162,6 +178,8 @@ org.autoplot.dom.Plot
 
 <a href="https://github.com/autoplot/dev/search?q=getPlot&unscoped_q=getPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPlotElement"></a>
 # getPlotElement
@@ -174,6 +192,8 @@ an org.autoplot.dom.PlotElement
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotElement&unscoped_q=getPlotElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPlotElementPropsMenuItem"></a>
@@ -188,6 +208,8 @@ javax.swing.JMenuItem
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotElementPropsMenuItem&unscoped_q=getPlotElementPropsMenuItem">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRow"></a>
 # getRow
@@ -201,6 +223,8 @@ an org.autoplot.dom.Row
 
 <a href="https://github.com/autoplot/dev/search?q=getRow&unscoped_q=getRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAutoBinding"></a>
 # isAutoBinding
@@ -213,6 +237,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoBinding&unscoped_q=isAutoBinding">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resetZoom"></a>
@@ -238,6 +264,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resetZoom&unscoped_q=resetZoom">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAutoBinding"></a>
 # setAutoBinding
@@ -253,6 +281,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoBinding&unscoped_q=setAutoBinding">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setExpertMenuItems"></a>
@@ -270,6 +300,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setExpertMenuItems&unscoped_q=setExpertMenuItems">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setExpertMode"></a>
 # setExpertMode
@@ -285,6 +317,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setExpertMode&unscoped_q=setExpertMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPlotElementPropsMenuItem"></a>
@@ -302,6 +336,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotElementPropsMenuItem&unscoped_q=setPlotElementPropsMenuItem">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTitleAutomatically"></a>
 # setTitleAutomatically
@@ -317,6 +353,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTitleAutomatically&unscoped_q=setTitleAutomatically">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="toBottom"></a>
@@ -334,6 +372,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=toBottom&unscoped_q=toBottom">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -346,6 +386,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="toTop"></a>
@@ -362,4 +404,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=toTop&unscoped_q=toTop">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

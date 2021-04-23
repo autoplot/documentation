@@ -37,6 +37,8 @@ DasCanvas with a name.
 
 <a href="https://github.com/autoplot/dev/search?q=createFormCanvas&unscoped_q=createFormCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createNamedAxis"></a>
 # createNamedAxis
@@ -52,6 +54,8 @@ an org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=createNamedAxis&unscoped_q=createNamedAxis">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createNamedColorBar"></a>
@@ -69,6 +73,8 @@ org.das2.graph.DasColorBar
 
 <a href="https://github.com/autoplot/dev/search?q=createNamedColorBar&unscoped_q=createNamedColorBar">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createNamedPlot"></a>
 # createNamedPlot
@@ -84,6 +90,8 @@ org.das2.graph.DasPlot
 
 
 <a href="https://github.com/autoplot/dev/search?q=createNamedPlot&unscoped_q=createNamedPlot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="deregisterComponent"></a>
@@ -101,6 +109,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deregisterComponent&unscoped_q=deregisterComponent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDOMElement"></a>
 # getDOMElement
@@ -117,6 +127,8 @@ an org.w3c.dom.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDOMElement( org.das2.graph.DasCanvas canvas, org.w3c.dom.Document document ) &rarr; Element<br>
 getDOMElement( org.das2.graph.DasRow row, org.w3c.dom.Document document ) &rarr; Element<br>
@@ -140,6 +152,8 @@ an org.das2.dasml.FormBase
 
 <a href="https://github.com/autoplot/dev/search?q=getForm&unscoped_q=getForm">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parseValue"></a>
 # parseValue
@@ -159,6 +173,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=parseValue&unscoped_q=parseValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="processCanvasElement"></a>
 # processCanvasElement
@@ -175,6 +191,8 @@ an org.das2.graph.DasCanvas
 
 
 <a href="https://github.com/autoplot/dev/search?q=processCanvasElement&unscoped_q=processCanvasElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="processLinePlotElement"></a>
@@ -194,6 +212,8 @@ org.das2.graph.SeriesRenderer
 
 <a href="https://github.com/autoplot/dev/search?q=processLinePlotElement&unscoped_q=processLinePlotElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="processPlotElement"></a>
 # processPlotElement
@@ -210,6 +230,8 @@ org.das2.graph.DasPlot
 
 
 <a href="https://github.com/autoplot/dev/search?q=processPlotElement&unscoped_q=processPlotElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="processSpectrogramElement"></a>
@@ -229,6 +251,8 @@ org.das2.graph.SpectrogramRenderer
 
 <a href="https://github.com/autoplot/dev/search?q=processSpectrogramElement&unscoped_q=processSpectrogramElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="processStackedHistogramElement"></a>
 # processStackedHistogramElement
@@ -247,6 +271,8 @@ org.das2.graph.Renderer
 
 <a href="https://github.com/autoplot/dev/search?q=processStackedHistogramElement&unscoped_q=processStackedHistogramElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="registerComponent"></a>
 # registerComponent
@@ -262,4 +288,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerComponent&unscoped_q=registerComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

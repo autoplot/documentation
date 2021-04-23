@@ -22,6 +22,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=flatten&unscoped_q=flatten">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDebug"></a>
 # isDebug
@@ -33,6 +35,8 @@ Getter for property debug.
 Value of property debug.
 
 <a href="https://github.com/autoplot/dev/search?q=isDebug&unscoped_q=isDebug">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="rebin"></a>
@@ -53,6 +57,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=rebin&unscoped_q=rebin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDebug"></a>
 # setDebug
@@ -69,6 +75,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDebug&unscoped_q=setDebug">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -81,4 +89,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

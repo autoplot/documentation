@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=dragEnter&unscoped_q=dragEnter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="dragExit"></a>
 # dragExit
@@ -33,6 +35,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dragExit&unscoped_q=dragExit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="dragOver"></a>
@@ -50,6 +54,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=dragOver&unscoped_q=dragOver">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="drop"></a>
 # drop
@@ -66,6 +72,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=drop&unscoped_q=drop">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="dropActionChanged"></a>
 # dropActionChanged
@@ -81,4 +89,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dropActionChanged&unscoped_q=dropActionChanged">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

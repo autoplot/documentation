@@ -129,6 +129,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getTransferData&unscoped_q=getTransferData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTransferDataFlavors"></a>
 # getTransferDataFlavors
@@ -142,6 +144,8 @@ Returns an array of DataFlavor objects indicating the flavors the data
 an array of data flavors in which this data can be transferred
 
 <a href="https://github.com/autoplot/dev/search?q=getTransferDataFlavors&unscoped_q=getTransferDataFlavors">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDataFlavorSupported"></a>
@@ -158,4 +162,6 @@ flavor - the requested flavor for the data
 boolean indicating whether or not the data flavor is supported
 
 <a href="https://github.com/autoplot/dev/search?q=isDataFlavorSupported&unscoped_q=isDataFlavorSupported">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

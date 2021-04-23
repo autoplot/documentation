@@ -35,6 +35,8 @@ the dataset or null
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetOrLock"></a>
 # getDataSetOrLock
@@ -59,6 +61,8 @@ the ReferenceCacheEntry
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetOrLock&unscoped_q=getDataSetOrLock">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInstance"></a>
 # getInstance
@@ -71,6 +75,8 @@ an org.autoplot.datasource.ReferenceCache
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getReferenceCacheEntry"></a>
@@ -88,6 +94,8 @@ uri - the URI that can be resolved into a dataset.
 null or the ReferenceCacheEntry.
 
 <a href="https://github.com/autoplot/dev/search?q=getReferenceCacheEntry&unscoped_q=getReferenceCacheEntry">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="offerDataSet"></a>
@@ -108,6 +116,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=offerDataSet&unscoped_q=offerDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="park"></a>
 # park
@@ -125,6 +135,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=park&unscoped_q=park">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="printStatus"></a>
 # printStatus
@@ -137,6 +149,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printStatus&unscoped_q=printStatus">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="reset"></a>
@@ -151,6 +165,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="tidy"></a>
 # tidy
@@ -163,4 +179,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=tidy&unscoped_q=tidy">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

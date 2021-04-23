@@ -20,6 +20,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addObject&unscoped_q=addObject">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="closestObject"></a>
 # closestObject
@@ -35,6 +37,8 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=closestObject&unscoped_q=closestObject">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="closestShape"></a>
@@ -52,6 +56,8 @@ java.awt.Shape
 
 <a href="https://github.com/autoplot/dev/search?q=closestShape&unscoped_q=closestShape">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getObject"></a>
 # getObject
@@ -68,6 +74,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getObject&unscoped_q=getObject">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeObject"></a>
 # removeObject
@@ -83,4 +91,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeObject&unscoped_q=removeObject">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

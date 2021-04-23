@@ -15,6 +15,8 @@ java.util.Enumeration
 
 <a href="https://github.com/autoplot/dev/search?q=children&unscoped_q=children">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="flush"></a>
 # flush
@@ -28,6 +30,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=flush&unscoped_q=flush">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAllowsChildren"></a>
 # getAllowsChildren
@@ -40,6 +44,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAllowsChildren&unscoped_q=getAllowsChildren">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getChildAt"></a>
@@ -57,6 +63,8 @@ javax.swing.tree.TreeNode
 
 <a href="https://github.com/autoplot/dev/search?q=getChildAt&unscoped_q=getChildAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getChildCount"></a>
 # getChildCount
@@ -69,6 +77,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getChildCount&unscoped_q=getChildCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getColumnClass"></a>
@@ -86,6 +96,8 @@ java.lang.Class
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnClass&unscoped_q=getColumnClass">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColumnCount"></a>
 # getColumnCount
@@ -98,6 +110,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnCount&unscoped_q=getColumnCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getColumnName"></a>
@@ -115,6 +129,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnName&unscoped_q=getColumnName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDisplayValue"></a>
 # getDisplayValue
@@ -127,6 +143,8 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDisplayValue&unscoped_q=getDisplayValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getIndex"></a>
@@ -144,6 +162,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getIndex&unscoped_q=getIndex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParent"></a>
 # getParent
@@ -156,6 +176,8 @@ javax.swing.tree.TreeNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPropertyDescriptor"></a>
@@ -170,6 +192,8 @@ java.beans.PropertyDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyDescriptor&unscoped_q=getPropertyDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValue"></a>
 # getValue
@@ -182,6 +206,8 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getValueAt"></a>
@@ -199,6 +225,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getValueAt&unscoped_q=getValueAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isCellEditable"></a>
 # isCellEditable
@@ -215,6 +243,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isCellEditable&unscoped_q=isCellEditable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDirty"></a>
 # isDirty
@@ -227,6 +257,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDirty&unscoped_q=isDirty">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isLeaf"></a>
@@ -241,6 +273,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isLeaf&unscoped_q=isLeaf">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="refresh"></a>
 # refresh
@@ -253,6 +287,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=refresh&unscoped_q=refresh">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTreeModel"></a>
@@ -270,6 +306,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTreeModel&unscoped_q=setTreeModel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setValue"></a>
 # setValue
@@ -285,6 +323,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setValue&unscoped_q=setValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setValueAt"></a>
@@ -303,6 +343,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setValueAt&unscoped_q=setValueAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -315,4 +357,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

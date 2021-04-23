@@ -28,6 +28,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="finished"></a>
 # finished
@@ -41,6 +43,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=finished&unscoped_q=finished">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFormatter"></a>
 # getFormatter
@@ -52,6 +56,8 @@ the formatter.
 the formatter
 
 <a href="https://github.com/autoplot/dev/search?q=getFormatter&unscoped_q=getFormatter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="init"></a>
@@ -68,6 +74,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=init&unscoped_q=init">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="labelMajorTick"></a>
@@ -87,6 +95,8 @@ java.awt.Rectangle
 
 <a href="https://github.com/autoplot/dev/search?q=labelMajorTick&unscoped_q=labelMajorTick">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -103,6 +113,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFormatter"></a>
 # setFormatter
@@ -118,4 +130,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFormatter&unscoped_q=setFormatter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

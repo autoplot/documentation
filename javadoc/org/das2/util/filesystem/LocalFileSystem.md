@@ -15,6 +15,8 @@ org.das2.util.filesystem.FileObject
 
 <a href="https://github.com/autoplot/dev/search?q=getFileObject&unscoped_q=getFileObject">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLocalRoot"></a>
 # getLocalRoot
@@ -27,6 +29,8 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLocalRoot&unscoped_q=getLocalRoot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDirectory"></a>
@@ -44,6 +48,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isDirectory&unscoped_q=isDirectory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="listDirectory"></a>
 # listDirectory
@@ -60,6 +66,8 @@ java.lang.String[]
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectory&unscoped_q=listDirectory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 listDirectory( String directory, String regex ) &rarr; String<br>
 ***
 <a name="toString"></a>
@@ -73,4 +81,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=getArrayImag&unscoped_q=getArrayImag">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getArrayReal"></a>
 # getArrayReal
@@ -36,6 +38,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=getArrayReal&unscoped_q=getArrayReal">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -51,6 +55,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="replaceComplexArrayDoubleDeclaration"></a>
@@ -69,6 +75,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=replaceComplexArrayDoubleDeclaration&unscoped_q=replaceComplexArrayDoubleDeclaration">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setArrayImag"></a>
 # setArrayImag
@@ -86,6 +94,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setArrayImag&unscoped_q=setArrayImag">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setArrayReal"></a>
 # setArrayReal
@@ -102,4 +112,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setArrayReal&unscoped_q=setArrayReal">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

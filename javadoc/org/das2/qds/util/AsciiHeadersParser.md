@@ -46,6 +46,8 @@ the dataset, or null if the dataset is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getInlineDataSet&unscoped_q=getInlineDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInlineDataSetNames"></a>
 # getInlineDataSetNames
@@ -61,6 +63,8 @@ bds - bundle dataset descriptor, though only BundleDescriptor is supported.
 the inline dataset names.
 
 <a href="https://github.com/autoplot/dev/search?q=getInlineDataSetNames&unscoped_q=getInlineDataSetNames">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parseMetadata"></a>
@@ -89,6 +93,8 @@ the BundleDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=parseMetadata&unscoped_q=parseMetadata">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parseMetadataHapi"></a>
 # parseMetadataHapi
@@ -104,4 +110,6 @@ org.das2.qds.util.AsciiHeadersParser.BundleDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseMetadataHapi&unscoped_q=parseMetadataHapi">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

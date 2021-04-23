@@ -29,6 +29,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addAccessory&unscoped_q=addAccessory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addDataPoint"></a>
 # addDataPoint
@@ -44,6 +46,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addDataPoint&unscoped_q=addDataPoint">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addDataPoint( Datum x, Datum y ) &rarr; void<br>
 addDataPoint( double x, double y ) &rarr; void<br>
@@ -66,6 +70,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDataPointSelectionListener&unscoped_q=addDataPointSelectionListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addDataPoints"></a>
 # addDataPoints
@@ -85,6 +91,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDataPoints&unscoped_q=addDataPoints">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addDataSetUpdateListener"></a>
 # addDataSetUpdateListener
@@ -101,6 +109,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDataSetUpdateListener&unscoped_q=addDataSetUpdateListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addSelectedDataSetUpdateListener"></a>
 # addSelectedDataSetUpdateListener
@@ -116,6 +126,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addSelectedDataSetUpdateListener&unscoped_q=addSelectedDataSetUpdateListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="appendDataSet"></a>
@@ -135,6 +147,8 @@ org.das2.components.DataPointRecorder
 
 <a href="https://github.com/autoplot/dev/search?q=createFramed&unscoped_q=createFramed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="dataPointSelected"></a>
 # dataPointSelected
@@ -150,6 +164,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dataPointSelected&unscoped_q=dataPointSelected">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="deleteInterval"></a>
@@ -169,6 +185,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deleteInterval&unscoped_q=deleteInterval">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="deleteRow"></a>
 # deleteRow
@@ -184,6 +202,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=deleteRow&unscoped_q=deleteRow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="deleteRows"></a>
@@ -201,6 +221,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deleteRows&unscoped_q=deleteRows">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAppendDataSetUpListener"></a>
 # getAppendDataSetUpListener
@@ -215,6 +237,8 @@ the listener to receive data set updates
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/dataset/DataSetUpdateEvent.md'>org.das2.dataset.DataSetUpdateEvent</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getAppendDataSetUpListener&unscoped_q=getAppendDataSetUpListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getBundleDataSet"></a>
@@ -232,6 +256,8 @@ the current name for the file.
 
 <a href="https://github.com/autoplot/dev/search?q=getCurrentFile&unscoped_q=getCurrentFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataPoints"></a>
 # getDataPoints
@@ -247,6 +273,8 @@ rank 2 bundle
 <a href='#getBundleDataSet'>getBundleDataSet()</a> which is the old name for this routine.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=getDataPoints&unscoped_q=getDataPoints">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSet"></a>
@@ -267,6 +295,8 @@ rank 2 dataset
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedDataPoints&unscoped_q=getSelectedDataPoints">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSelectedDataSet"></a>
 # <del>getSelectedDataSet</del>
@@ -283,6 +313,8 @@ the value of timeFormat
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeFormat&unscoped_q=getTimeFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXTagWidth"></a>
 # getXTagWidth
@@ -296,6 +328,8 @@ Value of property xTagWidth.
 
 <a href="https://github.com/autoplot/dev/search?q=getXTagWidth&unscoped_q=getXTagWidth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isModified"></a>
 # isModified
@@ -307,6 +341,8 @@ return true when the data point recorder has been modified.
 true when the data point recorder has been modified.
 
 <a href="https://github.com/autoplot/dev/search?q=isModified&unscoped_q=isModified">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isSnapToGrid"></a>
@@ -320,6 +356,8 @@ Value of property snapToGrid.
 
 <a href="https://github.com/autoplot/dev/search?q=isSnapToGrid&unscoped_q=isSnapToGrid">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSorted"></a>
 # isSorted
@@ -331,6 +369,8 @@ Getter for property sorted.
 Value of property sorted.
 
 <a href="https://github.com/autoplot/dev/search?q=isSorted&unscoped_q=isSorted">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="loadFromFile"></a>
@@ -359,6 +399,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=loadFromFile&unscoped_q=loadFromFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeDataPointSelectionListener"></a>
 # removeDataPointSelectionListener
@@ -374,6 +416,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataPointSelectionListener&unscoped_q=removeDataPointSelectionListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeDataSetUpdateListener"></a>
@@ -391,6 +435,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataSetUpdateListener&unscoped_q=removeDataSetUpdateListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeSelectedDataSetUpdateListener"></a>
 # removeSelectedDataSetUpdateListener
@@ -407,6 +453,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeSelectedDataSetUpdateListener&unscoped_q=removeSelectedDataSetUpdateListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="save"></a>
 # save
@@ -420,6 +468,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=save&unscoped_q=save">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="saveAs"></a>
 # saveAs
@@ -432,6 +482,8 @@ true if the file was saved, false if cancel
 
 <a href="https://github.com/autoplot/dev/search?q=saveAs&unscoped_q=saveAs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="saveBeforeExit"></a>
 # saveBeforeExit
@@ -443,6 +495,8 @@ return true if the file was saved or "don't save" was pressed by the user.
 true if the file was saved or "don't save" was pressed by the user.
 
 <a href="https://github.com/autoplot/dev/search?q=saveBeforeExit&unscoped_q=saveBeforeExit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="saveToFile"></a>
@@ -459,6 +513,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=saveToFile&unscoped_q=saveToFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="select"></a>
@@ -480,6 +536,8 @@ the first of the selected indices, or -1 if no elements are found.
 
 <a href="https://github.com/autoplot/dev/search?q=select&unscoped_q=select">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 select( DatumRange xrange, DatumRange yrange, boolean xOrY ) &rarr; int<br>
 select( java.util.List selection ) &rarr; void<br>
 ***
@@ -497,6 +555,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setActive&unscoped_q=setActive">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setColumn"></a>
@@ -517,6 +577,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setColumn&unscoped_q=setColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setColumnCount"></a>
 # setColumnCount
@@ -533,6 +595,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColumnCount&unscoped_q=setColumnCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSnapToGrid"></a>
@@ -551,6 +615,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSnapToGrid&unscoped_q=setSnapToGrid">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSorted"></a>
 # setSorted
@@ -566,6 +632,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSorted&unscoped_q=setSorted">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTimeFormat"></a>
@@ -583,6 +651,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeFormat&unscoped_q=setTimeFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setXTagWidth"></a>
 # setXTagWidth
@@ -599,6 +669,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setXTagWidth&unscoped_q=setXTagWidth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="update"></a>
 # update
@@ -612,4 +684,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

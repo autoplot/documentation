@@ -52,6 +52,8 @@ char
 
 <a href="https://github.com/autoplot/dev/search?q=BeginToken&unscoped_q=BeginToken">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="Done"></a>
 # Done
@@ -65,6 +67,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=Done&unscoped_q=Done">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="GetImage"></a>
 # GetImage
@@ -77,6 +81,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=GetImage&unscoped_q=GetImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="GetSuffix"></a>
@@ -93,6 +99,8 @@ char[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=GetSuffix&unscoped_q=GetSuffix">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="ReInit"></a>
@@ -112,6 +120,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=ReInit&unscoped_q=ReInit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ReInit( java.io.Reader dstream, int startline, int startcolumn ) &rarr; void<br>
 ReInit( java.io.Reader dstream ) &rarr; void<br>
@@ -138,6 +148,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=adjustBeginLineColumn&unscoped_q=adjustBeginLineColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="backup"></a>
 # backup
@@ -154,6 +166,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=backup&unscoped_q=backup">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBeginColumn"></a>
 # getBeginColumn
@@ -166,6 +180,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBeginColumn&unscoped_q=getBeginColumn">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getBeginLine"></a>
@@ -180,6 +196,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getBeginLine&unscoped_q=getBeginLine">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColumn"></a>
 # getColumn
@@ -192,6 +210,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumn&unscoped_q=getColumn">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getEndColumn"></a>
@@ -206,6 +226,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getEndColumn&unscoped_q=getEndColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEndLine"></a>
 # getEndLine
@@ -218,6 +240,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEndLine&unscoped_q=getEndLine">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLine"></a>
@@ -232,6 +256,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getLine&unscoped_q=getLine">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readChar"></a>
 # readChar
@@ -244,4 +270,6 @@ char
 
 
 <a href="https://github.com/autoplot/dev/search?q=readChar&unscoped_q=readChar">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

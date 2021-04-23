@@ -17,6 +17,8 @@ the value
 
 <a href="https://github.com/autoplot/dev/search?q=getBooleanParam&unscoped_q=getBooleanParam">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParam"></a>
 # getParam
@@ -34,6 +36,8 @@ the value
 
 <a href="https://github.com/autoplot/dev/search?q=getParam&unscoped_q=getParam">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setURI"></a>
 # setURI
@@ -49,4 +53,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setURI&unscoped_q=setURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

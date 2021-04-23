@@ -68,6 +68,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=acceptContext&unscoped_q=acceptContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doAutorange"></a>
 # doAutorange
@@ -84,6 +86,8 @@ a bounding box
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/examples/Schemes.md#boundingBox'>org.das2.qds.examples.Schemes#boundingBox()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=doAutorange&unscoped_q=doAutorange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="formatDatum"></a>
@@ -103,6 +107,8 @@ the string
 
 <a href="https://github.com/autoplot/dev/search?q=formatDatum&unscoped_q=formatDatum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAlign"></a>
 # getAlign
@@ -115,6 +121,8 @@ org.das2.graph.DigitalRenderer.Align
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAlign&unscoped_q=getAlign">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getColor"></a>
@@ -129,6 +137,8 @@ java.awt.Color
 
 <a href="https://github.com/autoplot/dev/search?q=getColor&unscoped_q=getColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getControl"></a>
 # getControl
@@ -141,6 +151,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getControl&unscoped_q=getControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSetSizeLimit"></a>
@@ -155,6 +167,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetSizeLimit&unscoped_q=getDataSetSizeLimit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFillLabel"></a>
 # getFillLabel
@@ -167,6 +181,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFillLabel&unscoped_q=getFillLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFontSize"></a>
@@ -181,6 +197,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getFontSize&unscoped_q=getFontSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFormat"></a>
 # getFormat
@@ -193,6 +211,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFormat&unscoped_q=getFormat">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPlotSymbol"></a>
@@ -207,6 +227,8 @@ org.das2.graph.PlotSymbol
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotSymbol&unscoped_q=getPlotSymbol">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSize"></a>
 # getSize
@@ -219,6 +241,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSize&unscoped_q=getSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="render"></a>
@@ -238,6 +262,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="selectionArea"></a>
 # selectionArea
@@ -252,6 +278,8 @@ a java.awt.Shape
 
 
 <a href="https://github.com/autoplot/dev/search?q=selectionArea&unscoped_q=selectionArea">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAlign"></a>
@@ -271,6 +299,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAlign&unscoped_q=setAlign">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setColor"></a>
 # setColor
@@ -286,6 +316,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColor&unscoped_q=setColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setControl"></a>
@@ -303,6 +335,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setControl&unscoped_q=setControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSetSizeLimit"></a>
 # setDataSetSizeLimit
@@ -318,6 +352,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetSizeLimit&unscoped_q=setDataSetSizeLimit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFillLabel"></a>
@@ -335,6 +371,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFillLabel&unscoped_q=setFillLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFontSize"></a>
 # setFontSize
@@ -350,6 +388,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFontSize&unscoped_q=setFontSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFormat"></a>
@@ -368,6 +408,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFormat&unscoped_q=setFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPlotSymbol"></a>
 # setPlotSymbol
@@ -383,6 +425,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotSymbol&unscoped_q=setPlotSymbol">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSize"></a>
@@ -400,6 +444,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSize&unscoped_q=setSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="typeForFormat"></a>
 # typeForFormat
@@ -414,6 +460,8 @@ form - a String
 'x' 'X' 'd' 'o' 'c' 'C' or 'f'
 
 <a href="https://github.com/autoplot/dev/search?q=typeForFormat&unscoped_q=typeForFormat">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="updatePlotImage"></a>
@@ -432,4 +480,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updatePlotImage&unscoped_q=updatePlotImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

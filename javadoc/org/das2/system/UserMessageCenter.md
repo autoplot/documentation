@@ -12,6 +12,8 @@ org.das2.system.UserMessageCenter
 
 <a href="https://github.com/autoplot/dev/search?q=getDefault&unscoped_q=getDefault">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="notifyUser"></a>
 # notifyUser
@@ -29,5 +31,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=notifyUser&unscoped_q=notifyUser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 notifyUser( Object source, java.lang.Throwable e ) &rarr; void<br>

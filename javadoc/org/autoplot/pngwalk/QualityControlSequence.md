@@ -12,6 +12,8 @@ int[]
 
 <a href="https://github.com/autoplot/dev/search?q=getQCTotals&unscoped_q=getQCTotals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getQualityControlRecord"></a>
 # getQualityControlRecord
@@ -28,6 +30,8 @@ an org.autoplot.pngwalk.QualityControlRecord
 
 <a href="https://github.com/autoplot/dev/search?q=getQualityControlRecord&unscoped_q=getQualityControlRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getQualityControlRecordNoSubRange"></a>
 # getQualityControlRecordNoSubRange
@@ -43,4 +47,6 @@ an org.autoplot.pngwalk.QualityControlRecord
 
 
 <a href="https://github.com/autoplot/dev/search?q=getQualityControlRecordNoSubRange&unscoped_q=getQualityControlRecordNoSubRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

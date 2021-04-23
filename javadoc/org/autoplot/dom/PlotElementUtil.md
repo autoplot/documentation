@@ -18,3 +18,5 @@ double[3], vmin, vmax, fill.
 
 <a href="https://github.com/autoplot/dev/search?q=parseFillValidRangeInternal&unscoped_q=parseFillValidRangeInternal">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

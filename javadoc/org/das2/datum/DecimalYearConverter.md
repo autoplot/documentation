@@ -18,6 +18,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=convert&unscoped_q=convert">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInverse"></a>
 # getInverse
@@ -30,4 +32,6 @@ org.das2.datum.UnitsConverter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInverse&unscoped_q=getInverse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

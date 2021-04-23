@@ -23,3 +23,5 @@ region drawing occured in
 
 <a href="https://github.com/autoplot/dev/search?q=paintLayer&unscoped_q=paintLayer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

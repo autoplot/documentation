@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=clear&unscoped_q=clear">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMouseDragEvent"></a>
 # getMouseDragEvent
@@ -37,6 +39,8 @@ org.das2.event.MouseDragEvent
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseDragEvent&unscoped_q=getMouseDragEvent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isGesture"></a>
 # isGesture
@@ -54,6 +58,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isGesture&unscoped_q=isGesture">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isPointSelection"></a>
 # isPointSelection
@@ -67,6 +73,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isPointSelection&unscoped_q=isPointSelection">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isUpdatingDragSelection"></a>
 # isUpdatingDragSelection
@@ -79,6 +87,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isUpdatingDragSelection&unscoped_q=isUpdatingDragSelection">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="renderDrag"></a>
@@ -97,4 +107,6 @@ java.awt.Rectangle[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=renderDrag&unscoped_q=renderDrag">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

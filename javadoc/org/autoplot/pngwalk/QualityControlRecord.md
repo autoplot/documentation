@@ -21,6 +21,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCommentsHTML"></a>
 # getCommentsHTML
@@ -33,6 +35,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCommentsHTML&unscoped_q=getCommentsHTML">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getImageURI"></a>
@@ -47,6 +51,8 @@ java.net.URI
 
 <a href="https://github.com/autoplot/dev/search?q=getImageURI&unscoped_q=getImageURI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLastComment"></a>
 # getLastComment
@@ -58,6 +64,8 @@ return the last comment.
 the last comment, or "" if no comments have been added.
 
 <a href="https://github.com/autoplot/dev/search?q=getLastComment&unscoped_q=getLastComment">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getNewCommentText"></a>
@@ -71,6 +79,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNewCommentText&unscoped_q=getNewCommentText">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRecord"></a>
@@ -90,6 +100,8 @@ an org.autoplot.pngwalk.QualityControlRecord
 
 <a href="https://github.com/autoplot/dev/search?q=getRecord&unscoped_q=getRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getRecord( java.net.URI imageURI, java.net.URI qcFolder ) &rarr; QualityControlRecord<br>
 ***
 <a name="getStatus"></a>
@@ -103,6 +115,8 @@ org.autoplot.pngwalk.QualityControlRecord.Status
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStatus&unscoped_q=getStatus">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -120,6 +134,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="save"></a>
 # save
@@ -132,6 +148,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=save&unscoped_q=save">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setNewCommentText"></a>
@@ -151,6 +169,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setNewCommentText&unscoped_q=setNewCommentText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setStatus"></a>
 # setStatus
@@ -166,4 +186,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStatus&unscoped_q=setStatus">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

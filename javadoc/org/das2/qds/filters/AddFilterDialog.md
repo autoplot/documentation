@@ -20,6 +20,8 @@ a javax.swing.tree.DefaultMutableTreeNode
 
 <a href="https://github.com/autoplot/dev/search?q=build&unscoped_q=build">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValue"></a>
 # getValue
@@ -31,6 +33,8 @@ return the selected filter, such as "|smooth(5)"
 the selected filter.
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -47,4 +51,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

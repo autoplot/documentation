@@ -24,6 +24,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=convert&unscoped_q=convert">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInverse"></a>
 # getInverse
@@ -36,6 +38,8 @@ org.das2.datum.UnitsConverter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInverse&unscoped_q=getInverse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLeapSecondCountForTT2000"></a>
@@ -60,6 +64,8 @@ the number of leap seconds for the time.
 
 <a href="https://github.com/autoplot/dev/search?q=getLeapSecondCountForTT2000&unscoped_q=getLeapSecondCountForTT2000">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLeapSecondCountForUs2000"></a>
 # getLeapSecondCountForUs2000
@@ -81,4 +87,6 @@ us2000 - the time in us2000, which include the leap seconds.
 the number of leap seconds for the time.
 
 <a href="https://github.com/autoplot/dev/search?q=getLeapSecondCountForUs2000&unscoped_q=getLeapSecondCountForUs2000">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

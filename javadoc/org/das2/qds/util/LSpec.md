@@ -40,6 +40,8 @@ rank 2 data set of sweep indeces, dim0 is sweep number, dim1 is two-element [ st
 
 <a href="https://github.com/autoplot/dev/search?q=identifySweeps&unscoped_q=identifySweeps">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rebin"></a>
 # rebin
@@ -57,6 +59,8 @@ lds - rank 1 dataset of length N
 a rank 2 dataset, with one column per sweep, interpolated to <tt>lgrid</tt>
 
 <a href="https://github.com/autoplot/dev/search?q=rebin&unscoped_q=rebin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 rebin( QDataSet tlz, QDataSet lgrid, int dir ) &rarr; QDataSet<br>
 rebin( QDataSet tt, QDataSet lds, QDataSet zds, QDataSet tspace, QDataSet lgrid, int dir ) &rarr; QDataSet<br>

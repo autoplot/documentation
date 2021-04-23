@@ -15,6 +15,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getSearchRegex&unscoped_q=getSearchRegex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="render"></a>
 # render
@@ -33,6 +35,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSearchRegex"></a>
 # setSearchRegex
@@ -48,4 +52,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSearchRegex&unscoped_q=setSearchRegex">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -75,3 +75,5 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isDataStream&unscoped_q=isDataStream">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

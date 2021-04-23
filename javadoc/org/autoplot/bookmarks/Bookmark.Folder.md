@@ -36,6 +36,8 @@ org.autoplot.bookmarks.Bookmark
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="equals"></a>
 # equals
@@ -52,6 +54,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBookmarks"></a>
 # getBookmarks
@@ -65,6 +69,8 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBookmarks&unscoped_q=getBookmarks">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRemoteStatus"></a>
@@ -82,6 +88,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getRemoteStatus&unscoped_q=getRemoteStatus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRemoteStatusMsg"></a>
 # getRemoteStatusMsg
@@ -94,6 +102,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRemoteStatusMsg&unscoped_q=getRemoteStatusMsg">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRemoteUrl"></a>
@@ -110,6 +120,8 @@ a URI or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getRemoteUrl&unscoped_q=getRemoteUrl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hashCode"></a>
 # hashCode
@@ -122,6 +134,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRemoteStatus"></a>
@@ -139,6 +153,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRemoteStatus&unscoped_q=setRemoteStatus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRemoteStatusMsg"></a>
 # setRemoteStatusMsg
@@ -154,6 +170,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRemoteStatusMsg&unscoped_q=setRemoteStatusMsg">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRemoteUrl"></a>
@@ -171,6 +189,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRemoteUrl&unscoped_q=setRemoteUrl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -183,4 +203,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

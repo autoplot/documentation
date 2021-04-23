@@ -15,6 +15,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTables"></a>
 # getTables
@@ -27,6 +29,8 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTables&unscoped_q=getTables">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="handleEndTag"></a>
@@ -44,6 +48,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=handleEndTag&unscoped_q=handleEndTag">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="handleStartTag"></a>
@@ -63,6 +69,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=handleStartTag&unscoped_q=handleStartTag">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="handleText"></a>
 # handleText
@@ -79,4 +87,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=handleText&unscoped_q=handleText">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

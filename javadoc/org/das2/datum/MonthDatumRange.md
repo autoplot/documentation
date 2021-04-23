@@ -27,6 +27,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=convertTo&unscoped_q=convertTo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="equals"></a>
 # equals
@@ -43,6 +45,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hashCode"></a>
 # hashCode
@@ -55,6 +59,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="next"></a>
@@ -69,6 +75,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="previous"></a>
 # previous
@@ -81,4 +89,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=previous&unscoped_q=previous">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

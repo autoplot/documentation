@@ -15,6 +15,8 @@ org.das2.stream.PacketDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=getDefaultPacketDescriptor&unscoped_q=getDefaultPacketDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getStandardDataStreamSource"></a>
 # getStandardDataStreamSource
@@ -27,6 +29,8 @@ org.das2.client.StandardDataStreamSource
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStandardDataStreamSource&unscoped_q=getStandardDataStreamSource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getXUnits"></a>
@@ -41,6 +45,8 @@ org.das2.datum.Units
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isRestrictedAccess"></a>
 # isRestrictedAccess
@@ -54,6 +60,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isRestrictedAccess&unscoped_q=isRestrictedAccess">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isServerSideReduction"></a>
 # isServerSideReduction
@@ -66,6 +74,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isServerSideReduction&unscoped_q=isServerSideReduction">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setServerSideReduction"></a>
@@ -83,6 +93,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setServerSideReduction&unscoped_q=setServerSideReduction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setStandardDataStreamSource"></a>
 # setStandardDataStreamSource
@@ -99,6 +111,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setStandardDataStreamSource&unscoped_q=setStandardDataStreamSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -111,4 +125,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

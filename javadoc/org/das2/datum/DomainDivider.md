@@ -34,6 +34,8 @@ a <code>DatumVector</code> containing the boundary values
 
 <a href="https://github.com/autoplot/dev/search?q=boundaries&unscoped_q=boundaries">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="boundaryCount"></a>
 # boundaryCount
@@ -55,6 +57,8 @@ a long
 
 <a href="https://github.com/autoplot/dev/search?q=boundaryCount&unscoped_q=boundaryCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="coarserDivider"></a>
 # coarserDivider
@@ -73,6 +77,8 @@ superset - true to force boundary alignment with the calling <code>DomainDivider
 the new DomainDivider object
 
 <a href="https://github.com/autoplot/dev/search?q=coarserDivider&unscoped_q=coarserDivider">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="finerDivider"></a>
@@ -93,6 +99,8 @@ the new DomainDivider object
 
 <a href="https://github.com/autoplot/dev/search?q=finerDivider&unscoped_q=finerDivider">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rangeContaining"></a>
 # rangeContaining
@@ -109,4 +117,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=rangeContaining&unscoped_q=rangeContaining">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

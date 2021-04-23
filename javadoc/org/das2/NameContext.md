@@ -35,6 +35,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getIndexedPropertyValue"></a>
 # getIndexedPropertyValue
@@ -53,6 +55,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getIndexedPropertyValue&unscoped_q=getIndexedPropertyValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPropertyValue"></a>
 # getPropertyValue
@@ -69,6 +73,8 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyValue&unscoped_q=getPropertyValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="put"></a>
@@ -89,6 +95,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=put&unscoped_q=put">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="remove"></a>
 # remove
@@ -104,6 +112,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=remove&unscoped_q=remove">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="set"></a>
@@ -121,6 +131,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=set&unscoped_q=set">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setIndexedPropertyValue"></a>
@@ -141,6 +153,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setIndexedPropertyValue&unscoped_q=setIndexedPropertyValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPropertyValue"></a>
 # setPropertyValue
@@ -159,6 +173,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPropertyValue&unscoped_q=setPropertyValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -171,4 +187,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

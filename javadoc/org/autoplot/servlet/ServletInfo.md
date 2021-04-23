@@ -22,6 +22,8 @@ long
 
 <a href="https://github.com/autoplot/dev/search?q=getAgeMillis&unscoped_q=getAgeMillis">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCacheDirectory"></a>
 # getCacheDirectory
@@ -34,6 +36,8 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCacheDirectory&unscoped_q=getCacheDirectory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDurationForHumans"></a>
@@ -50,6 +54,8 @@ a duration like "2.6 hours"
 
 <a href="https://github.com/autoplot/dev/search?q=getDurationForHumans&unscoped_q=getDurationForHumans">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getServletInfo"></a>
 # getServletInfo
@@ -61,6 +67,8 @@ Returns a short description of the servlet.
 a String containing servlet description
 
 <a href="https://github.com/autoplot/dev/search?q=getServletInfo&unscoped_q=getServletInfo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isCaching"></a>
@@ -74,4 +82,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isCaching&unscoped_q=isCaching">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

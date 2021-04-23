@@ -15,6 +15,8 @@ org.das2.graph.DasCanvas
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvas&unscoped_q=getCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mouseRangeSelected"></a>
 # mouseRangeSelected
@@ -30,4 +32,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseRangeSelected&unscoped_q=mouseRangeSelected">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

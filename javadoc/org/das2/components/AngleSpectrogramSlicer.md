@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=boxSelected&unscoped_q=boxSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createSlicer"></a>
 # createSlicer
@@ -32,6 +34,8 @@ org.das2.components.AngleSpectrogramSlicer
 
 <a href="https://github.com/autoplot/dev/search?q=createSlicer&unscoped_q=createSlicer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="drawContent"></a>
 # drawContent
@@ -48,6 +52,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=drawContent&unscoped_q=drawContent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="showPopup"></a>
 # showPopup
@@ -60,4 +66,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showPopup&unscoped_q=showPopup">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

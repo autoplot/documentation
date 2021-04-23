@@ -23,3 +23,5 @@ true if the task was cancelled or false if not.
 
 <a href="https://github.com/autoplot/dev/search?q=isTaskCancelled&unscoped_q=isTaskCancelled">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

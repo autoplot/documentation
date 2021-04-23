@@ -21,6 +21,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="produceRipplesStream"></a>
 # produceRipplesStream
@@ -36,4 +38,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=produceRipplesStream&unscoped_q=produceRipplesStream">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setData&unscoped_q=setData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPreferredSize"></a>
 # setPreferredSize
@@ -33,4 +35,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPreferredSize&unscoped_q=setPreferredSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

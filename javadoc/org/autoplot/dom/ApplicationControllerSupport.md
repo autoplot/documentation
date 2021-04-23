@@ -16,3 +16,5 @@ org.autoplot.dom.PlotElement
 
 <a href="https://github.com/autoplot/dev/search?q=addScatter&unscoped_q=addScatter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

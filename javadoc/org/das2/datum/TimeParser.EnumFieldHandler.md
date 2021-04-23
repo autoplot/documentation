@@ -18,6 +18,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=configure&unscoped_q=configure">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="format"></a>
 # format
@@ -37,6 +39,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getId"></a>
 # getId
@@ -49,6 +53,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getId&unscoped_q=getId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRegex"></a>
@@ -63,6 +69,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getRegex&unscoped_q=getRegex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValues"></a>
 # getValues
@@ -74,6 +82,8 @@ return the possible values.
 the possible values.
 
 <a href="https://github.com/autoplot/dev/search?q=getValues&unscoped_q=getValues">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parse"></a>
@@ -93,4 +103,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -23,6 +23,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createDatum"></a>
 # createDatum
@@ -38,6 +40,8 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=createDatum&unscoped_q=createDatum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createDatum( double value, double resolution ) &rarr; Datum<br>
 createDatum( int value ) &rarr; Datum<br>
@@ -62,6 +66,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=divide&unscoped_q=divide">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDatumFormatterFactory"></a>
 # getDatumFormatterFactory
@@ -74,6 +80,8 @@ org.das2.datum.format.DatumFormatterFactory
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumFormatterFactory&unscoped_q=getDatumFormatterFactory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="multiply"></a>
@@ -93,6 +101,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=multiply&unscoped_q=multiply">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parse"></a>
 # parse
@@ -108,6 +118,8 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="subtract"></a>
@@ -126,4 +138,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=subtract&unscoped_q=subtract">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

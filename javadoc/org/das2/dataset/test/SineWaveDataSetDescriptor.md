@@ -24,6 +24,8 @@ org.das2.dataset.DataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetImpl&unscoped_q=getDataSetImpl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXUnits"></a>
 # getXUnits
@@ -36,6 +38,8 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="newDataSetDescriptor"></a>
@@ -52,4 +56,6 @@ org.das2.dataset.test.SineWaveDataSetDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=newDataSetDescriptor&unscoped_q=newDataSetDescriptor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

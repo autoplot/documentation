@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addRecord&unscoped_q=addRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasHeader"></a>
 # hasHeader
@@ -30,6 +32,8 @@ return true if the header has been set.
 true if the header has been set.
 
 <a href="https://github.com/autoplot/dev/search?q=hasHeader&unscoped_q=hasHeader">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hasNext"></a>
@@ -44,6 +48,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=hasNext&unscoped_q=hasNext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="next"></a>
 # next
@@ -57,6 +63,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="remove"></a>
 # remove
@@ -69,6 +77,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=remove&unscoped_q=remove">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setHasNext"></a>
@@ -86,4 +96,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHasNext&unscoped_q=setHasNext">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

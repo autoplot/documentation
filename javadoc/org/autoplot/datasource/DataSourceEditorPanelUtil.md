@@ -18,6 +18,8 @@ the editor panel.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceEditorPanel&unscoped_q=getDataSourceEditorPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getDataSourceEditorPanel( java.net.URI uri ) &rarr; DataSourceEditorPanel<br>
 getDataSourceEditorPanel( String suri ) &rarr; DataSourceEditorPanel<br>
 ***
@@ -35,4 +37,6 @@ an org.autoplot.datasource.DataSourceEditorPanel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEditorByExt&unscoped_q=getEditorByExt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

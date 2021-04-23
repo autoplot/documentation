@@ -63,6 +63,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=childNodes&unscoped_q=childNodes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="copy"></a>
 # copy
@@ -75,6 +77,8 @@ org.autoplot.dom.DomNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="diffs"></a>
@@ -92,6 +96,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=diffs&unscoped_q=diffs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColumns"></a>
 # getColumns
@@ -104,6 +110,8 @@ org.autoplot.dom.Column[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumns&unscoped_q=getColumns">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getColumns( int index ) &rarr; Column<br>
 ***
@@ -119,6 +127,8 @@ org.autoplot.dom.CanvasController
 
 <a href="https://github.com/autoplot/dev/search?q=getController&unscoped_q=getController">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFont"></a>
 # getFont
@@ -131,6 +141,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFont&unscoped_q=getFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getHeight"></a>
@@ -145,6 +157,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getHeight&unscoped_q=getHeight">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMarginColumn"></a>
 # getMarginColumn
@@ -157,6 +171,8 @@ org.autoplot.dom.Column
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMarginColumn&unscoped_q=getMarginColumn">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMarginRow"></a>
@@ -171,6 +187,8 @@ org.autoplot.dom.Row
 
 <a href="https://github.com/autoplot/dev/search?q=getMarginRow&unscoped_q=getMarginRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRows"></a>
 # getRows
@@ -183,6 +201,8 @@ org.autoplot.dom.Row[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRows&unscoped_q=getRows">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getRows( int index ) &rarr; Row<br>
 ***
@@ -198,6 +218,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getWidth&unscoped_q=getWidth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isFitted"></a>
 # isFitted
@@ -210,6 +232,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFitted&unscoped_q=isFitted">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setColumns"></a>
@@ -226,6 +250,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColumns&unscoped_q=setColumns">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setColumns( int index, org.autoplot.dom.Column newColumns ) &rarr; void<br>
 ***
@@ -244,6 +270,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFitted&unscoped_q=setFitted">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFont"></a>
 # setFont
@@ -259,6 +287,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFont&unscoped_q=setFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setHeight"></a>
@@ -276,6 +306,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setHeight&unscoped_q=setHeight">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMarginColumn"></a>
 # setMarginColumn
@@ -291,6 +323,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMarginColumn&unscoped_q=setMarginColumn">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setMarginRow"></a>
@@ -308,6 +342,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setMarginRow&unscoped_q=setMarginRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRows"></a>
 # setRows
@@ -323,6 +359,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRows&unscoped_q=setRows">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setRows( int index, org.autoplot.dom.Row newRows ) &rarr; void<br>
 ***
@@ -342,6 +380,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSize&unscoped_q=setSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setWidth"></a>
 # setWidth
@@ -358,6 +398,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setWidth&unscoped_q=setWidth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="syncTo"></a>
 # syncTo
@@ -373,5 +415,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 syncTo( org.autoplot.dom.DomNode n, java.util.List exclude ) &rarr; void<br>

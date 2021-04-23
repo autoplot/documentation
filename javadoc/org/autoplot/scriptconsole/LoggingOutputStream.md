@@ -18,3 +18,5 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=flush&unscoped_q=flush">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

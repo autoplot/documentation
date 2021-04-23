@@ -56,6 +56,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="close"></a>
 # close
@@ -70,6 +72,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createCurrentFileLabel"></a>
 # createCurrentFileLabel
@@ -82,6 +86,8 @@ javax.swing.JLabel
 
 
 <a href="https://github.com/autoplot/dev/search?q=createCurrentFileLabel&unscoped_q=createCurrentFileLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createOpenAction"></a>
@@ -96,6 +102,8 @@ javax.swing.Action
 
 <a href="https://github.com/autoplot/dev/search?q=createOpenAction&unscoped_q=createOpenAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createOpenRecentMenu"></a>
 # createOpenRecentMenu
@@ -108,6 +116,8 @@ javax.swing.JMenu
 
 
 <a href="https://github.com/autoplot/dev/search?q=createOpenRecentMenu&unscoped_q=createOpenRecentMenu">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createSaveAction"></a>
@@ -122,6 +132,8 @@ javax.swing.Action
 
 <a href="https://github.com/autoplot/dev/search?q=createSaveAction&unscoped_q=createSaveAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createSaveAsAction"></a>
 # createSaveAsAction
@@ -134,6 +146,8 @@ Create an action which will trigger the save as dialog.  This is
 the action
 
 <a href="https://github.com/autoplot/dev/search?q=createSaveAsAction&unscoped_q=createSaveAsAction">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createSaveMenuItem"></a>
@@ -148,6 +162,8 @@ javax.swing.JMenuItem
 
 <a href="https://github.com/autoplot/dev/search?q=createSaveMenuItem&unscoped_q=createSaveMenuItem">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCurrentFile"></a>
 # getCurrentFile
@@ -161,6 +177,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getCurrentFile&unscoped_q=getCurrentFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDirectory"></a>
 # getDirectory
@@ -173,6 +191,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDirectory&unscoped_q=getDirectory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isCurrentFileOpened"></a>
@@ -188,6 +208,8 @@ Value of property currentFileOpened.
 
 <a href="https://github.com/autoplot/dev/search?q=isCurrentFileOpened&unscoped_q=isCurrentFileOpened">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDirty"></a>
 # isDirty
@@ -199,6 +221,8 @@ Getter for property dirty.
 Value of property dirty.
 
 <a href="https://github.com/autoplot/dev/search?q=isDirty&unscoped_q=isDirty">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isOpening"></a>
@@ -212,6 +236,8 @@ Value of property loading.
 
 <a href="https://github.com/autoplot/dev/search?q=isOpening&unscoped_q=isOpening">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSaving"></a>
 # isSaving
@@ -223,6 +249,8 @@ Property saving is true when a save operation is being performed.
 Value of property saving.
 
 <a href="https://github.com/autoplot/dev/search?q=isSaving&unscoped_q=isSaving">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="markDirty"></a>
@@ -236,6 +264,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=markDirty&unscoped_q=markDirty">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -253,6 +283,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="saveAs"></a>
 # saveAs
@@ -267,6 +299,8 @@ same as jFileChooser.showSaveDialog(), for example:
     Note this is not the same as  JOptionPane.CANCEL_OPTION!
 
 <a href="https://github.com/autoplot/dev/search?q=saveAs&unscoped_q=saveAs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setCurrentFile"></a>
@@ -285,6 +319,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setCurrentFile&unscoped_q=setCurrentFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setCurrentFileOpened"></a>
 # setCurrentFileOpened
@@ -300,6 +336,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCurrentFileOpened&unscoped_q=setCurrentFileOpened">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDirectory"></a>
@@ -317,6 +355,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDirectory&unscoped_q=setDirectory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDirty"></a>
 # setDirty
@@ -332,4 +372,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDirty&unscoped_q=setDirty">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -28,6 +28,8 @@ an int
 
 <a href="https://github.com/autoplot/dev/search?q=getDepCount&unscoped_q=getDepCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getModifiers"></a>
 # getModifiers
@@ -41,6 +43,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getModifiers&unscoped_q=getModifiers">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPrimaryDataSetSelector"></a>
 # getPrimaryDataSetSelector
@@ -52,6 +56,8 @@ getPrimaryDataSetSelector(  ) &rarr; DataSetSelector
 the primaryDataSetSelector
 
 <a href="https://github.com/autoplot/dev/search?q=getPrimaryDataSetSelector&unscoped_q=getPrimaryDataSetSelector">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPrimaryFilters"></a>
@@ -66,6 +72,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getPrimaryFilters&unscoped_q=getPrimaryFilters">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSecondaryDataSetSelector"></a>
 # getSecondaryDataSetSelector
@@ -77,6 +85,8 @@ getSecondaryDataSetSelector(  ) &rarr; DataSetSelector
 the secondaryDataSetSelector
 
 <a href="https://github.com/autoplot/dev/search?q=getSecondaryDataSetSelector&unscoped_q=getSecondaryDataSetSelector">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSecondaryFilters"></a>
@@ -91,6 +101,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getSecondaryFilters&unscoped_q=getSecondaryFilters">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTertiaryDataSetSelector"></a>
 # getTertiaryDataSetSelector
@@ -102,6 +114,8 @@ getTertiaryDataSetSelector(  ) &rarr; DataSetSelector
 the tertiaryDataSetSelector
 
 <a href="https://github.com/autoplot/dev/search?q=getTertiaryDataSetSelector&unscoped_q=getTertiaryDataSetSelector">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTertiaryFilters"></a>
@@ -116,6 +130,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getTertiaryFilters&unscoped_q=getTertiaryFilters">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isCancelled"></a>
 # isCancelled
@@ -128,6 +144,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isCancelled&unscoped_q=isCancelled">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDepCount"></a>
@@ -145,6 +163,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDepCount&unscoped_q=setDepCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMessagesLabelText"></a>
 # setMessagesLabelText
@@ -160,6 +180,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMessagesLabelText&unscoped_q=setMessagesLabelText">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setModifiers"></a>
@@ -177,6 +199,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setModifiers&unscoped_q=setModifiers">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPrimaryFilter"></a>
 # setPrimaryFilter
@@ -192,6 +216,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPrimaryFilter&unscoped_q=setPrimaryFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSecondaryFilter"></a>
@@ -209,6 +235,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSecondaryFilter&unscoped_q=setSecondaryFilter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setShowAdditionalOperations"></a>
 # setShowAdditionalOperations
@@ -224,6 +252,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowAdditionalOperations&unscoped_q=setShowAdditionalOperations">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setUsePrimaryFilters"></a>
@@ -241,6 +271,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setUsePrimaryFilters&unscoped_q=setUsePrimaryFilters">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUseSecondaryFilters"></a>
 # setUseSecondaryFilters
@@ -256,4 +288,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUseSecondaryFilters&unscoped_q=setUseSecondaryFilters">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

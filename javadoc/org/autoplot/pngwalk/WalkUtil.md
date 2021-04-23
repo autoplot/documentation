@@ -18,6 +18,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=fileExists&unscoped_q=fileExists">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFilesFor"></a>
 # getFilesFor
@@ -38,6 +40,8 @@ a list of URIs without the aggregation specifier.
 
 <a href="https://github.com/autoplot/dev/search?q=getFilesFor&unscoped_q=getFilesFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resizeImage"></a>
 # resizeImage
@@ -55,4 +59,6 @@ a java.awt.image.BufferedImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=resizeImage&unscoped_q=resizeImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

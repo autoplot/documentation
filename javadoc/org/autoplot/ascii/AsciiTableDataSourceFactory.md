@@ -18,6 +18,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=editPanel&unscoped_q=editPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCompletions"></a>
 # getCompletions
@@ -35,6 +37,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=getCompletions&unscoped_q=getCompletions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSource"></a>
 # getDataSource
@@ -51,6 +55,8 @@ org.autoplot.datasource.DataSource
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDescription"></a>
 # getDescription
@@ -63,6 +69,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDescription&unscoped_q=getDescription">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFieldNames"></a>
@@ -80,6 +88,8 @@ the list of field names
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldNames&unscoped_q=getFieldNames">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMetadataModel"></a>
 # getMetadataModel
@@ -95,6 +105,8 @@ org.autoplot.datasource.MetadataModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadataModel&unscoped_q=getMetadataModel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="reject"></a>
@@ -113,4 +125,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=reject&unscoped_q=reject">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

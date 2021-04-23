@@ -15,3 +15,5 @@ org.das2.graph.Renderer
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderer&unscoped_q=getRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

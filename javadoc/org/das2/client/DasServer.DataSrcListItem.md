@@ -15,6 +15,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=description&unscoped_q=description">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDataSource"></a>
 # isDataSource
@@ -27,6 +29,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDataSource&unscoped_q=isDataSource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDirectory"></a>
@@ -41,6 +45,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isDirectory&unscoped_q=isDirectory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="name"></a>
 # name
@@ -54,6 +60,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=name&unscoped_q=name">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -66,4 +74,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

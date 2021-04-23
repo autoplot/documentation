@@ -20,6 +20,8 @@ the script with new names.
 
 <a href="https://github.com/autoplot/dev/search?q=fixImports&unscoped_q=fixImports">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 fixImports( String s, String name ) &rarr; String<br>
 fixImports( java.io.InputStream in ) &rarr; InputStream<br>
 fixImports( java.io.InputStream in, String name ) &rarr; InputStream<br>
@@ -38,4 +40,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

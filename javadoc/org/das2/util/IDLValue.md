@@ -22,6 +22,8 @@ org.das2.util.IDLValue
 
 <a href="https://github.com/autoplot/dev/search?q=IDLadd&unscoped_q=IDLadd">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="IDLdivide"></a>
 # IDLdivide
@@ -37,6 +39,8 @@ org.das2.util.IDLValue
 
 
 <a href="https://github.com/autoplot/dev/search?q=IDLdivide&unscoped_q=IDLdivide">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="IDLexponeniate"></a>
@@ -54,6 +58,8 @@ org.das2.util.IDLValue
 
 <a href="https://github.com/autoplot/dev/search?q=IDLexponeniate&unscoped_q=IDLexponeniate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="IDLmultiply"></a>
 # IDLmultiply
@@ -69,6 +75,8 @@ org.das2.util.IDLValue
 
 
 <a href="https://github.com/autoplot/dev/search?q=IDLmultiply&unscoped_q=IDLmultiply">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="IDLsubtract"></a>
@@ -86,6 +94,8 @@ org.das2.util.IDLValue
 
 <a href="https://github.com/autoplot/dev/search?q=IDLsubtract&unscoped_q=IDLsubtract">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="alog10"></a>
 # alog10
@@ -101,6 +111,8 @@ org.das2.util.IDLValue
 
 
 <a href="https://github.com/autoplot/dev/search?q=alog10&unscoped_q=alog10">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="findgen"></a>
@@ -118,6 +130,8 @@ org.das2.util.IDLValue
 
 <a href="https://github.com/autoplot/dev/search?q=findgen&unscoped_q=findgen">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="sin"></a>
 # sin
@@ -134,6 +148,8 @@ org.das2.util.IDLValue
 
 <a href="https://github.com/autoplot/dev/search?q=sin&unscoped_q=sin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toArray"></a>
 # toArray
@@ -146,6 +162,8 @@ a double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=toArray&unscoped_q=toArray">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="toScalar"></a>
@@ -160,6 +178,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=toScalar&unscoped_q=toScalar">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -172,4 +192,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

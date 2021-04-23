@@ -15,6 +15,8 @@ org.das2.math.matrix.Matrix
 
 <a href="https://github.com/autoplot/dev/search?q=identity&unscoped_q=identity">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="inverse"></a>
 # inverse
@@ -30,6 +32,8 @@ org.das2.math.matrix.Matrix
 
 
 <a href="https://github.com/autoplot/dev/search?q=inverse&unscoped_q=inverse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="multiply"></a>
@@ -47,6 +51,8 @@ org.das2.math.matrix.Matrix
 
 
 <a href="https://github.com/autoplot/dev/search?q=multiply&unscoped_q=multiply">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 multiply( org.das2.math.matrix.Matrix m1, org.das2.math.matrix.Matrix m2, org.das2.math.matrix.Matrix res ) &rarr; void<br>
 ***
@@ -66,6 +72,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=pivot&unscoped_q=pivot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="print"></a>
 # print
@@ -82,4 +90,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=print&unscoped_q=print">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

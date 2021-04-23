@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=checkState&unscoped_q=checkState">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getReturnFlag"></a>
 # getReturnFlag
@@ -30,6 +32,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getReturnFlag&unscoped_q=getReturnFlag">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="write"></a>
@@ -46,6 +50,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 write( byte[] b ) &rarr; void<br>
 write( byte[] b, int off, int len ) &rarr; void<br>

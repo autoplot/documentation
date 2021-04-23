@@ -32,6 +32,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="capability"></a>
 # capability
@@ -50,6 +52,8 @@ an Object
 
 <a href="https://github.com/autoplot/dev/search?q=capability&unscoped_q=capability">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="copy"></a>
 # copy
@@ -66,6 +70,8 @@ org.autoplot.cdf.TrDDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="copyElements"></a>
@@ -89,6 +95,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=copyElements&unscoped_q=copyElements">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 copyElements( org.autoplot.cdf.TrDDataSet src, int srcpos, org.autoplot.cdf.TrDDataSet dest, int destpos, int len, boolean checkAlias ) &rarr; void<br>
 ***
 <a name="create"></a>
@@ -106,6 +114,8 @@ DDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createRank1"></a>
 # createRank1
@@ -121,6 +131,8 @@ org.autoplot.cdf.TrDDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=createRank1&unscoped_q=createRank1">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createRank2"></a>
@@ -139,6 +151,8 @@ org.autoplot.cdf.TrDDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=createRank2&unscoped_q=createRank2">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createRank3"></a>
 # createRank3
@@ -156,6 +170,8 @@ org.autoplot.cdf.TrDDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=createRank3&unscoped_q=createRank3">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createRank4"></a>
@@ -176,6 +192,8 @@ org.autoplot.cdf.TrDDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=createRank4&unscoped_q=createRank4">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="join"></a>
 # <del>join</del>
@@ -192,6 +210,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 length( int i ) &rarr; int<br>
 length( int i0, int i1 ) &rarr; int<br>
@@ -212,6 +232,8 @@ an org.autoplot.cdf.TrDDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=maybeCopy&unscoped_q=maybeCopy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putLength"></a>
 # putLength
@@ -230,6 +252,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=putLength&unscoped_q=putLength">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putValue"></a>
 # putValue
@@ -245,6 +269,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putValue( int i0, double value ) &rarr; void<br>
 putValue( int i0, int i1, double value ) &rarr; void<br>
@@ -263,6 +289,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -275,6 +303,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="trim"></a>
@@ -293,6 +323,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="value"></a>
 # value
@@ -305,6 +337,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 value( int i0 ) &rarr; double<br>
 value( int i0, int i1 ) &rarr; double<br>
@@ -326,6 +360,8 @@ data - array containing the data, with the last dimension contiguous in memory.
 DDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=wrap&unscoped_q=wrap">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 wrap( double[] back ) &rarr; TrDDataSet<br>
 wrap( double[] back, int nx, int ny ) &rarr; TrDDataSet<br>
@@ -349,6 +385,8 @@ org.autoplot.cdf.TrDDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=wrapRank2&unscoped_q=wrapRank2">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="wrapRank3"></a>
 # wrapRank3
@@ -368,4 +406,6 @@ org.autoplot.cdf.TrDDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=wrapRank3&unscoped_q=wrapRank3">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

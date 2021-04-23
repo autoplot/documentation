@@ -47,6 +47,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColumnCount"></a>
 # getColumnCount
@@ -60,6 +62,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnCount&unscoped_q=getColumnCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFile"></a>
 # getFile
@@ -72,6 +76,8 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFile&unscoped_q=getFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLine"></a>
@@ -89,6 +95,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getLine&unscoped_q=getLine">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParser"></a>
 # getParser
@@ -101,6 +109,8 @@ org.das2.qds.util.AsciiParser
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParser&unscoped_q=getParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRecParser"></a>
@@ -115,6 +125,8 @@ org.das2.qds.util.AsciiParser.RecordParser
 
 <a href="https://github.com/autoplot/dev/search?q=getRecParser&unscoped_q=getRecParser">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRowCount"></a>
 # getRowCount
@@ -127,6 +139,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRowCount&unscoped_q=getRowCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getValueAt"></a>
@@ -145,6 +159,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getValueAt&unscoped_q=getValueAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isColSpan"></a>
 # isColSpan
@@ -161,6 +177,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isColSpan&unscoped_q=isColSpan">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isRecord"></a>
@@ -180,6 +198,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isRecord&unscoped_q=isRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -195,6 +215,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFile"></a>
@@ -212,6 +234,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFile&unscoped_q=setFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setParser"></a>
 # setParser
@@ -228,6 +252,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setParser&unscoped_q=setParser">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRecParser"></a>
 # setRecParser
@@ -243,4 +269,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRecParser&unscoped_q=setRecParser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

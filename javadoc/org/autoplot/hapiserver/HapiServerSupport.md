@@ -15,6 +15,8 @@ JSONArray
 
 <a href="https://github.com/autoplot/dev/search?q=getCatalog&unscoped_q=getCatalog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCatalogIds"></a>
 # getCatalogIds
@@ -26,6 +28,8 @@ return the list of datasets available at the server
 list of dataset ids
 
 <a href="https://github.com/autoplot/dev/search?q=getCatalogIds&unscoped_q=getCatalogIds">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getExampleRange"></a>
@@ -43,6 +47,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getExampleRange&unscoped_q=getExampleRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRange"></a>
 # getRange
@@ -59,6 +65,8 @@ the range of available data, or null if it is not available.
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readJSON"></a>
 # readJSON
@@ -73,4 +81,6 @@ jsonFile - file containing JSONObject.
 the JSONObject
 
 <a href="https://github.com/autoplot/dev/search?q=readJSON&unscoped_q=readJSON">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

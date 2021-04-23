@@ -94,6 +94,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="formatterForScale"></a>
 # formatterForScale
@@ -113,6 +115,8 @@ the formatter.
 
 <a href="https://github.com/autoplot/dev/search?q=formatterForScale&unscoped_q=formatterForScale">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 formatterForScale( int scale, DatumRange context, boolean useDOY ) &rarr; TimeDatumFormatter<br>
 ***
 <a name="toString"></a>
@@ -126,4 +130,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -107,6 +107,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=childNodes&unscoped_q=childNodes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="clone"></a>
 # clone
@@ -120,6 +122,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=clone&unscoped_q=clone">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="copy"></a>
 # copy
@@ -132,6 +136,8 @@ org.autoplot.dom.DomNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="diffs"></a>
@@ -149,6 +155,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=diffs&unscoped_q=diffs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getComponent"></a>
 # getComponent
@@ -161,6 +169,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getComponent&unscoped_q=getComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getController"></a>
@@ -175,6 +185,8 @@ org.autoplot.dom.PlotElementController
 
 <a href="https://github.com/autoplot/dev/search?q=getController&unscoped_q=getController">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSourceFilterId"></a>
 # getDataSourceFilterId
@@ -187,6 +199,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFilterId&unscoped_q=getDataSourceFilterId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLegendLabel"></a>
@@ -201,6 +215,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getLegendLabel&unscoped_q=getLegendLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParent"></a>
 # getParent
@@ -213,6 +229,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPlotDefaults"></a>
@@ -227,6 +245,8 @@ org.autoplot.dom.Plot
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotDefaults&unscoped_q=getPlotDefaults">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPlotId"></a>
 # getPlotId
@@ -239,6 +259,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotId&unscoped_q=getPlotId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRenderControl"></a>
@@ -253,6 +275,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderControl&unscoped_q=getRenderControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRenderType"></a>
 # getRenderType
@@ -265,6 +289,8 @@ org.autoplot.RenderType
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderType&unscoped_q=getRenderType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getStyle"></a>
@@ -279,6 +305,8 @@ org.autoplot.dom.PlotElementStyle
 
 <a href="https://github.com/autoplot/dev/search?q=getStyle&unscoped_q=getStyle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isActive"></a>
 # isActive
@@ -291,6 +319,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isActive&unscoped_q=isActive">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isAutoComponent"></a>
@@ -305,6 +335,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoComponent&unscoped_q=isAutoComponent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAutoLabel"></a>
 # isAutoLabel
@@ -317,6 +349,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoLabel&unscoped_q=isAutoLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isAutoRenderType"></a>
@@ -331,6 +365,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoRenderType&unscoped_q=isAutoRenderType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isCadenceCheck"></a>
 # isCadenceCheck
@@ -344,6 +380,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isCadenceCheck&unscoped_q=isCadenceCheck">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDisplayLegend"></a>
 # isDisplayLegend
@@ -356,6 +394,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDisplayLegend&unscoped_q=isDisplayLegend">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setActive"></a>
@@ -373,6 +413,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setActive&unscoped_q=setActive">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAutoComponent"></a>
 # setAutoComponent
@@ -388,6 +430,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoComponent&unscoped_q=setAutoComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAutoLabel"></a>
@@ -405,6 +449,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoLabel&unscoped_q=setAutoLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAutoRenderType"></a>
 # setAutoRenderType
@@ -420,6 +466,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoRenderType&unscoped_q=setAutoRenderType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setCadenceCheck"></a>
@@ -437,6 +485,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setCadenceCheck&unscoped_q=setCadenceCheck">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setComponent"></a>
 # setComponent
@@ -452,6 +502,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setComponent&unscoped_q=setComponent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setComponentAutomatically"></a>
@@ -470,6 +522,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setComponentAutomatically&unscoped_q=setComponentAutomatically">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSourceFilterId"></a>
 # setDataSourceFilterId
@@ -485,6 +539,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSourceFilterId&unscoped_q=setDataSourceFilterId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDisplayLegend"></a>
@@ -502,6 +558,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDisplayLegend&unscoped_q=setDisplayLegend">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLegendLabel"></a>
 # setLegendLabel
@@ -517,6 +575,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLegendLabel&unscoped_q=setLegendLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLegendLabelAutomatically"></a>
@@ -534,6 +594,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLegendLabelAutomatically&unscoped_q=setLegendLabelAutomatically">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setParent"></a>
 # setParent
@@ -549,6 +611,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setParent&unscoped_q=setParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPlotDefaults"></a>
@@ -566,6 +630,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotDefaults&unscoped_q=setPlotDefaults">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPlotId"></a>
 # setPlotId
@@ -581,6 +647,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotId&unscoped_q=setPlotId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRenderControl"></a>
@@ -598,6 +666,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRenderControl&unscoped_q=setRenderControl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRenderType"></a>
 # setRenderType
@@ -613,6 +683,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRenderType&unscoped_q=setRenderType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRenderTypeAutomatically"></a>
@@ -630,6 +702,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRenderTypeAutomatically&unscoped_q=setRenderTypeAutomatically">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setStyle"></a>
 # setStyle
@@ -645,6 +719,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStyle&unscoped_q=setStyle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="syncTo"></a>
@@ -662,6 +738,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 syncTo( org.autoplot.dom.DomNode node, java.util.List exclude ) &rarr; void<br>
 ***
 <a name="toString"></a>
@@ -675,4 +753,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

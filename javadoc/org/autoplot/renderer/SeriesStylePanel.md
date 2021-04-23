@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doElementBindings&unscoped_q=doElementBindings">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="releaseElementBindings"></a>
 # releaseElementBindings
@@ -30,4 +32,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=releaseElementBindings&unscoped_q=releaseElementBindings">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

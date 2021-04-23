@@ -21,6 +21,8 @@ a dataset that will have the same geometry at the
 
 <a href="https://github.com/autoplot/dev/search?q=createEmptyDs&unscoped_q=createEmptyDs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValue"></a>
 # getValue
@@ -36,6 +38,8 @@ the value of ds at the current iterator position.
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasNext"></a>
 # hasNext
@@ -47,6 +51,8 @@ return true while the iterator has a next element.
 true while the iterator has a next element.
 
 <a href="https://github.com/autoplot/dev/search?q=hasNext&unscoped_q=hasNext">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="index"></a>
@@ -62,6 +68,8 @@ dim - the dimension number (0&lt;=dim&lt;inputRank)
 the current index.
 
 <a href="https://github.com/autoplot/dev/search?q=index&unscoped_q=index">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="length"></a>
@@ -82,6 +90,8 @@ the length of the dimension
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="next"></a>
 # next
@@ -94,6 +104,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="putValue"></a>
@@ -112,6 +124,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rank"></a>
 # rank
@@ -126,4 +140,6 @@ return the rank of the dataset which the iterator will walk through.
 the rank of the dataset which the iterator will walk through.
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

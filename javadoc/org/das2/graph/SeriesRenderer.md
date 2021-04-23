@@ -88,6 +88,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=acceptContext&unscoped_q=acceptContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="acceptsDataSet"></a>
 # acceptsDataSet
@@ -103,6 +105,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=acceptsDataSet&unscoped_q=acceptsDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="drawListIcon"></a>
@@ -122,6 +126,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=drawListIcon&unscoped_q=drawListIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBackgroundThick"></a>
 # getBackgroundThick
@@ -135,6 +141,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getBackgroundThick&unscoped_q=getBackgroundThick">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColor"></a>
 # getColor
@@ -146,6 +154,8 @@ Getter for property color.
 Value of property color.
 
 <a href="https://github.com/autoplot/dev/search?q=getColor&unscoped_q=getColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getColorByDataSetId"></a>
@@ -159,6 +169,8 @@ Value of property colorByDataSetId.
 
 <a href="https://github.com/autoplot/dev/search?q=getColorByDataSetId&unscoped_q=getColorByDataSetId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getControl"></a>
 # getControl
@@ -171,6 +183,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getControl&unscoped_q=getControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDOMElement"></a>
@@ -188,6 +202,8 @@ org.w3c.dom.Element
 
 <a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetSizeLimit"></a>
 # getDataSetSizeLimit
@@ -199,6 +215,8 @@ Getter for property dataSetSizeLimit.
 Value of property dataSetSizeLimit.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetSizeLimit&unscoped_q=getDataSetSizeLimit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getErrorBarType"></a>
@@ -213,6 +231,8 @@ org.das2.graph.ErrorBarType
 
 <a href="https://github.com/autoplot/dev/search?q=getErrorBarType&unscoped_q=getErrorBarType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFillColor"></a>
 # getFillColor
@@ -224,6 +244,8 @@ Getter for property fillReference.
 Value of property fillReference.
 
 <a href="https://github.com/autoplot/dev/search?q=getFillColor&unscoped_q=getFillColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFillDirection"></a>
@@ -238,6 +260,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getFillDirection&unscoped_q=getFillDirection">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFillStyle"></a>
 # getFillStyle
@@ -250,6 +274,8 @@ an org.das2.graph.FillStyle
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFillStyle&unscoped_q=getFillStyle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFirstIndex"></a>
@@ -264,6 +290,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getFirstIndex&unscoped_q=getFirstIndex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLastIndex"></a>
 # getLastIndex
@@ -277,6 +305,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getLastIndex&unscoped_q=getLastIndex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLineWidth"></a>
 # getLineWidth
@@ -289,6 +319,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLineWidth&unscoped_q=getLineWidth">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getListIcon"></a>
@@ -304,6 +336,8 @@ a javax.swing.Icon
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getListLabel"></a>
 # getListLabel
@@ -317,6 +351,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getListLabel&unscoped_q=getListLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPsym"></a>
 # getPsym
@@ -328,6 +364,8 @@ Getter for property psym.
 Value of property psym.
 
 <a href="https://github.com/autoplot/dev/search?q=getPsym&unscoped_q=getPsym">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPsymConnector"></a>
@@ -342,6 +380,8 @@ org.das2.graph.PsymConnector
 
 <a href="https://github.com/autoplot/dev/search?q=getPsymConnector&unscoped_q=getPsymConnector">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getReference"></a>
 # getReference
@@ -353,6 +393,8 @@ Getter for property reference.
 Value of property reference.
 
 <a href="https://github.com/autoplot/dev/search?q=getReference&unscoped_q=getReference">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRenderPointsPerMillisecond"></a>
@@ -367,6 +409,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderPointsPerMillisecond&unscoped_q=getRenderPointsPerMillisecond">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSymSize"></a>
 # getSymSize
@@ -378,6 +422,8 @@ Getter for property symsize.
 Value of property symsize.
 
 <a href="https://github.com/autoplot/dev/search?q=getSymSize&unscoped_q=getSymSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUpdatesPointsPerMillisecond"></a>
@@ -392,6 +438,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getUpdatesPointsPerMillisecond&unscoped_q=getUpdatesPointsPerMillisecond">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAdditionalClip"></a>
 # isAdditionalClip
@@ -405,6 +453,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isAdditionalClip&unscoped_q=isAdditionalClip">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAntiAliased"></a>
 # isAntiAliased
@@ -416,6 +466,8 @@ Getter for property antiAliased.
 Value of property antiAliased.
 
 <a href="https://github.com/autoplot/dev/search?q=isAntiAliased&unscoped_q=isAntiAliased">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isCadenceCheck"></a>
@@ -430,6 +482,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isCadenceCheck&unscoped_q=isCadenceCheck">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDrawError"></a>
 # isDrawError
@@ -443,6 +497,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawError&unscoped_q=isDrawError">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isFillToReference"></a>
 # isFillToReference
@@ -454,6 +510,8 @@ Getter for property fillToReference.
 Value of property fillToReference.
 
 <a href="https://github.com/autoplot/dev/search?q=isFillToReference&unscoped_q=isFillToReference">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isHistogram"></a>
@@ -468,6 +526,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isHistogram&unscoped_q=isHistogram">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isResetDebugCounters"></a>
 # isResetDebugCounters
@@ -479,6 +539,8 @@ Getter for property resetDebugCounters.
 Value of property resetDebugCounters.
 
 <a href="https://github.com/autoplot/dev/search?q=isResetDebugCounters&unscoped_q=isResetDebugCounters">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isShowLimits"></a>
@@ -493,6 +555,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isShowLimits&unscoped_q=isShowLimits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSimplifyPaths"></a>
 # isSimplifyPaths
@@ -504,6 +568,8 @@ Getter for property simplifyPaths.
 Value of property simplifyPaths.
 
 <a href="https://github.com/autoplot/dev/search?q=isSimplifyPaths&unscoped_q=isSimplifyPaths">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isStampPsyms"></a>
@@ -517,6 +583,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isStampPsyms&unscoped_q=isStampPsyms">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="render"></a>
@@ -536,6 +604,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="selectionArea"></a>
 # selectionArea
@@ -550,6 +620,8 @@ a java.awt.Shape
 
 
 <a href="https://github.com/autoplot/dev/search?q=selectionArea&unscoped_q=selectionArea">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setActive"></a>
@@ -567,6 +639,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setActive&unscoped_q=setActive">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAdditionalClip"></a>
 # setAdditionalClip
@@ -583,6 +657,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAdditionalClip&unscoped_q=setAdditionalClip">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAntiAliased"></a>
 # setAntiAliased
@@ -598,6 +674,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAntiAliased&unscoped_q=setAntiAliased">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setBackgroundThick"></a>
@@ -616,6 +694,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setBackgroundThick&unscoped_q=setBackgroundThick">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setCadenceCheck"></a>
 # setCadenceCheck
@@ -631,6 +711,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCadenceCheck&unscoped_q=setCadenceCheck">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setColor"></a>
@@ -648,6 +730,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setColor&unscoped_q=setColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setColorBar"></a>
 # setColorBar
@@ -663,6 +747,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColorBar&unscoped_q=setColorBar">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setColorByDataSetId"></a>
@@ -681,6 +767,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setColorByDataSetId&unscoped_q=setColorByDataSetId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setControl"></a>
 # setControl
@@ -696,6 +784,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setControl&unscoped_q=setControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSet"></a>
@@ -713,6 +803,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSetSizeLimit"></a>
 # setDataSetSizeLimit
@@ -728,6 +820,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetSizeLimit&unscoped_q=setDataSetSizeLimit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDrawError"></a>
@@ -745,6 +839,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawError&unscoped_q=setDrawError">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setErrorBarType"></a>
 # setErrorBarType
@@ -760,6 +856,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setErrorBarType&unscoped_q=setErrorBarType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFillColor"></a>
@@ -777,6 +875,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFillColor&unscoped_q=setFillColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFillDirection"></a>
 # setFillDirection
@@ -792,6 +892,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillDirection&unscoped_q=setFillDirection">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFillStyle"></a>
@@ -809,6 +911,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFillStyle&unscoped_q=setFillStyle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFillToReference"></a>
 # setFillToReference
@@ -824,6 +928,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillToReference&unscoped_q=setFillToReference">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setHistogram"></a>
@@ -841,6 +947,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setHistogram&unscoped_q=setHistogram">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLineWidth"></a>
 # setLineWidth
@@ -856,6 +964,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLineWidth&unscoped_q=setLineWidth">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setListIconSymSize"></a>
@@ -873,6 +983,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setListIconSymSize&unscoped_q=setListIconSymSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPsym"></a>
 # setPsym
@@ -888,6 +1000,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPsym&unscoped_q=setPsym">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPsymConnector"></a>
@@ -905,6 +1019,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPsymConnector&unscoped_q=setPsymConnector">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setReference"></a>
 # setReference
@@ -920,6 +1036,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReference&unscoped_q=setReference">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRenderPointsPerMillisecond"></a>
@@ -937,6 +1055,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRenderPointsPerMillisecond&unscoped_q=setRenderPointsPerMillisecond">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setResetDebugCounters"></a>
 # setResetDebugCounters
@@ -952,6 +1072,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setResetDebugCounters&unscoped_q=setResetDebugCounters">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setShowLimits"></a>
@@ -970,6 +1092,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setShowLimits&unscoped_q=setShowLimits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSimplifyPaths"></a>
 # setSimplifyPaths
@@ -985,6 +1109,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSimplifyPaths&unscoped_q=setSimplifyPaths">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setStampPsyms"></a>
@@ -1002,6 +1128,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setStampPsyms&unscoped_q=setStampPsyms">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSymSize"></a>
 # setSymSize
@@ -1018,6 +1146,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSymSize&unscoped_q=setSymSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUpdatesPointsPerMillisecond"></a>
 # setUpdatesPointsPerMillisecond
@@ -1033,6 +1163,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUpdatesPointsPerMillisecond&unscoped_q=setUpdatesPointsPerMillisecond">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="updatePlotImage"></a>
@@ -1053,4 +1185,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updatePlotImage&unscoped_q=updatePlotImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

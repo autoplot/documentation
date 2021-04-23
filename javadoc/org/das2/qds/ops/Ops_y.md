@@ -15,3 +15,5 @@ the dataset for the xtags.
 
 <a href="https://github.com/autoplot/dev/search?q=ytags&unscoped_q=ytags">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

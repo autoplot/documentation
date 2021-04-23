@@ -20,6 +20,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=enterEditor&unscoped_q=enterEditor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDiscoverySources"></a>
 # getDiscoverySources
@@ -31,6 +33,8 @@ return an array of the sources that can be discovered.
 an array of the sources that can be discovered.
 
 <a href="https://github.com/autoplot/dev/search?q=getDiscoverySources&unscoped_q=getDiscoverySources">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPlugins"></a>
@@ -44,6 +48,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlugins&unscoped_q=getPlugins">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getVersions"></a>
@@ -61,6 +67,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getVersions&unscoped_q=getVersions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isMap"></a>
 # isMap
@@ -76,6 +84,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isMap&unscoped_q=isMap">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isQDataSet"></a>
@@ -93,6 +103,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isQDataSet&unscoped_q=isQDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="silenceLoggers"></a>
 # silenceLoggers
@@ -106,6 +118,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=silenceLoggers&unscoped_q=silenceLoggers">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="verboseLoggers"></a>
 # verboseLoggers
@@ -118,4 +132,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=verboseLoggers&unscoped_q=verboseLoggers">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

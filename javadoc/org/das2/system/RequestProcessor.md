@@ -43,6 +43,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=invokeAfter&unscoped_q=invokeAfter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="invokeLater"></a>
 # invokeLater
@@ -59,6 +61,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=invokeLater&unscoped_q=invokeLater">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 invokeLater( java.lang.Runnable run, Object lock ) &rarr; void<br>
 ***
 <a name="printStatus"></a>
@@ -72,6 +76,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printStatus&unscoped_q=printStatus">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setThreadCount"></a>
@@ -91,6 +97,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setThreadCount&unscoped_q=setThreadCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="shutdown"></a>
 # shutdown
@@ -103,6 +111,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=shutdown&unscoped_q=shutdown">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="waitFor"></a>
@@ -119,4 +129,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=waitFor&unscoped_q=waitFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

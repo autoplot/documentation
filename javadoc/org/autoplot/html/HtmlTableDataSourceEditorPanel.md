@@ -117,6 +117,8 @@ java.io.File
 
 <a href="https://github.com/autoplot/dev/search?q=getFile&unscoped_q=getFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPanel"></a>
 # getPanel
@@ -129,6 +131,8 @@ javax.swing.JPanel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPanel&unscoped_q=getPanel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTable"></a>
@@ -143,6 +147,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getTable&unscoped_q=getTable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getURI"></a>
 # getURI
@@ -155,6 +161,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="markProblems"></a>
@@ -171,6 +179,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=markProblems&unscoped_q=markProblems">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="prepare"></a>
@@ -190,6 +200,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=prepare&unscoped_q=prepare">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reject"></a>
 # reject
@@ -205,6 +217,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=reject&unscoped_q=reject">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFile"></a>
@@ -222,6 +236,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFile&unscoped_q=setFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTable"></a>
 # setTable
@@ -238,6 +254,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTable&unscoped_q=setTable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setURI"></a>
 # setURI
@@ -253,4 +271,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setURI&unscoped_q=setURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

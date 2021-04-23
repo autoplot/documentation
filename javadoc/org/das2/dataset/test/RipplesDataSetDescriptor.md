@@ -25,6 +25,8 @@ org.das2.dataset.DataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetImpl&unscoped_q=getDataSetImpl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXUnits"></a>
 # getXUnits
@@ -37,6 +39,8 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getYUnits"></a>
@@ -51,6 +55,8 @@ org.das2.datum.Units
 
 <a href="https://github.com/autoplot/dev/search?q=getYUnits&unscoped_q=getYUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getZUnits"></a>
 # getZUnits
@@ -63,4 +69,6 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getZUnits&unscoped_q=getZUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

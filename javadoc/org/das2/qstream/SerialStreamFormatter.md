@@ -52,6 +52,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 format( String name, QDataSet ds1, String inoutForm ) &rarr; void<br>
 ***
 <a name="init"></a>
@@ -70,6 +72,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=init&unscoped_q=init">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 init( String name, org.das2.qstream.StreamHandler sh ) &rarr; void<br>
 ***
 <a name="isAsciiTypes"></a>
@@ -84,6 +88,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isAsciiTypes&unscoped_q=isAsciiTypes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isBigEndian"></a>
 # isBigEndian
@@ -96,6 +102,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isBigEndian&unscoped_q=isBigEndian">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="join"></a>
@@ -115,6 +123,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=join&unscoped_q=join">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -130,6 +140,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="maybeFormat"></a>
@@ -150,6 +162,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=maybeFormat&unscoped_q=maybeFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="retire"></a>
 # retire
@@ -165,6 +179,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=retire&unscoped_q=retire">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAsciiTypes"></a>
@@ -182,6 +198,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAsciiTypes&unscoped_q=setAsciiTypes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setBigEndian"></a>
 # setBigEndian
@@ -197,6 +215,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBigEndian&unscoped_q=setBigEndian">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTransferType"></a>
@@ -215,6 +235,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTransferType&unscoped_q=setTransferType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUnitTransferType"></a>
 # setUnitTransferType
@@ -232,4 +254,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUnitTransferType&unscoped_q=setUnitTransferType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

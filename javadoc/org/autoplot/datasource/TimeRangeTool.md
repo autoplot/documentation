@@ -14,6 +14,8 @@ the range selected
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedRange&unscoped_q=getSelectedRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -29,6 +31,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAdditionalSpacecraftForOrbit"></a>
@@ -50,6 +54,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAdditionalSpacecraftForOrbit&unscoped_q=setAdditionalSpacecraftForOrbit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSelectedRange"></a>
 # setSelectedRange
@@ -66,4 +72,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSelectedRange&unscoped_q=setSelectedRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

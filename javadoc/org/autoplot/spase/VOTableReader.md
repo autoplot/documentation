@@ -16,6 +16,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readHeader"></a>
 # readHeader
@@ -33,6 +35,8 @@ the header.  For example h.property( QDataSet.LABEL, 1 )
 
 <a href="https://github.com/autoplot/dev/search?q=readHeader&unscoped_q=readHeader">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readTable"></a>
 # readTable
@@ -48,5 +52,7 @@ s - String reference to a local file.
 the bundle dataset loaded.
 
 <a href="https://github.com/autoplot/dev/search?q=readTable&unscoped_q=readTable">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 readTable( String s ) &rarr; QDataSet<br>

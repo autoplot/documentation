@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=cacheCleanup&unscoped_q=cacheCleanup">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="containsFile"></a>
 # containsFile
@@ -32,6 +34,8 @@ file - the file
 true if the file came (or could come) from this FileStorageModel.
 
 <a href="https://github.com/autoplot/dev/search?q=containsFile&unscoped_q=containsFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="create"></a>
@@ -61,6 +65,8 @@ a newly-created FileStorageModel.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 create( org.das2.util.filesystem.FileSystem root, String template, String fieldName, org.das2.datum.TimeParser.FieldHandler fieldHandler ) &rarr; FileStorageModel<br>
 ***
 <a name="generateNamesFor"></a>
@@ -79,6 +85,8 @@ the string names, each in the context of the filesystem.
 
 <a href="https://github.com/autoplot/dev/search?q=generateNamesFor&unscoped_q=generateNamesFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBestFilesFor"></a>
 # getBestFilesFor
@@ -94,6 +102,8 @@ a java.io.File[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBestFilesFor&unscoped_q=getBestFilesFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getBestFilesFor( DatumRange targetRange, ProgressMonitor monitor ) &rarr; File<br>
 ***
@@ -113,6 +123,8 @@ array of names within the system.
 
 <a href="https://github.com/autoplot/dev/search?q=getBestNamesFor&unscoped_q=getBestNamesFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getBestNamesFor( DatumRange targetRange ) &rarr; String<br>
 ***
 <a name="getCacheTagFor"></a>
@@ -131,6 +143,8 @@ org.das2.datum.CacheTag
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCacheTagFor&unscoped_q=getCacheTagFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getCacheTagFor( org.das2.fsm.FileStorageModel fsm, DatumRange range, java.io.File[] files ) &rarr; CacheTag<br>
 ***
@@ -153,6 +167,8 @@ the FileSystem
 
 <a href="https://github.com/autoplot/dev/search?q=getChildFileSystem&unscoped_q=getChildFileSystem">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getField"></a>
 # getField
@@ -173,6 +189,8 @@ the field value, for example, "2.3" when the spec is $Y/$m/$d/$Y$m$d_v$v.dat
 
 <a href="https://github.com/autoplot/dev/search?q=getField&unscoped_q=getField">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFileFor"></a>
 # getFileFor
@@ -188,6 +206,8 @@ null or a local file which can be opened.
 
 <a href="https://github.com/autoplot/dev/search?q=getFileFor&unscoped_q=getFileFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getFileFor( String name, ProgressMonitor monitor ) &rarr; File<br>
 ***
 <a name="getFileSystem"></a>
@@ -200,6 +220,8 @@ return the filesystem used to implement this.
 filesystem
 
 <a href="https://github.com/autoplot/dev/search?q=getFileSystem&unscoped_q=getFileSystem">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFilenameFor"></a>
@@ -220,6 +242,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getFilenameFor&unscoped_q=getFilenameFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFilesFor"></a>
 # getFilesFor
@@ -235,6 +259,8 @@ java.io.File[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFilesFor&unscoped_q=getFilesFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getFilesFor( java.lang.String[] names, ProgressMonitor monitor ) &rarr; File<br>
 getFilesFor( DatumRange targetRange, ProgressMonitor monitor ) &rarr; File<br>
@@ -257,6 +283,8 @@ the canonical name of the file.
 
 <a href="https://github.com/autoplot/dev/search?q=getNameFor&unscoped_q=getNameFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNamesFor"></a>
 # getNamesFor
@@ -271,6 +299,8 @@ targetRange - range limit, or null.
 array of names within the system.
 
 <a href="https://github.com/autoplot/dev/search?q=getNamesFor&unscoped_q=getNamesFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getNamesFor( DatumRange targetRange, ProgressMonitor monitor ) &rarr; String<br>
 ***
@@ -287,6 +317,8 @@ parent or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRangeFor"></a>
 # getRangeFor
@@ -301,6 +333,8 @@ name - like 2013-10-31
 the timerange representing the day 2013-10-31
 
 <a href="https://github.com/autoplot/dev/search?q=getRangeFor&unscoped_q=getRangeFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRepresentativeFile"></a>
@@ -318,6 +352,8 @@ a reference to the file within the FileSystem, or null if one is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getRepresentativeFile&unscoped_q=getRepresentativeFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getRepresentativeFile( ProgressMonitor monitor, String childRegex ) &rarr; String<br>
 getRepresentativeFile( ProgressMonitor monitor, String childRegex, DatumRange range ) &rarr; String<br>
 getRepresentativeFile( org.das2.fsm.FileStorageModel ths, ProgressMonitor monitor, String childRegex, DatumRange range, int depth ) &rarr; String<br>
@@ -333,6 +369,8 @@ the root of the filesystem as a string.
 
 <a href="https://github.com/autoplot/dev/search?q=getRoot&unscoped_q=getRoot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasField"></a>
 # hasField
@@ -347,6 +385,8 @@ field - e.g. "x"
 true if the parser has the field.
 
 <a href="https://github.com/autoplot/dev/search?q=hasField&unscoped_q=hasField">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="quantize"></a>
@@ -366,6 +406,8 @@ list of file timeranges covering file input timeRange.
 
 <a href="https://github.com/autoplot/dev/search?q=quantize&unscoped_q=quantize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setContext"></a>
 # setContext
@@ -382,6 +424,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setContext&unscoped_q=setContext">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="splitIndex"></a>
@@ -414,6 +458,8 @@ an integer indicating the split index, so that surl.substring(0,i) includes the 
 
 <a href="https://github.com/autoplot/dev/search?q=splitIndex&unscoped_q=splitIndex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -426,4 +472,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

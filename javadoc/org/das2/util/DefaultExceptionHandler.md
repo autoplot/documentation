@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=handle&unscoped_q=handle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="handleUncaught"></a>
 # handleUncaught
@@ -34,4 +36,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=handleUncaught&unscoped_q=handleUncaught">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

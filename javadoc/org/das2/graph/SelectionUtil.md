@@ -25,4 +25,6 @@ the renderer-specific selection area, or the current bounds of the renderer pare
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectionArea&unscoped_q=getSelectionArea">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getSelectionArea( org.das2.graph.DasCanvasComponent cc ) &rarr; Shape<br>

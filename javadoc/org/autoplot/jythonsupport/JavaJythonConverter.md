@@ -34,6 +34,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setJavaSource"></a>
 # setJavaSource
@@ -50,6 +52,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setJavaSource&unscoped_q=setJavaSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPythonSource"></a>
 # setPythonSource
@@ -65,4 +69,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPythonSource&unscoped_q=setPythonSource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -68,6 +68,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addActionListener&unscoped_q=addActionListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addAnnotation"></a>
 # addAnnotation
@@ -88,6 +90,8 @@ the annotation, configured.
 
 <a href="https://github.com/autoplot/dev/search?q=addAnnotation&unscoped_q=addAnnotation">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addAnnotation( org.autoplot.dom.Plot p, String text ) &rarr; Annotation<br>
 addAnnotation( org.autoplot.dom.Row row, org.autoplot.dom.Column column, String text ) &rarr; Annotation<br>
 ***
@@ -106,6 +110,8 @@ an org.das2.graph.DasCanvas
 
 <a href="https://github.com/autoplot/dev/search?q=addCanvas&unscoped_q=addCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addConnector"></a>
 # addConnector
@@ -123,6 +129,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addConnector&unscoped_q=addConnector">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addDas2PeerChangeListener"></a>
 # addDas2PeerChangeListener
@@ -139,6 +147,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDas2PeerChangeListener&unscoped_q=addDas2PeerChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addDataSourceFilter"></a>
 # addDataSourceFilter
@@ -150,6 +160,8 @@ add a DataSourceFilter to the dom.
 the new DataSourceFilter
 
 <a href="https://github.com/autoplot/dev/search?q=addDataSourceFilter&unscoped_q=addDataSourceFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addPlot"></a>
@@ -171,6 +183,8 @@ an org.autoplot.dom.Plot
 
 <a href="https://github.com/autoplot/dev/search?q=addPlot&unscoped_q=addPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addPlot( org.autoplot.dom.Plot focus, Object direction ) &rarr; Plot<br>
 addPlot( org.autoplot.dom.Row row, org.autoplot.dom.Column column ) &rarr; Plot<br>
 addPlot( String xpos, String ypos ) &rarr; Plot<br>
@@ -191,6 +205,8 @@ an org.autoplot.dom.PlotElement
 
 <a href="https://github.com/autoplot/dev/search?q=addPlotElement&unscoped_q=addPlotElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addPlotElement( org.autoplot.dom.Plot domPlot, org.autoplot.dom.PlotElement parent, org.autoplot.dom.DataSourceFilter dsf ) &rarr; PlotElement<br>
 ***
 <a name="addPlots"></a>
@@ -209,6 +225,8 @@ nrow - number of rows
 a list of the newly added plots.
 
 <a href="https://github.com/autoplot/dev/search?q=addPlots&unscoped_q=addPlots">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="bind"></a>
@@ -242,6 +260,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=bind&unscoped_q=bind">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 bind( org.autoplot.dom.DomNode src, String srcProp, Object dst, String dstProp ) &rarr; void<br>
 ***
 <a name="cancelAllPendingTasks"></a>
@@ -255,6 +275,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=cancelAllPendingTasks&unscoped_q=cancelAllPendingTasks">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="copyPlot"></a>
@@ -277,6 +299,8 @@ The duplicate plot
 
 <a href="https://github.com/autoplot/dev/search?q=copyPlot&unscoped_q=copyPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="copyPlotAndPlotElements"></a>
 # copyPlotAndPlotElements
@@ -296,6 +320,8 @@ the new plot
 
 <a href="https://github.com/autoplot/dev/search?q=copyPlotAndPlotElements&unscoped_q=copyPlotAndPlotElements">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="delete"></a>
 # delete
@@ -311,6 +337,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=delete&unscoped_q=delete">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 delete( org.autoplot.dom.DomNode n ) &rarr; void<br>
 ***
@@ -328,6 +356,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=deleteAnnotation&unscoped_q=deleteAnnotation">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="deleteBinding"></a>
@@ -349,6 +379,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deleteConnector&unscoped_q=deleteConnector">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="deleteDataSourceFilter"></a>
 # deleteDataSourceFilter
@@ -367,6 +399,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deleteDataSourceFilter&unscoped_q=deleteDataSourceFilter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="deletePlot"></a>
 # deletePlot
@@ -384,6 +418,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deletePlot&unscoped_q=deletePlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="deletePlotElement"></a>
 # deletePlotElement
@@ -400,6 +436,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=deletePlotElement&unscoped_q=deletePlotElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="doplot"></a>
@@ -421,6 +459,8 @@ org.autoplot.dom.PlotElement
 
 <a href="https://github.com/autoplot/dev/search?q=doplot&unscoped_q=doplot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 doplot( org.autoplot.dom.Plot plot, org.autoplot.dom.PlotElement pele, String secondaryUri, String primaryUri ) &rarr; PlotElement<br>
 doplot( org.autoplot.dom.Plot plot, org.autoplot.dom.PlotElement pele, String primaryUri ) &rarr; PlotElement<br>
 ***
@@ -439,6 +479,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=fillEditPlotMenu&unscoped_q=fillEditPlotMenu">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="findBinding"></a>
@@ -459,6 +501,8 @@ the BindingModel or null if it doesn't exist.
 
 <a href="https://github.com/autoplot/dev/search?q=findBinding&unscoped_q=findBinding">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="findBindings"></a>
 # findBindings
@@ -476,6 +520,8 @@ a java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=findBindings&unscoped_q=findBindings">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 findBindings( org.autoplot.dom.DomNode src, String srcProp, org.autoplot.dom.DomNode dst, String dstProp ) &rarr; List<br>
 ***
 <a name="getApplication"></a>
@@ -490,6 +536,8 @@ org.autoplot.dom.Application
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getApplicationModel"></a>
 # getApplicationModel
@@ -502,6 +550,8 @@ org.autoplot.ApplicationModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getApplicationModel&unscoped_q=getApplicationModel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getBindingsFor"></a>
@@ -519,6 +569,8 @@ org.autoplot.dom.BindingModel[]
 
 <a href="https://github.com/autoplot/dev/search?q=getBindingsFor&unscoped_q=getBindingsFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCanvas"></a>
 # getCanvas
@@ -530,6 +582,8 @@ focus canvas.  Note there is only one canvas allowed (for now).
 the focus canvas.
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvas&unscoped_q=getCanvas">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getColumn"></a>
@@ -543,6 +597,8 @@ the DasColumn implementation for the marginColumn.
 
 <a href="https://github.com/autoplot/dev/search?q=getColumn&unscoped_q=getColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDasCanvas"></a>
 # getDasCanvas
@@ -555,6 +611,8 @@ the das canvas.
 
 <a href="https://github.com/autoplot/dev/search?q=getDasCanvas&unscoped_q=getDasCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSourceFilter"></a>
 # getDataSourceFilter
@@ -566,6 +624,8 @@ return focus dataSourceFilter.
 the focus dataSourceFilter.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFilter&unscoped_q=getDataSourceFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSourceFilterFor"></a>
@@ -584,6 +644,8 @@ the DataSourceFilter to which the plot element refers, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFilterFor&unscoped_q=getDataSourceFilterFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getElementById"></a>
 # getElementById
@@ -598,6 +660,8 @@ id - a String
 the DomNode with this id.
 
 <a href="https://github.com/autoplot/dev/search?q=getElementById&unscoped_q=getElementById">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFirstPlotFor"></a>
@@ -616,6 +680,8 @@ an org.autoplot.dom.Plot
 
 <a href="https://github.com/autoplot/dev/search?q=getFirstPlotFor&unscoped_q=getFirstPlotFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFocusUri"></a>
 # getFocusUri
@@ -629,6 +695,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getFocusUri&unscoped_q=getFocusUri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMonitorFactory"></a>
 # getMonitorFactory
@@ -640,6 +708,8 @@ return the source of monitors.
 the source of monitors.
 
 <a href="https://github.com/autoplot/dev/search?q=getMonitorFactory&unscoped_q=getMonitorFactory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getNextPlotHoriz"></a>
@@ -658,6 +728,8 @@ org.autoplot.dom.Plot
 
 <a href="https://github.com/autoplot/dev/search?q=getNextPlotHoriz&unscoped_q=getNextPlotHoriz">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPendingChangeCount"></a>
 # getPendingChangeCount
@@ -669,6 +741,8 @@ get the number of pending changes.  0 means the application is idle.
 get the number of pending changes.
 
 <a href="https://github.com/autoplot/dev/search?q=getPendingChangeCount&unscoped_q=getPendingChangeCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPlot"></a>
@@ -686,6 +760,8 @@ org.autoplot.dom.Plot
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlot&unscoped_q=getPlot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPlot(  ) &rarr; Plot<br>
 ***
@@ -705,6 +781,8 @@ an org.autoplot.dom.Plot
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotAbove&unscoped_q=getPlotAbove">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPlotBelow"></a>
 # getPlotBelow
@@ -722,6 +800,8 @@ an org.autoplot.dom.Plot
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotBelow&unscoped_q=getPlotBelow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPlotElement"></a>
 # getPlotElement
@@ -733,6 +813,8 @@ return the focus plot element
 the focus plot element
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotElement&unscoped_q=getPlotElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPlotElementsFor"></a>
@@ -748,6 +830,8 @@ plot - a Plot
 list of PlotElements.
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotElementsFor&unscoped_q=getPlotElementsFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPlotElementsFor( org.autoplot.dom.DataSourceFilter dsf ) &rarr; List<br>
 ***
@@ -765,6 +849,8 @@ an org.autoplot.dom.Plot
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotFor&unscoped_q=getPlotFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPlotFor( org.autoplot.dom.PlotElement element ) &rarr; Plot<br>
 ***
@@ -784,6 +870,8 @@ return the PlotElements for the data source filter, if any.
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotsFor&unscoped_q=getPlotsFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRow"></a>
 # getRow
@@ -795,6 +883,8 @@ get the DasRow implementation for the marginRow.
 the DasRow implementation for the marginRow.
 
 <a href="https://github.com/autoplot/dev/search?q=getRow&unscoped_q=getRow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getStatus"></a>
@@ -810,6 +900,8 @@ the last status message.
 
 <a href="https://github.com/autoplot/dev/search?q=getStatus&unscoped_q=getStatus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isHeadless"></a>
 # isHeadless
@@ -821,6 +913,8 @@ true if running in headless environment
 true if running in headless environment
 
 <a href="https://github.com/autoplot/dev/search?q=isHeadless&unscoped_q=isHeadless">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isTimeSeriesBrowse"></a>
@@ -840,6 +934,8 @@ true if the plot has the time series browse.
 
 <a href="https://github.com/autoplot/dev/search?q=isTimeSeriesBrowse&unscoped_q=isTimeSeriesBrowse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="maybeGetApplicatonGUI"></a>
 # maybeGetApplicatonGUI
@@ -853,6 +949,8 @@ null or the application
 
 <a href="https://github.com/autoplot/dev/search?q=maybeGetApplicatonGUI&unscoped_q=maybeGetApplicatonGUI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="peekBindingSupport"></a>
 # peekBindingSupport
@@ -864,6 +962,8 @@ for debugging in scripts.
 the BindingSupport object.
 
 <a href="https://github.com/autoplot/dev/search?q=peekBindingSupport&unscoped_q=peekBindingSupport">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="plotUri"></a>
@@ -882,6 +982,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=plotUri&unscoped_q=plotUri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeActionListener"></a>
 # removeActionListener
@@ -897,6 +999,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeActionListener&unscoped_q=removeActionListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeBinding"></a>
@@ -914,6 +1018,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeBinding&unscoped_q=removeBinding">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reset"></a>
 # reset
@@ -927,6 +1033,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setCanvas"></a>
@@ -945,6 +1053,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setCanvas&unscoped_q=setCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSourceFilter"></a>
 # setDataSourceFilter
@@ -960,6 +1070,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSourceFilter&unscoped_q=setDataSourceFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFocusUri"></a>
@@ -977,6 +1089,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFocusUri&unscoped_q=setFocusUri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPendingChangeCount"></a>
 # setPendingChangeCount
@@ -992,6 +1106,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPendingChangeCount&unscoped_q=setPendingChangeCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPlot"></a>
@@ -1009,6 +1125,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPlot&unscoped_q=setPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPlotElement"></a>
 # setPlotElement
@@ -1024,6 +1142,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotElement&unscoped_q=setPlotElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setStatus"></a>
@@ -1043,6 +1163,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setStatus&unscoped_q=setStatus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="showBindings"></a>
 # showBindings
@@ -1055,6 +1177,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showBindings&unscoped_q=showBindings">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="unbind"></a>
@@ -1075,6 +1199,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=unbind&unscoped_q=unbind">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 unbind( org.autoplot.dom.DomNode src ) &rarr; void<br>
 ***
 <a name="waitUntilIdle"></a>
@@ -1090,4 +1216,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/isPendingChanges/.md'>isPendingChanges.</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=waitUntilIdle&unscoped_q=waitUntilIdle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

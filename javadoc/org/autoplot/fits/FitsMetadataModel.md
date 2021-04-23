@@ -15,6 +15,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="properties"></a>
 # properties
@@ -30,4 +32,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=properties&unscoped_q=properties">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -25,6 +25,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDataPointSelectionListener&unscoped_q=addDataPointSelectionListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDragEvents"></a>
 # isDragEvents
@@ -36,6 +38,8 @@ Getter for property dragEvents.
 Value of property dragEvents.
 
 <a href="https://github.com/autoplot/dev/search?q=isDragEvents&unscoped_q=isDragEvents">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isKeyEvents"></a>
@@ -49,6 +53,8 @@ Value of property keyEvents.
 
 <a href="https://github.com/autoplot/dev/search?q=isKeyEvents&unscoped_q=isKeyEvents">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isReleaseEvents"></a>
 # isReleaseEvents
@@ -60,6 +66,8 @@ Getter for property releaseEvents.
 Value of property releaseEvents.
 
 <a href="https://github.com/autoplot/dev/search?q=isReleaseEvents&unscoped_q=isReleaseEvents">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="keyPressed"></a>
@@ -77,6 +85,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=keyPressed&unscoped_q=keyPressed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mousePointSelected"></a>
 # mousePointSelected
@@ -92,6 +102,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mousePointSelected&unscoped_q=mousePointSelected">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mouseReleased"></a>
@@ -109,6 +121,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=mouseReleased&unscoped_q=mouseReleased">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeDataPointSelectionListener"></a>
 # removeDataPointSelectionListener
@@ -124,6 +138,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataPointSelectionListener&unscoped_q=removeDataPointSelectionListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDragEvents"></a>
@@ -141,6 +157,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDragEvents&unscoped_q=setDragEvents">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setKeyEvents"></a>
 # setKeyEvents
@@ -157,6 +175,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setKeyEvents&unscoped_q=setKeyEvents">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setReleaseEvents"></a>
 # setReleaseEvents
@@ -172,4 +192,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReleaseEvents&unscoped_q=setReleaseEvents">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

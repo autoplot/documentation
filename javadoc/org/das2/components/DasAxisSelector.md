@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=actionPerformed&unscoped_q=actionPerformed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEndTime"></a>
 # getEndTime
@@ -31,6 +33,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getEndTime&unscoped_q=getEndTime">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getStartTime"></a>
 # getStartTime
@@ -43,4 +47,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStartTime&unscoped_q=getStartTime">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

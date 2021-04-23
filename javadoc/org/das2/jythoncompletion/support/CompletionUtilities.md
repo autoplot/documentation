@@ -23,6 +23,8 @@ leftHtmlText - html text displayed on the left side of the item
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferredWidth&unscoped_q=getPreferredWidth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="renderHtml"></a>
 # renderHtml
@@ -68,4 +70,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=renderHtml&unscoped_q=renderHtml">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

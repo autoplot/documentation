@@ -108,6 +108,8 @@ org.autoplot.dom.DomNode
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="diffs"></a>
 # diffs
@@ -124,6 +126,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=diffs&unscoped_q=diffs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAutoRangeHints"></a>
 # getAutoRangeHints
@@ -136,6 +140,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAutoRangeHints&unscoped_q=getAutoRangeHints">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getController"></a>
@@ -150,6 +156,8 @@ org.autoplot.dom.AxisController
 
 <a href="https://github.com/autoplot/dev/search?q=getController&unscoped_q=getController">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFontSize"></a>
 # getFontSize
@@ -163,6 +171,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getFontSize&unscoped_q=getFontSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -174,6 +184,8 @@ concise label for the axis.
 the label
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRange"></a>
@@ -188,6 +200,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getReference"></a>
 # getReference
@@ -200,6 +214,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getReference&unscoped_q=getReference">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getScale"></a>
@@ -214,6 +230,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=getScale&unscoped_q=getScale">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTickValues"></a>
 # getTickValues
@@ -226,6 +244,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTickValues&unscoped_q=getTickValues">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isAutoLabel"></a>
@@ -240,6 +260,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoLabel&unscoped_q=isAutoLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAutoRange"></a>
 # isAutoRange
@@ -252,6 +274,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoRange&unscoped_q=isAutoRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDrawTickLabels"></a>
@@ -266,6 +290,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawTickLabels&unscoped_q=isDrawTickLabels">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isFlipped"></a>
 # isFlipped
@@ -278,6 +304,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFlipped&unscoped_q=isFlipped">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isLog"></a>
@@ -292,6 +320,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isLog&unscoped_q=isLog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isOpposite"></a>
 # isOpposite
@@ -305,6 +335,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isOpposite&unscoped_q=isOpposite">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isVisible"></a>
 # isVisible
@@ -317,6 +349,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isVisible&unscoped_q=isVisible">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAutoLabel"></a>
@@ -334,6 +368,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoLabel&unscoped_q=setAutoLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAutoRange"></a>
 # setAutoRange
@@ -349,6 +385,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoRange&unscoped_q=setAutoRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAutoRangeHints"></a>
@@ -366,6 +404,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoRangeHints&unscoped_q=setAutoRangeHints">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDrawTickLabels"></a>
 # setDrawTickLabels
@@ -382,6 +422,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawTickLabels&unscoped_q=setDrawTickLabels">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFlipped"></a>
 # setFlipped
@@ -397,6 +439,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFlipped&unscoped_q=setFlipped">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFontSize"></a>
@@ -415,6 +459,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFontSize&unscoped_q=setFontSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLabel"></a>
 # setLabel
@@ -430,6 +476,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabel&unscoped_q=setLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLog"></a>
@@ -449,6 +497,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLog&unscoped_q=setLog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setOpposite"></a>
 # setOpposite
@@ -464,6 +514,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOpposite&unscoped_q=setOpposite">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRange"></a>
@@ -486,6 +538,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRange&unscoped_q=setRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setReference"></a>
 # setReference
@@ -503,6 +557,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setReference&unscoped_q=setReference">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setScale"></a>
 # setScale
@@ -518,6 +574,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setScale&unscoped_q=setScale">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTickValues"></a>
@@ -541,6 +599,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTickValues&unscoped_q=setTickValues">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setVisible"></a>
 # setVisible
@@ -557,6 +617,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setVisible&unscoped_q=setVisible">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="syncTo"></a>
 # syncTo
@@ -572,5 +634,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 syncTo( org.autoplot.dom.DomNode n, java.util.List exclude ) &rarr; void<br>

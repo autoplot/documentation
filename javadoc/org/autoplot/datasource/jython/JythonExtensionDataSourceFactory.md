@@ -19,6 +19,8 @@ org.autoplot.datasource.DataSource
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInternalScriptForResource"></a>
 # getInternalScriptForResource
@@ -35,6 +37,8 @@ uri - the Autoplot URI.
 null or the name of the file to use.
 
 <a href="https://github.com/autoplot/dev/search?q=getInternalScriptForResource&unscoped_q=getInternalScriptForResource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getJydsUri"></a>
@@ -53,6 +57,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getJydsUri&unscoped_q=getJydsUri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getScriptForResource"></a>
 # getScriptForResource
@@ -67,4 +73,6 @@ uri - the Autoplot URI.
 string containing the script.
 
 <a href="https://github.com/autoplot/dev/search?q=getScriptForResource&unscoped_q=getScriptForResource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

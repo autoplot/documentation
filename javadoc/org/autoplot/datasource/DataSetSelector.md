@@ -87,6 +87,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addAbouts&unscoped_q=addAbouts">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addActionListener"></a>
 # addActionListener
@@ -102,6 +104,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addActionListener&unscoped_q=addActionListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addCancelEscapeKey"></a>
@@ -120,6 +124,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addCancelEscapeKey&unscoped_q=addCancelEscapeKey">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addCompletionKeys"></a>
 # addCompletionKeys
@@ -133,6 +139,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addCompletionKeys&unscoped_q=addCompletionKeys">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addSuggestFile"></a>
@@ -150,6 +158,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addSuggestFile&unscoped_q=addSuggestFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="browseSourceType"></a>
 # browseSourceType
@@ -165,6 +175,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=browseSourceType&unscoped_q=browseSourceType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 browseSourceType( java.util.List problems ) &rarr; void<br>
 ***
 <a name="getAcceptPattern"></a>
@@ -179,6 +191,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getAcceptPattern&unscoped_q=getAcceptPattern">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBrowseButton"></a>
 # getBrowseButton
@@ -192,6 +206,8 @@ the inspect/browse button
 
 <a href="https://github.com/autoplot/dev/search?q=getBrowseButton&unscoped_q=getBrowseButton">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBrowseTypeExt"></a>
 # getBrowseTypeExt
@@ -203,6 +219,8 @@ Getter for property browseTypeExt.
 Value of property browseTypeExt.
 
 <a href="https://github.com/autoplot/dev/search?q=getBrowseTypeExt&unscoped_q=getBrowseTypeExt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDefaultRecent"></a>
@@ -216,6 +234,8 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDefaultRecent&unscoped_q=getDefaultRecent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getEditor"></a>
@@ -232,6 +252,8 @@ the text editor
 
 <a href="https://github.com/autoplot/dev/search?q=getEditor&unscoped_q=getEditor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getGoButton"></a>
 # getGoButton
@@ -245,6 +267,8 @@ the green go button
 
 <a href="https://github.com/autoplot/dev/search?q=getGoButton&unscoped_q=getGoButton">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMessage"></a>
 # getMessage
@@ -256,6 +280,8 @@ Getter for property message.
 Value of property message.
 
 <a href="https://github.com/autoplot/dev/search?q=getMessage&unscoped_q=getMessage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getOpenLocalAction"></a>
@@ -270,6 +296,8 @@ javax.swing.Action
 
 <a href="https://github.com/autoplot/dev/search?q=getOpenLocalAction&unscoped_q=getOpenLocalAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getOpenLocalVapAction"></a>
 # getOpenLocalVapAction
@@ -282,6 +310,8 @@ javax.swing.Action
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOpenLocalVapAction&unscoped_q=getOpenLocalVapAction">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPromptText"></a>
@@ -296,6 +326,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getPromptText&unscoped_q=getPromptText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRecent"></a>
 # getRecent
@@ -307,6 +339,8 @@ Getter for property recent.
 Value of property recent.
 
 <a href="https://github.com/autoplot/dev/search?q=getRecent&unscoped_q=getRecent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRecentMenu"></a>
@@ -321,6 +355,8 @@ javax.swing.JMenu
 
 <a href="https://github.com/autoplot/dev/search?q=getRecentMenu&unscoped_q=getRecentMenu">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTimeRange"></a>
 # getTimeRange
@@ -334,6 +370,8 @@ the timerange associated with this focus dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRange&unscoped_q=getTimeRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValue"></a>
 # getValue
@@ -346,6 +384,8 @@ Getter for property value.
 Value of property value.
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hasActionTrigger"></a>
@@ -362,6 +402,8 @@ true if the action trigger would be handled.
 
 <a href="https://github.com/autoplot/dev/search?q=hasActionTrigger&unscoped_q=hasActionTrigger">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hideCompletions"></a>
 # hideCompletions
@@ -374,6 +416,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=hideCompletions&unscoped_q=hideCompletions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isCardSelected"></a>
@@ -388,6 +432,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isCardSelected&unscoped_q=isCardSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isEnableDataSource"></a>
 # isEnableDataSource
@@ -400,6 +446,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isEnableDataSource&unscoped_q=isEnableDataSource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isExpertMode"></a>
@@ -414,6 +462,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isExpertMode&unscoped_q=isExpertMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isHidePlayButton"></a>
 # isHidePlayButton
@@ -426,6 +476,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isHidePlayButton&unscoped_q=isHidePlayButton">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isPendingChanges"></a>
@@ -440,6 +492,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isPendingChanges&unscoped_q=isPendingChanges">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isPlotItButtonVisible"></a>
 # isPlotItButtonVisible
@@ -452,6 +506,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isPlotItButtonVisible&unscoped_q=isPlotItButtonVisible">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isSuggestFiles"></a>
@@ -466,6 +522,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isSuggestFiles&unscoped_q=isSuggestFiles">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSuggestFsAgg"></a>
 # isSuggestFsAgg
@@ -478,6 +536,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isSuggestFsAgg&unscoped_q=isSuggestFsAgg">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -495,6 +555,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="maybeAddFileNotFound"></a>
 # maybeAddFileNotFound
@@ -510,6 +572,8 @@ msg - the message, which might just be the filename.
 the message clarified.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeAddFileNotFound&unscoped_q=maybeAddFileNotFound">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="maybePlot"></a>
@@ -528,6 +592,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=maybePlot&unscoped_q=maybePlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 maybePlot( int keyModifiers ) &rarr; void<br>
 ***
 <a name="pickTimeRange"></a>
@@ -545,6 +611,8 @@ parent - null or the component to focus.
 the timerange selected.
 
 <a href="https://github.com/autoplot/dev/search?q=pickTimeRange&unscoped_q=pickTimeRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 pickTimeRange( java.awt.Component parent, java.util.List timeRange, java.util.List labels ) &rarr; DatumRange<br>
 ***
@@ -565,6 +633,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=registerActionTrigger&unscoped_q=registerActionTrigger">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="registerBrowseTrigger"></a>
 # registerBrowseTrigger
@@ -582,6 +652,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=registerBrowseTrigger&unscoped_q=registerBrowseTrigger">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeActionListener"></a>
 # removeActionListener
@@ -597,6 +669,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeActionListener&unscoped_q=removeActionListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="replacePlayButton"></a>
@@ -617,6 +691,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=replacePlayButton&unscoped_q=replacePlayButton">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAcceptPattern"></a>
 # setAcceptPattern
@@ -632,6 +708,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAcceptPattern&unscoped_q=setAcceptPattern">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAlternatePeer"></a>
@@ -650,6 +728,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAlternatePeer&unscoped_q=setAlternatePeer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setBrowseTypeExt"></a>
 # setBrowseTypeExt
@@ -665,6 +745,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBrowseTypeExt&unscoped_q=setBrowseTypeExt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setCardSelected"></a>
@@ -682,6 +764,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setCardSelected&unscoped_q=setCardSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setCardSelectedNoEventKludge"></a>
 # setCardSelectedNoEventKludge
@@ -697,6 +781,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCardSelectedNoEventKludge&unscoped_q=setCardSelectedNoEventKludge">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDefaultRecent"></a>
@@ -715,6 +801,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDefaultRecent&unscoped_q=setDefaultRecent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDisableDataSources"></a>
 # setDisableDataSources
@@ -730,6 +818,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDisableDataSources&unscoped_q=setDisableDataSources">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setEnableDataSource"></a>
@@ -747,6 +837,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setEnableDataSource&unscoped_q=setEnableDataSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEnabled"></a>
 # setEnabled
@@ -762,6 +854,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEnabled&unscoped_q=setEnabled">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setExpertMode"></a>
@@ -779,6 +873,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setExpertMode&unscoped_q=setExpertMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setHidePlayButton"></a>
 # setHidePlayButton
@@ -794,6 +890,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHidePlayButton&unscoped_q=setHidePlayButton">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setMessage"></a>
@@ -811,6 +909,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setMessage&unscoped_q=setMessage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMonitorFactory"></a>
 # setMonitorFactory
@@ -826,6 +926,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMonitorFactory&unscoped_q=setMonitorFactory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPlayButton"></a>
@@ -844,6 +946,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPlayButton&unscoped_q=setPlayButton">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPlotItButtonVisible"></a>
 # setPlotItButtonVisible
@@ -860,6 +964,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotItButtonVisible&unscoped_q=setPlotItButtonVisible">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPromptText"></a>
 # setPromptText
@@ -875,6 +981,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPromptText&unscoped_q=setPromptText">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRecent"></a>
@@ -896,6 +1004,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRecent&unscoped_q=setRecent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSuggestFiles"></a>
 # setSuggestFiles
@@ -912,6 +1022,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSuggestFiles&unscoped_q=setSuggestFiles">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSuggestFsAgg"></a>
 # setSuggestFsAgg
@@ -927,6 +1039,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSuggestFsAgg&unscoped_q=setSuggestFsAgg">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTimeRange"></a>
@@ -945,6 +1059,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeRange&unscoped_q=setTimeRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setValue"></a>
 # setValue
@@ -962,6 +1078,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setValue&unscoped_q=setValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="showCompletions"></a>
 # showCompletions
@@ -974,6 +1092,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showCompletions&unscoped_q=showCompletions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="showFileSystemCompletions"></a>
@@ -992,6 +1112,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showFileSystemCompletions&unscoped_q=showFileSystemCompletions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="showUserExceptionDialog"></a>
@@ -1012,4 +1134,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showUserExceptionDialog&unscoped_q=showUserExceptionDialog">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

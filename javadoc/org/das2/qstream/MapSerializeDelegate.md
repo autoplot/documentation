@@ -18,6 +18,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -33,6 +35,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parse"></a>
@@ -51,6 +55,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="typeId"></a>
 # typeId
@@ -66,6 +72,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=typeId&unscoped_q=typeId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="xmlFormat"></a>
@@ -84,6 +92,8 @@ org.w3c.dom.Element
 
 <a href="https://github.com/autoplot/dev/search?q=xmlFormat&unscoped_q=xmlFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="xmlParse"></a>
 # xmlParse
@@ -99,4 +109,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=xmlParse&unscoped_q=xmlParse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

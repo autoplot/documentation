@@ -36,6 +36,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=handleEvent&unscoped_q=handleEvent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="init"></a>
 # init
@@ -48,6 +50,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=init&unscoped_q=init">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="insets"></a>
@@ -62,6 +66,8 @@ java.awt.Insets
 
 <a href="https://github.com/autoplot/dev/search?q=insets&unscoped_q=insets">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="run"></a>
 # run
@@ -75,6 +81,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=run&unscoped_q=run">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="stop"></a>
 # stop
@@ -87,4 +95,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=stop&unscoped_q=stop">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

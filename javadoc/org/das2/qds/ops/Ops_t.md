@@ -18,6 +18,8 @@ an org.das2.qds.MutablePropertyDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=taggen&unscoped_q=taggen">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="tan"></a>
 # tan
@@ -33,6 +35,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=tan&unscoped_q=tan">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 tan( double ds ) &rarr; double<br>
 tan( Object ds ) &rarr; QDataSet<br>
@@ -51,6 +55,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=tanh&unscoped_q=tanh">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 tanh( double ds ) &rarr; double<br>
 tanh( Object ds ) &rarr; QDataSet<br>
@@ -72,6 +78,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=timegen&unscoped_q=timegen">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toDegrees"></a>
 # toDegrees
@@ -88,6 +96,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=toDegrees&unscoped_q=toDegrees">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 toDegrees( Object ds ) &rarr; QDataSet<br>
 ***
@@ -106,6 +116,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=toRadians&unscoped_q=toRadians">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 toRadians( Object ds ) &rarr; QDataSet<br>
 ***
@@ -129,6 +141,8 @@ rank 1 time data set.
 
 <a href="https://github.com/autoplot/dev/search?q=toTimeDataSet&unscoped_q=toTimeDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 toTimeDataSet( Object years, Object mons, Object days, Object hour, Object minute, Object second, Object nano ) &rarr; QDataSet<br>
 ***
 <a name="total"></a>
@@ -149,6 +163,8 @@ the unweighted total of the dataset, or -1e31 if fill was encountered.
 
 <a href="https://github.com/autoplot/dev/search?q=total&unscoped_q=total">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 total( QDataSet ds, ProgressMonitor mon ) &rarr; double<br>
 total( Object ds1 ) &rarr; double<br>
 total( QDataSet ds, int dim ) &rarr; QDataSet<br>
@@ -167,6 +183,8 @@ ds - rank 2 dataset
 rank 2 dataset
 
 <a href="https://github.com/autoplot/dev/search?q=transpose&unscoped_q=transpose">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 transpose( Object ds ) &rarr; QDataSet<br>
 ***
@@ -187,6 +205,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 trim( QDataSet ds, DatumRange dr ) &rarr; QDataSet<br>
 trim( QDataSet ds, Object odr ) &rarr; QDataSet<br>
@@ -214,5 +234,7 @@ the subset of the data.
 <a href='Ops_s.md#slice1'>slice1(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=trim1&unscoped_q=trim1">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 trim1( QDataSet ds, int st, int en ) &rarr; QDataSet<br>

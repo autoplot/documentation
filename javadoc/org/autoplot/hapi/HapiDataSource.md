@@ -24,6 +24,8 @@ the folder containing the cache.
 
 <a href="https://github.com/autoplot/dev/search?q=cacheFolder&unscoped_q=cacheFolder">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSet"></a>
 # getDataSet
@@ -39,6 +41,8 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSetViaBinary"></a>
@@ -63,6 +67,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetViaBinary&unscoped_q=getDataSetViaBinary">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetViaCsv"></a>
 # getDataSetViaCsv
@@ -86,6 +92,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetViaCsv&unscoped_q=getDataSetViaCsv">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getHapiCache"></a>
 # getHapiCache
@@ -98,6 +106,8 @@ return the local folder of the cache for HAPI data.  This will end with
 the local folder of the cache for HAPI data.
 
 <a href="https://github.com/autoplot/dev/search?q=getHapiCache&unscoped_q=getHapiCache">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getParameterDescriptions"></a>
@@ -115,6 +125,8 @@ org.autoplot.hapi.HapiDataSource.ParamDescription[]
 
 <a href="https://github.com/autoplot/dev/search?q=getParameterDescriptions&unscoped_q=getParameterDescriptions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="printCacheStats"></a>
 # printCacheStats
@@ -129,4 +141,6 @@ void (returns nothing)
 <a href='https://sourceforge.net/p/autoplot/bugs/1996/'>https://sourceforge.net/p/autoplot/bugs/1996/</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=printCacheStats&unscoped_q=printCacheStats">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

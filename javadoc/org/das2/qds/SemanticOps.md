@@ -30,6 +30,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=bounds&unscoped_q=bounds">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="cadenceCheck"></a>
 # cadenceCheck
@@ -59,6 +61,8 @@ dataset with length N
 
 <a href="https://github.com/autoplot/dev/search?q=cadenceCheck&unscoped_q=cadenceCheck">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="checkPropertyType"></a>
 # checkPropertyType
@@ -78,6 +82,8 @@ true if the property type is okay.
 
 <a href="https://github.com/autoplot/dev/search?q=checkPropertyType&unscoped_q=checkPropertyType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doubleValue"></a>
 # doubleValue
@@ -93,6 +99,8 @@ a Double
 
 
 <a href="https://github.com/autoplot/dev/search?q=doubleValue&unscoped_q=doubleValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getComponentLabels"></a>
@@ -111,6 +119,8 @@ labels for each bundled dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=getComponentLabels&unscoped_q=getComponentLabels">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getComponentNames"></a>
 # getComponentNames
@@ -127,6 +137,8 @@ ds - rank 1 or rank 2 bundle.
 the column names.
 
 <a href="https://github.com/autoplot/dev/search?q=getComponentNames&unscoped_q=getComponentNames">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDatum"></a>
@@ -145,6 +157,8 @@ a datum representing the value.
 
 <a href="https://github.com/autoplot/dev/search?q=getDatum&unscoped_q=getDatum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDependentDataSet"></a>
 # getDependentDataSet
@@ -162,6 +176,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDependentDataSet&unscoped_q=getDependentDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLooseUnitsConverter"></a>
 # getLooseUnitsConverter
@@ -178,6 +194,8 @@ src - the dataset from which we get the original units.
 the UnitsConverter
 
 <a href="https://github.com/autoplot/dev/search?q=getLooseUnitsConverter&unscoped_q=getLooseUnitsConverter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPlanarView"></a>
@@ -200,6 +218,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getPlanarView&unscoped_q=getPlanarView">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPropertyType"></a>
 # getPropertyType
@@ -214,6 +234,8 @@ prop - a String
 QDataSet, String, Number, Units, or CacheTag
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyType&unscoped_q=getPropertyType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSimpleTableContaining"></a>
@@ -233,6 +255,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getSimpleTableContaining&unscoped_q=getSimpleTableContaining">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUnits"></a>
 # getUnits
@@ -249,6 +273,8 @@ the units found in the dataset, or Units.dimensionless.
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUnitsConverter"></a>
 # getUnitsConverter
@@ -264,6 +290,8 @@ src - the dataset from which we get the original units.
 the UnitsConverter
 
 <a href="https://github.com/autoplot/dev/search?q=getUnitsConverter&unscoped_q=getUnitsConverter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="guessXTagWidth"></a>
@@ -283,6 +311,8 @@ a Datum
 
 <a href="https://github.com/autoplot/dev/search?q=guessXTagWidth&unscoped_q=guessXTagWidth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isBins"></a>
 # isBins
@@ -301,6 +331,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isBins&unscoped_q=isBins">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isBundle"></a>
 # isBundle
@@ -315,6 +347,8 @@ ds - a QDataSet
 true if the dataset is a bundle
 
 <a href="https://github.com/autoplot/dev/search?q=isBundle&unscoped_q=isBundle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isJoin"></a>
@@ -333,6 +367,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isJoin&unscoped_q=isJoin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isLegacyBundle"></a>
 # isLegacyBundle
@@ -348,6 +384,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLegacyBundle&unscoped_q=isLegacyBundle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isMonotonic"></a>
@@ -366,6 +404,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isMonotonic&unscoped_q=isMonotonic">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isRank1Bundle"></a>
 # isRank1Bundle
@@ -381,6 +421,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isRank1Bundle&unscoped_q=isRank1Bundle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isRank2Waveform"></a>
@@ -402,6 +444,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isRank2Waveform&unscoped_q=isRank2Waveform">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isRank3JoinOfRank2Waveform"></a>
 # isRank3JoinOfRank2Waveform
@@ -417,6 +461,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isRank3JoinOfRank2Waveform&unscoped_q=isRank3JoinOfRank2Waveform">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isSimpleBundleDataSet"></a>
@@ -440,6 +486,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isSimpleBundleDataSet&unscoped_q=isSimpleBundleDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSimpleTableDataSet"></a>
 # isSimpleTableDataSet
@@ -461,6 +509,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isSimpleTableDataSet&unscoped_q=isSimpleTableDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isTableDataSet"></a>
 # isTableDataSet
@@ -476,6 +526,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isTableDataSet&unscoped_q=isTableDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isTimeSeries"></a>
@@ -493,6 +545,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isTimeSeries&unscoped_q=isTimeSeries">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="lookupTimeLengthUnit"></a>
@@ -526,6 +580,8 @@ the trimmed dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="weightsDataSet"></a>
 # weightsDataSet
@@ -550,6 +606,8 @@ QDataSet with same geometry containing zeros and non-zeros.
 
 <a href="https://github.com/autoplot/dev/search?q=weightsDataSet&unscoped_q=weightsDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="xtagsDataSet"></a>
 # xtagsDataSet
@@ -568,6 +626,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=xtagsDataSet&unscoped_q=xtagsDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="ytagsDataSet"></a>
@@ -589,4 +649,6 @@ ds - the dataset
 the ytags
 
 <a href="https://github.com/autoplot/dev/search?q=ytagsDataSet&unscoped_q=ytagsDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

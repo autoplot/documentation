@@ -24,6 +24,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addMakeAggregationForScheme&unscoped_q=addMakeAggregationForScheme">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="findAggregations"></a>
 # findAggregations
@@ -40,6 +42,8 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=findAggregations&unscoped_q=findAggregations">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 findAggregations( java.util.List files, boolean remove, boolean loose ) &rarr; List<br>
 ***
@@ -59,6 +63,8 @@ a 1-line string representation of the error, for the end user.
 
 <a href="https://github.com/autoplot/dev/search?q=getMessage&unscoped_q=getMessage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTimeSeriesBrowse"></a>
 # getTimeSeriesBrowse
@@ -75,6 +81,8 @@ an org.autoplot.datasource.capability.TimeSeriesBrowse
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeSeriesBrowse&unscoped_q=getTimeSeriesBrowse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXPathFactory"></a>
 # getXPathFactory
@@ -86,6 +94,8 @@ Matlab uses net.sf.saxon.xpath.XPathEvaluator by default, so we explicitly look 
 com.sun.org.apache.xpath.internal.jaxp.XPathFactoryImpl, probably.
 
 <a href="https://github.com/autoplot/dev/search?q=getXPathFactory&unscoped_q=getXPathFactory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="guessNameFor"></a>
@@ -103,6 +113,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessNameFor&unscoped_q=guessNameFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 guessNameFor( String uri, java.util.List otherURIs, java.util.List otherNames ) &rarr; String<br>
 ***
@@ -123,6 +135,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=guessRenderType&unscoped_q=guessRenderType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isConstant"></a>
 # isConstant
@@ -141,6 +155,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isConstant&unscoped_q=isConstant">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isHtmlStream"></a>
 # isHtmlStream
@@ -157,6 +173,8 @@ true if the stream appears to be html.
 
 <a href="https://github.com/autoplot/dev/search?q=isHtmlStream&unscoped_q=isHtmlStream">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isJavaDouble"></a>
 # isJavaDouble
@@ -171,6 +189,8 @@ myString - a String
 true if the number is a double.
 
 <a href="https://github.com/autoplot/dev/search?q=isJavaDouble&unscoped_q=isJavaDouble">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isJavaIdentifier"></a>
@@ -188,6 +208,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isJavaIdentifier&unscoped_q=isJavaIdentifier">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="main"></a>
 # main
@@ -203,6 +225,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="makeAggregation"></a>
@@ -222,6 +246,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=makeAggregation&unscoped_q=makeAggregation">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 makeAggregation( String surl ) &rarr; String<br>
 ***
@@ -251,6 +277,8 @@ null or the string with aggregations ($Y.dat) instead of filename (1999.dat), or
 
 <a href="https://github.com/autoplot/dev/search?q=makeAggregationForGroup&unscoped_q=makeAggregationForGroup">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="newURL"></a>
 # newURL
@@ -269,6 +297,8 @@ context - the context for the spec.  null may be used to
 the URL.
 
 <a href="https://github.com/autoplot/dev/search?q=newURL&unscoped_q=newURL">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="openBrowser"></a>
@@ -290,6 +320,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=openBrowser&unscoped_q=openBrowser">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parseConstraint"></a>
@@ -315,6 +347,8 @@ the [startRecord,stopRecordExclusive,stride]
 
 <a href="https://github.com/autoplot/dev/search?q=parseConstraint&unscoped_q=parseConstraint">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 parseConstraint( String constraint, long recCount ) &rarr; long<br>
 ***
 <a name="setTimeRange"></a>
@@ -334,6 +368,8 @@ uri - An Autoplot URI, which must resolve to a DataSource.
 A URI that would yield data from the same dataset but for a different time.
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeRange&unscoped_q=setTimeRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="showMessageDialog"></a>
@@ -355,6 +391,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=showMessageDialog&unscoped_q=showMessageDialog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="strjoin"></a>
 # strjoin
@@ -371,6 +409,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=strjoin&unscoped_q=strjoin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 strjoin( long[] dims, String delim ) &rarr; String<br>
 strjoin( int[] dims, String delim ) &rarr; String<br>
@@ -392,6 +432,8 @@ valid Java identifier.
 
 <a href="https://github.com/autoplot/dev/search?q=toJavaIdentifier&unscoped_q=toJavaIdentifier">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="transfer"></a>
 # transfer
@@ -409,6 +451,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=transfer&unscoped_q=transfer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 transfer( java.io.InputStream src, java.io.OutputStream dest ) &rarr; void<br>
 transfer( java.io.InputStream src, java.io.OutputStream dest, boolean close ) &rarr; void<br>
@@ -431,6 +475,8 @@ the trimmed data
 
 <a href="https://github.com/autoplot/dev/search?q=trimScatterToTimeRange&unscoped_q=trimScatterToTimeRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="unescape"></a>
 # unescape
@@ -450,6 +496,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=unescape&unscoped_q=unescape">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="unescapeParam"></a>
@@ -477,6 +525,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=unescapeParam&unscoped_q=unescapeParam">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="unquote"></a>
 # unquote
@@ -491,6 +541,8 @@ s - the string.
 the string without quotes.
 
 <a href="https://github.com/autoplot/dev/search?q=unquote&unscoped_q=unquote">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="urlWithinContext"></a>
@@ -507,4 +559,6 @@ context - the context.
 the part made relative, if possible, to context.
 
 <a href="https://github.com/autoplot/dev/search?q=urlWithinContext&unscoped_q=urlWithinContext">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

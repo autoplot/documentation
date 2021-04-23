@@ -140,6 +140,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=about&unscoped_q=about">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="append"></a>
 # append
@@ -161,6 +163,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 append( org.das2.qds.buffer.BufferDataSet ths, org.das2.qds.buffer.BufferDataSet ds ) &rarr; BufferDataSet<br>
 ***
 <a name="bitCount"></a>
@@ -178,6 +182,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=bitCount&unscoped_q=bitCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="byteCount"></a>
 # byteCount
@@ -192,6 +198,8 @@ type - DOUBLE, FLOAT, UBYTE, TIME28, etc.
 8, 4, 1, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=byteCount&unscoped_q=byteCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="canAppend"></a>
@@ -210,6 +218,8 @@ true if the dataset can be appended.
 
 <a href="https://github.com/autoplot/dev/search?q=canAppend&unscoped_q=canAppend">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="compact"></a>
 # compact
@@ -221,6 +231,8 @@ get ride of extra spaces between records.
 new BufferDataSet without gaps.
 
 <a href="https://github.com/autoplot/dev/search?q=compact&unscoped_q=compact">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="copy"></a>
@@ -241,6 +253,8 @@ a BufferDataSet copy of the dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 copy( Object type, QDataSet ds ) &rarr; BufferDataSet<br>
 ***
 <a name="create"></a>
@@ -260,6 +274,8 @@ BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createRank0"></a>
 # createRank0
@@ -274,6 +290,8 @@ type - DOUBLE, FLOAT, UINT, etc
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank0&unscoped_q=createRank0">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createRank1"></a>
@@ -290,6 +308,8 @@ type - DOUBLE, FLOAT, UINT, etc
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank1&unscoped_q=createRank1">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createRank2"></a>
@@ -308,6 +328,8 @@ BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank2&unscoped_q=createRank2">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createRank3"></a>
 # createRank3
@@ -325,6 +347,8 @@ type - DOUBLE, FLOAT, UINT, etc
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank3&unscoped_q=createRank3">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createRank4"></a>
@@ -345,6 +369,8 @@ BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank4&unscoped_q=createRank4">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCompatibleComponentType"></a>
 # getCompatibleComponentType
@@ -359,6 +385,8 @@ double.class, float.class, long.class, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=getCompatibleComponentType&unscoped_q=getCompatibleComponentType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFieldStride"></a>
 # getFieldStride
@@ -370,6 +398,8 @@ return the number of bytes to advance for each field.
 the number of bytes to advance for each field.
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldStride&unscoped_q=getFieldStride">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRecordStride"></a>
@@ -383,6 +413,8 @@ the number of bytes to advance for each record.
 
 <a href="https://github.com/autoplot/dev/search?q=getRecordStride&unscoped_q=getRecordStride">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getType"></a>
 # getType
@@ -394,6 +426,8 @@ return the type of this dataset, for example BufferDataSet.INT, BufferDataSet.DO
 the type of this dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=getType&unscoped_q=getType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="grow"></a>
@@ -415,6 +449,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=grow&unscoped_q=grow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="guessBackingStore"></a>
 # guessBackingStore
@@ -431,6 +467,8 @@ the backing store class, one of double.class, float.class, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=guessBackingStore&unscoped_q=guessBackingStore">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isCompact"></a>
 # isCompact
@@ -443,6 +481,8 @@ returns true if the dataset is compact, meaning that there
 true if the dataset is compact
 
 <a href="https://github.com/autoplot/dev/search?q=isCompact&unscoped_q=isCompact">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="jvmMemory"></a>
@@ -458,6 +498,8 @@ the estimated number bytes that the dataSet occupies.
 
 <a href="https://github.com/autoplot/dev/search?q=jvmMemory&unscoped_q=jvmMemory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="length"></a>
 # length
@@ -470,6 +512,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 length( int i ) &rarr; int<br>
 length( int i0, int i1 ) &rarr; int<br>
@@ -497,6 +541,8 @@ BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=makeDataSet&unscoped_q=makeDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 makeDataSet( int rank, int reclen, int recoffs, int[] qube, java.nio.ByteBuffer buf, Object type ) &rarr; BufferDataSet<br>
 ***
 <a name="makeDataSetBits"></a>
@@ -522,6 +568,8 @@ BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=makeDataSetBits&unscoped_q=makeDataSetBits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="maybeCopy"></a>
 # maybeCopy
@@ -537,6 +585,8 @@ a BufferDataSet.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeCopy&unscoped_q=maybeCopy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rank"></a>
 # rank
@@ -549,6 +599,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFieldStride"></a>
@@ -567,6 +619,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFieldStride&unscoped_q=setFieldStride">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLength"></a>
 # setLength
@@ -582,6 +636,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLength&unscoped_q=setLength">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLength1"></a>
@@ -601,6 +657,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLength1&unscoped_q=setLength1">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRecordStride"></a>
 # setRecordStride
@@ -617,6 +675,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRecordStride&unscoped_q=setRecordStride">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="shouldAllocateDirect"></a>
@@ -639,6 +699,8 @@ return 1 if direct allocate should be used, 0 if not.
 
 <a href="https://github.com/autoplot/dev/search?q=shouldAllocateDirect&unscoped_q=shouldAllocateDirect">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="slice"></a>
 # slice
@@ -654,6 +716,8 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=slice&unscoped_q=slice">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="trim"></a>
@@ -672,6 +736,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="typeFor"></a>
 # typeFor
@@ -689,6 +755,8 @@ DOUBLE,FLOAT,etc.
 
 <a href="https://github.com/autoplot/dev/search?q=typeFor&unscoped_q=typeFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="value"></a>
 # value
@@ -701,6 +769,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 value( int i0 ) &rarr; double<br>
 value( int i0, int i1 ) &rarr; double<br>

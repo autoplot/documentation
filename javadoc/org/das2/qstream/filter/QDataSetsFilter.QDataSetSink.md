@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=packet&unscoped_q=packet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="packetData"></a>
 # packetData
@@ -37,6 +39,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=packetData&unscoped_q=packetData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="packetDescriptor"></a>
 # packetDescriptor
@@ -52,6 +56,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=packetDescriptor&unscoped_q=packetDescriptor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="streamClosed"></a>
@@ -69,6 +75,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=streamClosed&unscoped_q=streamClosed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="streamComment"></a>
 # streamComment
@@ -84,6 +92,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=streamComment&unscoped_q=streamComment">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="streamDescriptor"></a>
@@ -101,6 +111,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=streamDescriptor&unscoped_q=streamDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="streamException"></a>
 # streamException
@@ -116,4 +128,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=streamException&unscoped_q=streamException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -21,6 +21,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=invTransform&unscoped_q=invTransform">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 invTransform( org.das2.qds.math.fft.ComplexArray.Float data ) &rarr; void<br>
 ***
 <a name="newDoubleFFT"></a>
@@ -38,6 +40,8 @@ org.das2.qds.math.fft.GeneralFFT
 
 <a href="https://github.com/autoplot/dev/search?q=newDoubleFFT&unscoped_q=newDoubleFFT">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="newFloatFFT"></a>
 # newFloatFFT
@@ -54,6 +58,8 @@ org.das2.qds.math.fft.GeneralFFT
 
 <a href="https://github.com/autoplot/dev/search?q=newFloatFFT&unscoped_q=newFloatFFT">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="size"></a>
 # size
@@ -65,6 +71,8 @@ return the number of points in the fft.
 the number of points in the fft.
 
 <a href="https://github.com/autoplot/dev/search?q=size&unscoped_q=size">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="transform"></a>
@@ -81,5 +89,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=transform&unscoped_q=transform">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 transform( org.das2.qds.math.fft.ComplexArray.Float data ) &rarr; void<br>

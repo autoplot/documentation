@@ -15,6 +15,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCellBounds"></a>
 # getCellBounds
@@ -27,6 +29,8 @@ a java.awt.Rectangle
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCellBounds&unscoped_q=getCellBounds">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getCellBounds( java.awt.Rectangle r ) &rarr; Rectangle<br>
 ***
@@ -42,6 +46,8 @@ an org.das2.graph.DasColumn
 
 <a href="https://github.com/autoplot/dev/search?q=getColumn&unscoped_q=getColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRow"></a>
 # getRow
@@ -55,6 +61,8 @@ an org.das2.graph.DasRow
 
 <a href="https://github.com/autoplot/dev/search?q=getRow&unscoped_q=getRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hashCode"></a>
 # hashCode
@@ -67,6 +75,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="propertyChange"></a>
@@ -84,6 +94,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=propertyChange&unscoped_q=propertyChange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -96,4 +108,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

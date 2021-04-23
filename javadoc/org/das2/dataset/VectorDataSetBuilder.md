@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPlane&unscoped_q=addPlane">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addProperties"></a>
 # addProperties
@@ -34,6 +36,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addProperties&unscoped_q=addProperties">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="append"></a>
@@ -51,6 +55,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getProperty"></a>
 # getProperty
@@ -66,6 +72,8 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="insertY"></a>
@@ -83,6 +91,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=insertY&unscoped_q=insertY">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 insertY( double x, double y, String planeID ) &rarr; void<br>
 insertY( double x, double y, String planeId1, double planeValue1 ) &rarr; void<br>
@@ -105,6 +115,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setProperty&unscoped_q=setProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setXUnits"></a>
 # setXUnits
@@ -120,6 +132,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setXUnits&unscoped_q=setXUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setYUnits"></a>
@@ -137,6 +151,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setYUnits&unscoped_q=setYUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 setYUnits( Units units, String planeID ) &rarr; void<br>
 ***
 <a name="toString"></a>
@@ -151,6 +167,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toVectorDataSet"></a>
 # toVectorDataSet
@@ -163,4 +181,6 @@ org.das2.dataset.VectorDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=toVectorDataSet&unscoped_q=toVectorDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

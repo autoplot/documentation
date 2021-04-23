@@ -15,3 +15,5 @@ java.awt.geom.PathIterator
 
 <a href="https://github.com/autoplot/dev/search?q=pathIterator&unscoped_q=pathIterator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

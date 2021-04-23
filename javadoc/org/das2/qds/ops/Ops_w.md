@@ -26,6 +26,8 @@ a rank 1 or rank 2 dataset with N by M elements, where N is the number
 
 <a href="https://github.com/autoplot/dev/search?q=where&unscoped_q=where">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 where( Object ds ) &rarr; QDataSet<br>
 ***
 <a name="whereSequence"></a>
@@ -45,6 +47,8 @@ rank 1 list of indeces.
 
 <a href="https://github.com/autoplot/dev/search?q=whereSequence&unscoped_q=whereSequence">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="windowFunction"></a>
 # windowFunction
@@ -60,6 +64,8 @@ filt - the type of the window.
 rank 1 QDataSet with length len.
 
 <a href="https://github.com/autoplot/dev/search?q=windowFunction&unscoped_q=windowFunction">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="within"></a>
@@ -86,6 +92,8 @@ rank N dataset containing non-zero where the condition is true.
 
 <a href="https://github.com/autoplot/dev/search?q=within&unscoped_q=within">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 within( Object ds, Object bounds ) &rarr; QDataSet<br>
 ***
 <a name="without"></a>
@@ -109,5 +117,7 @@ rank N dataset containing non-zero where the condition is true.
 <a href='Ops_w.md#within'>within(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=without&unscoped_q=without">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 without( Object ds, Object bounds ) &rarr; QDataSet<br>

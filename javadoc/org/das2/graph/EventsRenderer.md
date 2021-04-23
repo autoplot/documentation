@@ -89,6 +89,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=acceptContext&unscoped_q=acceptContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doAutorange"></a>
 # doAutorange
@@ -105,6 +107,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=doAutorange&unscoped_q=doAutorange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColor"></a>
 # getColor
@@ -117,6 +121,8 @@ java.awt.Color
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColor&unscoped_q=getColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getColorSpecifier"></a>
@@ -131,6 +137,8 @@ org.das2.graph.EventsRenderer.ColorSpecifier
 
 <a href="https://github.com/autoplot/dev/search?q=getColorSpecifier&unscoped_q=getColorSpecifier">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getControl"></a>
 # getControl
@@ -143,6 +151,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getControl&unscoped_q=getControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFontSize"></a>
@@ -157,6 +167,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getFontSize&unscoped_q=getFontSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLineStyle"></a>
 # getLineStyle
@@ -169,6 +181,8 @@ org.das2.graph.PsymConnector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLineStyle&unscoped_q=getLineStyle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLineThick"></a>
@@ -183,6 +197,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getLineThick&unscoped_q=getLineThick">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getListIcon"></a>
 # getListIcon
@@ -195,6 +211,8 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRenderTimeLimitMs"></a>
@@ -209,6 +227,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderTimeLimitMs&unscoped_q=getRenderTimeLimitMs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTextSpecifier"></a>
 # getTextSpecifier
@@ -220,6 +240,8 @@ Getter for property textSpecifier.
 Value of property textSpecifier.
 
 <a href="https://github.com/autoplot/dev/search?q=getTextSpecifier&unscoped_q=getTextSpecifier">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isGanttMode"></a>
@@ -234,6 +256,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isGanttMode&unscoped_q=isGanttMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isOpaque"></a>
 # isOpaque
@@ -246,6 +270,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOpaque&unscoped_q=isOpaque">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isOrbitMode"></a>
@@ -260,6 +286,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isOrbitMode&unscoped_q=isOrbitMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isShowLabels"></a>
 # isShowLabels
@@ -272,6 +300,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowLabels&unscoped_q=isShowLabels">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="render"></a>
@@ -291,6 +321,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setColor"></a>
 # setColor
@@ -307,6 +339,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColor&unscoped_q=setColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setColorSpecifier"></a>
@@ -326,6 +360,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setColorSpecifier&unscoped_q=setColorSpecifier">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setControl"></a>
 # setControl
@@ -341,6 +377,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setControl&unscoped_q=setControl">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSet"></a>
@@ -358,6 +396,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFontSize"></a>
 # setFontSize
@@ -373,6 +413,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFontSize&unscoped_q=setFontSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setGanttMode"></a>
@@ -390,6 +432,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setGanttMode&unscoped_q=setGanttMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLineStyle"></a>
 # setLineStyle
@@ -405,6 +449,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLineStyle&unscoped_q=setLineStyle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLineThick"></a>
@@ -422,6 +468,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLineThick&unscoped_q=setLineThick">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setOpaque"></a>
 # setOpaque
@@ -437,6 +485,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOpaque&unscoped_q=setOpaque">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setOrbitMode"></a>
@@ -454,6 +504,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setOrbitMode&unscoped_q=setOrbitMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRenderTimeLimitMs"></a>
 # setRenderTimeLimitMs
@@ -469,6 +521,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRenderTimeLimitMs&unscoped_q=setRenderTimeLimitMs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setShowLabels"></a>
@@ -486,6 +540,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setShowLabels&unscoped_q=setShowLabels">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTextSpecifier"></a>
 # setTextSpecifier
@@ -501,4 +557,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTextSpecifier&unscoped_q=setTextSpecifier">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -12,6 +12,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="flush"></a>
 # flush
@@ -24,6 +26,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=flush&unscoped_q=flush">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getInstance"></a>
@@ -38,6 +42,8 @@ org.das2.graph.util.GraphicalLogHandler
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMouseModule"></a>
 # getMouseModule
@@ -50,6 +56,8 @@ org.das2.event.MouseModule
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseModule&unscoped_q=getMouseModule">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getShowLogMouseModule"></a>
@@ -67,6 +75,8 @@ org.das2.event.MouseModule
 
 <a href="https://github.com/autoplot/dev/search?q=getShowLogMouseModule&unscoped_q=getShowLogMouseModule">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getYAxisType"></a>
 # getYAxisType
@@ -79,6 +89,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYAxisType&unscoped_q=getYAxisType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -96,6 +108,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="publish"></a>
 # publish
@@ -112,6 +126,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=publish&unscoped_q=publish">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setYAxisType"></a>
 # setYAxisType
@@ -127,4 +143,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setYAxisType&unscoped_q=setYAxisType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

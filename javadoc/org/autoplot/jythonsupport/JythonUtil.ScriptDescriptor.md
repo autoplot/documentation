@@ -13,6 +13,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getDescription&unscoped_q=getDescription">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getIconURL"></a>
 # getIconURL
@@ -26,6 +28,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getIconURL&unscoped_q=getIconURL">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -37,6 +41,8 @@ a short label, suitable for a menu item.
 a short label, suitable for a menu item.
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getParams"></a>
@@ -51,6 +57,8 @@ a java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=getParams&unscoped_q=getParams">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTitle"></a>
 # getTitle
@@ -62,4 +70,6 @@ a one-line title, suitable for a GUI heading.
 a one-line title, suitable for a GUI heading.
 
 <a href="https://github.com/autoplot/dev/search?q=getTitle&unscoped_q=getTitle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

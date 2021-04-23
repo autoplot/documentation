@@ -15,6 +15,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getLimit&unscoped_q=getLimit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getOverSampleFactor"></a>
 # getOverSampleFactor
@@ -26,6 +28,8 @@ Getter for property overSampleFactor.
 Value of property overSampleFactor.
 
 <a href="https://github.com/autoplot/dev/search?q=getOverSampleFactor&unscoped_q=getOverSampleFactor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getXUnits"></a>
@@ -39,6 +43,8 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLimit"></a>
@@ -56,6 +62,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLimit&unscoped_q=setLimit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setOverSampleFactor"></a>
 # setOverSampleFactor
@@ -71,4 +79,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOverSampleFactor&unscoped_q=setOverSampleFactor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -19,6 +19,8 @@ org.das2.jythoncompletion.support.CompletionTask
 
 <a href="https://github.com/autoplot/dev/search?q=createTask&unscoped_q=createTask">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAutoQueryTypes"></a>
 # getAutoQueryTypes
@@ -35,4 +37,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAutoQueryTypes&unscoped_q=getAutoQueryTypes">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

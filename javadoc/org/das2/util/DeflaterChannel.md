@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="flush"></a>
 # flush
@@ -28,6 +30,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=flush&unscoped_q=flush">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isOpen"></a>
 # isOpen
@@ -40,6 +44,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOpen&unscoped_q=isOpen">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="write"></a>
@@ -56,4 +62,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

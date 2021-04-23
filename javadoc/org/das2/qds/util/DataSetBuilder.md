@@ -55,6 +55,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSet"></a>
 # getDataSet
@@ -66,6 +68,8 @@ returns the result dataset, concatenating all the datasets it has built thus far
 the result dataset
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFillValue"></a>
@@ -79,6 +83,8 @@ Value of property fillValue.
 
 <a href="https://github.com/autoplot/dev/search?q=getFillValue&unscoped_q=getFillValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLength"></a>
 # getLength
@@ -90,6 +96,8 @@ return the number of records added to the builder.
 the number of records added to the builder.
 
 <a href="https://github.com/autoplot/dev/search?q=getLength&unscoped_q=getLength">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getProperties"></a>
@@ -104,6 +112,8 @@ a java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=getProperties&unscoped_q=getProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRecordElements"></a>
 # getRecordElements
@@ -115,6 +125,8 @@ return the number of elements in each record.
 the number of elements in each record.
 
 <a href="https://github.com/autoplot/dev/search?q=getRecordElements&unscoped_q=getRecordElements">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUnits"></a>
@@ -131,6 +143,8 @@ the units or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValidMax"></a>
 # getValidMax
@@ -144,6 +158,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getValidMax&unscoped_q=getValidMax">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getValidMin"></a>
 # getValidMin
@@ -156,6 +172,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getValidMin&unscoped_q=getValidMin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getValue"></a>
@@ -172,6 +190,8 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="nextRecord"></a>
@@ -194,6 +214,8 @@ void (returns nothing)
 <a href='#nextRecord'>nextRecord(java.lang.Object...)</a> which inserts all values at once.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=nextRecord&unscoped_q=nextRecord">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 nextRecord( double[] values ) &rarr; void<br>
 nextRecord( java.lang.Object[] values ) &rarr; void<br>
@@ -226,6 +248,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=nextRecords&unscoped_q=nextRecords">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putProperty"></a>
 # putProperty
@@ -242,6 +266,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putProperty&unscoped_q=putProperty">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="putUnresolvedProperty"></a>
@@ -262,6 +288,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=putUnresolvedProperty&unscoped_q=putUnresolvedProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putValue"></a>
 # putValue
@@ -278,6 +306,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putValue( int index0, int index1, double d ) &rarr; void<br>
 putValue( int index0, int index1, int index2, double d ) &rarr; void<br>
@@ -317,6 +347,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=putValues&unscoped_q=putValues">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rank"></a>
 # rank
@@ -328,6 +360,8 @@ return the rank of the dataset we are building.
 the rank of the dataset we are building
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -344,6 +378,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resolveProperty"></a>
@@ -364,6 +400,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resolveProperty&unscoped_q=resolveProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSetResolver"></a>
 # setDataSetResolver
@@ -380,6 +418,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetResolver&unscoped_q=setDataSetResolver">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFillValue"></a>
 # setFillValue
@@ -395,6 +435,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillValue&unscoped_q=setFillValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLabel"></a>
@@ -414,6 +456,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLabel&unscoped_q=setLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setName"></a>
 # setName
@@ -431,6 +475,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setName&unscoped_q=setName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUnits"></a>
 # setUnits
@@ -446,6 +492,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUnits&unscoped_q=setUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setUnits( int i, Units u ) &rarr; void<br>
 ***
@@ -464,6 +512,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setValidMax&unscoped_q=setValidMax">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setValidMin"></a>
 # setValidMin
@@ -480,6 +530,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setValidMin&unscoped_q=setValidMin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -492,4 +544,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

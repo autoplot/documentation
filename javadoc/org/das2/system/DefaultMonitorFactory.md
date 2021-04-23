@@ -20,6 +20,8 @@ org.das2.util.monitor.ProgressMonitor
 
 <a href="https://github.com/autoplot/dev/search?q=getMonitor&unscoped_q=getMonitor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getMonitor( org.das2.graph.DasCanvasComponent context, String label, String description ) &rarr; ProgressMonitor<br>
 getMonitor( String label, String description ) &rarr; ProgressMonitor<br>
 ***
@@ -35,6 +37,8 @@ org.das2.system.DefaultMonitorFactory.MonitorEntry[]
 
 <a href="https://github.com/autoplot/dev/search?q=getMonitors&unscoped_q=getMonitors">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getMonitors( int i ) &rarr; MonitorEntry<br>
 ***
 <a name="getSize"></a>
@@ -49,6 +53,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getSize&unscoped_q=getSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isClear"></a>
 # isClear
@@ -61,6 +67,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isClear&unscoped_q=isClear">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setClear"></a>
@@ -78,6 +86,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setClear&unscoped_q=setClear">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSize"></a>
 # setSize
@@ -93,4 +103,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSize&unscoped_q=setSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -24,6 +24,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=cancel&unscoped_q=cancel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="query"></a>
 # query
@@ -40,6 +42,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=query&unscoped_q=query">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="refresh"></a>
@@ -61,6 +65,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=refresh&unscoped_q=refresh">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="run"></a>
 # run
@@ -75,6 +81,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=run&unscoped_q=run">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -87,4 +95,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

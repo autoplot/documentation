@@ -16,6 +16,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=ne&unscoped_q=ne">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ne( Object ds1, Object ds2 ) &rarr; QDataSet<br>
 ***
 <a name="negate"></a>
@@ -38,6 +40,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=negate&unscoped_q=negate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 negate( Object ds1 ) &rarr; QDataSet<br>
 ***
 <a name="neighborFill"></a>
@@ -57,6 +61,8 @@ dataset that does not contain fill.
 
 <a href="https://github.com/autoplot/dev/search?q=neighborFill&unscoped_q=neighborFill">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="normalize"></a>
 # normalize
@@ -71,6 +77,8 @@ ds - a QDataSet
 dataset with the same geometry as ds.
 
 <a href="https://github.com/autoplot/dev/search?q=normalize&unscoped_q=normalize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="not"></a>
@@ -89,5 +97,7 @@ a QDataSet
 <a href='Ops_b.md#bitwiseXor'>bitwiseXor(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=not&unscoped_q=not">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 not( Object ds1 ) &rarr; QDataSet<br>

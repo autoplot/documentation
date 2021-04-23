@@ -15,6 +15,8 @@ org.autoplot.jythonsupport.ui.EditorTextPane
 
 <a href="https://github.com/autoplot/dev/search?q=getTextArea&unscoped_q=getTextArea">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getToolsCB"></a>
 # getToolsCB
@@ -27,6 +29,8 @@ a javax.swing.JCheckBox
 
 
 <a href="https://github.com/autoplot/dev/search?q=getToolsCB&unscoped_q=getToolsCB">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="runScript"></a>
@@ -45,4 +49,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=runScript&unscoped_q=runScript">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

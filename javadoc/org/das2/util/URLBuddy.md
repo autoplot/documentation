@@ -27,6 +27,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=decodeUTF8&unscoped_q=decodeUTF8">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="encodeUTF8"></a>
 # encodeUTF8
@@ -43,6 +45,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=encodeUTF8&unscoped_q=encodeUTF8">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="formatQueryString"></a>
 # formatQueryString
@@ -58,6 +62,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatQueryString&unscoped_q=formatQueryString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parseQueryString"></a>
@@ -76,4 +82,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseQueryString&unscoped_q=parseQueryString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

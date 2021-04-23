@@ -15,6 +15,8 @@ org.w3c.dom.Element
 
 <a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="processElement"></a>
 # processElement
@@ -32,4 +34,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=processElement&unscoped_q=processElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDataSetUpdateListener&unscoped_q=addDataSetUpdateListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addPropertyChangeListener"></a>
 # addPropertyChangeListener
@@ -33,6 +35,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="cutoff"></a>
@@ -56,6 +60,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=cutoff&unscoped_q=cutoff">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLevelMin"></a>
 # getLevelMin
@@ -68,6 +74,8 @@ Value of property levelMin.
 
 <a href="https://github.com/autoplot/dev/search?q=getLevelMin&unscoped_q=getLevelMin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNave"></a>
 # getNave
@@ -79,6 +87,8 @@ Getter for property nave.
 Value of property nave.
 
 <a href="https://github.com/autoplot/dev/search?q=getNave&unscoped_q=getNave">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSlicer"></a>
@@ -97,6 +107,8 @@ org.das2.event.DataPointSelectionListener
 
 <a href="https://github.com/autoplot/dev/search?q=getSlicer&unscoped_q=getSlicer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSlopeMin"></a>
 # getSlopeMin
@@ -108,6 +120,8 @@ Getter for property slopeMin.
 Value of property slopeMin.
 
 <a href="https://github.com/autoplot/dev/search?q=getSlopeMin&unscoped_q=getSlopeMin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getXResolution"></a>
@@ -122,6 +136,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=getXResolution&unscoped_q=getXResolution">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isLowCutoff"></a>
 # isLowCutoff
@@ -133,6 +149,8 @@ Getter for property lowCutoff.
 Value of property lowCutoff.
 
 <a href="https://github.com/autoplot/dev/search?q=isLowCutoff&unscoped_q=isLowCutoff">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeDataSetUpdateListener"></a>
@@ -150,6 +168,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataSetUpdateListener&unscoped_q=removeDataSetUpdateListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -165,6 +185,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLevelMin"></a>
@@ -182,6 +204,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLevelMin&unscoped_q=setLevelMin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLowCutoff"></a>
 # setLowCutoff
@@ -197,6 +221,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLowCutoff&unscoped_q=setLowCutoff">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setNave"></a>
@@ -214,6 +240,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setNave&unscoped_q=setNave">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSlopeMin"></a>
 # setSlopeMin
@@ -230,6 +258,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSlopeMin&unscoped_q=setSlopeMin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setXResolution"></a>
 # setXResolution
@@ -245,4 +275,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setXResolution&unscoped_q=setXResolution">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

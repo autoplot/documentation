@@ -18,6 +18,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getImage"></a>
 # getImage
@@ -34,6 +36,8 @@ java.awt.image.BufferedImage
 
 <a href="https://github.com/autoplot/dev/search?q=getImage&unscoped_q=getImage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="interactivePlot"></a>
 # interactivePlot
@@ -49,4 +53,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=interactivePlot&unscoped_q=interactivePlot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

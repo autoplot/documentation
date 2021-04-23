@@ -15,6 +15,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getMaximum&unscoped_q=getMaximum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMinimum"></a>
 # getMinimum
@@ -28,6 +30,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getMinimum&unscoped_q=getMinimum">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isModified"></a>
 # isModified
@@ -40,4 +44,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isModified&unscoped_q=isModified">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

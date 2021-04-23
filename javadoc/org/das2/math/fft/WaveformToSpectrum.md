@@ -15,6 +15,8 @@ double[][]
 
 <a href="https://github.com/autoplot/dev/search?q=fft&unscoped_q=fft">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTableDataSet"></a>
 # getTableDataSet
@@ -32,6 +34,8 @@ org.das2.dataset.TableDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getTableDataSet&unscoped_q=getTableDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTableDataSet2"></a>
 # getTableDataSet2
@@ -48,4 +52,6 @@ org.das2.dataset.TableDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTableDataSet2&unscoped_q=getTableDataSet2">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

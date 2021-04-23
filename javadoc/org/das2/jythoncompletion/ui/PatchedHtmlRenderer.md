@@ -68,6 +68,8 @@ The width in pixels required
 
 <a href="https://github.com/autoplot/dev/search?q=renderHTML&unscoped_q=renderHTML">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="renderPlainString"></a>
 # renderPlainString
@@ -99,6 +101,8 @@ double
 <a href='#renderHTML'>renderHTML</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=renderPlainString&unscoped_q=renderPlainString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="renderString"></a>
@@ -135,4 +139,6 @@ The width in pixels required
  smaller than the required width.
 
 <a href="https://github.com/autoplot/dev/search?q=renderString&unscoped_q=renderString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -33,6 +33,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=backtransform&unscoped_q=backtransform">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 backtransform( org.das2.math.fft.ComplexArray.Float data, int i0, int stride ) &rarr; void<br>
 ***
 <a name="getInstance"></a>
@@ -51,6 +53,8 @@ org.das2.math.fft.jnt.ComplexFloatFFT
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="inverse"></a>
 # inverse
@@ -67,6 +71,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=inverse&unscoped_q=inverse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 inverse( org.das2.math.fft.ComplexArray.Float data, int i0, int stride ) &rarr; void<br>
 ***
 <a name="normalization"></a>
@@ -81,6 +87,8 @@ float
 
 
 <a href="https://github.com/autoplot/dev/search?q=normalization&unscoped_q=normalization">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="transform"></a>
@@ -99,5 +107,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=transform&unscoped_q=transform">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 transform( org.das2.math.fft.ComplexArray.Float data, int i0, int stride ) &rarr; void<br>

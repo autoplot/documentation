@@ -54,6 +54,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDasPeersToApp&unscoped_q=addDasPeersToApp">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addDasPeersToAppAndWait"></a>
 # addDasPeersToAppAndWait
@@ -67,6 +69,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addDasPeersToAppAndWait&unscoped_q=addDasPeersToAppAndWait">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addException"></a>
@@ -88,6 +92,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addException&unscoped_q=addException">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addPropertyChangeListener"></a>
 # addPropertyChangeListener
@@ -104,6 +110,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addPropertyChangeListener( java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
@@ -124,6 +132,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addRecent&unscoped_q=addRecent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createState"></a>
 # createState
@@ -139,6 +149,8 @@ ApplicationState object
 
 <a href="https://github.com/autoplot/dev/search?q=createState&unscoped_q=createState">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="dataSource"></a>
 # dataSource
@@ -151,6 +163,8 @@ org.autoplot.datasource.DataSource
 
 
 <a href="https://github.com/autoplot/dev/search?q=dataSource&unscoped_q=dataSource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="doAutoLayout"></a>
@@ -165,6 +179,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=doAutoLayout&unscoped_q=doAutoLayout">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="doOpenVap"></a>
@@ -187,6 +203,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doOpenVap&unscoped_q=doOpenVap">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 doOpenVap( java.io.InputStream in, java.util.LinkedHashMap deltas ) &rarr; void<br>
 ***
 <a name="exit"></a>
@@ -201,6 +219,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=exit&unscoped_q=exit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCanvas"></a>
 # getCanvas
@@ -213,6 +233,8 @@ org.das2.graph.DasCanvas
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvas&unscoped_q=getCanvas">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSourceFilterController"></a>
@@ -227,6 +249,8 @@ an org.autoplot.dom.DataSourceController
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFilterController&unscoped_q=getDataSourceFilterController">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSourceURL"></a>
 # getDataSourceURL
@@ -239,6 +263,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceURL&unscoped_q=getDataSourceURL">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDocumentModel"></a>
@@ -253,6 +279,8 @@ an org.autoplot.dom.Application
 
 <a href="https://github.com/autoplot/dev/search?q=getDocumentModel&unscoped_q=getDocumentModel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getExceptionHandler"></a>
 # getExceptionHandler
@@ -266,6 +294,8 @@ org.das2.util.ExceptionHandler
 
 <a href="https://github.com/autoplot/dev/search?q=getExceptionHandler&unscoped_q=getExceptionHandler">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLegacyBookmarks"></a>
 # getLegacyBookmarks
@@ -277,6 +307,8 @@ Read the default bookmarks in, or those from the user's "bookmarks" pref node.
 the bookmarks of the legacy user.
 
 <a href="https://github.com/autoplot/dev/search?q=getLegacyBookmarks&unscoped_q=getLegacyBookmarks">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getName"></a>
@@ -291,6 +323,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getName&unscoped_q=getName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPrompt"></a>
 # getPrompt
@@ -304,6 +338,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getPrompt&unscoped_q=getPrompt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRecent"></a>
 # getRecent
@@ -315,6 +351,8 @@ Get the recent URIs, from autoplot_data/bookmarks/bookmarks.recent.xml
 the recent URIs
 
 <a href="https://github.com/autoplot/dev/search?q=getRecent&unscoped_q=getRecent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getRecent( String filter, int limit ) &rarr; Map<br>
 getRecent( java.util.regex.Pattern p, int limit ) &rarr; Map<br>
@@ -335,6 +373,8 @@ an org.autoplot.PlotStylePanel.StylePanel
 
 <a href="https://github.com/autoplot/dev/search?q=getStylePanelMaybeCached&unscoped_q=getStylePanelMaybeCached">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getThumbnail"></a>
 # getThumbnail
@@ -350,6 +390,8 @@ the thumbnail, or null if one cannot be created
 
 <a href="https://github.com/autoplot/dev/search?q=getThumbnail&unscoped_q=getThumbnail">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getVapFile"></a>
 # getVapFile
@@ -362,6 +404,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getVapFile&unscoped_q=getVapFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isApplet"></a>
@@ -376,6 +420,8 @@ true if this is an applet.
 
 <a href="https://github.com/autoplot/dev/search?q=isApplet&unscoped_q=isApplet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isApplication"></a>
 # isApplication
@@ -388,6 +434,8 @@ true if this is running as an application.
 
 <a href="https://github.com/autoplot/dev/search?q=isApplication&unscoped_q=isApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isHeadless"></a>
 # isHeadless
@@ -399,6 +447,8 @@ Return true if the application is headless.
 true if the application is headless.
 
 <a href="https://github.com/autoplot/dev/search?q=isHeadless&unscoped_q=isHeadless">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isRestoringState"></a>
@@ -413,6 +463,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isRestoringState&unscoped_q=isRestoringState">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSandboxed"></a>
 # isSandboxed
@@ -425,6 +477,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isSandboxed&unscoped_q=isSandboxed">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -443,6 +497,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 removePropertyChangeListener( java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="restoreState"></a>
@@ -460,6 +516,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=restoreState&unscoped_q=restoreState">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setApplet"></a>
 # setApplet
@@ -475,6 +533,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setApplet&unscoped_q=setApplet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setCanvasSize"></a>
@@ -493,6 +553,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setCanvasSize&unscoped_q=setCanvasSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSet"></a>
 # setDataSet
@@ -509,6 +571,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setDataSet( int chNum, String label, QDataSet ds ) &rarr; void<br>
 setDataSet( int chNum, String label, QDataSet ds, boolean reset ) &rarr; void<br>
@@ -528,6 +592,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSource&unscoped_q=setDataSource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSourceURL"></a>
@@ -549,6 +615,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSourceURL&unscoped_q=setDataSourceURL">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setExceptionHandler"></a>
 # setExceptionHandler
@@ -566,6 +634,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setExceptionHandler&unscoped_q=setExceptionHandler">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFocus"></a>
@@ -586,6 +656,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFocus&unscoped_q=setFocus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLocation"></a>
 # setLocation
@@ -604,6 +676,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLocation&unscoped_q=setLocation">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setName"></a>
 # setName
@@ -619,6 +693,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setName&unscoped_q=setName">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPrompt"></a>
@@ -637,6 +713,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPrompt&unscoped_q=setPrompt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setResizeRequestListener"></a>
 # setResizeRequestListener
@@ -654,6 +732,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setResizeRequestListener&unscoped_q=setResizeRequestListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRestoringState"></a>
 # setRestoringState
@@ -669,6 +749,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRestoringState&unscoped_q=setRestoringState">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSandboxed"></a>
@@ -687,6 +769,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSandboxed&unscoped_q=setSandboxed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setVapFile"></a>
 # setVapFile
@@ -702,6 +786,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setVapFile&unscoped_q=setVapFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="showMessage"></a>
@@ -721,6 +807,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showMessage&unscoped_q=showMessage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="waitUntilIdle"></a>

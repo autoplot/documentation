@@ -28,6 +28,8 @@ an org.das2.graph.TickVDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=bestTickVLinear&unscoped_q=bestTickVLinear">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="bestTickVLogNew"></a>
 # bestTickVLogNew
@@ -47,6 +49,8 @@ an org.das2.graph.TickVDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=bestTickVLogNew&unscoped_q=bestTickVLogNew">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="bestTickVTime"></a>
@@ -68,6 +72,8 @@ org.das2.graph.TickVDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=bestTickVTime&unscoped_q=bestTickVTime">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="bestTickVTimeOrdinal"></a>
 # bestTickVTimeOrdinal
@@ -87,6 +93,8 @@ an org.das2.graph.TickVDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=bestTickVTimeOrdinal&unscoped_q=bestTickVTimeOrdinal">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="enclosingRange"></a>
@@ -108,6 +116,8 @@ a DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=enclosingRange&unscoped_q=enclosingRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="findTick"></a>
 # findTick
@@ -126,6 +136,8 @@ the closest tick.  If there is no tick in the given direction, then
 
 <a href="https://github.com/autoplot/dev/search?q=findTick&unscoped_q=findTick">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFormatter"></a>
 # getFormatter
@@ -138,6 +150,8 @@ org.das2.datum.format.DatumFormatter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFormatter&unscoped_q=getFormatter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMajorTicks"></a>
@@ -152,6 +166,8 @@ org.das2.datum.DatumVector
 
 <a href="https://github.com/autoplot/dev/search?q=getMajorTicks&unscoped_q=getMajorTicks">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMinorTicks"></a>
 # getMinorTicks
@@ -165,6 +181,8 @@ org.das2.datum.DatumVector
 
 <a href="https://github.com/autoplot/dev/search?q=getMinorTicks&unscoped_q=getMinorTicks">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDayOfYear"></a>
 # isDayOfYear
@@ -177,6 +195,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDayOfYear&unscoped_q=isDayOfYear">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="newTickVDescriptor"></a>
@@ -195,6 +215,8 @@ org.das2.graph.TickVDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=newTickVDescriptor&unscoped_q=newTickVDescriptor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 newTickVDescriptor( java.util.List majorTicks, java.util.List minorTicks ) &rarr; TickVDescriptor<br>
 ***
 <a name="setDayOfYear"></a>
@@ -212,6 +234,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDayOfYear&unscoped_q=setDayOfYear">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFormatter"></a>
 # setFormatter
@@ -228,6 +252,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFormatter&unscoped_q=setFormatter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -239,4 +265,6 @@ Returns a String representation of the TickVDescriptor.
 a String representation of the TickVDescriptor.
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

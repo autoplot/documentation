@@ -12,6 +12,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=clone&unscoped_q=clone">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDOMElement"></a>
 # getDOMElement
@@ -28,6 +30,8 @@ org.w3c.dom.Element
 
 <a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getProperties"></a>
 # getProperties
@@ -40,6 +44,8 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperties&unscoped_q=getProperties">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getProperty"></a>
@@ -57,6 +63,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSizeBytes"></a>
 # getSizeBytes
@@ -69,6 +77,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSizeBytes&unscoped_q=getSizeBytes">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="read"></a>
@@ -86,6 +96,8 @@ org.das2.datum.DatumVector
 
 <a href="https://github.com/autoplot/dev/search?q=read&unscoped_q=read">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="write"></a>
 # write
@@ -102,4 +114,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

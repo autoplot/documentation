@@ -140,6 +140,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addBottomDecorator"></a>
 # addBottomDecorator
@@ -158,6 +160,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addBottomDecorator&unscoped_q=addBottomDecorator">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addTopDecorator"></a>
@@ -178,6 +182,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addTopDecorator&unscoped_q=addTopDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="changePerformed"></a>
 # changePerformed
@@ -197,6 +203,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=changePerformed&unscoped_q=changePerformed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createFormCanvas"></a>
 # createFormCanvas
@@ -214,6 +222,8 @@ DasCanvas with a name.
 
 <a href="https://github.com/autoplot/dev/search?q=createFormCanvas&unscoped_q=createFormCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="devicePositionList"></a>
 # devicePositionList
@@ -226,6 +236,8 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=devicePositionList&unscoped_q=devicePositionList">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getActions"></a>
@@ -240,6 +252,8 @@ javax.swing.Action[]
 
 <a href="https://github.com/autoplot/dev/search?q=getActions&unscoped_q=getActions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getApplication"></a>
 # getApplication
@@ -253,6 +267,8 @@ org.das2.DasApplication
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBaseFont"></a>
 # getBaseFont
@@ -264,6 +280,8 @@ the base font, which is the font or the font which is scaled when scaleFont is t
 the base font, which is the font or the font which is scaled when scaleFont is true.
 
 <a href="https://github.com/autoplot/dev/search?q=getBaseFont&unscoped_q=getBaseFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getCanvasComponentAt"></a>
@@ -283,6 +301,8 @@ the component at the specified point, or null
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvasComponentAt&unscoped_q=getCanvasComponentAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCanvasComponents"></a>
 # getCanvasComponents
@@ -297,6 +317,8 @@ index - the index
 the component at the index.
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvasComponents&unscoped_q=getCanvasComponents">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getCanvasComponents(  ) &rarr; DasCanvasComponent<br>
 ***
@@ -316,6 +338,8 @@ an org.das2.graph.DasCanvas.Cell
 
 <a href="https://github.com/autoplot/dev/search?q=getCellAt&unscoped_q=getCellAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDasApplication"></a>
 # getDasApplication
@@ -327,6 +351,8 @@ return the application object for this canvas.
 the application object for this canvas.
 
 <a href="https://github.com/autoplot/dev/search?q=getDasApplication&unscoped_q=getDasApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDasName"></a>
@@ -340,6 +366,8 @@ the name identifying the component.
 
 <a href="https://github.com/autoplot/dev/search?q=getDasName&unscoped_q=getDasName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDevicePositionList"></a>
 # getDevicePositionList
@@ -351,6 +379,8 @@ return a list of all the rows and columns.
 a list of all the rows and columns.
 
 <a href="https://github.com/autoplot/dev/search?q=getDevicePositionList&unscoped_q=getDevicePositionList">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDnDSupport"></a>
@@ -365,6 +395,8 @@ an org.das2.util.DnDSupport
 
 <a href="https://github.com/autoplot/dev/search?q=getDnDSupport&unscoped_q=getDnDSupport">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEditingMode"></a>
 # getEditingMode
@@ -377,6 +409,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEditingMode&unscoped_q=getEditingMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFocusCanvas"></a>
@@ -391,6 +425,8 @@ an org.das2.graph.DasCanvas
 
 <a href="https://github.com/autoplot/dev/search?q=getFocusCanvas&unscoped_q=getFocusCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getGlassPane"></a>
 # getGlassPane
@@ -403,6 +439,8 @@ a java.awt.Component
 
 
 <a href="https://github.com/autoplot/dev/search?q=getGlassPane&unscoped_q=getGlassPane">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getImage"></a>
@@ -423,6 +461,8 @@ a BufferedImage
 
 <a href="https://github.com/autoplot/dev/search?q=getImage&unscoped_q=getImage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getImageMetadata"></a>
 # getImageMetadata
@@ -435,6 +475,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getImageMetadata&unscoped_q=getImageMetadata">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getImageNonPrint"></a>
@@ -458,6 +500,8 @@ an Image
 
 <a href="https://github.com/autoplot/dev/search?q=getImageNonPrint&unscoped_q=getImageNonPrint">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLineAt"></a>
 # getLineAt
@@ -475,6 +519,8 @@ an org.das2.graph.DasCanvas.HotLine
 
 <a href="https://github.com/autoplot/dev/search?q=getLineAt&unscoped_q=getLineAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMaximumSize"></a>
 # getMaximumSize
@@ -486,6 +532,8 @@ simply returns getPreferredSize()
 getPreferredSize()
 
 <a href="https://github.com/autoplot/dev/search?q=getMaximumSize&unscoped_q=getMaximumSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPaintCount"></a>
@@ -499,6 +547,8 @@ arbitrary int which will change as the canvas is painted.
 
 <a href="https://github.com/autoplot/dev/search?q=getPaintCount&unscoped_q=getPaintCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPreferredScrollableViewportSize"></a>
 # getPreferredScrollableViewportSize
@@ -511,6 +561,8 @@ java.awt.Dimension
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferredScrollableViewportSize&unscoped_q=getPreferredScrollableViewportSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPrintable"></a>
@@ -527,6 +579,8 @@ a <code>Printable</code> instance for rendering this component.
 
 <a href="https://github.com/autoplot/dev/search?q=getPrintable&unscoped_q=getPrintable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPrintingTag"></a>
 # getPrintingTag
@@ -538,6 +592,8 @@ printingTag is the DateFormat string to use to tag printed images.
 Value of property printingTag.
 
 <a href="https://github.com/autoplot/dev/search?q=getPrintingTag&unscoped_q=getPrintingTag">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getScrollableBlockIncrement"></a>
@@ -557,6 +613,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getScrollableBlockIncrement&unscoped_q=getScrollableBlockIncrement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getScrollableTracksViewportHeight"></a>
 # getScrollableTracksViewportHeight
@@ -570,6 +628,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=getScrollableTracksViewportHeight&unscoped_q=getScrollableTracksViewportHeight">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getScrollableTracksViewportWidth"></a>
 # getScrollableTracksViewportWidth
@@ -582,6 +642,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getScrollableTracksViewportWidth&unscoped_q=getScrollableTracksViewportWidth">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getScrollableUnitIncrement"></a>
@@ -601,6 +663,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getScrollableUnitIncrement&unscoped_q=getScrollableUnitIncrement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasBottomDecorators"></a>
 # hasBottomDecorators
@@ -612,6 +676,8 @@ returns true if there are any bottom decorators.
 true if there are any decorators.
 
 <a href="https://github.com/autoplot/dev/search?q=hasBottomDecorators&unscoped_q=hasBottomDecorators">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hasTopDecorators"></a>
@@ -625,6 +691,8 @@ true if there are any decorators.
 
 <a href="https://github.com/autoplot/dev/search?q=hasTopDecorators&unscoped_q=hasTopDecorators">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAntiAlias"></a>
 # isAntiAlias
@@ -636,6 +704,8 @@ true if data will be fully rendered with anti-aliasing.
 true if data will be fully rendered with anti-aliasing.
 
 <a href="https://github.com/autoplot/dev/search?q=isAntiAlias&unscoped_q=isAntiAlias">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDirty"></a>
@@ -650,6 +720,8 @@ true if work needs to be done to make the canvas clean
 
 <a href="https://github.com/autoplot/dev/search?q=isDirty&unscoped_q=isDirty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isFitted"></a>
 # isFitted
@@ -662,6 +734,8 @@ If true, and the canvas was added to a scrollpane, the canvas
 value of fitted property
 
 <a href="https://github.com/autoplot/dev/search?q=isFitted&unscoped_q=isFitted">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isPendingChanges"></a>
@@ -680,6 +754,8 @@ true if that particular change is pending.
 
 <a href="https://github.com/autoplot/dev/search?q=isPendingChanges&unscoped_q=isPendingChanges">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 isPendingChanges(  ) &rarr; boolean<br>
 ***
 <a name="isScaleFonts"></a>
@@ -693,6 +769,8 @@ true if the fonts should be rescaled as the window size is changed.
 
 <a href="https://github.com/autoplot/dev/search?q=isScaleFonts&unscoped_q=isScaleFonts">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isTextAntiAlias"></a>
 # isTextAntiAlias
@@ -704,6 +782,8 @@ return true if fonts will be fully rendered.
 true if fonts will be fully rendered.
 
 <a href="https://github.com/autoplot/dev/search?q=isTextAntiAlias&unscoped_q=isTextAntiAlias">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isValueAdjusting"></a>
@@ -719,6 +799,8 @@ true if an operation is being performed that should be treated as atomic.
 
 <a href="https://github.com/autoplot/dev/search?q=isValueAdjusting&unscoped_q=isValueAdjusting">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="lisPaintingForPrint"></a>
 # lisPaintingForPrint
@@ -731,6 +813,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=lisPaintingForPrint&unscoped_q=lisPaintingForPrint">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="makeCurrent"></a>
@@ -745,6 +829,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=makeCurrent&unscoped_q=makeCurrent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mutatorLock"></a>
 # mutatorLock
@@ -758,6 +844,8 @@ the lock.
 <a href='ChangesSupport.md'>ChangesSupport</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=mutatorLock&unscoped_q=mutatorLock">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="pendingChanges"></a>
@@ -777,6 +865,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=pendingChanges&unscoped_q=pendingChanges">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="performingChange"></a>
 # performingChange
@@ -795,6 +885,8 @@ void (returns nothing)
 <a href='ChangesSupport.md'>ChangesSupport</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=performingChange&unscoped_q=performingChange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="prepareForOutput"></a>
@@ -817,6 +909,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=prepareForOutput&unscoped_q=prepareForOutput">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="print"></a>
 # print
@@ -833,6 +927,8 @@ printGraphics - the Graphics object.
 Printable.PAGE_EXISTS or Printable.NO_SUCH_PAGE
 
 <a href="https://github.com/autoplot/dev/search?q=print&unscoped_q=print">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 print( java.awt.Graphics g1 ) &rarr; void<br>
 ***
@@ -855,6 +951,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=registerPendingChange&unscoped_q=registerPendingChange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="remove"></a>
 # remove
@@ -873,6 +971,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=remove&unscoped_q=remove">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 remove( java.awt.Component comp ) &rarr; void<br>
 ***
 <a name="removeBottomDecorator"></a>
@@ -890,6 +990,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeBottomDecorator&unscoped_q=removeBottomDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeBottomDecorators"></a>
 # removeBottomDecorators
@@ -902,6 +1004,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeBottomDecorators&unscoped_q=removeBottomDecorators">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeDasDevicePosition"></a>
@@ -921,6 +1025,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeDasDevicePosition&unscoped_q=removeDasDevicePosition">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeTopDecorator"></a>
 # removeTopDecorator
@@ -937,6 +1043,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeTopDecorator&unscoped_q=removeTopDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeTopDecorators"></a>
 # removeTopDecorators
@@ -949,6 +1057,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeTopDecorators&unscoped_q=removeTopDecorators">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removepwDevicePosition"></a>
@@ -968,6 +1078,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resizeAllComponents&unscoped_q=resizeAllComponents">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAntiAlias"></a>
 # setAntiAlias
@@ -983,6 +1095,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAntiAlias&unscoped_q=setAntiAlias">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setApplication"></a>
@@ -1000,6 +1114,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setApplication&unscoped_q=setApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setBaseFont"></a>
 # setBaseFont
@@ -1015,6 +1131,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBaseFont&unscoped_q=setBaseFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDasName"></a>
@@ -1032,6 +1150,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDasName&unscoped_q=setDasName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDisableActions"></a>
 # setDisableActions
@@ -1048,6 +1168,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDisableActions&unscoped_q=setDisableActions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEditingMode"></a>
 # setEditingMode
@@ -1063,6 +1185,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEditingMode&unscoped_q=setEditingMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFitted"></a>
@@ -1081,6 +1205,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFitted&unscoped_q=setFitted">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFont"></a>
 # setFont
@@ -1096,6 +1222,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFont&unscoped_q=setFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPreferredHeight"></a>
@@ -1113,6 +1241,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPreferredHeight&unscoped_q=setPreferredHeight">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPreferredWidth"></a>
 # setPreferredWidth
@@ -1128,6 +1258,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPreferredWidth&unscoped_q=setPreferredWidth">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPrintingTag"></a>
@@ -1146,6 +1278,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPrintingTag&unscoped_q=setPrintingTag">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setScaleFonts"></a>
 # setScaleFonts
@@ -1162,6 +1296,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setScaleFonts&unscoped_q=setScaleFonts">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTextAntiAlias"></a>
 # setTextAntiAlias
@@ -1177,6 +1313,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTextAntiAlias&unscoped_q=setTextAntiAlias">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="startDrag"></a>
@@ -1197,6 +1335,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=startDrag&unscoped_q=startDrag">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -1209,6 +1349,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="waitUntilIdle"></a>
@@ -1227,6 +1369,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=waitUntilIdle&unscoped_q=waitUntilIdle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 waitUntilIdle(  ) &rarr; void<br>
 ***
 <a name="waitUntilValid"></a>
@@ -1240,6 +1384,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=waitUntilValid&unscoped_q=waitUntilValid">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="writeToGraphicsOutput"></a>
@@ -1259,6 +1405,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=writeToGraphicsOutput&unscoped_q=writeToGraphicsOutput">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 writeToGraphicsOutput( String filename, String graphicsOutput ) &rarr; void<br>
 ***
 <a name="writeToImageImmediately"></a>
@@ -1277,6 +1425,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=writeToImageImmediately&unscoped_q=writeToImageImmediately">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="writeToImageImmediatelyNoCount"></a>
 # writeToImageImmediatelyNoCount
@@ -1292,6 +1442,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeToImageImmediatelyNoCount&unscoped_q=writeToImageImmediatelyNoCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="writeToImageImmediatelyNonPrint"></a>
@@ -1311,6 +1463,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=writeToImageImmediatelyNonPrint&unscoped_q=writeToImageImmediatelyNonPrint">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="writeToPDF"></a>
 # writeToPDF
@@ -1326,6 +1480,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeToPDF&unscoped_q=writeToPDF">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="writeToPng"></a>
@@ -1356,6 +1512,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=writeToPng&unscoped_q=writeToPng">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 writeToPng( String filename ) &rarr; void<br>
 ***
 <a name="writeToSVG"></a>
@@ -1372,4 +1530,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeToSVG&unscoped_q=writeToSVG">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

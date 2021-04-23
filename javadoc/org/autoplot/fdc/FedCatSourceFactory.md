@@ -19,6 +19,8 @@ java.util.List
 
 <a href="https://github.com/autoplot/dev/search?q=getCompletions&unscoped_q=getCompletions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSource"></a>
 # getDataSource
@@ -42,6 +44,8 @@ A Map<String,String> that always has the following keys:
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isFileResource"></a>
 # isFileResource
@@ -54,6 +58,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFileResource&unscoped_q=isFileResource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="reject"></a>
@@ -74,6 +80,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=reject&unscoped_q=reject">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="supportsDiscovery"></a>
 # supportsDiscovery
@@ -85,4 +93,6 @@ This data source is pretty much only discovery, so of course we return true here
 true
 
 <a href="https://github.com/autoplot/dev/search?q=supportsDiscovery&unscoped_q=supportsDiscovery">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

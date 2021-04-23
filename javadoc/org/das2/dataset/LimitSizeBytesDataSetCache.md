@@ -16,6 +16,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getDisplayString&unscoped_q=getDisplayString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEntries"></a>
 # getEntries
@@ -28,6 +30,8 @@ org.das2.dataset.AbstractDataSetCache.Entry[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEntries&unscoped_q=getEntries">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getEntries( int i ) &rarr; Entry<br>
 ***
@@ -43,6 +47,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=getHitRate&unscoped_q=getHitRate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTotalSize"></a>
 # getTotalSize
@@ -55,6 +61,8 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTotalSize&unscoped_q=getTotalSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTotalSizeLimit"></a>
@@ -69,6 +77,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=getTotalSizeLimit&unscoped_q=getTotalSizeLimit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reset"></a>
 # reset
@@ -81,6 +91,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTotalSizeLimit"></a>
@@ -97,6 +109,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTotalSizeLimit&unscoped_q=setTotalSizeLimit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="store"></a>
@@ -115,4 +129,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=store&unscoped_q=store">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

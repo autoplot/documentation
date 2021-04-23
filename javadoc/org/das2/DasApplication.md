@@ -27,6 +27,8 @@ java.io.File
 
 <a href="https://github.com/autoplot/dev/search?q=getDas2UserDirectory&unscoped_q=getDas2UserDirectory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDas2Version"></a>
 # getDas2Version
@@ -39,6 +41,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDas2Version&unscoped_q=getDas2Version">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSetCache"></a>
@@ -53,6 +57,8 @@ org.das2.dataset.DataSetCache
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetCache&unscoped_q=getDataSetCache">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDefaultApplication"></a>
 # getDefaultApplication
@@ -65,6 +71,8 @@ org.das2.DasApplication
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDefaultApplication&unscoped_q=getDefaultApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getExceptionHandler"></a>
@@ -79,6 +87,8 @@ an org.das2.util.ExceptionHandler
 
 <a href="https://github.com/autoplot/dev/search?q=getExceptionHandler&unscoped_q=getExceptionHandler">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInputStreamMeter"></a>
 # getInputStreamMeter
@@ -92,6 +102,8 @@ org.das2.client.InputStreamMeter
 
 <a href="https://github.com/autoplot/dev/search?q=getInputStreamMeter&unscoped_q=getInputStreamMeter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLogger"></a>
 # getLogger
@@ -104,6 +116,8 @@ java.util.logging.Logger
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLogger&unscoped_q=getLogger">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getLogger( org.das2.system.LoggerId id ) &rarr; Logger<br>
 ***
@@ -119,6 +133,8 @@ javax.swing.JFrame
 
 <a href="https://github.com/autoplot/dev/search?q=getMainFrame&unscoped_q=getMainFrame">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMonitorFactory"></a>
 # getMonitorFactory
@@ -132,6 +148,8 @@ org.das2.system.MonitorFactory
 
 <a href="https://github.com/autoplot/dev/search?q=getMonitorFactory&unscoped_q=getMonitorFactory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNameContext"></a>
 # getNameContext
@@ -144,6 +162,8 @@ org.das2.NameContext
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNameContext&unscoped_q=getNameContext">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getProperty"></a>
@@ -163,6 +183,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasAllPermission"></a>
 # hasAllPermission
@@ -177,6 +199,8 @@ true if all permissions are allowed
 
 <a href="https://github.com/autoplot/dev/search?q=hasAllPermission&unscoped_q=hasAllPermission">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isApplet"></a>
 # isApplet
@@ -189,6 +213,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isApplet&unscoped_q=isApplet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isHeadless"></a>
@@ -203,6 +229,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isHeadless&unscoped_q=isHeadless">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isInteractive"></a>
 # isInteractive
@@ -215,6 +243,8 @@ Value of property interactive.
 
 <a href="https://github.com/autoplot/dev/search?q=isInteractive&unscoped_q=isInteractive">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isJavaWebStart"></a>
 # isJavaWebStart
@@ -226,6 +256,8 @@ return true if the application appears to have been launched with Java WebStart.
 true if it appears that Java Webstart was used to launch the application.
 
 <a href="https://github.com/autoplot/dev/search?q=isJavaWebStart&unscoped_q=isJavaWebStart">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isReloadLoggingProperties"></a>
@@ -240,6 +272,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isReloadLoggingProperties&unscoped_q=isReloadLoggingProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="quit"></a>
 # quit
@@ -253,6 +287,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=quit&unscoped_q=quit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resetDefaultApplication"></a>
 # resetDefaultApplication
@@ -265,6 +301,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetDefaultApplication&unscoped_q=resetDefaultApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setApplet"></a>
@@ -282,6 +320,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setApplet&unscoped_q=setApplet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setExceptionHandler"></a>
 # setExceptionHandler
@@ -297,6 +337,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setExceptionHandler&unscoped_q=setExceptionHandler">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setHeadless"></a>
@@ -314,6 +356,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setHeadless&unscoped_q=setHeadless">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setInteractive"></a>
 # setInteractive
@@ -329,6 +373,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setInteractive&unscoped_q=setInteractive">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setMainFrame"></a>
@@ -346,6 +392,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setMainFrame&unscoped_q=setMainFrame">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setReloadLoggingProperties"></a>
 # setReloadLoggingProperties
@@ -361,6 +409,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReloadLoggingProperties&unscoped_q=setReloadLoggingProperties">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRestrictPermission"></a>
@@ -380,6 +430,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRestrictPermission&unscoped_q=setRestrictPermission">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="suggestNameFor"></a>
 # suggestNameFor
@@ -395,4 +447,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=suggestNameFor&unscoped_q=suggestNameFor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

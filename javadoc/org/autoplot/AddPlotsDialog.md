@@ -51,6 +51,8 @@ an Object
 
 <a href="https://github.com/autoplot/dev/search?q=getDirection&unscoped_q=getDirection">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNumberOfColumnsSpinner"></a>
 # getNumberOfColumnsSpinner
@@ -64,6 +66,8 @@ javax.swing.JSpinner
 
 <a href="https://github.com/autoplot/dev/search?q=getNumberOfColumnsSpinner&unscoped_q=getNumberOfColumnsSpinner">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNumberOfRowsSpinner"></a>
 # getNumberOfRowsSpinner
@@ -76,4 +80,6 @@ javax.swing.JSpinner
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNumberOfRowsSpinner&unscoped_q=getNumberOfRowsSpinner">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

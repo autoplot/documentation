@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="testAdd"></a>
 # testAdd
@@ -31,6 +33,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=testAdd&unscoped_q=testAdd">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="testSlice"></a>
 # testSlice
@@ -43,4 +47,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=testSlice&unscoped_q=testSlice">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

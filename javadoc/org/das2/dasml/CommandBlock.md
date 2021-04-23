@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=appendDOMElements&unscoped_q=appendDOMElements">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="execute"></a>
 # execute
@@ -30,4 +32,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=execute&unscoped_q=execute">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

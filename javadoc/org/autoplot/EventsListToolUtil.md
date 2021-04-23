@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deflts&unscoped_q=deflts">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEventsList"></a>
 # getEventsList
@@ -32,6 +34,8 @@ t - the app.
 the single TimeRangeToolEventsList for the app.
 
 <a href="https://github.com/autoplot/dev/search?q=getEventsList&unscoped_q=getEventsList">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setEventsListURI"></a>
@@ -51,6 +55,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setEventsListURI&unscoped_q=setEventsListURI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="show"></a>
 # show
@@ -66,4 +72,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=show&unscoped_q=show">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

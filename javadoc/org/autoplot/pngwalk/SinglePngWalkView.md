@@ -17,3 +17,5 @@ the digitizer for the images.
 
 <a href="https://github.com/autoplot/dev/search?q=getClickDigitizer&unscoped_q=getClickDigitizer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

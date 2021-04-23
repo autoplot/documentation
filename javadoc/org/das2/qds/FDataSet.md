@@ -23,6 +23,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addValue&unscoped_q=addValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addValue( int i0, int i1, double value ) &rarr; void<br>
 ***
 <a name="capability"></a>
@@ -41,6 +43,8 @@ null or the capability if exists, such as WritableDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=capability&unscoped_q=capability">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="create"></a>
 # create
@@ -57,6 +61,8 @@ the array as a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createRank1"></a>
 # createRank1
@@ -71,6 +77,8 @@ len0 - length of the dimension
 rank 1 qube dataset of backed by array of floats.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank1&unscoped_q=createRank1">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createRank2"></a>
@@ -88,6 +96,8 @@ rank 2 qube dataset of backed by array of floats.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank2&unscoped_q=createRank2">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createRank3"></a>
 # createRank3
@@ -104,6 +114,8 @@ len0 - length of the dimension
 rank 3 qube dataset of backed by array of floats.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank3&unscoped_q=createRank3">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createRank4"></a>
@@ -123,6 +135,8 @@ rank 4 qube dataset of backed by array of floats.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank4&unscoped_q=createRank4">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putProperty"></a>
 # putProperty
@@ -141,6 +155,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=putProperty&unscoped_q=putProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putValue"></a>
 # putValue
@@ -156,6 +172,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putValue( int i0, double value ) &rarr; void<br>
 putValue( int i0, int i1, double value ) &rarr; void<br>
@@ -179,6 +197,8 @@ a rank N-1 slice of the data.
 
 <a href="https://github.com/autoplot/dev/search?q=slice&unscoped_q=slice">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="trim"></a>
 # trim
@@ -195,6 +215,8 @@ a shorter dataset of the same rank.
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="value"></a>
 # value
@@ -207,6 +229,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 value( int i0 ) &rarr; double<br>
 value( int i0, int i1 ) &rarr; double<br>
@@ -228,6 +252,8 @@ data - array containing the data, with the last dimension contiguous in memory.
 the array as a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=wrap&unscoped_q=wrap">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 wrap( float[] back, int rank, int len0, int len1, int len2 ) &rarr; FDataSet<br>
 wrap( float[] back ) &rarr; FDataSet<br>

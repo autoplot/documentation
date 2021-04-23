@@ -26,6 +26,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMetadata"></a>
 # getMetadata
@@ -42,6 +44,8 @@ java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadata&unscoped_q=getMetadata">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reset"></a>
 # reset
@@ -54,6 +58,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resetURI"></a>
@@ -71,6 +77,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resetURI&unscoped_q=resetURI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="satisfies"></a>
 # satisfies
@@ -86,4 +94,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=satisfies&unscoped_q=satisfies">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

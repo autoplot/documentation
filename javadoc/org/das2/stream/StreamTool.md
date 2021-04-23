@@ -16,6 +16,8 @@ byte[]
 
 <a href="https://github.com/autoplot/dev/search?q=advanceTo&unscoped_q=advanceTo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="formatHeader"></a>
 # formatHeader
@@ -33,6 +35,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=formatHeader&unscoped_q=formatHeader">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="processPropertiesElement"></a>
 # processPropertiesElement
@@ -48,6 +52,8 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=processPropertiesElement&unscoped_q=processPropertiesElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="processPropertiesMap"></a>
@@ -66,6 +72,8 @@ org.w3c.dom.Element
 
 <a href="https://github.com/autoplot/dev/search?q=processPropertiesMap&unscoped_q=processPropertiesMap">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readStream"></a>
 # readStream
@@ -82,6 +90,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=readStream&unscoped_q=readStream">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="readXML"></a>
@@ -102,5 +112,7 @@ byte[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=readXML&unscoped_q=readXML">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 readXML( java.nio.ByteBuffer input ) &rarr; ByteBuffer<br>

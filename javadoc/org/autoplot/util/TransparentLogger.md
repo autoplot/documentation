@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addHandler&unscoped_q=addHandler">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="config"></a>
 # config
@@ -30,6 +32,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=config&unscoped_q=config">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="entering"></a>
@@ -48,6 +52,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=entering&unscoped_q=entering">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 entering( String sourceClass, String sourceMethod, Object param1 ) &rarr; void<br>
 entering( String sourceClass, String sourceMethod ) &rarr; void<br>
@@ -69,6 +75,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=exiting&unscoped_q=exiting">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 exiting( String sourceClass, String sourceMethod ) &rarr; void<br>
 ***
 <a name="fine"></a>
@@ -86,6 +94,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=fine&unscoped_q=fine">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="finer"></a>
 # finer
@@ -101,6 +111,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=finer&unscoped_q=finer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="finest"></a>
@@ -118,6 +130,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=finest&unscoped_q=finest">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFilter"></a>
 # getFilter
@@ -130,6 +144,8 @@ java.util.logging.Filter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFilter&unscoped_q=getFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getHandlers"></a>
@@ -144,6 +160,8 @@ java.util.logging.Handler[]
 
 <a href="https://github.com/autoplot/dev/search?q=getHandlers&unscoped_q=getHandlers">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLevel"></a>
 # getLevel
@@ -156,6 +174,8 @@ java.util.logging.Level
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLevel&unscoped_q=getLevel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLogger"></a>
@@ -173,6 +193,8 @@ java.util.logging.Logger
 
 <a href="https://github.com/autoplot/dev/search?q=getLogger&unscoped_q=getLogger">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getName"></a>
 # getName
@@ -185,6 +207,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getName&unscoped_q=getName">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getParent"></a>
@@ -199,6 +223,8 @@ java.util.logging.Logger
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getResourceBundle"></a>
 # getResourceBundle
@@ -211,6 +237,8 @@ java.util.ResourceBundle
 
 
 <a href="https://github.com/autoplot/dev/search?q=getResourceBundle&unscoped_q=getResourceBundle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getResourceBundleName"></a>
@@ -225,6 +253,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getResourceBundleName&unscoped_q=getResourceBundleName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUseParentHandlers"></a>
 # getUseParentHandlers
@@ -237,6 +267,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUseParentHandlers&unscoped_q=getUseParentHandlers">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="info"></a>
@@ -254,6 +286,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=info&unscoped_q=info">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isLoggable"></a>
 # isLoggable
@@ -269,6 +303,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLoggable&unscoped_q=isLoggable">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="log"></a>
@@ -287,6 +323,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=log&unscoped_q=log">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 log( java.util.logging.Level level, String msg, java.lang.Object[] params ) &rarr; void<br>
 log( java.util.logging.Level level, String msg, Object param1 ) &rarr; void<br>
@@ -312,6 +350,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=logp&unscoped_q=logp">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 logp( java.util.logging.Level level, String sourceClass, String sourceMethod, String msg, java.lang.Object[] params ) &rarr; void<br>
 logp( java.util.logging.Level level, String sourceClass, String sourceMethod, String msg, Object param1 ) &rarr; void<br>
 logp( java.util.logging.Level level, String sourceClass, String sourceMethod, String msg ) &rarr; void<br>
@@ -336,6 +376,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=logrb&unscoped_q=logrb">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 logrb( java.util.logging.Level level, String sourceClass, String sourceMethod, String bundleName, String msg, java.lang.Object[] params ) &rarr; void<br>
 logrb( java.util.logging.Level level, String sourceClass, String sourceMethod, String bundleName, String msg, Object param1 ) &rarr; void<br>
 logrb( java.util.logging.Level level, String sourceClass, String sourceMethod, String bundleName, String msg ) &rarr; void<br>
@@ -355,6 +397,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeHandler&unscoped_q=removeHandler">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFilter"></a>
 # setFilter
@@ -370,6 +414,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFilter&unscoped_q=setFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLevel"></a>
@@ -387,6 +433,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLevel&unscoped_q=setLevel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setParent"></a>
 # setParent
@@ -402,6 +450,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setParent&unscoped_q=setParent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setUseParentHandlers"></a>
@@ -419,6 +469,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setUseParentHandlers&unscoped_q=setUseParentHandlers">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="severe"></a>
 # severe
@@ -434,6 +486,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=severe&unscoped_q=severe">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="throwing"></a>
@@ -453,6 +507,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=throwing&unscoped_q=throwing">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -465,6 +521,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="warning"></a>
@@ -481,4 +539,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=warning&unscoped_q=warning">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

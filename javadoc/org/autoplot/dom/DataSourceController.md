@@ -106,6 +106,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=cancel&unscoped_q=cancel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doFillValidRange"></a>
 # doFillValidRange
@@ -119,6 +121,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doFillValidRange&unscoped_q=doFillValidRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getApplication"></a>
 # getApplication
@@ -131,6 +135,8 @@ org.autoplot.dom.Application
 
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getAppliedFiltersString"></a>
@@ -147,6 +153,8 @@ reduceDataSetString the string, which may be empty but will not
 
 <a href="https://github.com/autoplot/dev/search?q=getAppliedFiltersString&unscoped_q=getAppliedFiltersString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCaching"></a>
 # getCaching
@@ -160,6 +168,8 @@ org.autoplot.datasource.capability.Caching
 
 <a href="https://github.com/autoplot/dev/search?q=getCaching&unscoped_q=getCaching">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSet"></a>
 # getDataSet
@@ -172,6 +182,8 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSource"></a>
@@ -190,6 +202,8 @@ the controller's current datasource.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getException"></a>
 # getException
@@ -202,6 +216,8 @@ java.lang.Exception
 
 
 <a href="https://github.com/autoplot/dev/search?q=getException&unscoped_q=getException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFillDataSet"></a>
@@ -216,6 +232,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getFillDataSet&unscoped_q=getFillDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFillProperties"></a>
 # getFillProperties
@@ -229,6 +247,8 @@ java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=getFillProperties&unscoped_q=getFillProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getHistogram"></a>
 # getHistogram
@@ -241,6 +261,8 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getHistogram&unscoped_q=getHistogram">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMaxSliceIndex"></a>
@@ -259,6 +281,8 @@ java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=getProperties&unscoped_q=getProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRawProperties"></a>
 # getRawProperties
@@ -271,6 +295,8 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRawProperties&unscoped_q=getRawProperties">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTimeSeriesBrowseController"></a>
@@ -285,6 +311,8 @@ org.autoplot.dom.TimeSeriesBrowseController
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeSeriesBrowseController&unscoped_q=getTimeSeriesBrowseController">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTsb"></a>
 # getTsb
@@ -297,6 +325,8 @@ org.autoplot.datasource.capability.TimeSeriesBrowse
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTsb&unscoped_q=getTsb">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTsbSuri"></a>
@@ -311,6 +341,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getTsbSuri&unscoped_q=getTsbSuri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDataSetNeedsLoading"></a>
 # isDataSetNeedsLoading
@@ -323,6 +355,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDataSetNeedsLoading&unscoped_q=isDataSetNeedsLoading">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isPendingChanges"></a>
@@ -337,6 +371,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isPendingChanges&unscoped_q=isPendingChanges">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isResetDimensions"></a>
 # isResetDimensions
@@ -349,6 +385,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isResetDimensions&unscoped_q=isResetDimensions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isTimeSeries"></a>
@@ -368,6 +406,8 @@ true if the dataset is rank 1 or greater, and has timetags for
 
 <a href="https://github.com/autoplot/dev/search?q=isTimeSeries&unscoped_q=isTimeSeries">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isUriNeedsResolution"></a>
 # isUriNeedsResolution
@@ -380,6 +420,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isUriNeedsResolution&unscoped_q=isUriNeedsResolution">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="pendingChanges"></a>
@@ -396,6 +438,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=pendingChanges&unscoped_q=pendingChanges">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resetDataSource"></a>
@@ -418,6 +462,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resetDataSource&unscoped_q=resetDataSource">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resetSuri"></a>
 # resetSuri
@@ -434,6 +480,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetSuri&unscoped_q=resetSuri">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAppliedFiltersString"></a>
@@ -453,6 +501,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAppliedFiltersString&unscoped_q=setAppliedFiltersString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setCaching"></a>
 # setCaching
@@ -468,6 +518,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCaching&unscoped_q=setCaching">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSet"></a>
@@ -488,6 +540,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSetInternal"></a>
 # setDataSetInternal
@@ -503,6 +557,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetInternal&unscoped_q=setDataSetInternal">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setDataSetInternal( QDataSet ds, java.util.Map rawProperties, boolean immediately ) &rarr; void<br>
 ***
@@ -521,6 +577,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetNeedsLoading&unscoped_q=setDataSetNeedsLoading">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSource"></a>
 # setDataSource
@@ -536,6 +594,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSource&unscoped_q=setDataSource">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setException"></a>
@@ -553,6 +613,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setException&unscoped_q=setException">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFillDataSet"></a>
 # setFillDataSet
@@ -568,6 +630,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillDataSet&unscoped_q=setFillDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFillProperties"></a>
@@ -585,6 +649,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFillProperties&unscoped_q=setFillProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setHistogram"></a>
 # setHistogram
@@ -600,6 +666,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHistogram&unscoped_q=setHistogram">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setProperties"></a>
@@ -617,6 +685,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setProperties&unscoped_q=setProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRawProperties"></a>
 # setRawProperties
@@ -633,6 +703,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRawProperties&unscoped_q=setRawProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setResetDimensions"></a>
 # setResetDimensions
@@ -648,6 +720,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setResetDimensions&unscoped_q=setResetDimensions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSuri"></a>
@@ -666,6 +740,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSuri&unscoped_q=setSuri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTsb"></a>
 # setTsb
@@ -681,6 +757,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTsb&unscoped_q=setTsb">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTsbSuri"></a>
@@ -698,6 +776,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTsbSuri&unscoped_q=setTsbSuri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUriNeedsResolution"></a>
 # setUriNeedsResolution
@@ -714,6 +794,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setUriNeedsResolution&unscoped_q=setUriNeedsResolution">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -726,6 +808,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="update"></a>
@@ -741,5 +825,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 update( boolean user ) &rarr; void<br>

@@ -59,6 +59,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="binOf"></a>
 # binOf
@@ -77,6 +79,8 @@ the index of the bin for the point.
 
 <a href="https://github.com/autoplot/dev/search?q=binOf&unscoped_q=binOf">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doit"></a>
 # doit
@@ -93,6 +97,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=doit&unscoped_q=doit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 doit( QDataSet ds, QDataSet wds ) &rarr; QDataSet<br>
 ***
 <a name="getHistogram"></a>
@@ -106,6 +112,8 @@ an org.das2.qds.DDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getHistogram&unscoped_q=getHistogram">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="mean"></a>
@@ -122,6 +130,8 @@ an org.das2.qds.RankZeroDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=mean&unscoped_q=mean">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="moments"></a>
@@ -140,6 +150,8 @@ rank 0 dataset (a Datum) whose value is the mean, and the property("stddev") con
 
 <a href="https://github.com/autoplot/dev/search?q=moments&unscoped_q=moments">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="monoExtent"></a>
 # monoExtent
@@ -155,6 +167,8 @@ dep0 - a QDataSet
 rank 1 bins dataset or null
 
 <a href="https://github.com/autoplot/dev/search?q=monoExtent&unscoped_q=monoExtent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="peakIds"></a>
@@ -172,6 +186,8 @@ hist - a QDataSet
 QDataSet covarient with hist.
 
 <a href="https://github.com/autoplot/dev/search?q=peakIds&unscoped_q=peakIds">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="peaks"></a>
@@ -191,6 +207,8 @@ QDataSet rank 1 dataset with length equal to the number of identified peaks
 
 <a href="https://github.com/autoplot/dev/search?q=peaks&unscoped_q=peaks">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -207,6 +225,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reset"></a>
 # reset
@@ -219,6 +239,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="simpleRange"></a>
@@ -235,4 +257,6 @@ rank 1 bins dataset showing the min and max.  value(0) is the
  min, value(1) is the max.
 
 <a href="https://github.com/autoplot/dev/search?q=simpleRange&unscoped_q=simpleRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

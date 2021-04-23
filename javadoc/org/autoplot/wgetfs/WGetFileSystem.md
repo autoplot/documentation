@@ -19,6 +19,8 @@ org.autoplot.wgetfs.WGetFileSystem
 
 <a href="https://github.com/autoplot/dev/search?q=createWGetFileSystem&unscoped_q=createWGetFileSystem">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDirectory"></a>
 # isDirectory
@@ -35,6 +37,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isDirectory&unscoped_q=isDirectory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="listDirectory"></a>
 # listDirectory
@@ -50,4 +54,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectory&unscoped_q=listDirectory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

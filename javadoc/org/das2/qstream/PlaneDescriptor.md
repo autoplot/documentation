@@ -16,6 +16,8 @@ org.das2.qds.util.DataSetBuilder
 
 <a href="https://github.com/autoplot/dev/search?q=getBuilder&unscoped_q=getBuilder">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBundles"></a>
 # getBundles
@@ -28,6 +30,8 @@ a java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBundles&unscoped_q=getBundles">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDs"></a>
@@ -43,6 +47,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDs&unscoped_q=getDs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getElements"></a>
 # getElements
@@ -55,6 +61,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getElements&unscoped_q=getElements">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getName"></a>
@@ -69,6 +77,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getName&unscoped_q=getName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getQube"></a>
 # getQube
@@ -81,6 +91,8 @@ int[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getQube&unscoped_q=getQube">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRank"></a>
@@ -95,6 +107,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getRank&unscoped_q=getRank">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getType"></a>
 # getType
@@ -108,6 +122,8 @@ org.das2.qstream.TransferType
 
 <a href="https://github.com/autoplot/dev/search?q=getType&unscoped_q=getType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUnits"></a>
 # getUnits
@@ -120,6 +136,8 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setBuilder"></a>
@@ -137,6 +155,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setBuilder&unscoped_q=setBuilder">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDs"></a>
 # setDs
@@ -152,6 +172,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDs&unscoped_q=setDs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setName"></a>
@@ -169,6 +191,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setName&unscoped_q=setName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setQube"></a>
 # setQube
@@ -184,6 +208,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setQube&unscoped_q=setQube">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRank"></a>
@@ -201,6 +227,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRank&unscoped_q=setRank">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setType"></a>
 # setType
@@ -216,6 +244,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setType&unscoped_q=setType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setUnits"></a>
@@ -233,6 +263,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setUnits&unscoped_q=setUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -245,4 +277,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

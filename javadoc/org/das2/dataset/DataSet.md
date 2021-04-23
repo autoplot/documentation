@@ -267,6 +267,8 @@ the specified view, as a <code>DataSet</code>
 
 <a href="https://github.com/autoplot/dev/search?q=getPlanarView&unscoped_q=getPlanarView">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPlaneIds"></a>
 # getPlaneIds
@@ -282,6 +284,8 @@ java.lang.String[]
 
 <a href="https://github.com/autoplot/dev/search?q=getPlaneIds&unscoped_q=getPlaneIds">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getProperties"></a>
 # getProperties
@@ -293,6 +297,8 @@ Returns all dataset properties in a Map.
 a Map of all properties.
 
 <a href="https://github.com/autoplot/dev/search?q=getProperties&unscoped_q=getProperties">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getProperty"></a>
@@ -309,6 +315,8 @@ the property value for <code>name</code> or null
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXLength"></a>
 # getXLength
@@ -321,6 +329,8 @@ Returns the number of x tags in this data set.  XTags must be
 the number of x tags in this data set.
 
 <a href="https://github.com/autoplot/dev/search?q=getXLength&unscoped_q=getXLength">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getXTagDatum"></a>
@@ -338,6 +348,8 @@ the value of the x tag at the given index i as a
       <code>Datum</code>.
 
 <a href="https://github.com/autoplot/dev/search?q=getXTagDatum&unscoped_q=getXTagDatum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getXTagDouble"></a>
@@ -358,6 +370,8 @@ the value of the x tag at the given index i as a
 
 <a href="https://github.com/autoplot/dev/search?q=getXTagDouble&unscoped_q=getXTagDouble">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXTagInt"></a>
 # getXTagInt
@@ -377,6 +391,8 @@ the value of the x tag at the given index i as an
 
 <a href="https://github.com/autoplot/dev/search?q=getXTagInt&unscoped_q=getXTagInt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXUnits"></a>
 # getXUnits
@@ -390,6 +406,8 @@ the x units
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getYUnits"></a>
 # getYUnits
@@ -402,4 +420,6 @@ Returns the Units object representing the unit type of the y tags
 the y units
 
 <a href="https://github.com/autoplot/dev/search?q=getYUnits&unscoped_q=getYUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

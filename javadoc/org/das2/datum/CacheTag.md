@@ -28,6 +28,8 @@ a CacheTag that covers both CacheTags precisely.
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="contains"></a>
 # contains
@@ -45,6 +47,8 @@ true if the tag has a lower resolution and its bounds are within
 
 <a href="https://github.com/autoplot/dev/search?q=contains&unscoped_q=contains">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRange"></a>
 # getRange
@@ -57,6 +61,8 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getResolution"></a>
@@ -71,6 +77,8 @@ org.das2.datum.Datum
 
 <a href="https://github.com/autoplot/dev/search?q=getResolution&unscoped_q=getResolution">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -83,4 +91,6 @@ a human consumable representation of the cache tag.  This should fit on
  one line as it is used to list cache contents.
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -25,6 +25,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=copyOptionsToPersistentPreferences&unscoped_q=copyOptionsToPersistentPreferences">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isLoadPersistentPreferences"></a>
 # isLoadPersistentPreferences
@@ -38,6 +40,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isLoadPersistentPreferences&unscoped_q=isLoadPersistentPreferences">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="loadPreferences"></a>
 # loadPreferences
@@ -50,6 +54,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=loadPreferences&unscoped_q=loadPreferences">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="loadPreferencesWithEvents"></a>
@@ -68,6 +74,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=loadPreferencesWithEvents&unscoped_q=loadPreferencesWithEvents">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLoadPersistentPreferences"></a>
 # setLoadPersistentPreferences
@@ -83,4 +91,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLoadPersistentPreferences&unscoped_q=setLoadPersistentPreferences">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

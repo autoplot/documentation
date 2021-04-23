@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=clearSelection&unscoped_q=clearSelection">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDot"></a>
 # getDot
@@ -27,6 +29,8 @@ java.awt.Point
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDot&unscoped_q=getDot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDotX"></a>
@@ -41,6 +45,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getDotX&unscoped_q=getDotX">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDotY"></a>
 # getDotY
@@ -53,6 +59,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDotY&unscoped_q=getDotY">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMark"></a>
@@ -67,6 +75,8 @@ java.awt.Point
 
 <a href="https://github.com/autoplot/dev/search?q=getMark&unscoped_q=getMark">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMarkX"></a>
 # getMarkX
@@ -79,6 +89,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMarkX&unscoped_q=getMarkX">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMarkY"></a>
@@ -93,6 +105,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getMarkY&unscoped_q=getMarkY">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSelectionType"></a>
 # getSelectionType
@@ -105,6 +119,8 @@ org.das2.event.DasSelectionEvent.Type
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectionType&unscoped_q=getSelectionType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isShiftDown"></a>
@@ -119,6 +135,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isShiftDown&unscoped_q=isShiftDown">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="shouldClearSelection"></a>
 # shouldClearSelection
@@ -131,4 +149,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=shouldClearSelection&unscoped_q=shouldClearSelection">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

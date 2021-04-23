@@ -17,6 +17,8 @@ regular expression for a decimal, without whitespace.  Note it contains (groups)
 
 <a href="https://github.com/autoplot/dev/search?q=decimalRegex&unscoped_q=decimalRegex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="decimalRegexSloppy"></a>
 # decimalRegexSloppy
@@ -28,4 +30,6 @@ sloppy regex to be used when the number doesn't need to be parsed.
 regular expression that would match a decimal, without whitespace.
 
 <a href="https://github.com/autoplot/dev/search?q=decimalRegexSloppy&unscoped_q=decimalRegexSloppy">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

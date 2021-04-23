@@ -28,6 +28,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=actionPerformed&unscoped_q=actionPerformed">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addToRecent"></a>
 # addToRecent
@@ -45,6 +47,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addToRecent&unscoped_q=addToRecent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addToRecent( String s, boolean reload ) &rarr; void<br>
 ***
 <a name="getText"></a>
@@ -58,6 +62,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getText&unscoped_q=getText">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -75,6 +81,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPreferenceNode"></a>
 # setPreferenceNode
@@ -90,6 +98,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPreferenceNode&unscoped_q=setPreferenceNode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setText"></a>
@@ -107,6 +117,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setText&unscoped_q=setText">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setVerifier"></a>
 # setVerifier
@@ -122,4 +134,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setVerifier&unscoped_q=setVerifier">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

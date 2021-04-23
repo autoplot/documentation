@@ -23,6 +23,8 @@ org.das2.catalog.DasNode
 
 <a href="https://github.com/autoplot/dev/search?q=getRoot&unscoped_q=getRoot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isRoot"></a>
 # isRoot
@@ -35,6 +37,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isRoot&unscoped_q=isRoot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="name"></a>
@@ -49,6 +53,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=name&unscoped_q=name">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="path"></a>
 # path
@@ -61,6 +67,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=path&unscoped_q=path">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="prettyPrintLoc"></a>
@@ -78,6 +86,8 @@ A formatted string containing a list of all root node URLs
 
 <a href="https://github.com/autoplot/dev/search?q=prettyPrintLoc&unscoped_q=prettyPrintLoc">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -90,4 +100,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

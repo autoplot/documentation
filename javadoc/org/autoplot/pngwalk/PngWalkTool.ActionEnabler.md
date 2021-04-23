@@ -15,3 +15,5 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isActionEnabled&unscoped_q=isActionEnabled">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

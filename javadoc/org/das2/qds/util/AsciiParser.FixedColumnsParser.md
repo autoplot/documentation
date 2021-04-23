@@ -15,6 +15,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=fieldCount&unscoped_q=fieldCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 fieldCount( String line ) &rarr; int<br>
 ***
 <a name="fields"></a>
@@ -32,6 +34,8 @@ java.lang.String[]
 
 <a href="https://github.com/autoplot/dev/search?q=fields&unscoped_q=fields">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readNextRecord"></a>
 # readNextRecord
@@ -47,6 +51,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=readNextRecord&unscoped_q=readNextRecord">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="splitRecord"></a>
@@ -65,6 +71,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=splitRecord&unscoped_q=splitRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="tryParseRecord"></a>
 # tryParseRecord
@@ -82,4 +90,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=tryParseRecord&unscoped_q=tryParseRecord">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

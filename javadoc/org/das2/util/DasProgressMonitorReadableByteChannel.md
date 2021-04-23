@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="close"></a>
 # close
@@ -31,6 +33,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getStreamLength"></a>
 # getStreamLength
@@ -42,6 +46,8 @@ Getter for property taskSize.
 Value of property taskSize.
 
 <a href="https://github.com/autoplot/dev/search?q=getStreamLength&unscoped_q=getStreamLength">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isOpen"></a>
@@ -55,6 +61,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOpen&unscoped_q=isOpen">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="read"></a>
@@ -72,6 +80,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=read&unscoped_q=read">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -87,6 +97,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setEnableProgressPosition"></a>
@@ -107,6 +119,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setEnableProgressPosition&unscoped_q=setEnableProgressPosition">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setStreamLength"></a>
 # setStreamLength
@@ -122,4 +136,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStreamLength&unscoped_q=setStreamLength">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

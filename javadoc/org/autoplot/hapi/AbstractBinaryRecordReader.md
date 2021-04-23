@@ -16,3 +16,5 @@ the number of bytes read, which will be the length of the buffer or -1.
 
 <a href="https://github.com/autoplot/dev/search?q=readRecord&unscoped_q=readRecord">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

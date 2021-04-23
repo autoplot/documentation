@@ -417,6 +417,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getColumn&unscoped_q=getColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColumnNames"></a>
 # getColumnNames
@@ -429,6 +431,8 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnNames&unscoped_q=getColumnNames">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDep0"></a>
@@ -443,6 +447,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getDep0&unscoped_q=getDep0">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFile"></a>
 # getFile
@@ -455,6 +461,8 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFile&unscoped_q=getFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPanel"></a>
@@ -469,6 +477,8 @@ javax.swing.JPanel
 
 <a href="https://github.com/autoplot/dev/search?q=getPanel&unscoped_q=getPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSkipLines"></a>
 # getSkipLines
@@ -482,6 +492,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getSkipLines&unscoped_q=getSkipLines">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getURI"></a>
 # getURI
@@ -494,6 +506,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="markProblems"></a>
@@ -510,6 +524,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=markProblems&unscoped_q=markProblems">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="prepare"></a>
@@ -529,6 +545,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=prepare&unscoped_q=prepare">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reject"></a>
 # reject
@@ -544,6 +562,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=reject&unscoped_q=reject">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setColumn"></a>
@@ -561,6 +581,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setColumn&unscoped_q=setColumn">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDep0"></a>
 # setDep0
@@ -576,6 +598,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDep0&unscoped_q=setDep0">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFile"></a>
@@ -593,6 +617,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFile&unscoped_q=setFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setSkipLines"></a>
 # setSkipLines
@@ -609,6 +635,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSkipLines&unscoped_q=setSkipLines">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setURI"></a>
 # setURI
@@ -624,4 +652,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setURI&unscoped_q=setURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

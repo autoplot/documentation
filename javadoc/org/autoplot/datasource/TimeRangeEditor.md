@@ -45,6 +45,8 @@ special marker object
 
 <a href="https://github.com/autoplot/dev/search?q=getNoOneListeningRange&unscoped_q=getNoOneListeningRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRange"></a>
 # getRange
@@ -56,6 +58,8 @@ get the timerange.
 the timerange.
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRescale"></a>
@@ -70,6 +74,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getRescale&unscoped_q=getRescale">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUriFocusListener"></a>
 # getUriFocusListener
@@ -82,6 +88,8 @@ java.beans.PropertyChangeListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUriFocusListener&unscoped_q=getUriFocusListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isCardSelected"></a>
@@ -96,6 +104,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isCardSelected&unscoped_q=isCardSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isUseDoy"></a>
 # isUseDoy
@@ -107,6 +117,8 @@ true if day of year should be used instead of year, month, day.
 true if day of year should be used
 
 <a href="https://github.com/autoplot/dev/search?q=isUseDoy&unscoped_q=isUseDoy">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -124,6 +136,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="makeThinner"></a>
 # makeThinner
@@ -137,6 +151,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=makeThinner&unscoped_q=makeThinner">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="revalidate"></a>
 # revalidate
@@ -149,6 +165,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=revalidate&unscoped_q=revalidate">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAlternatePeer"></a>
@@ -167,6 +185,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAlternatePeer&unscoped_q=setAlternatePeer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setCardSelected"></a>
 # setCardSelected
@@ -182,6 +202,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCardSelected&unscoped_q=setCardSelected">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setCardSelectedNoEventKludge"></a>
@@ -199,6 +221,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setCardSelectedNoEventKludge&unscoped_q=setCardSelectedNoEventKludge">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setControlRange"></a>
 # setControlRange
@@ -214,6 +238,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setControlRange&unscoped_q=setControlRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSetSelectorPeer"></a>
@@ -231,6 +257,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetSelectorPeer&unscoped_q=setDataSetSelectorPeer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEnabled"></a>
 # setEnabled
@@ -246,6 +274,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEnabled&unscoped_q=setEnabled">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setNoOneListeningRange"></a>
@@ -263,6 +293,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setNoOneListeningRange&unscoped_q=setNoOneListeningRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRange"></a>
 # setRange
@@ -279,6 +311,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRange&unscoped_q=setRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRescale"></a>
@@ -302,6 +336,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRescale&unscoped_q=setRescale">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUseDoy"></a>
 # setUseDoy
@@ -317,4 +353,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUseDoy&unscoped_q=setUseDoy">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

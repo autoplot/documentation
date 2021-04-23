@@ -117,6 +117,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getFilter&unscoped_q=getFilter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getHighFreq"></a>
 # getHighFreq
@@ -130,6 +132,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getHighFreq&unscoped_q=getHighFreq">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLowFreq"></a>
 # getLowFreq
@@ -142,6 +146,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLowFreq&unscoped_q=getLowFreq">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -159,6 +165,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFilter"></a>
 # setFilter
@@ -174,4 +182,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFilter&unscoped_q=setFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

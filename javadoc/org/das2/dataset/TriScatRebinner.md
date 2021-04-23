@@ -21,6 +21,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isNearestNeighbor&unscoped_q=isNearestNeighbor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rebin"></a>
 # rebin
@@ -40,6 +42,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=rebin&unscoped_q=rebin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setNearestNeighbor"></a>
 # setNearestNeighbor
@@ -55,4 +59,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setNearestNeighbor&unscoped_q=setNearestNeighbor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

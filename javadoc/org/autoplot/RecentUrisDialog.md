@@ -35,6 +35,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getModifiers&unscoped_q=getModifiers">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSelectedURI"></a>
 # getSelectedURI
@@ -48,6 +50,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedURI&unscoped_q=getSelectedURI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isCancelled"></a>
 # isCancelled
@@ -60,6 +64,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isCancelled&unscoped_q=isCancelled">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -77,6 +83,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setExpertMode"></a>
 # setExpertMode
@@ -92,6 +100,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setExpertMode&unscoped_q=setExpertMode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setFilter"></a>
@@ -109,6 +119,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFilter&unscoped_q=setFilter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setModifiers"></a>
 # setModifiers
@@ -124,4 +136,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setModifiers&unscoped_q=setModifiers">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

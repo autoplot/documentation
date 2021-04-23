@@ -16,6 +16,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="pasteBufferedReader"></a>
 # pasteBufferedReader
@@ -32,6 +34,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=pasteBufferedReader&unscoped_q=pasteBufferedReader">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readRecord"></a>
 # readRecord
@@ -47,4 +51,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=readRecord&unscoped_q=readRecord">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

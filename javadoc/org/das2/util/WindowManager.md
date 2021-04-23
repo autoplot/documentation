@@ -20,6 +20,8 @@ org.das2.util.WindowManager
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="recallWindowSizePosition"></a>
 # recallWindowSizePosition
@@ -35,6 +37,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=recallWindowSizePosition&unscoped_q=recallWindowSizePosition">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="recordWindowSizePosition"></a>
@@ -52,6 +56,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=recordWindowSizePosition&unscoped_q=recordWindowSizePosition">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="showConfirmDialog"></a>
@@ -74,6 +80,8 @@ an int
 
 <a href="https://github.com/autoplot/dev/search?q=showConfirmDialog&unscoped_q=showConfirmDialog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 showConfirmDialog( java.awt.Component parent, Object omessage, String title, int optionType ) &rarr; int<br>
 ***
 <a name="showModalDialog"></a>
@@ -90,4 +98,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showModalDialog&unscoped_q=showModalDialog">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

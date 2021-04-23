@@ -20,6 +20,8 @@ PyObject
 
 <a href="https://github.com/autoplot/dev/search?q=and&unscoped_q=and">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="eq"></a>
 # eq
@@ -35,6 +37,8 @@ arg1 - None, a QDataSet, String, array, scalar, etc
 PyInteger for rank 0 inputs, or PyQDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=eq&unscoped_q=eq">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="ge"></a>
@@ -53,6 +57,8 @@ PyObject
 
 <a href="https://github.com/autoplot/dev/search?q=ge&unscoped_q=ge">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="gt"></a>
 # gt
@@ -69,6 +75,8 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=gt&unscoped_q=gt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="le"></a>
@@ -87,6 +95,8 @@ PyObject
 
 <a href="https://github.com/autoplot/dev/search?q=le&unscoped_q=le">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="lt"></a>
 # lt
@@ -103,6 +113,8 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=lt&unscoped_q=lt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="ne"></a>
@@ -121,6 +133,8 @@ PyObject
 
 <a href="https://github.com/autoplot/dev/search?q=ne&unscoped_q=ne">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="or"></a>
 # or
@@ -137,4 +151,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=or&unscoped_q=or">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

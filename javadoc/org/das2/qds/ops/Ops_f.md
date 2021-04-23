@@ -19,6 +19,8 @@ a rank 2 dataset of complex numbers.
 
 <a href="https://github.com/autoplot/dev/search?q=fft&unscoped_q=fft">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 fft( QDataSet ds, QDataSet window, int stepFraction, ProgressMonitor mon ) &rarr; QDataSet<br>
 ***
 <a name="fftFilter"></a>
@@ -39,6 +41,8 @@ ds - rank 1, 2, or 3 data
 data[N,len] with the window applied.
 
 <a href="https://github.com/autoplot/dev/search?q=fftFilter&unscoped_q=fftFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="fftPower"></a>
@@ -64,6 +68,8 @@ rank 2 FFT spectrum
 
 <a href="https://github.com/autoplot/dev/search?q=fftPower&unscoped_q=fftPower">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 fftPower( QDataSet ds, QDataSet window, ProgressMonitor mon ) &rarr; QDataSet<br>
 fftPower( QDataSet ds, int windowLen, int stepFraction, String windowName, ProgressMonitor mon ) &rarr; QDataSet<br>
 fftPower( QDataSet ds, QDataSet window, int stepFraction, ProgressMonitor mon ) &rarr; QDataSet<br>
@@ -86,6 +92,8 @@ rank 2 FFT spectrum
 
 <a href="https://github.com/autoplot/dev/search?q=fftPowerMultiThread&unscoped_q=fftPowerMultiThread">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="fftWindow"></a>
 # fftWindow
@@ -101,6 +109,8 @@ ds - rank 1 dataset
 rank 2 dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=fftWindow&unscoped_q=fftWindow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="findex"></a>
@@ -128,6 +138,8 @@ rank N dataset with the same geometry as vv.  It will have DEPEND_0=vv when vv i
 
 <a href="https://github.com/autoplot/dev/search?q=findex&unscoped_q=findex">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 findex( Object x, Object y ) &rarr; QDataSet<br>
 ***
 <a name="findgen"></a>
@@ -144,6 +156,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=findgen&unscoped_q=findgen">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 findgen( int len0, int len1 ) &rarr; QDataSet<br>
 findgen( int len0, int len1, int len2 ) &rarr; QDataSet<br>
@@ -164,6 +178,8 @@ ds - qdataset of any rank.
 1 where the data is not Nan or Inf, 0 otherwise.
 
 <a href="https://github.com/autoplot/dev/search?q=finite&unscoped_q=finite">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="flatten"></a>
@@ -187,6 +203,8 @@ rank 2 dataset bundle
 
 <a href="https://github.com/autoplot/dev/search?q=flatten&unscoped_q=flatten">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="flattenWaveform"></a>
 # flattenWaveform
@@ -206,6 +224,8 @@ rank 1 waveform
 
 <a href="https://github.com/autoplot/dev/search?q=flattenWaveform&unscoped_q=flattenWaveform">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="floor"></a>
 # floor
@@ -221,6 +241,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=floor&unscoped_q=floor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 floor( double x ) &rarr; double<br>
 floor( Object ds1 ) &rarr; QDataSet<br>
@@ -242,6 +264,8 @@ rank 1 dataset filled with zeros.
 <a href='Ops_s.md#strarr'>strarr(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=fltarr&unscoped_q=fltarr">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 fltarr( int len0, int len1 ) &rarr; QDataSet<br>
 fltarr( int len0, int len1, int len2 ) &rarr; QDataSet<br>

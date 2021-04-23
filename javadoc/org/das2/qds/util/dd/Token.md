@@ -90,6 +90,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="newToken"></a>
 # newToken
@@ -116,6 +118,8 @@ org.das2.qds.util.dd.Token
 
 <a href="https://github.com/autoplot/dev/search?q=newToken&unscoped_q=newToken">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 newToken( int ofKind ) &rarr; Token<br>
 ***
 <a name="toString"></a>
@@ -129,4 +133,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

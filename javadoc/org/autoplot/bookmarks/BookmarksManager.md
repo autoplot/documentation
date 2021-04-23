@@ -23,6 +23,8 @@ org.autoplot.bookmarks.Bookmark
 
 <a href="https://github.com/autoplot/dev/search?q=addBookmark&unscoped_q=addBookmark">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="findBookmarkByUri"></a>
 # findBookmarkByUri
@@ -43,6 +45,8 @@ null if the bookmark is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=findBookmarkByUri&unscoped_q=findBookmarkByUri">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getModel"></a>
 # getModel
@@ -56,6 +60,8 @@ org.autoplot.bookmarks.BookmarksManagerModel
 
 <a href="https://github.com/autoplot/dev/search?q=getModel&unscoped_q=getModel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSelectedBookmark"></a>
 # getSelectedBookmark
@@ -67,6 +73,8 @@ provide a means to get the selection.
 the selected bookmark
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedBookmark&unscoped_q=getSelectedBookmark">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hasPrefNode"></a>
@@ -84,6 +92,8 @@ a boolean
 
 <a href="https://github.com/autoplot/dev/search?q=hasPrefNode&unscoped_q=hasPrefNode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="haveRemoteBookmark"></a>
 # haveRemoteBookmark
@@ -100,6 +110,8 @@ true if we already have the bookmark.
 
 <a href="https://github.com/autoplot/dev/search?q=haveRemoteBookmark&unscoped_q=haveRemoteBookmark">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isEdit"></a>
 # isEdit
@@ -113,6 +125,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isEdit&unscoped_q=isEdit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isPlay"></a>
 # isPlay
@@ -125,6 +139,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isPlay&unscoped_q=isPlay">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -141,6 +157,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="printBooks"></a>
@@ -159,6 +177,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=printBooks&unscoped_q=printBooks">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 printBooks( org.autoplot.bookmarks.Bookmark book, String indent ) &rarr; void<br>
 ***
 <a name="reload"></a>
@@ -172,6 +192,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reload&unscoped_q=reload">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resetPrefNode"></a>
@@ -189,6 +211,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resetPrefNode&unscoped_q=resetPrefNode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resetToDefault"></a>
 # resetToDefault
@@ -204,6 +228,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetToDefault&unscoped_q=resetToDefault">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAddBookmark"></a>
@@ -221,6 +247,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAddBookmark&unscoped_q=setAddBookmark">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setHidePlotButtons"></a>
 # setHidePlotButtons
@@ -236,6 +264,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHidePlotButtons&unscoped_q=setHidePlotButtons">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPlotActionsVisible"></a>
@@ -255,6 +285,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotActionsVisible&unscoped_q=setPlotActionsVisible">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPrefNode"></a>
@@ -277,6 +309,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPrefNode&unscoped_q=setPrefNode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 setPrefNode( String nodeName ) &rarr; void<br>
 ***
 <a name="updateBookmarks"></a>
@@ -294,6 +328,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updateBookmarks&unscoped_q=updateBookmarks">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 updateBookmarks( javax.swing.JMenu bookmarksMenu, org.autoplot.AutoplotUI app, org.autoplot.datasource.DataSetSelector dataSetSelector ) &rarr; void<br>
 updateBookmarks( javax.swing.JMenu bookmarksMenu, String afterName, org.autoplot.AutoplotUI app, org.autoplot.datasource.DataSetSelector dataSetSelector ) &rarr; void<br>

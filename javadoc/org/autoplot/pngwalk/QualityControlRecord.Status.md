@@ -36,6 +36,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=filenameExtension&unscoped_q=filenameExtension">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="fromString"></a>
 # fromString
@@ -52,6 +54,8 @@ org.autoplot.pngwalk.QualityControlRecord.Status
 
 <a href="https://github.com/autoplot/dev/search?q=fromString&unscoped_q=fromString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -64,6 +68,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="valueOf"></a>
@@ -81,6 +87,8 @@ org.autoplot.pngwalk.QualityControlRecord.Status
 
 <a href="https://github.com/autoplot/dev/search?q=valueOf&unscoped_q=valueOf">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="values"></a>
 # values
@@ -93,4 +101,6 @@ org.autoplot.pngwalk.QualityControlRecord.Status[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=values&unscoped_q=values">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

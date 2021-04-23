@@ -38,6 +38,8 @@ an Object
 
 <a href="https://github.com/autoplot/dev/search?q=calculateType&unscoped_q=calculateType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="startDocument"></a>
 # startDocument
@@ -50,6 +52,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=startDocument&unscoped_q=startDocument">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="startElement"></a>
@@ -70,4 +74,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=startElement&unscoped_q=startElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

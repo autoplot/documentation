@@ -15,6 +15,8 @@ the selected plots.
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedPlots&unscoped_q=getSelectedPlots">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="paint"></a>
 # paint
@@ -30,6 +32,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=paint&unscoped_q=paint">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setApplication"></a>
@@ -47,6 +51,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setApplication&unscoped_q=setApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setApplicationModel"></a>
 # setApplicationModel
@@ -62,4 +68,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setApplicationModel&unscoped_q=setApplicationModel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -17,6 +17,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resetURI"></a>
 # resetURI
@@ -34,6 +36,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resetURI&unscoped_q=resetURI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="satisfies"></a>
 # satisfies
@@ -49,4 +53,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=satisfies&unscoped_q=satisfies">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

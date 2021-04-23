@@ -17,6 +17,8 @@ Value of property dataSet.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAsciiTransferTypes"></a>
 # isAsciiTransferTypes
@@ -29,6 +31,8 @@ Value of property asciiTransferTypes.
 
 <a href="https://github.com/autoplot/dev/search?q=isAsciiTransferTypes&unscoped_q=isAsciiTransferTypes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isCompressed"></a>
 # isCompressed
@@ -40,6 +44,8 @@ Getter for property compressed.
 Value of property compressed.
 
 <a href="https://github.com/autoplot/dev/search?q=isCompressed&unscoped_q=isCompressed">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAsciiTransferTypes"></a>
@@ -58,6 +64,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAsciiTransferTypes&unscoped_q=setAsciiTransferTypes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setCompressed"></a>
 # setCompressed
@@ -73,6 +81,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCompressed&unscoped_q=setCompressed">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSet"></a>
@@ -90,6 +100,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="writeStream"></a>
 # writeStream
@@ -106,5 +118,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeStream&unscoped_q=writeStream">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 writeStream( java.nio.channels.WritableByteChannel out ) &rarr; void<br>

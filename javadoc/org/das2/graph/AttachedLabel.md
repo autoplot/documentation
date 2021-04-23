@@ -50,6 +50,8 @@ clone of this.
 
 <a href="https://github.com/autoplot/dev/search?q=clone&unscoped_q=clone">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getActiveRegion"></a>
 # getActiveRegion
@@ -62,6 +64,8 @@ the bounds of the label
 
 <a href="https://github.com/autoplot/dev/search?q=getActiveRegion&unscoped_q=getActiveRegion">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDLength"></a>
 # getDLength
@@ -73,6 +77,8 @@ getDLength(  ) &rarr; int
 returns the length in pixels of the axis.
 
 <a href="https://github.com/autoplot/dev/search?q=getDLength&unscoped_q=getDLength">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDevicePosition"></a>
@@ -90,6 +96,8 @@ Value of property emOffset.
 
 <a href="https://github.com/autoplot/dev/search?q=getEmOffset&unscoped_q=getEmOffset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -103,6 +111,8 @@ A String instance that contains the title displayed
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabelFont"></a>
 # getLabelFont
@@ -114,6 +124,8 @@ get the current font of the compoennt.
 Font of the component.
 
 <a href="https://github.com/autoplot/dev/search?q=getLabelFont&unscoped_q=getLabelFont">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getOrientation"></a>
@@ -127,6 +139,8 @@ AttachedLabel.TOP, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=getOrientation&unscoped_q=getOrientation">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isHorizontal"></a>
 # isHorizontal
@@ -138,6 +152,8 @@ true if the label is horizontal
 true if the  label is horizontal
 
 <a href="https://github.com/autoplot/dev/search?q=isHorizontal&unscoped_q=isHorizontal">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resize"></a>
@@ -151,6 +167,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setEmOffset"></a>
@@ -167,6 +185,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEmOffset&unscoped_q=setEmOffset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLabel"></a>
@@ -187,6 +207,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLabel&unscoped_q=setLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLabelFont"></a>
 # setLabelFont
@@ -203,6 +225,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLabelFont&unscoped_q=setLabelFont">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setOrientation"></a>
 # setOrientation
@@ -218,4 +242,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOrientation&unscoped_q=setOrientation">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

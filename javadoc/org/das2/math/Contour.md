@@ -35,4 +35,6 @@ org.das2.dataset.VectorDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=contour&unscoped_q=contour">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 contour( org.das2.dataset.TableDataSet tds, Datum level ) &rarr; VectorDataSet<br>

@@ -16,6 +16,8 @@ rank 1 dataset containing non-zero where the condition is true.
 
 <a href="https://github.com/autoplot/dev/search?q=binsWithin&unscoped_q=binsWithin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="binsWithout"></a>
 # binsWithout
@@ -34,6 +36,8 @@ rank 1 dataset containing non-zero where the condition is true.
 
 <a href="https://github.com/autoplot/dev/search?q=binsWithout&unscoped_q=binsWithout">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="bitwiseAnd"></a>
 # bitwiseAnd
@@ -50,6 +54,8 @@ ds1 - a QDataSet
 bit-wise AND.
 
 <a href="https://github.com/autoplot/dev/search?q=bitwiseAnd&unscoped_q=bitwiseAnd">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 bitwiseAnd( Object ds1, Object ds2 ) &rarr; QDataSet<br>
 ***
@@ -68,6 +74,8 @@ ds1 - a QDataSet
 bit-wise OR.
 
 <a href="https://github.com/autoplot/dev/search?q=bitwiseOr&unscoped_q=bitwiseOr">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 bitwiseOr( Object ds1, Object ds2 ) &rarr; QDataSet<br>
 ***
@@ -91,6 +99,8 @@ bit-wise XOR.
 
 <a href="https://github.com/autoplot/dev/search?q=bitwiseXor&unscoped_q=bitwiseXor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 bitwiseXor( Object ds1, Object ds2 ) &rarr; QDataSet<br>
 ***
 <a name="buckshotInterpolate"></a>
@@ -113,6 +123,8 @@ the interpolated data.
 
 <a href="https://github.com/autoplot/dev/search?q=buckshotInterpolate&unscoped_q=buckshotInterpolate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 buckshotInterpolate( QDataSet xy, QDataSet data, QDataSet xinterp, QDataSet yinterp ) &rarr; QDataSet<br>
 ***
 <a name="bundle"></a>
@@ -128,6 +140,8 @@ ds - a rank N dataset
 rank N+1 bundle dataset
 
 <a href="https://github.com/autoplot/dev/search?q=bundle&unscoped_q=bundle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 bundle( QDataSet ds1, QDataSet ds2 ) &rarr; QDataSet<br>
 bundle( QDataSet ds1, QDataSet ds2, QDataSet ds3 ) &rarr; QDataSet<br>
@@ -153,6 +167,8 @@ the dataset in the same form.
 
 <a href="https://github.com/autoplot/dev/search?q=butterworth&unscoped_q=butterworth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 butterworth( QDataSet in, int order, Datum flow, Datum fhigh, boolean pass ) &rarr; QDataSet<br>
 ***
 <a name="bytarr"></a>
@@ -171,6 +187,8 @@ rank 1 dataset filled with zeros.
 <a href='Ops_d.md#dblarr'>dblarr(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=bytarr&unscoped_q=bytarr">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 bytarr( int len0, int len1 ) &rarr; QDataSet<br>
 bytarr( int len0, int len1, int len2 ) &rarr; QDataSet<br>

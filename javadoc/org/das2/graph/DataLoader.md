@@ -12,6 +12,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isActive&unscoped_q=isActive">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isFullResolution"></a>
 # isFullResolution
@@ -25,6 +27,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isFullResolution&unscoped_q=isFullResolution">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isReloadDataSet"></a>
 # isReloadDataSet
@@ -37,6 +41,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isReloadDataSet&unscoped_q=isReloadDataSet">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setActive"></a>
@@ -54,6 +60,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setActive&unscoped_q=setActive">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFullResolution"></a>
 # setFullResolution
@@ -69,6 +77,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFullResolution&unscoped_q=setFullResolution">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setReloadDataSet"></a>
@@ -86,6 +96,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setReloadDataSet&unscoped_q=setReloadDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="update"></a>
 # update
@@ -101,4 +113,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

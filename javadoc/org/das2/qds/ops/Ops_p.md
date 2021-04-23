@@ -14,6 +14,8 @@ bundle of X, Y, and remaining data.
 
 <a href="https://github.com/autoplot/dev/search?q=polarToCartesian&unscoped_q=polarToCartesian">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="pow"></a>
 # pow
@@ -30,6 +32,8 @@ ds1 - the base
 the value ds1**pow
 
 <a href="https://github.com/autoplot/dev/search?q=pow&unscoped_q=pow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 pow( long x, long y ) &rarr; long<br>
 pow( double x, double y ) &rarr; double<br>
@@ -57,6 +61,8 @@ the dataset, possibly converted to a mutable dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=putBundleProperty&unscoped_q=putBundleProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putIndexedProperty"></a>
 # putIndexedProperty
@@ -79,6 +85,8 @@ the dataset, possibly converted to a mutable dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=putIndexedProperty&unscoped_q=putIndexedProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="putProperty"></a>
 # putProperty
@@ -100,6 +108,8 @@ the dataset, possibly converted to a mutable dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=putProperty&unscoped_q=putProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 putProperty( QDataSet ds, String name, Object value ) &rarr; MutablePropertyDataSet<br>
 ***
 <a name="putValues"></a>
@@ -118,5 +128,7 @@ org.das2.qds.WritableDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=putValues&unscoped_q=putValues">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putValues( QDataSet ds, QDataSet indeces, QDataSet value ) &rarr; WritableDataSet<br>

@@ -12,6 +12,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=displayDefaultHelp&unscoped_q=displayDefaultHelp">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="displayHelpFromEvent"></a>
 # displayHelpFromEvent
@@ -28,6 +30,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=displayHelpFromEvent&unscoped_q=displayHelpFromEvent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 displayHelpFromEvent( java.awt.event.ActionEvent e, Object focus ) &rarr; void<br>
 ***
 <a name="getHelpSystem"></a>
@@ -41,6 +45,8 @@ Returns a reference to the help system, or <code>null</code> if it hasn't been
 the single instance
 
 <a href="https://github.com/autoplot/dev/search?q=getHelpSystem&unscoped_q=getHelpSystem">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="initialize"></a>
@@ -57,6 +63,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=initialize&unscoped_q=initialize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="registerHelpID"></a>
@@ -80,6 +88,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=registerHelpID&unscoped_q=registerHelpID">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="unregisterHelpID"></a>
 # unregisterHelpID
@@ -96,4 +106,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=unregisterHelpID&unscoped_q=unregisterHelpID">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

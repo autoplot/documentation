@@ -14,3 +14,5 @@ the colorbar
 
 <a href="https://github.com/autoplot/dev/search?q=getColorBar&unscoped_q=getColorBar">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

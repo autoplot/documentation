@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doDiff&unscoped_q=doDiff">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getAction"></a>
 # getAction
@@ -27,6 +29,8 @@ org.autoplot.dom.ArrayNodeDiff.Action
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAction&unscoped_q=getAction">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDescription"></a>
@@ -41,6 +45,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getDescription&unscoped_q=getDescription">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -53,6 +59,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getNode"></a>
@@ -67,6 +75,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getNode&unscoped_q=getNode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="propertyName"></a>
 # propertyName
@@ -80,6 +90,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=propertyName&unscoped_q=propertyName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -92,6 +104,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="undoDiff"></a>
@@ -108,4 +122,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=undoDiff&unscoped_q=undoDiff">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

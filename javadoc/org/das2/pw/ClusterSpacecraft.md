@@ -15,6 +15,8 @@ org.das2.pw.ClusterSpacecraft
 
 <a href="https://github.com/autoplot/dev/search?q=getByEsaNumber&unscoped_q=getByEsaNumber">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getByWbdStatusByte"></a>
 # getByWbdStatusByte
@@ -31,6 +33,8 @@ org.das2.pw.ClusterSpacecraft
 
 <a href="https://github.com/autoplot/dev/search?q=getByWbdStatusByte&unscoped_q=getByWbdStatusByte">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getColor"></a>
 # getColor
@@ -43,6 +47,8 @@ java.awt.Color
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColor&unscoped_q=getColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDsnNumber"></a>
@@ -57,6 +63,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getDsnNumber&unscoped_q=getDsnNumber">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEsaNumber"></a>
 # getEsaNumber
@@ -69,6 +77,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEsaNumber&unscoped_q=getEsaNumber">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getInstrumentNumber"></a>
@@ -83,6 +93,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getInstrumentNumber&unscoped_q=getInstrumentNumber">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getName"></a>
 # getName
@@ -96,6 +108,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getName&unscoped_q=getName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -108,4 +122,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="equals"></a>
 # equals
@@ -34,6 +36,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBindingContextId"></a>
 # getBindingContextId
@@ -46,6 +50,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBindingContextId&unscoped_q=getBindingContextId">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDstId"></a>
@@ -60,6 +66,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getDstId&unscoped_q=getDstId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDstProperty"></a>
 # getDstProperty
@@ -72,6 +80,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDstProperty&unscoped_q=getDstProperty">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSrcId"></a>
@@ -86,6 +96,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getSrcId&unscoped_q=getSrcId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSrcProperty"></a>
 # getSrcProperty
@@ -99,6 +111,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getSrcProperty&unscoped_q=getSrcProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hashCode"></a>
 # hashCode
@@ -111,6 +125,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -128,6 +144,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -140,4 +158,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

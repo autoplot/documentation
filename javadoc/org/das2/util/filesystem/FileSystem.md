@@ -39,6 +39,8 @@ the new FileSystem
 
 <a href="https://github.com/autoplot/dev/search?q=createFileSystem&unscoped_q=createFileSystem">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getExceptionHandler"></a>
 # getExceptionHandler
@@ -50,6 +52,8 @@ return the exception handler.
 the exception handler.
 
 <a href="https://github.com/autoplot/dev/search?q=getExceptionHandler&unscoped_q=getExceptionHandler">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFileObject"></a>
@@ -65,6 +69,8 @@ filename - the file name within the filesystem
 the FileObject
 
 <a href="https://github.com/autoplot/dev/search?q=getFileObject&unscoped_q=getFileObject">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getListing"></a>
@@ -82,6 +88,8 @@ des.name, and
 
 <a href="https://github.com/autoplot/dev/search?q=getListing&unscoped_q=getListing">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getListing( java.util.Map des ) &rarr; String<br>
 ***
 <a name="getLocalRoot"></a>
@@ -98,6 +106,8 @@ the folder that is a local copy of the filesystem.
 
 <a href="https://github.com/autoplot/dev/search?q=getLocalRoot&unscoped_q=getLocalRoot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getProperty"></a>
 # getProperty
@@ -113,6 +123,8 @@ the property value, e.g. Boolean.TRUE
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRootURI"></a>
 # getRootURI
@@ -125,6 +137,8 @@ a java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRootURI&unscoped_q=getRootURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDirectory"></a>
@@ -140,6 +154,8 @@ filename - the name
 true if the name is a directory.
 
 <a href="https://github.com/autoplot/dev/search?q=isDirectory&unscoped_q=isDirectory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="listDirectory"></a>
@@ -158,6 +174,8 @@ directory - the directory name within the filesystem.
 list of files and folders within the filesystem.
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectory&unscoped_q=listDirectory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 listDirectory( String directory, ProgressMonitor monitor ) &rarr; String<br>
 listDirectory( String directory, String regex ) &rarr; String<br>
@@ -179,6 +197,8 @@ the entire path of each matching name, including the directory within the filesy
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectoryDeep&unscoped_q=listDirectoryDeep">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="peek"></a>
 # peek
@@ -194,6 +214,8 @@ null if not existing, or the filesystem for the URI.
 
 <a href="https://github.com/autoplot/dev/search?q=peek&unscoped_q=peek">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="peekInstances"></a>
 # peekInstances
@@ -206,6 +228,8 @@ an org.das2.util.filesystem.FileSystem[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=peekInstances&unscoped_q=peekInstances">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="recreate"></a>
@@ -222,6 +246,8 @@ an org.das2.util.filesystem.FileSystem
 
 
 <a href="https://github.com/autoplot/dev/search?q=recreate&unscoped_q=recreate">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 recreate( java.net.URI root, ProgressMonitor mon ) &rarr; FileSystem<br>
 ***
@@ -242,6 +268,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=registerFileSystemFactory&unscoped_q=registerFileSystemFactory">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="reset"></a>
 # reset
@@ -254,6 +282,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 reset( org.das2.util.filesystem.FileSystem fs ) &rarr; void<br>
 ***
@@ -272,6 +302,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setExceptionHandler&unscoped_q=setExceptionHandler">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="settings"></a>
 # settings
@@ -283,6 +315,8 @@ access the file system settings.
 the single settings object.
 
 <a href="https://github.com/autoplot/dev/search?q=settings&unscoped_q=settings">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="splitUrl"></a>
@@ -308,6 +342,8 @@ the parsed URL.
 
 <a href="https://github.com/autoplot/dev/search?q=splitUrl&unscoped_q=splitUrl">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toCanonicalFilename"></a>
 # toCanonicalFilename
@@ -325,6 +361,8 @@ filename - name
 name with \ converted to /, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=toCanonicalFilename&unscoped_q=toCanonicalFilename">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="toCanonicalFolderName"></a>
@@ -344,4 +382,6 @@ name - folder name
 name with \ converted to /, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=toCanonicalFolderName&unscoped_q=toCanonicalFolderName">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -20,6 +20,8 @@ the result A of the fit y = A + B * x
 
 <a href="https://github.com/autoplot/dev/search?q=getA&unscoped_q=getA">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getB"></a>
 # getB
@@ -32,6 +34,8 @@ the result B of the fit y = A + B * x
 
 <a href="https://github.com/autoplot/dev/search?q=getB&unscoped_q=getB">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getChi2"></a>
 # getChi2
@@ -43,6 +47,8 @@ return the Chi-Squared result from the fit.
 the Chi-Squared result from the fit.
 
 <a href="https://github.com/autoplot/dev/search?q=getChi2&unscoped_q=getChi2">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getIntercept"></a>
@@ -57,6 +63,8 @@ a Datum
 
 <a href="https://github.com/autoplot/dev/search?q=getIntercept&unscoped_q=getIntercept">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getQ"></a>
 # getQ
@@ -69,6 +77,8 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getQ&unscoped_q=getQ">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSiga"></a>
@@ -83,6 +93,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getSiga&unscoped_q=getSiga">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSigb"></a>
 # getSigb
@@ -96,6 +108,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getSigb&unscoped_q=getSigb">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSlope"></a>
 # getSlope
@@ -108,4 +122,6 @@ return the slope (B of linear fit equation) as a datum with units of Yunits/Xuni
 the slope as a Datum with units.
 
 <a href="https://github.com/autoplot/dev/search?q=getSlope&unscoped_q=getSlope">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

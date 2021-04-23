@@ -153,6 +153,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="insert"></a>
 # insert
@@ -171,6 +173,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=insert&unscoped_q=insert">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -183,4 +187,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

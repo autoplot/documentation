@@ -22,6 +22,8 @@ true if there are more indeces in the iteration
 
 <a href="https://github.com/autoplot/dev/search?q=hasNext&unscoped_q=hasNext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="index"></a>
 # index
@@ -33,6 +35,8 @@ return the current index.
 the current index.
 
 <a href="https://github.com/autoplot/dev/search?q=index&unscoped_q=index">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="length"></a>
@@ -46,6 +50,8 @@ the length of the iteration.
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="nextIndex"></a>
 # nextIndex
@@ -57,4 +63,6 @@ return the next index of the iteration
 the next index of the iteration
 
 <a href="https://github.com/autoplot/dev/search?q=nextIndex&unscoped_q=nextIndex">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

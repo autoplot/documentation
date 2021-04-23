@@ -32,6 +32,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addDataSetUpdateListener&unscoped_q=addDataSetUpdateListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="create"></a>
 # create
@@ -59,6 +61,8 @@ the DataSetDescriptor for the id.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="drawListIcon"></a>
 # drawListIcon
@@ -76,6 +80,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=drawListIcon&unscoped_q=drawListIcon">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataSet"></a>
@@ -101,6 +107,8 @@ org.das2.dataset.DataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetCache"></a>
 # getDataSetCache
@@ -114,6 +122,8 @@ the DataSetCache object used to store cached copies of the
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetCache&unscoped_q=getDataSetCache">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDataSetID"></a>
 # getDataSetID
@@ -125,6 +135,8 @@ getDataSetID(  ) &rarr; String
 the string that uniquely identifies this dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetID&unscoped_q=getDataSetID">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getListIcon"></a>
@@ -139,6 +151,8 @@ javax.swing.Icon
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getListLabel"></a>
 # getListLabel
@@ -151,6 +165,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListLabel&unscoped_q=getListLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getProperty"></a>
@@ -167,6 +183,8 @@ The value of the requested property as an Object
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXUnits"></a>
 # getXUnits
@@ -178,6 +196,8 @@ getXUnits(  ) &rarr; Units
 the x units of the DataSetDescriptor that parameterize the data.  This is used to identify dataSet requests.
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeDataSetUpdateListener"></a>
@@ -194,6 +214,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataSetUpdateListener&unscoped_q=removeDataSetUpdateListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="requestDataSet"></a>
@@ -218,6 +240,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=requestDataSet&unscoped_q=requestDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 requestDataSet( Datum start, Datum end, Datum resolution, ProgressMonitor monitor, Object lockObject, org.das2.dataset.DataSetUpdateListener listener ) &rarr; void<br>
 ***
 <a name="reset"></a>
@@ -233,6 +257,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDefaultCaching"></a>
@@ -254,4 +280,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDefaultCaching&unscoped_q=setDefaultCaching">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

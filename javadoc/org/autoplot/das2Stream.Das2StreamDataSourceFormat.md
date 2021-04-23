@@ -18,6 +18,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=canFormat&unscoped_q=canFormat">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="formatData"></a>
 # formatData
@@ -36,6 +38,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=formatData&unscoped_q=formatData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBinary"></a>
 # getBinary
@@ -52,6 +56,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=getBinary&unscoped_q=getBinary">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDescription"></a>
 # getDescription
@@ -64,6 +70,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDescription&unscoped_q=getDescription">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFracSeconds"></a>
@@ -79,6 +87,8 @@ uri - An Autoplot URI string
 an integer from 0 to 12
 
 <a href="https://github.com/autoplot/dev/search?q=getFracSeconds&unscoped_q=getFracSeconds">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSigDigits"></a>
@@ -96,6 +106,8 @@ an integer from 2 to 14
 
 <a href="https://github.com/autoplot/dev/search?q=getSigDigits&unscoped_q=getSigDigits">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getVersion"></a>
 # getVersion
@@ -111,6 +123,8 @@ a string representing the version value.  Only the strings
          QdsToD2sStream.FORMAT_2_2 or QdsToD2sStream.FORMAT_2_3_BASIC are returned
 
 <a href="https://github.com/autoplot/dev/search?q=getVersion&unscoped_q=getVersion">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setOptions"></a>
@@ -132,4 +146,6 @@ an org.autoplot.datasource.URISplit
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOptions&unscoped_q=setOptions">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

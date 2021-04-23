@@ -90,6 +90,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addActionComponent&unscoped_q=addActionComponent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addFileAction"></a>
 # addFileAction
@@ -109,6 +111,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addFileAction&unscoped_q=addFileAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addTopDecorator"></a>
 # addTopDecorator
@@ -127,6 +131,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addTopDecorator&unscoped_q=addTopDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="clearBottomLeftPanel"></a>
 # clearBottomLeftPanel
@@ -139,6 +145,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearBottomLeftPanel&unscoped_q=clearBottomLeftPanel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="firePropertyChange"></a>
@@ -158,6 +166,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=firePropertyChange&unscoped_q=firePropertyChange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDigitizerDataPointRecorder"></a>
 # getDigitizerDataPointRecorder
@@ -170,6 +180,8 @@ provide access to the digitizer DataPointRecorder, so that points
 the DataPointRecorder.
 
 <a href="https://github.com/autoplot/dev/search?q=getDigitizerDataPointRecorder&unscoped_q=getDigitizerDataPointRecorder">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getImageMouseAdapter"></a>
@@ -184,6 +196,8 @@ java.awt.event.MouseAdapter
 
 <a href="https://github.com/autoplot/dev/search?q=getImageMouseAdapter&unscoped_q=getImageMouseAdapter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMousePressLocation"></a>
 # getMousePressLocation
@@ -196,6 +210,8 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMousePressLocation&unscoped_q=getMousePressLocation">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMouseReleaseLocation"></a>
@@ -210,6 +226,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseReleaseLocation&unscoped_q=getMouseReleaseLocation">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getNavigationPanel"></a>
 # getNavigationPanel
@@ -223,6 +241,8 @@ the navigation panel.
 
 <a href="https://github.com/autoplot/dev/search?q=getNavigationPanel&unscoped_q=getNavigationPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSelectedFile"></a>
 # getSelectedFile
@@ -235,6 +255,8 @@ the current selection or null if the sequence is not loaded or empty.
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedFile&unscoped_q=getSelectedFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSelectedImage"></a>
 # getSelectedImage
@@ -246,6 +268,8 @@ return the currently selected image.
 the currently selected image
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedImage&unscoped_q=getSelectedImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSelectedName"></a>
@@ -260,6 +284,8 @@ the name of the currently selected file.
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedName&unscoped_q=getSelectedName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSequence"></a>
 # getSequence
@@ -272,6 +298,8 @@ return the container for the sequence of images, which contains the
 the sequence.
 
 <a href="https://github.com/autoplot/dev/search?q=getSequence&unscoped_q=getSequence">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getStatus"></a>
@@ -286,6 +314,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getStatus&unscoped_q=getStatus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTabs"></a>
 # getTabs
@@ -297,6 +327,8 @@ provide means for scripts to add component to develop new applications.
 the TearoffTabbedPane used.
 
 <a href="https://github.com/autoplot/dev/search?q=getTabs&unscoped_q=getTabs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTemplate"></a>
@@ -311,6 +343,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getTemplate&unscoped_q=getTemplate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getThumbnailSize"></a>
 # getThumbnailSize
@@ -324,6 +358,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getThumbnailSize&unscoped_q=getThumbnailSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTimeRange"></a>
 # getTimeRange
@@ -335,6 +371,8 @@ rfe https://sourceforge.net/p/autoplot/feature-requests/271/
 the current timerange
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRange&unscoped_q=getTimeRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hasTopDecorators"></a>
@@ -348,6 +386,8 @@ true if there are any decorators.
 
 <a href="https://github.com/autoplot/dev/search?q=hasTopDecorators&unscoped_q=hasTopDecorators">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isQualityControlEnabled"></a>
 # isQualityControlEnabled
@@ -359,6 +399,8 @@ return true of the quality control panel is enabled.
 return true of the quality control panel is enabled.
 
 <a href="https://github.com/autoplot/dev/search?q=isQualityControlEnabled&unscoped_q=isQualityControlEnabled">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -375,6 +417,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeActionComponent"></a>
@@ -393,6 +437,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeActionComponent&unscoped_q=removeActionComponent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeTopDecorator"></a>
 # removeTopDecorator
@@ -410,6 +456,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeTopDecorator&unscoped_q=removeTopDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeTopDecorators"></a>
 # removeTopDecorators
@@ -422,6 +470,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeTopDecorators&unscoped_q=removeTopDecorators">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setBottomLeftPanel"></a>
@@ -440,6 +490,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setBottomLeftPanel&unscoped_q=setBottomLeftPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDigitizerRecording"></a>
 # setDigitizerRecording
@@ -455,6 +507,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDigitizerRecording&unscoped_q=setDigitizerRecording">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setImageMouseAdapter"></a>
@@ -473,6 +527,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setImageMouseAdapter&unscoped_q=setImageMouseAdapter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMessage"></a>
 # setMessage
@@ -488,6 +544,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMessage&unscoped_q=setMessage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setMessage( javax.swing.Icon icon, String message ) &rarr; void<br>
 ***
@@ -506,6 +564,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setMousePressLocation&unscoped_q=setMousePressLocation">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMouseReleaseLocation"></a>
 # setMouseReleaseLocation
@@ -521,6 +581,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMouseReleaseLocation&unscoped_q=setMouseReleaseLocation">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setQCStatus"></a>
@@ -538,6 +600,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setQCStatus&unscoped_q=setQCStatus">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSelectedName"></a>
@@ -557,6 +621,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSelectedName&unscoped_q=setSelectedName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setStatus"></a>
 # setStatus
@@ -572,6 +638,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStatus&unscoped_q=setStatus">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTemplate"></a>
@@ -589,6 +657,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTemplate&unscoped_q=setTemplate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setThumbnailSize"></a>
 # setThumbnailSize
@@ -604,6 +674,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setThumbnailSize&unscoped_q=setThumbnailSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTimeRange"></a>
@@ -623,6 +695,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeRange&unscoped_q=setTimeRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="start"></a>
 # start
@@ -639,6 +713,8 @@ a PngWalkTool, which is visible and packed.
 
 <a href="https://github.com/autoplot/dev/search?q=start&unscoped_q=start">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="startDigitizer"></a>
 # startDigitizer
@@ -651,6 +727,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=startDigitizer&unscoped_q=startDigitizer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="startQC"></a>
@@ -665,6 +743,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=startQC&unscoped_q=startQC">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="updateTimeRangeFilter"></a>
 # updateTimeRangeFilter
@@ -678,6 +758,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=updateTimeRangeFilter&unscoped_q=updateTimeRangeFilter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="writeAnimatedGif"></a>
 # writeAnimatedGif
@@ -690,6 +772,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeAnimatedGif&unscoped_q=writeAnimatedGif">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="writeContactSheet"></a>
@@ -707,6 +791,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=writeContactSheet&unscoped_q=writeContactSheet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="writeHtml"></a>
 # writeHtml
@@ -721,6 +807,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=writeHtml&unscoped_q=writeHtml">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="writePdf"></a>
 # writePdf
@@ -734,4 +822,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writePdf&unscoped_q=writePdf">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -13,6 +13,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=clearEventQueue&unscoped_q=clearEventQueue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="dumpEventQueue"></a>
 # dumpEventQueue
@@ -28,4 +30,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpEventQueue&unscoped_q=dumpEventQueue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

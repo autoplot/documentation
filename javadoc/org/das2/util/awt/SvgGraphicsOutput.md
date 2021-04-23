@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=finish&unscoped_q=finish">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getGraphics"></a>
 # getGraphics
@@ -28,6 +30,8 @@ java.awt.Graphics
 
 <a href="https://github.com/autoplot/dev/search?q=getGraphics&unscoped_q=getGraphics">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getGraphics2D"></a>
 # getGraphics2D
@@ -40,6 +44,8 @@ java.awt.Graphics2D
 
 
 <a href="https://github.com/autoplot/dev/search?q=getGraphics2D&unscoped_q=getGraphics2D">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setOutputStream"></a>
@@ -56,6 +62,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOutputStream&unscoped_q=setOutputStream">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setSize"></a>
@@ -74,6 +82,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setSize&unscoped_q=setSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="start"></a>
 # start
@@ -86,4 +96,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=start&unscoped_q=start">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

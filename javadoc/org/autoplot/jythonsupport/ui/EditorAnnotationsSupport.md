@@ -51,6 +51,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=annotateChars&unscoped_q=annotateChars">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 annotateChars( int i0, int i1, String name, String text, PythonInterpreter interp ) &rarr; void<br>
 ***
 <a name="annotateError"></a>
@@ -68,6 +70,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=annotateError&unscoped_q=annotateError">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="annotateLine"></a>
@@ -87,6 +91,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=annotateLine&unscoped_q=annotateLine">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 annotateLine( int lline, String name, String ltext, PythonInterpreter interp ) &rarr; void<br>
 ***
 <a name="clearAnnotations"></a>
@@ -101,6 +107,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=clearAnnotations&unscoped_q=clearAnnotations">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 clearAnnotations( int pos ) &rarr; void<br>
 ***
 <a name="getExpressionLookup"></a>
@@ -114,6 +122,8 @@ org.autoplot.jythonsupport.ui.EditorAnnotationsSupport.ExpressionLookup
 
 
 <a href="https://github.com/autoplot/dev/search?q=getExpressionLookup&unscoped_q=getExpressionLookup">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getForInterp"></a>
@@ -131,6 +141,8 @@ org.autoplot.jythonsupport.ui.EditorAnnotationsSupport.ExpressionLookup
 
 <a href="https://github.com/autoplot/dev/search?q=getForInterp&unscoped_q=getForInterp">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLinePosition"></a>
 # getLinePosition
@@ -146,6 +158,8 @@ line - the line number 1 is the first line.
 
 <a href="https://github.com/autoplot/dev/search?q=getLinePosition&unscoped_q=getLinePosition">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPreferredSize"></a>
 # getPreferredSize
@@ -157,6 +171,8 @@ The editor component should delegate to these.
 the preferred size
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferredSize&unscoped_q=getPreferredSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSymbolAt"></a>
@@ -174,6 +190,8 @@ the symbol (e.g. variable name) at the current caret location
 
 <a href="https://github.com/autoplot/dev/search?q=getSymbolAt&unscoped_q=getSymbolAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getToolTipText"></a>
 # getToolTipText
@@ -188,6 +206,8 @@ me - a MouseEvent
 the text
 
 <a href="https://github.com/autoplot/dev/search?q=getToolTipText&unscoped_q=getToolTipText">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="scrollToOffset"></a>
@@ -205,6 +225,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=scrollToOffset&unscoped_q=scrollToOffset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setExpressionLookup"></a>
 # setExpressionLookup
@@ -220,4 +242,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setExpressionLookup&unscoped_q=setExpressionLookup">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

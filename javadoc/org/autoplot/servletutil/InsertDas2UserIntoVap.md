@@ -21,3 +21,5 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=insertExtraParams&unscoped_q=insertExtraParams">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

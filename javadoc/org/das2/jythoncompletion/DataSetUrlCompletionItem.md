@@ -12,6 +12,8 @@ org.das2.jythoncompletion.support.CompletionTask
 
 <a href="https://github.com/autoplot/dev/search?q=createDocumentationTask&unscoped_q=createDocumentationTask">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createToolTipTask"></a>
 # createToolTipTask
@@ -24,6 +26,8 @@ org.das2.jythoncompletion.support.CompletionTask
 
 
 <a href="https://github.com/autoplot/dev/search?q=createToolTipTask&unscoped_q=createToolTipTask">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="defaultAction"></a>
@@ -41,6 +45,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=defaultAction&unscoped_q=defaultAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInsertPrefix"></a>
 # getInsertPrefix
@@ -54,6 +60,8 @@ java.lang.CharSequence
 
 <a href="https://github.com/autoplot/dev/search?q=getInsertPrefix&unscoped_q=getInsertPrefix">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -66,6 +74,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPreferredWidth"></a>
@@ -84,6 +94,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferredWidth&unscoped_q=getPreferredWidth">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSortPriority"></a>
 # getSortPriority
@@ -97,6 +109,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getSortPriority&unscoped_q=getSortPriority">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSortText"></a>
 # getSortText
@@ -109,6 +123,8 @@ java.lang.CharSequence
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSortText&unscoped_q=getSortText">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="instantSubstitution"></a>
@@ -126,6 +142,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=instantSubstitution&unscoped_q=instantSubstitution">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="processKeyEvent"></a>
 # processKeyEvent
@@ -141,6 +159,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=processKeyEvent&unscoped_q=processKeyEvent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="render"></a>
@@ -163,4 +183,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

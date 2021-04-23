@@ -15,6 +15,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addTreeModelListener&unscoped_q=addTreeModelListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="create"></a>
 # create
@@ -32,6 +34,8 @@ org.autoplot.metatree.NameValueTreeModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 create( Object root, java.util.Map map ) &rarr; NameValueTreeModel<br>
 ***
@@ -51,6 +55,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getChild&unscoped_q=getChild">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getChildCount"></a>
 # getChildCount
@@ -66,6 +72,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getChildCount&unscoped_q=getChildCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getIndexOfChild"></a>
@@ -84,6 +92,8 @@ int
 
 <a href="https://github.com/autoplot/dev/search?q=getIndexOfChild&unscoped_q=getIndexOfChild">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRoot"></a>
 # getRoot
@@ -96,6 +106,8 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRoot&unscoped_q=getRoot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isLeaf"></a>
@@ -113,6 +125,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isLeaf&unscoped_q=isLeaf">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeTreeModelListener"></a>
 # removeTreeModelListener
@@ -129,6 +143,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeTreeModelListener&unscoped_q=removeTreeModelListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -141,6 +157,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="valueForPathChanged"></a>
@@ -158,4 +176,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=valueForPathChanged&unscoped_q=valueForPathChanged">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -26,6 +26,8 @@ the ids
 
 <a href="https://github.com/autoplot/dev/search?q=getIds&unscoped_q=getIds">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTimeRange"></a>
 # getTimeRange
@@ -38,6 +40,8 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRange&unscoped_q=getTimeRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getUriForId"></a>
@@ -55,6 +59,8 @@ the URI or null if the name is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getUriForId&unscoped_q=getUriForId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUris"></a>
 # getUris
@@ -66,6 +72,8 @@ return the uris.
 the uris.
 
 <a href="https://github.com/autoplot/dev/search?q=getUris&unscoped_q=getUris">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isShowIds"></a>
@@ -79,6 +87,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowIds&unscoped_q=isShowIds">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="makeupName"></a>
@@ -95,6 +105,8 @@ the new name
 
 <a href="https://github.com/autoplot/dev/search?q=makeupName&unscoped_q=makeupName">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="refresh"></a>
 # refresh
@@ -107,6 +119,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=refresh&unscoped_q=refresh">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="selectDataId"></a>
@@ -123,6 +137,8 @@ null if nothing is selected, the URI otherwise.
 
 <a href="https://github.com/autoplot/dev/search?q=selectDataId&unscoped_q=selectDataId">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataMashUp"></a>
 # setDataMashUp
@@ -138,6 +154,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataMashUp&unscoped_q=setDataMashUp">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setIds"></a>
@@ -156,6 +174,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setIds&unscoped_q=setIds">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setIsAuto"></a>
 # setIsAuto
@@ -173,6 +193,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setIsAuto&unscoped_q=setIsAuto">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setShowIds"></a>
 # setShowIds
@@ -188,6 +210,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowIds&unscoped_q=setShowIds">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTimeRange"></a>
@@ -205,6 +229,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeRange&unscoped_q=setTimeRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setUris"></a>
 # setUris
@@ -221,4 +247,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUris&unscoped_q=setUris">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -26,6 +26,8 @@ a java.net.URL
 
 <a href="https://github.com/autoplot/dev/search?q=createURL&unscoped_q=createURL">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 createURL( java.net.URL server, String append, java.util.Map singletonMap ) &rarr; URL<br>
 ***
 <a name="getCatalog"></a>
@@ -43,6 +45,8 @@ list of catalog entries, which have "id" and "title" tags.
 
 <a href="https://github.com/autoplot/dev/search?q=getCatalog&unscoped_q=getCatalog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCatalogIds"></a>
 # getCatalogIds
@@ -58,6 +62,8 @@ server - the root of the server, which should should contain "catalog"
 list of dataset ids
 
 <a href="https://github.com/autoplot/dev/search?q=getCatalogIds&unscoped_q=getCatalogIds">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDataURL"></a>
@@ -77,6 +83,8 @@ the request, with the ID and parameters URL encoded.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataURL&unscoped_q=getDataURL">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInfo"></a>
 # getInfo
@@ -93,6 +101,8 @@ server - HAPI server.
 JSONObject containing information.
 
 <a href="https://github.com/autoplot/dev/search?q=getInfo&unscoped_q=getInfo">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getInfoURL"></a>
@@ -111,6 +121,8 @@ a java.net.URL
 
 <a href="https://github.com/autoplot/dev/search?q=getInfoURL&unscoped_q=getInfoURL">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getKnownServers"></a>
 # getKnownServers
@@ -123,6 +135,8 @@ known servers
 
 <a href="https://github.com/autoplot/dev/search?q=getKnownServers&unscoped_q=getKnownServers">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getKnownServersArray"></a>
 # getKnownServersArray
@@ -134,6 +148,8 @@ get known servers
 known servers
 
 <a href="https://github.com/autoplot/dev/search?q=getKnownServersArray&unscoped_q=getKnownServersArray">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getParameters"></a>
@@ -152,6 +168,8 @@ JSONArray
 
 <a href="https://github.com/autoplot/dev/search?q=getParameters&unscoped_q=getParameters">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRange"></a>
 # getRange
@@ -167,6 +185,8 @@ info - a JSONObject
 the range of available data.
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSampleTimeRange"></a>
@@ -184,6 +204,8 @@ a DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getSampleTimeRange&unscoped_q=getSampleTimeRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="listHapiServers"></a>
 # listHapiServers
@@ -198,6 +220,8 @@ list of server URLs.
 
 <a href="https://github.com/autoplot/dev/search?q=listHapiServers&unscoped_q=listHapiServers">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="listHapiServersArray"></a>
 # listHapiServersArray
@@ -209,6 +233,8 @@ add the default known servers, plus the ones we know about.
 list of servers
 
 <a href="https://github.com/autoplot/dev/search?q=listHapiServersArray&unscoped_q=listHapiServersArray">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="readFromCachedURL"></a>
@@ -226,6 +252,8 @@ the data or null.
 
 <a href="https://github.com/autoplot/dev/search?q=readFromCachedURL&unscoped_q=readFromCachedURL">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="readFromFile"></a>
 # readFromFile
@@ -240,6 +268,8 @@ f - non-empty file
 String containing file contents.
 
 <a href="https://github.com/autoplot/dev/search?q=readFromFile&unscoped_q=readFromFile">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="readFromURL"></a>
@@ -257,6 +287,8 @@ non-empty string
 
 <a href="https://github.com/autoplot/dev/search?q=readFromURL&unscoped_q=readFromURL">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="urlEncode"></a>
 # urlEncode
@@ -272,6 +304,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=urlEncode&unscoped_q=urlEncode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="writeToCachedURL"></a>
@@ -291,4 +325,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeToCachedURL&unscoped_q=writeToCachedURL">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -31,6 +31,8 @@ an org.das2.datum.RationalNumber
 
 <a href="https://github.com/autoplot/dev/search?q=divide&unscoped_q=divide">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doubleValue"></a>
 # doubleValue
@@ -44,6 +46,8 @@ a double
 
 <a href="https://github.com/autoplot/dev/search?q=doubleValue&unscoped_q=doubleValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isOne"></a>
 # isOne
@@ -56,6 +60,8 @@ true if the number is 1.
 
 <a href="https://github.com/autoplot/dev/search?q=isOne&unscoped_q=isOne">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isZero"></a>
 # isZero
@@ -67,6 +73,8 @@ return true if the number is 0.
 true if the number is 0.
 
 <a href="https://github.com/autoplot/dev/search?q=isZero&unscoped_q=isZero">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="multiply"></a>
@@ -83,6 +91,8 @@ an org.das2.datum.RationalNumber
 
 
 <a href="https://github.com/autoplot/dev/search?q=multiply&unscoped_q=multiply">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="parse"></a>
@@ -101,6 +111,8 @@ the RationalNumber
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="pow"></a>
 # pow
@@ -117,6 +129,8 @@ org.das2.datum.RationalNumber
 
 <a href="https://github.com/autoplot/dev/search?q=pow&unscoped_q=pow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="sqrt"></a>
 # sqrt
@@ -130,6 +144,8 @@ an org.das2.datum.RationalNumber
 
 <a href="https://github.com/autoplot/dev/search?q=sqrt&unscoped_q=sqrt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -142,4 +158,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

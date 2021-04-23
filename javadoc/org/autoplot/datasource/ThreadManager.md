@@ -13,6 +13,8 @@ org.autoplot.datasource.ThreadManager
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="run"></a>
 # run
@@ -29,4 +31,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=run&unscoped_q=run">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,6 +18,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getTransferData&unscoped_q=getTransferData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTransferDataFlavors"></a>
 # getTransferDataFlavors
@@ -29,6 +31,8 @@ return the flavors, either a string (the URI), or the internal BOOKMARK_FLAVOR
 the flavors
 
 <a href="https://github.com/autoplot/dev/search?q=getTransferDataFlavors&unscoped_q=getTransferDataFlavors">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDataFlavorSupported"></a>
@@ -45,4 +49,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDataFlavorSupported&unscoped_q=isDataFlavorSupported">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -33,6 +33,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="guessAsciiTransferType"></a>
 # guessAsciiTransferType
@@ -49,4 +51,6 @@ ds - the dataset
 the transfer type.
 
 <a href="https://github.com/autoplot/dev/search?q=guessAsciiTransferType&unscoped_q=guessAsciiTransferType">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -13,6 +13,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=continu&unscoped_q=continu">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEval"></a>
 # getEval
@@ -25,6 +27,8 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEval&unscoped_q=getEval">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getInstance"></a>
@@ -41,6 +45,8 @@ the DebuggerConsole.
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="next"></a>
 # next
@@ -53,6 +59,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="print"></a>
@@ -69,6 +77,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=print&unscoped_q=print">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 print( String s, Object state ) &rarr; void<br>
 ***
@@ -87,6 +97,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=println&unscoped_q=println">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEval"></a>
 # setEval
@@ -101,6 +113,8 @@ expr - a String
 the evaluation, if possible.
 
 <a href="https://github.com/autoplot/dev/search?q=setEval&unscoped_q=setEval">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setInterp"></a>
@@ -118,6 +132,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setInterp&unscoped_q=setInterp">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="up"></a>
 # up
@@ -130,4 +146,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=up&unscoped_q=up">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

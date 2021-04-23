@@ -21,6 +21,8 @@ org.das2.graph.DasCanvas
 
 <a href="https://github.com/autoplot/dev/search?q=createPopupCanvas&unscoped_q=createPopupCanvas">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPdfButtonAction"></a>
 # getPdfButtonAction
@@ -37,6 +39,8 @@ javax.swing.Action
 
 <a href="https://github.com/autoplot/dev/search?q=getPdfButtonAction&unscoped_q=getPdfButtonAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="verifyVisible"></a>
 # verifyVisible
@@ -52,4 +56,6 @@ r - a Rectangle
 null or a new suggested rectangle.
 
 <a href="https://github.com/autoplot/dev/search?q=verifyVisible&unscoped_q=verifyVisible">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

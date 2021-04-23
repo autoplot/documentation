@@ -29,6 +29,8 @@ PythonInterpreter ready for commands.
 
 <a href="https://github.com/autoplot/dev/search?q=createInterpreter&unscoped_q=createInterpreter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="describeScript"></a>
 # describeScript
@@ -46,6 +48,8 @@ an org.autoplot.jythonsupport.JythonUtil.ScriptDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=describeScript&unscoped_q=describeScript">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 describeScript( java.util.Map env, String script, java.util.Map params ) &rarr; ScriptDescriptor<br>
 ***
 <a name="errorScriptDescriptor"></a>
@@ -62,6 +66,8 @@ org.autoplot.jythonsupport.JythonUtil.ScriptDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=errorScriptDescriptor&unscoped_q=errorScriptDescriptor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDocumentation"></a>
@@ -89,6 +95,8 @@ the documentation found.
 
 <a href="https://github.com/autoplot/dev/search?q=getDocumentation&unscoped_q=getDocumentation">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getDocumentation( java.io.BufferedReader reader, java.net.URI resourceURI ) &rarr; Map<br>
 ***
 <a name="getGetDataSet"></a>
@@ -109,6 +117,8 @@ a java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=getGetDataSet&unscoped_q=getGetDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getGetParams"></a>
 # getGetParams
@@ -124,6 +134,8 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getGetParams&unscoped_q=getGetParams">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getGetParams( String script ) &rarr; List<br>
 getGetParams( String script, java.util.Map params ) &rarr; List<br>
@@ -145,6 +157,8 @@ a map of the local variable name to the line containing it.
 
 <a href="https://github.com/autoplot/dev/search?q=getLocals&unscoped_q=getLocals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="join"></a>
 # join
@@ -163,6 +177,8 @@ the joined string
 
 <a href="https://github.com/autoplot/dev/search?q=join&unscoped_q=join">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 join( java.util.List list, String delim ) &rarr; String<br>
 ***
 <a name="maybeQuoteString"></a>
@@ -180,6 +196,8 @@ sval - the string, for example "2015" "'2015'" or "2015-01-01"
 
 <a href="https://github.com/autoplot/dev/search?q=maybeQuoteString&unscoped_q=maybeQuoteString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="maybeUnquoteString"></a>
 # maybeUnquoteString
@@ -194,6 +212,8 @@ sval - "'2015-01-01'"
 "2015-01-01"
 
 <a href="https://github.com/autoplot/dev/search?q=maybeUnquoteString&unscoped_q=maybeUnquoteString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="pyDictionaryToMap"></a>
@@ -211,6 +231,8 @@ a java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=pyDictionaryToMap&unscoped_q=pyDictionaryToMap">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="pythonLint"></a>
 # pythonLint
@@ -226,6 +248,8 @@ uri - an URI
 true if an err is suspected.
 
 <a href="https://github.com/autoplot/dev/search?q=pythonLint&unscoped_q=pythonLint">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 pythonLint( java.io.LineNumberReader reader, java.util.List errs ) &rarr; boolean<br>
 ***
@@ -243,6 +267,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=readScript&unscoped_q=readScript">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeSideEffects"></a>
@@ -266,6 +292,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setParams&unscoped_q=setParams">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setupInterp"></a>
 # setupInterp
@@ -286,6 +314,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setupInterp&unscoped_q=setupInterp">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="simplifyScriptToGetParams"></a>
@@ -317,6 +347,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=simplifyScriptToGetParams&unscoped_q=simplifyScriptToGetParams">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 simplifyScriptToGetParams( String script, boolean addSort ) &rarr; String<br>
 ***
 <a name="splitCodeIntoLines"></a>
@@ -338,4 +370,6 @@ the script with the first line of the script in array[1].
 <a href='SimplifyScriptSupport.md#simplifyScriptToGetCompletions'>SimplifyScriptSupport#simplifyScriptToGetCompletions(java.lang.String[], org.python.parser.ast.stmtType[], java.util.HashSet, int, int, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=splitCodeIntoLines&unscoped_q=splitCodeIntoLines">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

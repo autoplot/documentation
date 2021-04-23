@@ -24,6 +24,8 @@ javax.swing.plaf.ComponentUI
 
 <a href="https://github.com/autoplot/dev/search?q=createUI&unscoped_q=createUI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hyperlinkUpdate"></a>
 # hyperlinkUpdate
@@ -39,4 +41,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=hyperlinkUpdate&unscoped_q=hyperlinkUpdate">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -20,6 +20,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=newDatumRange&unscoped_q=newDatumRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="newTimeRange"></a>
 # newTimeRange
@@ -37,6 +39,8 @@ a DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=newTimeRange&unscoped_q=newTimeRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="writeObject"></a>
 # writeObject
@@ -53,4 +57,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeObject&unscoped_q=writeObject">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

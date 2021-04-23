@@ -49,6 +49,8 @@ the double or
 
 <a href="https://github.com/autoplot/dev/search?q=doubleValue&unscoped_q=doubleValue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -61,6 +63,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getValidRange"></a>
@@ -79,6 +83,8 @@ attrs - the ISTP attributes
 the range.
 
 <a href="https://github.com/autoplot/dev/search?q=getValidRange&unscoped_q=getValidRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="maybeReduceRank2"></a>
@@ -99,6 +105,8 @@ the rank 1 dataset or null.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeReduceRank2&unscoped_q=maybeReduceRank2">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="properties"></a>
 # properties
@@ -114,4 +122,6 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=properties&unscoped_q=properties">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=defaultAction&unscoped_q=defaultAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="instantSubstitution"></a>
 # instantSubstitution
@@ -33,4 +35,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=instantSubstitution&unscoped_q=instantSubstitution">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

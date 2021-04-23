@@ -211,6 +211,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addCustomizer&unscoped_q=addCustomizer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addRenderer"></a>
 # addRenderer
@@ -227,6 +229,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addRenderer&unscoped_q=addRenderer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addRenderer( int index, org.das2.graph.Renderer rend ) &rarr; void<br>
 ***
@@ -248,6 +252,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addToLegend&unscoped_q=addToLegend">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="contains"></a>
 # contains
@@ -265,6 +271,8 @@ true if the plot "contains" this point.
 
 <a href="https://github.com/autoplot/dev/search?q=contains&unscoped_q=contains">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="containsRenderer"></a>
 # containsRenderer
@@ -279,6 +287,8 @@ rend - the renderer
 true if the plot contains the renderer.
 
 <a href="https://github.com/autoplot/dev/search?q=containsRenderer&unscoped_q=containsRenderer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createDummyPlot"></a>
@@ -297,6 +307,8 @@ JOptionPane.showConfirmDialog(None,c)
 a DasPlot, reader to be added to a canvas.
 
 <a href="https://github.com/autoplot/dev/search?q=createDummyPlot&unscoped_q=createDummyPlot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="createPlot"></a>
@@ -320,6 +332,8 @@ a DasPlot, reader to be added to a canvas.
 
 <a href="https://github.com/autoplot/dev/search?q=createPlot&unscoped_q=createPlot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="findRendererAt"></a>
 # findRendererAt
@@ -337,6 +351,8 @@ the index of the renderer at the position, or -1 if no renderer is at the positi
 
 <a href="https://github.com/autoplot/dev/search?q=findRendererAt&unscoped_q=findRendererAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getActiveRegion"></a>
 # getActiveRegion
@@ -348,6 +364,8 @@ return a Shape containing the plot.
 a shape containing the active plot.
 
 <a href="https://github.com/autoplot/dev/search?q=getActiveRegion&unscoped_q=getActiveRegion">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getAxisClip"></a>
@@ -363,6 +381,8 @@ Rectangle in canvas coordinates.
 
 <a href="https://github.com/autoplot/dev/search?q=getAxisClip&unscoped_q=getAxisClip">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getBottomDecorator"></a>
 # getBottomDecorator
@@ -375,6 +395,8 @@ org.das2.graph.Painter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBottomDecorator&unscoped_q=getBottomDecorator">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getContext"></a>
@@ -393,6 +415,8 @@ the context
 
 <a href="https://github.com/autoplot/dev/search?q=getContext&unscoped_q=getContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCustomizer"></a>
 # getCustomizer
@@ -409,6 +433,8 @@ org.das2.graph.Customizer
 
 <a href="https://github.com/autoplot/dev/search?q=getCustomizer&unscoped_q=getCustomizer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getCustomizerKeys"></a>
 # getCustomizerKeys
@@ -420,6 +446,8 @@ Return a list of keys of all current customizing objects in the order they would
 the keys
 
 <a href="https://github.com/autoplot/dev/search?q=getCustomizerKeys&unscoped_q=getCustomizerKeys">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDasColorBar"></a>
@@ -435,6 +463,8 @@ null if not found or the dasColorBar most visible.
 
 <a href="https://github.com/autoplot/dev/search?q=getDasColorBar&unscoped_q=getDasColorBar">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDisplayContext"></a>
 # getDisplayContext
@@ -449,6 +479,8 @@ the property value
 
 <a href="https://github.com/autoplot/dev/search?q=getDisplayContext&unscoped_q=getDisplayContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDrawBackground"></a>
 # getDrawBackground
@@ -460,6 +492,8 @@ return the background color, where alpha=0 (transparent) means don't draw the ba
 the background color.
 
 <a href="https://github.com/autoplot/dev/search?q=getDrawBackground&unscoped_q=getDrawBackground">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDrawGridColor"></a>
@@ -475,6 +509,8 @@ the grid color
 
 <a href="https://github.com/autoplot/dev/search?q=getDrawGridColor&unscoped_q=getDrawGridColor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFocusRenderer"></a>
 # getFocusRenderer
@@ -486,6 +522,8 @@ get the current renderer that the operator has selected.
 the current renderer that the operator has selected.
 
 <a href="https://github.com/autoplot/dev/search?q=getFocusRenderer&unscoped_q=getFocusRenderer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getFontSize"></a>
@@ -499,6 +537,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFontSize&unscoped_q=getFontSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLegendPosition"></a>
@@ -515,6 +555,8 @@ the current legend position
 
 <a href="https://github.com/autoplot/dev/search?q=getLegendPosition&unscoped_q=getLegendPosition">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLegendRelativeFontSize"></a>
 # getLegendRelativeFontSize
@@ -529,6 +571,8 @@ the current relative size of the legend in points.
 
 <a href="https://github.com/autoplot/dev/search?q=getLegendRelativeFontSize&unscoped_q=getLegendRelativeFontSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLineThickness"></a>
 # getLineThickness
@@ -541,6 +585,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLineThickness&unscoped_q=getLineThickness">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getLogLevel"></a>
@@ -556,6 +602,8 @@ level
 
 <a href="https://github.com/autoplot/dev/search?q=getLogLevel&unscoped_q=getLogLevel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLogTimeoutSec"></a>
 # getLogTimeoutSec
@@ -570,6 +618,8 @@ property value
 
 <a href="https://github.com/autoplot/dev/search?q=getLogTimeoutSec&unscoped_q=getLogTimeoutSec">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMultiLineTextAlignment"></a>
 # getMultiLineTextAlignment
@@ -581,6 +631,8 @@ get the horizontal alignment for multiline labels, where 0 is left, 0.5 is cente
 the alignment
 
 <a href="https://github.com/autoplot/dev/search?q=getMultiLineTextAlignment&unscoped_q=getMultiLineTextAlignment">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPaintCount"></a>
@@ -595,6 +647,8 @@ the number of times the component has painted itself.
 
 <a href="https://github.com/autoplot/dev/search?q=getPaintCount&unscoped_q=getPaintCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPrintingLogLevel"></a>
 # getPrintingLogLevel
@@ -608,6 +662,8 @@ the level
 <a href='#PROP_PRINTINGLOGLEVEL'>PROP_PRINTINGLOGLEVEL</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getPrintingLogLevel&unscoped_q=getPrintingLogLevel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getRenderer"></a>
@@ -624,6 +680,8 @@ the renderer
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderer&unscoped_q=getRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRenderers"></a>
 # getRenderers
@@ -636,6 +694,8 @@ return a list of the renderers, which paint the data on to the plot.
 the Renderer
 
 <a href="https://github.com/autoplot/dev/search?q=getRenderers&unscoped_q=getRenderers">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTitle"></a>
@@ -651,6 +711,8 @@ The plot title
 
 <a href="https://github.com/autoplot/dev/search?q=getTitle&unscoped_q=getTitle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTopDecorator"></a>
 # getTopDecorator
@@ -664,6 +726,8 @@ org.das2.graph.Painter
 
 <a href="https://github.com/autoplot/dev/search?q=getTopDecorator&unscoped_q=getTopDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getXAxis"></a>
 # getXAxis
@@ -676,6 +740,8 @@ the x axis
 
 <a href="https://github.com/autoplot/dev/search?q=getXAxis&unscoped_q=getXAxis">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getYAxis"></a>
 # getYAxis
@@ -687,6 +753,8 @@ return the y (vertical) axis
 the y axis
 
 <a href="https://github.com/autoplot/dev/search?q=getYAxis&unscoped_q=getYAxis">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="invalidateCacheImage"></a>
@@ -702,6 +770,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=invalidateCacheImage&unscoped_q=invalidateCacheImage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="invalidateCacheImageNoUpdate"></a>
 # invalidateCacheImageNoUpdate
@@ -716,6 +786,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=invalidateCacheImageNoUpdate&unscoped_q=invalidateCacheImageNoUpdate">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isCacheImageValid"></a>
 # isCacheImageValid
@@ -728,6 +800,8 @@ true if the cache image is marked as valid.
 
 <a href="https://github.com/autoplot/dev/search?q=isCacheImageValid&unscoped_q=isCacheImageValid">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDisplayLegend"></a>
 # isDisplayLegend
@@ -739,6 +813,8 @@ true if the legend should be displayed
 true if the legend should be displayed
 
 <a href="https://github.com/autoplot/dev/search?q=isDisplayLegend&unscoped_q=isDisplayLegend">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDisplayTitle"></a>
@@ -754,6 +830,8 @@ the current state.
 
 <a href="https://github.com/autoplot/dev/search?q=isDisplayTitle&unscoped_q=isDisplayTitle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDrawDebugMessages"></a>
 # isDrawDebugMessages
@@ -768,6 +846,8 @@ true if the messages should be shown.
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawDebugMessages&unscoped_q=isDrawDebugMessages">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDrawGrid"></a>
 # isDrawGrid
@@ -780,6 +860,8 @@ Getter for property drawGrid.  If true, faint grey lines continue the axis major
 Value of property drawGrid.
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawGrid&unscoped_q=isDrawGrid">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isDrawGridOver"></a>
@@ -795,6 +877,8 @@ true if the grid is on top of the data.
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawGridOver&unscoped_q=isDrawGridOver">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isDrawMinorGrid"></a>
 # isDrawMinorGrid
@@ -808,6 +892,8 @@ the value of drawMinorGrid
 <a href='#PROP_DRAWMINORGRID'>PROP_DRAWMINORGRID</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawMinorGrid&unscoped_q=isDrawMinorGrid">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isIsotropic"></a>
@@ -823,6 +909,8 @@ property value
 
 <a href="https://github.com/autoplot/dev/search?q=isIsotropic&unscoped_q=isIsotropic">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isOverSize"></a>
 # isOverSize
@@ -837,6 +925,8 @@ oversize property
 
 <a href="https://github.com/autoplot/dev/search?q=isOverSize&unscoped_q=isOverSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isPlotVisible"></a>
 # isPlotVisible
@@ -850,6 +940,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isPlotVisible&unscoped_q=isPlotVisible">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isPreviewEnabled"></a>
 # isPreviewEnabled
@@ -862,6 +954,8 @@ true if the data rendering will be scaled immediately to indicate
 true if preview is enabled.
 
 <a href="https://github.com/autoplot/dev/search?q=isPreviewEnabled&unscoped_q=isPreviewEnabled">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="postException"></a>
@@ -882,6 +976,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=postException&unscoped_q=postException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="postMessage"></a>
@@ -907,6 +1003,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=postMessage&unscoped_q=postMessage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 postMessage( org.das2.graph.Renderer renderer, String message, java.util.logging.Level messageLevel, Datum x, Datum y ) &rarr; void<br>
 ***
 <a name="releaseAll"></a>
@@ -924,6 +1022,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=releaseAll&unscoped_q=releaseAll">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeCustomizer"></a>
 # removeCustomizer
@@ -939,6 +1039,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeCustomizer&unscoped_q=removeCustomizer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removeRenderer"></a>
@@ -957,6 +1059,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeRenderer&unscoped_q=removeRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeRenderers"></a>
 # removeRenderers
@@ -969,6 +1073,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeRenderers&unscoped_q=removeRenderers">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="repaint"></a>
@@ -984,6 +1090,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=repaint&unscoped_q=repaint">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resetPaintCount"></a>
 # resetPaintCount
@@ -997,6 +1105,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=resetPaintCount&unscoped_q=resetPaintCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resize"></a>
 # resize
@@ -1009,6 +1119,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAxisPlotVisible"></a>
@@ -1028,6 +1140,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAxisPlotVisible&unscoped_q=setAxisPlotVisible">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setBottomDecorator"></a>
 # setBottomDecorator
@@ -1044,6 +1158,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBottomDecorator&unscoped_q=setBottomDecorator">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setContext"></a>
@@ -1067,6 +1183,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setContext&unscoped_q=setContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDisplayContext"></a>
 # setDisplayContext
@@ -1085,6 +1203,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDisplayContext&unscoped_q=setDisplayContext">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDisplayLegend"></a>
 # setDisplayLegend
@@ -1100,6 +1220,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDisplayLegend&unscoped_q=setDisplayLegend">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDisplayTitle"></a>
@@ -1121,6 +1243,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDisplayTitle&unscoped_q=setDisplayTitle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDrawBackground"></a>
 # setDrawBackground
@@ -1136,6 +1260,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawBackground&unscoped_q=setDrawBackground">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDrawDebugMessages"></a>
@@ -1155,6 +1281,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawDebugMessages&unscoped_q=setDrawDebugMessages">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDrawGrid"></a>
 # setDrawGrid
@@ -1172,6 +1300,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawGrid&unscoped_q=setDrawGrid">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDrawGridColor"></a>
 # setDrawGridColor
@@ -1188,6 +1318,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawGridColor&unscoped_q=setDrawGridColor">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDrawGridOver"></a>
@@ -1207,6 +1339,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawGridOver&unscoped_q=setDrawGridOver">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDrawMinorGrid"></a>
 # setDrawMinorGrid
@@ -1222,6 +1356,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawMinorGrid&unscoped_q=setDrawMinorGrid">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setEnableRenderPropertiesAction"></a>
@@ -1242,6 +1378,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setEnableRenderPropertiesAction&unscoped_q=setEnableRenderPropertiesAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFocusRenderer"></a>
 # setFocusRenderer
@@ -1258,6 +1396,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setFocusRenderer&unscoped_q=setFocusRenderer">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFontSize"></a>
 # setFontSize
@@ -1273,6 +1413,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFontSize&unscoped_q=setFontSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setIsotropic"></a>
@@ -1292,6 +1434,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setIsotropic&unscoped_q=setIsotropic">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLegendPosition"></a>
 # setLegendPosition
@@ -1309,6 +1453,8 @@ void (returns nothing)
 <a href='#PROP_LEGENDPOSITION'>PROP_LEGENDPOSITION</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setLegendPosition&unscoped_q=setLegendPosition">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLegendRelativeFontSize"></a>
@@ -1328,6 +1474,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLegendRelativeFontSize&unscoped_q=setLegendRelativeFontSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLineThickness"></a>
 # setLineThickness
@@ -1343,6 +1491,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLineThickness&unscoped_q=setLineThickness">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLogLevel"></a>
@@ -1362,6 +1512,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLogLevel&unscoped_q=setLogLevel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLogTimeoutSec"></a>
 # setLogTimeoutSec
@@ -1380,6 +1532,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLogTimeoutSec&unscoped_q=setLogTimeoutSec">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setMultiLineTextAlignment"></a>
 # setMultiLineTextAlignment
@@ -1395,6 +1549,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMultiLineTextAlignment&unscoped_q=setMultiLineTextAlignment">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setOverSize"></a>
@@ -1414,6 +1570,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setOverSize&unscoped_q=setOverSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPlotVisible"></a>
 # setPlotVisible
@@ -1429,6 +1587,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotVisible&unscoped_q=setPlotVisible">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPreviewEnabled"></a>
@@ -1446,6 +1606,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPreviewEnabled&unscoped_q=setPreviewEnabled">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setPrintingLogLevel"></a>
@@ -1465,6 +1627,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setPrintingLogLevel&unscoped_q=setPrintingLogLevel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setReduceOutsideLegendTopMargin"></a>
 # setReduceOutsideLegendTopMargin
@@ -1480,6 +1644,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReduceOutsideLegendTopMargin&unscoped_q=setReduceOutsideLegendTopMargin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTitle"></a>
@@ -1500,6 +1666,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTitle&unscoped_q=setTitle">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTopDecorator"></a>
 # setTopDecorator
@@ -1517,6 +1685,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTopDecorator&unscoped_q=setTopDecorator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setXAxis"></a>
 # setXAxis
@@ -1533,6 +1703,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setXAxis&unscoped_q=setXAxis">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setYAxis"></a>
@@ -1555,4 +1727,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setYAxis&unscoped_q=setYAxis">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

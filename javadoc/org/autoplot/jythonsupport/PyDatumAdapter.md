@@ -18,6 +18,8 @@ PyObject
 
 <a href="https://github.com/autoplot/dev/search?q=adapt&unscoped_q=adapt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="canAdapt"></a>
 # canAdapt
@@ -33,4 +35,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=canAdapt&unscoped_q=canAdapt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

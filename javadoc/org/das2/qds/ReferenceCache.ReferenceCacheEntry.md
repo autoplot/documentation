@@ -17,6 +17,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=exception&unscoped_q=exception">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="finished"></a>
 # finished
@@ -35,6 +37,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=finished&unscoped_q=finished">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="park"></a>
 # park
@@ -49,6 +53,8 @@ mon - monitor that will monitor the load status.
 the dataset
 
 <a href="https://github.com/autoplot/dev/search?q=park&unscoped_q=park">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="shouldILoad"></a>
@@ -66,6 +72,8 @@ true if the data should be loaded.
 
 <a href="https://github.com/autoplot/dev/search?q=shouldILoad&unscoped_q=shouldILoad">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -79,6 +87,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="wasGarbageCollected"></a>
 # wasGarbageCollected
@@ -90,4 +100,6 @@ returns true if the entry was loaded, but now has been garbage collected.
 true if the reference was garbage collected and is no longer available.
 
 <a href="https://github.com/autoplot/dev/search?q=wasGarbageCollected&unscoped_q=wasGarbageCollected">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

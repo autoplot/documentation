@@ -25,6 +25,8 @@ org.das2.qds.MutablePropertyDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=cefReadData&unscoped_q=cefReadData">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doParse"></a>
 # doParse
@@ -41,6 +43,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=doParse&unscoped_q=doParse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="skipParse"></a>
 # skipParse
@@ -56,4 +60,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=skipParse&unscoped_q=skipParse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

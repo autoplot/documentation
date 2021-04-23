@@ -16,6 +16,8 @@ an org.autoplot.bookmarks.Bookmark
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="equals"></a>
 # equals
@@ -32,6 +34,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getUri"></a>
 # getUri
@@ -43,6 +47,8 @@ Getter for property uri.
 Value of property uri.
 
 <a href="https://github.com/autoplot/dev/search?q=getUri&unscoped_q=getUri">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="hashCode"></a>
@@ -56,6 +62,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setUri"></a>
@@ -72,4 +80,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUri&unscoped_q=setUri">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

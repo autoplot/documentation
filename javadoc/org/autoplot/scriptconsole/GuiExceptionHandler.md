@@ -113,6 +113,8 @@ the formatted report.
 
 <a href="https://github.com/autoplot/dev/search?q=formatReport&unscoped_q=formatReport">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="handle"></a>
 # handle
@@ -128,6 +130,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=handle&unscoped_q=handle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="handleUncaught"></a>
@@ -145,6 +149,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=handleUncaught&unscoped_q=handleUncaught">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hashCode"></a>
 # hashCode
@@ -159,6 +165,8 @@ ee - the stack trace.
 the hash
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 hashCode( java.lang.Throwable t ) &rarr; int<br>
 ***
@@ -177,6 +185,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="safe"></a>
 # safe
@@ -192,6 +202,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=safe&unscoped_q=safe">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setApplicationModel"></a>
@@ -209,6 +221,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setApplicationModel&unscoped_q=setApplicationModel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFocusURI"></a>
 # setFocusURI
@@ -224,6 +238,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFocusURI&unscoped_q=setFocusURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLogConsole"></a>
@@ -241,6 +257,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLogConsole&unscoped_q=setLogConsole">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setScriptPanel"></a>
 # setScriptPanel
@@ -256,6 +274,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setScriptPanel&unscoped_q=setScriptPanel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setUndoRedoSupport"></a>
@@ -273,6 +293,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setUndoRedoSupport&unscoped_q=setUndoRedoSupport">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="submitFeedback"></a>
 # submitFeedback
@@ -288,6 +310,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=submitFeedback&unscoped_q=submitFeedback">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="submitRuntimeException"></a>
@@ -305,4 +329,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=submitRuntimeException&unscoped_q=submitRuntimeException">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

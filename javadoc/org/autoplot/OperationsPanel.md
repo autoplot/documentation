@@ -34,6 +34,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFilter"></a>
 # getFilter
@@ -47,6 +49,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getFilter&unscoped_q=getFilter">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getFiltersChainPanel"></a>
 # getFiltersChainPanel
@@ -58,6 +62,8 @@ useful for testing, and this may be removed.
 the filterChainPanel.
 
 <a href="https://github.com/autoplot/dev/search?q=getFiltersChainPanel&unscoped_q=getFiltersChainPanel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isAdjusting"></a>
@@ -71,6 +77,8 @@ java.lang.Boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAdjusting&unscoped_q=isAdjusting">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -88,6 +96,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setAdjusting"></a>
 # setAdjusting
@@ -103,6 +113,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAdjusting&unscoped_q=setAdjusting">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSet"></a>
@@ -120,6 +132,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setExpertMode"></a>
 # setExpertMode
@@ -136,6 +150,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setExpertMode&unscoped_q=setExpertMode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setFilter"></a>
 # setFilter
@@ -151,4 +167,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFilter&unscoped_q=setFilter">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

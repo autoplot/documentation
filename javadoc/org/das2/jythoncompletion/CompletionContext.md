@@ -87,6 +87,8 @@ a java.lang.Class
 
 <a href="https://github.com/autoplot/dev/search?q=getContextObjectClass&unscoped_q=getContextObjectClass">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setContextObjectClass"></a>
 # setContextObjectClass
@@ -103,6 +105,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setContextObjectClass&unscoped_q=setContextObjectClass">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -115,4 +119,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

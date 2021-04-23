@@ -16,6 +16,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deserialize&unscoped_q=deserialize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="serialize"></a>
 # serialize
@@ -32,4 +34,6 @@ org.w3c.dom.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=serialize&unscoped_q=serialize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

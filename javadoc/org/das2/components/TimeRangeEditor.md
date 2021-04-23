@@ -26,6 +26,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addPropertyChangeListener( java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="addTimeRangeSelectionListener"></a>
@@ -43,6 +45,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addTimeRangeSelectionListener&unscoped_q=addTimeRangeSelectionListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="enableFavorites"></a>
 # enableFavorites
@@ -59,6 +63,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=enableFavorites&unscoped_q=enableFavorites">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getEndTime"></a>
 # getEndTime
@@ -71,6 +77,8 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEndTime&unscoped_q=getEndTime">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getMaximumSize"></a>
@@ -85,6 +93,8 @@ java.awt.Dimension
 
 <a href="https://github.com/autoplot/dev/search?q=getMaximumSize&unscoped_q=getMaximumSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getMinimumSize"></a>
 # getMinimumSize
@@ -97,6 +107,8 @@ java.awt.Dimension
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMinimumSize&unscoped_q=getMinimumSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPanel"></a>
@@ -111,6 +123,8 @@ the GUI panel.
 
 <a href="https://github.com/autoplot/dev/search?q=getPanel&unscoped_q=getPanel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRange"></a>
 # getRange
@@ -124,6 +138,8 @@ org.das2.datum.DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getStartTime"></a>
 # getStartTime
@@ -136,6 +152,8 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStartTime&unscoped_q=getStartTime">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isWithin"></a>
@@ -154,6 +172,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isWithin&unscoped_q=isWithin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removePropertyChangeListener"></a>
 # removePropertyChangeListener
@@ -170,6 +190,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removePropertyChangeListener( java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
@@ -188,6 +210,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=removeTimeRangeSelectionListener&unscoped_q=removeTimeRangeSelectionListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setEndTime"></a>
 # setEndTime
@@ -203,6 +227,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEndTime&unscoped_q=setEndTime">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRange"></a>
@@ -220,6 +246,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setRange&unscoped_q=setRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setStartTime"></a>
 # setStartTime
@@ -236,6 +264,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setStartTime&unscoped_q=setStartTime">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="timeRangeSelected"></a>
 # timeRangeSelected
@@ -251,4 +281,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=timeRangeSelected&unscoped_q=timeRangeSelected">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

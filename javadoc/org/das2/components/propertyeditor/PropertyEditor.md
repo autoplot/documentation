@@ -24,6 +24,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addSaveAction&unscoped_q=addSaveAction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createPeersEditor"></a>
 # createPeersEditor
@@ -40,6 +42,8 @@ a PropertyEditor for editing several beans at once.
 
 <a href="https://github.com/autoplot/dev/search?q=createPeersEditor&unscoped_q=createPeersEditor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doLayout"></a>
 # doLayout
@@ -52,6 +56,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=doLayout&unscoped_q=doLayout">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getDialog"></a>
@@ -68,6 +74,8 @@ the dialog.
 
 <a href="https://github.com/autoplot/dev/search?q=getDialog&unscoped_q=getDialog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getListenForExternalChanges"></a>
 # getListenForExternalChanges
@@ -80,6 +88,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListenForExternalChanges&unscoped_q=getListenForExternalChanges">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isBean"></a>
@@ -97,6 +107,8 @@ true if the object has an addPropertyChangeListener method.
 
 <a href="https://github.com/autoplot/dev/search?q=isBean&unscoped_q=isBean">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="refresh"></a>
 # refresh
@@ -109,6 +121,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=refresh&unscoped_q=refresh">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setListenForExternalChanges"></a>
@@ -126,6 +140,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setListenForExternalChanges&unscoped_q=setListenForExternalChanges">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="showDialog"></a>
 # showDialog
@@ -141,6 +157,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showDialog&unscoped_q=showDialog">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 showDialog( java.awt.Component c, String title, java.awt.Image icon ) &rarr; void<br>
 ***
@@ -158,4 +176,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showModalDialog&unscoped_q=showModalDialog">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

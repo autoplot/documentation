@@ -15,6 +15,8 @@ float
 
 <a href="https://github.com/autoplot/dev/search?q=fvalue&unscoped_q=fvalue">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 fvalue( int i0 ) &rarr; float<br>
 fvalue( int i0, int i1 ) &rarr; float<br>
 fvalue( int i0, int i1, int i2 ) &rarr; float<br>

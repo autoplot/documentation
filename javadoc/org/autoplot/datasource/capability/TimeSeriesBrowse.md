@@ -33,6 +33,8 @@ the URI simplified by removing the timerange and resolution.
 
 <a href="https://github.com/autoplot/dev/search?q=blurURI&unscoped_q=blurURI">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTimeRange"></a>
 # getTimeRange
@@ -45,6 +47,8 @@ get the time range for the current view of the timeseries.  Note this
 the current time range.
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRange&unscoped_q=getTimeRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTimeResolution"></a>
@@ -60,6 +64,8 @@ the resolution for the current view of the timeseries.
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeResolution&unscoped_q=getTimeResolution">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getURI"></a>
 # getURI
@@ -73,6 +79,8 @@ return the URI for the current time range and resolution.  This is also
 the URI to load this data.
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTimeRange"></a>
@@ -90,6 +98,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeRange&unscoped_q=setTimeRange">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTimeResolution"></a>
 # setTimeResolution
@@ -105,6 +115,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeResolution&unscoped_q=setTimeResolution">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setURI"></a>
@@ -123,4 +135,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setURI&unscoped_q=setURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

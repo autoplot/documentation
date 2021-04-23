@@ -32,6 +32,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=dispatchEvent&unscoped_q=dispatchEvent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getScreenShot"></a>
 # getScreenShot
@@ -44,6 +46,8 @@ a java.awt.image.BufferedImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=getScreenShot&unscoped_q=getScreenShot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getScreenShot( int active ) &rarr; BufferedImage<br>
 ***
@@ -58,6 +62,8 @@ a java.awt.image.BufferedImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=getScreenShotNoPointer&unscoped_q=getScreenShotNoPointer">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTrim"></a>
@@ -76,6 +82,8 @@ the rectangle common to all images.
 <a href='#getTrim'>getTrim(java.awt.image.BufferedImage)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getTrim&unscoped_q=getTrim">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getTrim( java.awt.image.BufferedImage source ) &rarr; Rectangle<br>
 ***
@@ -96,6 +104,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=requestFinish&unscoped_q=requestFinish">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="start"></a>
 # start
@@ -112,6 +122,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=start&unscoped_q=start">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="takePicture"></a>
 # takePicture
@@ -127,6 +139,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=takePicture&unscoped_q=takePicture">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 takePicture( int id, String caption ) &rarr; void<br>
 takePicture( int id, String caption, java.awt.Component c, java.awt.Point p, int buttons ) &rarr; void<br>
@@ -146,6 +160,8 @@ a java.awt.image.BufferedImage
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 trim( java.awt.image.BufferedImage image, java.awt.Rectangle r ) &rarr; BufferedImage<br>
 ***
 <a name="trimAll"></a>
@@ -162,5 +178,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=trimAll&unscoped_q=trimAll">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 trimAll( java.io.File dir, java.awt.Rectangle r, ProgressMonitor monitor ) &rarr; void<br>

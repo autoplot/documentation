@@ -15,6 +15,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=childPath&unscoped_q=childPath">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="get"></a>
 # get
@@ -30,6 +32,8 @@ The child node, or null if no child node has the id sChildId
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="list"></a>
 # list
@@ -42,6 +46,8 @@ A list of child node string ids.  Return values may be used in the get node
          function below.
 
 <a href="https://github.com/autoplot/dev/search?q=list&unscoped_q=list">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="nearest"></a>
@@ -62,6 +68,8 @@ The deepest resolvable node which may just be "this", or even the "parent"
 
 <a href="https://github.com/autoplot/dev/search?q=nearest&unscoped_q=nearest">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="pathSeparator"></a>
 # pathSeparator
@@ -80,6 +88,8 @@ The path separator string, which may be zero length (and that's okay).
 
 <a href="https://github.com/autoplot/dev/search?q=pathSeparator&unscoped_q=pathSeparator">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="resolve"></a>
 # resolve
@@ -96,4 +106,6 @@ sSubPath - A sub-path to resolve into a fully loaded node.  If this node is a
 The full constructed child node object.
 
 <a href="https://github.com/autoplot/dev/search?q=resolve&unscoped_q=resolve">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

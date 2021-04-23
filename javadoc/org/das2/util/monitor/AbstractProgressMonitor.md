@@ -18,6 +18,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=canBeCancelled&unscoped_q=canBeCancelled">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="cancel"></a>
 # cancel
@@ -30,6 +32,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=cancel&unscoped_q=cancel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="finished"></a>
@@ -44,6 +48,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=finished&unscoped_q=finished">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLabel"></a>
 # getLabel
@@ -57,6 +63,8 @@ java.lang.String
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getProgressMessage"></a>
 # getProgressMessage
@@ -68,6 +76,8 @@ provide access to the last progress message setting.
 the last progress message setting.
 
 <a href="https://github.com/autoplot/dev/search?q=getProgressMessage&unscoped_q=getProgressMessage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getSubtaskMonitor"></a>
@@ -87,6 +97,8 @@ org.das2.util.monitor.ProgressMonitor
 
 <a href="https://github.com/autoplot/dev/search?q=getSubtaskMonitor&unscoped_q=getSubtaskMonitor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 getSubtaskMonitor( String label ) &rarr; ProgressMonitor<br>
 ***
 <a name="getTaskProgress"></a>
@@ -101,6 +113,8 @@ long
 
 <a href="https://github.com/autoplot/dev/search?q=getTaskProgress&unscoped_q=getTaskProgress">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getTaskSize"></a>
 # getTaskSize
@@ -113,6 +127,8 @@ long
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTaskSize&unscoped_q=getTaskSize">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isCancelled"></a>
@@ -127,6 +143,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isCancelled&unscoped_q=isCancelled">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isFinished"></a>
 # isFinished
@@ -140,6 +158,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isFinished&unscoped_q=isFinished">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isStarted"></a>
 # isStarted
@@ -152,6 +172,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isStarted&unscoped_q=isStarted">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setAdditionalInfo"></a>
@@ -169,6 +191,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAdditionalInfo&unscoped_q=setAdditionalInfo">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLabel"></a>
 # setLabel
@@ -184,6 +208,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabel&unscoped_q=setLabel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setProgressMessage"></a>
@@ -201,6 +227,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setProgressMessage&unscoped_q=setProgressMessage">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTaskProgress"></a>
 # setTaskProgress
@@ -216,6 +244,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTaskProgress&unscoped_q=setTaskProgress">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTaskSize"></a>
@@ -233,6 +263,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTaskSize&unscoped_q=setTaskSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="started"></a>
 # started
@@ -246,6 +278,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=started&unscoped_q=started">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -258,4 +292,6 @@ return a human-readable representation of the monitor, which is
 return a human-readable representation of the monitor
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

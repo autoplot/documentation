@@ -42,6 +42,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addPropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
 <a name="getConnectTimeoutMs"></a>
@@ -56,6 +58,8 @@ an int
 
 <a href="https://github.com/autoplot/dev/search?q=getConnectTimeoutMs&unscoped_q=getConnectTimeoutMs">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getLocalCacheDir"></a>
 # getLocalCacheDir
@@ -67,6 +71,8 @@ setting for the location of where the local cache is kept.
 File that is the local cache directory.
 
 <a href="https://github.com/autoplot/dev/search?q=getLocalCacheDir&unscoped_q=getLocalCacheDir">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getPersistence"></a>
@@ -81,6 +87,8 @@ the setting
 
 <a href="https://github.com/autoplot/dev/search?q=getPersistence&unscoped_q=getPersistence">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getReadTimeoutMs"></a>
 # getReadTimeoutMs
@@ -93,6 +101,8 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getReadTimeoutMs&unscoped_q=getReadTimeoutMs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTemporaryFileTimeoutSeconds"></a>
@@ -109,6 +119,8 @@ the number of seconds.
 
 <a href="https://github.com/autoplot/dev/search?q=getTemporaryFileTimeoutSeconds&unscoped_q=getTemporaryFileTimeoutSeconds">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasAllPermission"></a>
 # hasAllPermission
@@ -124,6 +136,8 @@ true if all permissions are allowed
 
 <a href="https://github.com/autoplot/dev/search?q=hasAllPermission&unscoped_q=hasAllPermission">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isAllowOffline"></a>
 # isAllowOffline
@@ -137,6 +151,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isAllowOffline&unscoped_q=isAllowOffline">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isOffline"></a>
 # isOffline
@@ -149,6 +165,8 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOffline&unscoped_q=isOffline">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="removePropertyChangeListener"></a>
@@ -165,6 +183,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removePropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
 ***
@@ -183,6 +203,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setAllowOffline&unscoped_q=setAllowOffline">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setLocalCacheDir"></a>
 # setLocalCacheDir
@@ -198,6 +220,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLocalCacheDir&unscoped_q=setLocalCacheDir">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setOffline"></a>
@@ -216,6 +240,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setOffline&unscoped_q=setOffline">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setPersistence"></a>
 # setPersistence
@@ -231,6 +257,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPersistence&unscoped_q=setPersistence">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setRestrictPermission"></a>
@@ -249,4 +277,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/DasApplication.md#setRestrictPermission'>org.das2.DasApplication#setRestrictPermission</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setRestrictPermission&unscoped_q=setRestrictPermission">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

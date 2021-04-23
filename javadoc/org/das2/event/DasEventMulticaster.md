@@ -16,6 +16,8 @@ org.das2.event.DataPointSelectionListener
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 add( org.das2.event.DataRangeSelectionListener a, org.das2.event.DataRangeSelectionListener b ) &rarr; DataRangeSelectionListener<br>
 add( org.das2.event.TimeRangeSelectionListener a, org.das2.event.TimeRangeSelectionListener b ) &rarr; TimeRangeSelectionListener<br>
 ***
@@ -34,6 +36,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=dataPointSelected&unscoped_q=dataPointSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="dataRangeSelected"></a>
 # dataRangeSelected
@@ -49,6 +53,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dataRangeSelected&unscoped_q=dataRangeSelected">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="remove"></a>
@@ -66,6 +72,8 @@ org.das2.event.DataPointSelectionListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=remove&unscoped_q=remove">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 remove( org.das2.event.DataRangeSelectionListener a, org.das2.event.DataRangeSelectionListener b ) &rarr; DataRangeSelectionListener<br>
 remove( org.das2.event.TimeRangeSelectionListener a, org.das2.event.TimeRangeSelectionListener b ) &rarr; TimeRangeSelectionListener<br>
@@ -85,6 +93,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=timeRangeSelected&unscoped_q=timeRangeSelected">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -97,4 +107,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

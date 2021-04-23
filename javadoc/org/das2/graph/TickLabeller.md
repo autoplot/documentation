@@ -12,6 +12,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=finished&unscoped_q=finished">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="init"></a>
 # init
@@ -27,6 +29,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=init&unscoped_q=init">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="labelMajorTick"></a>
@@ -45,4 +49,6 @@ java.awt.Rectangle
 
 
 <a href="https://github.com/autoplot/dev/search?q=labelMajorTick&unscoped_q=labelMajorTick">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

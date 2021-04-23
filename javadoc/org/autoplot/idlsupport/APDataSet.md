@@ -19,6 +19,8 @@ uri - the URI to load.
 
 <a href="https://github.com/autoplot/dev/search?q=loadDataSet&unscoped_q=loadDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 loadDataSet( String uri, ProgressMonitor mon ) &rarr; int<br>
 ***
 <a name="main"></a>
@@ -36,6 +38,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSetURI"></a>
 # setDataSetURI
@@ -51,6 +55,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetURI&unscoped_q=setDataSetURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setDataSetURL"></a>
@@ -68,4 +74,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

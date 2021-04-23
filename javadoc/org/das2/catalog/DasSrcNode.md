@@ -19,6 +19,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=query&unscoped_q=query">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="queryVerify"></a>
 # queryVerify
@@ -33,4 +35,6 @@ dQuery - a java.util.Map
 True if this set of parameters is valid, false otherwise
 
 <a href="https://github.com/autoplot/dev/search?q=queryVerify&unscoped_q=queryVerify">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

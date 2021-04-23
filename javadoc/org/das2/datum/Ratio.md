@@ -33,6 +33,8 @@ org.das2.datum.Ratio
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="create"></a>
 # create
@@ -48,6 +50,8 @@ an org.das2.datum.Ratio
 
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 create( double number ) &rarr; Ratio<br>
 ***
@@ -66,6 +70,8 @@ org.das2.datum.Ratio
 
 <a href="https://github.com/autoplot/dev/search?q=divide&unscoped_q=divide">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="doubleValue"></a>
 # doubleValue
@@ -77,6 +83,8 @@ return the double value closest to this.
 the double value closest to this.
 
 <a href="https://github.com/autoplot/dev/search?q=doubleValue&unscoped_q=doubleValue">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="equals"></a>
@@ -94,6 +102,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="gcd"></a>
 # gcd
@@ -110,6 +120,8 @@ the divisor.
 
 <a href="https://github.com/autoplot/dev/search?q=gcd&unscoped_q=gcd">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hashCode"></a>
 # hashCode
@@ -122,6 +134,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isOne"></a>
@@ -136,6 +150,8 @@ boolean
 
 <a href="https://github.com/autoplot/dev/search?q=isOne&unscoped_q=isOne">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isZero"></a>
 # isZero
@@ -148,6 +164,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isZero&unscoped_q=isZero">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="main"></a>
@@ -165,6 +183,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="multiply"></a>
 # multiply
@@ -180,6 +200,8 @@ org.das2.datum.Ratio
 
 
 <a href="https://github.com/autoplot/dev/search?q=multiply&unscoped_q=multiply">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="pow"></a>
@@ -197,6 +219,8 @@ org.das2.datum.Ratio
 
 <a href="https://github.com/autoplot/dev/search?q=pow&unscoped_q=pow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="sqrt"></a>
 # sqrt
@@ -209,6 +233,8 @@ org.das2.datum.Ratio
 
 
 <a href="https://github.com/autoplot/dev/search?q=sqrt&unscoped_q=sqrt">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="subtract"></a>
@@ -226,6 +252,8 @@ org.das2.datum.Ratio
 
 <a href="https://github.com/autoplot/dev/search?q=subtract&unscoped_q=subtract">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -238,4 +266,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

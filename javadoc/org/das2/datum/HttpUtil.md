@@ -20,6 +20,8 @@ a connection, typically the same one as passed in.
 
 <a href="https://github.com/autoplot/dev/search?q=checkRedirect&unscoped_q=checkRedirect">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="consumeStream"></a>
 # consumeStream
@@ -37,4 +39,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=consumeStream&unscoped_q=consumeStream">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

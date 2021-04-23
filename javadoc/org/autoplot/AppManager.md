@@ -18,6 +18,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addApplication&unscoped_q=addApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addCloseCallback"></a>
 # addCloseCallback
@@ -37,6 +39,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addCloseCallback&unscoped_q=addCloseCallback">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="closeApplication"></a>
 # closeApplication
@@ -52,6 +56,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=closeApplication&unscoped_q=closeApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getApplication"></a>
@@ -69,6 +75,8 @@ java.lang.Object
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getApplicationCount"></a>
 # getApplicationCount
@@ -82,6 +90,8 @@ an int
 
 <a href="https://github.com/autoplot/dev/search?q=getApplicationCount&unscoped_q=getApplicationCount">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getInstance"></a>
 # getInstance
@@ -94,6 +104,8 @@ org.autoplot.AppManager
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getWindowListener"></a>
@@ -111,6 +123,8 @@ java.awt.event.WindowListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowListener&unscoped_q=getWindowListener">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getWindowListener( Object app ) &rarr; WindowListener<br>
 ***
@@ -130,6 +144,8 @@ true if the app is still registered.
 
 <a href="https://github.com/autoplot/dev/search?q=isRunningApplication&unscoped_q=isRunningApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="quit"></a>
 # quit
@@ -142,6 +158,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=quit&unscoped_q=quit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 quit( int status ) &rarr; void<br>
 ***
@@ -160,6 +178,8 @@ true if the callback okays the close.
 
 <a href="https://github.com/autoplot/dev/search?q=requestClose&unscoped_q=requestClose">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="requestQuit"></a>
 # requestQuit
@@ -173,4 +193,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=requestQuit&unscoped_q=requestQuit">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -17,6 +17,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=finished&unscoped_q=finished">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="started"></a>
 # started
@@ -29,4 +31,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=started&unscoped_q=started">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

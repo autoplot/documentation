@@ -16,6 +16,8 @@ java.awt.Dimension
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferredSize&unscoped_q=getPreferredSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSelectedCompletionItem"></a>
 # getSelectedCompletionItem
@@ -29,6 +31,8 @@ org.das2.jythoncompletion.support.CompletionItem
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedCompletionItem&unscoped_q=getSelectedCompletionItem">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getSelectedIndex"></a>
 # getSelectedIndex
@@ -41,6 +45,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedIndex&unscoped_q=getSelectedIndex">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setData"></a>
@@ -59,4 +65,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setData&unscoped_q=setData">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

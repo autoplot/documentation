@@ -24,6 +24,8 @@ org.das2.graph.DasRow
 
 <a href="https://github.com/autoplot/dev/search?q=addRow&unscoped_q=addRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 addRow( double nposition ) &rarr; DasRow<br>
 addRow(  ) &rarr; DasRow<br>
 ***
@@ -42,6 +44,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=deleteRow&unscoped_q=deleteRow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getPosition"></a>
 # getPosition
@@ -58,6 +62,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getPosition&unscoped_q=getPosition">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getRows"></a>
 # getRows
@@ -70,6 +76,8 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRows&unscoped_q=getRows">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getWeight"></a>
@@ -87,6 +95,8 @@ double
 
 <a href="https://github.com/autoplot/dev/search?q=getWeight&unscoped_q=getWeight">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="rowCount"></a>
 # rowCount
@@ -99,6 +109,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=rowCount&unscoped_q=rowCount">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setBottomMargin"></a>
@@ -116,6 +128,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setBottomMargin&unscoped_q=setBottomMargin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setInsideMargin"></a>
 # setInsideMargin
@@ -131,6 +145,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setInsideMargin&unscoped_q=setInsideMargin">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setTopMargin"></a>
@@ -148,6 +164,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setTopMargin&unscoped_q=setTopMargin">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -160,6 +178,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="whichRow"></a>
@@ -176,4 +196,6 @@ org.das2.graph.DasRow
 
 
 <a href="https://github.com/autoplot/dev/search?q=whichRow&unscoped_q=whichRow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

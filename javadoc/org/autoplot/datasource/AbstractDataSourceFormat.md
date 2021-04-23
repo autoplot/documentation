@@ -16,6 +16,8 @@ the value
 
 <a href="https://github.com/autoplot/dev/search?q=getBooleanParam&unscoped_q=getBooleanParam">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParam"></a>
 # getParam
@@ -33,6 +35,8 @@ the value
 
 <a href="https://github.com/autoplot/dev/search?q=getParam&unscoped_q=getParam">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getResourceURI"></a>
 # getResourceURI
@@ -45,6 +49,8 @@ a java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=getResourceURI&unscoped_q=getResourceURI">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="maybeMkdirs"></a>
@@ -59,6 +65,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeMkdirs&unscoped_q=maybeMkdirs">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="streamData"></a>
@@ -79,4 +87,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=streamData&unscoped_q=streamData">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

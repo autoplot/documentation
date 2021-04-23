@@ -15,6 +15,8 @@ QDataSet that when plotted is an ellipse.
 
 <a href="https://github.com/autoplot/dev/search?q=ellipse&unscoped_q=ellipse">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="ensureMonotonic"></a>
 # ensureMonotonic
@@ -33,6 +35,8 @@ the dataset, sorted if necessary.
 <a href='DataSetUtil_i.md#isMonotonic'>DataSetUtil#isMonotonic</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=ensureMonotonic&unscoped_q=ensureMonotonic">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="ensureMonotonicAndIncreasingWithFill"></a>
@@ -54,6 +58,8 @@ the dataset, sorted if necessary.
 
 <a href="https://github.com/autoplot/dev/search?q=ensureMonotonicAndIncreasingWithFill&unscoped_q=ensureMonotonicAndIncreasingWithFill">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="eq"></a>
 # eq
@@ -70,6 +76,8 @@ ds1 - rank n dataset
 rank n or m dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=eq&unscoped_q=eq">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 eq( Object ds1, Object ds2 ) &rarr; QDataSet<br>
 ***
@@ -89,6 +97,8 @@ the subset of two groups of properties that are equal
 
 <a href="https://github.com/autoplot/dev/search?q=equalProperties&unscoped_q=equalProperties">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="equivalent"></a>
 # equivalent
@@ -107,6 +117,8 @@ ds1 - the first dataset
 true if the dataset values are equivalent.
 
 <a href="https://github.com/autoplot/dev/search?q=equivalent&unscoped_q=equivalent">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 equivalent( Object ds1, Object ds2 ) &rarr; boolean<br>
 ***
@@ -133,6 +145,8 @@ the events data set.
 
 <a href="https://github.com/autoplot/dev/search?q=eventsComplement&unscoped_q=eventsComplement">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="eventsConjunction"></a>
 # eventsConjunction
@@ -154,6 +168,8 @@ rank 2 canonical events list
 
 <a href="https://github.com/autoplot/dev/search?q=eventsConjunction&unscoped_q=eventsConjunction">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="exp"></a>
 # exp
@@ -168,6 +184,8 @@ ds - the dataset
 dataset of the same geometry
 
 <a href="https://github.com/autoplot/dev/search?q=exp&unscoped_q=exp">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 exp( double d ) &rarr; double<br>
 exp( Object ds1 ) &rarr; QDataSet<br>
@@ -187,6 +205,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=exp10&unscoped_q=exp10">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 exp10( double ds1 ) &rarr; double<br>
 exp10( Object ds1 ) &rarr; QDataSet<br>
 ***
@@ -204,6 +224,8 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=expandToFillGaps&unscoped_q=expandToFillGaps">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 expandToFillGaps( QDataSet ds, double factor ) &rarr; QDataSet<br>
 ***
@@ -226,6 +248,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=expandWaveform&unscoped_q=expandWaveform">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="expm1"></a>
 # expm1
@@ -244,6 +268,8 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=expm1&unscoped_q=expm1">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 expm1( double ds ) &rarr; double<br>
 expm1( Object ds ) &rarr; QDataSet<br>
@@ -270,6 +296,8 @@ two element, rank 1 "bins" dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=extent&unscoped_q=extent">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 extent( QDataSet ds, QDataSet range ) &rarr; QDataSet<br>
 extent( QDataSet ds, QDataSet wds, QDataSet range ) &rarr; QDataSet<br>
 ***
@@ -287,6 +315,8 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=extent445&unscoped_q=extent445">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="extentSimple"></a>
@@ -309,5 +339,7 @@ two element, rank 1 "bins" dataset.
 <a href='Ops_e.md#extent'>extent(QDataSet, QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=extentSimple&unscoped_q=extentSimple">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 extentSimple( QDataSet ds, QDataSet range ) &rarr; QDataSet<br>

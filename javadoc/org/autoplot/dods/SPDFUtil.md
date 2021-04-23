@@ -19,6 +19,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=interpretAttributes&unscoped_q=interpretAttributes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="interpretProps"></a>
 # interpretProps
@@ -34,4 +36,6 @@ attr - a java.util.Map
 a Map of the properties.
 
 <a href="https://github.com/autoplot/dev/search?q=interpretProps&unscoped_q=interpretProps">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

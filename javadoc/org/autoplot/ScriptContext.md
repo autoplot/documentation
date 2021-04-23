@@ -23,6 +23,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=_setOutputStream&unscoped_q=_setOutputStream">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addBottomDecoration"></a>
 # addBottomDecoration
@@ -38,6 +40,7 @@ def paint(g):
     g.color= Color.BLUE
     for i in xrange(0,1000,100):
         g.drawOval(500-i/2,500-i/2,i,i)
+
 addBottomDecoration( dom.canvases[0], paint )
 </small></pre></blockquote>
 
@@ -52,6 +55,8 @@ void (returns nothing)
 <a href='https://github.com/autoplot/dev/blob/master/demos/2020/20200229/demoAddBottomDecoration.jy'>https://github.com/autoplot/dev/blob/master/demos/2020/20200229/demoAddBottomDecoration.jy</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addBottomDecoration&unscoped_q=addBottomDecoration">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addMouseModule"></a>
@@ -82,6 +87,8 @@ the mouse module.
 
 <a href="https://github.com/autoplot/dev/search?q=addMouseModule&unscoped_q=addMouseModule">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="addPlotElement"></a>
 # addPlotElement
@@ -98,6 +105,8 @@ the channel number for the new plot element.
 <a href='#setLayout'>setLayout(int, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addPlotElement&unscoped_q=addPlotElement">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addPlots"></a>
@@ -116,6 +125,8 @@ nrows - number of rows
 the new plots.
 
 <a href="https://github.com/autoplot/dev/search?q=addPlots&unscoped_q=addPlots">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addTab"></a>
@@ -136,6 +147,8 @@ void (returns nothing)
 <a href='AutoplotUI.md#setLeftPanel'>AutoplotUI#setLeftPanel(javax.swing.JComponent)</a> setLeftPanel which adds to the GUI<br>
 
 <a href="https://github.com/autoplot/dev/search?q=addTab&unscoped_q=addTab">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="addTopDecoration"></a>
@@ -167,6 +180,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=addTopDecoration&unscoped_q=addTopDecoration">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="alert"></a>
 # alert
@@ -182,6 +197,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=alert&unscoped_q=alert">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="bind"></a>
@@ -215,6 +232,8 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/autoplot/dom/ApplicationController.md#bind'>org.autoplot.dom.ApplicationController#bind(org.autoplot.dom.DomNode, java.lang.String, java.lang.Object, java.lang.String)</a> which will save the binding to a vap.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=bind&unscoped_q=bind">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 bind( Object src, String srcProp, Object dst, String dstProp, Converter c ) &rarr; void<br>
 ***
@@ -251,6 +270,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=bindGuiSafe&unscoped_q=bindGuiSafe">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="createGui"></a>
 # createGui
@@ -264,6 +285,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=createGui&unscoped_q=createGui">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="dumpToDas2Stream"></a>
@@ -288,6 +311,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpToDas2Stream&unscoped_q=dumpToDas2Stream">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dumpToDas2Stream( QDataSet ds, String file, boolean ascii ) &rarr; void<br>
 ***
@@ -316,6 +341,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=dumpToQStream&unscoped_q=dumpToQStream">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="fixLayout"></a>
 # fixLayout
@@ -329,6 +356,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=fixLayout&unscoped_q=fixLayout">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="formatDataSet"></a>
@@ -354,6 +383,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=formatDataSet&unscoped_q=formatDataSet">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 formatDataSet( QDataSet ds, String file, ProgressMonitor monitor ) &rarr; void<br>
 ***
 <a name="generateTimeRanges"></a>
@@ -374,6 +405,8 @@ a string array of formatted time ranges, such as [ "2009-01", "2009-02", ..., "2
 
 <a href="https://github.com/autoplot/dev/search?q=generateTimeRanges&unscoped_q=generateTimeRanges">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getApplication"></a>
 # getApplication
@@ -385,6 +418,8 @@ return the focus application.
 the focus application.
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getApplicationModel"></a>
@@ -400,6 +435,8 @@ returns the internal application model (the object that does all the
 ApplicationModel object
 
 <a href="https://github.com/autoplot/dev/search?q=getApplicationModel&unscoped_q=getApplicationModel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getCompletions"></a>
@@ -421,6 +458,8 @@ list of completions, containing the entire URI.
 
 <a href="https://github.com/autoplot/dev/search?q=getCompletions&unscoped_q=getCompletions">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getDocumentModel"></a>
 # getDocumentModel
@@ -434,6 +473,8 @@ an org.autoplot.dom.Application
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDocumentModel&unscoped_q=getDocumentModel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="getTimeRangesFor"></a>
@@ -459,6 +500,8 @@ a list of URLs without the aggregation specifier.
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRangesFor&unscoped_q=getTimeRangesFor">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getViewWindow"></a>
 # getViewWindow
@@ -473,6 +516,8 @@ a java.awt.Window
 
 <a href="https://github.com/autoplot/dev/search?q=getViewWindow&unscoped_q=getViewWindow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getWindow"></a>
 # getWindow
@@ -485,6 +530,8 @@ the internal handle for the application.
 
 <a href="https://github.com/autoplot/dev/search?q=getWindow&unscoped_q=getWindow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isModelInitialized"></a>
 # isModelInitialized
@@ -496,6 +543,8 @@ provide way to see if the model is already initialized (e.g. for clone applicati
 true is the model is already initialized.
 
 <a href="https://github.com/autoplot/dev/search?q=isModelInitialized&unscoped_q=isModelInitialized">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="load"></a>
@@ -513,6 +562,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=load&unscoped_q=load">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="loadVap"></a>
 # loadVap
@@ -529,6 +580,8 @@ Application
 <a href='#saveVap'>saveVap(org.autoplot.dom.Application, java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=loadVap&unscoped_q=loadVap">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="makeColorTable"></a>
@@ -550,6 +603,8 @@ object representing the color table.
 
 <a href="https://github.com/autoplot/dev/search?q=makeColorTable&unscoped_q=makeColorTable">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="mkdir"></a>
 # mkdir
@@ -565,6 +620,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mkdir&unscoped_q=mkdir">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="newApplication"></a>
@@ -589,6 +646,8 @@ the AutoplotUI.
 
 <a href="https://github.com/autoplot/dev/search?q=newApplication&unscoped_q=newApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="newDialogWindow"></a>
 # newDialogWindow
@@ -605,6 +664,8 @@ an org.autoplot.ApplicationModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=newDialogWindow&unscoped_q=newDialogWindow">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="newWindow"></a>
@@ -627,6 +688,8 @@ a handle (do not use this object, code will break) for the window.
 
 <a href="https://github.com/autoplot/dev/search?q=newWindow&unscoped_q=newWindow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 newWindow( String id ) &rarr; ApplicationModel<br>
 ***
 <a name="peekAt"></a>
@@ -646,6 +709,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=peekAt&unscoped_q=peekAt">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="plot"></a>
 # plot
@@ -663,6 +728,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=plot&unscoped_q=plot">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 plot( String surl1, String surl2 ) &rarr; void<br>
 plot( int chNum, String surl ) &rarr; void<br>
@@ -693,6 +760,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="save"></a>
 # save
@@ -708,6 +777,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=save&unscoped_q=save">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="saveVap"></a>
@@ -727,6 +798,8 @@ void (returns nothing)
 <a href='#loadVap'>loadVap(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=saveVap&unscoped_q=saveVap">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setApplication"></a>
@@ -754,6 +827,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setApplication&unscoped_q=setApplication">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setApplicationModel"></a>
 # setApplicationModel
@@ -771,6 +846,8 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/setWindow, which should be used instead/.md'>setWindow, which should be used instead.</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setApplicationModel&unscoped_q=setApplicationModel">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setCanvasSize"></a>
@@ -790,6 +867,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setCanvasSize&unscoped_q=setCanvasSize">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDataSourceURL"></a>
 # setDataSourceURL
@@ -807,6 +886,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSourceURL&unscoped_q=setDataSourceURL">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setDefaultApplication"></a>
 # setDefaultApplication
@@ -819,6 +900,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDefaultApplication&unscoped_q=setDefaultApplication">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setLayout"></a>
@@ -835,6 +918,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLayout&unscoped_q=setLayout">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setLayout( int nrows, int ncolumns ) &rarr; void<br>
 ***
@@ -856,6 +941,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setLayoutOverplot&unscoped_q=setLayoutOverplot">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setRenderStyle"></a>
 # setRenderStyle
@@ -872,6 +959,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRenderStyle&unscoped_q=setRenderStyle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setStatus"></a>
@@ -892,6 +981,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setStatus&unscoped_q=setStatus">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setTitle"></a>
 # setTitle
@@ -907,6 +998,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTitle&unscoped_q=setTitle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setWindow"></a>
@@ -929,6 +1022,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setWindow&unscoped_q=setWindow">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="setWindowLocation"></a>
 # setWindowLocation
@@ -945,6 +1040,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWindowLocation&unscoped_q=setWindowLocation">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="showMessageDialog"></a>
@@ -965,6 +1062,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=showMessageDialog&unscoped_q=showMessageDialog">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="sleep"></a>
 # sleep
@@ -982,6 +1081,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=sleep&unscoped_q=sleep">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="unbind"></a>
 # unbind
@@ -998,6 +1099,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=unbind&unscoped_q=unbind">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 unbind( org.autoplot.dom.DomNode src, String srcProp, org.autoplot.dom.DomNode dst, String dstProp ) &rarr; void<br>
 ***
 <a name="waitUntilIdle"></a>
@@ -1012,6 +1115,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=waitUntilIdle&unscoped_q=waitUntilIdle">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 waitUntilIdle( String id ) &rarr; void<br>
 ***
@@ -1029,6 +1134,8 @@ applicationIn - an Application
 the image
 
 <a href="https://github.com/autoplot/dev/search?q=writeToBufferedImage&unscoped_q=writeToBufferedImage">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 writeToBufferedImage(  ) &rarr; BufferedImage<br>
 ***
@@ -1050,6 +1157,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeToPdf&unscoped_q=writeToPdf">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 writeToPdf( java.io.OutputStream out ) &rarr; void<br>
 ***
@@ -1075,6 +1184,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=writeToPng&unscoped_q=writeToPng">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 writeToPng( String filename, int width, int height ) &rarr; void<br>
 writeToPng( java.awt.image.BufferedImage image, String filename, java.util.Map metadata ) &rarr; void<br>
 writeToPng( java.io.OutputStream out ) &rarr; void<br>
@@ -1095,5 +1206,7 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeToSvg&unscoped_q=writeToSvg">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 writeToSvg( java.io.OutputStream out ) &rarr; void<br>

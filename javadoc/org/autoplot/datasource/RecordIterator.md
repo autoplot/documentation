@@ -26,6 +26,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=collect&unscoped_q=collect">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="constrainDepend0"></a>
 # constrainDepend0
@@ -43,6 +45,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=constrainDepend0&unscoped_q=constrainDepend0">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="hasNext"></a>
 # hasNext
@@ -55,6 +59,8 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=hasNext&unscoped_q=hasNext">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="next"></a>
@@ -69,6 +75,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="remove"></a>
 # remove
@@ -81,6 +89,8 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=remove&unscoped_q=remove">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="resortFields"></a>
@@ -97,4 +107,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resortFields&unscoped_q=resortFields">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

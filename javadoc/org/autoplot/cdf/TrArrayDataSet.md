@@ -15,6 +15,8 @@ java.lang.Class
 
 <a href="https://github.com/autoplot/dev/search?q=getComponentType&unscoped_q=getComponentType">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="jvmMemory"></a>
 # jvmMemory
@@ -27,6 +29,8 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=jvmMemory&unscoped_q=jvmMemory">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="wrap"></a>
@@ -45,4 +49,6 @@ array - 1-D array
 ArrayDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=wrap&unscoped_q=wrap">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

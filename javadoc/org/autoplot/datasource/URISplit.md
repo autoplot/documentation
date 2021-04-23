@@ -165,6 +165,8 @@ formatted URI.
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 format( String vapScheme, String resourceUri, java.util.Map args ) &rarr; String<br>
 ***
 <a name="formatParams"></a>
@@ -184,6 +186,8 @@ parms - a java.util.Map
 
 <a href="https://github.com/autoplot/dev/search?q=formatParams&unscoped_q=formatParams">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="getParam"></a>
 # getParam
@@ -201,6 +205,8 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParam&unscoped_q=getParam">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="guardedSplit"></a>
@@ -223,6 +229,8 @@ the split.
 
 <a href="https://github.com/autoplot/dev/search?q=guardedSplit&unscoped_q=guardedSplit">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="implicitVapScheme"></a>
 # implicitVapScheme
@@ -243,6 +251,8 @@ split - an URISplit
 the vap scheme or empty string.
 
 <a href="https://github.com/autoplot/dev/search?q=implicitVapScheme&unscoped_q=implicitVapScheme">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="isUriEncoded"></a>
@@ -266,6 +276,8 @@ true if it appears to be encoded.
 
 <a href="https://github.com/autoplot/dev/search?q=isUriEncoded&unscoped_q=isUriEncoded">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="makeAbsolute"></a>
 # makeAbsolute
@@ -287,6 +299,8 @@ the absolute path
 
 <a href="https://github.com/autoplot/dev/search?q=makeAbsolute&unscoped_q=makeAbsolute">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="makeCanonical"></a>
 # makeCanonical
@@ -303,6 +317,8 @@ suri - a String
 
 <a href="https://github.com/autoplot/dev/search?q=makeCanonical&unscoped_q=makeCanonical">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="makeColloquial"></a>
 # makeColloquial
@@ -318,6 +334,8 @@ suri - a URI
 the URI, more colloquial and readable.
 
 <a href="https://github.com/autoplot/dev/search?q=makeColloquial&unscoped_q=makeColloquial">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="maybeAddFile"></a>
@@ -336,6 +354,8 @@ null or the URISplit
 
 <a href="https://github.com/autoplot/dev/search?q=maybeAddFile&unscoped_q=maybeAddFile">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parse"></a>
 # parse
@@ -352,6 +372,8 @@ an org.autoplot.datasource.URISplit
 
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 parse( String suri ) &rarr; URISplit<br>
 parse( String surl, int caretPos, boolean normalize ) &rarr; URISplit<br>
@@ -371,6 +393,8 @@ the map, which will be empty when there are no params.
 
 <a href="https://github.com/autoplot/dev/search?q=parseParams&unscoped_q=parseParams">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="parseTimeRange"></a>
 # parseTimeRange
@@ -385,6 +409,8 @@ uri - a String
 the DatumRange if "timerange=" is found, or null if not.
 
 <a href="https://github.com/autoplot/dev/search?q=parseTimeRange&unscoped_q=parseTimeRange">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="putParam"></a>
@@ -403,6 +429,8 @@ the uri with the question mark and parameter added.
 
 <a href="https://github.com/autoplot/dev/search?q=putParam&unscoped_q=putParam">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="removeParam"></a>
 # removeParam
@@ -418,6 +446,8 @@ surl - any URI or web address
 the URI with the parameter removed, and the question mark removed when no parameters remain.
 
 <a href="https://github.com/autoplot/dev/search?q=removeParam&unscoped_q=removeParam">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="setOtherSchemes"></a>
@@ -435,6 +465,8 @@ void (returns nothing)
 
 <a href="https://github.com/autoplot/dev/search?q=setOtherSchemes&unscoped_q=setOtherSchemes">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="toString"></a>
 # toString
@@ -447,6 +479,8 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
 <a name="uriDecode"></a>
@@ -467,6 +501,8 @@ a String
 
 <a href="https://github.com/autoplot/dev/search?q=uriDecode&unscoped_q=uriDecode">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="uriEncode"></a>
 # uriEncode
@@ -482,4 +518,6 @@ surl - the URI
 the URL-encoded URI
 
 <a href="https://github.com/autoplot/dev/search?q=uriEncode&unscoped_q=uriEncode">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

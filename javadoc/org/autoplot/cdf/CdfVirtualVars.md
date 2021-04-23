@@ -22,6 +22,8 @@ org.das2.qds.QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=convPos&unscoped_q=convPos">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="execute"></a>
 # execute
@@ -44,6 +46,8 @@ the computed variable.
 
 <a href="https://github.com/autoplot/dev/search?q=execute&unscoped_q=execute">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ***
 <a name="isSupported"></a>
 # isSupported
@@ -58,4 +62,6 @@ function - the function name, such as "compute_magnitude"
 true if the function is supported.
 
 <a href="https://github.com/autoplot/dev/search?q=isSupported&unscoped_q=isSupported">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

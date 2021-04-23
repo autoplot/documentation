@@ -19,3 +19,5 @@ the bounds of the indexed cells in pixels
 
 <a href="https://github.com/autoplot/dev/search?q=getCellBounds&unscoped_q=getCellBounds">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+

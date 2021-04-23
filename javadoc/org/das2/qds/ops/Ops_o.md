@@ -13,6 +13,8 @@ dataset filled with ones.
 
 <a href="https://github.com/autoplot/dev/search?q=ones&unscoped_q=ones">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 ones( int len0, int len1 ) &rarr; QDataSet<br>
 ones( int len0, int len1, int len2 ) &rarr; QDataSet<br>
 ones( int len0, int len1, int len2, int len3 ) &rarr; QDataSet<br>
@@ -36,6 +38,8 @@ a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=or&unscoped_q=or">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 or( Object ds1, Object ds2 ) &rarr; QDataSet<br>
 ***
 <a name="outerProduct"></a>
@@ -54,6 +58,8 @@ rank 2 dataset that is m by n.
 
 <a href="https://github.com/autoplot/dev/search?q=outerProduct&unscoped_q=outerProduct">[search for examples]</a>
 
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
+
 outerProduct( Object ds1, Object ds2 ) &rarr; QDataSet<br>
 ***
 <a name="outerSum"></a>
@@ -71,5 +77,7 @@ ds1 - a rank 1 dataset of length m
 a rank 2 dataset[m,n]
 
 <a href="https://github.com/autoplot/dev/search?q=outerSum&unscoped_q=outerSum">[search for examples]</a>
+
+<a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 outerSum( Object ds1, Object ds2 ) &rarr; QDataSet<br>
