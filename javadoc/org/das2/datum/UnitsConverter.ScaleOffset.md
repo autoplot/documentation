@@ -7,7 +7,7 @@ Creates a new UnitsConverter.ScaleOffset.  This
  converter multiplies by scale and adds offset, so
  offset is in the target Units.  For example,
  deg C to deg F would be 
- {@code new UnitsConverter.ScaleOffset( 9./5, 32 )}.
+  new UnitsConverter.ScaleOffset( 9./5, 32 ).
 
 ***
 <a name="append"></a>

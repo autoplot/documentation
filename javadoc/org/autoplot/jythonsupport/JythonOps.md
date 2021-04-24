@@ -39,6 +39,7 @@ syspath - the list of folders to search, should be sys.path.
 the name of the folder or jar file added.
 ### See Also:
 <a href='https://sourceforge.net/p/autoplot/feature-requests/584/, which shows example use.'>https://sourceforge.net/p/autoplot/feature-requests/584/, which shows example use.</a> <br>
+<a href='#findJavaPathRoots'>findJavaPathRoots(org.das2.util.filesystem.FileSystem)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addToSearchPath&unscoped_q=addToSearchPath">[search for examples]</a>
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
@@ -175,13 +176,18 @@ datumRange( PyObject arg0, Units context ) &rarr; DatumRange<br>
 findJavaPathRoots( org.das2.util.filesystem.FileSystem destDir ) &rarr; List
 
 search the folder for the names of packages.  This could trivially
- return "edu", but instead navigate to find a more precise name, or names.
+ return "org", but instead navigate to find a more precise name, or names
+ like "org.autoplot" and "org.das2".  Note this is a bit like a recursive
+ find command, but note that some Java assumptions like classnames being
+ capitalized and packages being lower case are encoded.
 
 ### Parameters:
-destDir - a FileSystem
+destDir - root to start the search.
 
 ### Returns:
 list of packages.
+### See Also:
+<a href='#addToSearchPath'>addToSearchPath(org.python.core.PyList, java.lang.String, org.das2.util.monitor.ProgressMonitor)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=findJavaPathRoots&unscoped_q=findJavaPathRoots">[search for examples]</a>
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>

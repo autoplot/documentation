@@ -6,7 +6,7 @@ This class implements an encoder for encoding byte data using
  <p> Instances of {@link Encoder} class are safe for use by
  multiple concurrent threads.
 
- <p> Unless otherwise noted, passing a {@code null} argument to
+ <p> Unless otherwise noted, passing a  null argument to
  a method of this class will cause a
  {@link java.lang.NullPointerException NullPointerException} to
  be thrown.

@@ -2,7 +2,7 @@
 
 Self-configuring histogram dynamically adjusts range and bin size as data
  is added.  Also it tries to identify outlier points, which are available
- as a {@code Map<Double,Integer>} going from value to number observed.  Also for
+ as a  Map<Double,Integer> going from value to number observed.  Also for
  each bin, we keep track of a running mean and variance, which are useful for
  identifying continuous bins and total moments.  Introduced to support
  automatic cadence algorithm, should be generally useful in data discovery.

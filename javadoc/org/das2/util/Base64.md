@@ -26,14 +26,14 @@ This class consists exclusively of static methods for obtaining
  <p> Uses the "The Base64 Alphabet" as specified in Table 1 of
      RFC 2045 for encoding and decoding operation. The encoded output
      must be represented in lines of no more than 76 characters each
-     and uses a carriage return {@code '\r'} followed immediately by
-     a linefeed {@code '\n'} as the line separator. No line separator
+     and uses a carriage return  '\r' followed immediately by
+     a linefeed  '\n' as the line separator. No line separator
      is added to the end of the encoded output. All line separators
      or other characters not found in the base64 alphabet table are
      ignored in decoding operation.</p></li>
  </ul>
 
- <p> Unless otherwise noted, passing a {@code null} argument to a
+ <p> Unless otherwise noted, passing a  null argument to a
  method of this class will cause a {@link java.lang.NullPointerException
  NullPointerException} to be thrown.
 

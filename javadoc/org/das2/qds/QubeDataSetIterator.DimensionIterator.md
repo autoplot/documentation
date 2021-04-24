@@ -2,7 +2,7 @@
 
 DimensionIterator iterates over an index.  For example, using 
  Jython for brevity:
-<blockquote><pre><small>{@code
+<blockquote><pre><small>
  ds= zeros(15,4,2)
  ds[:,:,:] has itertors that count of 0,...,14; 0,...,3; and 0,1
  ds[3:15,:,:]  uses a StartStopStepIterator to count off 3,4,5,...,14
@@ -11,7 +11,7 @@ DimensionIterator iterates over an index.  For example, using
  i2= [0,0,1,1]
  i3= [0,1,0,1]
  ds[i1,i2,i3]  # uses IndexListIterator
-}</small></pre></blockquote>
+</small></pre></blockquote>
 
 ***
 <a name="hasNext"></a>

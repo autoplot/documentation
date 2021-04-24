@@ -3,7 +3,7 @@
 ProgressMonitor component used throughout das2.
 
  Here's an Autoplot script demoing its operation:
-<blockquote><pre>{@code
+<blockquote><pre>
 monitor.setTaskSize( 100 )
 monitor.started()
 
@@ -15,7 +15,7 @@ for i in range(100):
   monitor.setTaskProgress(i)
 
 monitor.finished()
-}</pre></blockquote>
+</pre></blockquote>
 
 ***
 <a name="MSG_CANCEL_TASK"></a>

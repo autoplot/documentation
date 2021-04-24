@@ -8,7 +8,7 @@ DataSetDescriptors are a source from where datasets are produced.  These uniquel
  1 day.  Presently, it's implicit that this means to give bin averages of the data.
 
  <p>DataSetDescriptors are identified with a URL-like string:
- {@code http://www-pw.physics.uiowa.edu/das/das2Server?das2_1/cluster/wbd/r_wbd_dsn_cfd&spacecraft%3Dc1%26antenna%3DEy}
+  http://www-pw.physics.uiowa.edu/das/das2Server?das2_1/cluster/wbd/r_wbd_dsn_cfd&spacecraft%3Dc1%26antenna%3DEy
  </p>
 
  <p>The protocol of the string indicates how the DataSetDescriptor is to be constructed, and presently

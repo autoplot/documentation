@@ -3,21 +3,21 @@
 This class implements a decoder for decoding byte data using the
  Base64 encoding scheme as specified in RFC 4648 and RFC 2045.
 
- <p> The Base64 padding character {@code '='} is accepted and
+ <p> The Base64 padding character  '=' is accepted and
  interpreted as the end of the encoded byte data, but is not
  required. So if the final unit of the encoded byte data only has
  two or three Base64 characters (without the corresponding padding
  character(s) padded), they are decoded as if followed by padding
  character(s). If there is a padding character present in the
  final unit, the correct number of padding character(s) must be
- present, otherwise {@code IllegalArgumentException} (
- {@code IOException} when reading from a Base64 stream) is thrown
+ present, otherwise  IllegalArgumentException (
+  IOException when reading from a Base64 stream) is thrown
  during decoding.
 
  <p> Instances of {@link Decoder} class are safe for use by
  multiple concurrent threads.
 
- <p> Unless otherwise noted, passing a {@code null} argument to
+ <p> Unless otherwise noted, passing a  null argument to
  a method of this class will cause a
  {@link java.lang.NullPointerException NullPointerException} to
  be thrown.

@@ -2,9 +2,9 @@
 
 new implementation of the dataset command allows for keywords in the
  Jython environment.
-<blockquote><pre><small>{@code
+<blockquote><pre><small>
  dataset( [1,2,3,4,3], title='My Data' )
-}</small></pre></blockquote>
+</small></pre></blockquote>
 
 # DatasetCommand( )
 

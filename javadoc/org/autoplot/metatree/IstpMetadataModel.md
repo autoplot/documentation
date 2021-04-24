@@ -2,7 +2,7 @@
 
 Metadata model for ISTP conventions.  For example, FIELDNAM is mapped to QDataSet.NAME, SCALEMIN is 
  mapped to TYPICAL_MIN, etc.  When LaTeX fragments are found in axis titles 
- {@code (s.contains("^{") || s.contains("_{"))}, then this is converted 
+  (s.contains("^{") || s.contains("_{")), then this is converted 
  into Granny control strings.
 
 # IstpMetadataModel( )
