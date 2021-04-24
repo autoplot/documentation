@@ -20,7 +20,6 @@ org.autoplot.dom.Plot
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMostBottomPlot&unscoped_q=getMostBottomPlot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,6 +37,5 @@ org.autoplot.dom.Row
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMostBottomRow&unscoped_q=getMostBottomRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

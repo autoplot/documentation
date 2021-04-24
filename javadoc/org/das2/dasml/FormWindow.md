@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=deregisterComponent&unscoped_q=deregisterComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ org.w3c.dom.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +51,6 @@ org.das2.DasApplication
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasApplication&unscoped_q=getDasApplication">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -68,7 +65,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasName&unscoped_q=getDasName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +79,6 @@ org.das2.util.DnDSupport
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDnDSupport&unscoped_q=getDnDSupport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +93,6 @@ org.das2.dasml.FormBase
 
 
 <a href="https://github.com/autoplot/dev/search?q=getForm&unscoped_q=getForm">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,7 +107,6 @@ java.awt.Dimension
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferredSize&unscoped_q=getPreferredSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -127,7 +120,6 @@ Getter for property title.
 Value of property title.
 
 <a href="https://github.com/autoplot/dev/search?q=getTitle&unscoped_q=getTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +134,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowHeight&unscoped_q=getWindowHeight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +148,6 @@ java.awt.Dimension
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowSize&unscoped_q=getWindowSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -172,7 +162,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowWidth&unscoped_q=getWindowWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -187,7 +176,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isWindowVisible&unscoped_q=isWindowVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -202,7 +190,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=pack&unscoped_q=pack">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +204,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerComponent&unscoped_q=registerComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -235,7 +221,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDasName&unscoped_q=setDasName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -253,7 +238,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEditingMode&unscoped_q=setEditingMode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -271,7 +255,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTitle&unscoped_q=setTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -289,7 +272,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWindowHeight&unscoped_q=setWindowHeight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -308,7 +290,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWindowSize&unscoped_q=setWindowSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -326,7 +307,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWindowVisible&unscoped_q=setWindowVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -344,6 +324,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWindowWidth&unscoped_q=setWindowWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

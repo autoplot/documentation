@@ -22,6 +22,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=calculateMenu&unscoped_q=calculateMenu">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

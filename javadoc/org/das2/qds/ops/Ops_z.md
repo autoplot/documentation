@@ -15,7 +15,6 @@ an org.das2.qds.WritableDataSet
 <a href='Ops_f.md#fltarr'>fltarr(int)</a> fltarr, which stores the data in 4-byte floats.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=zeros&unscoped_q=zeros">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 zeros( int len0, int len1 ) &rarr; WritableDataSet<br>

@@ -154,7 +154,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=drawListIcon&unscoped_q=drawListIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -168,7 +167,6 @@ return a list of all defined Types, in the order in which they were constructed.
 list of Type objects.
 
 <a href="https://github.com/autoplot/dev/search?q=getAllTypes&unscoped_q=getAllTypes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -184,7 +182,6 @@ Return the number of colors in the color bar.  Fill (gray) is an additional
 the number of colors.
 
 <a href="https://github.com/autoplot/dev/search?q=getColorCount&unscoped_q=getColorCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -202,7 +199,6 @@ width - the width of the image
 the image
 
 <a href="https://github.com/autoplot/dev/search?q=getHorizontalScaledImage&unscoped_q=getHorizontalScaledImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +213,6 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -232,7 +227,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListLabel&unscoped_q=getListLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -251,7 +245,6 @@ the RGB color
 <a href='Color.md#Color'>Color#Color(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getRGB&unscoped_q=getRGB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -269,7 +262,6 @@ width - the width of the image
 the image
 
 <a href="https://github.com/autoplot/dev/search?q=getVerticalScaledImage&unscoped_q=getVerticalScaledImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -294,7 +286,6 @@ an array of RGB colors.
 <a href='Color.md#Color'>Color#Color(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=makeColorTable&unscoped_q=makeColorTable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -309,7 +300,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeInitializeIcon&unscoped_q=maybeInitializeIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -326,7 +316,6 @@ s - string like "apl_rainbow_black0"
 type like Type.APL_RAINBOW_BLACK0.
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -341,6 +330,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

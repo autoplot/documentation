@@ -44,7 +44,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +57,6 @@ Get the value of color
 the value of color
 
 <a href="https://github.com/autoplot/dev/search?q=getColor&unscoped_q=getColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -73,7 +71,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColorByDataSetId&unscoped_q=getColorByDataSetId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -87,7 +84,6 @@ Get the value of psym
 the value of psym
 
 <a href="https://github.com/autoplot/dev/search?q=getPsym&unscoped_q=getPsym">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -101,7 +97,6 @@ Get the value of symsize
 the value of symsize
 
 <a href="https://github.com/autoplot/dev/search?q=getSymSize&unscoped_q=getSymSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +114,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -139,7 +133,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +150,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColor&unscoped_q=setColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -175,7 +167,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColorBar&unscoped_q=setColorBar">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -193,7 +184,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColorByDataSetId&unscoped_q=setColorByDataSetId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -211,7 +201,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPsym&unscoped_q=setPsym">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -229,6 +218,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSymSize&unscoped_q=setSymSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

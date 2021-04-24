@@ -17,7 +17,6 @@ org.das2.dataset.DataSetDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetDescriptor&unscoped_q=getDataSetDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLimit&unscoped_q=getLimit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +44,6 @@ Getter for property overSampleFactor.
 Value of property overSampleFactor.
 
 <a href="https://github.com/autoplot/dev/search?q=getOverSampleFactor&unscoped_q=getOverSampleFactor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -64,7 +61,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetDescriptor&unscoped_q=setDataSetDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -82,7 +78,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLimit&unscoped_q=setLimit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -100,7 +95,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOverSampleFactor&unscoped_q=setOverSampleFactor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -115,6 +109,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -30,7 +30,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=compare&unscoped_q=compare">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -48,6 +47,5 @@ java.util.Comparator
 
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

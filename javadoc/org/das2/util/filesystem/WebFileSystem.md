@@ -49,7 +49,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -68,7 +67,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=cacheListing&unscoped_q=cacheListing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -87,7 +85,6 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDownloadDirectory&unscoped_q=getDownloadDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +104,6 @@ filename - the name of the file within the filesystem.
 a FileObject for the file
 
 <a href="https://github.com/autoplot/dev/search?q=getFileObject&unscoped_q=getFileObject">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -125,7 +121,6 @@ file - a File
 the name within the filesystem
 
 <a href="https://github.com/autoplot/dev/search?q=getLocalName&unscoped_q=getLocalName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getLocalName( java.net.URL url ) &rarr; String<br>
@@ -141,7 +136,6 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLocalRoot&unscoped_q=getLocalRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -159,7 +153,6 @@ return the reason (if any provided) why the filesystem is offline,
 the message for the response code
 
 <a href="https://github.com/autoplot/dev/search?q=getOfflineMessage&unscoped_q=getOfflineMessage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,7 +166,6 @@ if non-zero, the response code (e.g. 403) why the filesystem is offline.
 the response code.
 
 <a href="https://github.com/autoplot/dev/search?q=getOfflineResponseCode&unscoped_q=getOfflineResponseCode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -197,7 +189,6 @@ localFile - a File
 the temporary filename to use.
 
 <a href="https://github.com/autoplot/dev/search?q=getPartFile&unscoped_q=getPartFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -212,7 +203,6 @@ return the protocol object, which allows access to the metadata.  This
 the protocol object.
 
 <a href="https://github.com/autoplot/dev/search?q=getProtocol&unscoped_q=getProtocol">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -227,7 +217,6 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getReadOnlyCache&unscoped_q=getReadOnlyCache">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +231,6 @@ return the root of the filesystem as a URL.
 the root of the filesystem as a URL.
 
 <a href="https://github.com/autoplot/dev/search?q=getRootURL&unscoped_q=getRootURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -260,7 +248,6 @@ a java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -278,7 +265,6 @@ a java.net.URL
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURL&unscoped_q=getURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -293,7 +279,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAppletMode&unscoped_q=isAppletMode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -311,7 +296,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDirectory&unscoped_q=isDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -333,7 +317,6 @@ directory - a String
 true if the listing is cached.
 
 <a href="https://github.com/autoplot/dev/search?q=isListingCached&unscoped_q=isListingCached">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -348,7 +331,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOffline&unscoped_q=isOffline">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -366,7 +348,6 @@ a java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectory&unscoped_q=listDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 listDirectory( String directory, String regex ) &rarr; String<br>
@@ -384,7 +365,6 @@ root - the URI such as http://das2.org/data/
 /home/jbf/autoplot_data/fscache/http/das2.org/data/
 
 <a href="https://github.com/autoplot/dev/search?q=localRoot&unscoped_q=localRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -402,7 +382,6 @@ filename - the particular file for which we need a listing.
 null if the listing is not available, or if the element is not in the folder, the DirectoryEntry otherwise.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeUpdateDirectoryEntry&unscoped_q=maybeUpdateDirectoryEntry">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -420,7 +399,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -438,7 +416,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetListCache&unscoped_q=resetListCache">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -453,7 +430,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetListingCache&unscoped_q=resetListingCache">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -471,7 +447,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAppletMode&unscoped_q=setAppletMode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -489,7 +464,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOffline&unscoped_q=setOffline">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -507,7 +481,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReadOnlyCache&unscoped_q=setReadOnlyCache">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -522,6 +495,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

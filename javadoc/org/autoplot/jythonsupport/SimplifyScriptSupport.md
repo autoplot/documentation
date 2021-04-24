@@ -21,7 +21,6 @@ the script with lines at the end removed such that the script can compile.
 <a href='JythonCompletionTask.md#trimLinesToMakeValid'>JythonCompletionTask#trimLinesToMakeValid(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=alligatorParse&unscoped_q=alligatorParse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ line - a String
 the indent
 
 <a href="https://github.com/autoplot/dev/search?q=getIndent&unscoped_q=getIndent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +56,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSourceForStatement&unscoped_q=getSourceForStatement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -79,7 +76,6 @@ simplified version of the script.
 <a href='https://github.com/autoplot/dev/tree/master/bugs/sf/1687'>https://github.com/autoplot/dev/tree/master/bugs/sf/1687</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=removeSideEffects&unscoped_q=removeSideEffects">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -101,7 +97,6 @@ the python program with lengthy calls removed.
 <a href='JythonUtil.md#simplifyScriptToGetParams'>JythonUtil#simplifyScriptToGetParams(java.lang.String, boolean)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=simplifyScriptToCompletions&unscoped_q=simplifyScriptToCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -127,6 +122,5 @@ the simplified script
  int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=simplifyScriptToGetCompletions&unscoped_q=simplifyScriptToGetCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

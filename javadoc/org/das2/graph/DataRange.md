@@ -27,7 +27,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -45,7 +44,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addToFavorites&unscoped_q=addToFavorites">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +61,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addUpdateListener&unscoped_q=addUpdateListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,7 +75,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=clone&unscoped_q=clone">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -96,7 +92,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=findex&unscoped_q=findex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -115,7 +110,6 @@ org.das2.graph.DataRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAnimationDataRange&unscoped_q=getAnimationDataRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -130,7 +124,6 @@ org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCreator&unscoped_q=getCreator">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -145,7 +138,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumRange&unscoped_q=getDatumRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -160,7 +152,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFavorites&unscoped_q=getFavorites">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -175,7 +166,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getHistory&unscoped_q=getHistory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -190,7 +180,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMaximum&unscoped_q=getMaximum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -205,7 +194,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMinimum&unscoped_q=getMinimum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -220,7 +208,6 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -235,7 +222,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLog&unscoped_q=isLog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -253,7 +239,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeFromFavorites&unscoped_q=removeFromFavorites">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -272,7 +257,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -290,7 +274,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeUpdateListener&unscoped_q=removeUpdateListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -308,7 +291,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetRange&unscoped_q=resetRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -327,7 +309,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLog&unscoped_q=setLog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -345,7 +326,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMaximum&unscoped_q=setMaximum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -363,7 +343,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMinimum&unscoped_q=setMinimum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -381,7 +360,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRange&unscoped_q=setRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setRange( double min, double max ) &rarr; void<br>
@@ -397,7 +375,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRangeForward&unscoped_q=setRangeForward">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -412,7 +389,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRangePrev&unscoped_q=setRangePrev">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -430,7 +406,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUnits&unscoped_q=setUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -449,6 +424,5 @@ true if a lock is out and an object is rapidly mutating the object.
 true if a lock is out and an object is rapidly mutating the object.
 
 <a href="https://github.com/autoplot/dev/search?q=valueIsAdjusting&unscoped_q=valueIsAdjusting">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -47,7 +47,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFilter&unscoped_q=getFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +64,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFilter&unscoped_q=setFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,6 +81,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setInput&unscoped_q=setInput">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

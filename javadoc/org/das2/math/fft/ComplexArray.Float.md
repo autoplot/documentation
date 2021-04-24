@@ -16,7 +16,6 @@ i - an int
 the imaginary component of the complex element i.
 
 <a href="https://github.com/autoplot/dev/search?q=getImag&unscoped_q=getImag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -33,7 +32,6 @@ i - an int
 the real component of the complex element i.
 
 <a href="https://github.com/autoplot/dev/search?q=getReal&unscoped_q=getReal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ returns the number of elements
 the number of elements in the array
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,7 +63,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setImag&unscoped_q=setImag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -85,6 +81,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReal&unscoped_q=setReal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

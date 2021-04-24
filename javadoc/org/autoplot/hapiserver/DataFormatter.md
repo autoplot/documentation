@@ -18,7 +18,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=finalize&unscoped_q=finalize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=initialize&unscoped_q=initialize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,6 +55,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=sendRecord&unscoped_q=sendRecord">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

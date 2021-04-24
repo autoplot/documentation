@@ -17,7 +17,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -33,7 +32,6 @@ the file name and the arguments
 <a href='ScriptContext.md#formatDataSet'>ScriptContext#formatDataSet(QDataSet, java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getUri&unscoped_q=getUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -51,7 +49,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,7 +63,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=refresh&unscoped_q=refresh">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,6 +80,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUris&unscoped_q=setUris">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

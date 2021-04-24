@@ -75,7 +75,6 @@ org.das2.datum.TimeContext
 
 
 <a href="https://github.com/autoplot/dev/search?q=getContext&unscoped_q=getContext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +92,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=gt&unscoped_q=gt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -111,7 +109,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=le&unscoped_q=le">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -126,6 +123,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -17,7 +17,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=bindTo&unscoped_q=bindTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasAxis&unscoped_q=getDasAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeBindings&unscoped_q=removeBindings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +59,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeReferences&unscoped_q=removeReferences">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +76,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetAxisRange&unscoped_q=resetAxisRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +93,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetAxisUnits&unscoped_q=resetAxisUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -116,7 +110,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabelAutomatically&unscoped_q=setLabelAutomatically">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -135,7 +128,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRangeAutomatically&unscoped_q=setRangeAutomatically">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -149,6 +141,5 @@ true if the Axis is adjusting, or the DasAxis which implements.
 true if the Axis is adjusting, or the DasAxis which implements.
 
 <a href="https://github.com/autoplot/dev/search?q=valueIsAdjusting&unscoped_q=valueIsAdjusting">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

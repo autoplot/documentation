@@ -23,7 +23,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addTab&unscoped_q=addTab">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addTab( String title, java.awt.Component component ) &rarr; void<br>
@@ -43,7 +42,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dock&unscoped_q=dock">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -64,7 +62,6 @@ panel1 - component within the master frame.
 a listener
 
 <a href="https://github.com/autoplot/dev/search?q=getFrameComponentListener&unscoped_q=getFrameComponentListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -81,7 +78,6 @@ title - a String
 the component in this tab.
 
 <a href="https://github.com/autoplot/dev/search?q=getTabByTitle&unscoped_q=getTabByTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -96,7 +92,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=hideMouseAdapter&unscoped_q=hideMouseAdapter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -118,7 +113,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=insertTab&unscoped_q=insertTab">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -136,7 +130,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -151,7 +144,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=peek&unscoped_q=peek">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -169,7 +161,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=remove&unscoped_q=remove">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -187,7 +178,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeTabAt&unscoped_q=removeTabAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -205,7 +195,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSelectedIndex&unscoped_q=setSelectedIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -223,7 +212,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSelectedTab&unscoped_q=setSelectedTab">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +230,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=slideRight&unscoped_q=slideRight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -261,6 +248,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=tearOff&unscoped_q=tearOff">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

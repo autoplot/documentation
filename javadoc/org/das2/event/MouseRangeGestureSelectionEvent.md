@@ -17,7 +17,6 @@ org.das2.event.Gesture
 
 
 <a href="https://github.com/autoplot/dev/search?q=getGesture&unscoped_q=getGesture">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isBack&unscoped_q=isBack">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isForward&unscoped_q=isForward">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +59,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isGesture&unscoped_q=isGesture">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,6 +73,5 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isZoomOut&unscoped_q=isZoomOut">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

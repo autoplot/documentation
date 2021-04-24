@@ -18,7 +18,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkBreakpoint&unscoped_q=checkBreakpoint">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,7 +35,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=deserializeLogRecords&unscoped_q=deserializeLogRecords">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -55,6 +53,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=serializeLogRecords&unscoped_q=serializeLogRecords">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

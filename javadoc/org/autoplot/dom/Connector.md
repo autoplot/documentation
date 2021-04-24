@@ -75,7 +75,6 @@ org.autoplot.dom.DomNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +92,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=diffs&unscoped_q=diffs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -111,7 +109,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -126,7 +123,6 @@ java.awt.Color
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColor&unscoped_q=getColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -141,7 +137,6 @@ org.autoplot.dom.ConnectorController
 
 
 <a href="https://github.com/autoplot/dev/search?q=getController&unscoped_q=getController">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -156,7 +151,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCurtainOpacityPercent&unscoped_q=getCurtainOpacityPercent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -171,7 +165,6 @@ java.awt.Color
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFillColor&unscoped_q=getFillColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -186,7 +179,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotA&unscoped_q=getPlotA">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -201,7 +193,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotB&unscoped_q=getPlotB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -216,7 +207,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -231,7 +221,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isBottomCurtain&unscoped_q=isBottomCurtain">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -246,7 +235,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFill&unscoped_q=isFill">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -261,7 +249,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isVisible&unscoped_q=isVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -279,7 +266,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBottomCurtain&unscoped_q=setBottomCurtain">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -297,7 +283,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColor&unscoped_q=setColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -315,7 +300,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setController&unscoped_q=setController">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -333,7 +317,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCurtainOpacityPercent&unscoped_q=setCurtainOpacityPercent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -351,7 +334,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFill&unscoped_q=setFill">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -369,7 +351,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillColor&unscoped_q=setFillColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -387,7 +368,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotA&unscoped_q=setPlotA">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -405,7 +385,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotB&unscoped_q=setPlotB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -423,7 +402,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setVisible&unscoped_q=setVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -441,7 +419,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 syncTo( org.autoplot.dom.DomNode n, java.util.List exclude ) &rarr; void<br>
@@ -457,6 +434,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -34,7 +34,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addDataSetUpdateListener&unscoped_q=addDataSetUpdateListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +62,6 @@ dataSetID - the URL-like identifier.
 the DataSetDescriptor for the id.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +81,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=drawListIcon&unscoped_q=drawListIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -109,7 +106,6 @@ org.das2.dataset.DataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -124,7 +120,6 @@ the DataSetCache object used to store cached copies of the
  DataSets created by this object.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetCache&unscoped_q=getDataSetCache">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -138,7 +133,6 @@ getDataSetID(  ) &rarr; String
 the string that uniquely identifies this dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetID&unscoped_q=getDataSetID">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -153,7 +147,6 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -168,7 +161,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListLabel&unscoped_q=getListLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -185,7 +177,6 @@ name - The name of the property requested
 The value of the requested property as an Object
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -199,7 +190,6 @@ getXUnits(  ) &rarr; Units
 the x units of the DataSetDescriptor that parameterize the data.  This is used to identify dataSet requests.
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +207,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataSetUpdateListener&unscoped_q=removeDataSetUpdateListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +231,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=requestDataSet&unscoped_q=requestDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 requestDataSet( Datum start, Datum end, Datum resolution, ProgressMonitor monitor, Object lockObject, org.das2.dataset.DataSetUpdateListener listener ) &rarr; void<br>
@@ -260,7 +248,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -283,6 +270,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDefaultCaching&unscoped_q=setDefaultCaching">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

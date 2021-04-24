@@ -21,7 +21,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=contextDestroyed&unscoped_q=contextDestroyed">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,6 +38,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=contextInitialized&unscoped_q=contextInitialized">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

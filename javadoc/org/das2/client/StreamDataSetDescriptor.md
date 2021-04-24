@@ -17,7 +17,6 @@ org.das2.stream.PacketDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDefaultPacketDescriptor&unscoped_q=getDefaultPacketDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ org.das2.client.StandardDataStreamSource
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStandardDataStreamSource&unscoped_q=getStandardDataStreamSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +59,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isRestrictedAccess&unscoped_q=isRestrictedAccess">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +73,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isServerSideReduction&unscoped_q=isServerSideReduction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +90,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setServerSideReduction&unscoped_q=setServerSideReduction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,7 +107,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStandardDataStreamSource&unscoped_q=setStandardDataStreamSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,6 +121,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

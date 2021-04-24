@@ -38,7 +38,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,7 +56,6 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getJpegExifMetaData&unscoped_q=getJpegExifMetaData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getJpegExifMetaData( java.io.InputStream in ) &rarr; Map<br>
@@ -76,7 +74,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadata&unscoped_q=getMetadata">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,7 +91,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,6 +109,5 @@ image - a BufferedImage
 the created bufferedImage
 
 <a href="https://github.com/autoplot/dev/search?q=rotateImage&unscoped_q=rotateImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

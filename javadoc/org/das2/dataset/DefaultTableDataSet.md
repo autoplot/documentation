@@ -26,7 +26,6 @@ org.das2.dataset.DefaultTableDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=createSimple&unscoped_q=createSimple">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +43,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dump&unscoped_q=dump">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +61,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDatum&unscoped_q=getDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +80,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDouble&unscoped_q=getDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +98,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDoubleScan&unscoped_q=getDoubleScan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +117,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInt&unscoped_q=getInt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -140,7 +134,6 @@ org.das2.dataset.DataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlanarView&unscoped_q=getPlanarView">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +148,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlaneIds&unscoped_q=getPlaneIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,7 +165,6 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getScan&unscoped_q=getScan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -191,7 +182,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYLength&unscoped_q=getYLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -210,7 +200,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYTagDatum&unscoped_q=getYTagDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -230,7 +219,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYTagDouble&unscoped_q=getYTagDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -250,7 +238,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYTagInt&unscoped_q=getYTagInt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -268,7 +255,6 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYTags&unscoped_q=getYTags">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -286,7 +272,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printDebugInfo&unscoped_q=printDebugInfo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -301,7 +286,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=tableCount&unscoped_q=tableCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -319,7 +303,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=tableEnd&unscoped_q=tableEnd">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -337,7 +320,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=tableOfIndex&unscoped_q=tableOfIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -355,7 +337,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=tableStart&unscoped_q=tableStart">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -370,7 +351,6 @@ this is a highly-interleaved table, and if we sort it out and create a
 a QDataSet version of the data
 
 <a href="https://github.com/autoplot/dev/search?q=toQDataSet&unscoped_q=toQDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -385,6 +365,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -42,7 +42,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/ContentHandler.md#endDocument'>org.xml.sax.ContentHandler#endDocument</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=endDocument&unscoped_q=endDocument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +61,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=endElement&unscoped_q=endElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +81,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/SAXParseException.md'>org.xml.sax.SAXParseException</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=error&unscoped_q=error">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,7 +101,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/SAXParseException.md'>org.xml.sax.SAXParseException</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=fatalError&unscoped_q=fatalError">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +119,6 @@ Returns the last error encountered by this validator
 the last error.
 
 <a href="https://github.com/autoplot/dev/search?q=getLastError&unscoped_q=getLastError">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -141,7 +136,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -162,7 +156,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/Locator.md'>org.xml.sax.Locator</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setDocumentLocator&unscoped_q=setDocumentLocator">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -179,7 +172,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/ContentHandler.md#startDocument'>org.xml.sax.ContentHandler#startDocument</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=startDocument&unscoped_q=startDocument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -202,7 +194,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/ContentHandler.md#startElement'>org.xml.sax.ContentHandler#startElement</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=startElement&unscoped_q=startElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -225,7 +216,6 @@ source - The source of the XML document
 true if the document is a valid dasML document.
 
 <a href="https://github.com/autoplot/dev/search?q=validate&unscoped_q=validate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -246,6 +236,5 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/xml/sax/SAXParseException.md'>org.xml.sax.SAXParseException</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=warning&unscoped_q=warning">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

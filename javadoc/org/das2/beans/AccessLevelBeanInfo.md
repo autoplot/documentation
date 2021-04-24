@@ -17,7 +17,6 @@ org.das2.beans.AccessLevelBeanInfo.AccessLevel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAccessLevel&unscoped_q=getAccessLevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ a java.beans.BeanDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBeanDescriptor&unscoped_q=getBeanDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLock&unscoped_q=getLock">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +62,6 @@ an org.das2.beans.AccessLevelBeanInfo.Property
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +80,6 @@ java.beans.PropertyDescriptor[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyDescriptors&unscoped_q=getPropertyDescriptors">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPropertyDescriptors(  ) &rarr; PropertyDescriptor<br>
@@ -103,6 +98,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAccessLevel&unscoped_q=setAccessLevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

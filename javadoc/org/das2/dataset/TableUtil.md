@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkForNaN&unscoped_q=checkForNaN">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,7 +39,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=closestDatum&unscoped_q=closestDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=closestRow&unscoped_q=closestRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 closestRow( org.das2.dataset.TableDataSet table, int itable, double x, Units units ) &rarr; int<br>
@@ -81,7 +78,6 @@ org.das2.dataset.VectorDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=collapse&unscoped_q=collapse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +98,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpToAsciiStream&unscoped_q=dumpToAsciiStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dumpToAsciiStream( org.das2.dataset.TableDataSet tds, java.io.OutputStream out ) &rarr; void<br>
@@ -123,7 +118,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpToBinaryStream&unscoped_q=dumpToBinaryStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -144,7 +138,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpToDas2Stream&unscoped_q=dumpToDas2Stream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dumpToDas2Stream( org.das2.dataset.TableDataSet tds, java.nio.channels.WritableByteChannel out, boolean asciiTransferTypes, boolean sendStreamDescriptor ) &rarr; void<br>
@@ -164,7 +157,6 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumVector&unscoped_q=getDatumVector">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -182,7 +174,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLargestYTag&unscoped_q=getLargestYTag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -201,7 +192,6 @@ ds - a TableDataSet
 the row which is greater than or equal to the datum
 
 <a href="https://github.com/autoplot/dev/search?q=getNextRow&unscoped_q=getNextRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -220,7 +210,6 @@ ds - a TableDataSet
 the row which is less than or equal to the datum
 
 <a href="https://github.com/autoplot/dev/search?q=getPreviousRow&unscoped_q=getPreviousRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -238,7 +227,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSmallestYTag&unscoped_q=getSmallestYTag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -258,7 +246,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYTagArrayDouble&unscoped_q=getYTagArrayDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -277,7 +264,6 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYTagsDatumVector&unscoped_q=getYTagsDatumVector">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -295,7 +281,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessYTagWidth&unscoped_q=guessYTagWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 guessYTagWidth( org.das2.dataset.TableDataSet table, int itable ) &rarr; Datum<br>
@@ -315,7 +300,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=tableIndexAt&unscoped_q=tableIndexAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -334,7 +318,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=tableMax&unscoped_q=tableMax">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -352,6 +335,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

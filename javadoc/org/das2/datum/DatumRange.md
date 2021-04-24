@@ -29,7 +29,6 @@ o - the DatumRange to compare this DatumRange to.
 an int &lt; 0 if this comes before DatumRange a in this DatumRange's units space, 0 if they are equal, and &gt; 0 otherwise.
 
 <a href="https://github.com/autoplot/dev/search?q=compareTo&unscoped_q=compareTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +45,6 @@ dr - the datum range to test.
 true iff this.union(dr).equals(this);
 
 <a href="https://github.com/autoplot/dev/search?q=contains&unscoped_q=contains">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 contains( Datum d ) &rarr; boolean<br>
@@ -66,7 +64,6 @@ u - the new units.
 the DatumRange in the new units.
 
 <a href="https://github.com/autoplot/dev/search?q=convertTo&unscoped_q=convertTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +81,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +94,6 @@ return the units of the DatumRange.
 the units of the DatumRange.
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,7 +108,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -136,7 +130,6 @@ d - the Datum to include
 the new range.
 
 <a href="https://github.com/autoplot/dev/search?q=include&unscoped_q=include">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -156,7 +149,6 @@ the intersection of the two intersecting ranges.
 <a href='DatumRangeUtil.md#sloppyIntersection'>DatumRangeUtil#sloppyIntersection(org.das2.datum.DatumRange, org.das2.datum.DatumRange)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=intersection&unscoped_q=intersection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -174,7 +166,6 @@ dr - a valid datum range
 true of the DatumRange overlaps this
 
 <a href="https://github.com/autoplot/dev/search?q=intersects&unscoped_q=intersects">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -188,7 +179,6 @@ returns the bigger value or stop of the range.
 the bigger value or stop of the range.
 
 <a href="https://github.com/autoplot/dev/search?q=max&unscoped_q=max">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -203,7 +193,6 @@ returns the middle value of the range, often useful when
 the middle value of the range.
 
 <a href="https://github.com/autoplot/dev/search?q=middle&unscoped_q=middle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +206,6 @@ returns the smaller value or start of the range.
 the smaller value or start of the range.
 
 <a href="https://github.com/autoplot/dev/search?q=min&unscoped_q=min">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -237,7 +225,6 @@ min - the minimum value
 the DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=newDatumRange&unscoped_q=newDatumRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -255,7 +242,6 @@ returns the next DatumRange covering the space defined by Units.  Typically,
 the next DatumRange covering the space defined by Units.
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -274,7 +260,6 @@ returns the previous DatumRange covering the space defined by Units.  See
 the previous DatumRange covering the space defined by Units
 
 <a href="https://github.com/autoplot/dev/search?q=previous&unscoped_q=previous">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -293,7 +278,6 @@ returns a human consumable representation of the string.  This should also be pa
 the DatumRange as a String.
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -310,7 +294,6 @@ dr - the other range of consistent units.
 DatumRange union of the two DatumRanges
 
 <a href="https://github.com/autoplot/dev/search?q=union&unscoped_q=union">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -326,7 +309,6 @@ returns the width of the range, which is simply the greater minus the lessor.
 Datum that is the width of the range (max.subtract(min)).
 
 <a href="https://github.com/autoplot/dev/search?q=width&unscoped_q=width">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -346,6 +328,5 @@ a scaled DatumRange, with a new width that is the this
  datumRange's width multiplied by factor, and the same center.
 
 <a href="https://github.com/autoplot/dev/search?q=zoomOut&unscoped_q=zoomOut">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

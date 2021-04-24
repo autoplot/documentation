@@ -102,6 +102,5 @@ a JSONObject
 <a href='https://sourceforge.net/p/autoplot/feature-requests/696/'>https://sourceforge.net/p/autoplot/feature-requests/696/</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=resolveRefs&unscoped_q=resolveRefs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

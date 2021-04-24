@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearDocumentationHistory&unscoped_q=clearDocumentationHistory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ javax.swing.text.JTextComponent
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEditorComponent&unscoped_q=getEditorComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,7 +48,6 @@ org.das2.jythoncompletion.support.CompletionItem
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedCompletionItem&unscoped_q=getSelectedCompletionItem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +62,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedIndex&unscoped_q=getSelectedIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +76,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=hideCompletion&unscoped_q=hideCompletion">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +90,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=hideDocumentation&unscoped_q=hideDocumentation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -110,7 +104,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=hideToolTip&unscoped_q=hideToolTip">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -125,7 +118,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isCompletionVisible&unscoped_q=isCompletionVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -140,7 +132,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDocumentationVisible&unscoped_q=isDocumentationVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +146,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isToolTipVisible&unscoped_q=isToolTipVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,7 +163,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=processKeyEvent&unscoped_q=processKeyEvent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -191,7 +180,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEditorComponent&unscoped_q=setEditorComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -214,7 +202,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showCompletion&unscoped_q=showCompletion">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -233,7 +220,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showDocumentation&unscoped_q=showDocumentation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -252,6 +238,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showToolTip&unscoped_q=showToolTip">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

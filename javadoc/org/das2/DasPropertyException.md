@@ -47,7 +47,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMessage&unscoped_q=getMessage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +61,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getObjectName&unscoped_q=getObjectName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +75,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyName&unscoped_q=getPropertyName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -92,7 +89,6 @@ org.das2.DasPropertyException.MessageType
 
 
 <a href="https://github.com/autoplot/dev/search?q=getType&unscoped_q=getType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -110,7 +106,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMessageType&unscoped_q=setMessageType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,7 +123,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setObjectName&unscoped_q=setObjectName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -146,6 +140,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPropertyName&unscoped_q=setPropertyName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

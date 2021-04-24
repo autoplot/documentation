@@ -20,7 +20,6 @@ byte[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasExceptionStream&unscoped_q=getDasExceptionStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=process&unscoped_q=process">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 process( java.io.InputStream in ) &rarr; InputStream<br>

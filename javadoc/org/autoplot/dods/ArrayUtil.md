@@ -21,7 +21,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putValues&unscoped_q=putValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putValues( org.das2.qds.WritableDataSet ds, int i, Object o ) &rarr; void<br>

@@ -25,7 +25,6 @@ tds - the rank 2 table dataset
 rank 2 bundle of x,y,z where DEPEND_0 indicates the step number.
 
 <a href="https://github.com/autoplot/dev/search?q=contour&unscoped_q=contour">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 contour( QDataSet tds, Datum level ) &rarr; QDataSet<br>

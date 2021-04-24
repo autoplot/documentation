@@ -17,7 +17,6 @@ org.autoplot.datasource.DataSourceFormatEditorPanel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFormatEditorPanel&unscoped_q=getDataSourceFormatEditorPanel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -31,7 +30,6 @@ return the extension selected
 the extension selected
 
 <a href="https://github.com/autoplot/dev/search?q=getExtension&unscoped_q=getExtension">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +44,6 @@ return the filename selected by the GUI.  This will append the correct
 the filename.
 
 <a href="https://github.com/autoplot/dev/search?q=getFilename&unscoped_q=getFilename">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +57,6 @@ getFilenameTF(  ) &rarr; JTextField
 the filenameTF
 
 <a href="https://github.com/autoplot/dev/search?q=getFilenameTF&unscoped_q=getFilenameTF">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +70,6 @@ getFormatDL(  ) &rarr; JComboBox
 the formatDL
 
 <a href="https://github.com/autoplot/dev/search?q=getFormatDL&unscoped_q=getFormatDL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +84,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFormatPlotElement&unscoped_q=isFormatPlotElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,7 +98,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFormatPlotElementAndTrim&unscoped_q=isFormatPlotElementAndTrim">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +112,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOriginalData&unscoped_q=isOriginalData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +129,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setDataSet( QDataSet ds ) &rarr; void<br>

@@ -24,6 +24,5 @@ list of parameters.
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/autoplot/jythonsupport/ui/ParametersFormPanel.md#doVariables'>org.autoplot.jythonsupport.ui.ParametersFormPanel#doVariables(java.util.Map, java.lang.String, java.util.Map, javax.swing.JPanel)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getParams&unscoped_q=getParams">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

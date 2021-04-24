@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=authenticate&unscoped_q=authenticate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ org.das2.client.DasServer
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasServer&unscoped_q=getDasServer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,7 +48,6 @@ use the develop version of the reader instead of the
 the devel string used instead of production server.
 
 <a href="https://github.com/autoplot/dev/search?q=getDevel&unscoped_q=getDevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -70,7 +67,6 @@ java.io.InputStream
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInputStream&unscoped_q=getInputStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +80,6 @@ Getter for property key.
 Value of property key.
 
 <a href="https://github.com/autoplot/dev/search?q=getKey&unscoped_q=getKey">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +93,6 @@ Getter for property lastRequestURL.
 Value of property lastRequestURL.
 
 <a href="https://github.com/autoplot/dev/search?q=getLastRequestURL&unscoped_q=getLastRequestURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +113,6 @@ java.io.InputStream
 
 
 <a href="https://github.com/autoplot/dev/search?q=getReducedInputStream&unscoped_q=getReducedInputStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -133,7 +126,6 @@ Getter for property compress.
 Value of property compress.
 
 <a href="https://github.com/autoplot/dev/search?q=isCompress&unscoped_q=isCompress">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -148,7 +140,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLegacyStream&unscoped_q=isLegacyStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -162,7 +153,6 @@ Getter for property redirect.
 Value of property redirect.
 
 <a href="https://github.com/autoplot/dev/search?q=isRedirect&unscoped_q=isRedirect">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -177,7 +167,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -195,7 +184,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCompress&unscoped_q=setCompress">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -215,7 +203,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDevel&unscoped_q=setDevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -233,7 +220,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLastRequestURL&unscoped_q=setLastRequestURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -251,6 +237,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRedirect&unscoped_q=setRedirect">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

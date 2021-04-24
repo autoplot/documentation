@@ -24,7 +24,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__abs__&unscoped_q=__abs__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -42,7 +41,6 @@ org.autoplot.jythonsupport.PyQDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=__add__&unscoped_q=__add__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__and__&unscoped_q=__and__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,7 +75,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=__coerce_ex__&unscoped_q=__coerce_ex__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -96,7 +92,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=__delattr__&unscoped_q=__delattr__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -114,7 +109,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__div__&unscoped_q=__div__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -132,7 +126,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__eq__&unscoped_q=__eq__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -150,7 +143,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__findattr__&unscoped_q=__findattr__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -165,7 +157,6 @@ PyFloat
 
 
 <a href="https://github.com/autoplot/dev/search?q=__float__&unscoped_q=__float__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -183,7 +174,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__floordiv__&unscoped_q=__floordiv__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -201,7 +191,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__ge__&unscoped_q=__ge__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -224,7 +213,6 @@ arg0 - various python types http://autoplot.org/developer.python.indexing
 element or subset of data.
 
 <a href="https://github.com/autoplot/dev/search?q=__getitem__&unscoped_q=__getitem__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +230,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__gt__&unscoped_q=__gt__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -257,7 +244,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__int__&unscoped_q=__int__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -272,7 +258,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__iter__&unscoped_q=__iter__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -290,7 +275,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__le__&unscoped_q=__le__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -305,7 +289,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=__len__&unscoped_q=__len__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -320,7 +303,6 @@ PyLong
 
 
 <a href="https://github.com/autoplot/dev/search?q=__long__&unscoped_q=__long__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -338,7 +320,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__lt__&unscoped_q=__lt__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -356,7 +337,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__mod__&unscoped_q=__mod__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -374,7 +354,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__mul__&unscoped_q=__mul__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -392,7 +371,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__ne__&unscoped_q=__ne__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -407,7 +385,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__neg__&unscoped_q=__neg__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -422,7 +399,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=__nonzero__&unscoped_q=__nonzero__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -440,7 +416,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__or__&unscoped_q=__or__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -455,7 +430,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__pos__&unscoped_q=__pos__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -473,7 +447,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__pow__&unscoped_q=__pow__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -491,7 +464,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__radd__&unscoped_q=__radd__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -509,7 +481,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__rdiv__&unscoped_q=__rdiv__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -527,7 +498,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__rfloordiv__&unscoped_q=__rfloordiv__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -545,7 +515,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__rmod__&unscoped_q=__rmod__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -563,7 +532,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__rmul__&unscoped_q=__rmul__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -581,7 +549,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__rpow__&unscoped_q=__rpow__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -599,7 +566,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__rsub__&unscoped_q=__rsub__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -618,7 +584,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=__setattr__&unscoped_q=__setattr__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -640,7 +605,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=__setitem__&unscoped_q=__setitem__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -658,7 +622,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=__sub__&unscoped_q=__sub__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -675,7 +638,6 @@ c - the class needed.
 instance of the class if available.
 
 <a href="https://github.com/autoplot/dev/search?q=__tojava__&unscoped_q=__tojava__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -693,7 +655,6 @@ org.autoplot.jythonsupport.PyQDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -708,7 +669,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getQDataSet&unscoped_q=getQDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -723,7 +683,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSerialNumber&unscoped_q=getSerialNumber">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -741,7 +700,6 @@ PyObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=invoke&unscoped_q=invoke">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 invoke( String name, PyObject arg1 ) &rarr; PyObject<br>
@@ -760,7 +718,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isNumberType&unscoped_q=isNumberType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -779,7 +736,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putProperty&unscoped_q=putProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putProperty( PyString prop, int index, Object value ) &rarr; void<br>
@@ -798,7 +754,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putValue( int i0, double value ) &rarr; void<br>
@@ -817,6 +772,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

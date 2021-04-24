@@ -17,7 +17,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedFile&unscoped_q=getSelectedFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,6 +34,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCurrentFile&unscoped_q=setCurrentFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

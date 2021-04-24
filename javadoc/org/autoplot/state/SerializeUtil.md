@@ -27,7 +27,6 @@ document - the document to which the node is added.
 the Document (XML) element for the node.
 
 <a href="https://github.com/autoplot/dev/search?q=getDomElement&unscoped_q=getDomElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDomElement( org.w3c.dom.Document document, org.autoplot.dom.DomNode node, org.autoplot.state.VapScheme scheme, boolean includeDefaults ) &rarr; Element<br>
@@ -47,7 +46,6 @@ an org.autoplot.dom.DomNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDomNode&unscoped_q=getDomNode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -68,7 +66,6 @@ an org.w3c.dom.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=getElementForLeafNode&unscoped_q=getElementForLeafNode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,6 +83,5 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLeafNode&unscoped_q=getLeafNode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

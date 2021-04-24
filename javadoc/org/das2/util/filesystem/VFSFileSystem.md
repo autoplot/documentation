@@ -15,7 +15,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -33,7 +32,6 @@ org.das2.util.filesystem.VFSFileSystem
 
 
 <a href="https://github.com/autoplot/dev/search?q=createVFSFileSystem&unscoped_q=createVFSFileSystem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createVFSFileSystem( java.net.URI root, boolean createFolder ) &rarr; VFSFileSystem<br>
@@ -52,7 +50,6 @@ org.das2.util.filesystem.FileObject
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFileObject&unscoped_q=getFileObject">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +64,6 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLocalRoot&unscoped_q=getLocalRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -85,7 +81,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDirectory&unscoped_q=isDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -100,7 +95,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLocal&unscoped_q=isLocal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +113,6 @@ a java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectory&unscoped_q=listDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 listDirectory( String directory, String regex ) &rarr; String<br>

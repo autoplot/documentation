@@ -23,7 +23,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLoaded&unscoped_q=isLoaded">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,7 +40,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=load&unscoped_q=load">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ org.das2.catalog.DasProp
 
 
 <a href="https://github.com/autoplot/dev/search?q=prop&unscoped_q=prop">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 prop( String sFragment ) &rarr; DasProp<br>
@@ -79,7 +76,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=query&unscoped_q=query">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -97,7 +93,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=queryVerify&unscoped_q=queryVerify">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -112,6 +107,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=type&unscoped_q=type">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -32,7 +32,6 @@ triangles - triangles mesh, presently tri[n,3] but may soon be tri[n,4] as well.
 dataset with the same geometry as itriangle.
 
 <a href="https://github.com/autoplot/dev/search?q=griddata&unscoped_q=griddata">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 griddata( QDataSet xx, QDataSet yy, QDataSet buck ) &rarr; QDataSet<br>
@@ -52,7 +51,6 @@ buck - the data (e.g. buck[o,nfree])
 the locations itri[o]
 
 <a href="https://github.com/autoplot/dev/search?q=triLocate&unscoped_q=triLocate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -69,7 +67,6 @@ buck - dataset[m,nvert-1].
 tri[n,3]
 
 <a href="https://github.com/autoplot/dev/search?q=triangulate&unscoped_q=triangulate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,6 +86,5 @@ buck - the data (e.g. buck[o,nfree])
 rank 2 (e.g. weights[m,2])
 
 <a href="https://github.com/autoplot/dev/search?q=weights&unscoped_q=weights">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -128,7 +128,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=childNodes&unscoped_q=childNodes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -143,7 +142,6 @@ org.autoplot.dom.DomNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -161,7 +159,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=diffs&unscoped_q=diffs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -176,7 +173,6 @@ java.awt.Color
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBackground&unscoped_q=getBackground">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -191,7 +187,6 @@ org.das2.graph.DasColorBar.Type
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColortable&unscoped_q=getColortable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -206,7 +201,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnId&unscoped_q=getColumnId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -221,7 +215,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getContext&unscoped_q=getContext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -236,7 +229,6 @@ org.autoplot.dom.PlotController
 
 
 <a href="https://github.com/autoplot/dev/search?q=getController&unscoped_q=getController">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -251,7 +243,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFontSize&unscoped_q=getFontSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -266,7 +257,6 @@ org.das2.graph.LegendPosition
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLegendPosition&unscoped_q=getLegendPosition">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -281,7 +271,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRowId&unscoped_q=getRowId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -296,7 +285,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTicksURI&unscoped_q=getTicksURI">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -311,7 +299,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTitle&unscoped_q=getTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -326,7 +313,6 @@ org.autoplot.dom.Axis
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXaxis&unscoped_q=getXaxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -341,7 +327,6 @@ org.autoplot.dom.Axis
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYaxis&unscoped_q=getYaxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -356,7 +341,6 @@ org.autoplot.dom.Axis
 
 
 <a href="https://github.com/autoplot/dev/search?q=getZaxis&unscoped_q=getZaxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -371,7 +355,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoBinding&unscoped_q=isAutoBinding">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -386,7 +369,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoLabel&unscoped_q=isAutoLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -401,7 +383,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDisplayLegend&unscoped_q=isDisplayLegend">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -416,7 +397,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDisplayTitle&unscoped_q=isDisplayTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -431,7 +411,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isIsotropic&unscoped_q=isIsotropic">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -446,7 +425,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isVisible&unscoped_q=isVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -464,7 +442,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoBinding&unscoped_q=setAutoBinding">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -482,7 +459,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoLabel&unscoped_q=setAutoLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -501,7 +477,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBackground&unscoped_q=setBackground">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -519,7 +494,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColortable&unscoped_q=setColortable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -537,7 +511,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColumnId&unscoped_q=setColumnId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -555,7 +528,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setContext&unscoped_q=setContext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -573,7 +545,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDisplayLegend&unscoped_q=setDisplayLegend">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -591,7 +562,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDisplayTitle&unscoped_q=setDisplayTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -610,7 +580,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFontSize&unscoped_q=setFontSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -628,7 +597,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setIsotropic&unscoped_q=setIsotropic">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -646,7 +614,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLegendPosition&unscoped_q=setLegendPosition">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -664,7 +631,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRowId&unscoped_q=setRowId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -682,7 +648,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTicksURI&unscoped_q=setTicksURI">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -700,7 +665,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTitle&unscoped_q=setTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -718,7 +682,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setVisible&unscoped_q=setVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -736,7 +699,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setXaxis&unscoped_q=setXaxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -754,7 +716,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setYaxis&unscoped_q=setYaxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -772,7 +733,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setZaxis&unscoped_q=setZaxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -790,7 +750,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 syncTo( org.autoplot.dom.DomNode n, java.util.List exclude ) &rarr; void<br>

@@ -25,7 +25,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=convertForward&unscoped_q=convertForward">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -43,6 +42,5 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=convertReverse&unscoped_q=convertReverse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

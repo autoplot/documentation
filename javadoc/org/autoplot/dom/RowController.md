@@ -14,7 +14,6 @@ org.autoplot.dom.Canvas
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvas&unscoped_q=getCanvas">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -29,7 +28,6 @@ org.das2.graph.DasRow
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasRow&unscoped_q=getDasRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +44,6 @@ spec - spec like "30%+1em,60%-4em"
 true if they are equal.
 
 <a href="https://github.com/autoplot/dev/search?q=isLayoutEqual&unscoped_q=isLayoutEqual">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -61,7 +58,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeBindings&unscoped_q=removeBindings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,6 +72,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeReferences&unscoped_q=removeReferences">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

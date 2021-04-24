@@ -144,7 +144,6 @@ org.das2.datum.TimeUtil.TimeStruct
 
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -163,7 +162,6 @@ the normalized TimeStruct
 <a href='#normalize'>normalize(org.das2.datum.TimeUtil.TimeStruct)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=borrow&unscoped_q=borrow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -183,7 +181,6 @@ t - a time structure
 a time structure where extra minutes are moved into hours, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=carry&unscoped_q=carry">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -201,7 +198,6 @@ step - the ordinal location, such as TimeUtil.DAY or TimeUtil.HALF_YEAR
 the next ordinal boundary if we aren't at one already.
 
 <a href="https://github.com/autoplot/dev/search?q=ceil&unscoped_q=ceil">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -224,7 +220,6 @@ year - the year, which must be greater than 1582
 a double in the given units.
 
 <a href="https://github.com/autoplot/dev/search?q=convert&unscoped_q=convert">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +237,6 @@ a Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -267,7 +261,6 @@ year - four digit year &gt;= 1060.
 a Datum with units Units.us2000.
 
 <a href="https://github.com/autoplot/dev/search?q=createTimeDatum&unscoped_q=createTimeDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -287,7 +280,6 @@ a Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=createValid&unscoped_q=createValid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -305,7 +297,6 @@ t - a time.
 the day containing the time.
 
 <a href="https://github.com/autoplot/dev/search?q=dayContaining&unscoped_q=dayContaining">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -324,7 +315,6 @@ month - the month, january=1, february=2, etc.
 the day of year
 
 <a href="https://github.com/autoplot/dev/search?q=dayOfYear&unscoped_q=dayOfYear">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -343,7 +333,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=daysInMonth&unscoped_q=daysInMonth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -361,7 +350,6 @@ step - the ordinal location, such as TimeUtil.DAY or TimeUtil.HALF_YEAR
 the previous ordinal boundary if we aren't at one already.
 
 <a href="https://github.com/autoplot/dev/search?q=floor&unscoped_q=floor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -379,7 +367,6 @@ time - a Datum
 seven-element int array.
 
 <a href="https://github.com/autoplot/dev/search?q=fromDatum&unscoped_q=fromDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -398,7 +385,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getJulianDay&unscoped_q=getJulianDay">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getJulianDay( long val, Units units ) &rarr; int<br>
@@ -417,7 +403,6 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMicroSecondsSinceMidnight&unscoped_q=getMicroSecondsSinceMidnight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -435,7 +420,6 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSecondsSinceMidnight&unscoped_q=getSecondsSinceMidnight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -453,7 +437,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLeapYear&unscoped_q=isLeapYear">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -471,7 +454,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isValidTime&unscoped_q=isValidTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -495,7 +477,6 @@ the Julian day
 <a href='julianToGregorian.md'>julianToGregorian</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=julianDay&unscoped_q=julianDay">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -517,7 +498,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=julianDayIMCCE&unscoped_q=julianDayIMCCE">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -538,7 +518,6 @@ a TimeStruct with the month, day and year fields set.
 <a href='julianDay.md'>julianDay( int year, int mon, int day )</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=julianToGregorian&unscoped_q=julianToGregorian">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -556,7 +535,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -573,7 +551,6 @@ mon - integer from 1 to 12.
 three character English month name.
 
 <a href="https://github.com/autoplot/dev/search?q=monthNameAbbrev&unscoped_q=monthNameAbbrev">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -590,7 +567,6 @@ s - the three-letter month name, jan,feb,...,nov,dec
 1,2,...,11,12 for the English month name
 
 <a href="https://github.com/autoplot/dev/search?q=monthNumber&unscoped_q=monthNumber">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -609,7 +585,6 @@ td - the boundary, e.g. TimeUtil.TD_HALF_YEAR
 the boundary
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 next( int step, Datum datum ) &rarr; Datum<br>
@@ -628,7 +603,6 @@ datum - a Datum
 the Datum for the next day boundary.
 
 <a href="https://github.com/autoplot/dev/search?q=nextMidnight&unscoped_q=nextMidnight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -654,7 +628,6 @@ an org.das2.datum.TimeUtil.TimeStruct
 <a href='#borrow'>borrow(org.das2.datum.TimeUtil.TimeStruct)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=normalize&unscoped_q=normalize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -668,7 +641,6 @@ return the current time as a Datum.
 the current time as a Datum.
 
 <a href="https://github.com/autoplot/dev/search?q=now&unscoped_q=now">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -688,7 +660,6 @@ an org.das2.datum.TimeUtil.TimeStruct
 <a href='#createValid'>createValid(java.lang.String)</a> createValid which creates a Datum.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=parseTime&unscoped_q=parseTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -707,7 +678,6 @@ step - the ordinal location, such as TimeUtil.DAY or TimeUtil.HALF_YEAR
 the prev boundary location.
 
 <a href="https://github.com/autoplot/dev/search?q=prev&unscoped_q=prev">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -725,7 +695,6 @@ datum - a Datum
 the Datum for the next day boundary.
 
 <a href="https://github.com/autoplot/dev/search?q=prevMidnight&unscoped_q=prevMidnight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -742,7 +711,6 @@ datum - a Datum
 the datum
 
 <a href="https://github.com/autoplot/dev/search?q=prevWeek&unscoped_q=prevWeek">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -761,7 +729,6 @@ ts - a time structure
 rounded and normalized TimeStruct.
 
 <a href="https://github.com/autoplot/dev/search?q=roundNDigits&unscoped_q=roundNDigits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -780,7 +747,6 @@ org.das2.datum.TimeUtil.TimeStruct
 
 
 <a href="https://github.com/autoplot/dev/search?q=subtract&unscoped_q=subtract">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -799,7 +765,6 @@ d - the decomposed time or time width.
 the Datum.
 
 <a href="https://github.com/autoplot/dev/search?q=toDatum&unscoped_q=toDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 toDatum( org.das2.datum.TimeUtil.TimeStruct d, Units u ) &rarr; Datum<br>
@@ -824,7 +789,6 @@ a Datum
 <a href='DatumRangeUtil.md#parseISO8601Duration'>DatumRangeUtil#parseISO8601Duration(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=toDatumDuration&unscoped_q=toDatumDuration">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -847,7 +811,6 @@ datum - with time location units.
 TimeStruct containing the time components.
 
 <a href="https://github.com/autoplot/dev/search?q=toTimeStruct&unscoped_q=toTimeStruct">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 toTimeStruct( Datum datum ) &rarr; TimeStruct<br>

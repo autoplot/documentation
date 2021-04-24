@@ -23,7 +23,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=about&unscoped_q=about">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +43,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 append( org.das2.qds.ArrayDataSet ds1, org.das2.qds.ArrayDataSet ds2 ) &rarr; ArrayDataSet<br>
@@ -64,7 +62,6 @@ ds - the dataset to test
 true if the dataset can be appended.
 
 <a href="https://github.com/autoplot/dev/search?q=canAppend&unscoped_q=canAppend">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +80,6 @@ c - the primitive type to use (e.g. double.class, float.class, int.class).
 ArrayDataSet of specific type.
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 copy( QDataSet ds ) &rarr; ArrayDataSet<br>
@@ -107,7 +103,6 @@ the dataset
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/BufferDataSet which also supports unsigned types/.md'>BufferDataSet which also supports unsigned types.</a> which also supports unsigned types.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -125,7 +120,6 @@ c - the primitive class of each element.
 the ArrayDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=createRank0&unscoped_q=createRank0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -144,7 +138,6 @@ c - the primitive class of each element.
 the ArrayDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=createRank1&unscoped_q=createRank1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -164,7 +157,6 @@ c - the primitive class of each element.
 the ArrayDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=createRank2&unscoped_q=createRank2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -185,7 +177,6 @@ c - the primitive class of each element.
 the ArrayDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=createRank3&unscoped_q=createRank3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -207,7 +198,6 @@ c - the primitive class of each element.
 the ArrayDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=createRank4&unscoped_q=createRank4">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -226,7 +216,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=flattenArray&unscoped_q=flattenArray">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +231,6 @@ the component type of the backing array.
 <a href='#create'>create(java.lang.Class, int[])</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getComponentType&unscoped_q=getComponentType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -262,7 +250,6 @@ void (returns nothing)
 <a href='#putLength'>putLength(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=grow&unscoped_q=grow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -282,7 +269,6 @@ the backing store class, one of double.class, float.class, int.class, short.clas
 <a href='#copy'>copy(QDataSet)</a> copy<br>
 
 <a href="https://github.com/autoplot/dev/search?q=guessBackingStore&unscoped_q=guessBackingStore">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -298,7 +284,6 @@ the size of the dataset in bytes.
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/buffer/BufferDataSet which stores data outside of the JVM/.md'>org.das2.qds.buffer.BufferDataSet which stores data outside of the JVM.</a> which stores data outside of the JVM.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=jvmMemory&unscoped_q=jvmMemory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -313,7 +298,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 length( int i ) &rarr; int<br>
@@ -334,7 +318,6 @@ ds - the dataset to copy, which may be an ArrayDataSet
 an ArrayDataSet.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeCopy&unscoped_q=maybeCopy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 maybeCopy( java.lang.Class c, QDataSet ds ) &rarr; ArrayDataSet<br>
@@ -353,7 +336,6 @@ ds - ArrayDataSet, which must be writable.
 dataset, possibly with records removed.
 
 <a href="https://github.com/autoplot/dev/search?q=monotonicSubset&unscoped_q=monotonicSubset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -371,7 +353,6 @@ ds - ArrayDataSet, which must be writable.
 dataset, possibly with records removed.
 
 <a href="https://github.com/autoplot/dev/search?q=monotonicSubset2&unscoped_q=monotonicSubset2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -393,7 +374,6 @@ void (returns nothing)
 <a href='#grow'>grow(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=putLength&unscoped_q=putLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -408,7 +388,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -429,7 +408,6 @@ units - units object, like Units.seconds
 this dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=setUnits&unscoped_q=setUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -444,7 +422,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -466,6 +443,5 @@ ArrayDataSet
 <a href='#create'>create(java.lang.Class, int[])</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=wrap&unscoped_q=wrap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

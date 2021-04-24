@@ -13,7 +13,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=ceil&unscoped_q=ceil">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ceil( double x ) &rarr; double<br>
@@ -36,7 +35,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=chirp&unscoped_q=chirp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -55,7 +53,6 @@ radius - rank 0 dataset
 QDataSet that when plotted is a circle.
 
 <a href="https://github.com/autoplot/dev/search?q=circle&unscoped_q=circle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 circle( double radius, double x, double y ) &rarr; QDataSet<br>
@@ -76,7 +73,6 @@ ds - rank 1 dataset.
 cleaned dataset of the same geometry.
 
 <a href="https://github.com/autoplot/dev/search?q=cleanData&unscoped_q=cleanData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 cleanData( QDataSet ds, int size ) &rarr; QDataSet<br>
@@ -97,7 +93,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearWritable&unscoped_q=clearWritable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -117,7 +112,6 @@ fillDs - a QDataSet
 the averaged dataset
 
 <a href="https://github.com/autoplot/dev/search?q=collapse0&unscoped_q=collapse0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 collapse0( QDataSet fillDs ) &rarr; QDataSet<br>
@@ -138,7 +132,6 @@ rank 3 dataset
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/OperationsProcessor_s.md#sprocess'>org.das2.qds.OperationsProcessor#sprocess(java.lang.String, QDataSet, org.das2.util.monitor.ProgressMonitor)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=collapse0R4&unscoped_q=collapse0R4">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -156,7 +149,6 @@ ds - a QDataSet
 the averaged dataset
 
 <a href="https://github.com/autoplot/dev/search?q=collapse1&unscoped_q=collapse1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -176,7 +168,6 @@ rank 3 dataset
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/OperationsProcessor_s.md#sprocess'>org.das2.qds.OperationsProcessor#sprocess(java.lang.String, QDataSet, org.das2.util.monitor.ProgressMonitor)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=collapse1R4&unscoped_q=collapse1R4">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -194,7 +185,6 @@ fillDs - a QDataSet
 the averaged dataset
 
 <a href="https://github.com/autoplot/dev/search?q=collapse2&unscoped_q=collapse2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -214,7 +204,6 @@ rank 3 dataset
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/OperationsProcessor_s.md#sprocess'>org.das2.qds.OperationsProcessor#sprocess(java.lang.String, QDataSet, org.das2.util.monitor.ProgressMonitor)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=collapse2R4&unscoped_q=collapse2R4">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -232,7 +221,6 @@ fillDs - a QDataSet
 the averaged dataset
 
 <a href="https://github.com/autoplot/dev/search?q=collapse3&unscoped_q=collapse3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -252,7 +240,6 @@ rank 3 dataset
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/OperationsProcessor_s.md#sprocess'>org.das2.qds.OperationsProcessor#sprocess(java.lang.String, QDataSet, org.das2.util.monitor.ProgressMonitor)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=collapse3R4&unscoped_q=collapse3R4">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -273,7 +260,6 @@ sval - the string representation
 the color
 
 <a href="https://github.com/autoplot/dev/search?q=colorFromString&unscoped_q=colorFromString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -292,7 +278,6 @@ ds[2] or ds[n,2]
 <a href='Ops_c.md#complexMultiply'>complexMultiply(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=complexConj&unscoped_q=complexConj">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -312,7 +297,6 @@ complex dataset
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/examples/Schemes_r.md#rank2ComplexNumbers'>org.das2.qds.examples.Schemes#rank2ComplexNumbers()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=complexDataset&unscoped_q=complexDataset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -333,7 +317,6 @@ ds[2] or ds[n,2] or ds[n,m,2]
 <a href='Ops_c.md#complexConj'>complexConj(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=complexMultiply&unscoped_q=complexMultiply">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -360,7 +343,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=contour&unscoped_q=contour">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 contour( Object tds, Object vv ) &rarr; QDataSet<br>
@@ -382,7 +364,6 @@ the correct value.
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/autoplot/jythonsupport/PyQDataSet_c.md#convertPropertyValue'>org.autoplot.jythonsupport.PyQDataSet#convertPropertyValue</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=convertPropertyValue&unscoped_q=convertPropertyValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -400,7 +381,6 @@ ds - the original dataset.
 a new dataset with all the same properties but with the new units.
 
 <a href="https://github.com/autoplot/dev/search?q=convertUnitsTo&unscoped_q=convertUnitsTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 convertUnitsTo( DatumRange dr, Units u ) &rarr; DatumRange<br>
@@ -422,7 +402,6 @@ src - a QDataSet
 a copy of src.
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -444,7 +423,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyIndexedProperties&unscoped_q=copyIndexedProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -464,7 +442,6 @@ a map of the properties.
 <a href='DataSetUtil_g.md#getProperties'>DataSetUtil#getProperties(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=copyProperties&unscoped_q=copyProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -487,7 +464,6 @@ a QDataSet
 <a href='Ops_n.md#negate'>negate</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=copysign&unscoped_q=copysign">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 copysign( double x, double y ) &rarr; double<br>
@@ -507,7 +483,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=cos&unscoped_q=cos">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 cos( double ds ) &rarr; double<br>
@@ -527,7 +502,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=cosh&unscoped_q=cosh">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 cosh( double ds ) &rarr; double<br>
@@ -550,7 +524,6 @@ a rank 2 QDataSet with [[ startTime, stopTime, rgbColor, annotation  ]]
 <a href='Ops_e.md#eventsComplement'>eventsComplement(QDataSet, int, java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=createEvent&unscoped_q=createEvent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createEvent( QDataSet append, String timeRange, int rgbcolor, String annotation ) &rarr; QDataSet<br>
@@ -571,7 +544,6 @@ vds - dataset in a number of forms that can be converted to an events dataset.
 rank 2 QDataSet [ index; 4( time, stopTime, rgbColor, label ) ]
 
 <a href="https://github.com/autoplot/dev/search?q=createEvents&unscoped_q=createEvents">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createEvents( QDataSet vds, java.awt.Color deftColor ) &rarr; QDataSet<br>
@@ -592,7 +564,6 @@ coefficients - Set of all coefficients.
 Roots of each equation. Double.NaN is returned for complex roots.
 
 <a href="https://github.com/autoplot/dev/search?q=cubicRoot&unscoped_q=cubicRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 cubicRoot( double a, double b, double c, double d ) &rarr; double<br>
@@ -610,7 +581,6 @@ ds - rank 1 dataset
 the cumulative maximum
 
 <a href="https://github.com/autoplot/dev/search?q=cumulativeMax&unscoped_q=cumulativeMax">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -627,6 +597,5 @@ ds - rank 1 dataset
 the cumulative minimum
 
 <a href="https://github.com/autoplot/dev/search?q=cumulativeMin&unscoped_q=cumulativeMin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

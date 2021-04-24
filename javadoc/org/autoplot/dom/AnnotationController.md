@@ -17,7 +17,6 @@ an org.autoplot.dom.Canvas
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvas&unscoped_q=getCanvas">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -31,7 +30,6 @@ provide direct access to the annotation
 the implementing das2 annotation
 
 <a href="https://github.com/autoplot/dev/search?q=getDasAnnotation&unscoped_q=getDasAnnotation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,6 +47,5 @@ dcc - the canvas component.
 the converter that converts between strings like "1em" and the font.
 
 <a href="https://github.com/autoplot/dev/search?q=getFontConverter&unscoped_q=getFontConverter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

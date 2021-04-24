@@ -23,7 +23,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addImport&unscoped_q=addImport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addImport( javax.swing.text.Document doc, String pkg, String name, int cursorPosition ) &rarr; void<br>
@@ -43,7 +42,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=convert&unscoped_q=convert">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -72,7 +70,6 @@ javaCode - a String
 conversion to Jython-like code.
 
 <a href="https://github.com/autoplot/dev/search?q=convertReverse&unscoped_q=convertReverse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -90,7 +87,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getJavaListType&unscoped_q=getJavaListType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -109,7 +105,6 @@ clas - a String
 list of completions.
 
 <a href="https://github.com/autoplot/dev/search?q=guessCompletions&unscoped_q=guessCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,7 +123,6 @@ clas - the class name, for example "JSlider"
 the package or null, for example "javax.swing"
 
 <a href="https://github.com/autoplot/dev/search?q=guessPackage&unscoped_q=guessPackage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -148,7 +142,6 @@ src - the Jython source
 true if the class has been imported already.
 
 <a href="https://github.com/autoplot/dev/search?q=hasImport&unscoped_q=hasImport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -166,6 +159,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

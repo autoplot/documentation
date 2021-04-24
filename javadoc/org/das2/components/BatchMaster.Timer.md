@@ -20,6 +20,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reportTime&unscoped_q=reportTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

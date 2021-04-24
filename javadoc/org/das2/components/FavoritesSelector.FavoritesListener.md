@@ -14,7 +14,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=addFavoriteSelected&unscoped_q=addFavoriteSelected">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,6 +31,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=itemSelected&unscoped_q=itemSelected">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

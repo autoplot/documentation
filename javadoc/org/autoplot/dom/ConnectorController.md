@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=bindTo&unscoped_q=bindTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ org.das2.graph.ColumnColumnConnector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDasConnector&unscoped_q=getDasConnector">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,6 +48,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeBindings&unscoped_q=removeBindings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

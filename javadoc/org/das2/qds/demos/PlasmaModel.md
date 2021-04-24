@@ -24,7 +24,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=counts&unscoped_q=counts">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 counts( Datum energy, Datum pitch, java.util.Random random ) &rarr; int<br>
@@ -43,7 +42,6 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=f&unscoped_q=f">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 f( Datum energy, Datum pitchAngle ) &rarr; double<br>
@@ -63,7 +61,6 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=fcounts&unscoped_q=fcounts">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 fcounts( Datum energy, Datum pitch ) &rarr; double<br>
@@ -79,7 +76,6 @@ a Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDensity&unscoped_q=getDensity">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +89,6 @@ get the detector geometry factor
 the detector geometry factor
 
 <a href="https://github.com/autoplot/dev/search?q=getGeomFactor&unscoped_q=getGeomFactor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -108,7 +103,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRank2&unscoped_q=getRank2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +117,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRank3&unscoped_q=getRank3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -138,7 +131,6 @@ a Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWcParl&unscoped_q=getWcParl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -152,7 +144,6 @@ get the perpendicular speed
 the perpendicular speed
 
 <a href="https://github.com/autoplot/dev/search?q=getWcPerp&unscoped_q=getWcPerp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -170,7 +161,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDensity&unscoped_q=setDensity">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -188,7 +178,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setGeomFactor&unscoped_q=setGeomFactor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -206,7 +195,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWcPerp&unscoped_q=setWcPerp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -224,6 +212,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWcparl&unscoped_q=setWcparl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

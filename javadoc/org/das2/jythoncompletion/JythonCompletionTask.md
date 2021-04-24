@@ -31,7 +31,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=cancel&unscoped_q=cancel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,7 +48,6 @@ cc - a CompletionContext
 the count
 
 <a href="https://github.com/autoplot/dev/search?q=doQuery&unscoped_q=doQuery">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +65,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=escapeHtml&unscoped_q=escapeHtml">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +81,6 @@ jm - java.lang.reflect.Method, or PyInteger, etc.
 the icon or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getIconFor&unscoped_q=getIconFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,7 +100,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getImportableCompletions&unscoped_q=getImportableCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +117,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLastLine&unscoped_q=getLastLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +136,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLocalsCompletions&unscoped_q=getLocalsCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getLocalsCompletions( PythonInterpreter interp, org.das2.jythoncompletion.CompletionContext cc ) &rarr; List<br>
@@ -164,7 +157,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=keySort&unscoped_q=keySort">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -182,7 +174,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=query&unscoped_q=query">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -202,7 +193,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reduceObject&unscoped_q=reduceObject">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -220,7 +210,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=refresh&unscoped_q=refresh">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -240,6 +229,5 @@ the script, possibly with a few fewer lines.
 <a href='SimplifyScriptSupport.md#alligatorParse'>SimplifyScriptSupport#alligatorParse(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=trimLinesToMakeValid&unscoped_q=trimLinesToMakeValid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

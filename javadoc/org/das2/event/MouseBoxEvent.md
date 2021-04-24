@@ -17,7 +17,6 @@ java.awt.Point
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPoint&unscoped_q=getPoint">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ java.awt.Point
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPressPoint&unscoped_q=getPressPoint">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXMaximum&unscoped_q=getXMaximum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +59,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXMinimum&unscoped_q=getXMinimum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +73,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYMaximum&unscoped_q=getYMaximum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -92,6 +87,5 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYMinimum&unscoped_q=getYMinimum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

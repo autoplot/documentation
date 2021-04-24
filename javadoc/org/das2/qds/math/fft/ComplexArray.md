@@ -22,7 +22,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=magnitude&unscoped_q=magnitude">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 magnitude( org.das2.qds.math.fft.ComplexArray.Double array, int i ) &rarr; double<br>
@@ -42,7 +41,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=magnitude2&unscoped_q=magnitude2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -61,7 +59,6 @@ org.das2.qds.math.fft.ComplexArray.Double
 
 
 <a href="https://github.com/autoplot/dev/search?q=newArray&unscoped_q=newArray">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 newArray( double[] real, double[] imag ) &rarr; Double<br>
@@ -83,7 +80,6 @@ org.das2.qds.math.fft.ComplexArray.Double
 
 
 <a href="https://github.com/autoplot/dev/search?q=newArrayCopy&unscoped_q=newArrayCopy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -101,7 +97,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=realPart&unscoped_q=realPart">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +114,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 toString( org.das2.qds.math.fft.ComplexArray.Double array ) &rarr; String<br>

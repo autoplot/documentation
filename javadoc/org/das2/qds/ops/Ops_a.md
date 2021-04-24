@@ -46,7 +46,6 @@ dataset with the same geometry
 <a href='Ops_m.md#magnitude'>Ops#magnitude(QDataSet)</a> magnitude(ds), which preserves the sign.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=abs&unscoped_q=abs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 abs( long x ) &rarr; long<br>
@@ -71,7 +70,6 @@ the running of each element in the array.
 <a href='Ops_d.md#diff'>diff(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=accum&unscoped_q=accum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 accum( Object accumDs, Object ds ) &rarr; QDataSet<br>
@@ -92,7 +90,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=acos&unscoped_q=acos">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 acos( double ds ) &rarr; double<br>
@@ -121,7 +118,6 @@ the element-wise sum of the two datasets.
 <a href='Ops_a.md#addGen'>addGen(QDataSet, QDataSet, java.util.Map)</a> addGen, which shows how units are resolved.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 add( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -143,7 +139,6 @@ a QDataSet
 <a href='Ops_b.md#bitwiseAnd'>bitwiseAnd(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=and&unscoped_q=and">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 and( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -171,7 +166,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -191,7 +185,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=appendEvents&unscoped_q=appendEvents">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -215,7 +208,6 @@ ds1 - the first argument
 the result with the same geometry as the pair.
 
 <a href="https://github.com/autoplot/dev/search?q=applyBinaryOp&unscoped_q=applyBinaryOp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 applyBinaryOp( Object ds1, Object ds2, org.das2.qds.ops.Ops.BinaryOp op ) &rarr; MutablePropertyDataSet<br>
@@ -238,7 +230,6 @@ data a dataset with the geometry of ds and the units of values.
 <a href='Ops_a.md#applyIndex'>applyIndex(QDataSet, int, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=applyIndex&unscoped_q=applyIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 applyIndex( QDataSet ds, QDataSet r ) &rarr; WritableDataSet<br>
@@ -262,7 +253,6 @@ ds1 - the argument
 the result the the same geometry.
 
 <a href="https://github.com/autoplot/dev/search?q=applyUnaryOp&unscoped_q=applyUnaryOp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 applyUnaryOp( Object ds1, org.das2.qds.ops.Ops.UnaryOp op ) &rarr; MutablePropertyDataSet<br>
@@ -281,7 +271,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=asin&unscoped_q=asin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 asin( double ds ) &rarr; double<br>
@@ -301,7 +290,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=atan&unscoped_q=atan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 atan( double ds ) &rarr; double<br>
@@ -331,7 +319,6 @@ angles between -PI and PI
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/java/lang/Math_a.md#atan2'>java.lang.Math#atan2(double, double)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=atan2&unscoped_q=atan2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 atan2( double y, double x ) &rarr; double<br>
@@ -353,6 +340,5 @@ ds - rank N dataset (all ranks are supported).
 rank 1 dataset
 
 <a href="https://github.com/autoplot/dev/search?q=autoHistogram&unscoped_q=autoHistogram">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

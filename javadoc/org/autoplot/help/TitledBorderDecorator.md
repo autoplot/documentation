@@ -21,6 +21,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=makeLink&unscoped_q=makeLink">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

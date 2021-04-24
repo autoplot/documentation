@@ -87,7 +87,6 @@ org.das2.datum.UnitsConverter
 
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,7 +103,6 @@ value - value in source units.
 value in target units.
 
 <a href="https://github.com/autoplot/dev/search?q=convert&unscoped_q=convert">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 convert( Number number ) &rarr; Number<br>
@@ -124,7 +122,6 @@ fromUnits - an Units
 UnitsConverter object
 
 <a href="https://github.com/autoplot/dev/search?q=getConverter&unscoped_q=getConverter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -139,6 +136,5 @@ org.das2.datum.UnitsConverter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInverse&unscoped_q=getInverse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

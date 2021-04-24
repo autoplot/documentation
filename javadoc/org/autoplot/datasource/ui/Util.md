@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=enableComponents&unscoped_q=enableComponents">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isRowHeaderVisible&unscoped_q=isRowHeaderVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +56,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=makeJTextFieldLookLikeJLabel&unscoped_q=makeJTextFieldLookLikeJLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,7 +73,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeRowHeader&unscoped_q=removeRowHeader">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,6 +90,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRowHeader&unscoped_q=setRowHeader">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

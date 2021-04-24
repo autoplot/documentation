@@ -17,7 +17,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTemplate&unscoped_q=getTemplate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFormatted&unscoped_q=setFormatted">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -54,7 +52,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSelection&unscoped_q=setSelection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -72,6 +69,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTemplate&unscoped_q=setTemplate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

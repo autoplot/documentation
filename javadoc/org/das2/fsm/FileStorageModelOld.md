@@ -136,7 +136,6 @@ start - a Datum
 the internal name of the file.
 
 <a href="https://github.com/autoplot/dev/search?q=calculateNameFor&unscoped_q=calculateNameFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -154,7 +153,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=containsFile&unscoped_q=containsFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -174,7 +172,6 @@ org.das2.fsm.FileStorageModelOld
 
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 create( org.das2.util.filesystem.FileSystem root, String template ) &rarr; FileStorageModelOld<br>
@@ -194,7 +191,6 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFileFor&unscoped_q=getFileFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -209,7 +205,6 @@ org.das2.util.filesystem.FileSystem
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFileSystem&unscoped_q=getFileSystem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -228,7 +223,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFilenameFor&unscoped_q=getFilenameFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -246,7 +240,6 @@ java.io.File[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFilesFor&unscoped_q=getFilesFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getFilesFor( DatumRange targetRange, ProgressMonitor monitor ) &rarr; File<br>
@@ -266,7 +259,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNameFor&unscoped_q=getNameFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -284,7 +276,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNamesFor&unscoped_q=getNamesFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getNamesFor( DatumRange targetRange, ProgressMonitor monitor ) &rarr; String<br>
@@ -303,7 +294,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParentRegex&unscoped_q=getParentRegex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -321,7 +311,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRangeFor&unscoped_q=getRangeFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -342,7 +331,6 @@ monitor - a ProgressMonitor
 null if no file is found
 
 <a href="https://github.com/autoplot/dev/search?q=getRepresentativeFile&unscoped_q=getRepresentativeFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -364,7 +352,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFileWidth&unscoped_q=setFileWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -379,6 +366,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

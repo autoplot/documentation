@@ -16,7 +16,6 @@ parent - parent component for focus.
 the URI for the vap file.
 
 <a href="https://github.com/autoplot/dev/search?q=browseLocal&unscoped_q=browseLocal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,7 +35,6 @@ parent - parent component for focus.  If a dataSetSelector is
 the URI for the vap file, or null if cancel was pressed.
 
 <a href="https://github.com/autoplot/dev/search?q=browseLocalVap&unscoped_q=browseLocalVap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -51,7 +49,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPluginsText&unscoped_q=getPluginsText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +62,6 @@ get "Add Plot from Local File..." action
 the action
 
 <a href="https://github.com/autoplot/dev/search?q=openLocalAction&unscoped_q=openLocalAction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -79,6 +75,5 @@ get the "Open .vap File..." action
 the action
 
 <a href="https://github.com/autoplot/dev/search?q=openLocalVapAction&unscoped_q=openLocalVapAction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

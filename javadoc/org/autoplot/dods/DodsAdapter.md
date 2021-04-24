@@ -16,7 +16,6 @@ Getter for property addOffset.
 Value of property addOffset.
 
 <a href="https://github.com/autoplot/dev/search?q=getAddOffset&unscoped_q=getAddOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -30,7 +29,6 @@ get the constraint, such as "?sst[0:100:1811][0:10:35][0:10:71]"
 the constraint
 
 <a href="https://github.com/autoplot/dev/search?q=getConstraint&unscoped_q=getConstraint">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -48,7 +46,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +59,6 @@ Getter for property depend0Name.
 Value of property depend0Name.
 
 <a href="https://github.com/autoplot/dev/search?q=getDepend0Name&unscoped_q=getDepend0Name">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,7 +72,6 @@ Getter for property depend1Name.
 Value of property depend1Name.
 
 <a href="https://github.com/autoplot/dev/search?q=getDepend1Name&unscoped_q=getDepend1Name">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +88,6 @@ index - Index of the property.
 Value of the property at <CODE>index</CODE>.
 
 <a href="https://github.com/autoplot/dev/search?q=getDependName&unscoped_q=getDependName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -111,7 +105,6 @@ java.util.HashMap
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDimProperties&unscoped_q=getDimProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,7 +121,6 @@ index - Index of the property.
 Value of the property at <CODE>index</CODE>.
 
 <a href="https://github.com/autoplot/dev/search?q=getDimUnits&unscoped_q=getDimUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +134,6 @@ Getter for property scaleFactor.
 Value of property scaleFactor.
 
 <a href="https://github.com/autoplot/dev/search?q=getScaleFactor&unscoped_q=getScaleFactor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +148,6 @@ java.net.URL
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSource&unscoped_q=getSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -171,7 +161,6 @@ Getter for property units.
 Value of property units.
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -185,7 +174,6 @@ get the variable, such as "sst"
 the variable
 
 <a href="https://github.com/autoplot/dev/search?q=getVariable&unscoped_q=getVariable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -204,7 +192,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=loadDataset&unscoped_q=loadDataset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -222,7 +209,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putAllProperties&unscoped_q=putAllProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -240,7 +226,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAddOffset&unscoped_q=setAddOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -258,7 +243,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setConstraint&unscoped_q=setConstraint">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -276,7 +260,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDepend0Name&unscoped_q=setDepend0Name">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -294,7 +277,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDepend1Name&unscoped_q=setDepend1Name">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -313,7 +295,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDependName&unscoped_q=setDependName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -332,7 +313,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDimProperties&unscoped_q=setDimProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -351,7 +331,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDimUnits&unscoped_q=setDimUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -369,7 +348,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setScaleFactor&unscoped_q=setScaleFactor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -387,7 +365,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUnits&unscoped_q=setUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -406,6 +383,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setValidRange&unscoped_q=setValidRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

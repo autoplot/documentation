@@ -22,7 +22,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=haveStored&unscoped_q=haveStored">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -37,7 +36,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ org.das2.dataset.DataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=retrieve&unscoped_q=retrieve">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,6 +73,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=store&unscoped_q=store">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

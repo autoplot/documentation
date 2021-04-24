@@ -23,7 +23,6 @@ arg - String that encodes a datum position or index.
 an integer index or a dataset indicating the index.
 
 <a href="https://github.com/autoplot/dev/search?q=getArgumentIndex&unscoped_q=getArgumentIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -52,6 +51,5 @@ the dataset after the process string is applied.
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/filters/FilterEditorPanel.md'>org.das2.qds.filters.FilterEditorPanel</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=sprocess&unscoped_q=sprocess">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

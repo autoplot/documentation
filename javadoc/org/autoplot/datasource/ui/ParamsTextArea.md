@@ -19,7 +19,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParams&unscoped_q=getParams">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFactory&unscoped_q=setFactory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,7 +55,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setParams&unscoped_q=setParams">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,7 +72,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showPopup&unscoped_q=showPopup">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 showPopup( int x, int y ) &rarr; void<br>

@@ -20,6 +20,5 @@ mon - the monitor.  assert monitor.finished()==(!result.hasNext())
 a dataset iterator.
 
 <a href="https://github.com/autoplot/dev/search?q=streamDataSet&unscoped_q=streamDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

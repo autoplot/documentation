@@ -17,7 +17,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTables&unscoped_q=getTables">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,7 +35,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=handleEndTag&unscoped_q=handleEndTag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=handleStartTag&unscoped_q=handleStartTag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,6 +72,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=handleText&unscoped_q=handleText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

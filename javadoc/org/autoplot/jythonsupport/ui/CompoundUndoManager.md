@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=changedUpdate&unscoped_q=changedUpdate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ javax.swing.Action
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRedoAction&unscoped_q=getRedoAction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,7 +48,6 @@ javax.swing.Action
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUndoAction&unscoped_q=getUndoAction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -68,7 +65,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=insertUpdate&unscoped_q=insertUpdate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +79,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=redo&unscoped_q=redo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -101,7 +96,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeUpdate&unscoped_q=removeUpdate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -116,7 +110,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=undo&unscoped_q=undo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -134,6 +127,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=undoableEditHappened&unscoped_q=undoableEditHappened">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

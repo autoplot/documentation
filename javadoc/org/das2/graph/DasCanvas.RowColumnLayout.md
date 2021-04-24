@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addLayoutComponent&unscoped_q=addLayoutComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=layoutContainer&unscoped_q=layoutContainer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ java.awt.Dimension
 
 
 <a href="https://github.com/autoplot/dev/search?q=minimumLayoutSize&unscoped_q=minimumLayoutSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +71,6 @@ java.awt.Dimension
 
 
 <a href="https://github.com/autoplot/dev/search?q=preferredLayoutSize&unscoped_q=preferredLayoutSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -92,6 +88,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeLayoutComponent&unscoped_q=removeLayoutComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

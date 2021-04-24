@@ -21,7 +21,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyFile&unscoped_q=copyFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -42,7 +41,6 @@ true if the operation was successful.
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/util/filesystem/FileSystemUtil.md#deleteAllFiles'>org.das2.util.filesystem.FileSystemUtil#deleteAllFiles(java.io.File, java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=deleteFilesInTree&unscoped_q=deleteFilesInTree">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +63,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNameRelativeTo&unscoped_q=getNameRelativeTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -79,7 +76,6 @@ get the current working directory (pwd)
 the current working directory.
 
 <a href="https://github.com/autoplot/dev/search?q=getPresentWorkingDirectory&unscoped_q=getPresentWorkingDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +98,6 @@ url - an URL
  </pre>
 
 <a href="https://github.com/autoplot/dev/search?q=hasParent&unscoped_q=hasParent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -120,7 +115,6 @@ possibleParent - parent file.
 true if possibleParent is a folder containing
 
 <a href="https://github.com/autoplot/dev/search?q=isChildOf&unscoped_q=isChildOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -146,7 +140,6 @@ file - an Autoplot URI.
 true if the uri is a reference to a local resource.
 
 <a href="https://github.com/autoplot/dev/search?q=isLocalResource&unscoped_q=isLocalResource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -165,7 +158,6 @@ suri - URI, such as http://server.org/data/asciitable.dat
 true of the resource exists and can be downloaded.
 
 <a href="https://github.com/autoplot/dev/search?q=resourceExists&unscoped_q=resourceExists">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -182,6 +174,5 @@ suri - the URI containing a file resource.
 true if the resource is already in a local cache.
 
 <a href="https://github.com/autoplot/dev/search?q=resourceIsLocal&unscoped_q=resourceIsLocal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

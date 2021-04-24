@@ -55,7 +55,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +70,6 @@ return the location where Autoplot is storing its data.  This
 the user's Autoplot data folder.
 
 <a href="https://github.com/autoplot/dev/search?q=getAutoplotData&unscoped_q=getAutoplotData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +84,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFscache&unscoped_q=getFscache">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,7 +101,6 @@ c - the class requesting preferences.
 the preferences object this class should use.
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferences&unscoped_q=getPreferences">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -126,7 +122,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=loadPreferences&unscoped_q=loadPreferences">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -144,7 +139,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -163,7 +157,6 @@ the value with references resolved.
  TODO: this should always make result end in slash...
 
 <a href="https://github.com/autoplot/dev/search?q=resolveProperty&unscoped_q=resolveProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -181,7 +174,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFscache&unscoped_q=setFscache">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -196,6 +188,5 @@ org.autoplot.datasource.AutoplotSettings
 
 
 <a href="https://github.com/autoplot/dev/search?q=settings&unscoped_q=settings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

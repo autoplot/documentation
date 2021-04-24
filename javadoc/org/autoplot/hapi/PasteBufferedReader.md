@@ -18,7 +18,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,7 +35,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -54,7 +52,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=pasteBufferedReader&unscoped_q=pasteBufferedReader">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -69,7 +66,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=readLine&unscoped_q=readLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -87,7 +83,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDelim&unscoped_q=setDelim">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -106,6 +101,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMonotonicKludge&unscoped_q=setMonotonicKludge">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -23,7 +23,6 @@ a Datum
 <a href='#value'>value()</a> which returns the double value.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=abs&unscoped_q=abs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,7 +39,6 @@ datum - Datum to add, that is convertible to this.getUnits().
 a Datum that is the sum of the two values in this Datum's units.
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 add( Number value, Units units ) &rarr; Datum<br>
@@ -59,7 +57,6 @@ a - the Object to compare this datum to.
 an int &lt; 0 if this comes before Datum a in this Datum's units space, 0 if they are equal, and &gt; 0 otherwise.
 
 <a href="https://github.com/autoplot/dev/search?q=compareTo&unscoped_q=compareTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 compareTo( Datum a ) &rarr; int<br>
@@ -80,7 +77,6 @@ units - the new Datum's units
 a datum with the new units, that is equal to the original datum.
 
 <a href="https://github.com/autoplot/dev/search?q=convertTo&unscoped_q=convertTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -97,7 +93,6 @@ value - the magnitude of the datum.
 a dimensionless Datum with the given value.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 create( double value, Units units ) &rarr; Datum<br>
@@ -120,7 +115,6 @@ datum - Datum to divide, that is convertible to this.getUnits().
 a Datum that is the divide of the two values in this Datum's units.
 
 <a href="https://github.com/autoplot/dev/search?q=div&unscoped_q=div">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -140,7 +134,6 @@ a - the datum divisor.
 the quotient.
 
 <a href="https://github.com/autoplot/dev/search?q=divide&unscoped_q=divide">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 divide( Number a, Units units ) &rarr; Datum<br>
@@ -159,7 +152,6 @@ units - the Units in which the double should be returned
 a double in the context of the provided units.
 
 <a href="https://github.com/autoplot/dev/search?q=doubleValue&unscoped_q=doubleValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -176,7 +168,6 @@ a - the Object to compare to.
 true if the datums are equal.
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 equals( Datum a ) &rarr; boolean<br>
@@ -191,7 +182,6 @@ return Math.pow(10,v)
 Math.pow(10,v)
 
 <a href="https://github.com/autoplot/dev/search?q=exp10&unscoped_q=exp10">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -208,7 +198,6 @@ a - a datum convertible to this Datum's units.
 true if this is greater than or equal to <tt>a</tt>.
 
 <a href="https://github.com/autoplot/dev/search?q=ge&unscoped_q=ge">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -222,7 +211,6 @@ returns a formatter suitable for formatting this datum as a string.
 a formatter to be used to format this Datum into a String.
 
 <a href="https://github.com/autoplot/dev/search?q=getFormatter&unscoped_q=getFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +230,6 @@ units - the Units in which the double resolution should be returned.  Note
 the double resolution of the datum in the context of units.
 
 <a href="https://github.com/autoplot/dev/search?q=getResolution&unscoped_q=getResolution">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -257,7 +244,6 @@ returns the datum's units.  For example, UT times might have the units
 the datum's units.
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -274,7 +260,6 @@ a - a datum convertible to this Datum's units.
 true if this is greater than <tt>a</tt>.
 
 <a href="https://github.com/autoplot/dev/search?q=gt&unscoped_q=gt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -288,7 +273,6 @@ returns a hashcode that is a function of the value and the units.
 a hashcode for the datum
 
 <a href="https://github.com/autoplot/dev/search?q=hashCode&unscoped_q=hashCode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -305,7 +289,6 @@ units - the Units in which the int should be returned
 a double in the context of the provided units.
 
 <a href="https://github.com/autoplot/dev/search?q=intValue&unscoped_q=intValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -319,7 +302,6 @@ convenience method for checking to see if a datum is a fill datum.
 true if the value is fill as defined by the Datum's units.
 
 <a href="https://github.com/autoplot/dev/search?q=isFill&unscoped_q=isFill">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -333,7 +315,6 @@ returns true if the value is finite, that is not INFINITY or NaN.
 true if the value is finite, that is not INFINITY or NaN.
 
 <a href="https://github.com/autoplot/dev/search?q=isFinite&unscoped_q=isFinite">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -350,7 +331,6 @@ a - a datum convertible to this Datum's units.
 true if this is less than or equal to <tt>a</tt>.
 
 <a href="https://github.com/autoplot/dev/search?q=le&unscoped_q=le">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -364,7 +344,6 @@ return log10 of this datum.
 log10 of this datum.
 
 <a href="https://github.com/autoplot/dev/search?q=log10&unscoped_q=log10">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -381,7 +360,6 @@ a - a datum convertible to this Datum's units.
 true if this is less than <tt>a</tt>.
 
 <a href="https://github.com/autoplot/dev/search?q=lt&unscoped_q=lt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -398,7 +376,6 @@ datum - Datum to subtract, that is convertible to this.getUnits().
 a Datum that is the sum of the two values in this Datum's units.
 
 <a href="https://github.com/autoplot/dev/search?q=minus&unscoped_q=minus">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -420,7 +397,6 @@ a - the datum to multiply
 the product.
 
 <a href="https://github.com/autoplot/dev/search?q=multiply&unscoped_q=multiply">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 multiply( Number a, Units units ) &rarr; Datum<br>
@@ -436,7 +412,6 @@ Groovy scripting language uses this negation operator.
 a Datum such that it plus this is 0.
 
 <a href="https://github.com/autoplot/dev/search?q=negative&unscoped_q=negative">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -453,7 +428,6 @@ datum - Datum to add, that is convertible to this.getUnits().
 a Datum that is the sum of the two values in this Datum's units.
 
 <a href="https://github.com/autoplot/dev/search?q=plus&unscoped_q=plus">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -467,7 +441,6 @@ Groovy scripting language uses this positive operator.
 this datum.
 
 <a href="https://github.com/autoplot/dev/search?q=positive&unscoped_q=positive">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -484,7 +457,6 @@ b - double to exponentiate, that is dimensionless.
 a Datum that is the exponentiate of the two values in this Datum's units.
 
 <a href="https://github.com/autoplot/dev/search?q=power&unscoped_q=power">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 power( Datum datum ) &rarr; Datum<br>
@@ -507,7 +479,6 @@ datum - Datum to add, that is convertible to this.getUnits() or offset units.
 a Datum that is the sum of the two values in this Datum's units.
 
 <a href="https://github.com/autoplot/dev/search?q=subtract&unscoped_q=subtract">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 subtract( Number a, Units units ) &rarr; Datum<br>
@@ -525,7 +496,6 @@ a human readable String representation of the Datum, which should also be parsea
  Units.parse()
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -542,6 +512,5 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

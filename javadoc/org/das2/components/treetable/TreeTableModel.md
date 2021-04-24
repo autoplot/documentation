@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=collapse&unscoped_q=collapse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=expand&unscoped_q=expand">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ java.lang.Class
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnClass&unscoped_q=getColumnClass">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +68,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnCount&unscoped_q=getColumnCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +85,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnName&unscoped_q=getColumnName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +102,6 @@ org.das2.components.treetable.TreeTableNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNodeForRow&unscoped_q=getNodeForRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +116,6 @@ org.das2.components.treetable.TreeTableNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRoot&unscoped_q=getRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +130,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRowCount&unscoped_q=getRowCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -156,7 +148,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getValueAt&unscoped_q=getValueAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -175,7 +166,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isCellEditable&unscoped_q=isCellEditable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -193,7 +183,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRoot&unscoped_q=setRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -213,7 +202,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setValueAt&unscoped_q=setValueAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -231,6 +219,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=toggleExpanded&unscoped_q=toggleExpanded">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

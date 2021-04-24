@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearFillValue&unscoped_q=clearFillValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ void (returns nothing)
 <a href='#reportMemory'>reportMemory()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=clearMemory&unscoped_q=clearMemory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +51,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearPreferredUnits&unscoped_q=clearPreferredUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +68,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=depend&unscoped_q=depend">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -88,7 +84,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=doGetDataSet&unscoped_q=doGetDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 doGetDataSet( ProgressMonitor mon ) &rarr; void<br>
@@ -104,7 +99,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpStack&unscoped_q=dumpStack">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +117,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpStackInNSeconds&unscoped_q=dumpStackInNSeconds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -138,7 +131,6 @@ return the total memory and free memory available to the Java process,
 an integer array [ used, total ]
 
 <a href="https://github.com/autoplot/dev/search?q=freeMemory&unscoped_q=freeMemory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -153,7 +145,6 @@ a java.lang.Exception
 
 
 <a href="https://github.com/autoplot/dev/search?q=getException&unscoped_q=getException">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -167,7 +158,6 @@ get the filter that is applied to the data immediately after it is loaded.
 the filter string, empty string means no filters.
 
 <a href="https://github.com/autoplot/dev/search?q=getFilter&unscoped_q=getFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -189,7 +179,6 @@ a ProgressMonitor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProgressMonitor&unscoped_q=getProgressMonitor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -204,7 +193,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStatus&unscoped_q=getStatus">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -219,7 +207,6 @@ returns "" for last operation successful, or non-empty indicating the problem.  
 "" or the error message
 
 <a href="https://github.com/autoplot/dev/search?q=getStatusMessage&unscoped_q=getStatusMessage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -239,7 +226,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=hasProperty&unscoped_q=hasProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 hasProperty( String name, String propname ) &rarr; boolean<br>
@@ -257,7 +243,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isQube&unscoped_q=isQube">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -277,7 +262,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=labelsAlias&unscoped_q=labelsAlias">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -294,7 +278,6 @@ name - a String
 the length of the zeroth dimension
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 length(  ) &rarr; int<br>
@@ -313,7 +296,6 @@ an int[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=lengths&unscoped_q=lengths">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 lengths(  ) &rarr; int<br>
@@ -331,7 +313,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=name&unscoped_q=name">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -349,7 +330,6 @@ dep0 - the dataset
 the name for the dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=nameFor&unscoped_q=nameFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -364,7 +344,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=names&unscoped_q=names">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -382,7 +361,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=plane&unscoped_q=plane">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -401,7 +379,6 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=properties&unscoped_q=properties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 properties( String name ) &rarr; Map<br>
@@ -423,7 +400,6 @@ name - a String
 the property
 
 <a href="https://github.com/autoplot/dev/search?q=property&unscoped_q=property">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 property( String name, String propname ) &rarr; Object<br>
@@ -444,7 +420,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=propertyAsDouble&unscoped_q=propertyAsDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 propertyAsDouble( String name, String property ) &rarr; double<br>
@@ -463,7 +438,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=propertyAsString&unscoped_q=propertyAsString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 propertyAsString( String name, String property ) &rarr; String<br>
@@ -482,7 +456,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 rank(  ) &rarr; int<br>
@@ -498,7 +471,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=readLogConfiguration&unscoped_q=readLogConfiguration">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -515,7 +487,6 @@ void (returns nothing)
 <a href='#clearMemory'>clearMemory()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=reportMemory&unscoped_q=reportMemory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -533,7 +504,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDebug&unscoped_q=setDebug">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -552,7 +522,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillDouble&unscoped_q=setFillDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -574,7 +543,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillValue&unscoped_q=setFillValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setFillValue( float f ) &rarr; void<br>
@@ -593,7 +561,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFilter&unscoped_q=setFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -623,7 +590,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPreferredUnits&unscoped_q=setPreferredUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -643,7 +609,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=slice&unscoped_q=slice">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 slice( String name, int i, double[][] result ) &rarr; void<br>
@@ -668,7 +633,6 @@ index - an int
 array of floats or doubles.
 
 <a href="https://github.com/autoplot/dev/search?q=slice1&unscoped_q=slice1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 slice1( int index, String name ) &rarr; Object<br>
@@ -688,7 +652,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=svalues&unscoped_q=svalues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 svalues( java.lang.String[] result ) &rarr; void<br>
@@ -710,7 +673,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=values&unscoped_q=values">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 values( String name, double[][] result ) &rarr; void<br>
@@ -739,6 +701,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=valuesAlias&unscoped_q=valuesAlias">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

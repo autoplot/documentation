@@ -20,7 +20,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=polyfitw&unscoped_q=polyfitw">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=quadHalfWidth&unscoped_q=quadHalfWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=quadPeak&unscoped_q=quadPeak">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,6 +77,5 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=quadfit&unscoped_q=quadfit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

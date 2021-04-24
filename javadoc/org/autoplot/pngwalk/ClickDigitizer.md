@@ -22,7 +22,6 @@ iplot - the plot number
 int[2] for the x and y pixel coordinates (0,0 is upper left).
 
 <a href="https://github.com/autoplot/dev/search?q=dataToPixelTransform&unscoped_q=dataToPixelTransform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +46,6 @@ two-element bundle QDataSet with PlotNumber property.  -1
    indicates no plot found at the location, and -99 means no rich png data.
 
 <a href="https://github.com/autoplot/dev/search?q=pixelToDataTransform&unscoped_q=pixelToDataTransform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 pixelToDataTransform( int iplot, int x, int y ) &rarr; QDataSet<br>

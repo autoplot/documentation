@@ -44,7 +44,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpMapToFile&unscoped_q=dumpMapToFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +58,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=finish&unscoped_q=finish">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +72,6 @@ java.awt.Graphics
 
 
 <a href="https://github.com/autoplot/dev/search?q=getGraphics&unscoped_q=getGraphics">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +86,6 @@ java.awt.Graphics2D
 
 
 <a href="https://github.com/autoplot/dev/search?q=getGraphics2D&unscoped_q=getGraphics2D">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +103,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +117,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetFontToTtfMap&unscoped_q=resetFontToTtfMap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -141,7 +135,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setGraphicsShapes&unscoped_q=setGraphicsShapes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -159,7 +152,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOutputStream&unscoped_q=setOutputStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -178,7 +170,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPixelsPerInch&unscoped_q=setPixelsPerInch">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -197,7 +188,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSize&unscoped_q=setSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -212,7 +202,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=start&unscoped_q=start">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -229,7 +218,6 @@ font - a Font
 the name of the .ttf file, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=ttfFromName&unscoped_q=ttfFromName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -247,6 +235,5 @@ font - a Font
 READING_FONTS or the name (or null).
 
 <a href="https://github.com/autoplot/dev/search?q=ttfFromNameInteractive&unscoped_q=ttfFromNameInteractive">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

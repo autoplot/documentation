@@ -19,6 +19,5 @@ ds - The input dataset, either a rank 2 or rank 3 dataset.  Note this may includ
 a rank 2 QDataSet with the given rows and columns.
 
 <a href="https://github.com/autoplot/dev/search?q=rebin&unscoped_q=rebin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

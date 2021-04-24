@@ -40,7 +40,6 @@ x - the x location on the canvas, with (0,0) being the upper-left corner.
 true if the component accepts the context at this point.
 
 <a href="https://github.com/autoplot/dev/search?q=acceptContext&unscoped_q=acceptContext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +62,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/event/MouseModule.md'>org.das2.event.MouseModule</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addMouseModule&unscoped_q=addMouseModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +75,6 @@ return a list of actions.  This is used by the DasMouseInputAdapter.
 the actions this provides.
 
 <a href="https://github.com/autoplot/dev/search?q=getActions&unscoped_q=getActions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -91,7 +88,6 @@ returns the active region of the canvas component, which is not necessarily the 
 the active region of the canvas component
 
 <a href="https://github.com/autoplot/dev/search?q=getActiveRegion&unscoped_q=getActiveRegion">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +101,6 @@ get the DasCanvas which contains this DasCanvasComponent.
 the DasCanvas which contains this DasCanvasComponent.
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvas&unscoped_q=getCanvas">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +114,6 @@ accessor for the DasColumn used for positioning the component.
 DasColumn used for positioning the component.
 
 <a href="https://github.com/autoplot/dev/search?q=getColumn&unscoped_q=getColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -133,7 +127,6 @@ Get the DasMouseInputAdapter, which handles mouse input for the component.
 the dasMouseInputAdapter.
 
 <a href="https://github.com/autoplot/dev/search?q=getDasMouseInputAdapter&unscoped_q=getDasMouseInputAdapter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -150,7 +143,6 @@ Get the String identifier for the component which identifies
 the name of the component.
 
 <a href="https://github.com/autoplot/dev/search?q=getDasName&unscoped_q=getDasName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -165,7 +157,6 @@ convenient method intended to encourage use of em's.  returns the em size for th
 the height of the component's font.
 
 <a href="https://github.com/autoplot/dev/search?q=getEmSize&unscoped_q=getEmSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -179,7 +170,6 @@ return the font used to paint the component.
 the font.
 
 <a href="https://github.com/autoplot/dev/search?q=getFont&unscoped_q=getFont">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -199,7 +189,6 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLineThicknessDouble&unscoped_q=getLineThicknessDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -213,7 +202,6 @@ accessor for the DasRow used for positioning the component.
 DasRow used for positioning the component.
 
 <a href="https://github.com/autoplot/dev/search?q=getRow&unscoped_q=getRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -228,7 +216,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOpaqueBackground&unscoped_q=isOpaqueBackground">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -249,7 +236,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/event/MouseModule.md'>org.das2.event.MouseModule</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=removeMouseModule&unscoped_q=removeMouseModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -265,7 +251,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -285,7 +270,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColumn&unscoped_q=setColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -308,7 +292,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDasName&unscoped_q=setDasName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -326,7 +309,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOpaqueBackground&unscoped_q=setOpaqueBackground">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -346,7 +328,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRow&unscoped_q=setRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -362,7 +343,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showProperties&unscoped_q=showProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -376,7 +356,6 @@ toString(  ) &rarr; String
 a concise String representation of the object.
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -392,6 +371,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

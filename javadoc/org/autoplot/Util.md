@@ -23,7 +23,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addFonts&unscoped_q=addFonts">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,7 +40,6 @@ srcf - the source file
 true if successful.
 
 <a href="https://github.com/autoplot/dev/search?q=copyFile&unscoped_q=copyFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +57,6 @@ root - root folder.
 true if successful.
 
 <a href="https://github.com/autoplot/dev/search?q=copyFileTree&unscoped_q=copyFileTree">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 copyFileTree( java.io.File root, java.io.File dst, ProgressMonitor mon ) &rarr; boolean<br>
@@ -81,7 +78,6 @@ true if the operation was successful.
 <a href='#pruneFileTree'>pruneFileTree(java.io.File, java.util.List)</a> which probably does the same thing.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=deleteFileTree&unscoped_q=deleteFileTree">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +91,6 @@ searches class path for META-INF/version.txt, returns nice strings
 one line per jar
 
 <a href="https://github.com/autoplot/dev/search?q=getBuildInfos&unscoped_q=getBuildInfos">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -111,7 +106,6 @@ return the build time an an ISO8601 time, or "????" if it is unknown.
 ISO8601 time or "????"
 
 <a href="https://github.com/autoplot/dev/search?q=getBuildTime&unscoped_q=getBuildTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -131,7 +125,6 @@ true if successful.
 <a href='#deleteFileTree'>deleteFileTree(java.io.File)</a> which probably does the same thing.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=pruneFileTree&unscoped_q=pruneFileTree">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -150,6 +143,5 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=strjoin&unscoped_q=strjoin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

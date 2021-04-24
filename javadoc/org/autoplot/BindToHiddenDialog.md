@@ -16,7 +16,6 @@ getCondenseColorBarsCB(  ) &rarr; JCheckBox
 the condenseColorBarsCB
 
 <a href="https://github.com/autoplot/dev/search?q=getCondenseColorBarsCB&unscoped_q=getCondenseColorBarsCB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -30,7 +29,6 @@ getCondenseXAxisLabelsCB(  ) &rarr; JCheckBox
 the condenseXAxisLabelsCB
 
 <a href="https://github.com/autoplot/dev/search?q=getCondenseXAxisLabelsCB&unscoped_q=getCondenseXAxisLabelsCB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +42,6 @@ getxAxisCB(  ) &rarr; JCheckBox
 the xAxisCB
 
 <a href="https://github.com/autoplot/dev/search?q=getxAxisCB&unscoped_q=getxAxisCB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +55,6 @@ getyAxisCB(  ) &rarr; JCheckBox
 the yAxisCB
 
 <a href="https://github.com/autoplot/dev/search?q=getyAxisCB&unscoped_q=getyAxisCB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -72,6 +68,5 @@ getzAxisCB(  ) &rarr; JCheckBox
 the zAxisCB
 
 <a href="https://github.com/autoplot/dev/search?q=getzAxisCB&unscoped_q=getzAxisCB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

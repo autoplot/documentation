@@ -26,7 +26,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=listenTo&unscoped_q=listenTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 listenTo( org.das2.graph.DasAxis colorbar ) &rarr; void<br>
@@ -45,6 +44,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=propertyChange&unscoped_q=propertyChange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -20,7 +20,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getElementAt&unscoped_q=getElementAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,6 +34,5 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSize&unscoped_q=getSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

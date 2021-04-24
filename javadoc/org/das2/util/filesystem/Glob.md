@@ -21,7 +21,6 @@ javax.swing.filechooser.FileFilter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getGlobFileFilter&unscoped_q=getGlobFileFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ regex - regular expression like "foo.\*\.dat"
 a glob like "foo*.dat"
 
 <a href="https://github.com/autoplot/dev/search?q=getGlobFromRegex&unscoped_q=getGlobFromRegex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -55,7 +53,6 @@ glob - a string like '*.dat'
 a Pattern for the glob, for example *.dat -> .*\.dat
 
 <a href="https://github.com/autoplot/dev/search?q=getPattern&unscoped_q=getPattern">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -72,7 +69,6 @@ glob - a String
 the regular expression that implements, like 'foo.*\.dat'
 
 <a href="https://github.com/autoplot/dev/search?q=getRegex&unscoped_q=getRegex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -91,6 +87,5 @@ fs - the filesystem
 an array of FileObjects that match the glob.
 
 <a href="https://github.com/autoplot/dev/search?q=unGlob&unscoped_q=unGlob">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

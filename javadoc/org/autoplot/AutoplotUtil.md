@@ -51,7 +51,6 @@ an org.autoplot.AutoRangeUtil.AutoRangeDescriptor
 <a href='#autoRange'>autoRange(QDataSet, java.util.Map, boolean)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=autoRange&unscoped_q=autoRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 autoRange( QDataSet ds, java.util.Map properties ) &rarr; AutoRangeDescriptor<br>
@@ -71,7 +70,6 @@ dataSet - a QDataSet
 bounding cube[3,2]
 
 <a href="https://github.com/autoplot/dev/search?q=bounds&unscoped_q=bounds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +84,6 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=cancelIcon&unscoped_q=cancelIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +104,6 @@ the image
  TODO: test me!
 
 <a href="https://github.com/autoplot/dev/search?q=createImage&unscoped_q=createImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -127,7 +123,6 @@ c - the canvas for the plot, or null.
 the DasPlot.
 
 <a href="https://github.com/autoplot/dev/search?q=createPlot&unscoped_q=createPlot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +137,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=disableCertificates&unscoped_q=disableCertificates">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -160,7 +154,6 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=extractProperties&unscoped_q=extractProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -178,7 +171,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatDevicePosition&unscoped_q=formatDevicePosition">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -195,7 +187,6 @@ model - an ApplicationModel
 string containing HTML
 
 <a href="https://github.com/autoplot/dev/search?q=getAboutAutoplotHtml&unscoped_q=getAboutAutoplotHtml">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -210,7 +201,6 @@ a java.awt.Image
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAutoplotIcon&unscoped_q=getAutoplotIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -225,7 +215,6 @@ java.awt.Image
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNoIcon&unscoped_q=getNoIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -243,7 +232,6 @@ the process id or the fallback provided by the caller.
  //TODO: Java9 has method for accessing process ID.
 
 <a href="https://github.com/autoplot/dev/search?q=getProcessId&unscoped_q=getProcessId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -263,7 +251,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -281,7 +268,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUrls&unscoped_q=getUrls">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -302,7 +288,6 @@ an org.autoplot.RenderType
 <a href='http://autoplot.org/developer.guessRenderType'>http://autoplot.org/developer.guessRenderType</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=guessRenderType&unscoped_q=guessRenderType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -320,7 +305,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isParsableDouble&unscoped_q=isParsableDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -342,7 +326,6 @@ an org.das2.graph.Renderer
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeCreateRenderer&unscoped_q=maybeCreateRenderer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -357,7 +340,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeInitializeEditorColors&unscoped_q=maybeInitializeEditorColors">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -375,7 +357,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeLoadSystemProperties&unscoped_q=maybeLoadSystemProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -394,7 +375,6 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=mergeProperties&unscoped_q=mergeProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -412,7 +392,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=openBrowser&unscoped_q=openBrowser">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -430,7 +409,6 @@ org.w3c.dom.Document
 
 
 <a href="https://github.com/autoplot/dev/search?q=readDoc&unscoped_q=readDoc">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -448,7 +426,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reloadAll&unscoped_q=reloadAll">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -468,7 +445,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=replaceFile&unscoped_q=replaceFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -486,7 +462,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetZoomX&unscoped_q=resetZoomX">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 resetZoomX( org.autoplot.dom.Application dom, org.autoplot.dom.Plot plot ) &rarr; boolean<br>
@@ -505,7 +480,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetZoomY&unscoped_q=resetZoomY">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 resetZoomY( org.autoplot.dom.Application dom, org.autoplot.dom.Plot plot ) &rarr; boolean<br>
@@ -524,7 +498,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetZoomZ&unscoped_q=resetZoomZ">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 resetZoomZ( org.autoplot.dom.Application dom, org.autoplot.dom.Plot plot ) &rarr; boolean<br>
@@ -546,7 +519,6 @@ a javax.swing.ImageIcon
 
 
 <a href="https://github.com/autoplot/dev/search?q=scaleIcon&unscoped_q=scaleIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -566,7 +538,6 @@ java.awt.image.BufferedImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=scaleImage&unscoped_q=scaleImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -585,7 +556,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDevicePosition&unscoped_q=setDevicePosition">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -606,7 +576,6 @@ parentComponent - determines the Frame in which the dialog is displayed; if null
 JOptionPane.OK_OPTION, JOptionPane.CANCEL_OPTION, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=showConfirmDialog&unscoped_q=showConfirmDialog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -626,7 +595,6 @@ parent - a Component
 JOptionPane.OK_OPTION, JOptionPane.CANCEL_OPTION.
 
 <a href="https://github.com/autoplot/dev/search?q=showConfirmDialog2&unscoped_q=showConfirmDialog2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -648,7 +616,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showMessageDialog&unscoped_q=showMessageDialog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -671,7 +638,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showUserExceptionDialog&unscoped_q=showUserExceptionDialog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -691,6 +657,5 @@ ard - AutoRangeDescriptor.
 a rank 1 bounding cube.
 
 <a href="https://github.com/autoplot/dev/search?q=toDataSet&unscoped_q=toDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

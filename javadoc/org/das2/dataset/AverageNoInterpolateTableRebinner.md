@@ -19,7 +19,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isNearestNeighbor&unscoped_q=isNearestNeighbor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ org.das2.dataset.DataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=rebin&unscoped_q=rebin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,6 +55,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setNearestNeighbor&unscoped_q=setNearestNeighbor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

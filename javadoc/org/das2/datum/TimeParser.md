@@ -79,7 +79,6 @@ formatString - the format string.
 the time parser.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 create( String formatString, String fieldName, org.das2.datum.TimeParser.FieldHandler handler, java.lang.Object[] moreHandler ) &rarr; TimeParser<br>
@@ -99,7 +98,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 format( Datum start ) &rarr; String<br>
@@ -120,7 +118,6 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEndTime&unscoped_q=getEndTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -140,7 +137,6 @@ code - a String
 the field handler.
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldHandlerByCode&unscoped_q=getFieldHandlerByCode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -160,7 +156,6 @@ id - the field handler id
 the field handler.
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldHandlerById&unscoped_q=getFieldHandlerById">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -178,7 +173,6 @@ args - a java.util.Map
 the char, or (char)0.
 
 <a href="https://github.com/autoplot/dev/search?q=getPad&unscoped_q=getPad">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -193,7 +187,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRegex&unscoped_q=getRegex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +210,6 @@ units - as in Units.us2000
 the value in the given units.
 
 <a href="https://github.com/autoplot/dev/search?q=getTime&unscoped_q=getTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -232,7 +224,6 @@ return the parsed time as a Datum.  For years less than 1990,
 a datum representing the parsed time.
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeDatum&unscoped_q=getTimeDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -256,7 +247,6 @@ tr= tr.next()          // "Feb 2015", not 31 days starting Feb 1
 the DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRange&unscoped_q=getTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -273,7 +263,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getValidRange&unscoped_q=getValidRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -290,7 +279,6 @@ field - e.g. "x"
 true if the parser has a field.
 
 <a href="https://github.com/autoplot/dev/search?q=hasField&unscoped_q=hasField">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -309,7 +297,6 @@ exampleTime - string like "1992-353T02:00"
 true if the string appears to be an ISO8601 time.
 
 <a href="https://github.com/autoplot/dev/search?q=isIso8601String&unscoped_q=isIso8601String">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -324,7 +311,6 @@ return true if each successive field is nested within the previous,
 true if the spec is nested.
 
 <a href="https://github.com/autoplot/dev/search?q=isNested&unscoped_q=isNested">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -342,7 +328,6 @@ spec - a String
 true if the string appears to be a spec.
 
 <a href="https://github.com/autoplot/dev/search?q=isSpec&unscoped_q=isSpec">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -358,7 +343,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isStartTimeOnly&unscoped_q=isStartTimeOnly">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -375,7 +359,6 @@ exampleTime - "1992-353T02:00"
 "$Y-$jT$H$M" etc.
 
 <a href="https://github.com/autoplot/dev/search?q=iso8601String&unscoped_q=iso8601String">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -393,7 +376,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -416,7 +398,6 @@ timeString - string containing a time
 a reference to this TimeParser object, which now contains the time.
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 parse( String timeString, java.util.Map extra ) &rarr; TimeParser<br>
@@ -438,7 +419,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setContext&unscoped_q=setContext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -459,7 +439,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDigit&unscoped_q=setDigit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setDigit( String format, int value ) &rarr; TimeParser<br>
@@ -476,7 +455,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=sloppyColumns&unscoped_q=sloppyColumns">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -492,7 +470,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=testTimeParser&unscoped_q=testTimeParser">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -507,6 +484,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -17,7 +17,6 @@ get the one instance
 the instance
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ null or the link, like http://docs.oracle.com/javase/6/docs/api/javax/swing/JChe
  TODO: it appears that this needs /x/y/z.html!
 
 <a href="https://github.com/autoplot/dev/search?q=getLinkForJavaSignature&unscoped_q=getLinkForJavaSignature">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=searchForSignature&unscoped_q=searchForSignature">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,6 +73,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLinkForJavaSignature&unscoped_q=setLinkForJavaSignature">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

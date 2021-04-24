@@ -26,7 +26,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addDataRangeSelectionListener&unscoped_q=addDataRangeSelectionListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -45,7 +44,6 @@ canvas - the source for images
 BatchMaster object.
 
 <a href="https://github.com/autoplot/dev/search?q=createPngs&unscoped_q=createPngs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +60,6 @@ pngFilenameTemplate - BEGIN,END,RANGE substituted to form name
 TaskOutputDescriptor describing the task.
 
 <a href="https://github.com/autoplot/dev/search?q=createPngsTaskOutputDescriptor&unscoped_q=createPngsTaskOutputDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +77,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeDataRangeSelectionListener&unscoped_q=removeDataRangeSelectionListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,6 +91,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=start&unscoped_q=start">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

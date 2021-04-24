@@ -23,7 +23,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyStream&unscoped_q=copyStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +45,6 @@ localFile - which need not exist.
 a new file that is a different but predictable name.
 
 <a href="https://github.com/autoplot/dev/search?q=createTempFile&unscoped_q=createTempFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +65,6 @@ void (returns nothing)
 <a href='Glob.md#getRegex'>Glob#getRegex(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=deleteAllFiles&unscoped_q=deleteAllFiles">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -87,7 +84,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpToFile&unscoped_q=dumpToFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +103,6 @@ uri - URI like URI("file:/home/jbf/ct/autoplot/bugs/1830227625/%5BajbTest%5D/")
 string representation of a path like file:/home/jbf/ct/autoplot/bugs/1830227625/[ajbTest]/
 
 <a href="https://github.com/autoplot/dev/search?q=fromUri&unscoped_q=fromUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -125,7 +120,6 @@ description - descriptions, like "png image file"
 the FileFilter
 
 <a href="https://github.com/autoplot/dev/search?q=getFileNameExtensionFilter&unscoped_q=getFileNameExtensionFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -143,7 +137,6 @@ a java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParentUri&unscoped_q=getParentUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -162,7 +155,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=gunzip&unscoped_q=gunzip">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -192,7 +184,6 @@ ruri - an URI
 the URI of the parent, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=isCacheable&unscoped_q=isCacheable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -210,7 +201,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeMkdirs&unscoped_q=maybeMkdirs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -228,7 +218,6 @@ s - string representation of a path like file:/home/jbf/ct/autoplot/bugs/1830227
 URI like URI("file:/home/jbf/ct/autoplot/bugs/1830227625/%5BajbTest%5D/")
 
 <a href="https://github.com/autoplot/dev/search?q=toUri&unscoped_q=toUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -253,7 +242,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=unzipFile&unscoped_q=unzipFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -271,7 +259,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=uriDecode&unscoped_q=uriDecode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -290,7 +277,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=uriEncode&unscoped_q=uriEncode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -309,6 +295,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=zip&unscoped_q=zip">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

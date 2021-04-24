@@ -28,7 +28,6 @@ org.das2.dataset.DataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 append( org.das2.dataset.DataSet ds1, org.das2.dataset.DataSet ds2 ) &rarr; DataSet<br>
@@ -48,7 +47,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=closestColumn&unscoped_q=closestColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 closestColumn( org.das2.dataset.DataSet table, double x, Units units ) &rarr; int<br>
@@ -69,7 +67,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAllPlaneIds&unscoped_q=getAllPlaneIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -90,7 +87,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNextColumn&unscoped_q=getNextColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -111,7 +107,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPreviousColumn&unscoped_q=getPreviousColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -129,7 +124,6 @@ org.das2.dataset.DataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWeightsDataSet&unscoped_q=getWeightsDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -148,7 +142,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXTagArrayDouble&unscoped_q=getXTagArrayDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -166,7 +159,6 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXTags&unscoped_q=getXTags">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -184,7 +176,6 @@ org.das2.datum.CacheTag
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessCacheTag&unscoped_q=guessCacheTag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -204,7 +195,6 @@ long
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessSizeBytes&unscoped_q=guessSizeBytes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -223,7 +213,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessXTagWidth&unscoped_q=guessXTagWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -241,7 +230,6 @@ org.das2.dataset.VectorDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=log10&unscoped_q=log10">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -260,7 +248,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=xRange&unscoped_q=xRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -281,7 +268,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=xTagBinarySearch&unscoped_q=xTagBinarySearch">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -299,7 +285,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=yRange&unscoped_q=yRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -318,6 +303,5 @@ ds - a DataSet
 a DatumRange useful for setting axis range.
 
 <a href="https://github.com/autoplot/dev/search?q=zRange&unscoped_q=zRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

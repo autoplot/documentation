@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clear&unscoped_q=clear">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ java.awt.Rectangle[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDirtyBounds&unscoped_q=getDirtyBounds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,7 +47,6 @@ Getter for property allPlanesReport.
 Value of property allPlanesReport.
 
 <a href="https://github.com/autoplot/dev/search?q=isAllPlanesReport&unscoped_q=isAllPlanesReport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +60,6 @@ Getter for property debugging.
 Value of property debugging.
 
 <a href="https://github.com/autoplot/dev/search?q=isDebugging&unscoped_q=isDebugging">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +73,6 @@ Getter for property multiLine.
 Value of property multiLine.
 
 <a href="https://github.com/autoplot/dev/search?q=isMultiLine&unscoped_q=isMultiLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -92,7 +87,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isPointSelection&unscoped_q=isPointSelection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +101,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isSnapping&unscoped_q=isSnapping">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +115,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isUpdatingDragSelection&unscoped_q=isUpdatingDragSelection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +134,6 @@ java.awt.Rectangle[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=renderDrag&unscoped_q=renderDrag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -160,7 +151,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAllPlanesReport&unscoped_q=setAllPlanesReport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -178,7 +168,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDebugging&unscoped_q=setDebugging">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -196,7 +185,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMultiLine&unscoped_q=setMultiLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -214,6 +202,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSnapping&unscoped_q=setSnapping">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

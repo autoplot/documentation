@@ -27,7 +27,6 @@ java.util.prefs.Preferences
 
 
 <a href="https://github.com/autoplot/dev/search?q=systemRoot&unscoped_q=systemRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -42,6 +41,5 @@ java.util.prefs.Preferences
 
 
 <a href="https://github.com/autoplot/dev/search?q=userRoot&unscoped_q=userRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

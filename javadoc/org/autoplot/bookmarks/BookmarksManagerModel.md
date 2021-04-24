@@ -32,7 +32,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addPropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
@@ -51,7 +50,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addRemoteBookmarks&unscoped_q=addRemoteBookmarks">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addRemoteBookmarks( String surl, org.autoplot.bookmarks.Bookmark selectedBookmark ) &rarr; void<br>
@@ -66,7 +64,6 @@ get the bookmarks as a list.  This is a mutable copy of the internal list.
 the list of bookmarks.
 
 <a href="https://github.com/autoplot/dev/search?q=getList&unscoped_q=getList">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +77,6 @@ get a TreeModel of the internal model, so GUIs can show the state.
 a TreeModel.
 
 <a href="https://github.com/autoplot/dev/search?q=getTreeModel&unscoped_q=getTreeModel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +94,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=importList&unscoped_q=importList">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +114,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mergeList&unscoped_q=mergeList">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -138,7 +132,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removePropertyChangeListener( java.beans.PropertyChangeListener listener ) &rarr; void<br>
@@ -157,6 +150,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setList&unscoped_q=setList">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

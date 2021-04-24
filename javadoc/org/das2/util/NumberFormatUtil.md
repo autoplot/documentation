@@ -17,7 +17,6 @@ handles the localization problem (bug 0000294) by always returning a DecimalForm
 DecimalFormat
 
 <a href="https://github.com/autoplot/dev/search?q=getDecimalFormat&unscoped_q=getDecimalFormat">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDecimalFormat( String spec ) &rarr; DecimalFormat<br>

@@ -80,7 +80,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addHandlerToAll&unscoped_q=addHandlerToAll">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +94,6 @@ java.util.logging.Logger
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDebugLogger&unscoped_q=getDebugLogger">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -110,7 +108,6 @@ java.util.logging.Logger
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLogger&unscoped_q=getLogger">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getLogger( org.das2.system.LoggerId loggerId ) &rarr; Logger<br>
@@ -127,7 +124,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printStatus&unscoped_q=printStatus">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +138,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reload&unscoped_q=reload">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +152,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeAllHandlers&unscoped_q=removeAllHandlers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -175,6 +169,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUpHandler&unscoped_q=setUpHandler">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

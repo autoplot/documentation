@@ -14,7 +14,6 @@ org.das2.dasml.ListOption[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOptions&unscoped_q=getOptions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,6 +31,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOptions&unscoped_q=setOptions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

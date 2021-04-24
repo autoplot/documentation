@@ -27,7 +27,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=childPath&unscoped_q=childPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -45,7 +44,6 @@ org.das2.catalog.DasNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=list&unscoped_q=list">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -79,7 +76,6 @@ org.das2.catalog.DasNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=nearest&unscoped_q=nearest">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -97,7 +93,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=pathSeparator&unscoped_q=pathSeparator">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -116,6 +111,5 @@ org.das2.catalog.DasNode
 
 
 <a href="https://github.com/autoplot/dev/search?q=resolve&unscoped_q=resolve">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

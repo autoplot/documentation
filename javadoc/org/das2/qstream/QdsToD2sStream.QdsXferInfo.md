@@ -15,7 +15,6 @@ Get a size independent type name
 the type with any size information stripped off
 
 <a href="https://github.com/autoplot/dev/search?q=name&unscoped_q=name">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -29,7 +28,6 @@ size(  ) &rarr; int
 the size in bytes of each output value
 
 <a href="https://github.com/autoplot/dev/search?q=size&unscoped_q=size">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=xSliceBytes&unscoped_q=xSliceBytes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,6 +63,5 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=xSliceItems&unscoped_q=xSliceItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

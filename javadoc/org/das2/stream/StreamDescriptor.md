@@ -24,7 +24,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addYMulti&unscoped_q=addYMulti">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -42,7 +41,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addYScan&unscoped_q=addYScan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,7 +55,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=clone&unscoped_q=clone">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,7 +72,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=createHeader&unscoped_q=createHeader">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +89,6 @@ org.das2.stream.StreamDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=createLegacyDescriptor&unscoped_q=createLegacyDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +102,6 @@ Getter for property compression.
 Value of property compression.
 
 <a href="https://github.com/autoplot/dev/search?q=getCompression&unscoped_q=getCompression">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -125,7 +119,6 @@ org.w3c.dom.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDOMElement&unscoped_q=getDOMElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -140,7 +133,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperties&unscoped_q=getProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -158,7 +150,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,7 +164,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSizeBytes&unscoped_q=getSizeBytes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -188,7 +178,6 @@ org.das2.stream.StreamXDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXDescriptor&unscoped_q=getXDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -203,7 +192,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYDescriptors&unscoped_q=getYDescriptors">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -221,7 +209,6 @@ org.w3c.dom.Document
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseHeader&unscoped_q=parseHeader">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -239,7 +226,6 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=read&unscoped_q=read">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -257,7 +243,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCompression&unscoped_q=setCompression">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -276,7 +261,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setProperty&unscoped_q=setProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -294,7 +278,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setXDescriptor&unscoped_q=setXDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -309,7 +292,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -328,6 +310,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

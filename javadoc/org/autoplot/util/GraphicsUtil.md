@@ -20,6 +20,5 @@ a javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessIconFor&unscoped_q=guessIconFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

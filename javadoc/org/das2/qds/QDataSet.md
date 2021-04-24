@@ -650,7 +650,6 @@ clazz - the class, such as WriteCapability.class
 the implementing class, or null (Jython None) if the capability is not provided.
 
 <a href="https://github.com/autoplot/dev/search?q=capability&unscoped_q=capability">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -664,7 +663,6 @@ return the length of the first dimension
 the length of the first dimension
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 length( int i ) &rarr; int<br>
@@ -688,7 +686,6 @@ the value
 <a href='#UNITS'>UNITS</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=property&unscoped_q=property">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 property( String name, int i ) &rarr; Object<br>
@@ -705,7 +702,6 @@ returns the rank of the dataset, which is the number of indeces used to access d
 the rank, or number of indeces used to access data.
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -727,7 +723,6 @@ i - the index to slice at
 the rank n-1 QDataSet at index i.
 
 <a href="https://github.com/autoplot/dev/search?q=slice&unscoped_q=slice">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -741,7 +736,6 @@ rank 0 accessor which provides the string value
 the value, see the property UNITS to interpret this.
 
 <a href="https://github.com/autoplot/dev/search?q=svalue&unscoped_q=svalue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -767,7 +761,6 @@ start - the first index to be included in the new dataset.
 a QDataSet with the same rank but fewer elements.
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -781,7 +774,6 @@ rank 0 accessor.
 the value, see the property UNITS to interpret this.
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 value( int i ) &rarr; double<br>

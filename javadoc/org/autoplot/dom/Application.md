@@ -78,7 +78,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=childNodes&unscoped_q=childNodes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -92,7 +91,6 @@ return a copy of this application state.
 a copy of this application state.
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -112,7 +110,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=diffs&unscoped_q=diffs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -127,7 +124,6 @@ org.autoplot.dom.Annotation[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAnnotations&unscoped_q=getAnnotations">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getAnnotations( int index ) &rarr; Annotation<br>
@@ -143,7 +139,6 @@ org.autoplot.dom.BindingModel[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBindings&unscoped_q=getBindings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getBindings( int index ) &rarr; BindingModel<br>
@@ -159,7 +154,6 @@ org.autoplot.dom.Canvas[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvases&unscoped_q=getCanvases">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getCanvases( int index ) &rarr; Canvas<br>
@@ -175,7 +169,6 @@ org.autoplot.dom.Connector[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getConnectors&unscoped_q=getConnectors">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getConnectors( int index ) &rarr; Connector<br>
@@ -191,7 +184,6 @@ org.autoplot.dom.ApplicationController
 
 
 <a href="https://github.com/autoplot/dev/search?q=getController&unscoped_q=getController">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -206,7 +198,6 @@ org.autoplot.dom.DataSourceFilter[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFilters&unscoped_q=getDataSourceFilters">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDataSourceFilters( int index ) &rarr; DataSourceFilter<br>
@@ -228,7 +219,6 @@ the node
 <a href='DomUtil.md#getElementById'>DomUtil#getElementById(org.autoplot.dom.DomNode, java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getElementById&unscoped_q=getElementById">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -243,7 +233,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEventsListUri&unscoped_q=getEventsListUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -258,7 +247,6 @@ org.autoplot.dom.Options
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOptions&unscoped_q=getOptions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -273,7 +261,6 @@ org.autoplot.dom.PlotElement[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotElements&unscoped_q=getPlotElements">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPlotElements( int index ) &rarr; PlotElement<br>
@@ -289,7 +276,6 @@ org.autoplot.dom.Plot[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlots&unscoped_q=getPlots">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPlots( int index ) &rarr; Plot<br>
@@ -305,7 +291,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRange&unscoped_q=getTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -323,7 +308,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAnnotations&unscoped_q=setAnnotations">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setAnnotations( int index, org.autoplot.dom.Annotation annotation ) &rarr; void<br>
@@ -342,7 +326,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setBindings&unscoped_q=setBindings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setBindings( int index, org.autoplot.dom.BindingModel newBinding ) &rarr; void<br>
@@ -361,7 +344,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCanvases&unscoped_q=setCanvases">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setCanvases( int index, org.autoplot.dom.Canvas newCanvas ) &rarr; void<br>
@@ -380,7 +362,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setConnectors&unscoped_q=setConnectors">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setConnectors( int index, org.autoplot.dom.Connector newConnector ) &rarr; void<br>
@@ -399,7 +380,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSourceFilters&unscoped_q=setDataSourceFilters">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setDataSourceFilters( int index, org.autoplot.dom.DataSourceFilter newDataSourceFilter ) &rarr; void<br>
@@ -418,7 +398,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEventsListUri&unscoped_q=setEventsListUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -436,7 +415,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOptions&unscoped_q=setOptions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -454,7 +432,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlotElements&unscoped_q=setPlotElements">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setPlotElements( int index, org.autoplot.dom.PlotElement pele ) &rarr; void<br>
@@ -473,7 +450,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlots&unscoped_q=setPlots">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setPlots( int index, org.autoplot.dom.Plot newPlots ) &rarr; void<br>
@@ -492,7 +468,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeRange&unscoped_q=setTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -510,7 +485,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 syncTo( org.autoplot.dom.DomNode n, java.util.List exclude ) &rarr; void<br>

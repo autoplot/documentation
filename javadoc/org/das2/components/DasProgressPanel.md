@@ -63,7 +63,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addPropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
@@ -79,7 +78,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=canBeCancelled&unscoped_q=canBeCancelled">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,7 +92,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=cancel&unscoped_q=cancel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -114,7 +111,6 @@ a new DasProgressPanel
 <a href='#getComponent'>getComponent()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=createComponent&unscoped_q=createComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -132,7 +128,6 @@ component - the canvas component providing a context for the progress, for examp
 the new component
 
 <a href="https://github.com/autoplot/dev/search?q=createComponentPanel&unscoped_q=createComponentPanel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createComponentPanel( org.das2.graph.DasCanvas canvas, String initialMessage ) &rarr; DasProgressPanel<br>
@@ -151,7 +146,6 @@ label - label describing the task.
 a DasProgressPanel.
 
 <a href="https://github.com/autoplot/dev/search?q=createFramed&unscoped_q=createFramed">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createFramed( java.awt.Window parent, String label ) &rarr; DasProgressPanel<br>
@@ -167,7 +161,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=finished&unscoped_q=finished">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -181,7 +174,6 @@ returns the JPanel component.
 the JPanel component.
 
 <a href="https://github.com/autoplot/dev/search?q=getComponent&unscoped_q=getComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -196,7 +188,6 @@ java.lang.Exception
 
 
 <a href="https://github.com/autoplot/dev/search?q=getConsumer&unscoped_q=getConsumer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -211,7 +202,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -226,7 +216,6 @@ java.lang.Exception
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSource&unscoped_q=getSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -246,7 +235,6 @@ org.das2.util.monitor.ProgressMonitor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSubtaskMonitor&unscoped_q=getSubtaskMonitor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getSubtaskMonitor( String label ) &rarr; ProgressMonitor<br>
@@ -262,7 +250,6 @@ long
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTaskProgress&unscoped_q=getTaskProgress">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -277,7 +264,6 @@ long
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTaskSize&unscoped_q=getTaskSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -292,7 +278,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isCancelled&unscoped_q=isCancelled">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -307,7 +292,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFinished&unscoped_q=isFinished">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -322,7 +306,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isStarted&unscoped_q=isStarted">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -337,7 +320,6 @@ Returning true here keeps the progress bar from forcing the whole canvas
 this always returns true
 
 <a href="https://github.com/autoplot/dev/search?q=isValidateRoot&unscoped_q=isValidateRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -352,7 +334,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isVisible&unscoped_q=isVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -371,7 +352,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeCenter&unscoped_q=maybeCenter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -389,7 +369,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removePropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
@@ -408,7 +387,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAdditionalInfo&unscoped_q=setAdditionalInfo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -427,7 +405,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setContextComponent&unscoped_q=setContextComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -445,7 +422,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabel&unscoped_q=setLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -463,7 +439,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setProgressMessage&unscoped_q=setProgressMessage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -481,7 +456,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowProgressRate&unscoped_q=setShowProgressRate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -499,7 +473,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTaskProgress&unscoped_q=setTaskProgress">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -517,7 +490,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTaskSize&unscoped_q=setTaskSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -535,7 +507,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setVisible&unscoped_q=setVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -550,7 +521,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=started&unscoped_q=started">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -565,6 +535,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

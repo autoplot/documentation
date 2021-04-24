@@ -19,7 +19,6 @@ root - the root where we start deleting.
 true if the operation was successful.
 
 <a href="https://github.com/autoplot/dev/search?q=deleteFileTree&unscoped_q=deleteFileTree">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 deleteFileTree( java.io.File root, java.util.Set exclude ) &rarr; boolean<br>
@@ -39,7 +38,6 @@ root - the root directory of the tree.
 true if the operation was successful.
 
 <a href="https://github.com/autoplot/dev/search?q=deleteWithinFileTree&unscoped_q=deleteWithinFileTree">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,7 +55,6 @@ file1 - a File
 true if the two files have identical
 
 <a href="https://github.com/autoplot/dev/search?q=fileCompare&unscoped_q=fileCompare">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,7 +73,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=fileCopy&unscoped_q=fileCopy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +91,6 @@ root - the root to start
 the File found, or null if it does not exist.
 
 <a href="https://github.com/autoplot/dev/search?q=find&unscoped_q=find">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 find( java.io.File root, java.util.regex.Pattern pattern, java.util.List result ) &rarr; int<br>
@@ -116,7 +111,6 @@ src - a File
 a four byte string
 
 <a href="https://github.com/autoplot/dev/search?q=getMagic&unscoped_q=getMagic">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -135,7 +129,6 @@ possibleParent - parent file.
 true if the possibleParent is actually a parent of maybeChild.
 
 <a href="https://github.com/autoplot/dev/search?q=isParent&unscoped_q=isParent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +148,6 @@ the number of lines.
 <a href='BufferedReader.md'>BufferedReader</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=lineCount&unscoped_q=lineCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -174,7 +166,6 @@ root - the root of the search (e.g. /fonts/)
 the list.
 
 <a href="https://github.com/autoplot/dev/search?q=listRecursively&unscoped_q=listRecursively">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 listRecursively( java.io.File root, String glob ) &rarr; File<br>
@@ -192,7 +183,6 @@ f - the file, which presumed to be UTF-8 (or ASCII) encoded.
 string containing the contents of the file.
 
 <a href="https://github.com/autoplot/dev/search?q=readFileToString&unscoped_q=readFileToString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -211,6 +201,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeStringToFile&unscoped_q=writeStringToFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

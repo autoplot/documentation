@@ -17,7 +17,6 @@ org.das2.datum.format.DatumFormatterFactory
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumFormatterFactory&unscoped_q=getDatumFormatterFactory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFillDatum&unscoped_q=getFillDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFillDouble&unscoped_q=getFillDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +59,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeZone&unscoped_q=getTimeZone">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +76,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFill&unscoped_q=isFill">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -97,7 +92,6 @@ value - a double
 true if the data is not fill.
 
 <a href="https://github.com/autoplot/dev/search?q=isValid&unscoped_q=isValid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -115,7 +109,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -129,7 +122,6 @@ return the maximum valid value.  Any value greater than this value is invalid.
 the maximum valid value.
 
 <a href="https://github.com/autoplot/dev/search?q=validMax&unscoped_q=validMax">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -143,6 +135,5 @@ return the minimum valid value.  Any value less than this value is invalid.
 the minimum valid value
 
 <a href="https://github.com/autoplot/dev/search?q=validMin&unscoped_q=validMin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -14,7 +14,6 @@ an org.autoplot.state.AbstractVapScheme
 
 
 <a href="https://github.com/autoplot/dev/search?q=currentScheme&unscoped_q=currentScheme">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ parent - the node of the tree.
 return the child or null if no such child exists.
 
 <a href="https://github.com/autoplot/dev/search?q=getChildElement&unscoped_q=getChildElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,7 +47,6 @@ f - the xml vap file.
 the dom object.
 
 <a href="https://github.com/autoplot/dev/search?q=restoreState&unscoped_q=restoreState">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 restoreState( java.io.InputStream in, java.util.LinkedHashMap deltas ) &rarr; Application<br>
@@ -70,7 +67,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=saveState&unscoped_q=saveState">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 saveState( java.io.File f, Object state, String sscheme ) &rarr; void<br>
@@ -91,7 +87,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeDocument&unscoped_q=writeDocument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 writeDocument( java.io.File f, org.w3c.dom.Document document ) &rarr; void<br>

@@ -39,7 +39,6 @@ src - the byte array to decode
 A newly-allocated byte array containing the decoded bytes.
 
 <a href="https://github.com/autoplot/dev/search?q=decode&unscoped_q=decode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 decode( String src ) &rarr; byte<br>
@@ -66,6 +65,5 @@ the input stream for decoding the specified Base64 encoded
           byte stream
 
 <a href="https://github.com/autoplot/dev/search?q=wrap&unscoped_q=wrap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

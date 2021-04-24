@@ -29,7 +29,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clear&unscoped_q=clear">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,7 +49,6 @@ an org.das2.event.MouseDragEvent
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseDragEvent&unscoped_q=getMouseDragEvent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -64,7 +62,6 @@ indicates that the mouse module's mousePointSelected() should be called as new m
 true if the mouse module should receive events during the drag.
 
 <a href="https://github.com/autoplot/dev/search?q=isPointSelection&unscoped_q=isPointSelection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,7 +75,6 @@ range selection events should be fired during drag.
 true if selection events should be fired during drag.
 
 <a href="https://github.com/autoplot/dev/search?q=isUpdatingDragSelection&unscoped_q=isUpdatingDragSelection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -101,6 +97,5 @@ a java.awt.Rectangle[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=renderDrag&unscoped_q=renderDrag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

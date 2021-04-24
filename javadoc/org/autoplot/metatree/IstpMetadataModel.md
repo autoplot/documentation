@@ -51,7 +51,6 @@ o - the datum in double, int, String, array, etc.
 the double or
 
 <a href="https://github.com/autoplot/dev/search?q=doubleValue&unscoped_q=doubleValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,7 +65,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +84,6 @@ attrs - the ISTP attributes
 the range.
 
 <a href="https://github.com/autoplot/dev/search?q=getValidRange&unscoped_q=getValidRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +104,6 @@ depDs - a MutablePropertyDataSet
 the rank 1 dataset or null.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeReduceRank2&unscoped_q=maybeReduceRank2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -125,6 +121,5 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=properties&unscoped_q=properties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

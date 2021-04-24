@@ -67,7 +67,6 @@ The string USERNAME + ":" + PASSWORD that is then run through a base64
 <a href='#getHttpBasicHashRaw'>getHttpBasicHashRaw(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getHttpBasicHash&unscoped_q=getHttpBasicHash">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,7 +93,6 @@ The string USERNAME + ":" + PASSWORD. If no credentials are available for
 <a href='#getHttpBasicHash'>getHttpBasicHash(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getHttpBasicHashRaw&unscoped_q=getHttpBasicHashRaw">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -111,7 +109,6 @@ org.das2.util.CredentialsManager
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMannager&unscoped_q=getMannager">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getMannager( String sWhich ) &rarr; CredentialsManager<br>
@@ -132,7 +129,6 @@ sLocationId - The location to describe, can not be null.
 true if there are stored credentials, false otherwise
 
 <a href="https://github.com/autoplot/dev/search?q=hasCredentials&unscoped_q=hasCredentials">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -152,7 +148,6 @@ sLocationId - The location in question
 true if the location has been described, false otherwise
 
 <a href="https://github.com/autoplot/dev/search?q=hasDescription&unscoped_q=hasDescription">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -172,7 +167,6 @@ sLocationId - the location in question
 true if the location has as attached icon logo
 
 <a href="https://github.com/autoplot/dev/search?q=hasIcon&unscoped_q=hasIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -190,7 +184,6 @@ a void
 
 
 <a href="https://github.com/autoplot/dev/search?q=invalidate&unscoped_q=invalidate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -216,7 +209,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDescription&unscoped_q=setDescription">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setDescription( String sLocationId, String sDescription, javax.swing.ImageIcon icon ) &rarr; void<br>
@@ -236,6 +228,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHttpBasicHashRaw&unscoped_q=setHttpBasicHashRaw">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

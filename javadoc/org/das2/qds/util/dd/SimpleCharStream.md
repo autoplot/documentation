@@ -54,7 +54,6 @@ char
 
 
 <a href="https://github.com/autoplot/dev/search?q=BeginToken&unscoped_q=BeginToken">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -69,7 +68,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=Done&unscoped_q=Done">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +82,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=GetImage&unscoped_q=GetImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +99,6 @@ char[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=GetSuffix&unscoped_q=GetSuffix">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +119,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=ReInit&unscoped_q=ReInit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ReInit( java.io.Reader dstream, int startline, int startcolumn ) &rarr; void<br>
@@ -150,7 +145,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=adjustBeginLineColumn&unscoped_q=adjustBeginLineColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -168,7 +162,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=backup&unscoped_q=backup">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -183,7 +176,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBeginColumn&unscoped_q=getBeginColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -198,7 +190,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBeginLine&unscoped_q=getBeginLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -213,7 +204,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumn&unscoped_q=getColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -228,7 +218,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEndColumn&unscoped_q=getEndColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -243,7 +232,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEndLine&unscoped_q=getEndLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -258,7 +246,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLine&unscoped_q=getLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -273,6 +260,5 @@ char
 
 
 <a href="https://github.com/autoplot/dev/search?q=readChar&unscoped_q=readChar">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

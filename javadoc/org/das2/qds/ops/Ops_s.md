@@ -13,7 +13,6 @@ suggest - a name, possibly containing spaces and illegal characters
 a Java-style identifier
 
 <a href="https://github.com/autoplot/dev/search?q=safeName&unscoped_q=safeName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ suggest - a name, possibly containing pipes (|)
 suggest, but with pipe converted to underscore.
 
 <a href="https://github.com/autoplot/dev/search?q=saferName&unscoped_q=saferName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -51,7 +49,6 @@ t - the independent values
 /|/|/| sawtooth wave with a period of 2 PI.
 
 <a href="https://github.com/autoplot/dev/search?q=sawtooth&unscoped_q=sawtooth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -73,7 +70,6 @@ rank 1 dataset filled with zeros.
 <a href='Ops_d.md#dblarr'>dblarr(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=shortarr&unscoped_q=shortarr">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 shortarr( int len0, int len1 ) &rarr; QDataSet<br>
@@ -98,7 +94,6 @@ rank 1 dataset of integer indeces.
 <a href='Ops_s.md#sort'>sort(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=shuffle&unscoped_q=shuffle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 shuffle( Object ds ) &rarr; QDataSet<br>
@@ -122,7 +117,6 @@ a QDataSet
 <a href='Ops_n.md#negate'>negate</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=signum&unscoped_q=signum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 signum( double x ) &rarr; double<br>
@@ -142,7 +136,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=sin&unscoped_q=sin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 sin( double ds ) &rarr; double<br>
@@ -162,7 +155,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=sinh&unscoped_q=sinh">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 sinh( double ds ) &rarr; double<br>
@@ -187,7 +179,6 @@ ds - a qube dataset.
 the array containing number of elements in each index.
 
 <a href="https://github.com/autoplot/dev/search?q=size&unscoped_q=size">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -207,7 +198,6 @@ rank N-1 dataset
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/QDataSet_s.md#slice'>QDataSet#slice(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=slice0&unscoped_q=slice0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 slice0( QDataSet ds, QDataSet sliceds ) &rarr; QDataSet<br>
@@ -229,7 +219,6 @@ a QDataSet
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/DataSetOps_s.md#slice1'>org.das2.qds.DataSetOps#slice1(QDataSet, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=slice1&unscoped_q=slice1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 slice1( QDataSet ds, QDataSet sliceds ) &rarr; QDataSet<br>
@@ -251,7 +240,6 @@ a QDataSet
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/DataSetOps_s.md#slice2'>org.das2.qds.DataSetOps#slice2(QDataSet, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=slice2&unscoped_q=slice2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 slice2( QDataSet ds, QDataSet sliceds ) &rarr; QDataSet<br>
@@ -273,7 +261,6 @@ a QDataSet
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/DataSetOps_s.md#slice3'>org.das2.qds.DataSetOps#slice3(QDataSet, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=slice3&unscoped_q=slice3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 slice3( QDataSet ds, QDataSet sliceds ) &rarr; QDataSet<br>
@@ -292,7 +279,6 @@ ds - the dataset
 the dataset with slices performed.
 
 <a href="https://github.com/autoplot/dev/search?q=slices&unscoped_q=slices">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -316,7 +302,6 @@ rank 1 or rank 2 dataset of length N
 <a href='Ops_s.md#smooth2d'>smooth2d(QDataSet, int, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=smooth&unscoped_q=smooth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 smooth( Object ds, int size ) &rarr; QDataSet<br>
@@ -336,7 +321,6 @@ ds - rank 2 dataset.
 smoothed dataset with the same geometry.
 
 <a href="https://github.com/autoplot/dev/search?q=smooth1&unscoped_q=smooth1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -358,7 +342,6 @@ data with the same geometry
 <a href='Ops_s.md#smooth1'>smooth1(QDataSet, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=smooth2d&unscoped_q=smooth2d">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -379,7 +362,6 @@ xx - a rank 1 dataset of size N
 rank 1 dataset of size N
 
 <a href="https://github.com/autoplot/dev/search?q=smoothFit&unscoped_q=smoothFit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 smoothFit( Object xx, Object yy, int size ) &rarr; QDataSet<br>
@@ -407,7 +389,6 @@ rank 1 dataset of indeces that sort the input dataset.
 <a href='Ops_s.md#shuffle'>shuffle(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=sort&unscoped_q=sort">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 sort( Object ds ) &rarr; QDataSet<br>
@@ -426,7 +407,6 @@ ds - a QDataSet
 the data sorted by DEPEND_0.
 
 <a href="https://github.com/autoplot/dev/search?q=sortInTime&unscoped_q=sortInTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -445,7 +425,6 @@ the square root of the dataset, which will contain NaN where the data is negativ
 <a href='Ops_p.md#pow'>pow(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=sqrt&unscoped_q=sqrt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 sqrt( double ds1 ) &rarr; double<br>
@@ -464,7 +443,6 @@ t - the independent values.
 square wave with a period of 2 PI.
 
 <a href="https://github.com/autoplot/dev/search?q=square&unscoped_q=square">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -482,7 +460,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=stddev&unscoped_q=stddev">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 stddev( QDataSet ds ) &rarr; QDataSet<br>
@@ -502,7 +479,6 @@ len0 - the number of elements.
 QDataSet with EnumerationUnits and all elements containing the value for "".
 
 <a href="https://github.com/autoplot/dev/search?q=strarr&unscoped_q=strarr">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 strarr( int len0, int len1 ) &rarr; QDataSet<br>
@@ -528,7 +504,6 @@ rank 1 indeces.
 <a href='Ops_a.md#applyIndex'>applyIndex(QDataSet, QDataSet)</a> applyIndex, which does the same thing.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=subset&unscoped_q=subset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -546,7 +521,6 @@ ds1 - a rank N dataset
 the element-wise difference of the two datasets.
 
 <a href="https://github.com/autoplot/dev/search?q=subtract&unscoped_q=subtract">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 subtract( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -573,7 +547,6 @@ the single dataset evaluated at the other dataset's timetags.
 <a href='Ops_s.md#synchronize'>synchronize(QDataSet, QDataSet...)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=synchronize&unscoped_q=synchronize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 synchronize( QDataSet dsTarget, org.das2.qds.QDataSet[] dsSources ) &rarr; List<br>
@@ -600,7 +573,6 @@ the single dataset evaluated at the other dataset's timetags.
 <a href='Ops_s.md#synchronizeNN'>synchronizeNN(QDataSet, QDataSet...)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=synchronizeNN&unscoped_q=synchronizeNN">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 synchronizeNN( QDataSet ds1, org.das2.qds.QDataSet[] dss ) &rarr; List<br>
@@ -625,6 +597,5 @@ the one dataset, synchronized.
 <a href='Ops_s.md#synchronize'>synchronize(QDataSet, QDataSet...)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=synchronizeOne&unscoped_q=synchronizeOne">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

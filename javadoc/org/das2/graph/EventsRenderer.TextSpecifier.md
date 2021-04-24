@@ -18,6 +18,5 @@ range - the range of the event
 the string for the datum and range shown in a popup.
 
 <a href="https://github.com/autoplot/dev/search?q=getText&unscoped_q=getText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

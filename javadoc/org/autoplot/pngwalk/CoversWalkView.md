@@ -30,7 +30,6 @@ javax.swing.JComponent
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseTarget&unscoped_q=getMouseTarget">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -45,7 +44,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isPerspective&unscoped_q=isPerspective">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +61,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=propertyChange&unscoped_q=propertyChange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -81,6 +78,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPerspective&unscoped_q=setPerspective">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

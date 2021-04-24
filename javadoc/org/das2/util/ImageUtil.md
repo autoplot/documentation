@@ -20,7 +20,6 @@ file - the png file.
 null or the JSON describing the image.  See http://autoplot.org/developer.richPng
 
 <a href="https://github.com/autoplot/dev/search?q=getJSONMetadata&unscoped_q=getJSONMetadata">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ img - image to resize.
 buffered image that is thumbSize across.
 
 <a href="https://github.com/autoplot/dev/search?q=getScaledInstance&unscoped_q=getScaledInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getScaledInstance( java.awt.image.BufferedImage img, int width, int height, boolean pad ) &rarr; BufferedImage<br>

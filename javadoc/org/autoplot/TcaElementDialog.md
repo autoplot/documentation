@@ -29,7 +29,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getModifiers&unscoped_q=getModifiers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -43,7 +42,6 @@ getPrimaryDataSetSelector(  ) &rarr; DataSetSelector
 the primaryDataSetSelector
 
 <a href="https://github.com/autoplot/dev/search?q=getPrimaryDataSetSelector&unscoped_q=getPrimaryDataSetSelector">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +56,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isCancelled&unscoped_q=isCancelled">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,6 +73,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setModifiers&unscoped_q=setModifiers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

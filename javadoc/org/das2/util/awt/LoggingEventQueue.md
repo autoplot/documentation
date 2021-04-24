@@ -16,7 +16,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpPendingEvents&unscoped_q=dumpPendingEvents">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -31,7 +30,6 @@ org.das2.util.awt.LoggingEventQueue
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,6 +47,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=postEvent&unscoped_q=postEvent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

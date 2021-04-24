@@ -17,7 +17,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=addAllItems&unscoped_q=addAllItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=addItem&unscoped_q=addItem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -54,7 +52,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=estimateItems&unscoped_q=estimateItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -69,7 +66,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=finish&unscoped_q=finish">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +80,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAnchorOffset&unscoped_q=getAnchorOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -99,7 +94,6 @@ org.das2.jythoncompletion.support.CompletionDocumentation
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDocumentation&unscoped_q=getDocumentation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,7 +107,6 @@ getItems(  ) &rarr; List
 non-null list of items.
 
 <a href="https://github.com/autoplot/dev/search?q=getItems&unscoped_q=getItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -130,7 +123,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getQueryType&unscoped_q=getQueryType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -145,7 +137,6 @@ org.das2.jythoncompletion.support.CompletionResultSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getResultSet&unscoped_q=getResultSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -160,7 +151,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSortType&unscoped_q=getSortType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -175,7 +165,6 @@ org.das2.jythoncompletion.support.CompletionTask
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTask&unscoped_q=getTask">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -190,7 +179,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTitle&unscoped_q=getTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -205,7 +193,6 @@ javax.swing.JToolTip
 
 
 <a href="https://github.com/autoplot/dev/search?q=getToolTip&unscoped_q=getToolTip">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -220,7 +207,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWaitText&unscoped_q=getWaitText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -235,7 +221,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=hasAdditionalItems&unscoped_q=hasAdditionalItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -250,7 +235,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isFinished&unscoped_q=isFinished">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -266,7 +250,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=markInactive&unscoped_q=markInactive">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -284,7 +267,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAnchorOffset&unscoped_q=setAnchorOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -302,7 +284,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDocumentation&unscoped_q=setDocumentation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -320,7 +301,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHasAdditionalItems&unscoped_q=setHasAdditionalItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -338,7 +318,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setResultSet&unscoped_q=setResultSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -356,7 +335,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTitle&unscoped_q=setTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -374,7 +352,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setToolTip&unscoped_q=setToolTip">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -392,6 +369,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWaitText&unscoped_q=setWaitText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

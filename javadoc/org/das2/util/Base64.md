@@ -49,7 +49,6 @@ Returns a {@link Decoder} that decodes using the
 A Base64 decoder.
 
 <a href="https://github.com/autoplot/dev/search?q=getDecoder&unscoped_q=getDecoder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -64,7 +63,6 @@ Returns a {@link Encoder} that encodes using the
 A Base64 encoder.
 
 <a href="https://github.com/autoplot/dev/search?q=getEncoder&unscoped_q=getEncoder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -79,7 +77,6 @@ Returns a {@link Decoder} that decodes using the
 A Base64 decoder.
 
 <a href="https://github.com/autoplot/dev/search?q=getMimeDecoder&unscoped_q=getMimeDecoder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,7 +91,6 @@ Returns a {@link Encoder} that encodes using the
 A Base64 encoder.
 
 <a href="https://github.com/autoplot/dev/search?q=getMimeEncoder&unscoped_q=getMimeEncoder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getMimeEncoder( int lineLength, byte[] lineSeparator ) &rarr; Encoder<br>
@@ -111,7 +107,6 @@ Returns a {@link Decoder} that decodes using the
 A Base64 decoder.
 
 <a href="https://github.com/autoplot/dev/search?q=getUrlDecoder&unscoped_q=getUrlDecoder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -127,6 +122,5 @@ Returns a {@link Encoder} that encodes using the
 A Base64 encoder.
 
 <a href="https://github.com/autoplot/dev/search?q=getUrlEncoder&unscoped_q=getUrlEncoder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -24,7 +24,6 @@ the block (starting and ending position) enclosing the identifier
  from NETBEANS/libsrc/org/netbeans/editor/Utilities.java
 
 <a href="https://github.com/autoplot/dev/search?q=getIdentifierBlock&unscoped_q=getIdentifierBlock">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getIdentifierBlock( org.das2.jythoncompletion.nbadapt.BaseDocument doc, int pos ) &rarr; int<br>
@@ -40,7 +39,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isMac&unscoped_q=isMac">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,6 +56,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=openBrowser&unscoped_q=openBrowser">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

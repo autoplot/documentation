@@ -32,7 +32,6 @@ spid - the id like "AC_H2_CRIS"
 the base URL like https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/cris/level_2_cdaweb/cris_h2
 
 <a href="https://github.com/autoplot/dev/search?q=getBaseUrl&unscoped_q=getBaseUrl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +52,6 @@ spid - the service provider id, like "AC_H2_CRIS"
 array of strings, with filename|startTime|endTime
 
 <a href="https://github.com/autoplot/dev/search?q=getFiles&unscoped_q=getFiles">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +69,6 @@ spid - the id like "AC_H2_CRIS"
 filename|startTime|endTime
 
 <a href="https://github.com/autoplot/dev/search?q=getFilesAndRangesFromWebService&unscoped_q=getFilesAndRangesFromWebService">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +83,6 @@ org.autoplot.cdaweb.CDAWebDB
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +101,6 @@ ds - the name, like A1_K0_MPA
 the name (http://...) of the master file to use, which may be one of the data files.
 
 <a href="https://github.com/autoplot/dev/search?q=getMasterFile&unscoped_q=getMasterFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +118,6 @@ spid - the id like "AC_H2_CRIS"
 URI template like "%Y/ac_h2_cris_%Y%m%d_?%v.cdf"
 
 <a href="https://github.com/autoplot/dev/search?q=getNaming&unscoped_q=getNaming">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +136,6 @@ spid - the service provider id, like "AC_H2_CRIS"
 filename|startTime|endTime
 
 <a href="https://github.com/autoplot/dev/search?q=getOriginalFilesAndRangesFromWebService&unscoped_q=getOriginalFilesAndRangesFromWebService">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -159,7 +152,6 @@ spid - the id like "AC_H2_CRIS"
 a downloadable file like http://cdaweb.gsfc.nasa.gov/pub/data/ace/cris/level_2_cdaweb/cris_h2/2015/ac_h2_cris_20151115_v06.cdf
 
 <a href="https://github.com/autoplot/dev/search?q=getSampleFile&unscoped_q=getSampleFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -178,7 +170,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSampleTime&unscoped_q=getSampleTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -192,7 +183,6 @@ getServiceProviderIds(  ) &rarr; Map
 Map from serviceproviderId to description
 
 <a href="https://github.com/autoplot/dev/search?q=getServiceProviderIds&unscoped_q=getServiceProviderIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -209,7 +199,6 @@ spid - service provider id.
 the time range (timerange_start, timerange_stop) for the dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRange&unscoped_q=getTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -223,7 +212,6 @@ returns true if the CDAWeb is on line.
 true if the CDAWeb is on line.
 
 <a href="https://github.com/autoplot/dev/search?q=isOnline&unscoped_q=isOnline">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -241,7 +229,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -261,7 +248,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeRefresh&unscoped_q=maybeRefresh">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -279,6 +265,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=refresh&unscoped_q=refresh">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

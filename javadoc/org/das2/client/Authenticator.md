@@ -20,6 +20,5 @@ org.das2.client.Key
 
 
 <a href="https://github.com/autoplot/dev/search?q=authenticate&unscoped_q=authenticate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

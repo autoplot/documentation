@@ -16,7 +16,6 @@ the named dataset
 <a href='DataSetOps_b.md#bundleNames'>DataSetOps#bundleNames(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=unbundle&unscoped_q=unbundle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 unbundle( QDataSet ds, int i ) &rarr; QDataSet<br>
@@ -37,7 +36,6 @@ ds - the bundle.
 rank 2 bins dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=unbundleBins&unscoped_q=unbundleBins">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ the element indeces.
 <a href='Ops_u.md#uniqValues'>uniqValues(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=uniq&unscoped_q=uniq">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 uniq( QDataSet ds, QDataSet sort ) &rarr; QDataSet<br>
@@ -89,7 +86,6 @@ the subset of the data which is uniq.
 <a href='Ops_u.md#uniq'>uniq(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=uniqValues&unscoped_q=uniqValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -110,6 +106,5 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=unwrap&unscoped_q=unwrap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

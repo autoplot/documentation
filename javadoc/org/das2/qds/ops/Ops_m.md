@@ -20,7 +20,6 @@ dataset of Rank N-1.
 <a href='Ops_a.md#abs'>abs(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=magnitude&unscoped_q=magnitude">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 magnitude( Object ds1 ) &rarr; QDataSet<br>
@@ -41,7 +40,6 @@ ads0 - a dataset.
 an ArrayDataSet or BufferDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=maybeCopy&unscoped_q=maybeCopy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +61,6 @@ rank 0 dataset
 <a href='Ops_m.md#meanAverageDeviation'>meanAverageDeviation(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=mean&unscoped_q=mean">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 mean( Object o ) &rarr; QDataSet<br>
@@ -86,7 +83,6 @@ the rank 0 mean average deviation of the dataset.
 <a href='BinAverage_b.md#binMeanAverageDeviation'>BinAverage#binMeanAverageDeviation(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=meanAverageDeviation&unscoped_q=meanAverageDeviation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,7 +100,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=median&unscoped_q=median">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 median( QDataSet ds ) &rarr; QDataSet<br>
@@ -126,7 +121,6 @@ rank 1 or rank 2 dataset.
 <a href='Ops_s.md#smooth'>smooth(QDataSet, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=medianFilter&unscoped_q=medianFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -151,7 +145,6 @@ dataset of rank N with elements interleaved.
 <a href='Ops_c.md#concatenate'>concatenate(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=merge&unscoped_q=merge">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -170,7 +163,6 @@ ds1 - the numerator
 the remainder after the division
 
 <a href="https://github.com/autoplot/dev/search?q=mod&unscoped_q=mod">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 mod( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -191,7 +183,6 @@ the rank 0 dataset
 <a href='Ops_m.md#median'>median</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=mode&unscoped_q=mode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -211,7 +202,6 @@ ds1 - the numerator
 the remainder after the division
 
 <a href="https://github.com/autoplot/dev/search?q=modp&unscoped_q=modp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 modp( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -236,7 +226,6 @@ ds - MutablePropertyDataSet, which must be writable.
 dataset, possibly with records removed.
 
 <a href="https://github.com/autoplot/dev/search?q=monotonicSubset&unscoped_q=monotonicSubset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -259,7 +248,6 @@ a QDataSet
 <a href='Ops_m.md#multiplyUnits'>multiplyUnits</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=multiply&unscoped_q=multiply">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 multiply( Object ds1, Object ds2 ) &rarr; QDataSet<br>

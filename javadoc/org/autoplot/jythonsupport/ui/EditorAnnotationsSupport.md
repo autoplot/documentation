@@ -53,7 +53,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=annotateChars&unscoped_q=annotateChars">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 annotateChars( int i0, int i1, String name, String text, PythonInterpreter interp ) &rarr; void<br>
@@ -73,7 +72,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=annotateError&unscoped_q=annotateError">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +91,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=annotateLine&unscoped_q=annotateLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 annotateLine( int lline, String name, String ltext, PythonInterpreter interp ) &rarr; void<br>
@@ -109,7 +106,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearAnnotations&unscoped_q=clearAnnotations">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 clearAnnotations( int pos ) &rarr; void<br>
@@ -125,7 +121,6 @@ org.autoplot.jythonsupport.ui.EditorAnnotationsSupport.ExpressionLookup
 
 
 <a href="https://github.com/autoplot/dev/search?q=getExpressionLookup&unscoped_q=getExpressionLookup">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -143,7 +138,6 @@ org.autoplot.jythonsupport.ui.EditorAnnotationsSupport.ExpressionLookup
 
 
 <a href="https://github.com/autoplot/dev/search?q=getForInterp&unscoped_q=getForInterp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -160,7 +154,6 @@ line - the line number 1 is the first line.
 [st,en]
 
 <a href="https://github.com/autoplot/dev/search?q=getLinePosition&unscoped_q=getLinePosition">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -174,7 +167,6 @@ The editor component should delegate to these.
 the preferred size
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferredSize&unscoped_q=getPreferredSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -192,7 +184,6 @@ editor - the code editor
 the symbol (e.g. variable name) at the current caret location
 
 <a href="https://github.com/autoplot/dev/search?q=getSymbolAt&unscoped_q=getSymbolAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -209,7 +200,6 @@ me - a MouseEvent
 the text
 
 <a href="https://github.com/autoplot/dev/search?q=getToolTipText&unscoped_q=getToolTipText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -227,7 +217,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=scrollToOffset&unscoped_q=scrollToOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -245,6 +234,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setExpressionLookup&unscoped_q=setExpressionLookup">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -36,7 +36,6 @@ a javax.swing.JMenu
 
 
 <a href="https://github.com/autoplot/dev/search?q=addMenu&unscoped_q=addMenu">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -54,7 +53,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addMenuItem&unscoped_q=addMenuItem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -73,7 +71,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addMouseModule&unscoped_q=addMouseModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +86,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=cancel&unscoped_q=cancel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,7 +100,6 @@ return the active mouse module, for scripting.  Active means the
 null or the active module.
 
 <a href="https://github.com/autoplot/dev/search?q=getActive&unscoped_q=getActive">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -118,7 +113,6 @@ get the feedback object, so its message can be set.
 the feedback object.
 
 <a href="https://github.com/autoplot/dev/search?q=getFeedback&unscoped_q=getFeedback">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -133,7 +127,6 @@ java.awt.event.KeyAdapter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getKeyAdapter&unscoped_q=getKeyAdapter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -150,7 +143,6 @@ label - the label (case-sensitive)
 null if not found, or the module.
 
 <a href="https://github.com/autoplot/dev/search?q=getModuleByLabel&unscoped_q=getModuleByLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -168,7 +160,6 @@ org.das2.event.MouseModule
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseModule&unscoped_q=getMouseModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -183,7 +174,6 @@ org.das2.event.MouseModule[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseModules&unscoped_q=getMouseModules">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -201,7 +191,6 @@ the position of the mouse press, or null if a press has not been received.
 <a href='#getMousePressPositionOnCanvas'>getMousePressPositionOnCanvas()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getMousePressPosition&unscoped_q=getMousePressPosition">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +206,6 @@ the position of the mouse press in the canvas coordinate frame, or null if a pre
 <a href='#getMousePressPosition'>getMousePressPosition()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getMousePressPositionOnCanvas&unscoped_q=getMousePressPositionOnCanvas">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -232,7 +220,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNumInserted&unscoped_q=getNumInserted">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -247,7 +234,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPinned&unscoped_q=getPinned">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -262,7 +248,6 @@ org.das2.event.MouseModule
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPrimaryModule&unscoped_q=getPrimaryModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -277,7 +262,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPrimaryModuleByLabel&unscoped_q=getPrimaryModuleByLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -292,7 +276,6 @@ a javax.swing.JPopupMenu
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPrimaryPopupMenu&unscoped_q=getPrimaryPopupMenu">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -307,7 +290,6 @@ org.das2.event.MouseModule
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSecondaryModule&unscoped_q=getSecondaryModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -322,7 +304,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSecondaryModuleByLabel&unscoped_q=getSecondaryModuleByLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -337,7 +318,6 @@ a javax.swing.JPopupMenu
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSecondaryPopupMenu&unscoped_q=getSecondaryPopupMenu">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -352,7 +332,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isHoverHighlite&unscoped_q=isHoverHighlite">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -370,7 +349,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseDragged&unscoped_q=mouseDragged">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -388,7 +366,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseEntered&unscoped_q=mouseEntered">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -406,7 +383,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseExited&unscoped_q=mouseExited">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -424,7 +400,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseMoved&unscoped_q=mouseMoved">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -442,7 +417,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mousePressed&unscoped_q=mousePressed">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -460,7 +434,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseReleased&unscoped_q=mouseReleased">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -480,7 +453,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseWheelMoved&unscoped_q=mouseWheelMoved">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -498,7 +470,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=paint&unscoped_q=paint">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -513,7 +484,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=releaseAll&unscoped_q=releaseAll">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -531,7 +501,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeMenuItem&unscoped_q=removeMenuItem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -549,7 +518,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeMouseModule&unscoped_q=removeMouseModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -569,7 +537,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=replaceMenuItem&unscoped_q=replaceMenuItem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -588,7 +555,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=replaceMouseModule&unscoped_q=replaceMouseModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -606,7 +572,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetName&unscoped_q=resetName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -624,7 +589,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFeedback&unscoped_q=setFeedback">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -642,7 +606,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHoverHighlite&unscoped_q=setHoverHighlite">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -660,7 +623,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMenuLabel&unscoped_q=setMenuLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -680,7 +642,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMouseModule&unscoped_q=setMouseModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -699,7 +660,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMousePressPositionOnCanvas&unscoped_q=setMousePressPositionOnCanvas">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -717,7 +677,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPinned&unscoped_q=setPinned">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -737,7 +696,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPrimaryModule&unscoped_q=setPrimaryModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -755,7 +713,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPrimaryModuleByLabel&unscoped_q=setPrimaryModuleByLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -775,7 +732,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSecondaryModule&unscoped_q=setSecondaryModule">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -793,6 +749,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSecondaryModuleByLabel&unscoped_q=setSecondaryModuleByLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

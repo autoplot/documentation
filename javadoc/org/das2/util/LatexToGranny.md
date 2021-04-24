@@ -27,7 +27,6 @@ s - the string
 true if the string appears to be LaTeX.
 
 <a href="https://github.com/autoplot/dev/search?q=isLatex&unscoped_q=isLatex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -45,7 +44,6 @@ latex - LaTeX encoded string.  E.g. \rho^2 + 2\Gamma_{ij}
 the granny string.  E.g. <code>&rho;!U2!n + 2&Gamma;!Dij!N</code>
 
 <a href="https://github.com/autoplot/dev/search?q=latexToGranny&unscoped_q=latexToGranny">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,6 +61,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

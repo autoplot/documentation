@@ -29,7 +29,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addValue&unscoped_q=addValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addValue( int i0, int i1, double value ) &rarr; void<br>
@@ -53,7 +52,6 @@ void (returns nothing)
 <a href='CoerceUtil.md#coerce'>CoerceUtil#coerce(QDataSet, QDataSet, boolean, QDataSet[])</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addValues&unscoped_q=addValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -72,7 +70,6 @@ clazz - the class, such as WritableDataSet.class
 null or the capability if exists, such as WritableDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=capability&unscoped_q=capability">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +95,6 @@ void (returns nothing)
 <a href='#copyElements'>copyElements(org.das2.qds.DDataSet, int, org.das2.qds.DDataSet, int, int, boolean)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=copyElements&unscoped_q=copyElements">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 copyElements( org.das2.qds.DDataSet src, int srcpos, org.das2.qds.DDataSet dest, int destpos, int len, boolean checkAlias ) &rarr; void<br>
@@ -117,7 +113,6 @@ qube - array specifying the rank and size of each dimension
 the array as a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -131,7 +126,6 @@ create a rank 1 dataset backed by array of doubles.
 rank 0 dataset backed by double.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank0&unscoped_q=createRank0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -148,7 +142,6 @@ len0 - length of the dimension
 rank 1 qube dataset of backed by array of doubles.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank1&unscoped_q=createRank1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -167,7 +160,6 @@ min - the minumum value
 the rank1 bins dataset
 
 <a href="https://github.com/autoplot/dev/search?q=createRank1Bins&unscoped_q=createRank1Bins">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -185,7 +177,6 @@ len0 - length of the dimension
 rank 2 qube dataset of backed by array of doubles.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank2&unscoped_q=createRank2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -204,7 +195,6 @@ len0 - length of the dimension
 rank 3 qube dataset of backed by array of doubles.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank3&unscoped_q=createRank3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -224,7 +214,6 @@ len0 - length of the dimension
 rank 4 qube dataset of backed by array of doubles.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank4&unscoped_q=createRank4">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +231,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putValue&unscoped_q=putValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 putValue( int i0, double value ) &rarr; void<br>
@@ -266,7 +254,6 @@ i - the index
 a rank N-1 slice of the data.
 
 <a href="https://github.com/autoplot/dev/search?q=slice&unscoped_q=slice">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -285,7 +272,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -300,7 +286,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 value( int i0 ) &rarr; double<br>
@@ -323,7 +308,6 @@ data - array containing the data, with the last dimension contiguous in memory.
 the array as a QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=wrap&unscoped_q=wrap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 wrap( double[] back, int rank, int len0, int len1, int len2 ) &rarr; DDataSet<br>
@@ -348,7 +332,6 @@ an org.das2.qds.DDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=wrapRank2&unscoped_q=wrapRank2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -370,6 +353,5 @@ an org.das2.qds.DDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=wrapRank3&unscoped_q=wrapRank3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,7 +18,6 @@ aDatum - the numerator
 the result
 
 <a href="https://github.com/autoplot/dev/search?q=divide&unscoped_q=divide">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ aDatum - the numerator
 String for the result, or "A/B"
 
 <a href="https://github.com/autoplot/dev/search?q=divideToString&unscoped_q=divideToString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ unit - the unit
 the inverse unit, or throws exception if one is not known.
 
 <a href="https://github.com/autoplot/dev/search?q=getInverseUnit&unscoped_q=getInverseUnit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +77,6 @@ a boolean
 <a href='http://www.statisticssolutions.com/data-levels-of-measurement/'>http://www.statisticssolutions.com/data-levels-of-measurement/</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=isIntervalMeasurement&unscoped_q=isIntervalMeasurement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +98,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isIntervalOrRatioMeasurement&unscoped_q=isIntervalOrRatioMeasurement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +118,6 @@ unit - the unit
 true if the unit is nominal.
 
 <a href="https://github.com/autoplot/dev/search?q=isNominalMeasurement&unscoped_q=isNominalMeasurement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -144,7 +138,6 @@ unit - an Units
 true if the unit is ordinal.
 
 <a href="https://github.com/autoplot/dev/search?q=isOrdinalMeasurement&unscoped_q=isOrdinalMeasurement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -168,7 +161,6 @@ a boolean
 <a href='http://www.statisticssolutions.com/data-levels-of-measurement/'>http://www.statisticssolutions.com/data-levels-of-measurement/</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=isRatioMeasurement&unscoped_q=isRatioMeasurement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -191,7 +183,6 @@ unit - the unit
 true if the unit is used to measure distance in a logarithmic space
 
 <a href="https://github.com/autoplot/dev/search?q=isRatiometric&unscoped_q=isRatiometric">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -209,6 +200,5 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isTimeLocation&unscoped_q=isTimeLocation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

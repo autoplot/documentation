@@ -38,7 +38,6 @@ s - the string
 "..."+s.substring(s.length() - len)
 
 <a href="https://github.com/autoplot/dev/search?q=abbreviateRight&unscoped_q=abbreviateRight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +58,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=applyMacro&unscoped_q=applyMacro">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,7 +74,6 @@ a - a java.lang.Object[]
 ArrayList that can have elements inserted
 
 <a href="https://github.com/autoplot/dev/search?q=asArrayList&unscoped_q=asArrayList">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +92,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkUniqueIdsAndReferences&unscoped_q=checkUniqueIdsAndReferences">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -115,7 +111,6 @@ an org.autoplot.dom.Diff
 
 
 <a href="https://github.com/autoplot/dev/search?q=childDiff&unscoped_q=childDiff">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -135,7 +130,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=childDiffs&unscoped_q=childDiffs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -156,7 +150,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyOverInternalData&unscoped_q=copyOverInternalData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -177,7 +170,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/autoplot/dom/ApplicationController.md#deleteDataSourceFilter'>org.autoplot.dom.ApplicationController#deleteDataSourceFilter(org.autoplot.dom.DataSourceFilter)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=deleteDataSourceFilter&unscoped_q=deleteDataSourceFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -199,7 +191,6 @@ init - the initial range
 the human consumable string, e.g. "zoom out"
 
 <a href="https://github.com/autoplot/dev/search?q=describe&unscoped_q=describe">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +208,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=encodeColor&unscoped_q=encodeColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -235,7 +225,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=encodeFont&unscoped_q=encodeFont">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -257,7 +246,6 @@ dom - the dom tree
 the BindingModel or null if it doesn't exist.
 
 <a href="https://github.com/autoplot/dev/search?q=findBinding&unscoped_q=findBinding">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -277,7 +265,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=findBindings&unscoped_q=findBindings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 findBindings( org.autoplot.dom.Application dom, org.autoplot.dom.DomNode src, String srcProp, org.autoplot.dom.DomNode dst, String dstProp ) &rarr; List<br>
@@ -296,7 +283,6 @@ root - the node to start at.
 the nodes.
 
 <a href="https://github.com/autoplot/dev/search?q=findElementsById&unscoped_q=findElementsById">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -314,7 +300,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatObject&unscoped_q=formatObject">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -336,7 +321,6 @@ property - name used to identify the difference in the result.
 list of Diffs between the lists.
 
 <a href="https://github.com/autoplot/dev/search?q=getArrayDiffs&unscoped_q=getArrayDiffs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -354,7 +338,6 @@ dom - the application
 new list of dataSourceFilters
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFiltersFor&unscoped_q=getDataSourceFiltersFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -375,7 +358,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDiffs&unscoped_q=getDiffs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDiffs( org.autoplot.dom.DomNode node1, org.autoplot.dom.DomNode node2, java.util.List exclude ) &rarr; List<br>
@@ -396,7 +378,6 @@ the domNode at the address.
 <a href='#getElementById'>getElementById(org.autoplot.dom.DomNode, java.lang.String)</a> y<br>
 
 <a href="https://github.com/autoplot/dev/search?q=getElementByAddress&unscoped_q=getElementByAddress">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -416,7 +397,6 @@ the node with this id, or null if the id is not found.
 <a href='#getElementByAddress'>getElementByAddress(org.autoplot.dom.DomNode, java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getElementById&unscoped_q=getElementById">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -437,7 +417,6 @@ dom - the dom
 the DataSourceFilters
 
 <a href="https://github.com/autoplot/dev/search?q=getParentsFor&unscoped_q=getParentsFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -457,7 +436,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotAsString&unscoped_q=getPlotAsString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -475,7 +453,6 @@ application - the dom for a plot.
 the plot elements contained by the plot.
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotElementsFor&unscoped_q=getPlotElementsFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPlotElementsFor( org.autoplot.dom.Application application, org.autoplot.dom.DataSourceFilter dsf ) &rarr; List<br>
@@ -494,7 +471,6 @@ app - the application
 null or the plot using the axis
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotForAxis&unscoped_q=getPlotForAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -512,7 +488,6 @@ node - the dom node
 the property type
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyType&unscoped_q=getPropertyType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -530,7 +505,6 @@ node - the dom node
 the node property value
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyValue&unscoped_q=getPropertyValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -549,7 +523,6 @@ nodes - list of nodes
 the index or -1.
 
 <a href="https://github.com/autoplot/dev/search?q=indexOf&unscoped_q=indexOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -568,7 +541,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=layoutToString&unscoped_q=layoutToString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -589,7 +561,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=nodeHasProperty&unscoped_q=nodeHasProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -607,7 +578,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=oneFamily&unscoped_q=oneFamily">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -626,7 +596,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseObject&unscoped_q=parseObject">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -646,7 +615,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=resolveProperties&unscoped_q=resolveProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -666,7 +634,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPropertyValue&unscoped_q=setPropertyValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -687,7 +654,6 @@ dom - an Application
 true if the dom structure changes.
 
 <a href="https://github.com/autoplot/dev/search?q=structureChanges&unscoped_q=structureChanges">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -708,7 +674,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=syncTo&unscoped_q=syncTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 syncTo( org.autoplot.dom.DomNode node1, org.autoplot.dom.DomNode node2, java.util.List exclude ) &rarr; void<br>
@@ -727,7 +692,6 @@ application - the dom
 true if the dom is valid, throws a runtime exception otherwise
 
 <a href="https://github.com/autoplot/dev/search?q=validateDom&unscoped_q=validateDom">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -746,6 +710,5 @@ a java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=vapToJython&unscoped_q=vapToJython">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

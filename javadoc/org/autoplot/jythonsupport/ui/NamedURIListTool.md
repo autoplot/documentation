@@ -28,7 +28,6 @@ return the id for each URI.
 the ids
 
 <a href="https://github.com/autoplot/dev/search?q=getIds&unscoped_q=getIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -43,7 +42,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRange&unscoped_q=getTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -61,7 +59,6 @@ name - a String
 the URI or null if the name is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getUriForId&unscoped_q=getUriForId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,7 +72,6 @@ return the uris.
 the uris.
 
 <a href="https://github.com/autoplot/dev/search?q=getUris&unscoped_q=getUris">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -90,7 +86,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowIds&unscoped_q=isShowIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +102,6 @@ names - names that must be unique with the new name
 the new name
 
 <a href="https://github.com/autoplot/dev/search?q=makeupName&unscoped_q=makeupName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +116,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=refresh&unscoped_q=refresh">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -139,7 +132,6 @@ id - the current selection, which can be an identifier, QDataSet.UNITS, or 10.0.
 null if nothing is selected, the URI otherwise.
 
 <a href="https://github.com/autoplot/dev/search?q=selectDataId&unscoped_q=selectDataId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +149,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataMashUp&unscoped_q=setDataMashUp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -176,7 +167,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setIds&unscoped_q=setIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -195,7 +185,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setIsAuto&unscoped_q=setIsAuto">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -213,7 +202,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowIds&unscoped_q=setShowIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -231,7 +219,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeRange&unscoped_q=setTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -250,6 +237,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUris&unscoped_q=setUris">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

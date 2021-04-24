@@ -18,7 +18,6 @@ args - map of arguments.  $(t,a1=v1,a2=v2,a3=v3)
 null if the string is parseable, an error message otherwise.
 
 <a href="https://github.com/autoplot/dev/search?q=configure&unscoped_q=configure">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -42,7 +41,6 @@ startTime - a TimeUtil.TimeStruct
 the string representing the time range specified.
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,7 +55,6 @@ return a regular expression that matches valid field entries.  ".*" can be used 
 null to match anything, or a regular expression matching valid entries.
 
 <a href="https://github.com/autoplot/dev/search?q=getRegex&unscoped_q=getRegex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,6 +75,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=parse&unscoped_q=parse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

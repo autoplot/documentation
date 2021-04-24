@@ -44,7 +44,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=binCenter&unscoped_q=binCenter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 binCenter( int ibin ) &rarr; Datum<br>
@@ -60,7 +59,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=binCenters&unscoped_q=binCenters">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,7 +73,6 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=binCentersDV&unscoped_q=binCentersDV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +90,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=binStart&unscoped_q=binStart">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 binStart( int ibin, Units units ) &rarr; double<br>
@@ -108,7 +104,6 @@ return the bin starts of all bins, in units of <tt>getUnits()</tt>
 the bin starts of all bins
 
 <a href="https://github.com/autoplot/dev/search?q=binStarts&unscoped_q=binStarts">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -126,7 +121,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=binStop&unscoped_q=binStop">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 binStop( int ibin, Units units ) &rarr; double<br>
@@ -141,7 +135,6 @@ return the bin stops of all bins, in units of <tt>getUnits()</tt>
 the bin stops of all bins
 
 <a href="https://github.com/autoplot/dev/search?q=binStops&unscoped_q=binStops">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -156,7 +149,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=binWidth&unscoped_q=binWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -171,7 +163,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=binWidthDatum&unscoped_q=binWidthDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -191,7 +182,6 @@ org.das2.dataset.RebinDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=createSubsumingRebinDescriptor&unscoped_q=createSubsumingRebinDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -206,7 +196,6 @@ org.das2.datum.Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -221,7 +210,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLog&unscoped_q=isLog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -236,7 +224,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=numberOfBins&unscoped_q=numberOfBins">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -257,7 +244,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putDepDataSet&unscoped_q=putDepDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -275,7 +261,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOutOfBoundsAction&unscoped_q=setOutOfBoundsAction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -290,7 +275,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -309,6 +293,5 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=whichBin&unscoped_q=whichBin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

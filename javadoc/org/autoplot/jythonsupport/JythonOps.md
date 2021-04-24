@@ -41,7 +41,6 @@ the name of the folder or jar file added.
 <a href='https://sourceforge.net/p/autoplot/feature-requests/584/, which shows example use.'>https://sourceforge.net/p/autoplot/feature-requests/584/, which shows example use.</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addToSearchPath&unscoped_q=addToSearchPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addToSearchPath( PyList syspath, String path, String docPath, ProgressMonitor mon ) &rarr; String<br>
@@ -61,7 +60,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=applyLambda&unscoped_q=applyLambda">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 applyLambda( QDataSet ds1, QDataSet ds2, PyFunction f ) &rarr; QDataSet<br>
@@ -91,7 +89,6 @@ val - the value
 java.awt.Color
 
 <a href="https://github.com/autoplot/dev/search?q=color&unscoped_q=color">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -109,7 +106,6 @@ the current line or ???
 <a href='QubeDataSetIterator.md#currentJythonLine'>QubeDataSetIterator#currentJythonLine()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=currentLine&unscoped_q=currentLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,7 +124,6 @@ QDataSet
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/ops/Ops.md#dataset'>org.das2.qds.ops.Ops#dataset(java.lang.Object)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=dataset&unscoped_q=dataset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dataset( PyObject arg0, Units u ) &rarr; QDataSet<br>
@@ -148,7 +143,6 @@ Datum
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/ops/Ops.md#datum'>org.das2.qds.ops.Ops#datum(java.lang.Object)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=datum&unscoped_q=datum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -171,7 +165,6 @@ arg0 - PyQDataSet, String, array or List.
 DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=datumRange&unscoped_q=datumRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 datumRange( PyObject arg0, PyObject arg1 ) &rarr; DatumRange<br>
@@ -191,7 +184,6 @@ destDir - a FileSystem
 list of packages.
 
 <a href="https://github.com/autoplot/dev/search?q=findJavaPathRoots&unscoped_q=findJavaPathRoots">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -210,7 +202,6 @@ vapScheme - null or the data source scheme, such as "vap+das2server" or "vap+cda
 the URI.  If vapScheme is null, then the URI will be implicit.
 
 <a href="https://github.com/autoplot/dev/search?q=formUri&unscoped_q=formUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -228,7 +219,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=invokeSometime&unscoped_q=invokeSometime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 invokeSometime( PyObject func, PyObject arg ) &rarr; void<br>
@@ -249,6 +239,5 @@ ds - a QDataSet
 the dataset, possibly converted to a mutable dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=putProperty&unscoped_q=putProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

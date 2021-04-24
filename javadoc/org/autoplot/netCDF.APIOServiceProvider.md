@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDetailInfo&unscoped_q=getDetailInfo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,7 +48,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFileTypeDescription&unscoped_q=getFileTypeDescription">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +62,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFileTypeId&unscoped_q=getFileTypeId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +76,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFileTypeVersion&unscoped_q=getFileTypeVersion">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +93,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isValidFile&unscoped_q=isValidFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -118,7 +112,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=open&unscoped_q=open">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +130,6 @@ Array
 
 
 <a href="https://github.com/autoplot/dev/search?q=readData&unscoped_q=readData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +147,6 @@ Array
 
 
 <a href="https://github.com/autoplot/dev/search?q=readSection&unscoped_q=readSection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -175,7 +166,6 @@ long
 
 
 <a href="https://github.com/autoplot/dev/search?q=readToByteChannel&unscoped_q=readToByteChannel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -190,7 +180,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=sync&unscoped_q=sync">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -205,7 +194,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=syncExtend&unscoped_q=syncExtend">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -223,6 +211,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toStringDebug&unscoped_q=toStringDebug">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

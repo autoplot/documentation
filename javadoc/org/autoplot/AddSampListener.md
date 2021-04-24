@@ -22,7 +22,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addSampListener&unscoped_q=addSampListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addSampListener( org.autoplot.datasource.DataSetSelector sel ) &rarr; void<br>
@@ -38,6 +37,5 @@ a HubConnector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getHubConnector&unscoped_q=getHubConnector">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

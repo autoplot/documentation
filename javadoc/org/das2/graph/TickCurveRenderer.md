@@ -63,7 +63,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=acceptContext&unscoped_q=acceptContext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +79,6 @@ ds - the dataset
 true if the data is ds[:,3] or ds[x[t]]
 
 <a href="https://github.com/autoplot/dev/search?q=acceptsData&unscoped_q=acceptsData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +96,6 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkTickV&unscoped_q=checkTickV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -115,7 +112,6 @@ ds1 - the dataset
 rank 2 bounding box.  r[0,0] is x min, r[0,1] is x max.
 
 <a href="https://github.com/autoplot/dev/search?q=doAutorange&unscoped_q=doAutorange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -129,7 +125,6 @@ get the color of the orbit
 the color
 
 <a href="https://github.com/autoplot/dev/search?q=getColor&unscoped_q=getColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -144,7 +139,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getControl&unscoped_q=getControl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -159,7 +153,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFontSize&unscoped_q=getFontSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,7 +166,6 @@ Getter for property lineWidth.
 Value of property lineWidth.
 
 <a href="https://github.com/autoplot/dev/search?q=getLineWidth&unscoped_q=getLineWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -188,7 +180,6 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -203,7 +194,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTickDirection&unscoped_q=getTickDirection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -218,7 +208,6 @@ an org.das2.graph.TickLabeller
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTickLabeller&unscoped_q=getTickLabeller">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -232,7 +221,6 @@ Getter for property tickLength.
 Value of property tickLength.
 
 <a href="https://github.com/autoplot/dev/search?q=getTickLength&unscoped_q=getTickLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -247,7 +235,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTickSpacing&unscoped_q=getTickSpacing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -261,7 +248,6 @@ Getter for property tickStyle.
 Value of property tickStyle.
 
 <a href="https://github.com/autoplot/dev/search?q=getTickStyle&unscoped_q=getTickStyle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -276,7 +262,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTickValues&unscoped_q=getTickValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -296,7 +281,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -311,7 +295,6 @@ java.awt.Shape
 
 
 <a href="https://github.com/autoplot/dev/search?q=selectionArea&unscoped_q=selectionArea">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -329,7 +312,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColor&unscoped_q=setColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -347,7 +329,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setControl&unscoped_q=setControl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -365,7 +346,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -385,7 +365,6 @@ void (returns nothing)
 <a href='Renderer.md#CONTROL_KEY_FONT_SIZE'>Renderer#CONTROL_KEY_FONT_SIZE</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setFontSize&unscoped_q=setFontSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -403,7 +382,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLineWidth&unscoped_q=setLineWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -421,7 +399,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickDirection&unscoped_q=setTickDirection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -440,7 +417,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickLabeller&unscoped_q=setTickLabeller">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -458,7 +434,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickLength&unscoped_q=setTickLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -477,7 +452,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickSpacing&unscoped_q=setTickSpacing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -495,7 +469,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickStyle&unscoped_q=setTickStyle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -513,7 +486,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickVDescriptor&unscoped_q=setTickVDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -534,6 +506,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickValues&unscoped_q=setTickValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

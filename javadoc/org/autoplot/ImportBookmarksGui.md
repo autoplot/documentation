@@ -18,7 +18,6 @@ javax.swing.JLabel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBookmarksFilename&unscoped_q=getBookmarksFilename">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -33,6 +32,5 @@ javax.swing.JCheckBox
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRemote&unscoped_q=getRemote">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

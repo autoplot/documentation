@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=add&unscoped_q=add">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ org.das2.qds.util.dd.Node
 
 
 <a href="https://github.com/autoplot/dev/search?q=getChild&unscoped_q=getChild">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getChild( int i, int n ) &rarr; Node<br>
@@ -54,7 +52,6 @@ org.das2.qds.util.dd.Id
 
 
 <a href="https://github.com/autoplot/dev/search?q=getId&unscoped_q=getId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -69,7 +66,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=numberOfChildren&unscoped_q=numberOfChildren">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -88,7 +84,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=print&unscoped_q=print">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 print( String prefix ) &rarr; void<br>
@@ -107,7 +102,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printChildren&unscoped_q=printChildren">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -126,6 +120,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printHead&unscoped_q=printHead">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

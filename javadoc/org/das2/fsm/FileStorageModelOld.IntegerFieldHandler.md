@@ -21,7 +21,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=format&unscoped_q=format">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,6 +40,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=handle&unscoped_q=handle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

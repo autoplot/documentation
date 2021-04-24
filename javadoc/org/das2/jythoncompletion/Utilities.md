@@ -20,7 +20,6 @@ a - a JTextArea
 the line number, zero is the first line.
 
 <a href="https://github.com/autoplot/dev/search?q=getLineNumberForOffset&unscoped_q=getLineNumberForOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRowEnd&unscoped_q=getRowEnd">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getRowEnd( javax.swing.JTextArea a, int offset ) &rarr; int<br>
@@ -60,7 +58,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRowStart&unscoped_q=getRowStart">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getRowStart( javax.swing.JTextArea a, int offset ) &rarr; int<br>
@@ -80,6 +77,5 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWordAt&unscoped_q=getWordAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

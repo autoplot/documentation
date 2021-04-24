@@ -20,7 +20,6 @@ an org.autoplot.datasource.MetadataModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadataModel&unscoped_q=getMetadataModel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ org.w3c.dom.Node
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNode&unscoped_q=getNode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getNode( java.util.Map tree, java.lang.String[] path ) &rarr; Object<br>
@@ -61,7 +59,6 @@ null if no conversion can be made, or Java style
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/util/AsciiParser.md#getRegexForFormat'>org.das2.qds.util.AsciiParser#getRegexForFormat(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=normalizeFormatSpecifier&unscoped_q=normalizeFormatSpecifier">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -82,7 +79,6 @@ a java.util.Map
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/DataSetOps/sliceProperties.md'>DataSetOps.sliceProperties</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=sliceProperties&unscoped_q=sliceProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +98,6 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=sprocess&unscoped_q=sprocess">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -121,7 +116,6 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=toMetaTree&unscoped_q=toMetaTree">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -139,6 +133,5 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=transposeProperties&unscoped_q=transposeProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

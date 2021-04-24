@@ -77,7 +77,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=byteToPrintableString&unscoped_q=byteToPrintableString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +97,6 @@ bytes - bytes to be printed
 String representation of the byte array
 
 <a href="https://github.com/autoplot/dev/search?q=bytesToPrintableString&unscoped_q=bytesToPrintableString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -121,7 +119,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -140,7 +137,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=expect&unscoped_q=expect">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 expect( int timeout, java.lang.Object[] patterns ) &rarr; int<br>
@@ -164,7 +160,6 @@ timeout - an int
 same as return value of {@link #expect(int, List)}
 
 <a href="https://github.com/autoplot/dev/search?q=expectEOF&unscoped_q=expectEOF">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 expectEOF(  ) &rarr; int<br>
@@ -182,7 +177,6 @@ timeout - timeout in seconds
 same as return value of {@link #expect(int, List)}
 
 <a href="https://github.com/autoplot/dev/search?q=expectEOFOrThrow&unscoped_q=expectEOFOrThrow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 expectEOFOrThrow(  ) &rarr; int<br>
@@ -207,7 +201,6 @@ timeout - an int
 same as {@link #expect(int, Object...) expect(timeout, patterns)}
 
 <a href="https://github.com/autoplot/dev/search?q=expectOrThrow&unscoped_q=expectOrThrow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 expectOrThrow( java.lang.Object[] patterns ) &rarr; int<br>
@@ -237,7 +230,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=forwardInputStreamTo&unscoped_q=forwardInputStreamTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -252,7 +244,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDefault_timeout&unscoped_q=getDefault_timeout">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -267,7 +258,6 @@ the spawned process, if this {@link Expect} object is created by
          spawning a process
 
 <a href="https://github.com/autoplot/dev/search?q=getProcess&unscoped_q=getProcess">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -282,7 +272,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isNotransfer&unscoped_q=isNotransfer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -297,7 +286,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isRestart_timeout_upon_receive&unscoped_q=isRestart_timeout_upon_receive">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -312,7 +300,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printDebugInfo&unscoped_q=printDebugInfo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -330,7 +317,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=send&unscoped_q=send">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 send( byte[] toWrite ) &rarr; void<br>
@@ -349,7 +335,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDefault_timeout&unscoped_q=setDefault_timeout">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -367,7 +352,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setNotransfer&unscoped_q=setNotransfer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -385,7 +369,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRestart_timeout_upon_receive&unscoped_q=setRestart_timeout_upon_receive">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -406,6 +389,5 @@ Expect object created using the input and output handles from the
          spawned process
 
 <a href="https://github.com/autoplot/dev/search?q=spawn&unscoped_q=spawn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -30,7 +30,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=backtransform&unscoped_q=backtransform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,6 +49,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=transform&unscoped_q=transform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

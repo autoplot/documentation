@@ -21,7 +21,6 @@ true if the file can be read.
  //TODO: this could support remote file systems
 
 <a href="https://github.com/autoplot/dev/search?q=fileCanRead&unscoped_q=fileCanRead">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,7 +39,6 @@ true if the file exists.
  //TODO: this could support remote file systems
 
 <a href="https://github.com/autoplot/dev/search?q=fileExists&unscoped_q=fileExists">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -64,7 +62,6 @@ a string array of formatted time ranges, such as [ "2009-01", "2009-02", ..., "2
 <a href='DatumRangeUtil.md#parseTimeRangeValid'>DatumRangeUtil#parseTimeRangeValid(java.lang.String)</a> to convert to DatumRange objects.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=generateTimeRanges&unscoped_q=generateTimeRanges">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +83,6 @@ file - for example http://autoplot.org/data/somedata.cdf?
 list of completions, containing the entire URI.
 
 <a href="https://github.com/autoplot/dev/search?q=getAllCompletions&unscoped_q=getAllCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +98,6 @@ this returns a double indicating the current scripting version, found
 the version, such as v1.50.
 
 <a href="https://github.com/autoplot/dev/search?q=getAutoplotScriptingVersion&unscoped_q=getAutoplotScriptingVersion">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +118,6 @@ file - for example http://autoplot.org/data/somedata.cdf?
 list of completions, containing the entire URI.
 
 <a href="https://github.com/autoplot/dev/search?q=getCompletions&unscoped_q=getCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -147,7 +141,6 @@ suri - the URI of the dataset, such as "http://autoplot.org/data/2010_061_17_41_
 QDataSet from the load.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDataSet( String suri, DatumRange timeRange, ProgressMonitor monitor ) &rarr; QDataSet<br>
@@ -172,7 +165,6 @@ uris - a list of URI strings.
 list of loaded data
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSets&unscoped_q=getDataSets">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -189,7 +181,6 @@ suri - the data address to load.
 the DataSource to load the URI.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -212,7 +203,6 @@ suri - the data address to load.
 metadata tree created by the data source.
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadata&unscoped_q=getMetadata">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -238,7 +228,6 @@ surl - an Autoplot uri with an aggregation specifier.
 a list of URLs without the aggregation specifier.
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeRangesFor&unscoped_q=getTimeRangesFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -255,7 +244,6 @@ ds - the data source.
 the TimeSeriesBrowse if available, or null (None)
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeSeriesBrowse&unscoped_q=getTimeSeriesBrowse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -280,7 +268,6 @@ the split.
  This is a copy of another code.
 
 <a href="https://github.com/autoplot/dev/search?q=guardedSplit&unscoped_q=guardedSplit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -295,7 +282,6 @@ return true if we should do the imports as before, where all of Autoplot is
 true if the old behavior should be used.
 
 <a href="https://github.com/autoplot/dev/search?q=isLegacyImports&unscoped_q=isLegacyImports">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -322,7 +308,6 @@ suri - local or web directory.
 an array of the files pointed to by surl.
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectory&unscoped_q=listDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -340,7 +325,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -358,7 +342,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=popString&unscoped_q=popString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -378,7 +361,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=requireAutoplotScriptingVersion&unscoped_q=requireAutoplotScriptingVersion">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -397,7 +379,6 @@ job - a python function which takes one argument
 list of results for each call of the function.
 
 <a href="https://github.com/autoplot/dev/search?q=runInParallel&unscoped_q=runInParallel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -416,6 +397,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=sleep&unscoped_q=sleep">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

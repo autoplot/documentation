@@ -15,7 +15,6 @@ a rank 2 dataset of complex numbers.
 <a href='Ops_f.md#fft'>Ops#fft(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=ifft&unscoped_q=ifft">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ifft( QDataSet ds, QDataSet window, int stepFraction, ProgressMonitor mon ) &rarr; QDataSet<br>
@@ -34,7 +33,6 @@ ds - rank 1 dataset
 the index of the maximum value, or -1 if the data is all fill.
 
 <a href="https://github.com/autoplot/dev/search?q=imax&unscoped_q=imax">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 imax( Object ds ) &rarr; int<br>
@@ -53,7 +51,6 @@ ds - rank 1 dataset
 the index of the maximum value, or -1 if the data is all fill.
 
 <a href="https://github.com/autoplot/dev/search?q=imin&unscoped_q=imin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 imin( Object ds ) &rarr; int<br>
@@ -76,7 +73,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=indgen&unscoped_q=indgen">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 indgen( int len0, int len1 ) &rarr; QDataSet<br>
@@ -98,7 +94,6 @@ rank 1 dataset filled with zeros.
 <a href='Ops_d.md#dblarr'>dblarr(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=intarr&unscoped_q=intarr">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 intarr( int len0, int len1 ) &rarr; QDataSet<br>
@@ -141,7 +136,6 @@ the result.
 <a href='Ops_i.md#interpolateMod interpolateMod, for data like longitude where 259 deg is 2 degrees away from 1 deg'>interpolateMod interpolateMod, for data like longitude where 259 deg is 2 degrees away from 1 deg</a> interpolateMod, for data like longitude where 259 deg is 2 degrees away from 1 deg<br>
 
 <a href="https://github.com/autoplot/dev/search?q=interpolate&unscoped_q=interpolate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 interpolate( Object vv, Object findex ) &rarr; QDataSet<br>
@@ -168,7 +162,6 @@ rank 2 dataset
 <a href='Ops_f.md#findex findex, the 1-D findex command'>findex findex, the 1-D findex command</a> findex, the 1-D findex command<br>
 
 <a href="https://github.com/autoplot/dev/search?q=interpolateGrid&unscoped_q=interpolateGrid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 interpolateGrid( Object x, Object y, Object z ) &rarr; QDataSet<br>
@@ -191,7 +184,6 @@ the result, a rank 1 dataset with one element for each findex.
 <a href='Ops_i.md#interpolate'>interpolate(QDataSet,QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=interpolateMod&unscoped_q=interpolateMod">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -213,7 +205,6 @@ min - the first value
 an iterator for the numbers in the interval.
 
 <a href="https://github.com/autoplot/dev/search?q=irange&unscoped_q=irange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 irange( double min, double max ) &rarr; Iterator<br>
@@ -233,7 +224,6 @@ ds - any QDataSet.
 the multiplier to make the dataset into radians, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=isAngleRange&unscoped_q=isAngleRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -253,7 +243,6 @@ true if the dataset is a bundle.
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/examples/Schemes.md'>org.das2.qds.examples.Schemes</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=isBundle&unscoped_q=isBundle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -274,7 +263,6 @@ zds - rank 1 or rank 2 dataset
 return true if DEPEND_1 is set and its units are EnumerationUnits.
 
 <a href="https://github.com/autoplot/dev/search?q=isLegacyBundle&unscoped_q=isLegacyBundle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -293,6 +281,5 @@ name - a String
 true if the name is a safe identifier name.
 
 <a href="https://github.com/autoplot/dev/search?q=isSafeName&unscoped_q=isSafeName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

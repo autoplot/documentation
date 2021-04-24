@@ -31,7 +31,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkCdf&unscoped_q=checkCdf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -52,7 +51,6 @@ fileName - a String
 the CDF reference used to access the file
 
 <a href="https://github.com/autoplot/dev/search?q=getCdfFile&unscoped_q=getCdfFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -70,7 +68,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDataSet( ProgressMonitor mon, java.util.Map attr1 ) &rarr; QDataSet<br>
@@ -89,7 +86,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadata&unscoped_q=getMetadata">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +101,6 @@ an IstpMetadataModel
 <a href='IstpMetadataModel.md'>IstpMetadataModel</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadataModel&unscoped_q=getMetadataModel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -120,6 +115,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printCacheReport&unscoped_q=printCacheReport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -63,7 +63,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPainter&unscoped_q=addPainter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,7 +77,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearPainters&unscoped_q=clearPainters">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -99,7 +97,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=draw&unscoped_q=draw">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,7 +110,6 @@ returns the current alignment, by default LEFT_ALIGNMENT.
 the current alignment.
 
 <a href="https://github.com/autoplot/dev/search?q=getAlignment&unscoped_q=getAlignment">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,7 +124,6 @@ return the amount that the bounding box will go above the baseline.
 the amount that the bounding box will go above the baseline.
 
 <a href="https://github.com/autoplot/dev/search?q=getAscent&unscoped_q=getAscent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -144,7 +139,6 @@ returns the bounds of the current string.  The lower-left corner of
 a Rectangle indicating the text boundaries.
 
 <a href="https://github.com/autoplot/dev/search?q=getBounds&unscoped_q=getBounds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -158,7 +152,6 @@ return a rectangle backed by floating point numbers.
 Rectangle2D.Double
 
 <a href="https://github.com/autoplot/dev/search?q=getBounds2D&unscoped_q=getBounds2D">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -172,7 +165,6 @@ return the amount that the bounding box will go below the baseline.
 the amount that the bounding box will go below the baseline.
 
 <a href="https://github.com/autoplot/dev/search?q=getDescent&unscoped_q=getDescent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -186,7 +178,6 @@ returns the hieght of the calculated bounding box.
 the height of the bounding box, in pixels.
 
 <a href="https://github.com/autoplot/dev/search?q=getHeight&unscoped_q=getHeight">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -200,7 +191,6 @@ returns the width in pixels of the first line.
 the width in pixels of the first line.
 
 <a href="https://github.com/autoplot/dev/search?q=getLineOneWidth&unscoped_q=getLineOneWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -214,7 +204,6 @@ returns the width of the bounding box, in pixels.
 the width of the bounding box, in pixels.
 
 <a href="https://github.com/autoplot/dev/search?q=getWidth&unscoped_q=getWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -232,7 +221,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePainter&unscoped_q=removePainter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -250,7 +238,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAlignment&unscoped_q=setAlignment">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -271,6 +258,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

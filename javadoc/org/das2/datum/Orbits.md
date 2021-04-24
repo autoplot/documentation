@@ -24,7 +24,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=compare&unscoped_q=compare">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=first&unscoped_q=first">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,7 +55,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumRange&unscoped_q=getDatumRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +71,6 @@ d - a Datum
 the orbit number or null
 
 <a href="https://github.com/autoplot/dev/search?q=getOrbit&unscoped_q=getOrbit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +89,6 @@ the id of the closest orbit before, or null.
 <a href='http://jfaden.net/~jbf/autoplot/script/demos/jeremy/onOrBefore.jy'>http://jfaden.net/~jbf/autoplot/script/demos/jeremy/onOrBefore.jy</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getOrbitOnOrBefore&unscoped_q=getOrbitOnOrBefore">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -126,7 +121,6 @@ sc - the string identifier for the spacecraft, such as "rbspa-pp", or URL to orb
 the Orbits file which can be used to query orbits.
 
 <a href="https://github.com/autoplot/dev/search?q=getOrbitsFor&unscoped_q=getOrbitsFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -141,7 +135,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSpacecraft&unscoped_q=getSpacecraft">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +150,6 @@ return examples of spacecraft ids which can be used, and a human-readable label
 map from id to description.
 
 <a href="https://github.com/autoplot/dev/search?q=getSpacecraftIdExamples&unscoped_q=getSpacecraftIdExamples">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -172,7 +164,6 @@ a java.net.URL
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURL&unscoped_q=getURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -191,7 +182,6 @@ sc - the string identifier for the spacecraft, such as "rbspa-pp", or URL to orb
 true if the uri refers to orbits.
 
 <a href="https://github.com/autoplot/dev/search?q=isOrbitsFile&unscoped_q=isOrbitsFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -206,7 +196,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=last&unscoped_q=last">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -224,7 +213,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -241,7 +229,6 @@ orbit - a String
 the orbit number or null.
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -258,7 +245,6 @@ orbit - a String
 the orbit number or null.
 
 <a href="https://github.com/autoplot/dev/search?q=prev&unscoped_q=prev">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -273,7 +259,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -293,6 +278,5 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=trimOrbit&unscoped_q=trimOrbit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

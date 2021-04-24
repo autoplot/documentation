@@ -19,7 +19,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=available&unscoped_q=available">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -34,7 +33,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,7 +47,6 @@ java.nio.ByteBuffer
 
 
 <a href="https://github.com/autoplot/dev/search?q=getByteBuffer&unscoped_q=getByteBuffer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +64,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mark&unscoped_q=mark">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -82,7 +78,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=markSupported&unscoped_q=markSupported">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -97,7 +92,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=read&unscoped_q=read">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 read( byte[] b ) &rarr; int<br>
@@ -114,7 +108,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -132,6 +125,5 @@ long
 
 
 <a href="https://github.com/autoplot/dev/search?q=skip&unscoped_q=skip">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

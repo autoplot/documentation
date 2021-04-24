@@ -32,7 +32,6 @@ middle - a Datum
 datumRange centered at middle with the given width.
 
 <a href="https://github.com/autoplot/dev/search?q=createCentered&unscoped_q=createCentered">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,7 +48,6 @@ result - seven-element time [ Y,m,d,H,M,S,nanos ]
 formatted time
 
 <a href="https://github.com/autoplot/dev/search?q=formatISO8601Datum&unscoped_q=formatISO8601Datum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,7 +64,6 @@ t - 6 or 7-element array with [year,mon,day,hour,min,sec,nanos]
 the formatted ISO8601 duration
 
 <a href="https://github.com/autoplot/dev/search?q=formatISO8601Duration&unscoped_q=formatISO8601Duration">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +81,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatTimeRange&unscoped_q=formatTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 formatTimeRange( DatumRange self, boolean bothDoyYMD ) &rarr; String<br>
@@ -104,7 +100,6 @@ timeRange1 - a DatumRange
 true if the two ranges are sufficiently close.
 
 <a href="https://github.com/autoplot/dev/search?q=fuzzyEqual&unscoped_q=fuzzyEqual">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -130,7 +125,6 @@ bounds - range to be covered.
 the ranges covering the range.
 
 <a href="https://github.com/autoplot/dev/search?q=generateList&unscoped_q=generateList">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -152,7 +146,6 @@ bounds - sorted list of non-overlapping ranges.
 list of elements of src that overlap with elements of contains.
 
 <a href="https://github.com/autoplot/dev/search?q=intersection&unscoped_q=intersection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,7 +166,6 @@ dr - the DatumRange, which can contain infinite values that would make is inacce
 true if the range is valid.
 
 <a href="https://github.com/autoplot/dev/search?q=isAcceptable&unscoped_q=isAcceptable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -191,7 +183,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isISO8601Range&unscoped_q=isISO8601Range">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -209,7 +200,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -228,7 +218,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=newDimensionless&unscoped_q=newDimensionless">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -248,7 +237,6 @@ a double indicating the normalized datum.
 <a href='#rescale'>rescale(org.das2.datum.DatumRange, double, double)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=normalize&unscoped_q=normalize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 normalize( DatumRange dr, Datum d, boolean log ) &rarr; double<br>
@@ -267,7 +255,6 @@ dr - a datum range with non-zero width.
 a double indicating the normalized datum.
 
 <a href="https://github.com/autoplot/dev/search?q=normalizeLog&unscoped_q=normalizeLog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -287,7 +274,6 @@ components - int[7]: [ Y, m, d, H, M, S, nano ]
 the same array
 
 <a href="https://github.com/autoplot/dev/search?q=normalizeTimeComponents&unscoped_q=normalizeTimeComponents">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -305,7 +291,6 @@ str - input like "5 to 15 cm"
 the DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=parseDatumRange&unscoped_q=parseDatumRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 parseDatumRange( String str, DatumRange orig ) &rarr; DatumRange<br>
@@ -330,7 +315,6 @@ str - iso8601 string.
 null or int[7]: [ Y, m, d, H, M, S, nano ]
 
 <a href="https://github.com/autoplot/dev/search?q=parseISO8601&unscoped_q=parseISO8601">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -351,7 +335,6 @@ str - the ISO8601 string
 the lsd least significant digit
 
 <a href="https://github.com/autoplot/dev/search?q=parseISO8601Datum&unscoped_q=parseISO8601Datum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -368,7 +351,6 @@ stringIn - a String
 7-element array with [year,mon,day,hour,min,sec,nanos]
 
 <a href="https://github.com/autoplot/dev/search?q=parseISO8601Duration&unscoped_q=parseISO8601Duration">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -395,7 +377,6 @@ stringIn - a String
 null or a DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=parseISO8601Range&unscoped_q=parseISO8601Range">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -416,7 +397,6 @@ s - the string, like "100%-5hr"
 a two-element Datum array with [npos,datum]
 
 <a href="https://github.com/autoplot/dev/search?q=parseRescaleStr&unscoped_q=parseRescaleStr">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -443,7 +423,6 @@ string - a String
 the range interpreted.
 
 <a href="https://github.com/autoplot/dev/search?q=parseTimeRange&unscoped_q=parseTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -461,7 +440,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseTimeRangeValid&unscoped_q=parseTimeRangeValid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -480,7 +458,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseValidISO8601Range&unscoped_q=parseValidISO8601Range">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -500,7 +477,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=rescale&unscoped_q=rescale">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 rescale( DatumRange dr, double min, double max ) &rarr; DatumRange<br>
@@ -524,7 +500,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=rescaleInverse&unscoped_q=rescaleInverse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 rescaleInverse( DatumRange dr, double min, double max ) &rarr; DatumRange<br>
@@ -548,7 +523,6 @@ dr - a DatumRange with nonzero width.
 new DatumRange.
 
 <a href="https://github.com/autoplot/dev/search?q=rescaleLog&unscoped_q=rescaleLog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -571,7 +545,6 @@ dr - a DatumRange
 dr when its width is zero, or a rounded range.
 
 <a href="https://github.com/autoplot/dev/search?q=roundSections&unscoped_q=roundSections">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -589,7 +562,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUseDoy&unscoped_q=setUseDoy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -609,7 +581,6 @@ true if the range contains the datum.
 <a href='DatumRange.md#contains'>DatumRange#contains(org.das2.datum.DatumRange)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=sloppyContains&unscoped_q=sloppyContains">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -632,7 +603,6 @@ a DatumRange that contains parts of both ranges, or is zero-width.
 <a href='DatumRange.md#intersection'>DatumRange#intersection(org.das2.datum.DatumRange)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=sloppyIntersection&unscoped_q=sloppyIntersection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -652,7 +622,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=union&unscoped_q=union">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 union( DatumRange range, Datum include ) &rarr; DatumRange<br>

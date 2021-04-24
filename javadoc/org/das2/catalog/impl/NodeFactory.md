@@ -54,7 +54,6 @@ sUrl - An autoplot URL
 The nearest loadable DasNode for the path specified.
 
 <a href="https://github.com/autoplot/dev/search?q=getNearestNode&unscoped_q=getNearestNode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +88,6 @@ sUrl - a String
 The node requested, or throws an error
 
 <a href="https://github.com/autoplot/dev/search?q=getNode&unscoped_q=getNode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -108,6 +106,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getUtf8NodeDef&unscoped_q=getUtf8NodeDef">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

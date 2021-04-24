@@ -26,7 +26,6 @@ in - ByteBuffer for the entire file
 td.isStructure();
 
 <a href="https://github.com/autoplot/dev/search?q=isArray&unscoped_q=isArray">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +43,6 @@ in - ByteBuffer for the entire file
 true if the name refers to a structure
 
 <a href="https://github.com/autoplot/dev/search?q=isStructure&unscoped_q=isStructure">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +61,6 @@ an Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=readArrayDataIntoArrayOfArrays&unscoped_q=readArrayDataIntoArrayOfArrays">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -81,7 +78,6 @@ java.nio.ByteBuffer
 
 
 <a href="https://github.com/autoplot/dev/search?q=readFileIntoByteBuffer&unscoped_q=readFileIntoByteBuffer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -99,7 +95,6 @@ org.autoplot.idlsupport.ReadIDLSav.StructDesc
 
 
 <a href="https://github.com/autoplot/dev/search?q=readStructDesc&unscoped_q=readStructDesc">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -118,7 +113,6 @@ an org.autoplot.idlsupport.ReadIDLSav.TagDesc
 
 
 <a href="https://github.com/autoplot/dev/search?q=readTagDesc&unscoped_q=readTagDesc">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +131,6 @@ an Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=readVar&unscoped_q=readVar">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +148,6 @@ in - a ByteBuffer
 the names found.
 
 <a href="https://github.com/autoplot/dev/search?q=readVarNames&unscoped_q=readVarNames">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,6 +165,5 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=readVars&unscoped_q=readVars">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

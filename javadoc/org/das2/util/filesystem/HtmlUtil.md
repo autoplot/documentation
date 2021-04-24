@@ -24,7 +24,6 @@ a connection, typically the same one as passed in.
 <a href='HttpUtil.md#checkRedirect'>HttpUtil#checkRedirect(java.net.URLConnection)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=checkRedirect&unscoped_q=checkRedirect">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +45,6 @@ void (returns nothing)
 <a href='HttpUtil.md#consumeStream'>HttpUtil#consumeStream(java.io.InputStream)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=consumeStream&unscoped_q=consumeStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -68,7 +66,6 @@ url - the address.
 list of URIs referred to in the page.
 
 <a href="https://github.com/autoplot/dev/search?q=getDirectoryListing&unscoped_q=getDirectoryListing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDirectoryListing( java.net.URL url, java.io.InputStream urlStream, boolean childCheck ) &rarr; URL<br>
@@ -96,7 +93,6 @@ input stream
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/autoplot/datasource/DataSetURI.md#downloadResourceAsTempFile'>org.autoplot.datasource.DataSetURI#downloadResourceAsTempFile</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getInputStream&unscoped_q=getInputStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -114,7 +110,6 @@ url - null or the url for the context.
 a list of URLs.
 
 <a href="https://github.com/autoplot/dev/search?q=getLinks&unscoped_q=getLinks">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -136,7 +131,6 @@ the metadata
 <a href='HttpUtil.md#getMetadata'>HttpUtil#getMetadata(java.net.URL, java.util.Map)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getMetadata&unscoped_q=getMetadata">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -154,7 +148,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDirectory&unscoped_q=isDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -172,6 +165,5 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=readToString&unscoped_q=readToString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

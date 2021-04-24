@@ -15,7 +15,6 @@ the set of values found in both.
 <a href='Ops_e.md#eventsConjunction'>eventsConjunction(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=dataIntersection&unscoped_q=dataIntersection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dataIntersection( QDataSet tE, QDataSet tB ) &rarr; QDataSet<br>
@@ -44,7 +43,6 @@ arg0 - null,QDataSet,Number,Datum,DatumRange,String,List,or array.
 QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=dataset&unscoped_q=dataset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dataset( Object arg0, Units u ) &rarr; QDataSet<br>
@@ -70,7 +68,6 @@ arg0 - null,QDataSet,Number,Datum, or String.
 Datum
 
 <a href="https://github.com/autoplot/dev/search?q=datum&unscoped_q=datum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +92,6 @@ arg0 - null, QDataSet, String, array or List.
 DatumRange
 
 <a href="https://github.com/autoplot/dev/search?q=datumRange&unscoped_q=datumRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +115,6 @@ rank 1 dataset filled with zeros.
 <a href='Ops_l.md#lonarr'>lonarr(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=dblarr&unscoped_q=dblarr">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dblarr( int len0, int len1 ) &rarr; QDataSet<br>
@@ -140,7 +135,6 @@ a decimated qube dataset.
 <a href='Ops_d.md#decimate'>decimate(QDataSet, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=decimate&unscoped_q=decimate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 decimate( QDataSet ds, int m ) &rarr; QDataSet<br>
@@ -162,7 +156,6 @@ ds - the dataset
 the dataset, which may be a copy if the data was not mutable.
 
 <a href="https://github.com/autoplot/dev/search?q=dependsOn&unscoped_q=dependsOn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -182,7 +175,6 @@ yy - rank 1 dataset
 dataset
 
 <a href="https://github.com/autoplot/dev/search?q=detrend&unscoped_q=detrend">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 detrend( Object yy, int size ) &rarr; QDataSet<br>
@@ -205,7 +197,6 @@ a rank 1 dataset with N-1 elements.
 <a href='Ops_a.md#accum'>accum(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=diff&unscoped_q=diff">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 diff( Object ds ) &rarr; QDataSet<br>
@@ -234,7 +225,6 @@ dss - the dataset
 the number of dimensions occupied by the data.
 
 <a href="https://github.com/autoplot/dev/search?q=dimensionCount&unscoped_q=dimensionCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dimensionCount( Object dss ) &rarr; int<br>
@@ -253,7 +243,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=dindgen&unscoped_q=dindgen">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dindgen( int len0, int len1 ) &rarr; QDataSet<br>
@@ -276,7 +265,6 @@ len0 - the length of the dataset
 rank 2 table
 
 <a href="https://github.com/autoplot/dev/search?q=distance&unscoped_q=distance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 distance( int len0, int len1, double c0, double c1, double r0, double r1 ) &rarr; QDataSet<br>
@@ -296,7 +284,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=div&unscoped_q=div">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 div( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -317,7 +304,6 @@ ds1 - the numerator
 the ds1/ds2
 
 <a href="https://github.com/autoplot/dev/search?q=divide&unscoped_q=divide">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 divide( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -339,7 +325,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=divp&unscoped_q=divp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 divp( Object ds1, Object ds2 ) &rarr; QDataSet<br>

@@ -40,7 +40,6 @@ the color
 <a href='http://cng.seas.rochester.edu/CNG/docs/x11color.html'>http://cng.seas.rochester.edu/CNG/docs/x11color.html</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=decodeColor&unscoped_q=decodeColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +57,6 @@ color - a Color
 named color or hex string like "#FF0000" for Red.
 
 <a href="https://github.com/autoplot/dev/search?q=encodeColor&unscoped_q=encodeColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -72,7 +70,6 @@ return a map of the named colors.
 a map of the named colors.
 
 <a href="https://github.com/autoplot/dev/search?q=getNamedColors&unscoped_q=getNamedColors">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -87,7 +84,6 @@ a java.awt.Color
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRicePaperColor&unscoped_q=getRicePaperColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,6 +100,5 @@ color - a Color
 the preferred name (or #RGB) for the color
 
 <a href="https://github.com/autoplot/dev/search?q=nameForColor&unscoped_q=nameForColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

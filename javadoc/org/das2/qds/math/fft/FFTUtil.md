@@ -22,7 +22,6 @@ org.das2.qds.math.fft.ComplexArray.Double
 
 
 <a href="https://github.com/autoplot/dev/search?q=fft&unscoped_q=fft">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,7 +40,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=fftPower&unscoped_q=fftPower">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 fftPower( org.das2.qds.math.fft.GeneralFFT fft, QDataSet vds, QDataSet weights ) &rarr; QDataSet<br>
@@ -60,7 +58,6 @@ fs - the sampling frequency
 the frequencies of the bins
 
 <a href="https://github.com/autoplot/dev/search?q=getFrequencyDomainTags&unscoped_q=getFrequencyDomainTags">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,7 +75,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindow10PercentEdgeCosine&unscoped_q=getWindow10PercentEdgeCosine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -96,6 +92,5 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowUnity&unscoped_q=getWindowUnity">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

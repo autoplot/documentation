@@ -87,7 +87,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getGamma&unscoped_q=getGamma">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,6 +106,5 @@ keyword - the specified keyword
 a java.util.List of the contents of tEXT chunks.
 
 <a href="https://github.com/autoplot/dev/search?q=getText&unscoped_q=getText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -16,7 +16,6 @@ return a rank 0 dataset of random numbers of a Gaussian (normal) distribution.
 a rank 0 dataset of random numbers of a Gaussian (normal) distribution.
 
 <a href="https://github.com/autoplot/dev/search?q=randn&unscoped_q=randn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 randn( int len0 ) &rarr; QDataSet<br>
@@ -36,7 +35,6 @@ restart the random sequence used by randu and randn.  Note if there
 the seed is returned.
 
 <a href="https://github.com/autoplot/dev/search?q=randomSeed&unscoped_q=randomSeed">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 randomSeed( long seed ) &rarr; long<br>
@@ -58,7 +56,6 @@ seed - basis for the random number (which will not be modified).
 rank 0 dataset
 
 <a href="https://github.com/autoplot/dev/search?q=randomn&unscoped_q=randomn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 randomn( long seed, int len0 ) &rarr; QDataSet<br>
@@ -82,7 +79,6 @@ seed - basis for the random number (which will not be modified).
 a rank 0 dataset of random uniform numbers from 0 to 1 but not including 1.
 
 <a href="https://github.com/autoplot/dev/search?q=randomu&unscoped_q=randomu">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 randomu( long seed, int len0 ) &rarr; QDataSet<br>
@@ -100,7 +96,6 @@ returns a rank 0 dataset of random uniform numbers from 0 to 1 but not including
 a rank 0 dataset of random uniform numbers from 0 to 1 but not including 1.
 
 <a href="https://github.com/autoplot/dev/search?q=randu&unscoped_q=randu">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 randu( int len0 ) &rarr; QDataSet<br>
@@ -125,7 +120,6 @@ the new bundle
 <a href='Ops_u.md#unbundle'>unbundle(QDataSet, java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=rebundle&unscoped_q=rebundle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 rebundle( QDataSet bundle1, int[] ii ) &rarr; QDataSet<br>
@@ -144,7 +138,6 @@ dep1 - rank 2 [N,2] bins dataset, where bins are min,max boundaries.
 rank 1 N element dataset
 
 <a href="https://github.com/autoplot/dev/search?q=reduceBins&unscoped_q=reduceBins">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -163,7 +156,6 @@ ds - rank N qube dataset.
 rank N-1 dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=reduceMax&unscoped_q=reduceMax">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 reduceMax( QDataSet ds, int dim, ProgressMonitor mon ) &rarr; QDataSet<br>
@@ -184,7 +176,6 @@ ds - rank N qube dataset.
 rank N-1 qube dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=reduceMean&unscoped_q=reduceMean">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 reduceMean( QDataSet ds, int dim, ProgressMonitor mon ) &rarr; QDataSet<br>
@@ -206,7 +197,6 @@ ds - rank N qube dataset.
 rank N-1 qube dataset
 
 <a href="https://github.com/autoplot/dev/search?q=reduceMedian&unscoped_q=reduceMedian">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -225,7 +215,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=reduceMin&unscoped_q=reduceMin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 reduceMin( QDataSet ds, int dim, ProgressMonitor mon ) &rarr; QDataSet<br>
@@ -248,7 +237,6 @@ rank N-1 dataset.
 <a href='Ops_t.md#total'>total(QDataSet, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=reduceSum&unscoped_q=reduceSum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -266,7 +254,6 @@ ds - rank N dataset
 the dataset, or rank N-1 dataset with the first 1-element dimension removed.
 
 <a href="https://github.com/autoplot/dev/search?q=reform&unscoped_q=reform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 reform( QDataSet ds, int nrec, int[] qube ) &rarr; QDataSet<br>
@@ -287,7 +274,6 @@ ds - a QDataSet
 dataset with the values removed.
 
 <a href="https://github.com/autoplot/dev/search?q=removeFill&unscoped_q=removeFill">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -317,7 +303,6 @@ a dataset with the values removed.
 <a href='Ops_w.md#where'>where(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=removeIndeces&unscoped_q=removeIndeces">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -339,7 +324,6 @@ the dataset with the data at the indeces made invalid.
 <a href='Ops_r.md#removeIndeces'>removeIndeces(QDataSet, QDataSet)</a> which copies the data to remove the indeces.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=removeValues&unscoped_q=removeValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removeValues( Object ds, Object indeces ) &rarr; WritableDataSet<br>
@@ -361,7 +345,6 @@ ds - rank N dataset
 the dataset with these
 
 <a href="https://github.com/autoplot/dev/search?q=removeValuesGreaterThan&unscoped_q=removeValuesGreaterThan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removeValuesGreaterThan( Object ds, Object v ) &rarr; WritableDataSet<br>
@@ -384,7 +367,6 @@ ds - rank N dataset
 the dataset with these
 
 <a href="https://github.com/autoplot/dev/search?q=removeValuesLessThan&unscoped_q=removeValuesLessThan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removeValuesLessThan( Object ds, Object v ) &rarr; WritableDataSet<br>
@@ -404,7 +386,6 @@ an org.das2.qds.WritableDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=replicate&unscoped_q=replicate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 replicate( short val, int len0, int len1 ) &rarr; WritableDataSet<br>
@@ -441,7 +422,6 @@ data - rank 1 dataset (TODO: easily modify this to support rank N)
 rescaled data.
 
 <a href="https://github.com/autoplot/dev/search?q=rescale&unscoped_q=rescale">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -464,7 +444,6 @@ dr - a QDataSet with bins and with nonzero width.
 new rank 1 QDataSet range.
 
 <a href="https://github.com/autoplot/dev/search?q=rescaleRange&unscoped_q=rescaleRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -485,7 +464,6 @@ two-element rank 1 QDataSet
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/QDataSet_S.md#SCALE_TYPE'>QDataSet#SCALE_TYPE</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=rescaleRangeLogLin&unscoped_q=rescaleRangeLogLin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -503,7 +481,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=reverse&unscoped_q=reverse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 reverse( Object ds ) &rarr; QDataSet<br>
@@ -525,7 +502,6 @@ red - the red component, from 0 to 255
 the rgb encoded colors.
 
 <a href="https://github.com/autoplot/dev/search?q=rgbColorDataset&unscoped_q=rgbColorDataset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -542,7 +518,6 @@ len0 - number of elements in the first index
 rank 1 dataset for demos and testing.
 
 <a href="https://github.com/autoplot/dev/search?q=ripples&unscoped_q=ripples">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ripples( int len0, int len1 ) &rarr; QDataSet<br>
@@ -565,7 +540,6 @@ an example join spectrogram time series.
 <a href='Schemes_i.md#irregularJoin'>Schemes#irregularJoin()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=ripplesJoinSpectrogramTimeSeries&unscoped_q=ripplesJoinSpectrogramTimeSeries">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -580,7 +554,6 @@ return an example of a QDataSet containing a pitch angle distribution.  This is
 an example pitch angle distribution.
 
 <a href="https://github.com/autoplot/dev/search?q=ripplesPitchAngleDistribution&unscoped_q=ripplesPitchAngleDistribution">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -598,7 +571,6 @@ len - the number of records
 fake position data for testing
 
 <a href="https://github.com/autoplot/dev/search?q=ripplesSpectrogramTimeSeries&unscoped_q=ripplesSpectrogramTimeSeries">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -615,7 +587,6 @@ len - number of records
 fake rank 1 data timeseries for testing
 
 <a href="https://github.com/autoplot/dev/search?q=ripplesTimeSeries&unscoped_q=ripplesTimeSeries">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -633,7 +604,6 @@ len - number of records
 vector time series.
 
 <a href="https://github.com/autoplot/dev/search?q=ripplesVectorTimeSeries&unscoped_q=ripplesVectorTimeSeries">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -651,7 +621,6 @@ len - number of 512-element waveforms.
 rank 2 waveform
 
 <a href="https://github.com/autoplot/dev/search?q=ripplesWaveformTimeSeries&unscoped_q=ripplesWaveformTimeSeries">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -669,7 +638,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=round&unscoped_q=round">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 round( double x ) &rarr; double<br>

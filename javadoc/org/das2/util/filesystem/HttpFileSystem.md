@@ -19,7 +19,6 @@ rooturi - an URI
 the filesystem.
 
 <a href="https://github.com/autoplot/dev/search?q=createHttpFileSystem&unscoped_q=createHttpFileSystem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -37,7 +36,6 @@ filename - a String
 true if the name appears to be a directory (folder).
 
 <a href="https://github.com/autoplot/dev/search?q=isDirectory&unscoped_q=isDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -61,7 +59,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isRegexNoWild&unscoped_q=isRegexNoWild">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +77,6 @@ directory - name within the filesystem
 names within the directory
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectory&unscoped_q=listDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 listDirectory( String directory, String regex ) &rarr; String<br>
@@ -99,6 +95,5 @@ filename - filename within the system
 the DirectoryEntry showing size and date.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeUpdateDirectoryEntry&unscoped_q=maybeUpdateDirectoryEntry">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

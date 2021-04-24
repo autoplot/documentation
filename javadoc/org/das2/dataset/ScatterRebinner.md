@@ -25,7 +25,6 @@ double[][]
 
 
 <a href="https://github.com/autoplot/dev/search?q=CreateTemplateBox&unscoped_q=CreateTemplateBox">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +45,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=EllipseValue&unscoped_q=EllipseValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -69,7 +67,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=InBinPlusMinuxHardEdgeBox&unscoped_q=InBinPlusMinuxHardEdgeBox">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -90,7 +87,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=InEllipseCutoff&unscoped_q=InEllipseCutoff">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -108,7 +104,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBinWidths&unscoped_q=getBinWidths">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,7 +123,6 @@ int[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCadenceValues&unscoped_q=getCadenceValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -149,6 +143,5 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=rebin&unscoped_q=rebin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -21,7 +21,6 @@ iconColor - the color
 an icon.
 
 <a href="https://github.com/autoplot/dev/search?q=colorIcon&unscoped_q=colorIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,7 +35,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDisplayName&unscoped_q=getDisplayName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -51,7 +49,6 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLargeDisplayIcon&unscoped_q=getLargeDisplayIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,7 +63,6 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSmallDisplayIcon&unscoped_q=getSmallDisplayIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +80,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +97,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toHexString&unscoped_q=toHexString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -117,6 +111,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updateChooser&unscoped_q=updateChooser">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -52,7 +52,6 @@ queryType - a type ot the query. It can be one of the {@link #COMPLETION_QUERY_T
 a task performing the query.
 
 <a href="https://github.com/autoplot/dev/search?q=createTask&unscoped_q=createTask">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,6 +75,5 @@ a combination of the {@link #COMPLETION_QUERY_TYPE}, {@link #COMPLETION_ALL_QUER
          values, or zero if no query should be automatically invoked.
 
 <a href="https://github.com/autoplot/dev/search?q=getAutoQueryTypes&unscoped_q=getAutoQueryTypes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

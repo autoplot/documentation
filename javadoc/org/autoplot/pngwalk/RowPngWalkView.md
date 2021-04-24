@@ -29,7 +29,6 @@ javax.swing.JComponent
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseTarget&unscoped_q=getMouseTarget">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,6 +46,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=propertyChange&unscoped_q=propertyChange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

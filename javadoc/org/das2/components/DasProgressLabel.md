@@ -19,7 +19,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=finished&unscoped_q=finished">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -33,7 +32,6 @@ get the assigned label component, or create one if one has not been assigned.
 the assigned label component
 
 <a href="https://github.com/autoplot/dev/search?q=getLabelComponent&unscoped_q=getLabelComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -51,6 +49,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabelComponent&unscoped_q=setLabelComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

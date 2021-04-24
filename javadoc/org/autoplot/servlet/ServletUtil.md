@@ -22,7 +22,6 @@ response - a HttpServletResponse
 true if the URI is whitelisted
 
 <a href="https://github.com/autoplot/dev/search?q=checkSecurity&unscoped_q=checkSecurity">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,7 +39,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dumpWhitelistToLogger&unscoped_q=dumpWhitelistToLogger">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ return the id map, checking no more than once per 5 seconds, and
 map from one string to another.
 
 <a href="https://github.com/autoplot/dev/search?q=getIdMap&unscoped_q=getIdMap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,7 +73,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getIntParameter&unscoped_q=getIntParameter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -91,7 +87,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getServletContact&unscoped_q=getServletContact">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -106,7 +101,6 @@ java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getServletHome&unscoped_q=getServletHome">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -126,7 +120,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStringParameter&unscoped_q=getStringParameter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +135,6 @@ return the whitelist, checking no more than once per 5 seconds, and
 list of regular expressions to allow.
 
 <a href="https://github.com/autoplot/dev/search?q=getWhiteList&unscoped_q=getWhiteList">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -160,7 +152,6 @@ suri - the uri.
 true if the suri is whitelisted.
 
 <a href="https://github.com/autoplot/dev/search?q=isWhitelisted&unscoped_q=isWhitelisted">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -178,6 +169,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=securityCheckPart2&unscoped_q=securityCheckPart2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

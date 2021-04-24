@@ -17,7 +17,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEndIndex&unscoped_q=getEndIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStartIndex&unscoped_q=getStartIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOkClicked&unscoped_q=isOkClicked">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +62,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEndIndex&unscoped_q=setEndIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +79,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStartIndex&unscoped_q=setStartIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -101,6 +96,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTimeSpan&unscoped_q=setTimeSpan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

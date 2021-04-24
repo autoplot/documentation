@@ -19,7 +19,6 @@ ds - rank 4 qube dataset.  (Future implementation will support lower ranks and n
 DDataSet of rank 4-1.
 
 <a href="https://github.com/autoplot/dev/search?q=collapse&unscoped_q=collapse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,7 +35,6 @@ ds - rank 4 dataset
 DDataSet of rank 4-1.
 
 <a href="https://github.com/autoplot/dev/search?q=collapse2&unscoped_q=collapse2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,6 +51,5 @@ ds - rank 3 dataset
 DDataSet of rank 3-1.
 
 <a href="https://github.com/autoplot/dev/search?q=collapse3&unscoped_q=collapse3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

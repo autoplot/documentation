@@ -142,7 +142,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=about&unscoped_q=about">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -165,7 +164,6 @@ void (returns nothing)
 <a href='#grow'>grow(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 append( org.das2.qds.buffer.BufferDataSet ths, org.das2.qds.buffer.BufferDataSet ds ) &rarr; BufferDataSet<br>
@@ -184,7 +182,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=bitCount&unscoped_q=bitCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -201,7 +198,6 @@ type - DOUBLE, FLOAT, UBYTE, TIME28, etc.
 8, 4, 1, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=byteCount&unscoped_q=byteCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -220,7 +216,6 @@ ds - dataset of the same rank and len1, len2, and len3.
 true if the dataset can be appended.
 
 <a href="https://github.com/autoplot/dev/search?q=canAppend&unscoped_q=canAppend">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -234,7 +229,6 @@ get ride of extra spaces between records.
 new BufferDataSet without gaps.
 
 <a href="https://github.com/autoplot/dev/search?q=compact&unscoped_q=compact">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -255,7 +249,6 @@ ds - any qube dataset.
 a BufferDataSet copy of the dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 copy( Object type, QDataSet ds ) &rarr; BufferDataSet<br>
@@ -276,7 +269,6 @@ rank - the rank of the data
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -293,7 +285,6 @@ type - DOUBLE, FLOAT, UINT, etc
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank0&unscoped_q=createRank0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -311,7 +302,6 @@ type - DOUBLE, FLOAT, UINT, etc
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank1&unscoped_q=createRank1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -330,7 +320,6 @@ type - DOUBLE, FLOAT, UINT, etc
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank2&unscoped_q=createRank2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -350,7 +339,6 @@ type - DOUBLE, FLOAT, UINT, etc
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank3&unscoped_q=createRank3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -371,7 +359,6 @@ type - DOUBLE, FLOAT, UINT, etc
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=createRank4&unscoped_q=createRank4">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -387,7 +374,6 @@ return the Java type that is capable of containing elements of this dataset.
 double.class, float.class, long.class, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=getCompatibleComponentType&unscoped_q=getCompatibleComponentType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -401,7 +387,6 @@ return the number of bytes to advance for each field.
 the number of bytes to advance for each field.
 
 <a href="https://github.com/autoplot/dev/search?q=getFieldStride&unscoped_q=getFieldStride">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -415,7 +400,6 @@ return the number of bytes to advance for each record.
 the number of bytes to advance for each record.
 
 <a href="https://github.com/autoplot/dev/search?q=getRecordStride&unscoped_q=getRecordStride">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -429,7 +413,6 @@ return the type of this dataset, for example BufferDataSet.INT, BufferDataSet.DO
 the type of this dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=getType&unscoped_q=getType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -451,7 +434,6 @@ void (returns nothing)
 <a href='#append'>append(org.das2.qds.buffer.BufferDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=grow&unscoped_q=grow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -469,7 +451,6 @@ ds - the dataset
 the backing store class, one of double.class, float.class, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=guessBackingStore&unscoped_q=guessBackingStore">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -484,7 +465,6 @@ returns true if the dataset is compact, meaning that there
 true if the dataset is compact
 
 <a href="https://github.com/autoplot/dev/search?q=isCompact&unscoped_q=isCompact">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -500,7 +480,6 @@ estimate the jvmMemory occupied by this dataset, looking at the NIO buffer
 the estimated number bytes that the dataSet occupies.
 
 <a href="https://github.com/autoplot/dev/search?q=jvmMemory&unscoped_q=jvmMemory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -515,7 +494,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=length&unscoped_q=length">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 length( int i ) &rarr; int<br>
@@ -543,7 +521,6 @@ rank - the rank (number of indeces) of the data.
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=makeDataSet&unscoped_q=makeDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 makeDataSet( int rank, int reclen, int recoffs, int[] qube, java.nio.ByteBuffer buf, Object type ) &rarr; BufferDataSet<br>
@@ -570,7 +547,6 @@ rank - an int
 BufferDataSet of the given type.
 
 <a href="https://github.com/autoplot/dev/search?q=makeDataSetBits&unscoped_q=makeDataSetBits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -587,7 +563,6 @@ ds - a QDataSet
 a BufferDataSet.
 
 <a href="https://github.com/autoplot/dev/search?q=maybeCopy&unscoped_q=maybeCopy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -602,7 +577,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=rank&unscoped_q=rank">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -621,7 +595,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFieldStride&unscoped_q=setFieldStride">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -639,7 +612,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLength&unscoped_q=setLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -659,7 +631,6 @@ void (returns nothing)
 <a href='Ops.md#decimateBufferDataSet'>Ops#decimateBufferDataSet(org.das2.qds.buffer.BufferDataSet, int, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setLength1&unscoped_q=setLength1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -678,7 +649,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRecordStride&unscoped_q=setRecordStride">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -701,7 +671,6 @@ return 1 if direct allocate should be used, 0 if not.
 <a href='http://stackoverflow.com/questions/3651737/why-the-odd-performance-curve-differential-between-bytebuffer-allocate-and-byt "How ByteBuffer works and why Direct '>http://stackoverflow.com/questions/3651737/why-the-odd-performance-curve-differential-between-bytebuffer-allocate-and-byt "How ByteBuffer works and why Direct (Byte)</a> "How ByteBuffer works and why Direct (Byte)Buffers are the only truly useful now"<br>
 
 <a href="https://github.com/autoplot/dev/search?q=shouldAllocateDirect&unscoped_q=shouldAllocateDirect">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -719,7 +688,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=slice&unscoped_q=slice">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -738,7 +706,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -757,7 +724,6 @@ c - java class
 DOUBLE,FLOAT,etc.
 
 <a href="https://github.com/autoplot/dev/search?q=typeFor&unscoped_q=typeFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -772,7 +738,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 value( int i0 ) &rarr; double<br>

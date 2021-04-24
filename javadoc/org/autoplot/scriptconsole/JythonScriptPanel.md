@@ -32,7 +32,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addMenuItem&unscoped_q=addMenuItem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,7 +48,6 @@ provide access to the annotations support, so that errors
 the annotations support.
 
 <a href="https://github.com/autoplot/dev/search?q=getAnnotationsSupport&unscoped_q=getAnnotationsSupport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -64,7 +62,6 @@ a java.awt.event.ActionListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=getConsoleListener&unscoped_q=getConsoleListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,7 +75,6 @@ returns the editor
 the editor
 
 <a href="https://github.com/autoplot/dev/search?q=getEditorPanel&unscoped_q=getEditorPanel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,7 +89,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFilename&unscoped_q=getFilename">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -108,7 +103,6 @@ return the name of the script that the panel is busy running, or null.
 null or the running script.
 
 <a href="https://github.com/autoplot/dev/search?q=getRunningScript&unscoped_q=getRunningScript">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +116,6 @@ returns the JScrollPane containing the editor so that special applications can c
 the JScrollPane containing the editor
 
 <a href="https://github.com/autoplot/dev/search?q=getScrollPane&unscoped_q=getScrollPane">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +130,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDirty&unscoped_q=isDirty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +147,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=loadExampleUri&unscoped_q=loadExampleUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -172,7 +163,6 @@ file - the .jy or .jyds file.
 false if the editor is dirty, true if the file is loaded.
 
 <a href="https://github.com/autoplot/dev/search?q=loadFile&unscoped_q=loadFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -187,7 +177,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetUndo&unscoped_q=resetUndo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -205,7 +194,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDirty&unscoped_q=setDirty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -223,7 +211,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFilename&unscoped_q=setFilename">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,6 +229,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRunningScript&unscoped_q=setRunningScript">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

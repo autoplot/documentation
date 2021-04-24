@@ -21,7 +21,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=backtransform&unscoped_q=backtransform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 backtransform( org.das2.math.fft.ComplexArray.Double data, int i0, int stride ) &rarr; void<br>
@@ -42,7 +41,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=inverse&unscoped_q=inverse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 inverse( org.das2.math.fft.ComplexArray.Double data ) &rarr; void<br>
@@ -59,7 +57,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=normalization&unscoped_q=normalization">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -81,7 +78,6 @@ org.das2.math.fft.ComplexArray.Double
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/<a href="package-summary/html.md#wraparound">wraparound format</A>'><a href="package-summary.html#wraparound">wraparound format</A></a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=toWraparoundOrder&unscoped_q=toWraparoundOrder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 toWraparoundOrder( org.das2.math.fft.ComplexArray.Double data, int i0, int stride ) &rarr; double<br>
@@ -100,7 +96,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=transform&unscoped_q=transform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 transform( org.das2.math.fft.ComplexArray.Double data, int i0, int stride ) &rarr; void<br>

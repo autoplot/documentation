@@ -23,7 +23,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ java.lang.Exception
 
 
 <a href="https://github.com/autoplot/dev/search?q=getException&unscoped_q=getException">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +51,6 @@ org.das2.util.monitor.ProgressMonitor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMonitor&unscoped_q=getMonitor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,6 +68,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMonitor&unscoped_q=setMonitor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

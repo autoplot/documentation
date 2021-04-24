@@ -19,7 +19,6 @@ entity - like &amp;rho;
 string with unicode like "&rho;"
 
 <a href="https://github.com/autoplot/dev/search?q=decode&unscoped_q=decode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -37,7 +36,6 @@ str - string e.g. "&rho; degrees"
 string with unicode characters for entities.
 
 <a href="https://github.com/autoplot/dev/search?q=decodeEntities&unscoped_q=decodeEntities">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -54,6 +52,5 @@ s - string with unicode like "&rho;"
 like &amp;rho;
 
 <a href="https://github.com/autoplot/dev/search?q=encode&unscoped_q=encode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -35,7 +35,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=bind&unscoped_q=bind">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +52,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=capitalize&unscoped_q=capitalize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -73,7 +71,6 @@ node - the dom node.
 true if a binding is found.
 
 <a href="https://github.com/autoplot/dev/search?q=isBound&unscoped_q=isBound">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -88,7 +85,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printStatus&unscoped_q=printStatus">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -103,7 +99,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +114,6 @@ return the total number of bindings implemented in this facility.
 the total number of bindings implemented in this facility.
 
 <a href="https://github.com/autoplot/dev/search?q=totalBindings&unscoped_q=totalBindings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +131,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=unbind&unscoped_q=unbind">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 unbind( org.autoplot.dom.DomNode master, String property, Object dst, String dstProp ) &rarr; void<br>

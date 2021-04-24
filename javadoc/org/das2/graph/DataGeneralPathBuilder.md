@@ -31,7 +31,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addDataPoint&unscoped_q=addDataPoint">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addDataPoint( boolean valid, double x, double y ) &rarr; void<br>
@@ -47,7 +46,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=finishThought&unscoped_q=finishThought">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +60,6 @@ return the x cadence used as a double.  This is should interpreted with
 the cadence as a double, or 1e38 if there is no cadence.
 
 <a href="https://github.com/autoplot/dev/search?q=getCadenceDouble&unscoped_q=getCadenceDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +74,6 @@ get the generalPath for drawing.  This may affect the
 the generalPath for drawing.
 
 <a href="https://github.com/autoplot/dev/search?q=getGeneralPath&unscoped_q=getGeneralPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -91,7 +87,6 @@ get the path iterator.
 the path iterator.
 
 <a href="https://github.com/autoplot/dev/search?q=getPathIterator&unscoped_q=getPathIterator">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -106,7 +101,6 @@ a java.awt.geom.Point2D
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPenPosition&unscoped_q=getPenPosition">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -120,7 +114,6 @@ return the units of the xaxis.
 the units of the xaxis.
 
 <a href="https://github.com/autoplot/dev/search?q=getXUnits&unscoped_q=getXUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -134,7 +127,6 @@ return the units of the yaxis.
 the units of the yaxis.
 
 <a href="https://github.com/autoplot/dev/search?q=getYUnits&unscoped_q=getYUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -153,7 +145,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=insertLineTo&unscoped_q=insertLineTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -169,7 +160,6 @@ return true if the spacing in x has been identified as ratiometric
 true if the data has been marked as ratiometric.
 
 <a href="https://github.com/autoplot/dev/search?q=isCadenceRatiometric&unscoped_q=isCadenceRatiometric">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -184,7 +174,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isHistogramMode&unscoped_q=isHistogramMode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -203,7 +192,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCadence&unscoped_q=setCadence">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -218,7 +206,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHistogramFillFlag&unscoped_q=setHistogramFillFlag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -236,7 +223,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHistogramMode&unscoped_q=setHistogramMode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -254,6 +240,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setName&unscoped_q=setName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

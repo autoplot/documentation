@@ -17,7 +17,6 @@ Getter for property autoUpdate.
 Value of property autoUpdate.
 
 <a href="https://github.com/autoplot/dev/search?q=isAutoUpdate&unscoped_q=isAutoUpdate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -31,7 +30,6 @@ Getter for property constrainProportions.
 Value of property constrainProportions.
 
 <a href="https://github.com/autoplot/dev/search?q=isConstrainProportions&unscoped_q=isConstrainProportions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -49,7 +47,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseRangeSelected&unscoped_q=mouseRangeSelected">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +68,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=mouseWheelMoved&unscoped_q=mouseWheelMoved">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +85,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAutoUpdate&unscoped_q=setAutoUpdate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,6 +102,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setConstrainProportions&unscoped_q=setConstrainProportions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

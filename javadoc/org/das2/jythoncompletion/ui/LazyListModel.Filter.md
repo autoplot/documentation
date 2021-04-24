@@ -19,7 +19,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=accept&unscoped_q=accept">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,6 +38,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=scheduleUpdate&unscoped_q=scheduleUpdate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -17,6 +17,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=layoutContainer&unscoped_q=layoutContainer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

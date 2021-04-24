@@ -28,7 +28,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=autolayout&unscoped_q=autolayout">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +45,6 @@ col - a DasColumn
 the bounds of all children, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getChildBounds&unscoped_q=getChildBounds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getChildBounds( org.das2.graph.DasRow row ) &rarr; Rectangle<br>
@@ -64,7 +62,6 @@ col - the column
 list of columns.
 
 <a href="https://github.com/autoplot/dev/search?q=getChildColumns&unscoped_q=getChildColumns">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -82,7 +79,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=normalizeRows&unscoped_q=normalizeRows">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 normalizeRows( double em, org.das2.graph.DasRow marginRow, java.util.List rows ) &rarr; void<br>

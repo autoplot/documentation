@@ -22,7 +22,6 @@ fft - FFT code to use, such as GeneralFFT.newDoubleFFT(len)
 the rank 2 FFT
 
 <a href="https://github.com/autoplot/dev/search?q=fft&unscoped_q=fft">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 fft( org.das2.qds.math.fft.GeneralFFT fft, QDataSet vds ) &rarr; Double<br>
@@ -42,7 +41,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=fftPower&unscoped_q=fftPower">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 fftPower( org.das2.qds.math.fft.GeneralFFT fft, QDataSet vds, QDataSet weights ) &rarr; QDataSet<br>
@@ -62,7 +60,6 @@ fs - the sampling frequency
 the frequencies of the bins
 
 <a href="https://github.com/autoplot/dev/search?q=getFrequencyDomainTags&unscoped_q=getFrequencyDomainTags">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getFrequencyDomainTags( QDataSet timeDomainTags ) &rarr; QDataSet<br>
@@ -82,7 +79,6 @@ dep0 - the timetags.
 the frequency tags.
 
 <a href="https://github.com/autoplot/dev/search?q=getFrequencyDomainTagsForPower&unscoped_q=getFrequencyDomainTagsForPower">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -99,7 +95,6 @@ frequencyDomainTags - a QDataSet
 the time Domain Tags
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeDomainTags&unscoped_q=getTimeDomainTags">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -116,7 +111,6 @@ size - the window size
 window
 
 <a href="https://github.com/autoplot/dev/search?q=getWindow10PercentEdgeCosine&unscoped_q=getWindow10PercentEdgeCosine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -134,7 +128,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowHanning&unscoped_q=getWindowHanning">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -151,7 +144,6 @@ size - the window size
 window
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowUnity&unscoped_q=getWindowUnity">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -170,7 +162,6 @@ fft - FFT code to use, such as GeneralFFT.newDoubleFFT(len)
 the rank 2 FFT
 
 <a href="https://github.com/autoplot/dev/search?q=ifft&unscoped_q=ifft">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ifft( org.das2.qds.math.fft.GeneralFFT fft, QDataSet vds ) &rarr; Double<br>
@@ -190,6 +181,5 @@ ds - rank 1 dataset of length N
 rank 2 dataset[N/size,size]
 
 <a href="https://github.com/autoplot/dev/search?q=window&unscoped_q=window">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

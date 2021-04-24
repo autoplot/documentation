@@ -191,7 +191,6 @@ void (returns nothing)
 <a href='#maybeInitializeInputPanels'>maybeInitializeInputPanels()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addMouseListener&unscoped_q=addMouseListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -211,7 +210,6 @@ void (returns nothing)
 <a href='#maybeInitializeInputPanels'>maybeInitializeInputPanels()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addMouseMotionListener&unscoped_q=addMouseMotionListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -233,7 +231,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addMouseWheelListener&unscoped_q=addMouseWheelListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -255,7 +252,6 @@ void (returns nothing)
 <a href='#setTickV'>setTickV(double[], double[])</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=addTickV&unscoped_q=addTickV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -273,7 +269,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addTimeRangeSelectionListener&unscoped_q=addTimeRangeSelectionListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -291,7 +286,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addToFavorites&unscoped_q=addToFavorites">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -310,7 +304,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=attachTo&unscoped_q=attachTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -325,7 +318,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearHistory&unscoped_q=clearHistory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -339,7 +331,6 @@ clone(  ) &rarr; Object
 a copy of the axis, also cloning the dataRange that backs the axis.
 
 <a href="https://github.com/autoplot/dev/search?q=clone&unscoped_q=clone">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -354,7 +345,6 @@ create another axis that follows this axis.  It will have the same
 attached axis.
 
 <a href="https://github.com/autoplot/dev/search?q=createAttachedAxis&unscoped_q=createAttachedAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createAttachedAxis( int orientation ) &rarr; DasAxis<br>
@@ -373,7 +363,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=dataRangeSelected&unscoped_q=dataRangeSelected">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -389,7 +378,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=detach&unscoped_q=detach">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -407,7 +395,6 @@ get the region containing the axis.
 the region containing the axis.
 
 <a href="https://github.com/autoplot/dev/search?q=getActiveRegion&unscoped_q=getActiveRegion">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -426,7 +413,6 @@ memento - memento from another axis state.
 the transform from that state to this state, or null if no transform can be created.
 
 <a href="https://github.com/autoplot/dev/search?q=getAffineTransform&unscoped_q=getAffineTransform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -440,7 +426,6 @@ return the length of the axis in pixels.
 returns the length of the axis in pixels.
 
 <a href="https://github.com/autoplot/dev/search?q=getDLength&unscoped_q=getDLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -454,7 +439,6 @@ return the maximum value
 the maximum value
 
 <a href="https://github.com/autoplot/dev/search?q=getDataMaximum&unscoped_q=getDataMaximum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDataMaximum( Units units ) &rarr; double<br>
@@ -469,7 +453,6 @@ return the minimum value
 the minimum value
 
 <a href="https://github.com/autoplot/dev/search?q=getDataMinimum&unscoped_q=getDataMinimum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDataMinimum( Units units ) &rarr; double<br>
@@ -485,7 +468,6 @@ return the path for the TCA dataset.  This will be a das2server data set
 the path of the TCA dataset, or "".
 
 <a href="https://github.com/autoplot/dev/search?q=getDataPath&unscoped_q=getDataPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -500,7 +482,6 @@ return the mutable DataRange object.  This is used
 the DataRange.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataRange&unscoped_q=getDataRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -514,7 +495,6 @@ return the formatter which converts Datum tick positions to a string.
 the formatter which converts Datum tick positions to a string.
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumFormatter&unscoped_q=getDatumFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -528,7 +508,6 @@ return the current range
 the current range
 
 <a href="https://github.com/autoplot/dev/search?q=getDatumRange&unscoped_q=getDatumRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -547,7 +526,6 @@ org.das2.datum.format.DatumFormatter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDividerDatumFormatter&unscoped_q=getDividerDatumFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -566,7 +544,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFontSize&unscoped_q=getFontSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -580,7 +557,6 @@ return the format string for each tick.
 the format string for each tick.
 
 <a href="https://github.com/autoplot/dev/search?q=getFormat&unscoped_q=getFormat">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -595,7 +571,6 @@ A String instance that contains the title displayed
     for this axis, or "" if the axis has no title.
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -610,7 +585,6 @@ get the font for labels.  If the component currently has null for the
 the font to use for labels.
 
 <a href="https://github.com/autoplot/dev/search?q=getLabelFont&unscoped_q=getLabelFont">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -624,7 +598,6 @@ getLabelOffset(  ) &rarr; String
 the label offset.
 
 <a href="https://github.com/autoplot/dev/search?q=getLabelOffset&unscoped_q=getLabelOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -638,7 +611,6 @@ calculate the spacing (whitespace) between the TCA items.
 the spacing between lines.
 
 <a href="https://github.com/autoplot/dev/search?q=getLineSpacing&unscoped_q=getLineSpacing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -653,7 +625,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLineThickness&unscoped_q=getLineThickness">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -667,7 +638,6 @@ return the domain divider for major ticks, or null.
 the domain divider for major ticks, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getMajorTicksDomainDivider&unscoped_q=getMajorTicksDomainDivider">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -681,7 +651,6 @@ return the axis this is attached to.
 the axis this is attached to.
 
 <a href="https://github.com/autoplot/dev/search?q=getMasterAxis&unscoped_q=getMasterAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -695,7 +664,6 @@ get the memento object which identifies the state of the axis transformation.
 the momento.
 
 <a href="https://github.com/autoplot/dev/search?q=getMemento&unscoped_q=getMemento">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -709,7 +677,6 @@ return the domain divider for minor ticks, or null.
 the domain divider for minor ticks, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getMinorTicksDomainDivider&unscoped_q=getMinorTicksDomainDivider">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -723,7 +690,6 @@ returns the orientation of the axis, which is one of BOTTOM,TOP,LEFT or RIGHT.
 BOTTOM,TOP,LEFT or RIGHT.
 
 <a href="https://github.com/autoplot/dev/search?q=getOrientation&unscoped_q=getOrientation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -742,7 +708,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getReference&unscoped_q=getReference">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -756,7 +721,6 @@ get the limit the scan buttons, which may be null.
 the limit the scan buttons, which may be null.
 
 <a href="https://github.com/autoplot/dev/search?q=getScanRange&unscoped_q=getScanRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -770,7 +734,6 @@ return the tick direction, 1=down or left, -1=up or right
 1=down or left, -1=up or right
 
 <a href="https://github.com/autoplot/dev/search?q=getTickDirection&unscoped_q=getTickDirection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -785,7 +748,6 @@ get the font for tick labels.  If the component currently has null for the
 the font to use for ticks.
 
 <a href="https://github.com/autoplot/dev/search?q=getTickLabelFont&unscoped_q=getTickLabelFont">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -799,7 +761,6 @@ get the tick length string, for example "0.66em"
 the tick length string
 
 <a href="https://github.com/autoplot/dev/search?q=getTickLength&unscoped_q=getTickLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -814,7 +775,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTickLines&unscoped_q=getTickLines">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -828,7 +788,6 @@ return the current set of ticks.
 the current set of ticks.
 
 <a href="https://github.com/autoplot/dev/search?q=getTickV&unscoped_q=getTickV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -843,7 +802,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTickValues&unscoped_q=getTickValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -857,7 +815,6 @@ return the units of the axis.
 the units of the axis.
 
 <a href="https://github.com/autoplot/dev/search?q=getUnits&unscoped_q=getUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -872,7 +829,6 @@ get the userDatumFormatter, which converts Datums into Strings.  This
 the userDatumFormatter.
 
 <a href="https://github.com/autoplot/dev/search?q=getUserDatumFormatter&unscoped_q=getUserDatumFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -891,7 +847,6 @@ idata1 - pixel position on the axis, in the canvas frame.
 DatumRange implied by the two pixel positions.
 
 <a href="https://github.com/autoplot/dev/search?q=invTransform&unscoped_q=invTransform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 invTransform( double idata ) &rarr; Datum<br>
@@ -907,7 +862,6 @@ true if the axis is animated.  Transitions in axis position are drawn
 true if the axis is animated.
 
 <a href="https://github.com/autoplot/dev/search?q=isAnimated&unscoped_q=isAnimated">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -921,7 +875,6 @@ return true if this is attached to another axis.
 true if this is attached to another axis.
 
 <a href="https://github.com/autoplot/dev/search?q=isAttached&unscoped_q=isAttached">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -937,7 +890,6 @@ true if additional ticks will be drawn.
 <a href='#setTcaFunction'>setTcaFunction(org.das2.qds.QFunction)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawTca&unscoped_q=isDrawTca">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -951,7 +903,6 @@ true if the axis built-in history is enabled.
 true if the axis built-in history is enabled.
 
 <a href="https://github.com/autoplot/dev/search?q=isEnableHistory&unscoped_q=isEnableHistory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -965,7 +916,6 @@ true if the right vertical label should be flipped.
 true if the right vertical label should be flipped.
 
 <a href="https://github.com/autoplot/dev/search?q=isFlipLabel&unscoped_q=isFlipLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -979,7 +929,6 @@ return true if the axis is flipped.
 true if the axis is flipped.
 
 <a href="https://github.com/autoplot/dev/search?q=isFlipped&unscoped_q=isFlipped">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -993,7 +942,6 @@ test if the axis is horizontal.
 true if the orientation is BOTTOM or TOP.
 
 <a href="https://github.com/autoplot/dev/search?q=isHorizontal&unscoped_q=isHorizontal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1008,7 +956,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isLockDomainDivider&unscoped_q=isLockDomainDivider">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1022,7 +969,6 @@ return true if the axis is log.
 true if the axis is log.
 
 <a href="https://github.com/autoplot/dev/search?q=isLog&unscoped_q=isLog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1036,7 +982,6 @@ return true if the opposite side is also drawn.
 true if the opposite side is also drawn.
 
 <a href="https://github.com/autoplot/dev/search?q=isOppositeAxisVisible&unscoped_q=isOppositeAxisVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1050,7 +995,6 @@ true if the TCA data has been loaded and the axis bounds reflect TCA data presen
 true if the TCA data has been loaded and the axis bounds reflect TCA data present.
 
 <a href="https://github.com/autoplot/dev/search?q=isTcaLoaded&unscoped_q=isTcaLoaded">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1064,7 +1008,6 @@ true if the tick labels should be drawn.
 true if the tick labels should be drawn.
 
 <a href="https://github.com/autoplot/dev/search?q=isTickLabelsVisible&unscoped_q=isTickLabelsVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1079,7 +1022,6 @@ true if the domain divider should be used.  This is a new object that
 true if the domain divider should be used.
 
 <a href="https://github.com/autoplot/dev/search?q=isUseDomainDivider&unscoped_q=isUseDomainDivider">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1094,7 +1036,6 @@ an org.das2.graph.DasAxis.Lock
 
 
 <a href="https://github.com/autoplot/dev/search?q=mutatorLock&unscoped_q=mutatorLock">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1112,7 +1053,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeFromFavorites&unscoped_q=removeFromFavorites">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1132,7 +1072,6 @@ void (returns nothing)
 <a href='#maybeInitializeInputPanels'>maybeInitializeInputPanels()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=removeMouseListener&unscoped_q=removeMouseListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1152,7 +1091,6 @@ void (returns nothing)
 <a href='#maybeInitializeInputPanels'>maybeInitializeInputPanels()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=removeMouseMotionListener&unscoped_q=removeMouseMotionListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1172,7 +1110,6 @@ void (returns nothing)
 <a href='#maybeInitializeInputPanels'>maybeInitializeInputPanels()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=removeMouseWheelListener&unscoped_q=removeMouseWheelListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1190,7 +1127,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removeTimeRangeSelectionListener&unscoped_q=removeTimeRangeSelectionListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1208,7 +1144,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetRange&unscoped_q=resetRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1223,7 +1158,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1239,7 +1173,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=scanNext&unscoped_q=scanNext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1255,7 +1188,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=scanPrevious&unscoped_q=scanPrevious">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1273,7 +1205,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAnimated&unscoped_q=setAnimated">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1291,7 +1222,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataMaximum&unscoped_q=setDataMaximum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1309,7 +1239,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataMinimum&unscoped_q=setDataMinimum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1329,7 +1258,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/setDrawTca which turns on additional ticks/.md'>setDrawTca which turns on additional ticks.</a> which turns on additional ticks.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=setDataPath&unscoped_q=setDataPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1349,7 +1277,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataRange&unscoped_q=setDataRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1364,7 +1291,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataRangeForward&unscoped_q=setDataRangeForward">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1379,7 +1305,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataRangePrev&unscoped_q=setDataRangePrev">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1394,7 +1319,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataRangeZoomOut&unscoped_q=setDataRangeZoomOut">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1412,7 +1336,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDatumRange&unscoped_q=setDatumRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1430,7 +1353,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDividerDatumFormatter&unscoped_q=setDividerDatumFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1450,7 +1372,6 @@ void (returns nothing)
 <a href='#setTcaFunction'>setTcaFunction(org.das2.qds.QFunction)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawTca&unscoped_q=setDrawTca">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1468,7 +1389,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEnableHistory&unscoped_q=setEnableHistory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1486,7 +1406,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFlipLabel&unscoped_q=setFlipLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1504,7 +1423,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFlipped&unscoped_q=setFlipped">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1522,7 +1440,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFontSize&unscoped_q=setFontSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1544,7 +1461,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFormat&unscoped_q=setFormat">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1565,7 +1481,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabel&unscoped_q=setLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1585,7 +1500,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabelOffset&unscoped_q=setLabelOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1607,7 +1521,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLineThickness&unscoped_q=setLineThickness">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1625,7 +1538,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLockDomainDivider&unscoped_q=setLockDomainDivider">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1644,7 +1556,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLog&unscoped_q=setLog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1662,7 +1573,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMajorTicksDomainDivider&unscoped_q=setMajorTicksDomainDivider">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1680,7 +1590,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMinorTicksDomainDivider&unscoped_q=setMinorTicksDomainDivider">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1699,7 +1608,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setNextAction&unscoped_q=setNextAction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1718,7 +1626,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setNextActionLabel&unscoped_q=setNextActionLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1736,7 +1643,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOppositeAxisVisible&unscoped_q=setOppositeAxisVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1760,7 +1666,6 @@ void (returns nothing)
 <a href='#RIGHT'>RIGHT</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setOrientation&unscoped_q=setOrientation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1778,7 +1683,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlot&unscoped_q=setPlot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1797,7 +1701,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPreviousAction&unscoped_q=setPreviousAction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1816,7 +1719,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPreviousActionLabel&unscoped_q=setPreviousActionLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1835,7 +1737,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReference&unscoped_q=setReference">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1854,7 +1755,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setScanRange&unscoped_q=setScanRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1877,7 +1777,6 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/setDrawTca which turns on additional ticks/.md'>setDrawTca which turns on additional ticks.</a> which turns on additional ticks.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=setTcaFunction&unscoped_q=setTcaFunction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1895,7 +1794,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickLabelsVisible&unscoped_q=setTickLabelsVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1914,7 +1812,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTickLength&unscoped_q=setTickLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1937,7 +1834,6 @@ void (returns nothing)
 <a href='#setTickV'>setTickV(org.das2.graph.TickVDescriptor)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setTickV&unscoped_q=setTickV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setTickV( org.das2.graph.TickVDescriptor tickV ) &rarr; void<br>
@@ -1969,7 +1865,6 @@ void (returns nothing)
 <a href='GraphUtil.md#calculateManualTicks'>GraphUtil#calculateManualTicks(java.lang.String, org.das2.datum.DatumRange, boolean)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setTickValues&unscoped_q=setTickValues">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -1989,7 +1884,6 @@ void (returns nothing)
 <a href='#resetRange'>resetRange(org.das2.datum.DatumRange)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setUnits&unscoped_q=setUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -2008,7 +1902,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUseDomainDivider&unscoped_q=setUseDomainDivider">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -2027,7 +1920,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUserDatumFormatter&unscoped_q=setUserDatumFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -2048,7 +1940,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setVisible&unscoped_q=setVisible">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -2066,7 +1957,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=timeRangeSelected&unscoped_q=timeRangeSelected">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -2081,7 +1971,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -2099,7 +1988,6 @@ datum - a data value
 Horizontal or vertical position on the canvas.
 
 <a href="https://github.com/autoplot/dev/search?q=transform&unscoped_q=transform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 transform( double data, Units units ) &rarr; double<br>
@@ -2121,6 +2009,5 @@ true if a lock is out and an object is rapidly mutating the object.
 true if valueIsAdjusting
 
 <a href="https://github.com/autoplot/dev/search?q=valueIsAdjusting&unscoped_q=valueIsAdjusting">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

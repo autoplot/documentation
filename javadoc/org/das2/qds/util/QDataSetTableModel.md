@@ -17,7 +17,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnCount&unscoped_q=getColumnCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnName&unscoped_q=getColumnName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +51,6 @@ an Units
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnUnits&unscoped_q=getColumnUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -68,7 +65,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRowCount&unscoped_q=getRowCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +82,6 @@ a javax.swing.table.TableRowSorter
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRowSorter&unscoped_q=getRowSorter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -100,7 +95,6 @@ this currently isn't used because there's a bug.
 the table model.
 
 <a href="https://github.com/autoplot/dev/search?q=getTableColumnModel&unscoped_q=getTableColumnModel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -118,7 +112,6 @@ java.awt.event.MouseListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTableHeaderMouseListener&unscoped_q=getTableHeaderMouseListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +130,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getValueAt&unscoped_q=getValueAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,6 +147,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

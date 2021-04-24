@@ -28,7 +28,6 @@ A newly-allocated byte array containing the resulting
           encoded bytes.
 
 <a href="https://github.com/autoplot/dev/search?q=encode&unscoped_q=encode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 encode( byte[] src, byte[] dst ) &rarr; int<br>
@@ -57,7 +56,6 @@ src - the byte array to encode
 A String containing the resulting Base64 encoded characters
 
 <a href="https://github.com/autoplot/dev/search?q=encodeToString&unscoped_q=encodeToString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,7 +76,6 @@ an equivalent encoder that encodes without adding any
          padding character at the end
 
 <a href="https://github.com/autoplot/dev/search?q=withoutPadding&unscoped_q=withoutPadding">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,6 +99,5 @@ the output stream for encoding the byte data into the
           specified Base64 encoded format
 
 <a href="https://github.com/autoplot/dev/search?q=wrap&unscoped_q=wrap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

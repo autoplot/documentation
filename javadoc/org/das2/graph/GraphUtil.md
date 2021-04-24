@@ -41,7 +41,6 @@ im - a BufferedImage
 image
 
 <a href="https://github.com/autoplot/dev/search?q=blurImage&unscoped_q=blurImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -61,7 +60,6 @@ xaxis0 - the original reference frame x axis
 an AffineTransform that transforms data positioned with xaxis0 and yaxis0 on xaxis1 and yaxis1, or null if no such transform exists.
 
 <a href="https://github.com/autoplot/dev/search?q=calculateAT&unscoped_q=calculateAT">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 calculateAT( DatumRange xaxis0, DatumRange yaxis0, org.das2.graph.DasAxis xaxis1, org.das2.graph.DasAxis yaxis1 ) &rarr; AffineTransform<br>
@@ -87,7 +85,6 @@ lticks - the specification
 null if the string can't be parsed, or the TickVDescriptor
 
 <a href="https://github.com/autoplot/dev/search?q=calculateManualTicks&unscoped_q=calculateManualTicks">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -111,7 +108,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=clipPath&unscoped_q=clipPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -130,7 +126,6 @@ iconColor - the color
 an icon.
 
 <a href="https://github.com/autoplot/dev/search?q=colorIcon&unscoped_q=colorIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -149,7 +144,6 @@ an org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyAxis&unscoped_q=copyAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -168,7 +162,6 @@ an org.das2.graph.DasColorBar
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyColorBar&unscoped_q=copyColorBar">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -197,7 +190,6 @@ an org.das2.graph.DasPlot
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyPlot&unscoped_q=copyPlot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -215,7 +207,6 @@ path - the Path to describe
 String description.
 
 <a href="https://github.com/autoplot/dev/search?q=describe&unscoped_q=describe">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -234,7 +225,6 @@ a string representation of the affine transforms used in DasPlot for
  debugging.
 
 <a href="https://github.com/autoplot/dev/search?q=getATScaleTranslateString&unscoped_q=getATScaleTranslateString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -253,7 +243,6 @@ dcc - the canvas component.
 the converter that converts between strings like "1em" and the font.
 
 <a href="https://github.com/autoplot/dev/search?q=getFontConverter&unscoped_q=getFontConverter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -271,7 +260,6 @@ radius - the radius filter in pixels.
 the ConvolveOp
 
 <a href="https://github.com/autoplot/dev/search?q=getGaussianBlurFilter&unscoped_q=getGaussianBlurFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -292,7 +280,6 @@ xAxis - the x axis.
 the GeneralPath.
 
 <a href="https://github.com/autoplot/dev/search?q=getPath&unscoped_q=getPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPath( org.das2.graph.DasAxis xAxis, org.das2.graph.DasAxis yAxis, QDataSet xds, QDataSet yds, boolean histogram, boolean clip ) &rarr; GeneralPath<br>
@@ -308,7 +295,6 @@ return translucent white color for indicating the application is busy.
 translucent white color
 
 <a href="https://github.com/autoplot/dev/search?q=getRicePaperColor&unscoped_q=getRicePaperColor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -328,7 +314,6 @@ x0 - the first point x
 a double array with two elements [ slope, intercept ].
 
 <a href="https://github.com/autoplot/dev/search?q=getSlopeIntercept&unscoped_q=getSlopeIntercept">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -345,7 +330,6 @@ ds - the dataset
 a plot with a renderer for the dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=guessPlot&unscoped_q=guessPlot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -364,7 +348,6 @@ an org.das2.graph.Renderer
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessRenderer&unscoped_q=guessRenderer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -382,7 +365,6 @@ org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessXAxis&unscoped_q=guessXAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -400,7 +382,6 @@ org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessYAxis&unscoped_q=guessYAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -418,7 +399,6 @@ org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=guessZAxis&unscoped_q=guessZAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -438,7 +418,6 @@ org.das2.datum.DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=invTransformRange&unscoped_q=invTransformRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -458,7 +437,6 @@ a java.awt.geom.Point2D
 
 
 <a href="https://github.com/autoplot/dev/search?q=lineIntersection&unscoped_q=lineIntersection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -478,7 +456,6 @@ p0 - a Point2D
 null or the point along the rectangle
 
 <a href="https://github.com/autoplot/dev/search?q=lineRectangleIntersection&unscoped_q=lineRectangleIntersection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -497,7 +474,6 @@ p0 - the first point
 null when they do not intersect, or the segment
 
 <a href="https://github.com/autoplot/dev/search?q=lineRectangleMask&unscoped_q=lineRectangleMask">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -516,7 +492,6 @@ canvas - the canvas parent for the plot.
 the plot.
 
 <a href="https://github.com/autoplot/dev/search?q=newDasPlot&unscoped_q=newDasPlot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -544,7 +519,6 @@ the length in pixels
 <a href='DasDevicePosition.md#parseLayoutStr'>DasDevicePosition#parseLayoutStr(java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=parseLayoutLength&unscoped_q=parseLayoutLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -566,7 +540,6 @@ line - a line segment.
 line colinear with p and having length abs(len).
 
 <a href="https://github.com/autoplot/dev/search?q=perpendicularLine&unscoped_q=perpendicularLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -589,7 +562,6 @@ it - PathIterator first point is used to start the length.
 the remaining length.  Note null may be used for pathlen, result, and orientation and this will simply return the total path length.
 
 <a href="https://github.com/autoplot/dev/search?q=pointsAlongCurve&unscoped_q=pointsAlongCurve">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -612,7 +584,6 @@ it - A path iterator with minute details that will be lost when rendering.
 the number of "points" (LINE_TOs) in the result.
 
 <a href="https://github.com/autoplot/dev/search?q=reducePath&unscoped_q=reducePath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 reducePath( java.awt.geom.PathIterator it, java.awt.geom.GeneralPath result, int res ) &rarr; int<br>
@@ -636,7 +607,6 @@ it - input path.
 the number of points.
 
 <a href="https://github.com/autoplot/dev/search?q=reducePath20140622&unscoped_q=reducePath20140622">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -655,7 +625,6 @@ line - the line
 the new line
 
 <a href="https://github.com/autoplot/dev/search?q=shortenLine&unscoped_q=shortenLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -675,7 +644,6 @@ a rectangle with same center that is percent/100. of the
  original width and height.
 
 <a href="https://github.com/autoplot/dev/search?q=shrinkRectangle&unscoped_q=shrinkRectangle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -695,7 +663,6 @@ a double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=transformRange&unscoped_q=transformRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -713,6 +680,5 @@ an org.das2.graph.DasPlot
 
 
 <a href="https://github.com/autoplot/dev/search?q=visualize&unscoped_q=visualize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

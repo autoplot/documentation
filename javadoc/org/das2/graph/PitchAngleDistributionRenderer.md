@@ -57,7 +57,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=acceptsData&unscoped_q=acceptsData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,7 +74,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=doAutorange&unscoped_q=doAutorange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -90,7 +88,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getControl&unscoped_q=getControl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +102,6 @@ javax.swing.Icon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getListIcon&unscoped_q=getListIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -120,7 +116,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOrigin&unscoped_q=getOrigin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -134,7 +129,6 @@ true if increasing angle corresponds to clockwise when not mirror.
 true if increasing angle corresponds to clockwise
 
 <a href="https://github.com/autoplot/dev/search?q=isClockwise&unscoped_q=isClockwise">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -149,7 +143,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDrawPolarAxes&unscoped_q=isDrawPolarAxes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -164,7 +157,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isMirror&unscoped_q=isMirror">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -179,7 +171,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isOriginNorth&unscoped_q=isOriginNorth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -199,7 +190,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +207,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setClockwise&unscoped_q=setClockwise">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -235,7 +224,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setColorBar&unscoped_q=setColorBar">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -253,7 +241,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setControl&unscoped_q=setControl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -271,7 +258,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDrawPolarAxes&unscoped_q=setDrawPolarAxes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -289,7 +275,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMirror&unscoped_q=setMirror">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -307,7 +292,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOrigin&unscoped_q=setOrigin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -325,6 +309,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOriginNorth&unscoped_q=setOriginNorth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

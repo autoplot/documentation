@@ -24,7 +24,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=aggregateAll&unscoped_q=aggregateAll">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +43,6 @@ an org.autoplot.dom.Plot[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=bottomAndTopMostPlot&unscoped_q=bottomAndTopMostPlot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +65,6 @@ srcPlot - a Plot
 the new plot
 
 <a href="https://github.com/autoplot/dev/search?q=copyPlot&unscoped_q=copyPlot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -90,7 +87,6 @@ an org.autoplot.dom.Plot
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyPlotAndPlotElements&unscoped_q=copyPlotAndPlotElements">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -111,7 +107,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyPlotElements&unscoped_q=copyPlotElements">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +132,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=fixLayout&unscoped_q=fixLayout">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -159,7 +153,6 @@ an org.autoplot.dom.Column
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOrCreateSelectedColumn&unscoped_q=getOrCreateSelectedColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -181,7 +174,6 @@ an org.autoplot.dom.Row
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOrCreateSelectedRow&unscoped_q=getOrCreateSelectedRow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -201,7 +193,6 @@ dom - a dom
 a list of plots.
 
 <a href="https://github.com/autoplot/dev/search?q=getPlotsFor&unscoped_q=getPlotsFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -220,7 +211,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=newCanvasLayout&unscoped_q=newCanvasLayout">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -240,6 +230,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=swapPosition&unscoped_q=swapPosition">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

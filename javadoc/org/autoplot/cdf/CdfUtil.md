@@ -21,7 +21,6 @@ cdf - a CDFReader
 the dimensions for each record.
 
 <a href="https://github.com/autoplot/dev/search?q=getDimensions&unscoped_q=getDimensions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,7 +39,6 @@ cdf - the cdf reader reference.
 map of parameter name to short description
 
 <a href="https://github.com/autoplot/dev/search?q=getPlottable&unscoped_q=getPlottable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPlottable( gov.nasa.gsfc.spdf.cdfj.CDFReader cdf, boolean dataOnly, int rankLimit, boolean deep, boolean master ) &rarr; Map<br>
@@ -59,7 +57,6 @@ attrs - the properties for the variable
 the range
 
 <a href="https://github.com/autoplot/dev/search?q=getRange&unscoped_q=getRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +74,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getScaleType&unscoped_q=getScaleType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +91,6 @@ type - integer type, such as 44 for CDF_FLOAT
 string like "CDF_FLOAT"
 
 <a href="https://github.com/autoplot/dev/search?q=getStringDataType&unscoped_q=getStringDataType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -114,7 +109,6 @@ cdf - the cdf file reader
 true if the attribute is set for the variable.
 
 <a href="https://github.com/autoplot/dev/search?q=hasAttribute&unscoped_q=hasAttribute">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -133,7 +127,6 @@ ds - the ArrayDataSet, or TrArrayDataSet, or BufferDataSet.
 the approximate memory consumption in bytes
 
 <a href="https://github.com/autoplot/dev/search?q=jvmMemory&unscoped_q=jvmMemory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -153,7 +146,6 @@ cdf - the value of CDF
 the dataset
 
 <a href="https://github.com/autoplot/dev/search?q=loadVariable&unscoped_q=loadVariable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 loadVariable( gov.nasa.gsfc.spdf.cdfj.CDFReader cdf, String svariable, long recStart, long recCount, long recInterval, int slice1, ProgressMonitor mon ) &rarr; MutablePropertyDataSet<br>
@@ -173,7 +165,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeAddValidRange&unscoped_q=maybeAddValidRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -194,7 +185,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybeShorten&unscoped_q=maybeShorten">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***

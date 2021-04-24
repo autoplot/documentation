@@ -16,6 +16,5 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=accept&unscoped_q=accept">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

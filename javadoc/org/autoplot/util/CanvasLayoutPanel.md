@@ -35,7 +35,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addComponentType&unscoped_q=addComponentType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +52,6 @@ x - the x position, 0 is left side of this component.
 DasPlot, DasAxis, etc.
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvasComponentAt&unscoped_q=getCanvasComponentAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +69,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCanvasComponentsWithin&unscoped_q=getCanvasComponentsWithin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +83,6 @@ an Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getComponent&unscoped_q=getComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -100,7 +96,6 @@ get the user-selected components.
 a list containing the components.
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedComponents&unscoped_q=getSelectedComponents">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -118,7 +113,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setComponent&unscoped_q=setComponent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +131,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setContainer&unscoped_q=setContainer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +148,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRectangleSelect&unscoped_q=setRectangleSelect">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,7 +165,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSelectedComponents&unscoped_q=setSelectedComponents">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setSelectedComponents( java.awt.Rectangle r ) &rarr; void<br>

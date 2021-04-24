@@ -38,7 +38,6 @@ true if this dataset can be serialized as a das2.2 stream, false
          otherwise
 
 <a href="https://github.com/autoplot/dev/search?q=canWrite&unscoped_q=canWrite">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,6 +66,5 @@ true if the entire dataset could be written, false otherwise.
          if canWrite() returned true.
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

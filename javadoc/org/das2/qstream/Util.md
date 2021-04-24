@@ -20,7 +20,6 @@ int[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=decodeArray&unscoped_q=decodeArray">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,7 +39,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=encodeArray&unscoped_q=encodeArray">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +56,6 @@ an org.w3c.dom.Element
 
 
 <a href="https://github.com/autoplot/dev/search?q=singletonChildElement&unscoped_q=singletonChildElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -78,6 +75,5 @@ int[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=subArray&unscoped_q=subArray">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -25,7 +25,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addHandlerToAll&unscoped_q=addHandlerToAll">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -42,7 +41,6 @@ void (returns nothing)
 <a href='#resetTimer'>resetTimer()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=clearTimer&unscoped_q=clearTimer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +57,6 @@ id - the name
 the Logger
 
 <a href="https://github.com/autoplot/dev/search?q=getLogger&unscoped_q=getLogger">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -73,7 +70,6 @@ return the list of known loggers.
 the list of known loggers.
 
 <a href="https://github.com/autoplot/dev/search?q=getLoggers&unscoped_q=getLoggers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -87,7 +83,6 @@ return enableTimers property.
 enableTimers property.
 
 <a href="https://github.com/autoplot/dev/search?q=isEnableTimers&unscoped_q=isEnableTimers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +97,6 @@ are we keeping track of log message times, so we can sort loggers by
 true if we are keeping track of log message times.
 
 <a href="https://github.com/autoplot/dev/search?q=isUseTimeTaggingLoggers&unscoped_q=isUseTimeTaggingLoggers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -120,7 +114,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=logExitGuiEvent&unscoped_q=logExitGuiEvent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 logExitGuiEvent( javax.swing.event.ChangeEvent e ) &rarr; void<br>
@@ -141,7 +134,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=logGuiEvent&unscoped_q=logGuiEvent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 logGuiEvent( javax.swing.event.ChangeEvent e ) &rarr; void<br>
@@ -164,7 +156,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=logPropertyChangeEvent&unscoped_q=logPropertyChangeEvent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 logPropertyChangeEvent( java.beans.PropertyChangeEvent e, String source ) &rarr; void<br>
@@ -180,7 +171,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=markTime&unscoped_q=markTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 markTime( String message ) &rarr; void<br>
@@ -203,7 +193,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=readConfiguration&unscoped_q=readConfiguration">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 readConfiguration( String configfile ) &rarr; void<br>
@@ -227,7 +216,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetTimer&unscoped_q=resetTimer">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 resetTimer( String task ) &rarr; void<br>
@@ -248,7 +236,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEnableTimers&unscoped_q=setEnableTimers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -266,7 +253,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTimerLogfile&unscoped_q=setTimerLogfile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -284,6 +270,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUseTimeTaggingLoggers&unscoped_q=setUseTimeTaggingLoggers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -32,6 +32,5 @@ a java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=args&unscoped_q=args">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

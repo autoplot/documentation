@@ -17,7 +17,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=restoreState&unscoped_q=restoreState">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,6 +35,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=saveState&unscoped_q=saveState">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

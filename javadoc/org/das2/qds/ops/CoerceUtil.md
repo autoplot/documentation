@@ -40,7 +40,6 @@ ds1 - the first operand
 an empty dataset where the results can be inserted, or null if createResult is false.
 
 <a href="https://github.com/autoplot/dev/search?q=coerce&unscoped_q=coerce">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +57,6 @@ ds1 - a QDataSet
 returns true if two datasets have the same number of elements in each dimension.
 
 <a href="https://github.com/autoplot/dev/search?q=equalGeom&unscoped_q=equalGeom">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,7 +74,6 @@ ds - a rank 0 dataset
 a dataset with the same geometry as ds2.
 
 <a href="https://github.com/autoplot/dev/search?q=increaseRank0&unscoped_q=increaseRank0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,7 +91,6 @@ ds - a rank 1 dataset to provide values and properties
 a dataset with the same geometry as ds2.
 
 <a href="https://github.com/autoplot/dev/search?q=increaseRank1&unscoped_q=increaseRank1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -112,6 +108,5 @@ ds - a rank 2 dataset to provide values and properties
 a dataset with the same geometry as ds2.
 
 <a href="https://github.com/autoplot/dev/search?q=increaseRank2&unscoped_q=increaseRank2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

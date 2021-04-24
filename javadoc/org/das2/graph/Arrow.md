@@ -25,7 +25,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=paintArrow&unscoped_q=paintArrow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 paintArrow( java.awt.Graphics2D g, java.awt.geom.Point2D head, java.awt.geom.Point2D tail, double headSize, org.das2.graph.Arrow.HeadStyle style ) &rarr; void<br>
@@ -41,6 +40,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

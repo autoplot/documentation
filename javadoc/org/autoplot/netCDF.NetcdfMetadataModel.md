@@ -17,7 +17,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=interpretProps&unscoped_q=interpretProps">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,6 +51,5 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=properties&unscoped_q=properties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

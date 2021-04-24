@@ -71,7 +71,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=canWrite&unscoped_q=canWrite">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,7 +93,6 @@ qds - a QDataSet
 one of "x", "y", "z","w" or null if we can't figure it out.
 
 <a href="https://github.com/autoplot/dev/search?q=getQdsAxis&unscoped_q=getQdsAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,6 +111,5 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

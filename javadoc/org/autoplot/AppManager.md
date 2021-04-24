@@ -20,7 +20,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addApplication&unscoped_q=addApplication">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,7 +40,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addCloseCallback&unscoped_q=addCloseCallback">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +57,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=closeApplication&unscoped_q=closeApplication">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +74,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -92,7 +88,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getApplicationCount&unscoped_q=getApplicationCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +102,6 @@ org.autoplot.AppManager
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -126,7 +120,6 @@ java.awt.event.WindowListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=getWindowListener&unscoped_q=getWindowListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getWindowListener( Object app ) &rarr; WindowListener<br>
@@ -146,7 +139,6 @@ app - an Object
 true if the app is still registered.
 
 <a href="https://github.com/autoplot/dev/search?q=isRunningApplication&unscoped_q=isRunningApplication">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -161,7 +153,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=quit&unscoped_q=quit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 quit( int status ) &rarr; void<br>
@@ -180,7 +171,6 @@ app - the app that is closing.
 true if the callback okays the close.
 
 <a href="https://github.com/autoplot/dev/search?q=requestClose&unscoped_q=requestClose">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -196,6 +186,5 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=requestQuit&unscoped_q=requestQuit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

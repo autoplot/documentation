@@ -30,6 +30,5 @@ args - the "rightmost" elements are the keyword values.
 Py.None
 
 <a href="https://github.com/autoplot/dev/search?q=__call__&unscoped_q=__call__">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

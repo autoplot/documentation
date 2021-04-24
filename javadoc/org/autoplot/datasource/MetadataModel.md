@@ -21,7 +21,6 @@ a javax.swing.tree.TreeModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=copyTree&unscoped_q=copyTree">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,7 +35,6 @@ org.autoplot.datasource.MetadataModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=createNullModel&unscoped_q=createNullModel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -51,7 +49,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabel&unscoped_q=getLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -70,7 +67,6 @@ an Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNode&unscoped_q=getNode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +85,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNodeValue&unscoped_q=getNodeValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getNodeValue( javax.swing.tree.TreeModel tree, java.lang.String[] path ) &rarr; String<br>
@@ -108,6 +103,5 @@ meta - model provided by DataSource
 Map with properties such as QDataSet.TITLE
 
 <a href="https://github.com/autoplot/dev/search?q=properties&unscoped_q=properties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

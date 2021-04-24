@@ -17,7 +17,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=actionPerformed&unscoped_q=actionPerformed">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,6 +34,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDirty&unscoped_q=setDirty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -47,7 +47,6 @@ bds.slice(0).property( QDataSet.LABEL )   // label for the parameter
 rank 1 bundle of N elements, or rank 0 for functions when the function has just one parameter.
 
 <a href="https://github.com/autoplot/dev/search?q=exampleInput&unscoped_q=exampleInput">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +66,6 @@ value( exampleInput() );
 rank 1 bundle of M elements.
 
 <a href="https://github.com/autoplot/dev/search?q=exampleOutput&unscoped_q=exampleOutput">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -88,7 +86,6 @@ parm - rank 1 bundle of N elements, or rank 2 array of such.
 rank 1 bundle of M elements, or rank 2 array of such.
 
 <a href="https://github.com/autoplot/dev/search?q=value&unscoped_q=value">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -109,6 +106,5 @@ parm - rank 2 of C bundles of N elements.  rank 1 parm is acceptable if the exam
 rank 2 of C bundles of M elements, or rank 2 array of such.
 
 <a href="https://github.com/autoplot/dev/search?q=values&unscoped_q=values">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

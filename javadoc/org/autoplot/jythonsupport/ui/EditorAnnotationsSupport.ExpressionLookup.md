@@ -16,6 +16,5 @@ expr - the expression
 the value or null.
 
 <a href="https://github.com/autoplot/dev/search?q=lookup&unscoped_q=lookup">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

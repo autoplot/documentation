@@ -22,7 +22,6 @@ env - environment variables such as PWD and dom.
 the FormData from the initial view, since some clients will not show a GUI when there are no parameters.
 
 <a href="https://github.com/autoplot/dev/search?q=doVariables&unscoped_q=doVariables">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 doVariables( String src, java.util.Map params, javax.swing.JPanel zparamsPanel ) &rarr; FormData<br>
@@ -39,7 +38,6 @@ an org.autoplot.jythonsupport.ui.ParametersFormPanel.FormData
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFormData&unscoped_q=getFormData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=redoVariables&unscoped_q=redoVariables">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,6 +77,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetVariables&unscoped_q=resetVariables">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

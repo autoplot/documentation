@@ -26,7 +26,6 @@ times - list of times to run.  If a time contains a ": ", then the first part is
 0 if any were successful, 10 otherwise.
 
 <a href="https://github.com/autoplot/dev/search?q=doBatch&unscoped_q=doBatch">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 doBatch( java.util.Iterator times, int size, org.autoplot.dom.Application readOnlyDom, org.autoplot.pngwalk.CreatePngWalk.Params params, ProgressMonitor mon ) &rarr; int<br>
@@ -47,7 +46,6 @@ dom - the state from which a pngwalk is to be produced.
 an integer exit code where 0=success, 10=bad time format, 11=caught exception, 12=uncaught exception
 
 <a href="https://github.com/autoplot/dev/search?q=doIt&unscoped_q=doIt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,7 +64,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -87,6 +84,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeHTMLFile&unscoped_q=writeHTMLFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

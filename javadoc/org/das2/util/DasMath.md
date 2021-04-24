@@ -21,7 +21,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=biggerOf&unscoped_q=biggerOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=exp10&unscoped_q=exp10">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 exp10( int x ) &rarr; double<br>
@@ -66,7 +64,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=findex&unscoped_q=findex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 findex( double[] datax, double x, int guess ) &rarr; double<br>
@@ -86,7 +83,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=gcd&unscoped_q=gcd">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +101,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=interpolate&unscoped_q=interpolate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 interpolate( double[] datay, double[] findex ) &rarr; double<br>
@@ -124,7 +119,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=log10&unscoped_q=log10">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +136,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -159,7 +152,6 @@ A - the list
 the maximum of the list
 
 <a href="https://github.com/autoplot/dev/search?q=max&unscoped_q=max">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -179,7 +171,6 @@ A - a double[]
 the mean of the list.
 
 <a href="https://github.com/autoplot/dev/search?q=mean&unscoped_q=mean">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -198,7 +189,6 @@ A - a double[]
 the median of the list
 
 <a href="https://github.com/autoplot/dev/search?q=median&unscoped_q=median">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -215,7 +205,6 @@ A - the list
 the minimum of the list
 
 <a href="https://github.com/autoplot/dev/search?q=min&unscoped_q=min">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -234,7 +223,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=modp&unscoped_q=modp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 modp( int x, int t ) &rarr; int<br>
@@ -254,7 +242,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=roundNFractionalDigits&unscoped_q=roundNFractionalDigits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -273,7 +260,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=roundNSignificantDigits&unscoped_q=roundNSignificantDigits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -291,7 +277,6 @@ A - a double[]
 return a sorted version of the array.
 
 <a href="https://github.com/autoplot/dev/search?q=sort&unscoped_q=sort">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -309,6 +294,5 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=tanh&unscoped_q=tanh">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

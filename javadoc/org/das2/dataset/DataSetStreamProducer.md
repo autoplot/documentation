@@ -19,7 +19,6 @@ Getter for property dataSet.
 Value of property dataSet.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -33,7 +32,6 @@ Getter for property asciiTransferTypes.
 Value of property asciiTransferTypes.
 
 <a href="https://github.com/autoplot/dev/search?q=isAsciiTransferTypes&unscoped_q=isAsciiTransferTypes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ Getter for property compressed.
 Value of property compressed.
 
 <a href="https://github.com/autoplot/dev/search?q=isCompressed&unscoped_q=isCompressed">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,7 +63,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAsciiTransferTypes&unscoped_q=setAsciiTransferTypes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -84,7 +80,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCompressed&unscoped_q=setCompressed">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +97,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -121,7 +115,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeStream&unscoped_q=writeStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 writeStream( java.nio.channels.WritableByteChannel out ) &rarr; void<br>

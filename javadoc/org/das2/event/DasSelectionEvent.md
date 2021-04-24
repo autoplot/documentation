@@ -17,7 +17,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=clearSelection&unscoped_q=clearSelection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ java.awt.Point
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDot&unscoped_q=getDot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDotX&unscoped_q=getDotX">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +59,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDotY&unscoped_q=getDotY">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +73,6 @@ java.awt.Point
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMark&unscoped_q=getMark">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -92,7 +87,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMarkX&unscoped_q=getMarkX">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +101,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMarkY&unscoped_q=getMarkY">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +115,6 @@ org.das2.event.DasSelectionEvent.Type
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectionType&unscoped_q=getSelectionType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +129,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShiftDown&unscoped_q=isShiftDown">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -152,6 +143,5 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=shouldClearSelection&unscoped_q=shouldClearSelection">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -21,7 +21,6 @@ ssuri - a String
 a string of length no more than len characters
 
 <a href="https://github.com/autoplot/dev/search?q=abbreviateForHumanComsumption&unscoped_q=abbreviateForHumanComsumption">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ value - a uri. e.g. /tmp/foo$Y$m$d.dat?timerange=2014-001
 null or the value without the timerange, e.g. /tmp/foo$Y$m$d.dat
 
 <a href="https://github.com/autoplot/dev/search?q=blurTsbResolutionUri&unscoped_q=blurTsbResolutionUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -55,7 +53,6 @@ value - a uri. e.g. /tmp/foo$Y$m$d.dat?timerange=2014-001
 null or the value without the timerange, e.g. /tmp/foo$Y$m$d.dat
 
 <a href="https://github.com/autoplot/dev/search?q=blurTsbUri&unscoped_q=blurTsbUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +71,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkLength&unscoped_q=checkLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +91,6 @@ a File in the FileSystemCache.  The file will have question marks and ampersands
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/DataSetURI/downloadResourceAsTempFile/.md'>DataSetURI.downloadResourceAsTempFile.</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=downloadResourceAsTempFile&unscoped_q=downloadResourceAsTempFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 downloadResourceAsTempFile( java.net.URL url, int timeoutSeconds, ProgressMonitor mon ) &rarr; File<br>
@@ -116,7 +111,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=fromFile&unscoped_q=fromFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +131,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=fromUri&unscoped_q=fromUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +150,6 @@ suri - the uri like http://autoplot.org/data/autoplot.dat
 the cache file, like /home/jbf/autoplot_data/fscache/http/autoplot.org/data/autoplot.dat
 
 <a href="https://github.com/autoplot/dev/search?q=getCacheFilename&unscoped_q=getCacheFilename">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -178,7 +170,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCompletions&unscoped_q=getCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -195,7 +186,6 @@ uri - the URI.
 the data source from which the data set can be retrieved.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getDataSource( String suri ) &rarr; DataSource<br>
@@ -215,7 +205,6 @@ uri - the URI of the data source.
 the factory that produces the data source.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFactory&unscoped_q=getDataSourceFactory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -232,7 +221,6 @@ uri - the URI describing the output format and any arguments.
 the DataSourceFormat that formats a dataset to the format.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFormat&unscoped_q=getDataSourceFormat">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -254,7 +242,6 @@ ds - the data source.
 the canonical URI.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceUri&unscoped_q=getDataSourceUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -272,7 +259,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDiscoverableExtensions&unscoped_q=getDiscoverableExtensions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -289,7 +275,6 @@ surl - a String
 null or an extension like "tsds"
 
 <a href="https://github.com/autoplot/dev/search?q=getExplicitExt&unscoped_q=getExplicitExt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -312,7 +297,6 @@ surl - a String
 the extension found, without the ".", or null if no period is found in the filename.
 
 <a href="https://github.com/autoplot/dev/search?q=getExt&unscoped_q=getExt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -332,7 +316,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFactoryCompletions&unscoped_q=getFactoryCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -357,7 +340,6 @@ the File
 <a href='#getFile'>getFile(java.lang.String, boolean, org.das2.util.monitor.ProgressMonitor)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getFile&unscoped_q=getFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getFile( String suri, boolean allowHtml, ProgressMonitor mon ) &rarr; File<br>
@@ -381,7 +363,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFileSystemAggCompletions&unscoped_q=getFileSystemAggCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -405,7 +386,6 @@ surl - http://sarahandjeremy.net/
 possibly immutable list.
 
 <a href="https://github.com/autoplot/dev/search?q=getFileSystemCacheCompletions&unscoped_q=getFileSystemCacheCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -428,7 +408,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFileSystemCompletions&unscoped_q=getFileSystemCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getFileSystemCompletions( String surl, int carotpos, boolean inclAgg, java.util.List inclFiles, String acceptPattern, ProgressMonitor mon ) &rarr; List<br>
@@ -448,7 +427,6 @@ surl - a String
 possibly immutable list.
 
 <a href="https://github.com/autoplot/dev/search?q=getHostCompletions&unscoped_q=getHostCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -468,7 +446,6 @@ a java.io.File
 
 
 <a href="https://github.com/autoplot/dev/search?q=getHtmlFile&unscoped_q=getHtmlFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -486,7 +463,6 @@ url - URL like http://autoplot.org/data/autoplot.dat
 the InputStream, which must be closed by the client. TODO: check usages...
 
 <a href="https://github.com/autoplot/dev/search?q=getInputStream&unscoped_q=getInputStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getInputStream( java.net.URI uri, ProgressMonitor mon ) &rarr; InputStream<br>
@@ -505,7 +481,6 @@ uri - an URI
 the URI for the datasource resource, or null if it is not valid.
 
 <a href="https://github.com/autoplot/dev/search?q=getResourceURI&unscoped_q=getResourceURI">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getResourceURI( String surl ) &rarr; URI<br>
@@ -521,7 +496,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSortedDiscoverableExtentions&unscoped_q=getSortedDiscoverableExtentions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -541,7 +515,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTypesCompletions&unscoped_q=getTypesCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -562,7 +535,6 @@ surl - the string from the user that should be representable as a URI.
 the URI or null if it's clearly not a URI.
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -584,7 +556,6 @@ a java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURIValid&unscoped_q=getURIValid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -602,7 +573,6 @@ surl - the string from the user that should be representable as a URI.
 null or the URL if available.
 
 <a href="https://github.com/autoplot/dev/search?q=getURL&unscoped_q=getURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -621,7 +591,6 @@ uri - An Autoplot URI.
 a URL that can be downloaded, or null if it is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=getWebURL&unscoped_q=getWebURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -636,7 +605,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=init&unscoped_q=init">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -660,7 +628,6 @@ a boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAggregating&unscoped_q=isAggregating">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -678,7 +645,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -701,7 +667,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=maybePlusToSpace&unscoped_q=maybePlusToSpace">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -719,7 +684,6 @@ value - a String
 the URI with a new time.
 
 <a href="https://github.com/autoplot/dev/search?q=resetUriTsbTime&unscoped_q=resetUriTsbTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -743,7 +707,6 @@ a java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=toUri&unscoped_q=toUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -761,6 +724,5 @@ resourceURI - resource URI like "file://tmp/data$Y$m$d.dat"
 the strings resolved.
 
 <a href="https://github.com/autoplot/dev/search?q=unaggregate&unscoped_q=unaggregate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

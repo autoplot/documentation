@@ -27,7 +27,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=canFormat&unscoped_q=canFormat">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +46,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatData&unscoped_q=formatData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -73,7 +71,6 @@ rank 3, [rows;columns;r,g,b] dataset.
 <a href='#fromRGBtoHSV'>fromRGBtoHSV(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=fromHSVtoRGB&unscoped_q=fromHSVtoRGB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +95,6 @@ hsv array [h,w,3]
 <a href='#fromHSVtoRGB'>fromHSVtoRGB(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=fromRGBtoHSV&unscoped_q=fromRGBtoHSV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,6 +109,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDescription&unscoped_q=getDescription">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

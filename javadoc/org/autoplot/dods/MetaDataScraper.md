@@ -26,7 +26,6 @@ varName - the variable name
 the attributes
 
 <a href="https://github.com/autoplot/dev/search?q=getAttr&unscoped_q=getAttr">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +43,6 @@ int[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRecDims&unscoped_q=getRecDims">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -68,6 +66,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseURL&unscoped_q=parseURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -18,7 +18,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=close&unscoped_q=close">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ return the bits per second.
 the bits per second.
 
 <a href="https://github.com/autoplot/dev/search?q=getBitsPerSecond&unscoped_q=getBitsPerSecond">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,7 +44,6 @@ return time delay to the first byte sent.
 time delay to the first byte sent.
 
 <a href="https://github.com/autoplot/dev/search?q=getFirstByteMilli&unscoped_q=getFirstByteMilli">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +57,6 @@ return the maximum time elapsed between write calls, in milliseconds.
 the maximum time elapsed between write calls, in milliseconds.
 
 <a href="https://github.com/autoplot/dev/search?q=getMaxIdleTime&unscoped_q=getMaxIdleTime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +70,6 @@ return all the stats at once.
 all the stats at once.
 
 <a href="https://github.com/autoplot/dev/search?q=getStatsOneLine&unscoped_q=getStatsOneLine">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -88,7 +83,6 @@ return the maximum time elapsed between write calls, in milliseconds.
 the maximum time elapsed between write calls, in milliseconds.
 
 <a href="https://github.com/autoplot/dev/search?q=getTotalBytes&unscoped_q=getTotalBytes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -106,7 +100,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 write( byte[] b, int off, int len ) &rarr; void<br>

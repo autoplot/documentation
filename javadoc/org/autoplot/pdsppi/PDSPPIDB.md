@@ -32,7 +32,6 @@ uri - a String
 the aggregation URI or null.
 
 <a href="https://github.com/autoplot/dev/search?q=checkTimeSeriesBrowse&unscoped_q=checkTimeSeriesBrowse">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +46,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getIds&unscoped_q=getIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getIds( java.util.regex.Pattern p ) &rarr; List<br>
@@ -64,7 +62,6 @@ org.autoplot.pdsppi.PDSPPIDB
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +80,6 @@ id - a String
 Map label->title of the params.
 
 <a href="https://github.com/autoplot/dev/search?q=getParams&unscoped_q=getParams">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +94,6 @@ a java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSpacecraft&unscoped_q=getSpacecraft">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -115,7 +110,6 @@ ds - name from their filesystem that ends with .lbl, .tab, etc.
 true if the id appears to be plottable.
 
 <a href="https://github.com/autoplot/dev/search?q=isPlottable&unscoped_q=isPlottable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -133,7 +127,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -151,6 +144,5 @@ root - like PPI/CO-E/J/S/SW-CAPS-5-DDR-ELE-MOMENTS-V1.0/
 result like PPI/CO-E_J_S_SW-CAPS-5-DDR-ELE-MOMENTS-V1.0
 
 <a href="https://github.com/autoplot/dev/search?q=removeExtraSlashes&unscoped_q=removeExtraSlashes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

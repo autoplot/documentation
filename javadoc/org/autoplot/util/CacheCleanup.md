@@ -16,7 +16,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=deleteOldVersions&unscoped_q=deleteOldVersions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -31,7 +30,6 @@ find aggregations within the user's history.  This currently looks for $Y, but a
 list of aggregations.
 
 <a href="https://github.com/autoplot/dev/search?q=findAggs&unscoped_q=findAggs">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -46,6 +44,5 @@ Return an array of files where newer versions prevent the older from being used.
 an array of files where newer versions prevent the older from being used.
 
 <a href="https://github.com/autoplot/dev/search?q=findOldVersions&unscoped_q=findOldVersions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -20,7 +20,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getColumnHeaders&unscoped_q=getColumnHeaders">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getColumnHeaders( CsvReader reader, boolean returnData ) &rarr; String<br>
@@ -40,7 +39,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCompletions&unscoped_q=getCompletions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,6 +56,5 @@ org.autoplot.datasource.DataSource
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -21,6 +21,5 @@ s - a GPS coordinate with degrees minutes and seconds
 decimal version of string
 
 <a href="https://github.com/autoplot/dev/search?q=parseGPSString&unscoped_q=parseGPSString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

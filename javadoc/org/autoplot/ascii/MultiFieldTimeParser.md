@@ -24,6 +24,5 @@ field - the contents of the field.
 0 or the value for the time unit if it's the last field.
 
 <a href="https://github.com/autoplot/dev/search?q=parseField&unscoped_q=parseField">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

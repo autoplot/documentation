@@ -17,6 +17,5 @@ f - a file.
 boolean, to be interpreted by another code.
 
 <a href="https://github.com/autoplot/dev/search?q=check&unscoped_q=check">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -20,7 +20,6 @@ an Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceEditorByExt&unscoped_q=getDataSourceEditorByExt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSourceFormatEditorByExt&unscoped_q=getDataSourceFormatEditorByExt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,7 +55,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDescriptionFor&unscoped_q=getDescriptionFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +71,6 @@ extension - the extension, e.g. .cdf
 the formatter found for this extension.
 
 <a href="https://github.com/autoplot/dev/search?q=getFormatByExt&unscoped_q=getFormatByExt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -88,7 +84,6 @@ return a list of registered extensions the can format.  These will contain the d
 a list of registered extensions.
 
 <a href="https://github.com/autoplot/dev/search?q=getFormatterExtensions&unscoped_q=getFormatterExtensions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +97,6 @@ get the single instance of this class.
 the single instance of this class.
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -119,7 +113,6 @@ o - the class name, e.g. org.autoplot.netCDF.HDF5DataSourceFormatEditorPanel
 an instance of the class.
 
 <a href="https://github.com/autoplot/dev/search?q=getInstanceFromClassName&unscoped_q=getInstanceFromClassName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -134,7 +127,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlugins&unscoped_q=getPlugins">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -149,7 +141,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPluginsText&unscoped_q=getPluginsText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -167,7 +158,6 @@ extension - the extension, (e.g. ".cdf" or "/tmp/myfile.cdf")
 the DataSourceFactory which will create the reader.
 
 <a href="https://github.com/autoplot/dev/search?q=getSource&unscoped_q=getSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -185,7 +175,6 @@ org.autoplot.datasource.DataSourceFactory
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSourceByMime&unscoped_q=getSourceByMime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -199,7 +188,6 @@ return a list of registered extensions.  These will contain the dot prefix.
 a list of registered extensions.
 
 <a href="https://github.com/autoplot/dev/search?q=getSourceEditorExtensions&unscoped_q=getSourceEditorExtensions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -213,7 +201,6 @@ return a list of registered extensions.  These will contain the dot prefix.
 a list of registered extensions.
 
 <a href="https://github.com/autoplot/dev/search?q=getSourceExtensions&unscoped_q=getSourceExtensions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -234,7 +221,6 @@ vapScheme - a String
 true if the order of parameters matters.
 
 <a href="https://github.com/autoplot/dev/search?q=hasParamOrder&unscoped_q=hasParamOrder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -252,7 +238,6 @@ vapScheme - the scheme part of the Autoplot URI, or a URI.
 true if the vapScheme needs a URL.
 
 <a href="https://github.com/autoplot/dev/search?q=hasResourceUri&unscoped_q=hasResourceUri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -269,7 +254,6 @@ ext - a String
 if the source is registered.
 
 <a href="https://github.com/autoplot/dev/search?q=hasSourceByExt&unscoped_q=hasSourceByExt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -287,7 +271,6 @@ mime - a String
 true if the source is registered by mime type.
 
 <a href="https://github.com/autoplot/dev/search?q=hasSourceByMime&unscoped_q=hasSourceByMime">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -306,7 +289,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=register&unscoped_q=register">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 register( org.autoplot.datasource.DataSourceFactory factory, String extension, String mime ) &rarr; void<br>
@@ -329,7 +311,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerDataSourceJar&unscoped_q=registerDataSourceJar">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -348,7 +329,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerEditor&unscoped_q=registerEditor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -370,7 +350,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerExtension&unscoped_q=registerExtension">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -390,7 +369,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerFormatEditor&unscoped_q=registerFormatEditor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -411,7 +389,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerFormatter&unscoped_q=registerFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -430,6 +407,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerMimeType&unscoped_q=registerMimeType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

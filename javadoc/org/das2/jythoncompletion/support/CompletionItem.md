@@ -16,7 +16,6 @@ org.das2.jythoncompletion.support.CompletionTask
 
 
 <a href="https://github.com/autoplot/dev/search?q=createDocumentationTask&unscoped_q=createDocumentationTask">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ org.das2.jythoncompletion.support.CompletionTask
 
 
 <a href="https://github.com/autoplot/dev/search?q=createToolTipTask&unscoped_q=createToolTipTask">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +51,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=defaultAction&unscoped_q=defaultAction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +80,6 @@ non-null character sequence containing the insert prefix.
   as the longest common prefix will be empty.
 
 <a href="https://github.com/autoplot/dev/search?q=getInsertPrefix&unscoped_q=getInsertPrefix">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +101,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferredWidth&unscoped_q=getPreferredWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -121,7 +116,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSortPriority&unscoped_q=getSortPriority">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -136,7 +130,6 @@ java.lang.CharSequence
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSortText&unscoped_q=getSortText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -165,7 +158,6 @@ component - non-null text component for which the completion was invoked.
   for this item and the completion item should normally be displayed.
 
 <a href="https://github.com/autoplot/dev/search?q=instantSubstitution&unscoped_q=instantSubstitution">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -189,7 +181,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=processKeyEvent&unscoped_q=processKeyEvent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -214,6 +205,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=render&unscoped_q=render">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

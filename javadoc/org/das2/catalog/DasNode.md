@@ -14,7 +14,6 @@ Return the highest node reachable by this catalog node.
 the highest node reachable by this catalog node, which may just be itself.
 
 <a href="https://github.com/autoplot/dev/search?q=getRoot&unscoped_q=getRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -29,7 +28,6 @@ true if this node can have child nodes, not that it necessarily
           contains any.
 
 <a href="https://github.com/autoplot/dev/search?q=isDir&unscoped_q=isDir">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +42,6 @@ true if this node in the catalog provides a description of a mission,
          spacecraft, instrument, person or any other item category
 
 <a href="https://github.com/autoplot/dev/search?q=isInfo&unscoped_q=isInfo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,7 +55,6 @@ Does this node have a full definition
 True if this node successfully passed the second construction stage.
 
 <a href="https://github.com/autoplot/dev/search?q=isLoaded&unscoped_q=isLoaded">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,7 +71,6 @@ Is this object a detached root of a catalog tree.
 true if no higher node is reachable from this one.
 
 <a href="https://github.com/autoplot/dev/search?q=isRoot&unscoped_q=isRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +84,6 @@ Can this catalog node provide data
 true if this node describes one or more data sources
 
 <a href="https://github.com/autoplot/dev/search?q=isSrc&unscoped_q=isSrc">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -115,7 +109,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=load&unscoped_q=load">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -129,7 +122,6 @@ get the node name
 The human readable name of the node, not it's path ID
 
 <a href="https://github.com/autoplot/dev/search?q=name&unscoped_q=name">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -143,7 +135,6 @@ get the node path
 The catalog path to this node.  For root nodes this is null
 
 <a href="https://github.com/autoplot/dev/search?q=path&unscoped_q=path">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -182,7 +173,6 @@ A DasProp. If load has not been called for this node, the return will
          always be the default.
 
 <a href="https://github.com/autoplot/dev/search?q=prop&unscoped_q=prop">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 prop( String sFragment ) &rarr; DasProp<br>
@@ -197,7 +187,6 @@ A summary of the node
 A short string describing the node, not an info dump of the contents
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -211,6 +200,5 @@ Get the node type.
 A string representing the node type
 
 <a href="https://github.com/autoplot/dev/search?q=type&unscoped_q=type">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

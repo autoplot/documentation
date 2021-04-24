@@ -25,7 +25,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isAdjusting&unscoped_q=isAdjusting">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -43,7 +42,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=paint&unscoped_q=paint">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -61,6 +59,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAdjusting&unscoped_q=setAdjusting">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

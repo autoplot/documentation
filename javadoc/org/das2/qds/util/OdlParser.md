@@ -21,6 +21,5 @@ r - reader for the file which starts with ODL.  The reader will be left pointing
 the ODL header.
 
 <a href="https://github.com/autoplot/dev/search?q=readOdl&unscoped_q=readOdl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

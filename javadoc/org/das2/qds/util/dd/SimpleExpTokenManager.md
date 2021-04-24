@@ -41,7 +41,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=ReInit&unscoped_q=ReInit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ReInit( org.das2.qds.util.dd.SimpleCharStream stream, int lexState ) &rarr; void<br>
@@ -60,7 +59,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=SwitchTo&unscoped_q=SwitchTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,7 +73,6 @@ org.das2.qds.util.dd.Token
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNextToken&unscoped_q=getNextToken">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -93,6 +90,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDebugStream&unscoped_q=setDebugStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

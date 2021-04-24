@@ -79,7 +79,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,7 +93,6 @@ org.autoplot.bookmarks.Bookmark
 
 
 <a href="https://github.com/autoplot/dev/search?q=copy&unscoped_q=copy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -114,7 +112,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatBookmark&unscoped_q=formatBookmark">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 formatBookmark( org.autoplot.bookmarks.Bookmark bookmark ) &rarr; String<br>
@@ -133,7 +130,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatBooks&unscoped_q=formatBooks">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 formatBooks( java.io.OutputStream out, java.util.List bookmarks ) &rarr; void<br>
@@ -152,7 +148,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatBooksOld&unscoped_q=formatBooksOld">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -167,7 +162,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDescription&unscoped_q=getDescription">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -182,7 +176,6 @@ a java.net.URL
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDescriptionUrl&unscoped_q=getDescriptionUrl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -197,7 +190,6 @@ javax.swing.ImageIcon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getIcon&unscoped_q=getIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -212,7 +204,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getId&unscoped_q=getId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -227,7 +218,6 @@ org.autoplot.bookmarks.Bookmark.Folder
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParent&unscoped_q=getParent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -242,7 +232,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTitle&unscoped_q=getTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -257,7 +246,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isHidden&unscoped_q=isHidden">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -275,7 +263,6 @@ an org.autoplot.bookmarks.Bookmark
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseBookmark&unscoped_q=parseBookmark">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 parseBookmark( org.w3c.dom.Node element, String vers, int remoteLevel ) &rarr; Bookmark<br>
@@ -294,7 +281,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseBookmarks&unscoped_q=parseBookmarks">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 parseBookmarks( String data, int depth ) &rarr; List<br>
@@ -317,7 +303,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -335,7 +320,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDescription&unscoped_q=setDescription">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -353,7 +337,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDescriptionUrl&unscoped_q=setDescriptionUrl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -371,7 +354,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHidden&unscoped_q=setHidden">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -389,7 +371,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setIcon&unscoped_q=setIcon">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -407,7 +388,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setId&unscoped_q=setId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -425,7 +405,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setParent&unscoped_q=setParent">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -443,7 +422,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTitle&unscoped_q=setTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -458,6 +436,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

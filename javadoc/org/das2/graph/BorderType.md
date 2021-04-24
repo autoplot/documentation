@@ -35,7 +35,6 @@ org.das2.graph.BorderType
 
 
 <a href="https://github.com/autoplot/dev/search?q=valueOf&unscoped_q=valueOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,6 +49,5 @@ org.das2.graph.BorderType[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=values&unscoped_q=values">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

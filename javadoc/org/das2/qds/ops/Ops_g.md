@@ -14,7 +14,6 @@ a double
 
 
 <a href="https://github.com/autoplot/dev/search?q=gamma&unscoped_q=gamma">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 gamma( Object n ) &rarr; QDataSet<br>
@@ -34,7 +33,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=ge&unscoped_q=ge">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ge( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -54,7 +52,6 @@ ds - the dataset
 the property or null (None) if the dataset doesn't have the property.
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getProperty( QDataSet ds, String propertyName, java.lang.Class clazz ) &rarr; Object<br>
@@ -78,7 +75,6 @@ arg0 - an array, or array of arrays, or array of array of arrays, etc.
 the n dimensions of each index of the array.
 
 <a href="https://github.com/autoplot/dev/search?q=getQubeDimsForArray&unscoped_q=getQubeDimsForArray">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -97,7 +93,6 @@ ds1 - a QDataSet
 the bigger of the two, in the units of ds1.
 
 <a href="https://github.com/autoplot/dev/search?q=greaterOf&unscoped_q=greaterOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 greaterOf( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -119,7 +114,6 @@ rank 2 table.
 <a href='Ops_f.md#flatten'>flatten(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=grid&unscoped_q=grid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +136,6 @@ t - the rank 1 x values (often time)
 the rank 2 spectrogram.
 
 <a href="https://github.com/autoplot/dev/search?q=gridIrregularY&unscoped_q=gridIrregularY">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -161,7 +154,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=gt&unscoped_q=gt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 gt( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -179,7 +171,6 @@ ds - the dataset
 the human-readable label.
 
 <a href="https://github.com/autoplot/dev/search?q=guessLabel&unscoped_q=guessLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 guessLabel( QDataSet ds, String deft ) &rarr; String<br>
@@ -198,7 +189,6 @@ ds - the dataset
 the name or null if there is no NAME or LABEL
 
 <a href="https://github.com/autoplot/dev/search?q=guessName&unscoped_q=guessName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 guessName( QDataSet ds, String deft ) &rarr; String<br>

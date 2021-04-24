@@ -22,7 +22,6 @@ return the result A, the intercept, of the fit y = A + B * x
 the result A of the fit y = A + B * x
 
 <a href="https://github.com/autoplot/dev/search?q=getA&unscoped_q=getA">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -36,7 +35,6 @@ return the result B, the slope, of the fit y = A + B * x
 the result B of the fit y = A + B * x
 
 <a href="https://github.com/autoplot/dev/search?q=getB&unscoped_q=getB">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,7 +48,6 @@ return the Chi-Squared result from the fit.
 the Chi-Squared result from the fit.
 
 <a href="https://github.com/autoplot/dev/search?q=getChi2&unscoped_q=getChi2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +62,6 @@ a Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getIntercept&unscoped_q=getIntercept">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +76,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getQ&unscoped_q=getQ">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +90,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSiga&unscoped_q=getSiga">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -110,7 +104,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSigb&unscoped_q=getSigb">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -125,6 +118,5 @@ return the slope (B of linear fit equation) as a datum with units of Yunits/Xuni
 the slope as a Datum with units.
 
 <a href="https://github.com/autoplot/dev/search?q=getSlope&unscoped_q=getSlope">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -54,7 +54,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addConsoleListener&unscoped_q=addConsoleListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,7 +75,6 @@ create a handler that listens for log messages.  This handler is added
 handler for receiving messages.
 
 <a href="https://github.com/autoplot/dev/search?q=getHandler&unscoped_q=getHandler">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -91,7 +89,6 @@ java.util.logging.Level
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLogStatus&unscoped_q=getLogStatus">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -106,7 +103,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getScriptContext&unscoped_q=getScriptContext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -121,7 +117,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSearchText&unscoped_q=getSearchText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -136,7 +131,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowOnlyHighlited&unscoped_q=isShowOnlyHighlited">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -156,7 +150,6 @@ void (returns nothing)
 <a href='turnOffConsoleHandlers.md'>turnOffConsoleHandlers</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=logConsoleMessages&unscoped_q=logConsoleMessages">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -174,7 +167,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLevel&unscoped_q=setLevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -192,7 +184,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setScriptContext&unscoped_q=setScriptContext">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -210,7 +201,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSearchText&unscoped_q=setSearchText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -228,7 +218,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowLevel&unscoped_q=setShowLevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -246,7 +235,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowLoggerId&unscoped_q=setShowLoggerId">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -264,7 +252,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowOnlyHighlited&unscoped_q=setShowOnlyHighlited">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -282,7 +269,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowThreads&unscoped_q=setShowThreads">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -300,7 +286,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowTimeStamps&unscoped_q=setShowTimeStamps">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -318,7 +303,6 @@ void (returns nothing)
 <a href='logConsoleMessages.md'>logConsoleMessages</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=turnOffConsoleHandlers&unscoped_q=turnOffConsoleHandlers">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -333,7 +317,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=undoLogConsoleMessages&unscoped_q=undoLogConsoleMessages">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -350,6 +333,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

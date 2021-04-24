@@ -17,7 +17,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getX&unscoped_q=getX">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getY&unscoped_q=getY">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -51,7 +49,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=set&unscoped_q=set">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -66,6 +63,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

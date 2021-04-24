@@ -14,7 +14,6 @@ org.das2.datum.format.DatumFormatter
 
 
 <a href="https://github.com/autoplot/dev/search?q=defaultFormatter&unscoped_q=defaultFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -29,7 +28,6 @@ org.das2.datum.format.EnumerationDatumFormatterFactory
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,6 +45,5 @@ org.das2.datum.format.DatumFormatter
 
 
 <a href="https://github.com/autoplot/dev/search?q=newFormatter&unscoped_q=newFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -20,7 +20,6 @@ org.das2.jythoncompletion.support.CompletionResultSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=createCompletionResultSet&unscoped_q=createCompletionResultSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -35,7 +34,6 @@ org.das2.jythoncompletion.ui.CompletionSpiPackageAccessor
 
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -54,6 +52,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=register&unscoped_q=register">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

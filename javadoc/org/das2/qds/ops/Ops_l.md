@@ -24,7 +24,6 @@ labels - array of string labels
 rank 1 QDataSet
 
 <a href="https://github.com/autoplot/dev/search?q=labelsDataset&unscoped_q=labelsDataset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 labelsDataset( java.lang.String[] labels ) &rarr; QDataSet<br>
@@ -46,7 +45,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=le&unscoped_q=le">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 le( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -66,7 +64,6 @@ ds1 - a QDataSet
 the smaller of the two, in the units of ds1.
 
 <a href="https://github.com/autoplot/dev/search?q=lesserOf&unscoped_q=lesserOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 lesserOf( Object ds1, Object ds2 ) &rarr; QDataSet<br>
@@ -92,7 +89,6 @@ x - rank 1 dataset
 rank 1 dataset with DEPEND_0 set to x.
 
 <a href="https://github.com/autoplot/dev/search?q=link&unscoped_q=link">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 link( QDataSet x, QDataSet y, QDataSet z ) &rarr; QDataSet<br>
@@ -118,7 +114,6 @@ min - double
 rank 1 dataset of linearly spaced data.
 
 <a href="https://github.com/autoplot/dev/search?q=linspace&unscoped_q=linspace">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 linspace( Object omin, Object omax, int len0 ) &rarr; QDataSet<br>
@@ -137,7 +132,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=log&unscoped_q=log">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 log( double ds1 ) &rarr; double<br>
@@ -157,7 +151,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=log10&unscoped_q=log10">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 log10( double ds1 ) &rarr; double<br>
@@ -179,7 +172,6 @@ min - double
 rank 1 dataset of logarithmically spaced data.
 
 <a href="https://github.com/autoplot/dev/search?q=logspace&unscoped_q=logspace">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 logspace( Object omin, Object omax, int len0 ) &rarr; QDataSet<br>
@@ -201,7 +193,6 @@ rank 1 dataset filled with zeros.
 <a href='Ops_d.md#dblarr'>dblarr(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=lonarr&unscoped_q=lonarr">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 lonarr( int len0, int len1 ) &rarr; QDataSet<br>
@@ -221,7 +212,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=lt&unscoped_q=lt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 lt( Object ds1, Object ds2 ) &rarr; QDataSet<br>

@@ -21,7 +21,6 @@ byte[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=advanceTo&unscoped_q=advanceTo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,7 +39,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=formatHeader&unscoped_q=formatHeader">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +57,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=readStream&unscoped_q=readStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -81,7 +78,6 @@ byte[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=readXML&unscoped_q=readXML">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 readXML( java.nio.ByteBuffer input ) &rarr; ByteBuffer<br>

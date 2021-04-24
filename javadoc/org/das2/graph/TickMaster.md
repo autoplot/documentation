@@ -23,7 +23,6 @@ org.das2.graph.TickMaster
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -43,7 +42,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=offerTickV&unscoped_q=offerTickV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -61,7 +59,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=register&unscoped_q=register">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,6 +77,5 @@ an org.das2.graph.TickVDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=requestTickV&unscoped_q=requestTickV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

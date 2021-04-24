@@ -30,7 +30,6 @@ root - the root
 the filesystem.
 
 <a href="https://github.com/autoplot/dev/search?q=createGitHubFileSystem&unscoped_q=createGitHubFileSystem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createGitHubFileSystem( java.net.URI root, int baseOffset ) &rarr; GitHubFileSystem<br>
@@ -50,7 +49,6 @@ root - an URI
 the directory containing the resource.
 
 <a href="https://github.com/autoplot/dev/search?q=getLocalRoot&unscoped_q=getLocalRoot">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -68,7 +66,6 @@ java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURI&unscoped_q=getURI">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +83,6 @@ a java.net.URL
 
 
 <a href="https://github.com/autoplot/dev/search?q=getURL&unscoped_q=getURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +101,6 @@ a java.net.URL
 
 
 <a href="https://github.com/autoplot/dev/search?q=gitHubMapDir&unscoped_q=gitHubMapDir">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,7 +132,6 @@ Translate:<pre>%{code
  </pre>
 
 <a href="https://github.com/autoplot/dev/search?q=gitHubMapFile&unscoped_q=gitHubMapFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +149,6 @@ h - the host
 null if it is not a GitHub filesystem, or the initial path otherwise
 
 <a href="https://github.com/autoplot/dev/search?q=isGithubFileSystem&unscoped_q=isGithubFileSystem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -173,7 +166,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=listDirectory&unscoped_q=listDirectory">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -194,7 +186,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=strjoin&unscoped_q=strjoin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -209,6 +200,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

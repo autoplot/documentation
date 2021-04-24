@@ -21,7 +21,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 append( java.lang.StringBuffer sb, java.lang.CharSequence text, int start, int end ) &rarr; void<br>
@@ -40,7 +39,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkIndexNonNegative&unscoped_q=checkIndexNonNegative">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +57,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkIndexValid&unscoped_q=checkIndexValid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +77,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=checkIndexesValid&unscoped_q=checkIndexesValid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -100,7 +96,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=debugChar&unscoped_q=debugChar">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 debugChar( java.lang.StringBuilder sb, char ch ) &rarr; void<br>
@@ -122,7 +117,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=debugText&unscoped_q=debugText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 debugText( java.lang.StringBuilder sb, java.lang.CharSequence text ) &rarr; void<br>
@@ -143,7 +137,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=endsWith&unscoped_q=endsWith">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -166,7 +159,6 @@ true if both parameters are null or both are non-null
   and they contain the same text.
 
 <a href="https://github.com/autoplot/dev/search?q=equals&unscoped_q=equals">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -185,7 +177,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=indexOf&unscoped_q=indexOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 indexOf( java.lang.CharSequence text, int ch, int fromIndex ) &rarr; int<br>
@@ -207,7 +198,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=lastIndexOf&unscoped_q=lastIndexOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 lastIndexOf( java.lang.CharSequence text, java.lang.CharSequence seq, int fromIndex ) &rarr; int<br>
@@ -229,7 +219,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=startsWith&unscoped_q=startsWith">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -246,7 +235,6 @@ text - character sequence for which the hashcode is being computed.
 hashcode of the given character sequence.
 
 <a href="https://github.com/autoplot/dev/search?q=stringLikeHashCode&unscoped_q=stringLikeHashCode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -270,7 +258,6 @@ text1 - first character sequence being compared.
 true if both parameters are equal in String-like manner.
 
 <a href="https://github.com/autoplot/dev/search?q=textEquals&unscoped_q=textEquals">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -293,7 +280,6 @@ text - character sequence for which the <code>String</code> form
 string representation of the character sequence.
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 toString( java.lang.CharSequence text, int start, int end ) &rarr; String<br>
@@ -312,6 +298,5 @@ java.lang.CharSequence
 
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

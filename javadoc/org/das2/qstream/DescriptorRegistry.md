@@ -20,7 +20,6 @@ s - the tag name
 the factory
 
 <a href="https://github.com/autoplot/dev/search?q=get&unscoped_q=get">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,6 +38,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=register&unscoped_q=register">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

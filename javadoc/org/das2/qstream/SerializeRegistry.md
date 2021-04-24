@@ -20,7 +20,6 @@ an org.das2.qstream.SerializeDelegate
 
 
 <a href="https://github.com/autoplot/dev/search?q=getByName&unscoped_q=getByName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -37,7 +36,6 @@ clas - the class
 the delegate which can be used to format and parse the class
 
 <a href="https://github.com/autoplot/dev/search?q=getDelegate&unscoped_q=getDelegate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,6 +57,5 @@ void (returns nothing)
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/autoplot/state/SerializeUtil in the Autoplot project/.md'>org.autoplot.state.SerializeUtil in the Autoplot project.</a> in the Autoplot project.<br>
 
 <a href="https://github.com/autoplot/dev/search?q=register&unscoped_q=register">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

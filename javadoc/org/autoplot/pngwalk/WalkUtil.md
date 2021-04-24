@@ -20,7 +20,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=fileExists&unscoped_q=fileExists">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -42,7 +41,6 @@ surl - an Autoplot URI with an aggregation specifier.
 a list of URIs without the aggregation specifier.
 
 <a href="https://github.com/autoplot/dev/search?q=getFilesFor&unscoped_q=getFilesFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,6 +60,5 @@ a java.awt.image.BufferedImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=resizeImage&unscoped_q=resizeImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

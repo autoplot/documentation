@@ -21,7 +21,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=findInstance&unscoped_q=findInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,6 +39,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=writeObject&unscoped_q=writeObject">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -26,7 +26,6 @@ url - the hapi URL, such as http://jfaden.net/HapiServerDemo/hapi
 the folder containing the cache.
 
 <a href="https://github.com/autoplot/dev/search?q=cacheFolder&unscoped_q=cacheFolder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +43,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -69,7 +67,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetViaBinary&unscoped_q=getDataSetViaBinary">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,7 +91,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetViaCsv&unscoped_q=getDataSetViaCsv">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -109,7 +105,6 @@ return the local folder of the cache for HAPI data.  This will end with
 the local folder of the cache for HAPI data.
 
 <a href="https://github.com/autoplot/dev/search?q=getHapiCache&unscoped_q=getHapiCache">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -127,7 +122,6 @@ org.autoplot.hapi.HapiDataSource.ParamDescription[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getParameterDescriptions&unscoped_q=getParameterDescriptions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -144,6 +138,5 @@ void (returns nothing)
 <a href='https://sourceforge.net/p/autoplot/bugs/1996/'>https://sourceforge.net/p/autoplot/bugs/1996/</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=printCacheStats&unscoped_q=printCacheStats">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -87,7 +87,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=list&unscoped_q=list">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -102,7 +101,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=map&unscoped_q=map">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 map( String sKey ) &rarr; DasProp<br>
@@ -118,7 +116,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=str&unscoped_q=str">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -133,6 +130,5 @@ java.time.ZonedDateTime
 
 
 <a href="https://github.com/autoplot/dev/search?q=time&unscoped_q=time">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

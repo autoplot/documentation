@@ -17,6 +17,5 @@ java.beans.MethodDescriptor[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMethodDescriptors&unscoped_q=getMethodDescriptors">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

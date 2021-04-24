@@ -21,6 +21,5 @@ ds1 - a QDataSet
 the number of valid measurements
 
 <a href="https://github.com/autoplot/dev/search?q=validCount&unscoped_q=validCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

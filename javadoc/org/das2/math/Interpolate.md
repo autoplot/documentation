@@ -22,7 +22,6 @@ org.das2.math.Interpolate.DDoubleArray
 
 
 <a href="https://github.com/autoplot/dev/search?q=interpolate&unscoped_q=interpolate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -42,7 +41,6 @@ org.das2.math.Interpolate.DDoubleArray
 
 
 <a href="https://github.com/autoplot/dev/search?q=interpolate2&unscoped_q=interpolate2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ org.das2.math.Interpolate.DDoubleArray
 
 
 <a href="https://github.com/autoplot/dev/search?q=newDDoubleArray&unscoped_q=newDDoubleArray">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 newDDoubleArray( int columns, int rows ) &rarr; DDoubleArray<br>

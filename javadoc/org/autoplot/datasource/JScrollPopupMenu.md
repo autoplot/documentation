@@ -20,7 +20,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMaximumVisibleRows&unscoped_q=getMaximumVisibleRows">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=paintChildren&unscoped_q=paintChildren">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=remove&unscoped_q=remove">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +71,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setMaximumVisibleRows&unscoped_q=setMaximumVisibleRows">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -94,6 +90,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=show&unscoped_q=show">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

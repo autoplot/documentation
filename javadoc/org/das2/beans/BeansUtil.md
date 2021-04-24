@@ -23,7 +23,6 @@ org.das2.beans.AccessLevelBeanInfo
 
 
 <a href="https://github.com/autoplot/dev/search?q=asAccessLevelBeanInfo&unscoped_q=asAccessLevelBeanInfo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,7 +40,6 @@ java.beans.PropertyEditor
 
 
 <a href="https://github.com/autoplot/dev/search?q=findEditor&unscoped_q=findEditor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +57,6 @@ java.beans.BeanInfo
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBeanInfo&unscoped_q=getBeanInfo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -76,7 +73,6 @@ pd - the property descriptor
 the editor
 
 <a href="https://github.com/autoplot/dev/search?q=getEditor&unscoped_q=getEditor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -98,7 +94,6 @@ java.beans.PropertyDescriptor[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyDescriptors&unscoped_q=getPropertyDescriptors">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -116,7 +111,6 @@ java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyNames&unscoped_q=getPropertyNames">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getPropertyNames( java.lang.Class c ) &rarr; String<br>
@@ -136,6 +130,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=registerEditor&unscoped_q=registerEditor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

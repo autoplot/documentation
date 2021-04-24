@@ -18,7 +18,6 @@ data[N,len] with the hanning window applied.
 <a href='Ops_w.md#windowFunction'>windowFunction(org.das2.qds.ops.Ops.FFTFilterType, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=hanning&unscoped_q=hanning">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ ds - dataset with rank greater than 0.
 rank 1 dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=hashcodes&unscoped_q=hashcodes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -59,7 +57,6 @@ ds[n,2], complex array
 <a href='Ops_h.md#hilbert'>hilbert(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=hilbert&unscoped_q=hilbert">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +77,6 @@ ds[n,2], complex array
 <a href='Ops_h.md#hilbert'>hilbert(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=hilbertSciPy&unscoped_q=hilbertSciPy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -103,7 +99,6 @@ ds - rank N dataset
 a rank 1 dataset with each bin's count.  DEPEND_0 indicates the bin locations.
 
 <a href="https://github.com/autoplot/dev/search?q=histogram&unscoped_q=histogram">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 histogram( QDataSet ds, Datum min, Datum max, Datum binsize ) &rarr; QDataSet<br>
@@ -139,6 +134,5 @@ a rank 2 dataset
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/org/das2/qds/util/Reduction_h.md#histogram2D'>org.das2.qds.util.Reduction#histogram2D(QDataSet, QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=histogram2d&unscoped_q=histogram2d">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

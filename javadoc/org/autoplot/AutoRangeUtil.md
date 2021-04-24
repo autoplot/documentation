@@ -25,7 +25,6 @@ an org.autoplot.AutoRangeUtil.AutoRangeDescriptor
 <a href='#autoRange'>autoRange(QDataSet, java.util.Map, boolean)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=autoRange&unscoped_q=autoRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 autoRange( QDataSet ds, java.util.Map properties ) &rarr; AutoRangeDescriptor<br>
@@ -45,6 +44,5 @@ dataSet - a QDataSet
 bounding cube[3,2]
 
 <a href="https://github.com/autoplot/dev/search?q=bounds&unscoped_q=bounds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

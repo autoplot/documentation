@@ -20,7 +20,6 @@ org.das2.fsm.FileStorageModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 create( org.das2.util.filesystem.FileSystem root, String template ) &rarr; FileStorageModel<br>
@@ -41,7 +40,6 @@ org.das2.datum.CacheTag
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCacheTagFor&unscoped_q=getCacheTagFor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getCacheTagFor( org.das2.fsm.FileStorageModel fsm, DatumRange range, java.io.File[] files ) &rarr; CacheTag<br>
@@ -60,6 +58,5 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=splitIndex&unscoped_q=splitIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -17,7 +17,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataMaximum&unscoped_q=getDataMaximum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,6 +31,5 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataMinimum&unscoped_q=getDataMinimum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

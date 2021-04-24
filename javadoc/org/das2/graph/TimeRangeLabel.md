@@ -17,7 +17,6 @@ java.beans.PropertyChangeListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=createDataRangePropertyListener&unscoped_q=createDataRangePropertyListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEmOffset&unscoped_q=getEmOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isRangeLabel&unscoped_q=isRangeLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,7 +59,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isStartOnly&unscoped_q=isStartOnly">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -80,7 +76,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,7 +90,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resize&unscoped_q=resize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,7 +107,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEmOffset&unscoped_q=setEmOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -131,7 +124,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRangeLabel&unscoped_q=setRangeLabel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -149,6 +141,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStartOnly&unscoped_q=setStartOnly">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

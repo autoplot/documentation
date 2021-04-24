@@ -21,7 +21,6 @@ c - the focus plot
 the JMenuItem found, which has been pushed.
 
 <a href="https://github.com/autoplot/dev/search?q=pushContextMenu&unscoped_q=pushContextMenu">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -39,7 +38,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reportLogger&unscoped_q=reportLogger">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -58,6 +56,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=waitUntilBusy&unscoped_q=waitUntilBusy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

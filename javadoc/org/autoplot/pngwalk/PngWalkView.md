@@ -26,7 +26,6 @@ a javax.swing.JComponent
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseTarget&unscoped_q=getMouseTarget">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,7 +40,6 @@ a java.awt.event.MouseWheelListener
 
 
 <a href="https://github.com/autoplot/dev/search?q=getMouseWheelListener&unscoped_q=getMouseWheelListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -56,7 +54,6 @@ javax.swing.JPopupMenu
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPopup&unscoped_q=getPopup">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +68,6 @@ org.autoplot.pngwalk.WalkImageSequence
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSequence&unscoped_q=getSequence">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +82,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getThumbnailSize&unscoped_q=getThumbnailSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -101,7 +96,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowCaptions&unscoped_q=isShowCaptions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -121,7 +115,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=propertyChange&unscoped_q=propertyChange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -139,7 +132,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSequence&unscoped_q=setSequence">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +149,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowCaptions&unscoped_q=setShowCaptions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -175,6 +166,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setThumbnailSize&unscoped_q=setThumbnailSize">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

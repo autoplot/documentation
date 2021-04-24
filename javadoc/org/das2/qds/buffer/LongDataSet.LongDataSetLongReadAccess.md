@@ -17,7 +17,6 @@ long
 
 
 <a href="https://github.com/autoplot/dev/search?q=lvalue&unscoped_q=lvalue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 lvalue( int i0 ) &rarr; long<br>

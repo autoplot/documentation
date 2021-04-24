@@ -30,7 +30,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPlane&unscoped_q=addPlane">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addPlane( String name, Units zUnits, java.util.Map properties ) &rarr; void<br>
@@ -49,7 +48,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addProperties&unscoped_q=addProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +65,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=append&unscoped_q=append">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -85,7 +82,6 @@ java.lang.Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -100,7 +96,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXLength&unscoped_q=getXLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -118,7 +113,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXTag&unscoped_q=getXTag">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -138,7 +132,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=insertYScan&unscoped_q=insertYScan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 insertYScan( Datum x, org.das2.datum.DatumVector y, org.das2.datum.DatumVector z, String planeId ) &rarr; void<br>
@@ -159,7 +152,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPlaneProperties&unscoped_q=setPlaneProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -178,7 +170,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setProperty&unscoped_q=setProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setProperty( int table, String name, Object value ) &rarr; void<br>
@@ -197,7 +188,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setXUnits&unscoped_q=setXUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -215,7 +205,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setYUnits&unscoped_q=setYUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -233,7 +222,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setZUnits&unscoped_q=setZUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setZUnits( Units units, String planeID ) &rarr; void<br>
@@ -249,7 +237,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -264,6 +251,5 @@ org.das2.dataset.TableDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=toTableDataSet&unscoped_q=toTableDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

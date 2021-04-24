@@ -23,7 +23,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=showReadButNotAssigned&unscoped_q=showReadButNotAssigned">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,7 +40,6 @@ script - the jython script which is parsed.
 the AST nodes which contain location information.
 
 <a href="https://github.com/autoplot/dev/search?q=showUsage&unscoped_q=showUsage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,6 +58,5 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=showWriteWithoutRead&unscoped_q=showWriteWithoutRead">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

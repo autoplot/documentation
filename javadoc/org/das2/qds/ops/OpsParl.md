@@ -23,7 +23,6 @@ ds1 - the first argument
 the result with the same geometry as the pair.
 
 <a href="https://github.com/autoplot/dev/search?q=applyBinaryOp&unscoped_q=applyBinaryOp">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -50,7 +49,6 @@ ds1 - the first argument
 the result with the same geometry as the pair.
 
 <a href="https://github.com/autoplot/dev/search?q=applyBinaryOpNoIter&unscoped_q=applyBinaryOpNoIter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -77,7 +75,6 @@ ds1 - the first argument
 the result with the same geometry as the pair.
 
 <a href="https://github.com/autoplot/dev/search?q=applyBinaryOpParl&unscoped_q=applyBinaryOpParl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -96,7 +93,6 @@ ds1 - rank n dataset
 rank n or m dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=eq&unscoped_q=eq">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -115,7 +111,6 @@ ds1 - rank n dataset
 rank n or m dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=eq_noiter&unscoped_q=eq_noiter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -134,6 +129,5 @@ ds1 - rank n dataset
 rank n or m dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=eq_parl&unscoped_q=eq_parl">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

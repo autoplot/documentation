@@ -32,7 +32,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -53,7 +52,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=parseISO8601Datum&unscoped_q=parseISO8601Datum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -70,7 +68,6 @@ stringIn - a String
 [year,mon,day,hour,min,sec,nanos]
 
 <a href="https://github.com/autoplot/dev/search?q=parseISO8601Duration&unscoped_q=parseISO8601Duration">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -96,6 +93,5 @@ stringIn - a String
 int[14] with [Y,M,D,H,M,S,NS,Y,M,D,H,M,S,NS]
 
 <a href="https://github.com/autoplot/dev/search?q=parseISO8601Range&unscoped_q=parseISO8601Range">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

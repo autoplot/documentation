@@ -108,7 +108,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=cancel&unscoped_q=cancel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +122,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=doFillValidRange&unscoped_q=doFillValidRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -138,7 +136,6 @@ org.autoplot.dom.Application
 
 
 <a href="https://github.com/autoplot/dev/search?q=getApplication&unscoped_q=getApplication">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +152,6 @@ reduceDataSetString the string, which may be empty but will not
  be null.
 
 <a href="https://github.com/autoplot/dev/search?q=getAppliedFiltersString&unscoped_q=getAppliedFiltersString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -170,7 +166,6 @@ org.autoplot.datasource.capability.Caching
 
 
 <a href="https://github.com/autoplot/dev/search?q=getCaching&unscoped_q=getCaching">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -185,7 +180,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -204,7 +198,6 @@ return the controller's current datasource. This was synchronized, but
 the controller's current datasource.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSource&unscoped_q=getDataSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -219,7 +212,6 @@ java.lang.Exception
 
 
 <a href="https://github.com/autoplot/dev/search?q=getException&unscoped_q=getException">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -234,7 +226,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFillDataSet&unscoped_q=getFillDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -249,7 +240,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getFillProperties&unscoped_q=getFillProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -264,7 +254,6 @@ org.das2.qds.QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getHistogram&unscoped_q=getHistogram">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -283,7 +272,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperties&unscoped_q=getProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -298,7 +286,6 @@ java.util.Map
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRawProperties&unscoped_q=getRawProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -313,7 +300,6 @@ org.autoplot.dom.TimeSeriesBrowseController
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeSeriesBrowseController&unscoped_q=getTimeSeriesBrowseController">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -328,7 +314,6 @@ org.autoplot.datasource.capability.TimeSeriesBrowse
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTsb&unscoped_q=getTsb">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -343,7 +328,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTsbSuri&unscoped_q=getTsbSuri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -358,7 +342,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDataSetNeedsLoading&unscoped_q=isDataSetNeedsLoading">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -373,7 +356,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isPendingChanges&unscoped_q=isPendingChanges">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -388,7 +370,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isResetDimensions&unscoped_q=isResetDimensions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -408,7 +389,6 @@ true if the dataset is rank 1 or greater, and has timetags for
  the xtagsDataSet.
 
 <a href="https://github.com/autoplot/dev/search?q=isTimeSeries&unscoped_q=isTimeSeries">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -423,7 +403,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isUriNeedsResolution&unscoped_q=isUriNeedsResolution">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -441,7 +420,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=pendingChanges&unscoped_q=pendingChanges">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -464,7 +442,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetDataSource&unscoped_q=resetDataSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -483,7 +460,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=resetSuri&unscoped_q=resetSuri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -503,7 +479,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAppliedFiltersString&unscoped_q=setAppliedFiltersString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -521,7 +496,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setCaching&unscoped_q=setCaching">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -542,7 +516,6 @@ void (returns nothing)
 <a href='#setDataSetInternal'>setDataSetInternal(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -560,7 +533,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetInternal&unscoped_q=setDataSetInternal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setDataSetInternal( QDataSet ds, java.util.Map rawProperties, boolean immediately ) &rarr; void<br>
@@ -579,7 +551,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSetNeedsLoading&unscoped_q=setDataSetNeedsLoading">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -597,7 +568,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSource&unscoped_q=setDataSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -615,7 +585,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setException&unscoped_q=setException">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -633,7 +602,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillDataSet&unscoped_q=setFillDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -651,7 +619,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFillProperties&unscoped_q=setFillProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -669,7 +636,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHistogram&unscoped_q=setHistogram">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -687,7 +653,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setProperties&unscoped_q=setProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -705,7 +670,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRawProperties&unscoped_q=setRawProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -723,7 +687,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setResetDimensions&unscoped_q=setResetDimensions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -742,7 +705,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSuri&unscoped_q=setSuri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -760,7 +722,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTsb&unscoped_q=setTsb">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -778,7 +739,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTsbSuri&unscoped_q=setTsbSuri">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -796,7 +756,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUriNeedsResolution&unscoped_q=setUriNeedsResolution">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -811,7 +770,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -828,7 +786,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 update( boolean user ) &rarr; void<br>

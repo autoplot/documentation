@@ -28,7 +28,6 @@ org.das2.beans.AccessLevelBeanInfo.AccessLevel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLevel&unscoped_q=getLevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -43,7 +42,6 @@ org.das2.beans.AccessLevelBeanInfo.PersistenceLevel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPersistenceLevel&unscoped_q=getPersistenceLevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,6 +60,5 @@ java.beans.PropertyDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPropertyDescriptor&unscoped_q=getPropertyDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

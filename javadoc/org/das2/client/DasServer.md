@@ -22,7 +22,6 @@ org.das2.client.Key
 
 
 <a href="https://github.com/autoplot/dev/search?q=authenticate&unscoped_q=authenticate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -45,7 +44,6 @@ If a server matching the given url's protocol, host and path has already
  been created, that instance is returned, otherwise a new instance is created.
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -60,7 +58,6 @@ an org.das2.client.DasServer
 
 
 <a href="https://github.com/autoplot/dev/search?q=createPlasmaWaveGroup&unscoped_q=createPlasmaWaveGroup">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -75,7 +72,6 @@ javax.swing.tree.TreeModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetList&unscoped_q=getDataSetList">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -90,7 +86,6 @@ javax.swing.tree.TreeModel
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSetListWithDiscovery&unscoped_q=getDataSetListWithDiscovery">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +100,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getHost&unscoped_q=getHost">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +117,6 @@ org.das2.client.Key
 
 
 <a href="https://github.com/autoplot/dev/search?q=getKey&unscoped_q=getKey">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -138,7 +131,6 @@ javax.swing.ImageIcon
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLogo&unscoped_q=getLogo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -153,7 +145,6 @@ Query the remote DasServer for it's id string.
 A string containing the id, or the empty string if the query failed
 
 <a href="https://github.com/autoplot/dev/search?q=getName&unscoped_q=getName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -168,7 +159,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPath&unscoped_q=getPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -183,7 +173,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPort&unscoped_q=getPort">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -198,7 +187,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProto&unscoped_q=getProto">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -216,7 +204,6 @@ org.das2.client.StandardDataStreamSource
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStandardDataStreamSource&unscoped_q=getStandardDataStreamSource">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -234,7 +221,6 @@ org.das2.stream.StreamDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStreamDescriptor&unscoped_q=getStreamDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -249,7 +235,6 @@ Provide the Das2 Server location.
 A URL string containing protocol, host and path information.
 
 <a href="https://github.com/autoplot/dev/search?q=getURL&unscoped_q=getURL">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getURL( String formData ) &rarr; URL<br>
@@ -276,7 +261,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setKey&unscoped_q=setKey">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -291,6 +275,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

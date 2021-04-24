@@ -25,7 +25,6 @@ prefix - prefix added to the each node, e.g. "value("
 the node (aroot) is returned.
 
 <a href="https://github.com/autoplot/dev/search?q=valuesTreeNode&unscoped_q=valuesTreeNode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -48,6 +47,5 @@ prefix - string prefix, a number of spaces to indent
 the tree node
 
 <a href="https://github.com/autoplot/dev/search?q=valuesTreeNode2&unscoped_q=valuesTreeNode2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

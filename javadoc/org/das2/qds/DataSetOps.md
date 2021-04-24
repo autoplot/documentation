@@ -29,7 +29,6 @@ length m rank N dataset.
 <a href='#applyIndex'>applyIndex(QDataSet, int, QDataSet, boolean)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=applyIndex&unscoped_q=applyIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 applyIndex( QDataSet ds, int idim, QDataSet sort, boolean deps ) &rarr; WritableDataSet<br>
@@ -51,7 +50,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=applyIndexInSitu&unscoped_q=applyIndexInSitu">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -70,7 +68,6 @@ bounds - bounding box
 true of the bounds overlap
 
 <a href="https://github.com/autoplot/dev/search?q=boundsContains&unscoped_q=boundsContains">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +86,6 @@ and array of the bundle names.
 <a href='DataSetOps.md#unbundle'>DataSetOps#unbundle(QDataSet, java.lang.String)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=bundleNames&unscoped_q=bundleNames">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +103,6 @@ p - the filter, e.g. "|smooth"
 true if the dimensions change.
 
 <a href="https://github.com/autoplot/dev/search?q=changesDimensions&unscoped_q=changesDimensions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 changesDimensions( String c0, String c1 ) &rarr; boolean<br>
@@ -132,7 +127,6 @@ ds - a QDataSet
 the result dataset, in dB above background.
 
 <a href="https://github.com/autoplot/dev/search?q=dbAboveBackgroundDim0&unscoped_q=dbAboveBackgroundDim0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +151,6 @@ ds - a QDataSet
 the result dataset, in dB above background.
 
 <a href="https://github.com/autoplot/dev/search?q=dbAboveBackgroundDim1&unscoped_q=dbAboveBackgroundDim1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 dbAboveBackgroundDim1( QDataSet ds, double level, boolean power ) &rarr; QDataSet<br>
@@ -181,7 +174,6 @@ ds - rank 1,2, or 3 dataset.
 a bounding qube of the independent dimensions
 
 <a href="https://github.com/autoplot/dev/search?q=dependBounds&unscoped_q=dependBounds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -206,7 +198,6 @@ ds - a rank 1,2, or 3 dataset.
 a bounding qube of the independent dimensions
 
 <a href="https://github.com/autoplot/dev/search?q=dependBoundsSimple&unscoped_q=dependBoundsSimple">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -227,7 +218,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=flattenBundleDescriptor&unscoped_q=flattenBundleDescriptor">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -249,7 +239,6 @@ ds - rank 2 table dataset
 rank 2 dataset that is that is array of (x,y,f).
 
 <a href="https://github.com/autoplot/dev/search?q=flattenRank2&unscoped_q=flattenRank2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -267,7 +256,6 @@ ds - rank 3 table dataset
 rank 2 dataset that is array of (x,y,z,f) or rank 1 f.
 
 <a href="https://github.com/autoplot/dev/search?q=flattenRank3&unscoped_q=flattenRank3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -286,7 +274,6 @@ ds - rank 2 waveform with tags for DEPEND_0 and offsets for DEPEND_1
 rank 1 waveform
 
 <a href="https://github.com/autoplot/dev/search?q=flattenWaveform&unscoped_q=flattenWaveform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -305,7 +292,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBackgroundLevel&unscoped_q=getBackgroundLevel">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -326,7 +312,6 @@ the class that can store this type.  double.class is returned when the class can
 <a href='ArrayDataSet.md#create'>ArrayDataSet#create(java.lang.Class, int[])</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getComponentType&unscoped_q=getComponentType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -346,7 +331,6 @@ a QDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getNthPercentileSort&unscoped_q=getNthPercentileSort">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -363,7 +347,6 @@ ds - rank 2 link (x,y,z)
 a table from it z(x,y)
 
 <a href="https://github.com/autoplot/dev/search?q=grid&unscoped_q=grid">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -386,7 +369,6 @@ ds - rank N dataset
 a rank 1 dataset with each bin's count.  DEPEND_0 indicates the bin locations.
 
 <a href="https://github.com/autoplot/dev/search?q=histogram&unscoped_q=histogram">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -414,7 +396,6 @@ bundleDs - a bundle dataset with the property BUNDLE_1 or DEPEND_1 having Enumer
 the index or -1 if the name is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=indexOfBundledDataSet&unscoped_q=indexOfBundledDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -435,7 +416,6 @@ c - process string, as in sprocess.
 true if the process described in c is probably a slow process
 
 <a href="https://github.com/autoplot/dev/search?q=isProcessAsync&unscoped_q=isProcessAsync">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -459,7 +439,6 @@ ds - rank 1 or more dataset
 dataset of the same rank.
 
 <a href="https://github.com/autoplot/dev/search?q=leafTrim&unscoped_q=leafTrim">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -480,7 +459,6 @@ a MutablePropertyDataSet that is has a wrapper around the dataset, or the datase
 <a href='DataSetWrapper.md'>DataSetWrapper</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=makePropertiesMutable&unscoped_q=makePropertiesMutable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -500,7 +478,6 @@ dataset - a QDataSet
 a WritableDataSet that is either a copy of the read-only dataset provided, or the parameter writable dataset provided.
 
 <a href="https://github.com/autoplot/dev/search?q=makeWritable&unscoped_q=makeWritable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -520,7 +497,6 @@ rank 0 dataset of the mean.  Properties contain other stats:
    invalidCount, Integer, the number of invalid measurements
 
 <a href="https://github.com/autoplot/dev/search?q=moment&unscoped_q=moment">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -541,7 +517,6 @@ c - the process string, like "bgsmx|slice0(9)|histogram()"
 dataset resulting form filters.
 
 <a href="https://github.com/autoplot/dev/search?q=processDataSet&unscoped_q=processDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -559,7 +534,6 @@ array - length N array
 array without the element, length N-1.
 
 <a href="https://github.com/autoplot/dev/search?q=removeElement&unscoped_q=removeElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -579,7 +553,6 @@ ds - the rank N data to slice.
 the rank N-1 result.
 
 <a href="https://github.com/autoplot/dev/search?q=slice&unscoped_q=slice">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -611,7 +584,6 @@ rank 0 or more dataset.
 <a href='QDataSet.md#slice'>QDataSet#slice(int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=slice0&unscoped_q=slice0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -631,7 +603,6 @@ ds - rank 2 or more dataset
 rank 1 or more dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=slice1&unscoped_q=slice1">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -651,7 +622,6 @@ ds - rank 3 or more dataset
 rank 2 or more dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=slice2&unscoped_q=slice2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -671,7 +641,6 @@ ds - rank 4 or more dataset.
 rank 3 or more dataset.
 
 <a href="https://github.com/autoplot/dev/search?q=slice3&unscoped_q=slice3">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -691,7 +660,6 @@ properties - the properties to slice.
 the properties after the slice.
 
 <a href="https://github.com/autoplot/dev/search?q=sliceProperties&unscoped_q=sliceProperties">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -713,7 +681,6 @@ index - the index to slice at in the zeroth index.
 the properties after the slice.
 
 <a href="https://github.com/autoplot/dev/search?q=sliceProperties0&unscoped_q=sliceProperties0">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -733,7 +700,6 @@ ds - rank 1 dataset, possibly containing fill.
 indeces that sort the data.
 
 <a href="https://github.com/autoplot/dev/search?q=sort&unscoped_q=sort">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -761,7 +727,6 @@ the dataset after the process string is applied.
 <a href='https://git.uiowa.edu/jbf/autoplot/-/blob/master/doc/<a href="http://autoplot/org/developer/panel_rank_reduction">http://autoplot/org/developer/panel_rank_reduction</a>.md'><a href="http://autoplot.org/developer.panel_rank_reduction">http://autoplot.org/developer.panel_rank_reduction</a></a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=sprocess&unscoped_q=sprocess">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -778,7 +743,6 @@ c - the class type, including double.class, float.class, etc.
 a fill value that is representable by the type.
 
 <a href="https://github.com/autoplot/dev/search?q=suggestFillForComponentType&unscoped_q=suggestFillForComponentType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -795,7 +759,6 @@ ds - rank 2 Qube DataSet.
 rank 2 Qube DataSet
 
 <a href="https://github.com/autoplot/dev/search?q=transpose2&unscoped_q=transpose2">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -818,7 +781,6 @@ ds - the dataset
 trimmed dataset
 
 <a href="https://github.com/autoplot/dev/search?q=trim&unscoped_q=trim">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 trim( QDataSet dep, int start, int stop, int stride ) &rarr; MutablePropertyDataSet<br>
@@ -839,7 +801,6 @@ the named dataset
 <a href='#unbundle'>unbundle(QDataSet, int)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=unbundle&unscoped_q=unbundle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 unbundle( QDataSet bundleDs, int ib ) &rarr; QDataSet<br>
@@ -861,6 +822,5 @@ the default dataset
 <a href='Schemes.md#bundleDataSet'>Schemes#bundleDataSet()</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=unbundleDefaultDataSet&unscoped_q=unbundleDefaultDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

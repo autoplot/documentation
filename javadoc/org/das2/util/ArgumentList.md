@@ -42,7 +42,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addBooleanSwitchArgument&unscoped_q=addBooleanSwitchArgument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +64,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addOptionalPositionArgument&unscoped_q=addOptionalPositionArgument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -88,7 +86,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addOptionalSwitchArgument&unscoped_q=addOptionalSwitchArgument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -108,7 +105,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPositionArgument&unscoped_q=addPositionArgument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -129,7 +125,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addSwitchArgument&unscoped_q=addSwitchArgument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -147,7 +142,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBooleanValue&unscoped_q=getBooleanValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -162,7 +156,6 @@ return 0 if the exit code for a checkArgs()==false is 0 or non-zero.
 the exit code.
 
 <a href="https://github.com/autoplot/dev/search?q=getExitCode&unscoped_q=getExitCode">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -177,7 +170,6 @@ return a Map of all the specified values.  The keys are all the internal
 a Map of the specified values, including defaults.
 
 <a href="https://github.com/autoplot/dev/search?q=getMap&unscoped_q=getMap">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -192,7 +184,6 @@ returns a Map of optional arguments that were specified, so you can see
 a Map of the specified values, without defaults.
 
 <a href="https://github.com/autoplot/dev/search?q=getOptions&unscoped_q=getOptions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -210,7 +201,6 @@ returns the options as a java.util.prefs.Preferences object, for
 a Preferences object, loaded with the command line values.
 
 <a href="https://github.com/autoplot/dev/search?q=getPreferences&unscoped_q=getPreferences">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -227,7 +217,6 @@ key - the argument identifier.
 the parameter's value.
 
 <a href="https://github.com/autoplot/dev/search?q=getValue&unscoped_q=getValue">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -245,7 +234,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=logPrefsSettings&unscoped_q=logPrefsSettings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -262,7 +250,6 @@ ref - e.g. files/afile/foo.txt
 /home/jbf/data/files/afile/foo.txt because PWD is /home/jbf/data
 
 <a href="https://github.com/autoplot/dev/search?q=makeFileReferenceAbsolute&unscoped_q=makeFileReferenceAbsolute">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -277,7 +264,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printPrefsSettings&unscoped_q=printPrefsSettings">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -292,7 +278,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=printUsage&unscoped_q=printUsage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -314,7 +299,6 @@ args - as in public static void main( String[] args ).
 false if System.exit should be called.
 
 <a href="https://github.com/autoplot/dev/search?q=process&unscoped_q=process">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -333,6 +317,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=requireOneOf&unscoped_q=requireOneOf">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

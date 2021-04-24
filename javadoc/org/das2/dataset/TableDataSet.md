@@ -24,7 +24,6 @@ i - index of the x tag for the requested value.
 the value at index location (i, j) as a <code>Datum</code>
 
 <a href="https://github.com/autoplot/dev/search?q=getDatum&unscoped_q=getDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -44,7 +43,6 @@ i - index of the y tag for the requested value.
 the value at index location (i, j) as a <code>double</code>.
 
 <a href="https://github.com/autoplot/dev/search?q=getDouble&unscoped_q=getDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -63,7 +61,6 @@ double[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getDoubleScan&unscoped_q=getDoubleScan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,7 +80,6 @@ i - index of the x tag for the requested value.
 the value at index location (i, j) as a <code>int</code>.
 
 <a href="https://github.com/autoplot/dev/search?q=getInt&unscoped_q=getInt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -104,7 +100,6 @@ an Object
 
 
 <a href="https://github.com/autoplot/dev/search?q=getProperty&unscoped_q=getProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -122,7 +117,6 @@ org.das2.datum.DatumVector
 
 
 <a href="https://github.com/autoplot/dev/search?q=getScan&unscoped_q=getScan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -140,7 +134,6 @@ org.das2.dataset.VectorDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getXSlice&unscoped_q=getXSlice">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -158,7 +151,6 @@ table - index of the table
 the number of x tags in this data set.
 
 <a href="https://github.com/autoplot/dev/search?q=getYLength&unscoped_q=getYLength">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -177,7 +169,6 @@ org.das2.dataset.VectorDataSet
 
 
 <a href="https://github.com/autoplot/dev/search?q=getYSlice&unscoped_q=getYSlice">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -197,7 +188,6 @@ the value of the y tag at the given index j as a
       <code>Datum</code>.
 
 <a href="https://github.com/autoplot/dev/search?q=getYTagDatum&unscoped_q=getYTagDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -219,7 +209,6 @@ the value of the y tag at the given index j as a
       <code>double</code>.
 
 <a href="https://github.com/autoplot/dev/search?q=getYTagDouble&unscoped_q=getYTagDouble">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -241,7 +230,6 @@ the value of the y tag at the given index j as an
       <code>int</code>.
 
 <a href="https://github.com/autoplot/dev/search?q=getYTagInt&unscoped_q=getYTagInt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -258,7 +246,6 @@ table - the table number
 the yTags for this data set as a <code>DatumVector</code>
 
 <a href="https://github.com/autoplot/dev/search?q=getYTags&unscoped_q=getYTags">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -273,7 +260,6 @@ Returns the Units object representing the unit type of the y values for
 the x units
 
 <a href="https://github.com/autoplot/dev/search?q=getZUnits&unscoped_q=getZUnits">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -287,7 +273,6 @@ Returns the number of tables in this data set
 the number of tables in this data set
 
 <a href="https://github.com/autoplot/dev/search?q=tableCount&unscoped_q=tableCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -304,7 +289,6 @@ table - the index of the table
 the index after the last x tag index of the specified table
 
 <a href="https://github.com/autoplot/dev/search?q=tableEnd&unscoped_q=tableEnd">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -321,7 +305,6 @@ i - x tag index
 the table number that the specified index is in
 
 <a href="https://github.com/autoplot/dev/search?q=tableOfIndex&unscoped_q=tableOfIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -338,6 +321,5 @@ table - the index of the table.
 the first x tag index of the specified table
 
 <a href="https://github.com/autoplot/dev/search?q=tableStart&unscoped_q=tableStart">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

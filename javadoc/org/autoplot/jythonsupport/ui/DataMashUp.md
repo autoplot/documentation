@@ -19,7 +19,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=enableTimeRange&unscoped_q=enableTimeRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -33,7 +32,6 @@ return the mashup as a jython inline script.
 the mashup as a jython inline script.
 
 <a href="https://github.com/autoplot/dev/search?q=getAsJythonInline&unscoped_q=getAsJythonInline">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 getAsJythonInline( javax.swing.tree.TreeNode tn ) &rarr; String<br>
@@ -57,7 +55,6 @@ a java.lang.Object[]
 <a href='.md'></a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=insertElement&unscoped_q=insertElement">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -74,7 +71,6 @@ jython - script.
 true if the script conforms to the jython dashup requirements.
 
 <a href="https://github.com/autoplot/dev/search?q=isDataMashupJythonInline&unscoped_q=isDataMashupJythonInline">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -92,7 +88,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=main&unscoped_q=main">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -110,7 +105,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=printPath&unscoped_q=printPath">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -129,7 +123,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=rename&unscoped_q=rename">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -147,7 +140,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAsJythonInline&unscoped_q=setAsJythonInline">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -165,7 +157,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setIds&unscoped_q=setIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -183,7 +174,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setResolver&unscoped_q=setResolver">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -201,6 +191,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUris&unscoped_q=setUris">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

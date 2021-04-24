@@ -21,7 +21,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=newDatum&unscoped_q=newDatum">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -40,6 +39,5 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=newNominal&unscoped_q=newNominal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

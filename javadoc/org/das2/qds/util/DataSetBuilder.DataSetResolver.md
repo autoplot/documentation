@@ -16,6 +16,5 @@ name - a String
 the dataset for this name, if available, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=resolve&unscoped_q=resolve">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

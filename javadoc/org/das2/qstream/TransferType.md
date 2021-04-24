@@ -23,7 +23,6 @@ recordLengthBytes - an int
 the byte buffer with the order set.
 
 <a href="https://github.com/autoplot/dev/search?q=allocate&unscoped_q=allocate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -41,7 +40,6 @@ ttype - a String
 returns a TranferType for the given name, or null if none is found.
 
 <a href="https://github.com/autoplot/dev/search?q=getForName&unscoped_q=getForName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -57,7 +55,6 @@ return true if the transfer type uses ASCII-encodings to represent data.
 true if the type is ASCII-based.
 
 <a href="https://github.com/autoplot/dev/search?q=isAscii&unscoped_q=isAscii">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +68,6 @@ return a string identifying the TransferType.
 the name
 
 <a href="https://github.com/autoplot/dev/search?q=name&unscoped_q=name">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -89,7 +85,6 @@ buffer - the container for the transfer type.
 the value read
 
 <a href="https://github.com/autoplot/dev/search?q=read&unscoped_q=read">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -103,7 +98,6 @@ return the number of bytes used by the transfer type.
 the size of the type in bytes.
 
 <a href="https://github.com/autoplot/dev/search?q=sizeBytes&unscoped_q=sizeBytes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -118,7 +112,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -137,6 +130,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=write&unscoped_q=write">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

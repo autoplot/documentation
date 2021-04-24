@@ -26,7 +26,6 @@ appContext - load in additional symbols that make sense in application context.
 PythonInterpreter ready for commands.
 
 <a href="https://github.com/autoplot/dev/search?q=createInterpreter&unscoped_q=createInterpreter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createInterpreter( boolean appContext, boolean sandbox, org.autoplot.dom.Application dom, ProgressMonitor mon ) &rarr; InteractiveInterpreter<br>
@@ -49,7 +48,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=invokeScript20181217&unscoped_q=invokeScript20181217">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -73,7 +71,6 @@ void (returns nothing)
 <a href='#runScript'>runScript(org.autoplot.ApplicationModel, java.lang.String, java.lang.String[], java.lang.String)</a> which doesn't allow for control of the environ (and arbitrary parameters).<br>
 
 <a href="https://github.com/autoplot/dev/search?q=invokeScriptNow&unscoped_q=invokeScriptNow">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +104,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=runScript&unscoped_q=runScript">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -129,6 +125,5 @@ parent - parent GUI to follow
 JOptionPane.OK_OPTION or JOptionPane.CANCEL_OPTION if the user cancels.
 
 <a href="https://github.com/autoplot/dev/search?q=showScriptDialog&unscoped_q=showScriptDialog">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

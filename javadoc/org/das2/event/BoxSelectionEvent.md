@@ -24,7 +24,6 @@ get the dataset attached to this event.
 the dataset attached to this event.
 
 <a href="https://github.com/autoplot/dev/search?q=getDataSet&unscoped_q=getDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -38,7 +37,6 @@ get the X coordinate of the mouse button release
 the release coordinate X
 
 <a href="https://github.com/autoplot/dev/search?q=getFinishX&unscoped_q=getFinishX">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -52,7 +50,6 @@ get the Y coordinate of the mouse button release
 the release coordinate Y
 
 <a href="https://github.com/autoplot/dev/search?q=getFinishY&unscoped_q=getFinishY">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -71,7 +68,6 @@ plane - a String
 the value associated with the plane, or null.
 
 <a href="https://github.com/autoplot/dev/search?q=getPlane&unscoped_q=getPlane">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +82,6 @@ a java.lang.String[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getPlaneIds&unscoped_q=getPlaneIds">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -100,7 +95,6 @@ get the X coordinate or the mouse button press
 the X coordinate or the mouse button press
 
 <a href="https://github.com/autoplot/dev/search?q=getStartX&unscoped_q=getStartX">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -114,7 +108,6 @@ get the Y coordinate or the mouse button press
 the Y coordinate or the mouse button press
 
 <a href="https://github.com/autoplot/dev/search?q=getStartY&unscoped_q=getStartY">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,7 +121,6 @@ get the X data range of the gesture
 the X data range of the gesture
 
 <a href="https://github.com/autoplot/dev/search?q=getXRange&unscoped_q=getXRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +134,6 @@ get the Y data range of the gesture
 the Y data range of the gesture
 
 <a href="https://github.com/autoplot/dev/search?q=getYRange&unscoped_q=getYRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -160,7 +151,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDataSet&unscoped_q=setDataSet">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -179,7 +169,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFinish&unscoped_q=setFinish">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -198,7 +187,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setStart&unscoped_q=setStart">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -213,6 +201,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

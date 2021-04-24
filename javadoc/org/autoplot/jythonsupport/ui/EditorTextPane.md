@@ -19,7 +19,6 @@ org.autoplot.jythonsupport.ui.EditorAnnotationsSupport
 
 
 <a href="https://github.com/autoplot/dev/search?q=getEditorAnnotationsSupport&unscoped_q=getEditorAnnotationsSupport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -34,7 +33,6 @@ java.lang.Runnable
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInitializeRunnable&unscoped_q=getInitializeRunnable">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -52,7 +50,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getToolTipText&unscoped_q=getToolTipText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -70,7 +67,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=loadFile&unscoped_q=loadFile">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -87,7 +83,6 @@ f - the file
 the string contents.
 
 <a href="https://github.com/autoplot/dev/search?q=loadFileToString&unscoped_q=loadFileToString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -105,7 +100,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDocument&unscoped_q=setDocument">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +117,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setEditorAnnotationsSupport&unscoped_q=setEditorAnnotationsSupport">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -141,7 +134,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFont&unscoped_q=setFont">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -156,6 +148,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=showCompletionsView&unscoped_q=showCompletionsView">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

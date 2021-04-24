@@ -82,7 +82,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addPropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
@@ -98,7 +97,6 @@ org.autoplot.pngwalk.WalkImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=currentImage&unscoped_q=currentImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -117,7 +115,6 @@ name - the file name.
 the index, or -1 if the name is not found.
 
 <a href="https://github.com/autoplot/dev/search?q=findIndex&unscoped_q=findIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -132,7 +129,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=first&unscoped_q=first">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -148,7 +144,6 @@ the subrange of the sequence.
 <a href='https://sourceforge.net/p/autoplot/feature-requests/493/'>https://sourceforge.net/p/autoplot/feature-requests/493/</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=getActiveSubrange&unscoped_q=getActiveSubrange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -165,7 +160,6 @@ a java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAllTimes&unscoped_q=getAllTimes">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -182,7 +176,6 @@ image - the location
 the object modeling this image.
 
 <a href="https://github.com/autoplot/dev/search?q=getImage&unscoped_q=getImage">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -197,7 +190,6 @@ an int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getIndex&unscoped_q=getIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -217,7 +209,6 @@ returns the current QC filter, where "" means no filter, otherwise
 the filter, for example "" or "op" for okay and problem.
 
 <a href="https://github.com/autoplot/dev/search?q=getQCFilter&unscoped_q=getQCFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -232,7 +223,6 @@ java.net.URI
 
 
 <a href="https://github.com/autoplot/dev/search?q=getQCFolder&unscoped_q=getQCFolder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -248,7 +238,6 @@ an org.autoplot.pngwalk.QualityControlSequence
 
 
 <a href="https://github.com/autoplot/dev/search?q=getQualityControlSequence&unscoped_q=getQualityControlSequence">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -263,7 +252,6 @@ java.util.List
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedIndeces&unscoped_q=getSelectedIndeces">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -279,7 +267,6 @@ return the name of the selected image.  This is not the full
 the name of the selected image.
 
 <a href="https://github.com/autoplot/dev/search?q=getSelectedName&unscoped_q=getSelectedName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -294,7 +281,6 @@ a String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getStatus&unscoped_q=getStatus">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -308,7 +294,6 @@ return the template representing the sequence.
 the template
 
 <a href="https://github.com/autoplot/dev/search?q=getTemplate&unscoped_q=getTemplate">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -324,7 +309,6 @@ Return the time range covered by this sequence.  This is the total range
 the time range covered by this sequence.
 
 <a href="https://github.com/autoplot/dev/search?q=getTimeSpan&unscoped_q=getTimeSpan">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -341,7 +325,6 @@ a DatumRange
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTimerange&unscoped_q=getTimerange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -359,7 +342,6 @@ an org.autoplot.pngwalk.WalkImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=imageAt&unscoped_q=imageAt">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -377,7 +359,6 @@ an org.autoplot.pngwalk.WalkImage
 
 
 <a href="https://github.com/autoplot/dev/search?q=imageAtNoSubRange&unscoped_q=imageAtNoSubRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -394,7 +375,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=initialLoad&unscoped_q=initialLoad">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -409,7 +389,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isShowMissing&unscoped_q=isShowMissing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -424,7 +403,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isUseSubRange&unscoped_q=isUseSubRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -439,7 +417,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=last&unscoped_q=last">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -455,7 +432,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=next&unscoped_q=next">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -471,7 +447,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=prev&unscoped_q=prev">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -489,7 +464,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=propertyChange&unscoped_q=propertyChange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -507,7 +481,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removePropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
@@ -528,7 +501,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setActiveSubrange&unscoped_q=setActiveSubrange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 setActiveSubrange( DatumRange range ) &rarr; void<br>
@@ -547,7 +519,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setIndex&unscoped_q=setIndex">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -570,7 +541,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setQCFilter&unscoped_q=setQCFilter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -588,7 +558,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setQCFolder&unscoped_q=setQCFolder">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -606,7 +575,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSelectedIndeces&unscoped_q=setSelectedIndeces">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -624,7 +592,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setShowMissing&unscoped_q=setShowMissing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -643,7 +610,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTimerange&unscoped_q=setTimerange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -661,7 +627,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setUseSubRange&unscoped_q=setUseSubRange">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -675,7 +640,6 @@ return the number of images in the sequence.
 the number of images in the sequence.
 
 <a href="https://github.com/autoplot/dev/search?q=size&unscoped_q=size">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -696,7 +660,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=skipBy&unscoped_q=skipBy">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -711,6 +674,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

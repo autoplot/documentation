@@ -22,7 +22,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isDir&unscoped_q=isDir">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -37,7 +36,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isInfo&unscoped_q=isInfo">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -52,6 +50,5 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isSrc&unscoped_q=isSrc">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

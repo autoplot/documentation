@@ -56,7 +56,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addPropertyChangeListener&unscoped_q=addPropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 addPropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
@@ -71,7 +70,6 @@ Get the value of data
 the value of data
 
 <a href="https://github.com/autoplot/dev/search?q=getData&unscoped_q=getData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -86,7 +84,6 @@ java.io.OutputStream
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOutputStream&unscoped_q=getOutputStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -101,7 +98,6 @@ return the port being used.  Note if the port was zero, this
 the port being used.
 
 <a href="https://github.com/autoplot/dev/search?q=getPort&unscoped_q=getPort">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -116,7 +112,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getRequestCount&unscoped_q=getRequestCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -131,7 +126,6 @@ java.net.Socket
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSocket&unscoped_q=getSocket">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -146,7 +140,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isListening&unscoped_q=isListening">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -161,7 +154,6 @@ boolean
 
 
 <a href="https://github.com/autoplot/dev/search?q=isReadData&unscoped_q=isReadData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -179,7 +171,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=removePropertyChangeListener&unscoped_q=removePropertyChangeListener">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 removePropertyChangeListener( String propertyName, java.beans.PropertyChangeListener listener ) &rarr; void<br>
@@ -198,7 +189,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setData&unscoped_q=setData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -216,7 +206,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setListening&unscoped_q=setListening">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -235,7 +224,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setPort&unscoped_q=setPort">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -253,7 +241,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setReadData&unscoped_q=setReadData">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -271,7 +258,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setRequestCount&unscoped_q=setRequestCount">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -289,7 +275,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSocket&unscoped_q=setSocket">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -304,7 +289,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=startListening&unscoped_q=startListening">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -319,6 +303,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=stopListening&unscoped_q=stopListening">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

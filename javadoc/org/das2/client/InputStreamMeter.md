@@ -17,7 +17,6 @@ long
 
 
 <a href="https://github.com/autoplot/dev/search?q=getBytesTransmitted&unscoped_q=getBytesTransmitted">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSpeedLimit&unscoped_q=getSpeedLimit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTransmitSpeed&unscoped_q=getTransmitSpeed">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -65,7 +62,6 @@ java.io.InputStream
 
 
 <a href="https://github.com/autoplot/dev/search?q=meterInputStream&unscoped_q=meterInputStream">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -83,6 +79,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setSpeedLimit&unscoped_q=setSpeedLimit">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

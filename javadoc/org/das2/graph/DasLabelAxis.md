@@ -24,7 +24,6 @@ org.das2.graph.DasAxis
 
 
 <a href="https://github.com/autoplot/dev/search?q=createAttachedAxis&unscoped_q=createAttachedAxis">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 createAttachedAxis( int orientation ) &rarr; DasAxis<br>
@@ -45,7 +44,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=findTick&unscoped_q=findTick">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -64,7 +62,6 @@ java.awt.geom.AffineTransform
 
 
 <a href="https://github.com/autoplot/dev/search?q=getAffineTransform&unscoped_q=getAffineTransform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -79,7 +76,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getInterItemSpace&unscoped_q=getInterItemSpace">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -96,7 +92,6 @@ d - a Datum
 pixel location of the max.
 
 <a href="https://github.com/autoplot/dev/search?q=getItemMax&unscoped_q=getItemMax">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -113,7 +108,6 @@ d - a Datum
 pixel location of the min.
 
 <a href="https://github.com/autoplot/dev/search?q=getItemMin&unscoped_q=getItemMin">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -128,7 +122,6 @@ int[]
 
 
 <a href="https://github.com/autoplot/dev/search?q=getLabelPositions&unscoped_q=getLabelPositions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -142,7 +135,6 @@ Getter for property outsidePadding.
 Value of property outsidePadding.
 
 <a href="https://github.com/autoplot/dev/search?q=getOutsidePadding&unscoped_q=getOutsidePadding">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -157,7 +149,6 @@ org.das2.graph.TickVDescriptor
 
 
 <a href="https://github.com/autoplot/dev/search?q=getTickV&unscoped_q=getTickV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -175,7 +166,6 @@ org.das2.datum.Datum
 
 
 <a href="https://github.com/autoplot/dev/search?q=invTransform&unscoped_q=invTransform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -189,7 +179,6 @@ Getter for property floppyltemSpacing.
 Value of property floppyltemSpacing.
 
 <a href="https://github.com/autoplot/dev/search?q=isFloppyItemSpacing&unscoped_q=isFloppyItemSpacing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -207,7 +196,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setFloppyItemSpacing&unscoped_q=setFloppyItemSpacing">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -225,7 +213,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setLabelFormatter&unscoped_q=setLabelFormatter">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -243,7 +230,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setOutsidePadding&unscoped_q=setOutsidePadding">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -262,7 +248,6 @@ double
 
 
 <a href="https://github.com/autoplot/dev/search?q=transform&unscoped_q=transform">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -280,7 +265,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=update&unscoped_q=update">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -295,6 +279,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=updateTickV&unscoped_q=updateTickV">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

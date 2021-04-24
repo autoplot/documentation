@@ -19,7 +19,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=addUnresolvedProperty&unscoped_q=addUnresolvedProperty">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -34,7 +33,6 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=describeUnresolved&unscoped_q=describeUnresolved">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -52,7 +50,6 @@ java.lang.Class
 
 
 <a href="https://github.com/autoplot/dev/search?q=getClass&unscoped_q=getClass">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -70,6 +67,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=getName&unscoped_q=getName">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

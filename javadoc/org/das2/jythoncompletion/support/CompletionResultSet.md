@@ -41,7 +41,6 @@ true if adding of the items can continue
   adding should preferably be discontinued.
 
 <a href="https://github.com/autoplot/dev/search?q=addAllItems&unscoped_q=addAllItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +66,6 @@ true if adding of the items can continue
   adding should preferably be discontinued.
 
 <a href="https://github.com/autoplot/dev/search?q=addItem&unscoped_q=addItem">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -107,7 +105,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=estimateItems&unscoped_q=estimateItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +120,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=finish&unscoped_q=finish">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -140,7 +136,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getSortType&unscoped_q=getSortType">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -155,7 +150,6 @@ true if the result set is already finished by previous call
   to {@link #finish()}.
 
 <a href="https://github.com/autoplot/dev/search?q=isFinished&unscoped_q=isFinished">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -179,7 +173,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setAnchorOffset&unscoped_q=setAnchorOffset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -202,7 +195,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setDocumentation&unscoped_q=setDocumentation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -227,7 +219,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setHasAdditionalItems&unscoped_q=setHasAdditionalItems">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -253,7 +244,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setTitle&unscoped_q=setTitle">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -276,7 +266,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setToolTip&unscoped_q=setToolTip">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -302,7 +291,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=setWaitText&unscoped_q=setWaitText">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -317,6 +305,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

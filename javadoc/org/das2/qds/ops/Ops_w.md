@@ -25,7 +25,6 @@ a rank 1 or rank 2 dataset with N by M elements, where N is the number
 <a href='Ops_p.md#putValues'>putValues(QDataSet, QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=where&unscoped_q=where">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 where( Object ds ) &rarr; QDataSet<br>
@@ -46,7 +45,6 @@ rank 1 list of indeces.
 <a href='https://github.com/autoplot/dev/blob/master/demos/2021/20210115/whereSequence.jy'>https://github.com/autoplot/dev/blob/master/demos/2021/20210115/whereSequence.jy</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=whereSequence&unscoped_q=whereSequence">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -64,7 +62,6 @@ filt - the type of the window.
 rank 1 QDataSet with length len.
 
 <a href="https://github.com/autoplot/dev/search?q=windowFunction&unscoped_q=windowFunction">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -91,7 +88,6 @@ rank N dataset containing non-zero where the condition is true.
 <a href='Ops_b.md#binsWithin'>binsWithin(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=within&unscoped_q=within">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 within( Object ds, Object bounds ) &rarr; QDataSet<br>
@@ -117,7 +113,6 @@ rank N dataset containing non-zero where the condition is true.
 <a href='Ops_w.md#within'>within(QDataSet, QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=without&unscoped_q=without">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 without( Object ds, Object bounds ) &rarr; QDataSet<br>

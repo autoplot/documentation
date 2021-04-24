@@ -14,7 +14,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=divisions&unscoped_q=divisions">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -32,7 +31,6 @@ org.das2.datum.TimeUtil.TimeDigit
 
 
 <a href="https://github.com/autoplot/dev/search?q=fromOrdinal&unscoped_q=fromOrdinal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -47,7 +45,6 @@ int
 
 
 <a href="https://github.com/autoplot/dev/search?q=getOrdinal&unscoped_q=getOrdinal">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -62,6 +59,5 @@ java.lang.String
 
 
 <a href="https://github.com/autoplot/dev/search?q=toString&unscoped_q=toString">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

@@ -74,7 +74,6 @@ ds - the dataset.
 null or the annotation value.
 
 <a href="https://github.com/autoplot/dev/search?q=getAnnotation&unscoped_q=getAnnotation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -88,7 +87,6 @@ access the single instance
 the single instance
 
 <a href="https://github.com/autoplot/dev/search?q=getInstance&unscoped_q=getInstance">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -103,7 +101,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=peek&unscoped_q=peek">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -123,7 +120,6 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=putAnnotation&unscoped_q=putAnnotation">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -138,6 +134,5 @@ void (returns nothing)
 
 
 <a href="https://github.com/autoplot/dev/search?q=reset&unscoped_q=reset">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

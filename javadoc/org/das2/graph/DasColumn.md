@@ -34,7 +34,6 @@ canvas - the canvas for the layout, ignored when a parent DasColumn is used.
 a new DasColumn
 
 <a href="https://github.com/autoplot/dev/search?q=create&unscoped_q=create">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 create( org.das2.graph.DasCanvas parent ) &rarr; DasColumn<br>
@@ -53,7 +52,6 @@ pleft - the normal position
 the new row.
 
 <a href="https://github.com/autoplot/dev/search?q=createAttachedColumn&unscoped_q=createAttachedColumn">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -67,7 +65,6 @@ return the width in points (pixels) of the column.
 the width in points (pixels) of the column.
 
 <a href="https://github.com/autoplot/dev/search?q=getWidth&unscoped_q=getWidth">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -81,7 +78,6 @@ return pixel location of the left of the column.
 pixel location of the left of the column.
 
 <a href="https://github.com/autoplot/dev/search?q=left&unscoped_q=left">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
 ***
@@ -95,6 +91,5 @@ return pixel location the right (non-inclusive) of the column.
 pixel location the right (non-inclusive) of the column.
 
 <a href="https://github.com/autoplot/dev/search?q=right&unscoped_q=right">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 

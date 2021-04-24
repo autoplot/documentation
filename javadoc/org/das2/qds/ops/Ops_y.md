@@ -14,6 +14,5 @@ the dataset for the xtags.
 <a href='SemanticOps_y.md#ytagsDataSet'>SemanticOps#ytagsDataSet(QDataSet)</a> <br>
 
 <a href="https://github.com/autoplot/dev/search?q=ytags&unscoped_q=ytags">[search for examples]</a>
-
 <a href="https://github.com/autoplot/documentation/blob/master/javadoc/index-all.md">[return to index]</a>
 
