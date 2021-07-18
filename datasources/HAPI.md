@@ -19,3 +19,5 @@ presented on the left.  When a dataset is selected, then a list of parameters wi
 dataset is shown, and you can select individual parameters to load.  A time range is entered
 and the parameters are loaded within the timerange.
 
+Groups considering implementing a data server should look at the HAPI specification 
+at https://github.com/hapi-server/data-specification/blob/master/hapi-3.0.0/HAPI-data-access-spec-3.0.0.md .
