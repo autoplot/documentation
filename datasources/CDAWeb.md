@@ -7,7 +7,7 @@ vap+cdaweb:ds=OMNI2_H0_MRG1HR&id=DST1800&timerange=Oct+2016
 
 which means from the data identified as "OMNI2_H0_MRG1HR" plot the parameter "DST1800", loading data to cover the time range "Oct 2016."
 
-File&rarr;Add Plot From&rarrCDAWeb will connect to the CDAWeb servers
+File&rarr;Add Plot From&rarr;CDAWeb will connect to the CDAWeb servers
 and download a file indicating what products they offer.  
 
 <img src='http://autoplot.org/wiki/images/CDAWebDB.png' width=160>
