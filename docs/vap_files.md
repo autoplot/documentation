@@ -6,6 +6,7 @@ servers, the .vap file can be sent to collegues so that they can have a look at 
 same display.  Another common use is to have a public website to can share standard 
 plot configurations with others.  
 
+# loading .vap files
 The .vap files are saved and loaded using the file menu.  If a .vap file name or URI
 is entered in the address bar, it will be loaded the same way.  Often .vap files
 are associated with the Autoplot application in the browser (this will happen automatically
@@ -18,3 +19,16 @@ to load this vap but for another day.  For example, if the vap file is
 http://autoplot.org/data/autoplot.vap then http://autoplot.org/data/autoplot.vap?timerange=2000-01-12
 will load the same data but for 2000-01-12.  Note the File&raar;"Open Vap File" has 
 a gui control to pick a different time.
+
+# saving .vap files
+When saving a .vap file, you have the option to "embed the data" within the output.  
+This writes not a .vap file but a .zip file containing the .vap file and the data used
+to make the plot.  This will create a .vap.zip file, which can then be used on the road 
+without having to load the data again.  
+
+Note that if you are plotting data from files which have been saved to your computer,
+then the .vap will contain references to data that will only work on your computer.  This
+is another case where it might be easier to share a .vap.zip file, because the local
+data from your computer will be embedded within the file.
+
+
