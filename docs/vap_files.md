@@ -3,7 +3,7 @@ containing the plot and plot element configurations, and the URIs loaded to make
 the plot.  These product files are like a .doc file is to Microsoft Word, or 
 an HTML file with .jpg references.  When all the data products are from public 
 servers, the .vap file can be sent to collegues so that they can have a look at the 
-same display.  Another common use is to have a public website to can share standard 
+same display.  Another common use is to have a public website to share standard 
 plot configurations with others.  
 
 # loading .vap files
@@ -22,9 +22,11 @@ a gui control to pick a different time.
 
 # saving .vap files
 When saving a .vap file, you have the option to "embed the data" within the output.  
-This writes not a .vap file but a .zip file containing the .vap file and the data used
-to make the plot.  This will create a .vap.zip file, which can then be used on the road 
-without having to load the data again.  
+This writes not a .vap file, but a .zip file containing the .vap file and the data used
+to make the plot.  The file will have a .vap.zip extension, which can then be used on the road 
+without having to load the data again.  To load the data you can point at the 
+vap file within the .zip, and Autoplot will pull out resources as needed.  (Any zip file
+can be "mounted" and browsed as if it were a file system.)
 
 Note that if you are plotting data from files which have been saved to your computer,
 then the .vap will contain references to data that will only work on your computer.  This
