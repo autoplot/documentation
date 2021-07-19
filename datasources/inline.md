@@ -9,7 +9,7 @@ will plot the numbers three times to make a sawtooth.
 is just an instant in time, useful for drawing a vertical line to mark an event.
 This can also contain bits of Jython code to load and manipulate data.  Here,
 
- vap+inline:ds=getDataSet('vap+cdaweb:ds=OMNI2_H0_MRG1HR&id=THETA-V1800')&ds*PI/180.0&timerange=Oct+2016
+ vap+inline:ds=getDataSet('vap+cdaweb:ds=OMNI2_H0_MRG1HR&id=THETA-V1800')&toRadians(ds)&timerange=Oct+2016
  
 loads angle data in degrees and converts it to radians.
  
