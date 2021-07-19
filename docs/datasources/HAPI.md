@@ -1,7 +1,7 @@
 # HAPI servers
 
 HAPI (Heliophysics API) servers provide data using the standard API developed to address
-the problem of diverse APIs for data servers in our feild.  HAPI defines a standard
+the problem of diverse APIs for data servers in our field.  HAPI defines a standard
 minimal set of operations a server needs to be useful, in hopes that many sites will use
 the standards, perhaps in addition to the APIs they already provide.  
 
