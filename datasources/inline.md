@@ -15,3 +15,5 @@ loads angle data in degrees and converts it to radians.
  
 There's an editor to assist in creating vap+inline URIs.  Note that the last tab is the "mash up" GUI
 which allows you to graphically combine data.
+
+<img src='../images/mashup.png' width=150>
