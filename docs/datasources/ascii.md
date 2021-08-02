@@ -17,7 +17,7 @@ also nominal data, where it'll load in strings or events lists.
 A regular expression is a well-known and standard tool in text parsing, and can be 
 used in Autoplot to parse unusual text files.  Regular expressions, or regex strings,
 allow for "capturing groups" which become the fields of each record.  For example,
-suppose you have a file /tmp/myf.txt like:
+suppose you have a file regex1.dat like:
   
 ~~~~~
 # fake data
