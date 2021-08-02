@@ -22,6 +22,7 @@ suppose you have a file /tmp/myf.txt like:
 ~~~~~
 site=3 temp=3.4
 site=4 temp=5.6
+site=5 temp=7.8
 ~~~~~
   
 You could then use the regular expression "site=(.+).temp=(.+)" and then use
