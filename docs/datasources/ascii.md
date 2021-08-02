@@ -28,7 +28,7 @@ site=5 temp=7.8
 You could then use the regular expression "site=(.+).temp=(.+)" and then use
 
 ~~~~~
-file:/tmp/myf.txt?pattern=site=(.+).temp=(.+)&field1
+https://github.com/autoplot/documentation/blob/master/docs/datasources/examples/regex1.dat?pattern=site=(.+).temp=(.+)&field1
 ~~~~~
   
 
