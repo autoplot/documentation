@@ -28,7 +28,7 @@ site=5 temp=7.8
 You could then use the regular expression "site=(.+).temp=(.+)" and then use
 
 ~~~~~
-file:/tmp/myf.txt?regex=site=(.+).temp=(.+)&field1
+file:/tmp/myf.txt?pattern=site=(.+).temp=(.+)&field1
 ~~~~~
   
 
