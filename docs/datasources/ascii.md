@@ -32,5 +32,11 @@ You could then use the regular expression "site=(.+).temp=(.+)" and then use
 https://github.com/autoplot/documentation/blob/master/docs/datasources/examples/regex1.dat?pattern=site=(.+).temp=(.+)&field1
 ~~~~~
   
-
+Each record (line) which matches the regular expression pattern will have its capturing groups set to field0, field1, etc.
+  
+These can also be named capturing groups. In this case, the following URI might be used:
+~~~~~
+https://github.com/autoplot/documentation/blob/master/docs/datasources/examples/regex1.dat?pattern=site=(?<site>.+).temp=(?<temp>.+)&site
+~~~~~
+  
 
