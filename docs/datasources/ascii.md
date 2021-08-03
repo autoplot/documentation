@@ -35,8 +35,15 @@ Note that if the first column (field0) is an ISO8601 time, then it is automatica
 The entire file can be read in as a "bundle", which is a two-element array of data, 
 ds[ntime,ncol], with the first index for the record and the second for the
 column.
+
+In a script this would look like:
+
+~~~~~
+ds= getDataSet('https://github.com/autoplot/documentation/blob/master/docs/datasources/examples/bundle.dat?bundle=:')
+slope= ds[:,-1]
+plot( slope )
+~~~~~
   
-NOTE THERE'S A BUG WHERE THE UNITS ARE NOT READ IN PROPERLY!
   
 ## Parsing with Regular Expressions
 A regular expression is a well-known and standard tool in text parsing, and can be 
