@@ -43,7 +43,20 @@ ds= getDataSet('https://github.com/autoplot/documentation/blob/master/docs/datas
 slope= ds[:,-1]
 plot( slope )
 ~~~~~
+
+Note that each column of the bundle has a unique name and units attached.
+
+## Rich ASCII, or JSON-Headed ASCII
+In a collaboration with Los Alamos National Labs (LANL), the JSON-Headed ASCII or just Rich ASCII file
+was defined.  This is an ASCII file but with a JSON block beginning it which contains metadata
+for each column, and also virtual columns combining columns.  For example, you can request B-GSM, or B-GSM-X,
+because the JSON-Headed ASCII file knows how these two datasets are found in the file.  Spectrograms 
+can also be stored within the file, with the Y-Axis values for each channel stored within the 
+JSON block.  In this case, just the parameter name (like "B-GSM") is used:
   
+~~~~~
+https://emfisis.physics.uiowa.edu/Flight/RBSP-A/LANL/MagEphem/2018/rbspa_def_MagEphem_OP77Q_20180103_v3.0.0.txt?Rgsm
+~~~~~
   
 ## Parsing with Regular Expressions
 A regular expression is a well-known and standard tool in text parsing, and can be 
