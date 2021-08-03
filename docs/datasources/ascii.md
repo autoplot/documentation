@@ -13,6 +13,26 @@ example you can give it a regular expression and parse the captured fields.  You
 have a parser that always grabs characters 3 and 4 and parses them as an int.  There's 
 also nominal data, where it'll load in strings or events lists. 
 
+## Reading in the One Column
+First, one can read in one column of an ASCII file using "column=field<n>".  When 
+column names are found as the first row of the file the column name may be used 
+as well.  For example for the file twocolumn.dat,
+  
+~~~~~
+time,temperature
+2020-02-02T00:00,78.3
+2020-02-02T00:01,78.4
+2020-02-02T00:02,78.2
+~~~~~
+  
+one can read the temperature column using
+~~~~~
+https://github.com/autoplot/documentation/blob/master/docs/datasources/examples/twocolumn.dat?column=temperature
+~~~~~
+  
+## Reading in the Entire File as a Bundle
+
+  
 ## Parsing with Regular Expressions
 A regular expression is a well-known and standard tool in text parsing, and can be 
 used in Autoplot to parse unusual text files.  Regular expressions, or regex strings,
