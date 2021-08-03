@@ -63,5 +63,7 @@ These can also be named capturing groups. In this case, the following URI might 
 ~~~~~
 https://github.com/autoplot/documentation/blob/master/docs/datasources/examples/regex1.dat?pattern=site=(?<site>.+).temp=(?<temp>.+)&site
 ~~~~~
-  
+
+Note that the data source editor GUI doesn't support regular expressions, and these must be manually typed 
+into the address bar or scripts.
 
