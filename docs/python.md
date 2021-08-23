@@ -45,7 +45,8 @@ print( apds.toString() )
 The package "autoplot" provides some convenience methods.  Once installed
 with "pip install autoplot" try:
 ~~~~~
-from autoplot import *
+from autoplot import javaaddpath
+from jpype import JClass
 javaaddpath('http://autoplot.org/latest/autoplot.jar')
 APDataSet= JClass("org.autoplot.idlsupport.APDataSet")
 apds=APDataSet()
