@@ -10,3 +10,19 @@ Both IDL and MATLAB make it extremely easy to use Java code in these environment
 Autoplot contains a number of codes that are useful, in addition to reading data. For example, Autoplot is able to write data to a number of data formats, and this code is useful in Matlab as well.
 
 JPype is a Python library that bridges Java to native Python, and it is used to provide this functionality to Python as well.
+
+# Installing JPype and Autoplot
+Install jpype which allows Python to call Java codes and migrate data in and out of the Java Virtual Machine:
+ pip install jpype
+
+Install Autoplot software:
+ pip install autoplot
+
+# Connecting to Python
+Python is able to add the jar after the session is started, with the plugin jpype. You'll have to use your JRE location (Java 7 is required), and autoplot.jar can be downloaded from http://autoplot.org/latest/autoplot.jar:
+
+ >>> from jpype import *
+ >>> startJVM(getDefaultJVMPath(),'-Djava.class.path=/tmp/autoplot.jar')
+ >>> apds= JClass("org.autoplot.idlsupport.APDataSet")
+ QDataSetBridge v2.1.0
+ APDataSet v1.5.0 
