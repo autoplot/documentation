@@ -1,4 +1,4 @@
-# Using Autoplot in the Python Environment, using JPype.
+# Using Autoplot in the Python Environment, using JPype
 
 Audience: Autoplot users who would like to use the software to read data into Python, and to use other Autoplot codes from these environments
 
