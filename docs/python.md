@@ -13,10 +13,15 @@ JPype is a Python library that bridges Java to native Python, and it is used to 
 
 # Installing JPype and Autoplot
 Install jpype which allows Python to call Java codes and migrate data in and out of the Java Virtual Machine:
- pip install jpype
+ 
+~~~~~
+pip install jpype
+~~~~~
 
 Install Autoplot software:
- pip install autoplot
+~~~~~
+pip install autoplot
+~~~~~
 
 # Connecting to Python
 Python is able to add the jar after the session is started, with the plugin jpype. You'll have to use your JRE location (Java 7 is required), and autoplot.jar can be downloaded from http://autoplot.org/latest/autoplot.jar:
