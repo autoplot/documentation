@@ -52,3 +52,27 @@ APDataSet= JClass("org.autoplot.idlsupport.APDataSet")
 apds=APDataSet()
 ~~~~~
 This will download the latest version of Autoplot and use it.
+
+# Reading some CDF data with aggregation
+Autoplot is able to read data from CDF, and with it's aggregation feature, you can easily load the data needed.
+
+~~~~~
+>>> apds.setDataSetURI( 'http://autoplot.org/data/agg/hyd/$Y/po_k0_hyd_$Y$m$d_v$v.cdf?ELE_DENSITY&timerange=2000+Jan+10+through+2000+Jan+11' )
+>>> apds.doGetDataSet()
+>>> print( apds.toString() )
+'http://autoplot.org/data/agg/hyd/$Y/po_k0_hyd_$Y$m$d_v$v.cdf?ELE_DENSITY&timerange=2000+Jan+10+through+2000+Jan+11
+ELE_DENSITY: ELE_DENSITY[Epoch=3128] (cm^-3)
+Epoch: Epoch[3128] (cdfEpoch) (DEPEND_0)'
+~~~~~
+
+You can tell it what units to use for time with the setPreferredUnits command:
+~~~~~
+apds.setPreferredUnits('hours since 2000-01-10T00:00Z')
+tt= apds.values('Epoch')
+nn= apds.values('ELE_DENSITY')
+
+import numpy as np
+import matplotlib.pyplot as plt
+plt.plot( tt, nn, '.-' ) 
+plt.show()
+~~~~~
