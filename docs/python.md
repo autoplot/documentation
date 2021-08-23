@@ -21,8 +21,10 @@ Install Autoplot software:
 # Connecting to Python
 Python is able to add the jar after the session is started, with the plugin jpype. You'll have to use your JRE location (Java 7 is required), and autoplot.jar can be downloaded from http://autoplot.org/latest/autoplot.jar:
 
- >>> from jpype import *
- >>> startJVM(getDefaultJVMPath(),'-Djava.class.path=/tmp/autoplot.jar')
- >>> apds= JClass("org.autoplot.idlsupport.APDataSet")
- QDataSetBridge v2.1.0
- APDataSet v1.5.0 
+~~~~~
+>>> from jpype import *
+>>> startJVM(getDefaultJVMPath(),'-Djava.class.path=/tmp/autoplot.jar')
+>>> apds= JClass("org.autoplot.idlsupport.APDataSet")
+QDataSetBridge v2.1.0
+APDataSet v1.5.0 
+~~~~~
