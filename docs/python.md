@@ -34,3 +34,10 @@ Python is able to add the jar after the session is started, with the plugin jpyp
 APDataSet v1.7.0
 Java Version 1.8.0_282
 ~~~~~
+
+This object "apds" can be used to download data:
+~~~~~
+apds.setDataSetURI( 'http://autoplot.org/data/swe-np.xls?column=data&depend0=dep0' )
+apds.doGetDataSet()
+print( apds.toString() )
+~~~~~
