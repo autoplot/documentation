@@ -29,7 +29,8 @@ Python is able to add the jar after the session is started, with the plugin jpyp
 ~~~~~
 >>> from jpype import *
 >>> startJVM(getDefaultJVMPath(),'-Djava.class.path=/tmp/autoplot.jar')
->>> apds= JClass("org.autoplot.idlsupport.APDataSet")
-QDataSetBridge v2.1.0
-APDataSet v1.5.0 
+>>> APDataSet= JClass("org.autoplot.idlsupport.APDataSet")
+>>> apds=APDataSet()
+APDataSet v1.7.0
+Java Version 1.8.0_282
 ~~~~~
