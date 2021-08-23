@@ -41,3 +41,13 @@ apds.setDataSetURI( 'http://autoplot.org/data/swe-np.xls?column=data&depend0=dep
 apds.doGetDataSet()
 print( apds.toString() )
 ~~~~~
+
+The package "autoplot" provides some convenience methods.  Once installed
+with "pip install autoplot" try:
+~~~~~
+from autoplot import *
+javaaddpath('http://autoplot.org/latest/autoplot.jar')
+APDataSet= JClass("org.autoplot.idlsupport.APDataSet")
+apds=APDataSet()
+~~~~~
+This will download the latest version of Autoplot and use it.
