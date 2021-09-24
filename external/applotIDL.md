@@ -28,10 +28,10 @@ Options&rarr;Enable Feature&rarr;Server, and use the default port 12345.
 ~~~~~
 
 # Discussion 
-## ow it works 
+## How it works 
 The script works by saving the data into a das2stream, which is das2/Autoplot's serialized data format, and sending over to 
 Autoplot via the /tmp directory.  Autoplot's server is used to tell it to plot the file.
 
-# Problems 
+## Problems 
 * applot.pro has code to start up Autoplot from IDL that should be updated.  It assumes Windows and 
 a fixed path for java, and the CLASSPATH variable isn't used.
