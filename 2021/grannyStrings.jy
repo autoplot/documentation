@@ -1,3 +1,4 @@
+from org.autoplot.pngwalk import PngWalkTool
 from java.util import HashMap
 from java.awt import RenderingHints
 from java.awt.image import BufferedImage
@@ -13,7 +14,9 @@ Bulk<br>Flow
 Flow !(color;blue)Positive!(color) !(color;red)Negative!(color) -> Flow_color_Positive_Negative
 !(color;SaddleBrown)&#9608;!(color) Brown Points
 &Delta;M Parameter
-&#9742; 555-1212'''
+&#9742; 555-1212
+some <b>Bold</b> text
+'''
 
 def nameFor( s ):
     s= s.replace( '!','_' )
@@ -43,4 +46,9 @@ for s in sss.split('\n'):
     m.put('granny',s)
     print '| %s | | <img src=\'image/granny/%s.png\'> |' % ( s.replace('&','&amp;'), n )
     writeToPng( im,'/tmp/ap/%s.png' % n, m )
+
+setStatus('Done, see /tmp/ap/*.png and console output')
+
+PngWalkTool().start('/tmp/ap/*.png',getViewWindow())
+    
     
