@@ -10,7 +10,7 @@ Annotations add additional text to the page.  They are free text that can be att
 # Adding Annotations 
 To add an annotation, right-click on the plot image and select "Add Annotation."  This will ask for starting text and will optionally allow the annotation to be anchored to a point on the plot.  This annotation is now a part of the dom configuration and will be saved into a .vap file.  Right-click on the annotation to edit its properties or to delete the annotation.
 
-The text can contain "granny" codes like E=mc!u2!n (E=mc<sup>2</sup>), and either !c or &lt;br&gt; will start a new line.
+The text can contain "<a href='https://github.com/autoplot/documentation/wiki/Granny-Strings'>granny</a>" codes like E=mc!u2!n (E=mc<sup>2</sup>), and either !c or &lt;br&gt; will start a new line.
 
 # Anchor Location 
 The annotation properties can be edited with the properties dialog.  These annotations have a set of controls that is a bit overwhelming, and some are used more often than others.
