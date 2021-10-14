@@ -17,7 +17,9 @@ The annotation properties can be edited with the properties dialog.  These annot
 
 <img src='image/annotations/annotationProperties.png' width=300>
 
-When anchored to the canvas, the annotation is positioned relative to a row and a column, and by default this is the row and column of the plot which created the annotation.  The rowId and columnId properties can be reset, or set to an empty string to mean the entire width or height of the canvas.  The annotation can be positioned at any of the corners or the center of this row-column box, and inside or outside of the box.  There is an anchorOffset that allows the annotation to be moved, which is "1em,1em" initially.  This means 1em towards the box center in horizontal and vertical position.  If the annotation were positioned outside of the box, then this would be away from the box.  
+When anchored to the canvas, the annotation is positioned relative to a row and a column, and by default this is the row and column of the plot which created the annotation.  The rowId and columnId properties can be reset, or set to an empty string to mean the entire width or height of the canvas.  The annotation can be positioned at any of the corners or the center of this row-column box, and inside or outside of the box.  
+
+There is an anchorOffset that allows the annotation to be moved, which is "1em,1em" initially.  This means 1em towards the box center in horizontal and vertical position.  If the annotation were positioned outside of the box, then this would be away from the box.  An empty string ("") means no offset or "0em,0em".  These offset strings can have point offsets "5pt,0pt" and can be combined as well "1em-5pt".    
 
 When the annotation is positioned relative to data, the xrange and yrange define the box position.  The annotation is then relative to the box specified by these two properties.
 
