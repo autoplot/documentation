@@ -5,7 +5,7 @@ See also: http://autoplot.org//help.annotationCommand
 # Introduction 
 Annotations add additional text to the page.  They are free text that can be attached anywhere to the canvas or attached to data.   This is a step usually left to another software as the figure is prepared for publication, such as Photoshop or Power Point, but it's useful to be able to do this within Autoplot for communication with a colleague and to get the display all the closer to be ready for publication.
 
-<img src='image/annotation2.png' width=300>
+<img src='image/annotations/annotation2.png' width=300>
 
 # Adding Annotations 
 To add an annotation, right-click on the plot image and select "Add Annotation."  This will ask for starting text and will optionally allow the annotation to be anchored to a point on the plot.  This annotation is now a part of the dom configuration and will be saved into a .vap file.  Right-click on the annotation to edit its properties or to delete the annotation.
