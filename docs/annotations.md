@@ -78,8 +78,10 @@ There are some control sequences which are useful in labels (axis labels as well
 !(color;saddleBrown)
 ~~~~~
 
-will set the color to "saddleBrown", and !(color) will return to the initial drawing color.  See
-https://github.com/autoplot/dev/blob/master/rfe/sf/625/demoBuiltIns.jy.
+will set the color to "saddleBrown", and !(color) will return to the initial drawing color.  Colors
+can be identified with a number of <a href='https://github.com/autoplot/documentation/wiki/colors'>different
+strings</a>.  See
+https://github.com/autoplot/dev/blob/master/rfe/sf/625/demoBuiltIns.jy.  
 
 Labels also support also support custom drawing code, defined in scripts.  See 
 https://github.com/autoplot/dev/blob/master/rfe/sf/625/demoPainterAnnoPsym.jy which shows how to draw plot symbols, and
