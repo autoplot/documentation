@@ -24,7 +24,7 @@ When the annotation is positioned relative to data, the xrange and yrange define
 In 2020, a new property "splitAnchorType" was added so that the X and Y position of the annotation can be set separately.  For example, if we want the X position to follow the data, but the Y position to follow a plot, then splitAnchorType=True and verticalAnchorType=AnchorType.CANVAS, while anchorType=AnchorType.DATA.
 
 # Font and Colors 
-By default the annotation inherits its font and colors from the canvas.  The background will be the same as the canvas background and foreground the same as the canvas foreground.  When overrideColors is true, the foreground, background, and textColor are used instead.
+By default the annotation inherits its font and colors from the canvas.  The background will be the same as the canvas background and foreground the same as the canvas foreground.  When overrideColors is true, the foreground, background, and textColor are used instead.  
 
 Although the font cannot be changed, the font size used is specified relative to the canvas font.  So the default "1em" means that the font size should be the same as other labels on the canvas.  "2em" would be twice as big and "1.0em+2pt" would be 2 points bigger.
 
