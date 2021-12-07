@@ -9,3 +9,4 @@ Purpose: outline how to set up Git on a Mac.
 7. Edit->New Folder...
 8. https://raw.githubusercontent.com/autoplot/dev/master/demos/tools/editor/git-actions.xml. (Note this is the "raw" version, because the normal github version doesn't work.  This is a bug which will be fixed.)
 9. Linking github remote site to local repository
+10. How to collaborate with others using a private repository.
