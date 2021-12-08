@@ -3,6 +3,7 @@ Purpose: outline how to set up Git on a Mac.
 1. what is git?
    - look at https://github.com/autoplot/dev/
    - enter the location into Autoplot and it will run the script immediately.
+   - strike decorator at https://github.com/autoplot/dev/blob/master/demos/annotations/strike/strikeDecorator.jy
    - this works for *public* repositories which anyone can access.
 2. what about private git repos?
    - log into github.com and show https://github.com/autoplot/private_study
