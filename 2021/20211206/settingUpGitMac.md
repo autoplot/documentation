@@ -7,7 +7,7 @@ Purpose: outline how to set up Git on a Mac.
 2. what about private git repos?
    - log into github.com and show https://github.com/autoplot/private_study
    - only people I share this repo with can see the files, or even the folder itsself.
-   - Autoplot hasn't been able to use these until recently.
+   - Autoplot hasn't been able to use these repos until recently.
 4. I'll show how to use such repos in Autoplot and its new support for command-line git use.
 5. git appears to be installed out of the factory.  Verify this with "git" at the command line.
 6. set up public/private keys with ssh-keygen
