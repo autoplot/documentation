@@ -13,7 +13,7 @@ Purpose: outline how to set up Git on a Mac.
 5. git appears to be installed out of the factory.  Verify this with "git" at the command line.
 6. set up public/private keys with ssh-keygen
 7. copy the PUBLIC key to github/gitlabs.  This is /home/jbf/.ssh/id_rsa.pub  (Guard id_rsa carefully.  This is the security.)
-8. git clone git@github.umn.edu:FADEN004/talk_20210928.git
+8. git clone git@github.umn.edu:FADEN004/talk_20210928.git  Note my cable internet blocked port 22!
 9. Now start up Autoplot, where we will add the git commands.
 10. on Script tab, right-click, Settings->Editor Bookmarks
 11. Edit->New Folder...
