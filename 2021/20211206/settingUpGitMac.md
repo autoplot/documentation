@@ -18,5 +18,5 @@ Purpose: outline how to set up Git on a Mac.
 10. on Script tab, right-click, Settings->Editor Bookmarks
 11. Edit->New Folder...
 12. https://raw.githubusercontent.com/autoplot/dev/master/demos/tools/editor/git-actions.xml. (Note this is the "raw" version, because the normal github version doesn't work.  This is a bug which will be fixed.)
-13. Linking github remote site to local repository
+13. Linking github remote site to local repository.  New script "linkToUpstream" does this.
 14. How to collaborate with others using a private repository.
