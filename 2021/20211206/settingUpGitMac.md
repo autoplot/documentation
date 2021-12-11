@@ -21,6 +21,8 @@ The first video introduces git and how it can be used with Autoplot scripts.
 10. give a peek at Autoplot's script, and the diff action.
 
 # Second video
+New actions in the editor.
+
 1. Now start up Autoplot, where we will add the git commands.
 2. on Script tab, right-click, Settings->Editor Bookmarks
 3. Edit->New Folder...
