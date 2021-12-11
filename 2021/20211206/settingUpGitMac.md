@@ -27,3 +27,14 @@ The first video introduces git and how it can be used with Autoplot scripts.
 4. https://github.com/autoplot/dev/blob/master/demos/tools/editor/git-actions.xml.
 5. Linking github remote site to local repository.  New script "linkToUpstream" does this.
 6. How to collaborate with others using a private repository.
+
+# Third video 
+The third video shows how collaboration is done with multiple people working on an area.
+
+1. Note that local repo overrides what's on the upstream site
+   - You have to be aware if things haven't been committed.
+   - You need to pull to see changes your colleague has made
+2. Let the remote site be the authority, since it shows what is actually upstream.
+3. What to do when there are conflicts.
+4. xkcd cartoon has it right--just move the old one out of the way and clone a new one.
+5. pull before you push
