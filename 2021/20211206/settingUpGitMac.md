@@ -8,17 +8,20 @@ The first video introduces git and how it can be used with Autoplot scripts.
    - enter the location into Autoplot and it will run the script immediately.
    - strike decorator at https://github.com/autoplot/dev/blob/master/demos/annotations/strike/strikeDecorator.jy
    - this works for *public* repositories which anyone can access.
-2. what about private git repos?
+2. what about *private* git repos?
    - log into github.com and show https://github.com/autoplot/private_study
    - only people I share this repo with can see the files, or even the folder itsself.
    - Autoplot hasn't been able to use these repos until recently.
 4. I'll show how to use such repos in Autoplot and its new support for command-line git use.
-5. git appears to be installed out of the factory.  Verify this with "git" at the command line.
+5. git appears to be installed out of the box.  Verify this with "git" at the command line.
 6. set up public/private keys with ssh-keygen
-7. copy the PUBLIC key to github/gitlabs.  This is /home/jbf/.ssh/id_rsa.pub  (Guard id_rsa carefully.  This is the security.)
-8. git clone git@github.com:autoplot/private_study.git  Note my cable internet blocked port 22!  h
-9. make a trivial change, show git diff, commit.
-10. give a peek at Autoplot's script, and the diff action.
+   - if you already have ~/.ssh/id_rsa.pub, you can just use this file.
+   - Use the default if you don't have the file ~/.ssh/id_rsa.pub
+   - passphrase cannot be used, as there's no way to enter a passphrase.
+8. copy the PUBLIC key to github/gitlabs.  This is ~/.ssh/id_rsa.pub  (Guard id_rsa carefully.  This is the security.)
+9. git clone git@github.com:autoplot/private_study.git  Note my cable internet blocked port 22!  
+10. make a trivial change, show git diff, commit.
+11. give a peek at Autoplot's script, and the diff action.
 
 # Second video
 New actions in the Autoplot script editor.
