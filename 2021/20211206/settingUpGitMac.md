@@ -43,3 +43,12 @@ The third video shows how collaboration is done with multiple people working on 
 3. What to do when there are conflicts.
 4. xkcd cartoon has it right--just move the old one out of the way and clone a new one.
 5. pull before you push
+
+# Fourth Video
+Use case where github is used to store digitized data set.
+
+1. introduce digitizing task
+2. when done for the day
+   - pull to get other's commits
+   - commit and push your changes
+3. review the github site
