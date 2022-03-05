@@ -18,8 +18,10 @@ range of values are accepted.
 | min        | minimum accepted value | 0 | some support |
 | max        | maximum accepted value | 10 | some support |
 | maxExclusive | maximum limit, but not allowed | 10 | proposed |
-| enum | list of allowed values | ['a','b'] | supported |
+| enum | list of allowed values | ['a','b'] | supported, droplist shows but is not editable |
+| examples | list of example values, <br>input needn't be one of these | [3,5,9] | droplist shows but is still editable |
 | subset | values must be from this list | 'ant1,ant2,ant3' | proposed |
+| regex | values must match regex | 'sc[1234]' | some support, text GUI should warn of mismatch |
 
 
 
