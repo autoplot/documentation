@@ -22,6 +22,8 @@ range of values are accepted.
 | examples | [3,5,9] | list of example values, <br>input needn't be one of these  | droplist shows but is still editable |
 | subset | 'ant1,ant2,ant3' | values must be from this list |  proposed |
 | regex | 'sc[1234]'  | values must match regex| some support, text GUI should warn of mismatch |
+| format | '$Y-$m' | time start is formatted to this and parsed | proposed |
+| format | '%.3f' | float value is formatted to this and parsed | proposed |
 
 
 
