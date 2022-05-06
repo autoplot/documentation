@@ -15,7 +15,9 @@ http://autoplot.org/data/pngwalk/product_$Y$m$d.png or simply a wildcard like
 http://autoplot.org/data/pngwalk/product_*.png. The PNG Walk Viewer will look for Autoplot features, like 
 a folder called "thumbs400" where thumbnails can be loaded quickly.
 
-# GUI 
+# Creating Pngwalks
+
+## GUI 
 
 Selecting <code>[menubar]->Tools->Create PNG Walk</code> shows
 
@@ -47,7 +49,7 @@ Selecting <code>[menubar]->Tools->Create PNG Walk</code> shows
 
 **Output Format** allows PDF output to be produced instead of PNG.
 
-# Command Line 
+## Command Line 
 
 CreatePngWalk can be called from the command line for batch processing.  For example, mission operations runs 
 the pngs for their data products nightly, so the scientists they serve can easily check that data is coming in.
@@ -78,3 +80,18 @@ Usage: CreatePngWalk
    --autorangeFlags     if true, then check each axis' autorange property, and only autorange if this is set to true.
    --update  	only calculate missing images
 ~~~~~
+
+# Browsing PNG Walks
+The PNGWalk tool provides an efficient browser for sets of images.  Designed for a series of pre-rendered plots, including those not created by Autoplot and even vacation pictures.  It takes a template for the filenames, deriving the time coverage of each file.  For example, if pointed to <code><nowiki>http://autoplot.org/data/pngwalk/product_$Y$m$d.png</nowiki></code>, it indicates the time covered by each png file.  When a template cannot be made, a wildcard like * can be used as well (<code><nowiki>http://autoplot.org/data/pngwalk/product_*.png</nowiki></code>), and in this case the filenames are indicated. 
+
+[[Image:pngwalk.png|thumb|500px]]
+
+Note the pngwalk provides a number of views of the data: the single image with thumbnails of adjacent images above, a grid view with all thumbnails, and the "context flow" which shows the image in the context of the surrounding intervals.
+
+When Autoplot creates a PNG walk, it will also generate the thumbnails.  The PNGWalk Tool looks for these in the subdirectories thumbs100 and thumbs400.  Also it creates a .pngwalk file, which can be used to refer to the entire pngwalk.  For example, typing in this filename into the Autoplot address bar will launch the PNGWalk Tool with the correct template.  A .pngwalk file is also used to describe a set of files in a different location or even server.
+
+Rich PNGs are pngs that have additional metadata, indicating axis information.  When the image is clicked, the status message towards the bottom indicates the click location, in data coordinates.  When the Rich PNG metadata is not available, the pixel coordinates are indicated.  There's a digitizer that will collect these click positions so that new datasets can be derived from the pngwalk.
+
+Quality control (QC) is a facility that allows metadata to be added to the PNG Walk, such as red flags indicating that the interval needs attention.
+
+The "View in Autoplot" button will be enabled when a .vap file has been embedded within the PNG Walk.  It will be combined with the image time to launch Autoplot with the configuration used to create the image.  As of v2012a_3, when the "Run Batch" tool is used to create images, the script and the arguments are embedded within the .png and the "View in Autoplot" button will re-run the script.
