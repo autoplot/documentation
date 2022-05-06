@@ -84,7 +84,7 @@ Usage: CreatePngWalk
 # Browsing PNG Walks
 The PNGWalk tool provides an efficient browser for sets of images.  Designed for a series of pre-rendered plots, including those not created by Autoplot and even vacation pictures.  It takes a template for the filenames, deriving the time coverage of each file.  For example, if pointed to <code><nowiki>http://autoplot.org/data/pngwalk/product_$Y$m$d.png</nowiki></code>, it indicates the time covered by each png file.  When a template cannot be made, a wildcard like * can be used as well (<code><nowiki>http://autoplot.org/data/pngwalk/product_*.png</nowiki></code>), and in this case the filenames are indicated. 
 
-[[Image:pngwalk.png|thumb|500px]]
+<img src='image/500px-pngwalk.png' align='right'>
 
 Note the pngwalk provides a number of views of the data: the single image with thumbnails of adjacent images above, a grid view with all thumbnails, and the "context flow" which shows the image in the context of the surrounding intervals.
 
