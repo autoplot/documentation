@@ -95,3 +95,18 @@ Rich PNGs are pngs that have additional metadata, indicating axis information.  
 Quality control (QC) is a facility that allows metadata to be added to the PNG Walk, such as red flags indicating that the interval needs attention.
 
 The "View in Autoplot" button will be enabled when a .vap file has been embedded within the PNG Walk.  It will be combined with the image time to launch Autoplot with the configuration used to create the image.  As of v2012a_3, when the "Run Batch" tool is used to create images, the script and the arguments are embedded within the .png and the "View in Autoplot" button will re-run the script.
+
+# .pngwalk Files 
+
+A .pngwalk file can describe pngwalks in the same directory or even on a different server.  The following name/value pairs are found in the 
+.pngwalk file:
+
+| property | purpose |
+| ---- | ---- | 
+| version  | the version of the pngwalk. |
+| baseurl  |  the location of the files. |
+| vapfile  |  the location of the .vap file associated with the images, used to launch back into Autoplot. |
+| filePattern | the name used for the files, used when product is not. |
+| product  |   the product name, which results in the filePattern product_timeFormat.png or product_timeFormat_vers.png. |
+| timeFormat | each files' time format identifier, like $Y$m$d. |
+| qcturl  |    the base for the quality control files. |
