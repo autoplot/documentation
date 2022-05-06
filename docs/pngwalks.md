@@ -19,8 +19,7 @@ a folder called "thumbs400" where thumbnails can be loaded quickly.
 
 Selecting <code>[menubar]->Tools->Create PNG Walk</code> shows
 
-
-[[Image:createPngWalk2018.jpg]]
+<img src='../documentation/createPngWalk2018.png'>
 
 **Output Folder** is the location where the PNGWalk will be written.  Note multiple PNGWalks can exist within the same folder.
 
