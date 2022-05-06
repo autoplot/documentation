@@ -15,3 +15,67 @@ http://autoplot.org/data/pngwalk/product_$Y$m$d.png or simply a wildcard like
 http://autoplot.org/data/pngwalk/product_*.png. The PNG Walk Viewer will look for Autoplot features, like 
 a folder called "thumbs400" where thumbnails can be loaded quickly.
 
+# GUI 
+
+Selecting <code>[menubar]->Tools->Create PNG Walk</code> shows
+
+
+[[Image:createPngWalk2018.jpg]]
+
+**Output Folder** is the location where the PNGWalk will be written.  Note multiple PNGWalks can exist within the same folder.
+
+**Overwrite** will delete all the files found in the folder before creating the PNGWalk.
+
+**Filename Root** is a fragment to put in each file name.  For example, "product_20150824.png" has the root "product".
+
+**Time Format** is the format used to label each image.  Note this implies the interval covered by each image, so $Y$m$d will be daily files.  See http://tsds.org/uri_templates#Full_List_of_Codes
+
+**Version** if specified, then a version string will be added.
+
+**Rescale** will rescale the time axis to provide context or overlap.  For example, "-10%,110%" will add an additional 10% each end of the time axis.
+
+**Autorange Each** will autorange the plots as they are produced, resetting the other axes use best range.  The "check autorange flag" box below this will only autorange axes that have the autorange property set to true.  This allows some axes to be held constant while others are reset for each interval.  Note too that an axis with the autorange property set may also use its "autorangeHints" property as well, which allows more precise control, such as "includeZero" or "widths=10,100,1000".
+
+**Update Sequence** will only generate images where the output file does not exist already.
+
+**Generate intervals to cover time range** is the default mode, where a span is specified.  For example, if you want to look at daily images for the month of August in 2015, this would be "Aug 2015" and the time format would be "$Y$m$d", creating 31 files.  Note Autoplot always allows times relative to the present, so you can say "P10D/now" to run the past 10 days.  A Time Range Tool is provided to help specify this field.  Note that for some missions, such as RBSP, Autoplot has identified orbit numbers which can be used to specify the span as well.
+
+**Use events file that contains the list of times** allows a file with a list of time ranges to specify the intervals.  Note the default behaviour is to use the Time Format to create the filename for each file, so this should have sufficient specification, so for example, $Y$m$d_$H$M might be suitable when there are several spans within each day.
+
+**Events file specifies the product names** will instead use the third column of the events file to name each file.  "Output Folder" is used to locate the files, and the thumbs folders will be created in this folder.
+
+**Create Thumbs** will create reduced versions of the images which can be transmitted quickly.
+
+**Output Format** allows PDF output to be produced instead of PNG.
+
+# Command Line 
+
+CreatePngWalk can be called from the command line for batch processing.  For example, mission operations runs 
+the pngs for their data products nightly, so the scientists they serve can easily check that data is coming in.
+
+~~~~~
+curl -O http://autoplot.org/jnlp/latest/autoplot.jar
+java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.pngwalk.CreatePngWalk
+~~~~~
+
+Roughly the same controls are available, but in command line form.  They are:
+
+~~~~~
+spot5> java -cp local/autoplot/autoplot.jar org.autoplot.pngwalk.CreatePngWalk
+CreatePngWalk 20160610
+Usage: CreatePngWalk 
+   -f, --timeFormat= 	timeformat for png files, e.g. $Y is year, $j is day of year 
+   -r, --timeRange= 	time range to cover, e.g. 2011 through 2012 
+   -b, --batchUri= 	optionally provide list of timeranges 
+   --batchUriName= 	use $o to use the filename in the batch file 
+   -t, --createThumbs= 	create thumbnails, y (default) or n 
+   -n, --product= 	product name in each filename (default=product) 
+   -o, --outputFolder= 	location of root of pngwalk 
+   --outputFormat= 	output format png or pdf 
+   -v, --vap= 	vap file or URI to plot (required)
+   --rescalex= 	rescale factor, such as '0%-1hr,100%+1hr', to provide context to each image 
+   --version= 	additional version string to add to each filename, like v1.0 
+   --autorange  	rerange dependent dimensions Y and Z
+   --autorangeFlags     if true, then check each axis' autorange property, and only autorange if this is set to true.
+   --update  	only calculate missing images
+~~~~~
