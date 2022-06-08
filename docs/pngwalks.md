@@ -104,9 +104,18 @@ A .pngwalk file can describe pngwalks in the same directory or even on a differe
 | property | purpose |
 | ---- | ---- | 
 | version  | the version of the pngwalk. |
-| baseurl  |  the location of the files. |
+| baseurl  |  the location of the png files. |
+| pwd      |  the location of the pngwalk file. |
 | vapfile  |  the location of the .vap file associated with the images, used to launch back into Autoplot. |
 | filePattern | the name used for the files, used when product is not. |
 | product  |   the product name, which results in the filePattern product_timeFormat.png or product_timeFormat_vers.png. |
 | timeFormat | each files' time format identifier, like $Y$m$d. |
 | qcturl  |    the base for the quality control files. |
+
+Autoplot uses the .pngwalk file to define how the pngwalk is to be loaded and controlled. The "View in Autoplot" button will be enabled when a .vap file corresponding to the .pngwalk can be found. Its location can be in several places:
+
+~~~~~
+baseurl + product + '.vap'
+pwd + product + '.vap'
+pwd + product + version + '.vap'
+~~~~~
