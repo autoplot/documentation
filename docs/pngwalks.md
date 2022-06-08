@@ -119,3 +119,7 @@ baseurl + product + '.vap'
 pwd + product + '.vap'
 pwd + product + version + '.vap'
 ~~~~~
+
+When the .vap file can be found, then it is invoked in Autoplot using the "....vap?timerange=" mechanism.  This assumes that the time axes in the .vap 
+are bound to the .vap's timerange property.  Note that if the axes are extended to include a bit of the previous and next intervals, the time range
+loaded and the appearance may differ from the image in the .pngwalk.
