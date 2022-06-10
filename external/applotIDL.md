@@ -12,7 +12,7 @@ IDL> applot, x, y
 ~~~~~
 and the data is packed up and sent over to Autoplot for plotting.  This plot in Autoplot is then interactive and avoids disturbing IDL's state.
 
-Here is the script which should be run in IDL: https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/Autoplot/src/external/applot.proo. 
+Here is the script which should be run in IDL: https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/Autoplot/src/external/applot.pro. 
 This should be downloaded and compiled in the IDL session.  Autoplot is then started, and its server enabled using 
 Options&rarr;Enable Feature&rarr;Server, and use the default port 12345.
 
