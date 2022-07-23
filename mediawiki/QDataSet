@@ -76,10 +76,10 @@ Along with versioning the interface, it's useful to identify qdataset schemes en
 * array of spectrograms (table,time,freq)  This is the general das2 TableDataSet.
 * array F[X,Y,Z] where Y and Z are time-varying with X.  (As with CDF.)
 
-= DataSet Properties =
+= QDataSet Properties =
 The properties attached to each dataset allow the dataset to describe complicated things.
 
-From https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/QDataSet/src/org/virbo/dataset/QDataSet.java
+From https://sourceforge.net/p/autoplot/code/HEAD/tree/autoplot/trunk/QDataSet/src/org/das2/qds/QDataSet.java
 
 DEPEND_0.  type QDataSet. This dataset is a dependent parameter of the independent parameter represented in this DataSet. The tags for the DataSet's 0th index are identified by this tags dataset. 
      
@@ -130,7 +130,12 @@ TYPICAL_MIN. type Number.  Range used to discover datasets.  This should be a re
 
 TYPICAL_MAX. type Number.  Range used to discover datasets.  This should be a reasonable representation of the expected dynamic range of the dataset.
     
+
 SCALE_TYPE. String, "linear" or "log" "mod24"  "mod360" etc.
+
+AVERAGE_TYPE. String, "linear" "geometric" "mod24"  "mod360" "modpi" "modtau" "none".  Some data handling codes will check to see how data should 
+be averaged.  For example, Autoplot's interpolate will call this to see how interpolation is to be done.
+
 
 NAME.  String, a java identifier that should can be used when an identifier is needed. This is originally introduced for debugging purposes, so datasets can have a concise, meaningful name that is decoupled from the label. When NAMEs are used, properties with the same name should only refer to the named dataset.  
     
@@ -213,6 +218,35 @@ SciPy and IDL support complex numbers, and QDataSet's support has been ad hoc.
  dep1.putProperty(QDataSet.COORDINATE_FRAME, "ComplexNumber");
 
 is used in the fft function, but you could have a COORDINATE_FRAME with complex components.
+
+= Dataset Mutability =
+The QDataSet interface provides read-only access to the data.  Many implementations provide write-access as well, implementing the "WritableDataSet" interface.  For these, one calls putValue to overwrite values in the data.  Such datasets are said to be mutable.  There is also a MutablePropertyDataSet which allows the just properties to be modified.  
+
+Mutability is important, because many implementations are more easily implemented when the data cannot be modified, such as mapping data directly from storage into memory, and performance improved. Additionally, data can be cached without having to worry about a code using the cached data modifying it.
+
+Part of the MutablePropertyDataSet and WritableDataSet interface then is a flag that will make the data immutable.  This allows codes to create data then mark the data as immutable before handing off the result.  Once the data is marked as immutable, then there is no way to modify the data.  Codes that check to see if data can be modified (checking instanceof MutablePropertyDataSet) must also check the isImmutable method to see if it can be modified directly.
+
+There is a handy putProperty method which will make a copy of the data so that properties can be added:
+
+     ds= putProperty( ds, 'FilesRead', file )
+
+Note that there are optimal implementations doing this, such as copying over the properties but leaving the data immutable.
+
+== Capabilities ==
+
+Another new method for managing mutability is to avoid instanceof use altogether and use the capability method.  For example,
+
+     WriteCapability write= ds.capability( WriteCapability.class )
+
+would return null if the data cannot be modified, or the WriteCapability.  This method exists in the interface but is not used.
+
+== DataSetAnnotations ==
+
+Last, there is a DataSetAnnotations mechanism that allows information to be stored about live QDataSets.  For example, one might want to record the file read to make a QDataSet.  The file location could be added as a property, but this requires that the QDataSet would have to be mutable.  Another way to record this would be using 
+
+     DataSetAnnotations.getInstance().getAnnotation( ds, 'fileSource' )
+
+Note that when the dataset is no longer used and is garbage collected, the annotation will also be removed.  (A WeakHashMap is used to store them.)
 
 = Notation =
 Someday conventions for notation of datasets needs to be standardized.  For example, I can say Density[Time=1440] for density measurements taken at 1440 times.  But things have never been nailed down for bundles, etc.  For the points along a curve, maybe this is how it would be indicated:
@@ -362,3 +396,6 @@ Chris and I discovered that BIN_PLUS was misused in the StackedHistogramRenderer
 
 == 2018-06-18 ==
 Rank 3 depend 2 is supported.  This allows some data to be correlated one-to-one while other channels are simple rank 1 depends.
+
+== 2022-06-10 ==
+AVERAGE_TYPE property added.

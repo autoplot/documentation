@@ -213,6 +213,26 @@ You can have implicit fields, so that the time parser can work in more cases.  S
 You could use implicit fields to parse this:
  http://autoplot.org/data/noDate.dat?column=field1&timeFormat=$(H;Y=2000;m=3;d=4):$M:$S&time=field0
 
+== Load in only data within an interval (not "at least") ==
+By default, Autoplot will load at least the data within the interval specified, which can 
+result in surprises and must be dealt with in some analysis.  For example, the 
+following script will load a day's worth of data, even though only three hours
+are requested:
+
+<source lang="python">
+tr = '2017-11-28T12:00 to 15:00'
+l_erg= getDataSet('vap+cdaweb:ds=ERG_ORB_L2&filter=erg&id=pos_eq[:,0]',tr)
+plot(l_erg)
+</source>
+
+To fix this, a "trim" command must be inserted:
+<source lang="python">
+tr = '2017-11-28T12:00 to 15:00'
+l_erg= getDataSet('vap+cdaweb:ds=ERG_ORB_L2&filter=erg&id=pos_eq[:,0]',tr)
+l_erg= trim( l_erg, tr )
+plot(l_erg)
+</source>
+
 = Launching (OS-Specific) =
 
 == Associate .vap files in Gnome ==

@@ -49,7 +49,7 @@ Note this is tedious, but need only be done once.  It's utility is limited, but 
      */
     public void setLineThick(double newlineThick) {
     }
-This seems awfully redundant, but Javabeans are redundant, and when things aren't consistent, you get strange behavior.
+This seems awfully redundant, but JavaBeans are redundant, and when things aren't consistent, you get strange behavior.
 
 = code examples =
 There's a javadoc convention for including code blocks.

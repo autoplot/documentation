@@ -95,6 +95,7 @@ Application-context scripts can use get param as well.  When the execute button 
 or if the Autoplot GUI is needed:
  java -cp autoplot.jar org.autoplot.AutoplotUI --script /tmp/myscript.jy sensor=right correct=T
 
+Positional arguments are read in as arg_1, arg_2, etc.
 
 ==== Creating a GUI from a script ====
 Autoplot works by making a simplified version of the script, and then running it with getParam replaced with a function that tallies the calls.  This trick causes confusion when sometimes functions can be used and sometimes not.  These functions can be used:
@@ -103,6 +104,13 @@ so
   x= getParam( 'sc', 1, 'spacecraft ID", range(40) )
 works, but this won't:
   x= getParam( 'sc', 1, 'spacecraft ID", findgen(40) )
+
+==== Finer control of Parameters ====
+Finer controls can be used when the fourth argument to getParam is a dictionary.  For example,
+ x= getParam( 'sc', 1, 'spacecraft ID', { 'labels':['rbsp-a','rbsp-b'], 'values':[1,2] } )
+allows additional labels to be added to the selections.  You can also have examples, using:
+ x= getParam( 'name', 'Jim', 'Operator Name', { 'examples':['Jim','Terry','Sally'] } )
+Other constaints will be coming, like minimum and maximum values for numeric data.
 
 === Handling Exceptions ===
 Often a process will typically execute, but we know exceptional cases may occur and we want to invoke special code to handle them.  For example, we may open a sequence of files, and if one is misformatted, we want to log it to a file and carry on with processing other files.  

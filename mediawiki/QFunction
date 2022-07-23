@@ -1,4 +1,4 @@
-Definitive Page On QFunctions
+= Definitive Guide to QFunctions =
 
 A QFunction is a representation for a data function that tries to reuse as much of the QDataSet interface as possible.  A QFunction takes N parameters as input and returns M parameters as output.  The QFunction interface is simply a value() method that takes a rank 1 dataset as input and returns a rank 1 dataset as output.  Also a method exampleInput() returns an example of an input used for the function.  This allows for discovery of the function, identifying units, valid ranges, and cadences for inputs.
 
@@ -21,7 +21,7 @@ A QFunction is a representation for a data function that tries to reuse as much 
         return v;
   }
 
-This is slightly extended to simply implementations and allow for more efficient use when multiple invocations will be made:
+This is slightly extended to simplify implementations and allow for more efficient use when multiple invocations will be made:
   interface QFunction {
     QDataSet value( QDataSet in );   //
     QDataSet values( QDataSet in );  // rank 2 input and rank 2 output.
@@ -29,7 +29,7 @@ This is slightly extended to simply implementations and allow for more efficient
     QDataSet exampleOutput();        // call this when you just need the output.
   }
 
-Note that implementations of a QFunction may simply check the the BUNDLE_0 pointer has not changed to know that none of the properties have changed.
+Note that implementations of a QFunction may simply check the BUNDLE_0 property has not changed to know that none of the properties have changed.
 
 Here is how QDataSet properties are interpreted in this case:
      * discover an example input.  Result is a rank 1 bundle QDataSet.

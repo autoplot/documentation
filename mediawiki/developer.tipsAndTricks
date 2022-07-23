@@ -51,7 +51,9 @@ To see what files is Autoplot leaving open, get the PID from the title bar of a 
 = Event Thread Response Monitor =
 The response monitor is a system which regularly fires off events and measures the amount of time they take to propagate though the event system. When a long process is performed on the event thread, it will hang the application, and to correct this, a new thread should be created and monitored with a progress bar (monitor object, org.das2.util.monitor), and then the event thread can be freed should immediately return.
 
-The Event Thread Response Monitor is enabled either by using ~/autoplot_data/config/system.properties, which should contain "enableResponseMonitor=true", or by using the command line switch --enableResponseMonitor (versions after 20170507).
+The Event Thread Response Monitor (ETRM) is enabled either by using ~/autoplot_data/config/system.properties, which should contain "enableResponseMonitor=true", or by using the command line switch --enableResponseMonitor (versions after 20170507).  It works by regularly queuing dummy events, and then checking to see if the dummy event is still on the event queue after 10 seconds.  An RTE "hang" file that show the .vap and the state of each of the threads will be written to ~/autoplot_data/log/hang_*_xml.
+
+The ETRM can be manually triggered, writing a hang file of the current state to ~/autoplot_data/log/hang_*_xml.  If the empty file "~/autoplot_data/log/request_dump.txt" is created, this will be deleted within seconds and a hang file is created.  Note this may cause some security concerns, so make sure ~/autoplot_data/log/ is writable by trusted people.  The hang files created using this mechanism are only readable by the scientist running Autoplot.
 
 = Getting the Stack Trace of a Hung Process =
 Using "kill -3":
@@ -64,3 +66,5 @@ When that doesn't work, try:
  rm -f xxx.hprof
  jmap -dump:format=b,file=xxx.hprof $PID
 and open "xxx.hprof" in Netbeans.
+
+See the previous section as well, which is a mechanism which when enabled makes this easier.

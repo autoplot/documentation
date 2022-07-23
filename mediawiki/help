@@ -197,7 +197,12 @@ The Cache menu is a set of tools for managing the cache of data loaded.  When yo
 
 "Reset Memory Caches" will clear fast RAM-memory caches of loaded data.  Autoplot should check data refreshness every ten seconds, but sometimes things fail and an explicit refresh is needed.
 
-"Manage Filesystems" is a tool for managing Autoplot's access to filesystems.  For example, if a server is unavailable when a file is referenced, Autoplot will use a cached copy.  (This is to provide "on the plane" access to data.)  The filesystem containing the file will be in an off-line mode, meaning it can access files which have been loaded already.  If the server is back up and available again, this tool can be used to reset the filesystem to a normal on-line mode.
+"Manage Filesystems" is a tool for managing Autoplot's access to filesystems.  For example, if a server is unavailable when a file is referenced, Autoplot will use a cached copy.  (This is to provide offline access to data.)  The filesystem containing the file will be in an off-line mode, meaning it can access files that have been loaded already.  If the server is back up and available again, this tool can be used to reset the filesystem to a normal on-line mode.
+
+The environment variable AUTOPLOT_FSCACHE can be used to set the cache location as well.
+
+==== ro_cache.txt ====
+Note, caches can contain a file "ro_cache.txt" (read-only cache) which is a pointer to a local file system that contains the same files as the remote filesystem.  This allows data providers to produce .vaps that external clients can use, without having to copy the data files into their caches.  Likewise, a collaborator may wish to mirror the site, and they can then use a ro_cache.txt pointer.  Last, the ro_cache.txt can be used with the Git-based filesystem to link to a local copy of the filesystem, so that modifications can be tested without affecting others.
 
 === Tools &rarr; Events List ===
 The events list is used to load a list of times which control the application time range.  For example, suppose you are interested only in data when we pass by the planet (perigee).  You set the events list to a list of perigee times http://www-pw.physics.uiowa.edu/das2/Orbits/junoPJ.dat, and use this to select the perigee.  Then clicking on a time will reset the application timerange.
@@ -773,7 +778,7 @@ Data sources can provide other capabilities, such as updating.  This capability 
 
 == Caching ==
 
-* Filesystem cache - The data files are kept on your local file storage.  HTTP HEAD requests are used to check if new versions are available, limited to once per 10 seconds.
+* FileSystem cache - The data files are kept on your local file storage.  HTTP HEAD requests are used to check if new versions are available, limited to once per 10 seconds.
 * Reference cache - Many data sources use the reference cache to keep track of loaded data.  As long as someone is using data, and a reference to it exists in machine memory, the reference will stay valid.  If no one is using data, the Java "garbage collector" is free to remove it from memory.
 * DataSource cache - Some data sources use a mechanism called caching to cache extra data that is loaded.
 
@@ -1229,7 +1234,11 @@ If you are having problems starting the applet, see the [[applet_guide|Applet Gu
 The Autoplot applet has a number of features that are disabled, due to security restrictions enforced by web browsers.  When using the applet, you cannot save data to disk or save a pdf or png file of your image.  For more information on Java applets, see http://en.wikipedia.org/wiki/Applet or http://java.sun.com/applets/.
 
 = Server Mode =
-Autoplot provides a server mode, where external programs can connect to Autoplot for plotting and data reading services.  See http://autoplot.org/server.
+Autoplot provides a server mode, where external programs can connect to Autoplot for plotting and data reading services.  See http://autoplot.org/server.  This is not well-used, and the two following modes might be more useful.
+
+Autoplot can be run from the command line to produce graphics for CGI-based websites.  
+
+It can also be run as a servlet with a Java web server such as Apache/Tomcat.  A war file is available which works with these servers.  See http://autoplot.org/servlet_guide .
 
 = Abbreviations =
 * CDF Common Data Format

@@ -172,6 +172,10 @@ Sometimes we don't want an XWindows dependence caused by login prompt windows.  
  IDL> apds= OBJ_NEW('IDLjavaObject$APDataSet', 'org.autoplot.idlsupport.APDataSet')
  IDL> apds.loadDataSet, 'vap+das2Server:http://jupiter.physics.uiowa.edu/das/server?dataset=Juno/FGM/MagComponents&start_time=2017-02-01T00:00:00.000Z&end_time=2017-02-04T00:00:00.000Z'
 
+== Other Examples ==
+This github directory shows an example where Autoplot is used to download files.  See ap_get_file.pro:
+  https://github.com/autoplot/dev/tree/master/demos/2021/20210202
+
 = Problems =
 
 Also:
@@ -218,6 +222,27 @@ Using slice to get at irregular data
  print, apds.toString() 
  help, apds.slice( 3 )
  plot, apds.slice( 3 ), /ylog
+
+
+Using Autoplot to get a file from the web
+ ; Copy and paste these lines to the IDL command prompt.
+ 
+ setenv, 'CLASSPATH=autoplot.jar'  ; download from http://autoplot.org/latest/autoplot.jar
+ pm= OBJ_NEW( ) ; like null in Java or None in Jython 
+ 
+ url= OBJ_NEW( 'IDLJavaObject$URL', 'java.net.URL', 'https://emfisis.physics.uiowa.edu/events/rbsp-a/misc-support-files/rbspa-half-orbit-periods2.txt' )
+ 
+ DataSetURI= OBJ_NEW( 'IDLJavaObject$Static$DataSetURI', 'org.autoplot.datasource.DataSetURI' )
+ ff= DataSetURI.downloadResourceAsTempFile(url,pm)
+ print, ff.toString()
+ 
+ openr, lun, ff.toString(), /get_lun
+ line = "" 
+ 
+ WHILE NOT EOF(lun) DO BEGIN & $
+   READF, lun, line & $
+   print, line
+ ENDWHILE
 
 = Previous Documentation =
 

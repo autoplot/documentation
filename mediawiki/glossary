@@ -38,12 +38,18 @@ Audience: developers and interested scientists.
 
 '''timerange''' an interval of time, formatted and parsed in concise string messages, like "2016-05-05" for May 5, 2016.  See [[http://autoplot.org//help#Time_Parsing_.2F_Formatting more about times]].  These are a special case of DatumRange, which is an interval in a physical dimension, with a minimum to a maximum.
 
-== Data Operations ==
-'''flatten''' take arbitrary dataset and make in into rank 2 ds[n,m] where n is the total number of points, and m is the number of physical dimensions.
+'''schemes''' QDataSet is a syntax, where the interface constrains how things can fit together, and the scheme is how data is arranged within QDataSet.  For example, a rank 1 dataset having a rank 1 dataset for DEPEND_0 is a "simple time series" scheme, and a rank 2 dataset with DEPEND_0 and DEPEND_1 is known as a "simple spectrogram."
 
-'''grid''' take flattened data and attempt to form gridded data in a rank 2,3, or 4 qube.
+== Data Operations ==
+'''flatten''' take an arbitrary dataset and make in into rank 2 ds[n,m] where n is the total number of points, and m is the number of physical dimensions.
+
+'''grid''' take flattened data and attempt to form gridded data in a rank 2, 3, or 4 qube.
 
 '''slice''' extract the elements of one of the dimensions reducing the rank by 1.  For example slice0(0) takes ds[3,4,5] and returns ds[4,5]
+
+'''reduce''' reduce the resolution of a dataset, combining measurements.  This might be by averaging or by returning the maximum of grouped numbers.
+
+'''collapse''' remove a dimension by combining measurements in the dimension, typically using linear averages.
 
 == Data Formats ==
 '''CDF''' Common Data Format developed at NASA
@@ -56,7 +62,7 @@ Audience: developers and interested scientists.
 
 '''OpenDAP''' Not really a format but a protocol for communicating data over the web.
 
-'''Rich ASCII''' Ascii file with special JSON metadata at the beginning, providing additional metadata and data relationships similar to CDF.
+'''Rich ASCII''' Ascii file with special JSON metadata at the beginning, providing additional metadata and data relationships similar to CDF.  This is also called "JSON headed ASCII" in SpacePy.
 
 '''Rich PNG''' PNGs created by Autoplot (and possibly other systems) that contains axis transformations and labels in a roughly 1 KB of additional size.  This allows users to "grep" for axis labels and use the pngwalk tool to look up coordinates.  [http://autoplot.org/developer.richPng]
 
@@ -129,6 +135,8 @@ These are workgroup and institution references are found in documentation and bu
 '''U. Iowa''' The University of Iowa, Iowa City, Iowa, USA
 
 '''UNH''' University of New Hampshire.  Durham, New Hampshire
+
+'''UMN''' University of Minnesota in Minneapolis, Minnesota.
 
 '''Aerospace''' The Aerospace Corporation.
 
