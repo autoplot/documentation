@@ -22,8 +22,7 @@ spot9> **cd /home/jbf/Downloads/**    <em>(this changes to the directory, which 
 spot9> **ls autoplot.jar**   <em>(this is going to verify that the autoplot jar is where we think it is.)</em><br>
 spot9> **java -jar autoplot.jar**   <em>(this starts up Autoplot.)</em>
 
-Things will be a little different on your computer, and if you have trouble, I would be happy to meet you by Zoom tomorrow.
-
+Things will be a little different on your computer, and if you have trouble, contact us for help.
 
 Once things are going, everything should be very similar to Autoplot on other computers, but unfortunately installation is a little 
 challenging.  Also newer Macs have security which must be granted to the jar file.  This can be done through the security settings after
