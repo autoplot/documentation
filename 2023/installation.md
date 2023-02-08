@@ -9,7 +9,7 @@ For Linux (or Macs or Windows), download the latest "single-jar" file, which con
 
 
 spot9> **java -version**
-java version "17.0.1" 2021-10-19 LTS
+<br>java version "17.0.1" 2021-10-19 LTS
 
 (The bold is what you would type in.  "spot9" is the name of my machine, and your prompt will be different.  I happen to have Java 17 at home, but any version of Java 8 and up should work.)
 
