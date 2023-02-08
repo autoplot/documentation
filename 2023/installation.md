@@ -26,6 +26,8 @@ spot9> **java -jar autoplot.jar**
 Things will be a little different on your computer, and if you have trouble, I would be happy to meet you by Zoom tomorrow.
 
 
-Once things are going, everything should be very similar for you and Allison, but  unfortunately installation is a little challenging.
+Once things are going, everything should be very similar to Autoplot on other computers, but unfortunately installation is a little 
+challenging.  Also newer Macs have security which must be granted to the jar file.  This can be done through the security settings after
+attempting to run the application.
 
 
