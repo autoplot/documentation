@@ -8,7 +8,7 @@ For Macs, we would normally have a .dmg that makes installation familiar, but we
 For Linux (or Macs or Windows), download the latest "single-jar" file, which contains the app, but does not contain Java.  You can test to see if Java is on your machine by entering at the command line:
 
 
-spot9> java -version
+spot9> **java -version**
 java version "17.0.1" 2021-10-19 LTS
 
 (The bold is what you would type in.  "spot9" is the name of my machine, and your prompt will be different.  I happen to have Java 17 at home, but any version of Java 8 and up should work.)
@@ -17,9 +17,9 @@ java version "17.0.1" 2021-10-19 LTS
 Then download and save the "Single Jar" .jar file to a directory.  Supposing I save it to /home/jbf/Downloads/, I would:
 
 
-spot9> cd /home/jbf/Downloads/
+spot9> **cd /home/jbf/Downloads/**
 
-spot9> java -jar autoplot.jar
+spot9> **java -jar autoplot.jar**
 
 
 Things will be a little different on your computer, and if you have trouble, I would be happy to meet you by Zoom tomorrow.
