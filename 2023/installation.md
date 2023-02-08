@@ -3,7 +3,7 @@
 For Windows, we have a installer.  You can go to http://autoplot.org/jnlp/latest/ and download the "exe" link.  This will run a windows installer and put in nice launchers on your machine.
 
 # Mac
-For Macs, we would normally have a .dmg that makes installation familiar, but we've had an issue where the one person who knows how to fix it is very busy with a new mission, and I haven't had time to figure out how to fix it myself.  This should be available sometime in the next six months.  So instead, you should do what the Linux people do, which I think is what you were already doing.
+For Macs, we would normally have a .dmg that makes installation familiar, but we've had an issue where the one person who knows how to fix it is very busy with a new mission, and I haven't had time to figure out how to fix it myself.  This should be available sometime in the next six months.  So instead, you should do what the Linux people do.
 
 # Linux, but also Mac and Windows
 For Linux (or Macs or Windows), download the latest "single-jar" file, which contains the app, but does not contain Java.  You can test to see if Java is on your machine by entering at the command line:
