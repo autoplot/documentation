@@ -18,8 +18,8 @@ spot9> **java -version**
 Then download and save the "Single Jar" .jar file to a directory.  Supposing I save it to /home/jbf/Downloads/, I would:
 
 
-spot9> **cd /home/jbf/Downloads/**
-
+spot9> **cd /home/jbf/Downloads/**<br>
+spot9> **ls autoplot.jar**<br>   <em>this is going to verify that the autoplot jar is where we think it is.</em>
 spot9> **java -jar autoplot.jar**
 
 
