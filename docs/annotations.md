@@ -35,7 +35,7 @@ Although the font cannot be changed, the font size used is specified relative to
 # Pointing at Features 
 Annotations can point at a datum pair, indicating the X and Y values at which the arrow should point.  These are the pointAtX and pointAtY properties.  There is an additional property pointAtOffset, which when non-empty backs off the arrow head so that what it's pointing at is not obscured.  For example pointAtOffset='1em' means the arrow will be shortened by 1em (the current font height) away from the pointAt location.
 
-For v2020a_13, new properties referenceX and referenceY were added, which are a semicolon-delimited list of Datums which will be pointed at.  This allows one label to point at multiple targets.
+For v2020a_13, the Das2 DasAnnotation object has new properties referenceX and referenceY were added, which are a semicolon-delimited list of Datums which will be pointed at.  This allows one label to point at multiple targets.  This is not saved to .vap files and must be used in scripts. (Se  annotation.controller.referenceX and annotation.controller.referenceY properties.)
 
 # Adding Annotations in Scripts 
 
