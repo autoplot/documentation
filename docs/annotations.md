@@ -21,7 +21,7 @@ When anchored to the canvas, the annotation is positioned relative to a row and 
 
 There is an anchorOffset that allows the annotation to be moved, which is "1em,1em" initially.  This means 1em towards the box center in horizontal and vertical position.  If the annotation were positioned outside of the box, then this would be away from the box.  An empty string ("") means no offset or "0em,0em".  These offset strings can have point offsets "5pt,0pt" and can be combined as well "1em-5pt".    
 
-The data may be anchored to a plot, which is very similar to anchoring to the canvas, but the plot's box, within the two axes is used to clip the annotation.  That is, the annotation will not be drawn outside the boundaries.  However is outside positions are used, then these are identical to the canvas anchor and are not clipped.  
+The data may be anchored to a plot, which is very similar to anchoring to the canvas, but the plot's box, within the two axes is used to clip the annotation.  That is, the annotation will not be drawn outside the boundaries.  However if outside positions are used, then these are identical to the canvas anchor and are not clipped.  
 
 When the annotation is positioned relative to data, the xrange and yrange define the box position.  The annotation is then relative to the box specified by these two properties.
 
