@@ -3,7 +3,7 @@
 See also: http://autoplot.org//help.annotationCommand
 
 # Introduction 
-Annotations add additional text to the page.  They are free text that can be attached anywhere to the canvas or attached to data.   This is a step usually left to another software as the figure is prepared for publication, such as Photoshop or Power Point, but it's useful to be able to do this within Autoplot for communication with a colleague and to get the display all the closer to be ready for publication.
+Annotations add additional text to the page.  They are free text that can be attached anywhere to the canvas or attached to data.   This is a step usually left to another software as the figure is prepared for publication, such as Photoshop or Power Point, but it's useful to be able to do this within Autoplot for communication with a colleague and to get the display closer to publication ready.
 
 <img src='image/annotations/annotation2.png' width=300>
 
