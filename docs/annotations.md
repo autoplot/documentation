@@ -72,6 +72,7 @@ will show the number of records in a CDF file.  Other examples include:
 ~~~~~
 %{PROPERTIES.DEPEND_0.UNITS}
 %{CONTEXT}
+%{CONTEXT,name=pitch,format=%.1f}
 %{TIMERANGE}
 ~~~~~
 
@@ -86,6 +87,11 @@ will set the color to "saddleBrown", and !(color) will return to the initial dra
 can be identified with a number of <a href='https://github.com/autoplot/documentation/wiki/colors'>different
 strings</a>.  See
 https://github.com/autoplot/dev/blob/master/rfe/sf/625/demoBuiltIns.jy.  
+
+~~~~~
+!(painter;psym;boxes;size=0.7em;color=#660066)
+~~~~~
+will draw a plot symbol of the given shape and color.
 
 Labels also support also support custom drawing code, defined in scripts.  See 
 https://github.com/autoplot/dev/blob/master/rfe/sf/625/demoPainterAnnoPsym.jy which shows how to draw plot symbols, and
