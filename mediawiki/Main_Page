@@ -1,0 +1,73 @@
+<div id="launch" class="pBody" style="opacity:0.9;filter:alpha(opacity=90)">
+
+[[Image:Logo96.png]] 
+
+<span style="background-color:yellow;font-weight: bold;">[http://autoplot.org/jnlp/latest/ Start Autoplot]</span>&nbsp; <span class="linuxnote" style="background-color:#ff99ff;display:none;">Linux Installation</span><br/><span style="font-weight: bold;">[http://autoplot.org/jnlp/devel/ Start Devel Version] </span><br/><span style="font-weight: bold;">[[help#Installation|Installation]]</span><br/><span style="font-weight: bold;">[[help|Help]]</span><br/><span style="font-weight: bold;">[[gallery|Screenshots]]</span><br/><span style="font-weight: bold;">[[cookbook|Cookbook]]</span><br/><span style="font-weight: bold;">[[developer|Developer notes]]</span>
+</div>
+
+{| border="0" cellpadding="2" width="100%" align="left"
+|-
+|style="vertical-align:top" width="40%" |
+'''Getting Started'''
+----
+
+See the [[help|help page]] for usage instructions.  Contact [https://groups.google.com/forum/#!forum/autoplot autoplot@groups.google.com] if you need assistance.
+
+
+'''About'''
+----
+Autoplot is an interactive browser for data on the web; give it a URL or the name of a file on your computer and it tries to create a sensible plot of the contents in the file.  Autoplot was developed to allow quick and interactive browsing of data and metadata files that are often encountered on the web.  For more information, see [http://autoplot.org/wiki/images/autoplot.pdf Faden et al. 2010] and introductory [http://autoplot.org/wiki/images/autoplotIntroduction.ppt PowerPoint].
+
+''Autoplot was developed under the [http://hpde.gsfc.nasa.gov/ NASA Virtual Observatories for Heliophysics] program in a collaborative effort among several institutions, including support or code contributions from [http://virbo.org ViRBO], [http://vmo.gsfc.nasa.gov VMO], [http://www.rbsp-ect.lanl.gov/ RBSP-ECT], and the [http://www-pw.physics.uiowa.edu/ Radio and Plasma Wave Group at The University of Iowa].''
+|style="vertical-align:top"|
+'''Key Features'''
+----
+* Reads multiple ASCII formats including [[help#ASCII_table|Complex ASCII tables]]; [[help#Binary_table|Binary tables]]; [http://cdf.gsfc.nasa.gov/ Common Data Format (CDF)]; [http://www.unidata.ucar.edu/software/netcdf/ncml NcML]; [http://spase-group.org/ SPASE];  [http://www.space-plasma.qmw.ac.uk/csds/welcome.html Cluster Exchange Format]; [http://www.unidata.ucar.edu/software/netcdf/ NetCDF]; [http://opendap.org OpenDAP]; [http://www.hdfgroup.org/HDF5/ HDF5]; [http://tsds.net TSDS]; [http://fits.gsfc.nasa.gov/fits_intro.html FITS]; [[help#Excel|Excel]];  [[help#Wav Files|Wav]]; [[help#Images|PNG, JPG, etc]].  For details and a full list, see [[help#Formats_Read|Formats]].
+* Data is located with compact URI addresses.  These contain the location of the data and additional information needed to use it.
+* Special support for [[help#CDAWeb|CDAWeb server]] at NASA/Goddard, [http://hapi-server.org HAPI], and other data servers.
+* [https://das2.org Das2] library used to create interactive graphics with slicing and custom interactions.
+* Wildcards can be used to [[help#Aggregation|aggregate]] (combine) data from multiple files into one time series.
+* Long time series may be rendered as a sequence of images as a [[PNG Walks|"pngwalk"]] and viewed as a coverflow, table of thumbnails, or on a time line.
+* Any displayed data may be saved to disk in ASCII, [http://cdf.gsfc.nasa.gov/ Common Data Format (CDF)], and other formats, or plotted as PNG, PDF, or SVG.
+* GUI State may be saved as an XML [[developer.book#vap_files|".vap"]] file and restored.
+* Software may be run client side or [https://cottagesystems.com/AutoplotServlet server] side.
+* Data access layer for file reading may be used in [[matlab | MATLAB]], [[idl | IDL]], or [[python | SciPy]] (via Java bridge), providing a common interface regardless of data source.
+* [https://github.com/autoplot/documentation/wiki/scripting Scripting] via Jython, to control the application and read in data using metadata-aware datasets.
+* [http://autoplot.org/Autoplot_from_source Open-source] (GPL with classpath exception) and may be used freely.  
+|}
+<addhtml>
+<html>
+<div>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5gb0hgkpqgv&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
+<script type="text/javascript">rm2d_ki101('5','200','100','5gb0hgkpqgv','ff0000',40);</script>
+</div>
+
+<script>
+$(document).ready(function () {
+$('#launch > p > a').attr('href','http://autoplot.org/autoplot.jnlp');
+$('#launch > p > a').attr('title','Start Autoplot');
+$('#p-search').before($('#launch'));
+$('#stats').append($('#rm_pkI1_'));
+$('#rm_pkI1_').wrap('<div id="visitors" align="center" class="pBody"></div>');
+$('#visitors').prepend('Recent visits');
+//$('#visitors').hide();
+
+// WebStart fix
+if ($.client.os == "Linux") {
+  //$($(".external:contains('Start Autoplot')")).attr('href','http://autoplot.org/help#Installation').attr('Title','Linux operating system detected - link goes to special WebStart instructions');
+}
+
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1307322,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+});
+</script>
+
+</html>
+</addhtml>
