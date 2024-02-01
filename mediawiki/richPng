@@ -5,7 +5,7 @@ Purpose: Define Rich PNG standard
 = Introduction =
 Png image files have the interesting feature that additional metadata can be buried inside them.  For example, we identify images produced by Autoplot as having Software=Autoplot.  We also embed metadata about the plot and axis information, so that future programs can better utilize the images.  For example, the unix grep command can be used to look for strings within axis labels, and the thin client uses this metadata to interpret mouse gestures.  We call this richPng, and the hope is that other image producers and consumers might adopt this standard as well.
 
-= Standard =
+= RichPNG Standard =
 Each png file block has a type, and one with type text (tEXt) is added with the keyword "plotInfo" and is equal to a JSON block with the following scheme:
  { 'size':[640,480], 'numberOfPlots':2, 'plots': [...] }
 The plots node is an array of:
@@ -47,8 +47,8 @@ Try:
 * Autoplot Thin Client
 * grep for image labels
 * verify axis settings for a large set of png files.
-* Autoplot PNGWalk Tool allows digitizing
-* Autoplot ImageDataSource allows plots to be grabbed from images, rendering with correct axes to allow for overplots.
+* Autoplot PNGWalk Tool allows digitizing (clicking on plot will print coordinates at the bottom of the GUI).
+* Autoplot ImageDataSource allows plots to be grabbed from images (http://autoplot.org/wiki/images/product_20140102.png?plotInfo=0), rendering with correct axes to allow for overplots.
 
 = Unresolved =
 What happens with this is vaguely defined:
@@ -60,3 +60,4 @@ What happens with this is vaguely defined:
 * make insert Rich PNG Metadata routines for Java, IDL, and Matlab
 * Figure out how to insert metadata into PDF as well.
 * define convention for decorating existing images, for example have ".richpng" file alongside the original.
+* a JSON schema should be written to describe the format.

@@ -44,6 +44,8 @@ Note this logic happens to work for both cases, because of the +1.
 
 When the dataset is an enumeration, then the value without the name property (name=) should be returned.
 
+Several years ago a new rank 0 accessor "svalue" was introduced, which will give a string representation of the rank 0 data.  "print dsn.svalue()" shows the value without printing the name.
+
 = Rank N datasets =
 When data is rank 1 or more, the toString method should show the dataset name, the dimensions, and the units of the data.
  ds= zeros(4,3)
@@ -71,7 +73,13 @@ Note too that dataset should appear as "dataset" and not "dataSet"  (I could bre
 = value and slice =
 The method slice was introduced several years after QDataSet was begun, and it's proved to be useful as a method for grabbing values with all their metadata.  This should be encouraged.
 
-Also under consideration are access methods for the string value, and long value.
+The svalue method will show a string representation of the rank 0 data set.  The capability LongReadAccess provides a means of reading the values of longs, when available.
+
+ from org.das2.qds import LongReadAccess
+ ds= getDataSet('vap+cdaweb:ds=RBSP-A_DENSITY_EMFISIS-L4&filter=rbsp&id=y&timerange=2019-10-12')
+ tt= xtags(ds)
+ ll= tt.capability(LongReadAccess)
+ print ll.lvalue(0)
 
 = bins datasets =
 Bins datasets have a special case that is used often, where BINS_0='min,max'.  This should be formatted as a DatumRange would be.

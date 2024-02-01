@@ -36,6 +36,7 @@ Here are some more examples:
 * orbit:rbspa-pp:30, which is the same as
 * orbit:http://www-pw.physics.uiowa.edu/rbsp/orbits/rbspa-pp:30
 * Available orbits: http://www-pw.physics.uiowa.edu/rbsp/orbits/ and http://das2.org/Orbits/.
+* And: https://github.com/das-developers/das2meta/tree/main/orbits
 
 == Run PNGWalk with Orbit-based timeranges ==
 We want to run a png walk with parameters plotted orbit by orbit.

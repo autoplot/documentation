@@ -144,6 +144,16 @@ The user would be able pass options to the script in the URI:
 
 [[Image:jydsEditor2.jyds.png|The script editor showing labels that are automatically generated based occurrences of calls to  <code>getParam</code>.  The type for each parameter is determined by the default value.]]
 
+The parameter can be type string, int, float, boolean, File, or URI.  The type is determined by the default value.
+
+=== constraints ===
+If a fourth parameter is provided, this should be either an array of allowed values, or a dictionary.  When it is a dictionary,
+the following can be used as tags:
+
+* values is a list of all allowed values.
+* examples is a list of values, but the scientist can specify things other than the examples.
+* labels is an array which must be the same length as the enumerated values (values).
+
 == TimeSeriesBrowse ==
 Scripts can easily support the "Time Series Browse" capability, so that scripts can be used to browse over long time series.  For example, a script could read any file from  vap+cdf:http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf, and then derive data from this (http://autoplot.org/data/tsbDemo4.jyds):
  # demonstrate how script can have timeSeriesBrowse to modify another dataset

@@ -6,6 +6,14 @@ Note, this page is broken because many of the dataset URIs no longer work.  TODO
 
 Keywords: plot types, schemes
 
+= Introduction =
+QDataSet is the data representation model used within Autoplot.  It was first implemented in IDL in the software PaPCo, and has evolved quite a 
+bit since then.  Previous data models we would use required revisiting the code and constantly modifying the library to add new data types.  It uses
+a thin syntax and rich semantics to model many types of data, and typically new types of data can be modeled without modifying the library.
+
+Since there's no table of Java types, this document serves to name and enumerate the types which have been used.  Also, the Java code within QDataSet
+org.das2.qds.examples.Schemes will generate all types, as well as a method for testing if a dataset is of the given type.
+
 = Rank 1 Time Series =
 [[Image:TimeSeries20190220.jpg|right|thumb]]
 Scalar quantity, such as density, is a function of an independent parameter like time.
@@ -55,7 +63,7 @@ Rank 2 dataset with one dimension representing angle and the other radial distan
 * vap+jyds:https://github.com/autoplot/app/blob/master/JythonDataSource/src/pitchAngleDistribution.jyds
 * This needs work, you have to slice it first, then set the renderType: vap+jyds:https://github.com/autoplot/app/blob/master/JythonDataSource/src/timasPitchAngleDistribution.jyds
 
-= Buckshot X,Y,Z =
+= XYZ Scatter =
 [[Image:colorScatterPlot.jpg|thumb|right]]
 Autoplot's "color scatter" can be used to display xyz triples.
 

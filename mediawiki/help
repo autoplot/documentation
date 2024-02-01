@@ -1,5 +1,5 @@
 = <span id="intro"></span> Introduction  =
-Autoplot is an interactive browser for data on the web. In the same way that you browse content stored in HTML, JPEG, and PNG files on the web, Autoplot allows you to interactively browse data stored in CDF, netCDF, ASCII, and many more data file formats.
+Autoplot is an interactive browser for data on the web. In the same way that you browse content stored in HTML, JPEG, and PNG files on the web, Autoplot allows you to interactively browse data stored in CDF, netCDF, ASCII, and many more data file formats.  You can also interact with several types of data servers, including HAPI servers, Das2Servers, and CDAWeb.
 
 Autoplot tries to create a sensible plot given a URL or a name of a data file on your computer so you can quickly get your data from one or more data files to a presentation- or publication-ready graphic within minutes. Plots are zoomable and annotations are easily adjusted.
 
@@ -8,21 +8,22 @@ Feel free to ask questions on the discussion group mailto:autoplot@groups.google
 This document is intended to introduce scientists to the software and go over its features. Autoplot is intended to be easy to use for new scientists, but quite capable and suitable for those who wish to use it for most of their science products. This document tries to be comprehensive, but one needn't understand later sections to use the software productively.
 
 = Installation =
-Autoplot can be found at http://autoplot.org/latest/. It is typically started with Java's WebStart, where clicking on the "Start Autoplot" link will download and start the application after security risk dialogs are confirmed. Development releases with new features and bug fixes are made about once a week. Though each release is tested using a suite of automatic tests, these development releases may contain new bugs which could interfere use, and should not be used in production environments. Production-quality releases have been more thoroughly tested, and made monthly.
+Autoplot can be found at http://autoplot.org/latest/.  The "Start Autoplot" link brings up a download page for the latest release.  The software is available separately for each type of computer.  A "single-jar" version is available for those who already have Java on their machines. Development releases with new features and bug fixes are made about once a week. Though each release is tested using a suite of automatic tests, these development releases may contain new bugs which could interfere use, and should not be used in production environments. Production-quality releases have been more thoroughly tested, and are made monthly.
 
-WebStart has been end-of-lifed by Oracle and other methods are often used.
+WebStart has been deprecated by Oracle and other methods should be used.  
 
-On Macs, a .dmg file which contains the Autoplot release and a bundled version of the Java Runtime Environment is used. This 70Mb download is signed and should run on any Mac.
+On Macs, a .dmg file which contains the Autoplot release and a bundled version of the Java Runtime Environment is used. This 98Mb download is signed and should run on any newer Mac. (The Install4J software used to build each release supports both Intel and M1 Macs.)
 
-Windows machines can use the "single-jar" release. This is downloaded, and then double-clicking on the jar should launch the application.
+Windows machines can use the "exe" release.  For now you will need to acknowledge the untrusted signature and "run anyway" to use it.  Trust is based on the number of people running it, and Microsoft does not trust the certificate at this time.
 
-On Linux machines, the single-jar release can be used as well. We've prepended a bash launch script at its beginning so that if the downloaded jar's executable bit is set, it can be launched like any other executable file.
+On Linux machines, the single-jar release can be used as well. We've prepended a bash launch script at its beginning so that if the downloaded jar's executable bit is set, it can be launched like any other executable file.  There are also .rpm and .dmg releases which are available, but the .rpm version has not been thoroughly tested.
 
 = Getting Started =
-Once Autoplot is running, you can enter the name of a CDF file in the address bar or try out the demonstration bookmarks.
+Once Autoplot is running, you can enter the name of a CDF file in the address bar or try out the demonstration bookmarks.  The name in the address bar is called an "Autoplot URI" and all data in Autoplot
+is identified using URIs.  This is typically the name of a data file and additional controls needed to read in the data.  For example, http://autoplot.org/data/autoplot.cdf?BGSM refers to the CDF file on a website, and the BGSM parameter which will be found inside.  Autoplot will download the CDF file to its cache, load the parameter from the file, and plot the data.
 
 == Bookmarks ==
-Like a web browser, Autoplot has a list of bookmarks that helps to locate data files and servers.  Autoplot is installed with a list of "Demo Bookmarks" which provide a few initial places where data is found so you can see that things are working and play with Autoplot right away.  For example, from the menu bar select "[Menubar]->Bookmarks->Demos->Demo 1", and Autoplot will plot data from CDAWeb at NASA/Goddard.
+Like a web browser, Autoplot has a list of bookmarks that helps to locate data files and servers.  Autoplot is installed with a list of "Demo Bookmarks" which provide a few initial places where data is found so you can see that things are working and play with Autoplot right away.  For example, from the menu bar select "[Menubar]&rarr;Bookmarks&rarr;Demos&rarr;Demo 1", and Autoplot will plot data from CDAWeb at NASA/Goddard.
 
 Some other bookmarks:
 * Demo 2: Spectrograms from the POLAR/Hydra instrument.
@@ -35,10 +36,8 @@ Autoplot uses the Das2 graphics library for displaying graphics.  These are Java
 
 Undo and redo actions are attached to the ctrl-Z and ctrl-Y keys (command &#x2318;-Z and &#x2318;-Y for Macs).
 
-<addhtml id="12">
-<html>
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/T6XMrwVuwUU?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/T6XMrwVuwUU?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
-</html>
+<addhtml>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PcB3feFYb_4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </addhtml>
 
 == Address Bar and URIs ==
@@ -54,7 +53,7 @@ The folder/magnifier button, called the "Inspect" button, will return to the edi
 
 Note that if you enter TAB when the address bar is selected, possible completions will appear if they exist.  This provides a quick way to finish URIs as well.
 
-The tiny green and blue buttons to the left of the address bar select which of two controls is shown.  The blue button shows the current time range, which is useful when navigating long time series of data.  The green button will swap back to the address bar.  Autoplot has a basic and expert modes.  In basic mode, the address bar is not visible and is replaced with a controller for the time range.
+The tiny green and blue buttons to the left of the address bar select which of two controls is shown.  The blue button shows the current time range, which is useful when navigating long time series of data.  The green button will swap back to the address bar.  Autoplot has a basic and expert modes.  In basic mode, the address bar is not visible and is replaced with a controller for the time range.  Control-T will switch to the time range, and Control-D will switch to the data URI.
 
 Sometimes Autoplot URIs do not refer to files.  They still locate data, but one of Autoplot's plug-ins interprets the address.  For example, <code><nowiki>vap+cdaweb:ds=CRRES_H0_MEA&id=FLUX&timerange=1991-10-09</nowiki></code> points to data from the CRRES satellite provided via CDAWeb at NASA/Goddard and <code><nowiki>vap+audiosystem:spec=512&len=2.5</nowiki></code> samples from the local machine's soundsystem for 2.5 seconds.
 
@@ -97,9 +96,9 @@ which means from the data identified as "OMNI2_H0_MRG1HR" plot the parameter "DS
 === HAPI Servers ===
 HAPI is an open interface groups can implement to provide access to their data.  What makes HAPI unique is that any group can set up this API, which has been developed by a committee of heliophysics data providers.  HAPI URIs look like:
 
- vap+hapi:http://datashop.elasticbeanstalk.com/hapi?id=CASSINI_MAG_HI_RES&parameters=SSO_X,SSO_Y,SSO_Z&timerange=2004-07-01
+ vap+hapi:https://cdaweb.gsfc.nasa.gov/hapi?id=AC_K0_SWE&parameters=Np,Vp&timerange=2023-11-11
 
-which says with the HAPI server located at http://datashop.elasticbeanstalk.com/hapi, from the dataset CASSINI_MAG_HI_RES, load the parameters SSO_X,SSO_Y,SSO_Z.  Any group can set up a HAPI server using the documentation at 
+which says with the HAPI server located at https://cdaweb.gsfc.nasa.gov/hapi, from the dataset AC_K0_SWE, load the parameters Np and Vp.  Any group can set up a HAPI server using the documentation at 
 https://github.com/hapi-server/data-specification/blob/master/hapi-2.1.0/HAPI-data-access-spec-2.1.0.md
 
 == Interaction ==
@@ -125,12 +124,10 @@ Other
 More complex interaction with plots, including: mouse wheel control, keyboard entry of axis range, context overview plots
 
 <addhtml id="123">
-<html>
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/nq4qTjqb664?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nq4qTjqb664?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zo-QuK-KvUM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </addhtml>
 
-Here are more videos, described below: http://www.youtube.com/user/AutoplotDevelopers
+Here are more videos, described below: https://youtube.com/@AutoplotDevelopers
 
 == Keyboard Shortcuts ==
 
@@ -223,9 +220,7 @@ Selecting the axis tab with show a panel with basic controls for the two axes of
 |-
 |
 <addhtml id="x">
-<html>
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/2r0OPV-dElQ?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2r0OPV-dElQ?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrPnp3WCL60?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </addhtml>
 |}
 
@@ -305,9 +300,7 @@ Keyboard shortcuts:
 * Add overplot: Shift + Play Button (green arrow button)
 
 <addhtml id="9">
-<html>
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/j9HHqOnZBDE?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/j9HHqOnZBDE?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UGA8SiDBZX8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </addhtml>
 
 == <span id="layoutPanel"></span>Layout  ==
@@ -450,9 +443,7 @@ An editor can be used to help develop a URI with the appropriate parameters for 
 Details on how the ASCII table reader is implemented is described at [[ascii_data_source]].
 
 <addhtml id="222">
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QnJDZ1c8lpg" frameborder="0" allowfullscreen></iframe>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcR0jtxlWrw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </addhtml>
 
 === Header tab: identify records and non-records ===
@@ -599,26 +590,24 @@ Aggregation URIs will contain from the following wildcard codes:
 * $S  two-digit second
 * $(milli)  three digit milliseconds since second boundary.  (please use subsec instead of this)
 * $(micro)  three digit microseconds since millisecond boundary.   (please use subsec instead of this)
-* $(subsec,places=3) three digits are milliseconds.  $(subsec,places=6) means the 6 digits are microseconds.
-* $v  version number, decimal sort.  $(v,alpha) is for alpha sort, and $(v,sep) for "x.y.z"  Note sometimes the filename will contain a V before this, and this should be just the number like so: V$v
-* $o  orbit number, arguments like $(o,id=crres) make this useful.  see http://www.autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges
+* $(subsec;places=3) three digits are milliseconds.  $(subsec;places=6) means the 6 digits are microseconds.
+* $v  version number, decimal sort.  $(v;alpha) is for alpha sort, and $(v;sep) for "x.y.z"  Note sometimes the filename will contain a V before this, and this should be just the number like so: V$v
+* $o  orbit number, arguments like $(o;id=crres) make this useful.  see http://autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges
 * $x  ignore, match anything but don't interpret the field.
 
 A version wildcard is allowed.  Versioned URIs have the form:
-  vap+cdf:ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2011-June
+  vap+cdf:https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July
 
 Also, parenthesis can be used to modify fields. For example:
-* $Y$m$d-$(H,span=12) indicates the hour is the beginning of a 12 hour interval indicated by the name.
-* $Y$m$d_$H$(M,span=10) indicates the files are in ten-minute blocks.
-* $(m,Y=2011)$d indicates the year field is implicit.  TODO: bugs prevent this from working, since we look for $Y to detect aggregations...
-* $Y$m$d_$H$M$S.$(milli,span=250) 
+* $Y$m$d-$(H;span=12) indicates the hour is the beginning of a 12 hour interval indicated by the name.
+* $Y$m$d_$H$(M;span=10) indicates the files are in ten-minute blocks.
+* $(m;Y=2011)$d indicates the year field is implicit.  TODO: bugs prevent this from working, since we look for $Y to detect aggregations...
+* $Y$m$d_$H$M$S.$(milli;span=250) 
 
-See also http://tsds.org//uri_templates, which includes a more complete description.
+See also https://github.com/hapi-server/uri-templates/wiki/Specification, which includes a more complete description.
 
 <addhtml id="5">
-<html>
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/pplANlOxKLM?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pplANlOxKLM?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
-</html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QI2ggl_iv64?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </addhtml>
 
 == Time Parsing / Formatting ==
@@ -737,6 +726,8 @@ Here are a number of entries and their interpretations:
 | 1972/now-P1D||	1972-01-01 00:00 to (24 hours ago)	|| 
 |-
 | now-P10D/now-P1D	||(10 days ago) to (1 day ago)	 ||
+|-
+| lastday-P1D/lastday   || yesterday (UTC), beginning of the day || 1 day
 |}
 
 = Cookbook =
@@ -799,8 +790,9 @@ Some versions of Java will run with limited memory (e.g. 192MB instead of 1GB), 
 
 ===Linux and OS-X===
 
-On the command line, download Autoplot using
+On the command line, download Autoplot using either wget or curl:
 
+ wget -N http://autoplot.org/jnlp/latest/autoplot.jar
  curl -O http://autoplot.org/jnlp/latest/autoplot.jar
 
 and then start it with
@@ -810,13 +802,11 @@ and then start it with
 Note that IcedTea/OpenJDK versions of Java may work, but we recommend using Oracle's version of Java [http://www.java.com/en/download/index.jsp].
 
 To launch Autoplot with more memory, use
- java -Xmx4G -jar autoplot.jar
-
-The native CDF reader can be accessed as well, and proxies set, but that is beyond the scope of this document.  Please email autoplot@groups.google.com for more information about this.
+ java -Xmx16G -jar autoplot.jar
 
 === 32bit JVMs===
 
-Presently there are issues with using Autoplot on a 32bit JVM.  When possible, the 64bit JVM should be used.  If it's not possible, then Autoplot should be launched with less than the default 1GB, so that there is room to load data from CDF files.
+A 32 bit JVM can be used, but it must be run with 1GB of memory or less.  A 64bit JVM is recommended.
 
 === Errors ===
 
@@ -948,12 +938,7 @@ Ranges of columns are specified for several keywords, such as depend1Labels and 
 * '''-5:'''  last columns
 
 === Comma Separated Values ===
-* extensions: .csv
-* URI prefix: vap+csv
-* example URLs:
-
-This uses a specialized .csv reader that allows line breaks within fields, etc, using the standard set for .csv that most common spreadsheets produce.
-Arguments are similar to those of the ascii file reader.
+Autoplot implements special handling needed for proper CSV files, supporting for example multi-line strings containing commas for quoted fields.
 
 ==== Arguments ====
 * '''column=field4''' which column to use as the dependent values
@@ -975,6 +960,8 @@ BinaryTableReader reads in datasets from binary files.  Data are assumed to be i
 ** '''recOffset''' int, the byte offset into the record.
 ** '''fieldCount''' int, number of fields per record, when recLength is not specified.  default is 1.
 ** '''column''' int, field number for the dependent parameter, then recOffset is not specified.
+** '''dims=[48,64]''' int array, specify dimensions of rank 2 table within each record.
+** '''rank2=:''' string like ":" or "5:15" to specify the positions to read in as table.
 ** '''type''' data type for the dependent parameter. double, float, long, int, short, byte, ubyte.  Default is ubyte.
 ** '''depend0Offset''' int, byte offset into each record for the independent parameter.  
 ** '''depend0''' int, field number for the independent parameter when depend0Offset is not specified.  Default is no independent parameter and the byte offset is the independent parameter.
