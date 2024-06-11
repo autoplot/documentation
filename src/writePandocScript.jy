@@ -1,0 +1,14 @@
+setScriptDescription('''Write wget calls which will load each page of the Autoplot wiki
+to a static page.  This is used to provide a backup and a migration path from Mediawiki
+to GitHub pages.
+
+See also https://github.com/autoplot/dev/edit/master/demos/2020/20201014/readme.md
+''')
+
+from java.util.regex import Pattern
+from org.das2.util.filesystem import HtmlUtil
+
+ff= listDirectory(URL(PWD).path + '../mediawiki/')
+for f in ff:
+    print 'pandoc -f mediawiki ../mediawiki/%s -t gfm -o %s.md' % ( f,f )
+    
