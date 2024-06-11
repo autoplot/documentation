@@ -1,0 +1,19 @@
+setScriptDescription('''Write wget calls which will load each page of the Autoplot wiki
+to a static page.  This is used to provide a backup and a migration path from Mediawiki
+to GitHub pages.
+
+See also https://github.com/autoplot/dev/edit/master/demos/2020/20201014/readme.md
+''')
+
+from java.util.regex import Pattern
+from org.das2.util.filesystem import HtmlUtil
+
+p= Pattern.compile('http://autoplot.org/([a-zA-Z0-9\.]+)')
+
+ins= URL('http://autoplot.org/Special:Allpages').openStream()
+uu= HtmlUtil.getDirectoryListing(URL('http://autoplot.org/Special:Allpages'),ins,False)
+for u in uu:
+    m= p.matcher(str(u))
+    if m.matches():
+        print 'wget -O %s \"http://autoplot.org/wiki/index.php?title=%s&action=raw\"' % ( m.group(1), m.group(1) )
+    
