@@ -1,8 +1,7 @@
-setScriptDescription('''Write wget calls which will load each page of the Autoplot wiki
-to a static page.  This is used to provide a backup and a migration path from Mediawiki
+setScriptDescription('''Write pandoc calls which will convert each mediawiki
+page to a markdown formatted page.  This is used to provide a backup and a migration path from Mediawiki
 to GitHub pages.
 
-See also https://github.com/autoplot/dev/edit/master/demos/2020/20201014/readme.md
 ''')
 
 from java.util.regex import Pattern
