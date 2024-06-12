@@ -1,0 +1,63 @@
+from java.util.regex import Pattern
+from java.io import File
+from org.das2.util import FileUtil
+setScriptDescription('''Write calls to download all binary resources, after
+seeing the netbeans screenshots were not loaded.
+''')
+
+from org.das2.util.filesystem import HtmlUtil
+from org.das2.util import Entities
+
+dr= '/home/jbf/tmp/git/autoplot/documentation/to_md/'
+f= getParam('md','000.md','markdown file')
+
+outf= File(dr+f+'.tweak.md')
+
+ss= FileUtil.readFileToString(File(dr+f))
+
+iframeRegex= '''\<iframe width="(\d+)" height="(\d+)" src="https:\/\/www\.youtube\.com\/embed\/(.+)\?rel=0" title="(.+)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><\/iframe>'''
+iframeTest=  '''<iframe width="560" height="315" src="https://www.youtube.com/embed/PcB3feFYb_4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'''
+
+iframePattern= Pattern.compile(iframeRegex)
+
+uriBrokeRegex= '\`(vap\+[a-z]+)\:\`\<(.+)\>'
+uriBrokeTest= '`vap+cdf:`<http://autoplot.org/data/autoplot.cdf?BGSM>'
+uriBrokePattern= Pattern.compile(uriBrokeRegex)
+
+out= open(str(outf),'w')
+
+def shouldEncode(s):
+    for c in s:
+        if ord(c)>128:
+            return True
+    return False
+    
+i=0
+for s in ss.split('\n'):
+    
+    if shouldEncode(s):
+       s= Entities.encode(s)
+       
+    mm= iframePattern.matcher(s)
+    if mm.matches():
+        vidid= mm.group(3)
+        title= mm.group(4)
+        s= '[![%s](https://img.youtube.com/vi/%s/0.jpg)](http://www.youtube.com/watch?v=%s "%s")' % ( title, vidid, vidid, title ) 
+
+    mm= uriBrokePattern.matcher(s)
+    if mm.matches():
+        uriPrefix= mm.group(1)
+        uri= mm.group(2)
+        s= '`' + uriPrefix + ':' + uri + '`'
+
+    if s.strip().startswith('<addhtml'):
+        s= ''
+    if s.strip().startswith('</addhtml>'):
+        s= ''        
+        
+    out.write(s)
+    out.write('\n')
+    
+out.close()
+
+setStatus( 'wrote ' + str(outf) )
