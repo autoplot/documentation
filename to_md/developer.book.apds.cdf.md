@@ -8,7 +8,7 @@ parameters can be related, such as asserting that each index of
 "Density" is associated with an "Epoch" time when the data was
 collected.
 
-<img src='apds.cdf.jpg'>apds.cdf.jpg</img>
+<img src='apds.cdf.jpg' align='right' width='200'>apds.cdf.jpg</img>
 
 # Using CDF Files
 
