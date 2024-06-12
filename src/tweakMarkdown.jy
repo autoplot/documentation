@@ -1,8 +1,12 @@
 from java.util.regex import Pattern
 from java.io import File
 from org.das2.util import FileUtil
-setScriptDescription('''Write calls to download all binary resources, after
-seeing the netbeans screenshots were not loaded.
+setScriptDescription('''Tweak the markdown found in the file, writing
+a new version of the file.  This handles:
+* the embedded movies by linking to youtube
+* fixes links automatically added for part of a URI
+* reencodes the unicode characters
+* removes the "addhtml" blocks
 ''')
 
 from org.das2.util.filesystem import HtmlUtil
