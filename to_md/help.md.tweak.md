@@ -74,7 +74,7 @@ locate data files and servers. Autoplot is installed with a list of
 "Demo Bookmarks" which provide a few initial places where data is found
 so you can see that things are working and play with Autoplot right
 away. For example, from the menu bar select
-"\[Menubar\]’Bookmarks’Demos’Demo 1", and Autoplot will plot data
+"\[Menubar\]â€™Bookmarksâ€™Demosâ€™Demo 1", and Autoplot will plot data
 from CDAWeb at NASA/Goddard.
 
 Some other bookmarks:
@@ -261,9 +261,7 @@ Other
 More complex interaction with plots, including: mouse wheel control,
 keyboard entry of axis range, context overview plots
 
-<addhtml id="123">
 [![YouTube video player](https://img.youtube.com/vi/Zo-QuK-KvUM/0.jpg)](http://www.youtube.com/watch?v=Zo-QuK-KvUM "YouTube video player")
-</addhtml>
 
 Here are more videos, described below:
 <https://youtube.com/@AutoplotDevelopers>
@@ -283,7 +281,7 @@ Here are more videos, described below:
 
 ![menubar.png](menubar.png "menubar.png")  
 
-### File ’ URI History
+### File â€™ URI History
 
 Autoplot keeps track of everything you have plotted in the file
 HOME/autoplot\_data/bookmarks/history.txt. The URI history dialog is a
@@ -291,7 +289,7 @@ tool that tries to sort out the history and provides a search tool for
 locating lost datasets. For example, if you know that you were plotting
 a txt file, set the filter to "vap+txt" to see all the matching URIs.
 
-### File ’ Export Data
+### File â€™ Export Data
 
 Data can be exported to a number of data types. (In addition to reading
 in data, some data sources will export data as well.) Only the current
@@ -303,7 +301,7 @@ for text file) and whether the original data, the processed data
 Note that while only the currently selected plot element's data is
 exported, in the future you will have more options for exporting data.
 
-### Options ’ Auto ’ Autoranging
+### Options â€™ Auto â€™ Autoranging
 
 Sometimes you want to look at different data on the same axis. This
 provides a method that turns off Autoplot's autoranging. Note too that
@@ -317,7 +315,7 @@ Bookmarks can be selected in two ways
 
 1.  By selecting the `Bookmarks` menu item and then browsing a tree of
     bookmarks.
-2.  By selecting `Bookmarks ’ Browse and Manage` and clicking on a
+2.  By selecting `Bookmarks â€™ Browse and Manage` and clicking on a
     bookmark.
 
 Note that the second option allows you to view metadata associated with
@@ -326,7 +324,7 @@ button. In addition, the second option allows you to place a plot for a
 given bookmark in a separate panel or on top of the current panel in
 view.
 
-### Tools ’ PNGWalk
+### Tools â€™ PNGWalk
 
 The PNGWalk tool is an application for looking at series of images found
 on websites. You can also run a pngwalk from the current product by
@@ -349,17 +347,17 @@ for any interval, such as with aggregation or the CDAWeb plugin.
 
 See also [PNGWalks](PNGWalks "wikilink")
 
-### Tools ’ Reload All Data
+### Tools â€™ Reload All Data
 
 This will reload all of the displayed data.
 
-### Tools ’ Manage and Browse
+### Tools â€™ Manage and Browse
 
 This submenu contains all scripts found in autoplot\_data/tools/\*.jy
 and any Example scripts can be found here
 <http://autoplot.org/data/tools/>.
 
-### Tools ’ Additional Operations
+### Tools â€™ Additional Operations
 
 Sometimes additional operations need to be applied to the data before
 displaying. For example, suppose the data loaded is Flux which is a
@@ -374,7 +372,7 @@ you can pick a different operation, such as averaging all the elements
 of a dimension together. The are other operations, such as smooth and
 detrend that are available as well.
 
-### Tools ’ Cache
+### Tools â€™ Cache
 
 The Cache menu is a set of tools for managing the cache of data loaded.
 When you point Autoplot to a URL like
@@ -412,7 +410,7 @@ be used with the Git-based filesystem to link to a local copy of the
 filesystem, so that modifications can be tested without affecting
 others.
 
-### Tools ’ Events List
+### Tools â€™ Events List
 
 The events list is used to load a list of times which control the
 application time range. For example, suppose you are interested only in
@@ -422,7 +420,7 @@ list of perigee times
 to select the perigee. Then clicking on a time will reset the
 application timerange.
 
-### Tools ’ Fix Layout
+### Tools â€™ Fix Layout
 
 This will correct obvious undesired aspects of the plot, such as
 overlapping labels and plots. Autoplot's layout is very flexible, more
@@ -462,7 +460,7 @@ All labels support "Granny Strings," which has special codes, similar to
 those used in IDL, proposed by Grandel in Nystorm. For example, \!c
 inserts a new line. See
 [help\#Granny\_Strings](help#Granny_Strings "wikilink") for more
-information. Also html escapes like \&Delta; will show like ”.
+information. Also html escapes like \&Delta; will show like â€.
 
 When selected, **Isotropic** constrains the x- and y-axis to have the
 same data-to-pixel scaling. This option is ignored when the axes do not
@@ -593,12 +591,12 @@ message, and GUI when the message was issued from the event thread.
 Jython scripts can use the logging system. (This is fixed in the next
 dev release, 20161020.)
 
-`from org.das2.util import LoggerManager`  
-`logger= LoggerManager.getLogger('analysis')`  
-`logger.info('opening file data.dat')`  
-`logger.fine('file data.dat is 140 bytes long')`  
+`fromÂ org.das2.utilÂ importÂ LoggerManager`  
+`logger=Â LoggerManager.getLogger('analysis')`  
+`logger.info('openingÂ fileÂ data.dat')`  
+`logger.fine('fileÂ data.datÂ isÂ 140Â bytesÂ long')`  
 `logger.warning('warning!')`  
-`print 'print message'`
+`printÂ 'printÂ message'`
 
 The AP prompt contains an Jython session which can be used for quick
 calculations and to test statements. The keyboard up arrow can be used
@@ -909,7 +907,7 @@ codes.
 Note that fractional times may be given in the ASCII file, e.g.,
 `$Y+$m+$d+$H` with
 
-`2014 01 02 12.5 -44.1`
+`2014Â 01Â 02Â 12.5Â -44.1`
 
 will be interpreted as a value of -44.1 at 12:30 on January 2nd, 2014.
 
@@ -1008,8 +1006,8 @@ this has not yet been explored.) URI parameters for scripting are
 described below. The following script shows how data is loaded from a
 CDF file and formatted to an ASCII file.
 
-`ds= getDataSet( '`<http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude>`' )`  
-`formatDataSet( ds, '/tmp/mag.txt' )`
+`ds=Â getDataSet(Â '`<http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude>`'Â )`  
+`formatDataSet(Â ds,Â '/tmp/mag.txt'Â )`
 
 ## Formats Supported
 
@@ -1114,12 +1112,12 @@ Data coming from files can typically be combined, or aggregated. For
 example, a single CDF file can be read (using the CDF plug-in) with the
 URI:
 
-` vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/2008/ac_k0_swe_20080620_v01.cdf?Np>
+`Â vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/2008/ac_k0_swe_20080620_v01.cdf?Np>
 
 If this is one of a series of files, the variable `Np` can be plotted
 across several files using the notation:
 
-` vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2008-June>
+`Â vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2008-June>
 
 Most of the letters used for the wildcards for time are the same as the
 Unix `date` command, for example `$Y` means a four-letter year while
@@ -1175,7 +1173,7 @@ Aggregation URIs will contain from the following wildcard codes:
 
 A version wildcard is allowed. Versioned URIs have the form:
 
-` vap+cdf:`<https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July>
+`Â vap+cdf:`<https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July>
 
 Also, parenthesis can be used to modify fields. For example:
 
@@ -1318,7 +1316,7 @@ list includes:
 
   - Greek letters (use without quotes): "\&Alpha;" "\&Beta;" "\&Delta;"
     "\&alpha;" "\&beta;" "\&delta;" "\&pi;" "\&rho;" "\&omega;"
-  - Math symbols: "\&sum;" () "\&plusmn;" (±)
+  - Math symbols: "\&sum;" () "\&plusmn;" (Â±)
 
 ## TimeSeriesBrowse and other Capabilities
 
@@ -1394,18 +1392,18 @@ Some versions of Java will run with limited memory (e.g. 192MB instead
 of 1GB), so check that this will be sufficient; if not, start using the
 command line using:
 
-`java -Xmx4G -jar autoplot.jar`
+`javaÂ -Xmx4GÂ -jarÂ autoplot.jar`
 
 ### Linux and OS-X
 
 On the command line, download Autoplot using either wget or curl:
 
-`wget -N `<http://autoplot.org/jnlp/latest/autoplot.jar>  
-`curl -O `<http://autoplot.org/jnlp/latest/autoplot.jar>
+`wgetÂ -NÂ `<http://autoplot.org/jnlp/latest/autoplot.jar>  
+`curlÂ -OÂ `<http://autoplot.org/jnlp/latest/autoplot.jar>
 
 and then start it with
 
-`java -jar autoplot.jar  `
+`javaÂ -jarÂ autoplot.jarÂ Â `
 
 Note that IcedTea/OpenJDK versions of Java may work, but we recommend
 using Oracle's version of Java
@@ -1413,7 +1411,7 @@ using Oracle's version of Java
 
 To launch Autoplot with more memory, use
 
-`java -Xmx16G -jar autoplot.jar`
+`javaÂ -Xmx16GÂ -jarÂ autoplot.jar`
 
 ### 32bit JVMs
 
@@ -1424,7 +1422,7 @@ A 64bit JVM is recommended.
 
 Sometimes updates in Autoplot's dependencies cause this error:
 
-`Unsigned application requesting unrestricted access ...`
+`UnsignedÂ applicationÂ requestingÂ unrestrictedÂ accessÂ ...`
 
 To fix, start `javaws -viewer` and delete all CDF and Autoplot
 applications and then delete all CDF and Autoplot resources. Web Start
@@ -1740,11 +1738,11 @@ window. (I could tell this because ascii values were interleaved with
 zeros.) `iconv` failed to convert the file, so I tried converting it
 with Autoplot:
 
-`ds= getDataSet('vap+bin:`<file:///tmp/output1249405460816>`')`  
-`# skip every other record, skipping the zeroth record.`  
-`ds2= ds[1::2]  `  
-`# save it out as a binary stream.`  
-`formatDataSet( ds2, 'vap+bin:`<file:///tmp/output1249405460816.txt?type=ubyte>`' )`
+`ds=Â getDataSet('vap+bin:`<file:///tmp/output1249405460816>`')`  
+`#Â skipÂ everyÂ otherÂ record,Â skippingÂ theÂ zerothÂ record.`  
+`ds2=Â ds[1::2]Â Â `  
+`#Â saveÂ itÂ outÂ asÂ aÂ binaryÂ stream.`  
+`formatDataSet(Â ds2,Â 'vap+bin:`<file:///tmp/output1249405460816.txt?type=ubyte>`'Â )`
 
 ### CDF
 
@@ -1778,11 +1776,11 @@ the file part of the url is
 
 to specify more than one day, use
 
-`2000/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000101 - 20000103 (end is not inclusive)`
+`2000/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000101Â -Â 20000103Â (endÂ isÂ notÂ inclusive)`
 
 to allow access to data that crosses a year boundary, use
 
-`$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20001231 through 20010101`
+`$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20001231Â throughÂ 20010101`
 
 ### NcML
 
@@ -2024,8 +2022,8 @@ scripting](http://autoplot.org/scripting_scripting "wikilink").
 
 Example Script (/home/user/script.jyds):
 
-`amplitude= getParam( 'amp', 1.0, 'the amplitude of the waveform' )`  
-`data= amp * sin( linspace( 0, PI*2, 100 ) )`
+`amplitude=Â getParam(Â 'amp',Â 1.0,Â 'theÂ amplitudeÂ ofÂ theÂ waveform'Â )`  
+`data=Â ampÂ *Â sin(Â linspace(Â 0,Â PI*2,Â 100Â )Â )`
 
 This is called like so:
 
@@ -2115,7 +2113,7 @@ file cache, I would use the link file to avoid downloading the data to
 my local cache, making a second copy. When Autoplot looks for the
 resource, it will use files from here before downloading.
 
-`jfaden.net> cat /home/jbf/autoplot_data/fscache/http/jfaden.net/~jbf/ro_cache.txt`  
+`jfaden.net>Â catÂ /home/jbf/autoplot_data/fscache/http/jfaden.net/~jbf/ro_cache.txt`  
 `/home/jbf/public_html`
 
 #### keychain.txt
