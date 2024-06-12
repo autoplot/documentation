@@ -176,7 +176,7 @@ using another parameter.
 
 Note the URI given above is more formally stated as:
 
-`vap+cdf:`<http://autoplot.org/data/autoplot.cdf?BGSM>
+`vap+cdf:http://autoplot.org/data/autoplot.cdf?BGSM`
 
 and when the vap+cdf prefix (scheme) is missing, the file extension is
 used to infer the data source to use.
@@ -223,7 +223,7 @@ their data. What makes HAPI unique is that any group can set up this
 API, which has been developed by a committee of heliophysics data
 providers. HAPI URIs look like:
 
-`vap+hapi:`<https://cdaweb.gsfc.nasa.gov/hapi?id=AC_K0_SWE&parameters=Np,Vp&timerange=2023-11-11>
+`vap+hapi:https://cdaweb.gsfc.nasa.gov/hapi?id=AC_K0_SWE&parameters=Np,Vp&timerange=2023-11-11`
 
 which says with the HAPI server located at
 <https://cdaweb.gsfc.nasa.gov/hapi>, from the dataset AC\_K0\_SWE, load
@@ -2041,7 +2041,7 @@ script with new time ranges as the time axis is adjusted.
 URIs can also use the resourceURI part to point to a resource that is
 parsed by the script, such as:
 
-`vap+jyds:`<file:///opt/project/cassini/new_hfr_level2_level3/2010_091_180/n2/P2010118.17?script=file:///home/jbf/project/cassini/jared/autoplot/readL2Files3.jyds>
+`vap+jyds:file:///opt/project/cassini/new_hfr_level2_level3/2010_091_180/n2/P2010118.17?script=file:///home/jbf/project/cassini/jared/autoplot/readL2Files3.jyds`
 
 Here the "script=" switch points to the script. This is useful to define
 a parser for a file type, which allows aggregation to be used.
