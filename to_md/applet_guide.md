@@ -14,9 +14,9 @@ same URL that the applet was loaded from.
 
 ## Basic
 
-<applet width="800" height="400" id="applet1" code="org.virbo.autoplot.AutoplotApplet" archive="AutoplotApplet.jar">  
-`   `<param name="dataSetURL" value="http://www.autoplot.org/data/alpha_proton_ratio.qds">`          `  
-</applet>
+    <applet width="800" height="400" id="applet1" code="org.virbo.autoplot.AutoplotApplet" archive="AutoplotApplet.jar">
+       <param name="dataSetURL" value="http://www.autoplot.org/data/alpha_proton_ratio.qds">          
+    </applet>
 
 ## Testing Clients
 
@@ -112,9 +112,9 @@ string parameter.
 
 For example:
 
-` setDomNode( 'timeRange', '2009-05-06' )`  
-` setDomNode( 'plots[0].xaxis.log', 'true' )  # TODO: I think the indexed variables don't work presently.`  
-` setDomNode( 'options.drawMinorGrid', 'true' )`
+    setDomNode( 'timeRange', '2009-05-06' )
+    setDomNode( 'plots[0].xaxis.log', 'true' )  # TODO: I think the indexed variables don't work presently.
+    setDomNode( 'options.drawMinorGrid', 'true' )
 
   - **printDomNode( String name )** Uses Java introspection and
     QStream's serialize delegates to provide a string representation of
@@ -123,8 +123,10 @@ For example:
     means of displaying the node in the java console. TODO: fix this
     limitation
 
-` printDomNode( 'timeRange' )`  
-` printDomNode( 'plots[0].xaxis.log' )`
+<!-- end list -->
+
+    printDomNode( 'timeRange' )
+    printDomNode( 'plots[0].xaxis.log' )
 
 When adding to the applet's API, the thread calling the applet is
 considered a hostile thread and a security exception will be thrown when
