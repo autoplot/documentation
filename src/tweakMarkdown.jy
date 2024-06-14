@@ -1,23 +1,29 @@
+from java.util import ArrayList
 from java.util.regex import Pattern
 from java.io import File
 from org.das2.util import FileUtil
 setScriptDescription('''Tweak the markdown found in the file, writing
-a new version of the file.  This handles:
-* the embedded movies by linking to youtube
-* fixes links automatically added for part of a URI
-* reencodes the unicode characters
-* removes the "addhtml" blocks
+a new version of the file.  This handles:<ul>
+<li> the embedded movies by linking to youtube
+<li> fixes links automatically added for part of a URI
+<li> re-encodes the unicode characters
+<li> removes the "addhtml" blocks
+<li> re-combines lines of code to make block
+</ul>
 ''')
 
 from org.das2.util.filesystem import HtmlUtil
 from org.das2.util import Entities
 
-dr= '/home/jbf/tmp/git/autoplot/documentation/to_md/'
-f= getParam('md','000.md','markdown file')
+c= { 'stringType':'file','regex':'.*\.md' }
+f= getParam('f','/home/jbf/tmp/git/autoplot/documentation/to_md/tutorial.jythonScripting.md','markdown file',c)
 
-outf= File(dr+f+'.tweak.md')
+c= { 'stringType':'directory' }
+w= getParam('w','/home/jbf/tmp/git/autoplot/documentation.wiki/','output folder',c) 
 
-ss= FileUtil.readFileToString(File(dr+f))
+outf= File( w, File(f).name )
+
+ss= FileUtil.readFileToString(File(f))
 
 iframeRegex= '''\<iframe width="(\d+)" height="(\d+)" src="https:\/\/www\.youtube\.com\/embed\/(.+)\?rel=0" title="(.+)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen><\/iframe>'''
 iframeTest=  '''<iframe width="560" height="315" src="https://www.youtube.com/embed/PcB3feFYb_4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'''
@@ -28,6 +34,9 @@ uriBrokeRegex= '\`(vap\+[a-z]+)\:\`\<(.+)\>'
 uriBrokeTest= '`vap+cdf:`<http://autoplot.org/data/autoplot.cdf?BGSM>'
 uriBrokePattern= Pattern.compile(uriBrokeRegex)
 
+if outf.exists():
+    raise Exception('output file already exists: '+str(outf))
+
 out= open(str(outf),'w')
 
 def shouldEncode(s):
@@ -37,11 +46,27 @@ def shouldEncode(s):
     return False
     
 i=0
+codeBlock=ArrayList()
+
 for s in ss.split('\n'):
+    i=i+1
     
+    tc= s.strip()
+    if len(tc)>0 and tc[0]=='`' and tc[-1]=='`':
+        tc= tc.replace(chr(160),' ')
+        codeBlock.add(tc[1:-1])
+        continue
+    elif codeBlock.size()>0:
+        out.write('```\n')
+        for s1 in codeBlock:
+            out.write(s1)
+            out.write('\n')
+        out.write('```\n')
+        codeBlock.clear()
+
     if shouldEncode(s):
-       s= Entities.encode(s)
-       
+       s= Entities.encode(s)    
+    
     mm= iframePattern.matcher(s)
     if mm.matches():
         vidid= mm.group(3)
