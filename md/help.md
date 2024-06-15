@@ -349,7 +349,7 @@ For example:
 This works with any configuration where each plot knows how to get data
 for any interval, such as with aggregation or the CDAWeb plugin.
 
-See also [PNGWalks](PNGWalks "wikilink")
+See also [PNGWalks](PNGWalks.md "wikilink")
 
 ### Tools &rarr; Reload All Data
 
