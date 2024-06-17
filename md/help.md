@@ -105,7 +105,7 @@ Undo and redo actions are attached to the ctrl-Z and ctrl-Y keys
 
   
 In the address bar at the top of the GUI you can enter the name of a
-supported [file format](#Formats_Read "wikilink") in a data address. If
+supported [file format](#Formats_Read.md "wikilink") in a data address. If
 the data address is a URL, HTTP or FTP is used to download the file to a
 local directory within the folder "autoplot\_data." A fully-qualified
 address will contain both the location of the file and additional
@@ -349,7 +349,7 @@ For example:
 This works with any configuration where each plot knows how to get data
 for any interval, such as with aggregation or the CDAWeb plugin.
 
-See also [PNGWalks](PNGWalks "wikilink")
+See also [PNGWalks](PNGWalks.md "wikilink")
 
 ### Tools &rarr; Reload All Data
 
@@ -463,7 +463,7 @@ the current axis units (such as time or dimensionless). For example,
 All labels support "Granny Strings," which has special codes, similar to
 those used in IDL, proposed by Grandel in Nystorm. For example, \!c
 inserts a new line. See
-[help\#Granny\_Strings](help#Granny_Strings "wikilink") for more
+[help\#Granny\_Strings](help#Granny_Strings.md "wikilink") for more
 information. Also html escapes like \&amp;Delta; will show like &Delta;.
 
 When selected, **Isotropic** constrains the x- and y-axis to have the
@@ -542,7 +542,7 @@ Java version of Python, and it provides a rich environment for
 developing software which combine and analyze data, and also control
 workflows like running process on each file of a collection of files,
 similar to IDL or Matlab. More on its use is found at
-[scripting](scripting "wikilink"). The script tab creates an environment
+[scripting](scripting.md "wikilink"). The script tab creates an environment
 optimized for creating software quickly, like an IDE for other
 languages. For example, the "execute" button runs the script, and the
 Context Selector controls how the script is to be used, explained below.
@@ -759,7 +759,7 @@ The GUI in Autoplot v2015a contains a GUI for working with this string.
 In the DOM, this is the same as the "component" property of a
 plotElement.
 
-More about [filters](filters "wikilink") can be found here.
+More about [filters](filters.md "wikilink") can be found here.
 
 ## Script
 
@@ -807,7 +807,7 @@ referred to as an **overplot**.) A color bar is connected to all plots
 so that multiple spectrograms can be rendered using the same color map.
 The color bar is hidden when it is not needed.
 
-The [cookbook](cookbook "wikilink") page describes quite a few useful
+The [cookbook](cookbook.md "wikilink") page describes quite a few useful
 tricks, such as resizing plots and putting exponents in labels.
 
 Autoplot uses rows and columns to specify the location of components on
@@ -849,7 +849,7 @@ A VAP file does not contain the data used to produce the plot, but only
 references (URIs) to it<sup>+</sup>. To save data along with a VAP file,
 select "Embed Data" when saving. The file created is a zip file
 containing the VAP and the data required to display the VAP. See
-[developer.vapzip](developer.vapzip "wikilink").
+[developer.vapzip](developer.vapzip.md "wikilink").
 
 <div style="font-size:85%">
 
@@ -882,12 +882,12 @@ Browse" capability) is used to load data for the correct time.
 An editor can be used to help develop a URI with the appropriate
 parameters for Autoplot to read and plot data in a ASCII file. The list
 of parameters that may be used in a URI is given
-[below](#ASCII_Table "wikilink"). A table is displayed showing how the
+[below](#ASCII_Table.md "wikilink"). A table is displayed showing how the
 reader would parse the file. Darker lines that are not broken into
 columns are lines identified as non-records, such as header lines.
 
 Details on how the ASCII table reader is implemented is described at
-[ascii\_data\_source](ascii_data_source "wikilink").
+[ascii\_data\_source](ascii_data_source.md "wikilink").
 
 
 [![YouTube video player](https://img.youtube.com/vi/TcR0jtxlWrw/0.jpg)](http://www.youtube.com/watch?v=TcR0jtxlWrw "YouTube video player")
@@ -909,7 +909,7 @@ copy the fields up into the Time Format text field. Then in the text
 field, highlight each field and use the drop list to identify the field
 type. If the field is already ISO8601 compliant, a manual specification
 of the time format is not required. See
-[\#Wildcard\_codes](#Wildcard_codes "wikilink") for a full list of time
+[\#Wildcard\_codes](#Wildcard_codes.md "wikilink") for a full list of time
 codes.
 
 Note that fractional times may be given in the ASCII file, e.g.,
@@ -1223,7 +1223,7 @@ Example times:
   - $Y-$m-$d 2010-06-23
   - <file:///tmp/$Y$m$d.dat> <file:///tmp/20100623.dat>
 
-Field types (see [\#Wildcard\_codes](#Wildcard_codes "wikilink") for
+Field types (see [\#Wildcard\_codes](#Wildcard_codes.md "wikilink") for
 full list and definitions):
 
   - $Y $m $d $H $M $S $(milli) $(micro)
@@ -1299,7 +1299,7 @@ Here are a number of entries and their interpretations:
 
 # Cookbook
 
-The [cookbook](cookbook "wikilink") page describes quite a few useful
+The [cookbook](cookbook.md "wikilink") page describes quite a few useful
 tricks, such as resizing plots and putting exponents in labels.
 
 # Advanced Topics
@@ -1457,7 +1457,7 @@ is touchy software and resetting things almost always seems to help.
 Plug-in data sources are used to load data into Autoplot using a URI
 specification. The URI is used to identify the plug-in and then the
 plug-in uses the URI and its parameters to read in the data (into
-Autoplot's internal data model, [QDataSet](QDataSet "wikilink")). Some
+Autoplot's internal data model, [QDataSet](QDataSet.md "wikilink")). Some
 plug-in data sources have graphical (GUI) editors that make it easier to
 compose URIs. For these plug-ins, clicking the folder icon next to the
 address bar will launch the editor, otherwise the URI completions is
@@ -1478,7 +1478,7 @@ vap+dat:
 
 explicitly requests a plug-in (a guess is made if not given). (Details
 on how the ASCII table reader is implemented is described at
-[ascii\_data\_source](ascii_data_source "wikilink").)
+[ascii\_data\_source](ascii_data_source.md "wikilink").)
 
 Note data from servers that use query parameters (with URLs containing
 ?) cannot be read directly, since the query parameters are interpreted
@@ -1502,7 +1502,7 @@ plot data from one or more data providers, data directories, and/or data
 files without having to enter a complex URI into the address bar.
 
 Data providers interested in making their plug-ins discoverable should
-see [Adding\_Data\_Sources](Adding_Data_Sources "wikilink").
+see [Adding\_Data\_Sources](Adding_Data_Sources.md "wikilink").
 
 #### CDAWeb
 
@@ -1571,7 +1571,7 @@ Once the data source type (most often the file format type) is
 identified, the URI's parameter string is interpreted. Different URI
 types may have different parameter arguments. Additional formats may be
 added - see the tutorial for adding a data source to Autoplot:
-[Adding\_Data\_Sources](Adding_Data_Sources "wikilink")
+[Adding\_Data\_Sources](Adding_Data_Sources.md "wikilink")
 
 Note that if a parameters string is not given, the parameters in the
 file or data stream can often be listed by clicking the folder icon to
@@ -1583,7 +1583,7 @@ The ASCII Table reader reads in a flat ASCII file with one record per
 line. Each line of the file is identified as a record or non-record.
 Autoplot URIs are the name of the ascii file and parameters that specify
 how to parse the file, listed below. A
-[GUI](help#ASCII_Editor "wikilink") is also provided that allows the URI
+[GUI](help#ASCII_Editor.md "wikilink") is also provided that allows the URI
 to be created graphically. This does not provide access to all the
 available controls, but is much easier to use.
 
@@ -1633,7 +1633,7 @@ available controls, but is much easier to use.
   - **timeFormat** specifies the time format, based on the Unix `date`
     command. "ISO8601" means the times are ISO8601 conforment, or use
     template with fields from
-    [\#Wildcard\_codes](#Wildcard_codes "wikilink").
+    [\#Wildcard\_codes](#Wildcard_codes.md "wikilink").
   - **time** specifies the field that is the time record. This also sets
     the independent variable.
   - **delim** identifies the delimiter character. By default, the first
@@ -2024,7 +2024,7 @@ Plots the waveform within wav files.
 
 Example URLs:
 [20](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/trainMono.wav)
-See also [\#Multiple\_plot\_panels](#Multiple_plot_panels "wikilink")
+See also [\#Multiple\_plot\_panels](#Multiple_plot_panels.md "wikilink")
 
   - Parameters:
       - **channel** the channel to plot (by default, only the 0th
@@ -2107,24 +2107,24 @@ getParam function will be provided in the GUI.
 
 The PNG Walk Tool provides efficient browsing of a series of images.
 Autoplot has a menu item for generating PNG walks. More information
-about this can be found at [PNG\_Walks](PNG_Walks "wikilink").
+about this can be found at [PNG\_Walks](PNG_Walks.md "wikilink").
 
 ## Run Batch Tool
 
 The Run Batch Tool generates inputs for Jython scripts, and manages
-batch runs. More info at [batch](batch "wikilink").
+batch runs. More info at [batch](batch.md "wikilink").
 
 ## Annotations
 
 Annotations are additional labels that can be added to the canvas. More
 information about this can be found at
-[Annotations](Annotations "wikilink").
+[Annotations](Annotations.md "wikilink").
 
 ## Axis Autorange Hints
 
 Autoplot allows additional hints when autoranging, such as the center of
 the autorange or the width. See
-[AxisAutoRangeHints](AxisAutoRangeHints "wikilink").
+[AxisAutoRangeHints](AxisAutoRangeHints.md "wikilink").
 
 ## Managing the Cache
 
@@ -2162,7 +2162,7 @@ Often we need to run batch processes, and the keychain.txt allows data
 providers to store credentials for batch processing. Note only a minimal
 amount of thought has gone into this, so please be careful with these
 facilities and use them at your own risk\!
-[developer.headless](developer.headless "wikilink") talks about this
+[developer.headless](developer.headless.md "wikilink") talks about this
 more.
 
 ## Applet
