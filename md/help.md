@@ -105,7 +105,7 @@ Undo and redo actions are attached to the ctrl-Z and ctrl-Y keys
 
   
 In the address bar at the top of the GUI you can enter the name of a
-supported [file format](#Formats_Read.md "wikilink") in a data address. If
+supported [file format](#formats_read "wikilink") in a data address. If
 the data address is a URL, HTTP or FTP is used to download the file to a
 local directory within the folder "autoplot\_data." A fully-qualified
 address will contain both the location of the file and additional
@@ -463,7 +463,7 @@ the current axis units (such as time or dimensionless). For example,
 All labels support "Granny Strings," which has special codes, similar to
 those used in IDL, proposed by Grandel in Nystorm. For example, \!c
 inserts a new line. See
-[help\#Granny\_Strings](help#Granny_Strings.md "wikilink") for more
+[help\#Granny\_Strings](help.md#granny_strings "wikilink") for more
 information. Also html escapes like \&amp;Delta; will show like &Delta;.
 
 When selected, **Isotropic** constrains the x- and y-axis to have the
@@ -882,7 +882,7 @@ Browse" capability) is used to load data for the correct time.
 An editor can be used to help develop a URI with the appropriate
 parameters for Autoplot to read and plot data in a ASCII file. The list
 of parameters that may be used in a URI is given
-[below](#ASCII_Table.md "wikilink"). A table is displayed showing how the
+[below](#ascii_table "wikilink"). A table is displayed showing how the
 reader would parse the file. Darker lines that are not broken into
 columns are lines identified as non-records, such as header lines.
 
@@ -909,7 +909,7 @@ copy the fields up into the Time Format text field. Then in the text
 field, highlight each field and use the drop list to identify the field
 type. If the field is already ISO8601 compliant, a manual specification
 of the time format is not required. See
-[\#Wildcard\_codes](#Wildcard_codes.md "wikilink") for a full list of time
+[\#Wildcard\_codes](#wildcard_codes "wikilink") for a full list of time
 codes.
 
 Note that fractional times may be given in the ASCII file, e.g.,
@@ -1223,7 +1223,7 @@ Example times:
   - $Y-$m-$d 2010-06-23
   - <file:///tmp/$Y$m$d.dat> <file:///tmp/20100623.dat>
 
-Field types (see [\#Wildcard\_codes](#Wildcard_codes.md "wikilink") for
+Field types (see [\#Wildcard\_codes](#wildcard_codes "wikilink") for
 full list and definitions):
 
   - $Y $m $d $H $M $S $(milli) $(micro)
@@ -1583,7 +1583,7 @@ The ASCII Table reader reads in a flat ASCII file with one record per
 line. Each line of the file is identified as a record or non-record.
 Autoplot URIs are the name of the ascii file and parameters that specify
 how to parse the file, listed below. A
-[GUI](help#ASCII_Editor.md "wikilink") is also provided that allows the URI
+[GUI](help.md#ascii_editor "wikilink") is also provided that allows the URI
 to be created graphically. This does not provide access to all the
 available controls, but is much easier to use.
 
@@ -1633,7 +1633,7 @@ available controls, but is much easier to use.
   - **timeFormat** specifies the time format, based on the Unix `date`
     command. "ISO8601" means the times are ISO8601 conforment, or use
     template with fields from
-    [\#Wildcard\_codes](#Wildcard_codes.md "wikilink").
+    [\#Wildcard\_codes](#wildcard_codes "wikilink").
   - **time** specifies the field that is the time record. This also sets
     the independent variable.
   - **delim** identifies the delimiter character. By default, the first
@@ -2024,7 +2024,7 @@ Plots the waveform within wav files.
 
 Example URLs:
 [20](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/trainMono.wav)
-See also [\#Multiple\_plot\_panels](#Multiple_plot_panels.md "wikilink")
+See also [\#Multiple\_plot\_panels](#multiple_plot_panels "wikilink")
 
   - Parameters:
       - **channel** the channel to plot (by default, only the 0th
