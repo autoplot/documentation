@@ -14,13 +14,14 @@ a new version of the file.  This handles:<ul>
 <li> internal links to hashes (#Wildcard_codes) don't work.
 <li> blocks of code with empty lines delimiting need to be combined.
 </ul>
+Thanks https://regex101.com/.
 ''')
 
 from org.das2.util.filesystem import HtmlUtil
 from org.das2.util import Entities
 
 c= { 'stringType':'file', 'regex':'.*\.md' }
-f= getParam('f','/home/jbf/tmp/git/autoplot/documentation/to_md/CustomRenderers.md','markdown file',c)
+f= getParam('f','/home/jbf/tmp/git/autoplot/documentation/to_md/jyds_extensions.md','markdown file',c)
 
 c= { 'stringType':'directory' }
 w= getParam('w','/home/jbf/tmp/git/autoplot/documentation/md/','output folder',c) 
@@ -42,11 +43,16 @@ wikilinkRegex= '(.*)\[(.*)\]\((.*) \"wikilink\"\)(.*)'
 wikilinkTest= '[Annotations](Annotations "wikilink")'
 wikilinkPattern= Pattern.compile(wikilinkRegex)
 
+fileRegex= '(.*)\`\<((file|http|https)\:.*)>\`(.*)'
+fileTest= 'System.setProperty("jydsExtension_sps","`<file:/home/jbf/project/earth/svn/public/jyds/readTypeSps.jyds>`")'
+filePattern= Pattern.compile(fileRegex)
+
 def wikilink(l):
     i= l.find('#')
     if i==-1:
         return l+".md"
     anchor= l[i+1:]
+    anchor= anchor.lower()
     anchor= anchor.replace(' ','-').replace('_','-')
     anchor= anchor.replace('[\(\)]','')
     if i==0:
@@ -55,6 +61,7 @@ def wikilink(l):
         return l[0:i]+".md#"+anchor
     
 if outf.exists():
+    #outf.delete()
     raise Exception('output file already exists: '+str(outf))
 
 out= open(str(outf),'w')
@@ -76,7 +83,11 @@ for s in ss.split('\n'):
     hasQuotes= len(tc)>0 and tc[0]=='`' and tc[-1]=='`'
     if hasQuotes or ( codeBlock.size()>0 and len(tc)==0 ):
         tc= tc.replace(chr(160),' ')
-        codeBlock.add(tc[1:-1])
+        tc= tc[1:-1]
+        mm= filePattern.matcher(tc)
+        if mm.matches():
+            tc= mm.group(1) + mm.group(2) + mm.group(4)
+        codeBlock.add(tc)
         continue
     elif codeBlock.size()>0:
         out.write('```\n')
