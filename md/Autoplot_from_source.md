@@ -11,7 +11,7 @@ Branch versions are in
 rarely used.
 
 ```
- svn co `<https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/>` autoplot
+ svn co https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/ autoplot
  cd autoplot
 ```
 `&nbsp;git&nbsp;clone&nbsp;`&lt;https://github.com/das-developers/das2java.git&gt;

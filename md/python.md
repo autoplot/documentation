@@ -43,7 +43,7 @@ JPype is the bridge that allows Python to talk to Java codes, and
 Autoplot. First we'll have to install it.
 
 ```
-Unix> # go to SourceForge `<https://sourceforge.net/projects/jpype/>` and download JPype.  File is JPype-0.5.4.2.zip 
+Unix> # go to SourceForge https://sourceforge.net/projects/jpype/ and download JPype.  File is JPype-0.5.4.2.zip 
 Unix> # unzip it
 Unix> cd  JPype-0.5.4.2
 Unix> export JAVA_HOME=/usr/local/jdk1.8
@@ -141,7 +141,7 @@ downloaded and JVM automatically started:
 
 ```
 >>> from autoplot import javaaddpath
->>> org= javaaddpath('`<http://autoplot.org/devel/autoplot.jar>`')
+>>> org= javaaddpath('http://autoplot.org/devel/autoplot.jar')
 >>> apds = org.autoplot.idlsupport.APDataSet()
 ```
 ## First Read of Data
@@ -151,7 +151,7 @@ Suppose you have been using the Autoplot URI (data address)
 data into Autoplot.
 
 ```
->>> apds.setDataSetURI( '`<http://autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`' )
+>>> apds.setDataSetURI( 'http://autoplot.org/data/swe-np.xls?column=data&depend0=dep0' )
 >>> apds.doGetDataSet()
 
 >>> print( apds.toString() )
@@ -253,7 +253,7 @@ import jpype
 jpype.startJVM( jpype.getDefaultJVMPath(),'-Djava.class.path=/tmp/autoplot.jar' )
 org= jpype.JPackage("org")
 sc= org.autoplot.ScriptContext
-x= sc.getCompletions( '`<http://autoplot.org/data/somedata.cdf>`?')
+x= sc.getCompletions( 'http://autoplot.org/data/somedata.cdf?')
 ```
 lists all the variables in the CDF file.
 
@@ -263,7 +263,7 @@ Here's how we can use Autoplot's formatting to export data:
 
 ```
 from autoplot import *
-org= javaaddpath('`<http://autoplot.org/jnlp/devel/autoplot.jar>`')
+org= javaaddpath('http://autoplot.org/jnlp/devel/autoplot.jar')
 dsu= org.das2.qds.DataSetUtil
 ops= org.das2.qds.ops.Ops   # note these must point to a Java class, unlike Matlab.
 ds= dsu.asDataSet( ops.link( ops.timegen('1999-01-01T00:00Z', '1s', 200 ), ops.randomu( 0, 200 ) ) )
@@ -297,7 +297,7 @@ I had trouble with the two-D case (numpy.zeros(20,30)).
 
 ```
 fs= org.das2.util.filesystem.FileSystem
-afs= fs.create('`<https://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/>`') 
+afs= fs.create('https://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/') 
 fsm= org.das2.fsm.FileStorageModel
 afsm= fsm.create(afs,'$Y/$m/$d/rbsp-b_WFR-waveform-magnitude_emfisis-L4_$Y$m$d_v$(v,sep).cdf')
 dru= org.das2.datum.DatumRangeUtil
@@ -331,12 +331,12 @@ javalib= '/usr/local/jdk1.8/jre/lib/amd64/server/libjvm.so' # you will need to s
 
 from jpype import *
 import urllib
-urllib.urlretrieve( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`', '/tmp/autoplot.jar' )
+urllib.urlretrieve( 'http://autoplot.org/jnlp/latest/autoplot.jar', '/tmp/autoplot.jar' )
 startJVM( javalib,'-Djava.class.path=/tmp/autoplot.jar')
 org= JPackage("org")
 apds= org.autoplot.idlsupport.APDataSet()
 t= '2018-01-17'
-apds.setDataSetURI( '`<http://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=>`' + t );
+apds.setDataSetURI( 'http://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=' + t );
 apds.doGetDataSet()
 apds.setPreferredUnits( 'hours since '+t )
 print apds.toString()
@@ -358,11 +358,11 @@ javalib= '/usr/local/jdk1.8/jre/lib/amd64/server/libjvm.so' # you will need to s
 
 from jpype import *
 import urllib
-urllib.urlretrieve( '`<http://autoplot.org/jnlp/devel/autoplot.jar>`', '/tmp/autoplot.jar' )
+urllib.urlretrieve( 'http://autoplot.org/jnlp/devel/autoplot.jar', '/tmp/autoplot.jar' )
 startJVM( javalib,'-Djava.class.path=/tmp/autoplot.jar')
 org= JPackage("org")
 apds= org.autoplot.idlsupport.APDataSet()  
-apds.loadDataSet( 'vap+das2Server:`<http://jupiter.physics.uiowa.edu/das/server?dataset=Juno/FGM/ElectronCyclotron&start_time=2017-02-01T00:00:00.000Z&end_time=2017-02-04T00:00:00.000Z>`' )
+apds.loadDataSet( 'vap+das2Server:http://jupiter.physics.uiowa.edu/das/server?dataset=Juno/FGM/ElectronCyclotron&start_time=2017-02-01T00:00:00.000Z&end_time=2017-02-04T00:00:00.000Z' )
 apds.setPreferredUnits( 'hours since 2017-02-01T00:00:00.000' )
 import numpy as np
 import matplotlib.pyplot as plt

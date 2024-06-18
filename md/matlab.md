@@ -61,7 +61,7 @@ MATLAB> javaaddpath( '/tmp/autoplot.jar' )
 Note this can be a URL, like
 
 ```
-MATLAB> javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )
+MATLAB> javaaddpath( 'http://autoplot.org/jnlp/latest/autoplot.jar' )
 ```
 Note older versions of Matlab use Java 6 and will not work with Autoplot
 version v2015a\_5 and newer.
@@ -85,7 +85,7 @@ Suppose you have been using the Autoplot URI (data address)
 read data into Autoplot.
 
 ```
-MATLAB> apds.setDataSetURI( '`<http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`' )
+MATLAB> apds.setDataSetURI( 'http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0' )
 MATLAB> apds.doGetDataSet
 ```
 Note there's a bug where MATLAB is unable to read AbstractPreferences,
@@ -177,7 +177,7 @@ Other classes Autoplot uses can be accessed. For example,
 
 ```
 sc= org.autoplot.ScriptContext;
-x= sc.getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
+x= sc.getCompletions( 'vap+cdfj:http://autoplot.org/data/somedata.cdf?')
 ```
 lists all the variables in the CDF file.
 
@@ -196,7 +196,7 @@ The extension is used to control the output format.
 ## Static methods in Matlab
 
 ```
-Matlab> afs= org.das2.util.filesystem.FileSystem.create('`<https://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/>`')
+Matlab> afs= org.das2.util.filesystem.FileSystem.create('https://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/')
 Matlab> afsm= org.das2.fsm.FileStorageModel.create(afs,'$Y/$m/$d/rbsp-b_WFR-waveform-magnitude_emfisis-L4_$Y$m$d_v$(v,sep).cdf')
 Matlab> dr= org.das2.datum.DatumRangeUtil.parseTimeRange('2014-02')
 Matlab> ff= afsm.getFilesFor( dr );
@@ -222,10 +222,10 @@ which uses Java (instead of Matlab) to call the interface.
 # Complete MATLAB Examples
 
 ```
-javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )
+javaaddpath( 'http://autoplot.org/jnlp/latest/autoplot.jar' )
 apds= org.autoplot.idlsupport.APDataSet;
 t= '2019-01-17';
-apds.setDataSetURI( strcat( '`<https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=>`', t ) );
+apds.setDataSetURI( strcat( 'https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=', t ) );
 apds.doGetDataSet;
 apds.setPreferredUnits( 'hours since 2019-01-17' );
 plot( apds.values( apds.depend(0) ), apds.values );
@@ -233,9 +233,9 @@ plot( apds.values( apds.depend(0) ), apds.values );
 Read Emfisis waveform files:
 
 ```
-javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )
+javaaddpath( 'http://autoplot.org/jnlp/latest/autoplot.jar' )
 apds= org.autoplot.idlsupport.APDataSet;
-apds.setDataSetURI( '`<https://emfisis.physics.uiowa.edu/Flight/RBSP-A/L2/2013/10/03/rbsp-a_WFR-waveform-continuous-burst_emfisis-L2_20131003T17_v1.3.2.cdf?BuSamples>`' );
+apds.setDataSetURI( 'https://emfisis.physics.uiowa.edu/Flight/RBSP-A/L2/2013/10/03/rbsp-a_WFR-waveform-continuous-burst_emfisis-L2_20131003T17_v1.3.2.cdf?BuSamples' );
 apds.doGetDataSet;
 apds.setPreferredUnits( 'seconds since 2013-10-03T17:00' );
 plot( apds.values( apds.depend(1) ), apds.slice(1) );
@@ -244,7 +244,7 @@ We wish to easily write Excel files (.xls). This script allows us to do
 this with Autoplot:
 
 ```
-javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )
+javaaddpath( 'http://autoplot.org/jnlp/latest/autoplot.jar' )
 SC= org.autoplot.ScriptContext; 
 
 tt= org.das2.qds.ops.Ops.labels( {  'experiment_1', 'experiment_2' } );  %  There's a warning about "No constructor 'org.das2.qds.ops.Ops' with matching signature found."  This is new.

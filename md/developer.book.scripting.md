@@ -15,8 +15,8 @@ using Jython scripting, which is Python for Java applications.
 In this example script, we would say something like:
 
 ```
-Bz= getDataSet( '`<http://autoplot.org/data/autoplot.cdf?BGSEc&slice1=2>`' )
-BMag= getDataSet( '`<http://autoplot.org/data/autoplot.cdf?Magnitude>`' )
+Bz= getDataSet( 'http://autoplot.org/data/autoplot.cdf?BGSEc&slice1=2' )
+BMag= getDataSet( 'http://autoplot.org/data/autoplot.cdf?Magnitude' )
 result= Bz/BMag
 ```
 Autoplot provides a simple editor for creating and running scripts, and
@@ -26,8 +26,8 @@ tab and click the execute button. Nothing is plotted, and we need to add
 one more line to make this happen:
 
 ```
-Bz= getDataSet( '`<http://autoplot.org/data/autoplot.cdf?BGSEc&slice1=2>`' )
-BMag= getDataSet( '`<http://autoplot.org/data/autoplot.cdf?Magnitude>`' )
+Bz= getDataSet( 'http://autoplot.org/data/autoplot.cdf?BGSEc&slice1=2' )
+BMag= getDataSet( 'http://autoplot.org/data/autoplot.cdf?Magnitude' )
 result= Bz/BMag
 plot( result )
 ```
@@ -58,7 +58,7 @@ itself to be controlled. For example, the "plot" command will take data
 and plot it. We can do more useful things, like make daily PNGs:
 
 ```
-plot( '`<http://autoplot.org/data/agg/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=2000-01-01>`' )
+plot( 'http://autoplot.org/data/agg/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=2000-01-01' )
 trs= generateTimeRanges( '%Y-%m-%d', '1999-December-30 through 2000-January-10' )
 for tr in trs:
   dom.timeRange= DatumRangeUtil.parseTimeRange(tr)
@@ -93,7 +93,7 @@ environment. Some may wish to use this form for their scripts:
 
 ```
 import autoplot as ap
-Bz= ap.getDataSet( '`<http://autoplot.org/data/autoplot.cdf?BGSEc&slice1=2>`' )
+Bz= ap.getDataSet( 'http://autoplot.org/data/autoplot.cdf?BGSEc&slice1=2' )
 ```
 This clearly indicates where the "getDataSet" command comes from. Note
 however that Autoplot scripts must end in .jy or .jyds.

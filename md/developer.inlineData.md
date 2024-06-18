@@ -27,7 +27,7 @@ vap+inline:1,2,3&DEPEND_0=1,2,3&UNITS=hours since 2000-001T00:00
     (not released):
 
 ```
- vap+inline:getDataSet('`<http://autoplot.org/data/autoplot.cdf?BGSM>`')&DEPEND_0=None
+ vap+inline:getDataSet('http://autoplot.org/data/autoplot.cdf?BGSM')&DEPEND_0=None
 ```
 # Examples
 

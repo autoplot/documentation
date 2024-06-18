@@ -747,7 +747,7 @@ return an array of URLs that match the spec for the time range provided.
 For example,
 
 ```
-uri= '`<http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX>`'
+uri= 'http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX'
 xx= getTimeRangesFor( uri, '2000-jan', '$Y-$d-$m' )
 for x in xx:
    print x
@@ -869,7 +869,7 @@ serializes the dataset to a QStream, a self-documenting, streaming
 format useful for moving datasets.
 
 ```
-ds= getDataSet('`<http://autoplot.org/data/somedata.cdf?BGSEc>`')
+ds= getDataSet('http://autoplot.org/data/somedata.cdf?BGSEc')
 from java.lang import System
 dumpToQStream( ds, System.out, True )
         
@@ -932,8 +932,8 @@ export data dialog for additional parameters available for formatting.
 For example:
 
 ```
-ds= getDataSet('`<http://autoplot.org/data/somedata.cdf?BGSEc>`')
-formatDataSet( ds, 'vap+dat:`<file:/home/jbf/temp/foo.dat?tformat=minutes&format=6.2f>`')
+ds= getDataSet('http://autoplot.org/data/somedata.cdf?BGSEc')
+formatDataSet( ds, 'vap+dat:file:/home/jbf/temp/foo.dat?tformat=minutes&format=6.2f')
         
 ```
 Parameters:
@@ -3511,7 +3511,7 @@ Throws:
 Example:
 
 ```
-fil= downloadResourceAsTempFile( URL('`<http://autoplot.org/data/autoplot.dat>`'), monitor )
+fil= downloadResourceAsTempFile( URL('http://autoplot.org/data/autoplot.dat'), monitor )
 ```
 ## getFile( surl, mon )
 
@@ -3545,7 +3545,7 @@ can be used to monitor the download. Note "monitor" is the local
 variable that contains a ProgressMonitor object.
 
 ```
-uri= '`<http://www.rbsp-ect.lanl.gov/data_pub/rbspa/hope/level2/rbspa_rel01_ect-hope-sci-L2_$Y$m$d_v$(v,sep>`).cdf?FEDU'
+uri= 'http://www.rbsp-ect.lanl.gov/data_pub/rbspa/hope/level2/rbspa_rel01_ect-hope-sci-L2_$Y$m$d_v$(v,sep).cdf?FEDU'
 timerange= getParam( 'timerange', '2013-04-25', 'timerange to load' )
 ds= getDataSet( uri, timerange )
 ```
@@ -3561,7 +3561,7 @@ listDirectory( uri )
 For example:
 
 ```
-files= listDirectory( '`<http://autoplot.org/data/>`*.cdf' )
+files= listDirectory( 'http://autoplot.org/data/*.cdf' )
 ```
 returns a listing of the directory "uri." If uri ends with a slash, then
 the directory is listed without filtering, otherwise the part following
@@ -3569,7 +3569,7 @@ the slash is a glob that is matched. Note, the list does not contain the
 folder name, so it is typically added to the result:
 
 ```
-files= listDirectory( '`<http://autoplot.org/data/>`*.cdf' )
+files= listDirectory( 'http://autoplot.org/data/*.cdf' )
 for f in files:
 ```
 `&nbsp;&nbsp;&nbsp;print&nbsp;'`&lt;http://autoplot.org/data/'+f&gt;
@@ -3963,7 +3963,7 @@ to include those functions. This can also be on a website, so that you
 can share code with colleagues. For example:
 
 ```
-f= getFile( '`<http://www-pw.physics.uiowa.edu/~jbf/autoplot/myfunctions.jy>`',monitor)
+f= getFile( 'http://www-pw.physics.uiowa.edu/~jbf/autoplot/myfunctions.jy',monitor)
 execfile( f.toString() ) 
 
 print mytotal( dataset([12,14]) ) 

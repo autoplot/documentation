@@ -19,8 +19,8 @@ see it):
 ```
 from java.net import URL
 import sys
-u= URL( '`<http://www.rbsp-ect.lanl.gov/data_prot/>`' )
-#u= URL( '`<http://www.rbsp-ect.lanl.gov/>`' )
+u= URL( 'http://www.rbsp-ect.lanl.gov/data_prot/' )
+#u= URL( 'http://www.rbsp-ect.lanl.gov/' )
 c= u.openConnection()
 i= c.getInputStream()
 b= i.read()

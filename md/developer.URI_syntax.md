@@ -41,7 +41,7 @@ All URIs are implicitly "vap", so
 is translated to the explicit URI
 
 ```
- vap+qds:`<file:///home/jbf/mydata.qds>`.
+ vap+qds:file:///home/jbf/mydata.qds.
 ```
 # Syntax
 

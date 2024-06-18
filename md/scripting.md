@@ -267,7 +267,7 @@ and then derive data from this (http://autoplot.org/data/tsbDemo4.jyds):
 ```
 # demonstrate how script can have timeSeriesBrowse to modify another dataset
 timerange= getParam( 'timerange', '2000-01-09', 'timerange to plot' )
-uri= 'vap+cdf:`<http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=%s>`' % timerange
+uri= 'vap+cdf:http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=%s' % timerange
 ds= getDataSet( uri, monitor )
 if ( ds==None ): 
   result= None

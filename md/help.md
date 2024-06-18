@@ -1016,7 +1016,7 @@ described below. The following script shows how data is loaded from a
 CDF file and formatted to an ASCII file.
 
 ```
-ds= getDataSet( '`<http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude>`' )
+ds= getDataSet( 'http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude' )
 formatDataSet( ds, '/tmp/mag.txt' )
 ```
 ## Formats Supported
@@ -1754,11 +1754,11 @@ zeros.) `iconv` failed to convert the file, so I tried converting it
 with Autoplot:
 
 ```
-ds= getDataSet('vap+bin:`<file:///tmp/output1249405460816>`')
+ds= getDataSet('vap+bin:file:///tmp/output1249405460816')
 # skip every other record, skipping the zeroth record.
 ds2= ds[1::2]  
 # save it out as a binary stream.
-formatDataSet( ds2, 'vap+bin:`<file:///tmp/output1249405460816.txt?type=ubyte>`' )
+formatDataSet( ds2, 'vap+bin:file:///tmp/output1249405460816.txt?type=ubyte' )
 ```
 ### CDF
 

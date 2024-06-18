@@ -128,7 +128,7 @@ Examples:
 TODO: name the fields so they unify with time format specification.
 
 ```
- `<file://foo_$(string,id=spacecraft,enum=c1,c2,c3,c4>`,)_$Y$m$d.dat?spacecraft=c1
+ file://foo_$(string,id=spacecraft,enum=c1,c2,c3,c4,)_$Y$m$d.dat?spacecraft=c1
 ```
 TODO: include way to specify resource URIs like:
 

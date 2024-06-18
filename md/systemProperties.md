@@ -4,7 +4,7 @@ This should be a copy of code in AutoplotUtil.java, and this file is
 created in USER/autoplot\_data/config/system.properties .
 
 ```
-# Autoplot loads these system properties on startup.  See `<http://autoplot.org/systemProperties>`.  These are used to provide alternate
+# Autoplot loads these system properties on startup.  See http://autoplot.org/systemProperties.  These are used to provide alternate
 # behavior to groups and to allow users to experiment with new features.
 
 # reference cache allows some URIs to be resolved once per plot.

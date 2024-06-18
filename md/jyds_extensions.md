@@ -30,7 +30,7 @@ report what script is actually used.
 ```
 System.setProperty("jydsExtension_sps","")
 
-System.setProperty("jydsExtension_sps","`<file:/home/jbf/project/earth/svn/public/jyds/readTypeSps.jyds>`")
+System.setProperty("jydsExtension_sps","file:/home/jbf/project/earth/svn/public/jyds/readTypeSps.jyds")
 ```
 # Examples
 

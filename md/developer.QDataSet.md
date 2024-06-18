@@ -223,9 +223,9 @@ the properties and metadata that make Jython scripts more concise and
 easier to verify. For example,
 
 ```
-bgse= getDataSet( 'vap+cdf:`<http://autoplot.org/data/autoplot.cdf?BGSEc>`' )
+bgse= getDataSet( 'vap+cdf:http://autoplot.org/data/autoplot.cdf?BGSEc' )
 bz= bgse[:,2]
-bmag= getDataSet( '`<http://autoplot.org/data/autoplot.cdf?Magnitude>`' )
+bmag= getDataSet( 'http://autoplot.org/data/autoplot.cdf?Magnitude' )
 plot( bz / bmag )
 angle= toDegrees( acos( bz/bmag ) )
 r= where( angle.lt( 15 ) )
@@ -239,7 +239,7 @@ Note there is logic for reconciling two datasets with unequal rank. For
 example, suppose we want to multiply each measurement by 10:
 
 ```
-bgse= getDataSet( 'vap+cdf:`<http://autoplot.org/data/autoplot.cdf?BGSEc>`' )
+bgse= getDataSet( 'vap+cdf:http://autoplot.org/data/autoplot.cdf?BGSEc' )
 bz= bgse[:,2] * 10
 ```
 Here the 10 is converted to the rank 0 dataset, and then the rank 0

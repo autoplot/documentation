@@ -103,7 +103,7 @@ merged in. I am:
 `2009&nbsp;&nbsp;svn&nbsp;copy&nbsp;.&nbsp;`&lt;https://svn.code.sf.net/p/autoplot/code/autoplot/sourceforge_crash2015&gt;  
 `2010&nbsp;&nbsp;svn&nbsp;mv&nbsp;`&lt;https://svn.code.sf.net/p/autoplot/code/autoplot/sourceforge_crash2015&gt;`&nbsp;`&lt;https://svn.code.sf.net/p/autoplot/code/autoplot/branches/sourceforge_crash2015&gt;  
 ```
-2011  svn switch `<https://svn.code.sf.net/p/autoplot/code/autoplot/branches/sourceforge_crash2015>` .
+2011  svn switch https://svn.code.sf.net/p/autoplot/code/autoplot/branches/sourceforge_crash2015 .
 2012  ls
 2013  svn status
 2014  cd ..

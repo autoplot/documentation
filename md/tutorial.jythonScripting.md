@@ -46,7 +46,7 @@ First here's a script that applies the Butterworth filter to a time
 series:
 
 ```
-magz= getDataSet( '`<http://emfisis.physics.uiowa.edu/Flight/RBSP-A/Quick-Look/2013/01/16/rbsp-a_magnetometer_uvw_emfisis-Quick-Look_20130116_v1.2.1.cdf?Mag&slice1=2>`', monitor )
+magz= getDataSet( 'http://emfisis.physics.uiowa.edu/Flight/RBSP-A/Quick-Look/2013/01/16/rbsp-a_magnetometer_uvw_emfisis-Quick-Look_20130116_v1.2.1.cdf?Mag&slice1=2', monitor )
 from org.das2.math.filter import Butterworth
 myfilter= Butterworth( magz, 2, datum('10 Hz'), False )
 result= myfilter.filter()

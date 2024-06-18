@@ -34,13 +34,13 @@ have:
 
 ```
 sc= OBJ_NEW('IDLjavaObject$ScriptContext', 'org.virbo.autoplot.ScriptContext')
-x= sc->getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
+x= sc->getCompletions( 'vap+cdfj:http://autoplot.org/data/somedata.cdf?')
 ```
 in MATLAB you would have:
 
 ```
 sc= org.virbo.autoplot.ScriptContext
-x= sc.getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
+x= sc.getCompletions( 'vap+cdfj:http://autoplot.org/data/somedata.cdf?')
 ```
 For this reason, examples are shown in IDL within this document.
 
@@ -119,7 +119,7 @@ used to read data into IDL and MATLAB](idlMatlabInterface.png
 ### MATLAB
 
 ```
-MATLAB> apds.setDataSetURI( '`<http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`' )
+MATLAB> apds.setDataSetURI( 'http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0' )
 MATLAB> apds.doGetDataSet
 ```
 Note there's a bug where MATLAB is unable to read AbstractPreferences,
@@ -138,7 +138,7 @@ Here's the code in IDL. Remember, the CLASSPATH variable must be set in
 the Unix environment as described above.
 
 ```
-IDL> apds->setDataSetURI, '`<http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`'
+IDL> apds->setDataSetURI, 'http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0'
 IDL> apds->doGetDataSet
 IDL> print, apds->toString()
 data: data[dep0=287] (dimensionless)
@@ -230,7 +230,7 @@ Other classes Autoplot uses can be accessed. For example,
 
 ```
 sc= OBJ_NEW('IDLjavaObject$ScriptContext', 'org.virbo.autoplot.ScriptContext')
-x= sc->getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
+x= sc->getCompletions( 'vap+cdfj:http://autoplot.org/data/somedata.cdf?')
 ```
 lists all the variables in the CDF file.
 
@@ -265,7 +265,7 @@ FileStorageModel objects, note the $Static$ part in the OBJ\_NEW part:
 Unix> export CLASSPATH=/tmp/autoplot.jar
 
 IDL> fs= OBJ_NEW( 'IDLJavaObject$Static$FileSystem', 'org.das2.util.filesystem.FileSystem' ) ; provide access to the create command
-IDL> afs= fs.create('`<http://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/>`') ; create a filesystem object
+IDL> afs= fs.create('http://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/') ; create a filesystem object
 IDL> fsm= OBJ_NEW( 'IDLjavaObject$Static$FileStorageModel', 'org.das2.fsm.FileStorageModel' )
 IDL> afsm= fsm.create(afs,'$Y/$m/$d/rbsp-b_WFR-waveform-magnitude_emfisis-L4_$Y$m$d_v$(v,sep).cdf')
 IDL> dru= OBJ_NEW( 'IDLjavaObject$DatumRangeUtil', 'org.das2.datum.DatumRangeUtil' )
@@ -310,7 +310,7 @@ And here's the first IDL program:
 
 ```
 apds= OBJ_NEW('IDLjavaObject$APDataSet', 'org.virbo.idlsupport.APDataSet')
-apds->setDataSetURI, '`<http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`'
+apds->setDataSetURI, 'http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0'
 apds->doGetDataSet
 apds->setPreferredUnits, 'hours since 2007-01-17T00:00' 
 plot, apds->values( apds->depend(0) ), apds->values()
@@ -320,7 +320,7 @@ Accessing aggregated data
 ```
 apds= OBJ_NEW('IDLjavaObject$APDataSet', 'org.virbo.idlsupport.APDataSet')
 t= '2011-01-17'
-apds->setDataSetURI, '`<http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=>`' + t
+apds->setDataSetURI, 'http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=' + t
 apds->doGetDataSet
 apds->setPreferredUnits, 'hours since '+t 
 plot, apds->values( apds->depend(0) ), apds->values(), xtitle='hours since '+t
@@ -333,7 +333,7 @@ casargs= "-lfdr+ExEw+-mfdr+ExEw+-mfr+13ExEw+-hfr+ABC12EuEvEx+-n+hfr_snd+-n+lp_rs
 tt= "start_time=2010-01-11T11:15:00.000Z&end_time=2010-01-11T21:45:00.000Z"
 KEY= '1234567' ; request key from the RPWS group
 ds= 'das2_1/cassini/cassiniLrfc'
-apds->setDataSetURI, 'vap+das2server:`<http://www-pw.physics.uiowa.edu/das/das2Server?dataset='+ds+'&key='+KEY+'&'+tt+'&'+casargs>` 
+apds->setDataSetURI, 'vap+das2server:http://www-pw.physics.uiowa.edu/das/das2Server?dataset='+ds+'&key='+KEY+'&'+tt+'&'+casargs 
 apds->doGetDataSet
 print, apds->toString() 
 help, apds->slice( 3 )
@@ -345,7 +345,7 @@ Sarah couldn't write .xls files on her Mac. This script allows her to do
 this with Autoplot:
 
 ```
-javaaddpath( '`<http://autoplot.org/jnlp/devel/autoplot.jar>`' )
+javaaddpath( 'http://autoplot.org/jnlp/devel/autoplot.jar' )
 Ops = org.virbo.dsops.Ops;
 Util= org.virbo.dataset.DataSetUtil;
 SC= org.virbo.autoplot.ScriptContext; 

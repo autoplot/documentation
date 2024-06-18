@@ -316,7 +316,7 @@ The console tab has an "AP\>" prompt that allows commands be entered
 interactively. For example,
 
 ```
-AP> plot('`<http://autoplot.org/data/autoplot.cdf?Magnitude>`')
+AP> plot('http://autoplot.org/data/autoplot.cdf?Magnitude')
 AP> ds= dom.dataSourceFilters[0].controller.dataSet   # get the data read in
 AP> print max(ds)
 ```

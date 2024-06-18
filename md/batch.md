@@ -22,7 +22,7 @@ black or white pixels in an image:
 ```
 tr= getParam( 'timerange', '2008-01-01', 'timerange to load' )
 wb= getParam( 'color', 'white', 'the color to count', ['white','black'] )
-ds= getDataSet( '`<http://autoplot.org/autoplot/autoplot/autoplot/data/pngwalk/product_$Y$m$d.png?channel=greyscale>`', tr )
+ds= getDataSet( 'http://autoplot.org/autoplot/autoplot/autoplot/data/pngwalk/product_$Y$m$d.png?channel=greyscale', tr )
 if wb=='white': iwb=255 
 else: iwb=0
 r= where( ds.eq( iwb ) )

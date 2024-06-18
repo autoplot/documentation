@@ -24,7 +24,7 @@ spot5> telnet localhost 12345
 Trying ::1...
 Connected to localhost.
 autoplot> plot( [1,2,3,4,5], title="My Data" )
-autoplot> plot( '`<http://autoplot.org/data/autoplot.cdf?Magnitude>`' )
+autoplot> plot( 'http://autoplot.org/data/autoplot.cdf?Magnitude' )
 ```
 The external software might format data then tell Autoplot to plot the
 data. For example,

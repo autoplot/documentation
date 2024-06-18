@@ -13,8 +13,8 @@ datasource:
 
 ```
 tr= getParam( 'timerange', '2014-01-09', 'timerange to load' )
-ds1= getDataSet( '`<http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/sis/level_2_cdaweb/sis_k0/$Y/ac_k0_sis_$Y$m$d_v$v.cdf?H_lo>`', tr )
-ds2= getDataSet( '`<http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/sis/level_2_cdaweb/sis_k0/$Y/ac_k0_sis_$Y$m$d_v$v.cdf?H_hi>`', tr )
+ds1= getDataSet( 'http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/sis/level_2_cdaweb/sis_k0/$Y/ac_k0_sis_$Y$m$d_v$v.cdf?H_lo', tr )
+ds2= getDataSet( 'http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/sis/level_2_cdaweb/sis_k0/$Y/ac_k0_sis_$Y$m$d_v$v.cdf?H_hi', tr )
 result= link( ds1,ds2 )
 ```
 this too is a TSB, and likewise

@@ -55,7 +55,7 @@ the available command line options. The arguments for the service are
 the same as the long form of the command line options. For example,
 
 ```
-wget -O - "`<http://autoplot.org/autoplot.jnlp?main-class=org.autoplot.pngwalk.PngWalkTool1&nativeLAF=true&qualityControl=true>`" > auto.jnlp
+wget -O - "http://autoplot.org/autoplot.jnlp?main-class=org.autoplot.pngwalk.PngWalkTool1&nativeLAF=true&qualityControl=true" > auto.jnlp
 javaws auto.jnlp
 ```
 is the same as
@@ -71,7 +71,7 @@ This is proving to be quite limiting, and to ease this you can now
 request a JNLP file with a larger memory allowance:
 
 ```
-wget -O - "`<http://autoplot.org/autoplot.jnlp?max-heap-size=4G>`" > auto.jnlp
+wget -O - "http://autoplot.org/autoplot.jnlp?max-heap-size=4G" > auto.jnlp
 ```
 Note that some platforms, specifically Windows XP, don't allow more
 memory than the default 1024K, so please realize that products made on a
@@ -100,7 +100,7 @@ Example link (note that the `template` argument is last):
 or from the command line
 
 ```
-wget -q -O auto.jnlp '`<http://autoplot.org/autoplot.jnlp?main-class=org.autoplot.pngwalk.PngWalkTool1&nativeLAF=true&qualityControl=true&mode=grid&goto=2010-01-01&template=http://autoplot.org/data/pngwalk/product_$Y$m$d.png>`'
+wget -q -O auto.jnlp 'http://autoplot.org/autoplot.jnlp?main-class=org.autoplot.pngwalk.PngWalkTool1&nativeLAF=true&qualityControl=true&mode=grid&goto=2010-01-01&template=http://autoplot.org/data/pngwalk/product_$Y$m$d.png'
 javaws auto.jnlp
 ```
 ## AutoplotUI

@@ -147,7 +147,7 @@ semicolon should be used to delimit the dimensions. This is to make way
 for BUNDLES, where it would be nice to show each column name.
 
 ```
-ds= getDataSet('`<http://autoplot.org/data/crres_orbits.dat?bundle=>`:')
+ds= getDataSet('http://autoplot.org/data/crres_orbits.dat?bundle=:')
 print ds  # prints "dataset[1061,DEPEND_1=3] (dimensionless)"   
 # this should print "dataset[1061;st,en,orbit]"
 ```

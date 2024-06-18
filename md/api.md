@@ -104,7 +104,7 @@ Usage: AutoplotServer
   --autorange      autorange the Y and Z axes of each plot in the vap
   --autorangeFlags     autorange the Y and Z axes of each plot where the autorange flag is set in the vap
   --rescaleFonts   when the .vap is rescaled, also scale the fonts
-UNIX> java -cp ~/autoplot.jar org.autoplot.AutoplotServer -u '`<http://autoplot.org/data/autoplot.cdf?BGSEc>`' -o image.png
+UNIX> java -cp ~/autoplot.jar org.autoplot.AutoplotServer -u 'http://autoplot.org/data/autoplot.cdf?BGSEc' -o image.png
 ```
 # Methods
 

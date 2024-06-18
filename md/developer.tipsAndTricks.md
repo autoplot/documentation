@@ -10,7 +10,7 @@ I just found this a handy way to replicate what the hudson tests are
 doing. Often I'm running things interactively, and the bug won't show.
 
 ```
-load( '`<file:///home/jbf/ct/hudson/vap/autoSlice.vap>`' )
+load( 'file:///home/jbf/ct/hudson/vap/autoSlice.vap' )
 writeToPng('/tmp/foo.png')
 ```
 # misc

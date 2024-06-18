@@ -478,7 +478,7 @@ dom.plotElements[0].controller.renderer.cadenceCheck = False
 Save the above as /tmp/webtest.jy and enter
 
 ```
-script:`<file:/tmp/webtest.jy>`    
+script:file:/tmp/webtest.jy    
 ```
 in the address bar. (Autoplot 2011 now has cadenceCheck in the DOM, so
 editing Plot Element Properties can accomplish this as well.)
@@ -551,7 +551,7 @@ getParam(parmName,default) function allows data to be passed into a
 script via the URI:
 
 ```
- vap+jyds:`<file:///home/jbf/inbox/larry.20100212.icee/icee.jyds?type='e_star>`'
+ vap+jyds:file:///home/jbf/inbox/larry.20100212.icee/icee.jyds?type='e_star'
 ```
 Here's the script:
 
@@ -714,10 +714,10 @@ checkbox allows the script to be added to your tools menu. Here are some
 other useful scripts to try (omit the \#comment part):
 
 ```
-script:`<http://autoplot.org/data/tools/flashFocus.jy>`     # flash the current plot Element that's selected
-script:`<http://autoplot.org/data/tools/reloadAllUris.jy>`  # reload all loaded data (remote files in cache will not be loaded from server if the timestamp hasn't changed)
-script:`<http://autoplot.org/data/tools/testHtmlConnection.jy>`   # test to see if we're on line.  (This should be renamed testHttpConnection.jy.)
-script:`<http://autoplot.org/data/tools/toggleDayOfYear.jy>`      # toggle the day-of-year setting
+script:http://autoplot.org/data/tools/flashFocus.jy     # flash the current plot Element that's selected
+script:http://autoplot.org/data/tools/reloadAllUris.jy  # reload all loaded data (remote files in cache will not be loaded from server if the timestamp hasn't changed)
+script:http://autoplot.org/data/tools/testHtmlConnection.jy   # test to see if we're on line.  (This should be renamed testHttpConnection.jy.)
+script:http://autoplot.org/data/tools/toggleDayOfYear.jy      # toggle the day-of-year setting
 ```
 Note scripts can contain the special comment "\# label:" that gives them
 nice labels.
@@ -837,8 +837,8 @@ search path in Jython like so:
 
 ```
 import sys
-addToSearchPath(sys.path,'`<http://central.maven.org/maven2/org/jcodec/jcodec-javase/0.2.2/jcodec-javase-0.2.2.jar>`',monitor.getSubtaskMonitor('jar1'))
-addToSearchPath(sys.path,'`<http://central.maven.org/maven2/org/jcodec/jcodec/0.2.2/jcodec-0.2.2.jar>`',monitor.getSubtaskMonitor('jar2'))
+addToSearchPath(sys.path,'http://central.maven.org/maven2/org/jcodec/jcodec-javase/0.2.2/jcodec-javase-0.2.2.jar',monitor.getSubtaskMonitor('jar1'))
+addToSearchPath(sys.path,'http://central.maven.org/maven2/org/jcodec/jcodec/0.2.2/jcodec-0.2.2.jar',monitor.getSubtaskMonitor('jar2'))
 
 from org.jcodec.api.awt import AWTSequenceEncoder
 from javax.imageio import ImageIO

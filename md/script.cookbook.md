@@ -220,7 +220,7 @@ clicks per image, so we wanted a faster way to go through the set. This
 adds buttons which are short-cuts to the QC buttons.
 
 ```
-pngs = getParam('pngDir', '`<file:///home/jbf/pngwalk/voyager1/>`*.png', 'directory to examine')  
+pngs = getParam('pngDir', 'file:///home/jbf/pngwalk/voyager1/*.png', 'directory to examine')  
 
 from org.autoplot.pngwalk import PngWalkTool 
 p= PngWalkTool.start(pngs, getViewWindow())

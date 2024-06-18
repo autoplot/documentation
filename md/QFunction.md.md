@@ -102,7 +102,7 @@ the input to a server and then returning the result.
 Retrieved from
 
 ```
-   "<`<http://autoplot.org//QFunction>`>"
+   "<http://autoplot.org//QFunction>"
 ```
 1.  1.  Views
 

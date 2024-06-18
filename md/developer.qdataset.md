@@ -159,7 +159,7 @@ index corresponds to time. The slice operator allows one to look at one
 of the measurements.
 
 ```
-scPos= getDataSet( '`<http://autoplot.org/data/somedata.cdf?doDep=no&SC_pos_GSE>`' )
+scPos= getDataSet( 'http://autoplot.org/data/somedata.cdf?doDep=no&SC_pos_GSE' )
 print 'scPos should have rank 2: ', scPos.rank()
 print 'slice of data: ', scPos.slice(0)
 print 'and one measurement: ', scPos.slice(0).slice(0)
@@ -290,7 +290,7 @@ plot( 0, tt, ds )
 plot( 1, tt, smooth(ds,101) )
 
 reset()
-ds= getDataSet( '`<http://autoplot.org/data/wav/chickadeesong.wav>`' )   # rank 1 dataset
+ds= getDataSet( 'http://autoplot.org/data/wav/chickadeesong.wav' )   # rank 1 dataset
 print ds.property( QDataSet.DEPEND_0 ).property( QDataSet.UNITS )    # seconds
 ps= fftPower( ds, 1024, 2, 'Hanning', monitor )          # returns rank 2 power spectrum
 print ps.property(QDataSet.DEPEND_1)                     # 'dataset[511] (Hz)'
