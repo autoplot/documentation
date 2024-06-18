@@ -25,3 +25,13 @@ Bob mentioned at some point mediawiki will come down. I rarely use it,
 but I just found myself using it this morning, so I thought I should
 reload the changes to here. The script for downloading things is here
 <https://github.com/autoplot/dev/tree/master/demos/2020/20201014/>
+
+1.  2024-06-11
+
+I'm picking this up again after Autoplot was down for a few days while
+Bob and I were both on vacation. Plus this is way overdue.
+
+\`pandoc -f mediawiki QFunction -t markdown\_github -o QFunction.md\`
+
+looks like the best way to go, and then I need to find the script which
+does clean up after.

@@ -97,7 +97,9 @@ actions while hovering over it.
 Undo and redo actions are attached to the ctrl-Z and ctrl-Y keys
 (command ⌘-Z and ⌘-Y for Macs).
 
+<addhtml>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PcB3feFYb_4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</addhtml>
 
 ## Address Bar and URIs
 
@@ -295,7 +297,7 @@ a txt file, set the filter to "vap+txt" to see all the matching URIs.
 
 Data can be exported to a number of data types. (In addition to reading
 in data, some data sources will export data as well.) Only the current
-selection is exported, so select the item to export, then File-\>Export
+selection is exported, so select the item to export, then File→Export
 will bring up the dialog. From here, you can select the format (e.g. txt
 for text file) and whether the original data, the processed data
 (sliced, fftPower,etc), or just the visible data should be exported.
@@ -317,7 +319,7 @@ Bookmarks can be selected in two ways
 
 1.  By selecting the `Bookmarks` menu item and then browsing a tree of
     bookmarks.
-2.  By selecting `Bookmarks → Browse and Manage` and clicking on a
+2.  By selecting `Bookmarks`→`Browse and Manage` and clicking on a
     bookmark.
 
 Note that the second option allows you to view metadata associated with
@@ -338,7 +340,7 @@ For example:
     the address bar
 2.  This should bring up a GUI, because it doesn't have a timerange.
     Enter `2010-03-01`
-3.  Select `Tools -> Create PNG Walk`
+3.  Select `Tools`→`Create PNG Walk`
     1.  Setting time format to `$Y$m$d_$H` will make hourly plots
     2.  Setting time range to `2010-03-01/2010-03-04`
 4.  Note each png's span is based on the filename template you gave it.
@@ -442,9 +444,9 @@ Selecting the axis tab with show a panel with basic controls for the two
 axes of the plot in focus, the plot title, and the colorbar title (the
 colorbar may not be visible but it always exists).
 
-|                                                                                                                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <addhtml id="x"> <iframe width="560" height="315" src="https://www.youtube.com/embed/KrPnp3WCL60?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </addhtml> |
+<addhtml id="x">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrPnp3WCL60?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</addhtml>
 
 Ranges for the x-, y-, and colorbar are strings that are parsed using
 the current axis units (such as time or dimensionless). For example,
@@ -470,7 +472,7 @@ have compatible units.
 
 When **Legend Label** is checked, a legend is added to the plot, and an
 icon for this panel is added. Note the plot also has a legendLabel
-property that when set to False (\[menubar\]-\>Edit-\>Properties) will
+property that when set to False (\[menubar\]→Edit→Properties) will
 suppress the label.
 
 ### <span id="metadataPanel"></span>Metadata
@@ -546,10 +548,10 @@ languages. For example, the "execute" button runs the script, and the
 Context Selector controls how the script is to be used, explained below.
 
 Right-clicking on the editor tab brings up a popup-menu of useful
-functions when coding, for example "Insert Code"-\>getDataSet will
-insert a getDataSet command loading the current data Autoplot is focused
-on. "Actions"-\>"Inspect URI" will bring up the data source editor for
-the URI.
+functions when coding, for example "Insert Code"→getDataSet will insert
+a getDataSet command loading the current data Autoplot is focused on.
+"Actions"→"Inspect URI" will bring up the data source editor for the
+URI.
 
 The Context Selector controls how the script will be used. There are two
 types of Autoplot scripts, "Application Context" and "Data Source
@@ -613,7 +615,7 @@ information is saved, providing complete feedback information to others.
 
 # Adding Plots
 
-`Right click->Add Plot` can be used to add additional plots to the
+`Right click`→`Add Plot` can be used to add additional plots to the
 canvas. Axes from multiple plots can be bound together so that adjusting
 one triggers a change in others. This video shows how to add a second
 plot and bind the y-axes together. Note that Autoplot tries to bind time
@@ -634,10 +636,11 @@ Keyboard shortcuts:
 ## <span id="layoutPanel"></span>Layout
 
 ![layout.png](layout.png "layout.png") The Layout Panel (enable with
-Options-\>Enable Feature-\>Layout Tab) provides access to all of the
-plots and plot elements on the canvas. This allows you to swap plot
-position, delete plot elements, add groups of plots, etc.  
-\=== Plots ===
+Options→Enable Feature→Layout Tab) provides access to all of the plots
+and plot elements on the canvas. This allows you to swap plot position,
+delete plot elements, add groups of plots, etc.  
+
+### Plots
 
 The Plots area contains a simplified view of the plots on the page. Each
 plot has a context menu that allows the plot to be edited or deleted.
@@ -645,7 +648,7 @@ Also a group of plots can be added below, for example a block of 3 by 3
 plots.
 
 Multiple plots can be selected by holding the control button (command on
-Macs) down while clicking. Two plots can be selected and Plots-\>Swap
+Macs) down while clicking. Two plots can be selected and Plots→Swap
 Position will exchange their positions. Also multiple plots can be
 edited at once, for example to set all the titles the same and then make
 tweaks for each plot.
@@ -662,7 +665,7 @@ deleted.
 
 Plot elements have the job of rendering the data onto a plot. The Plot
 Elements section allows them to be individually controlled and deleted.
-Note when a vector is plotted (e.g. Bookmarks-\>Demo 5), then a plot
+Note when a vector is plotted (e.g. Bookmarks→Demo 5), then a plot
 element is added for each component, and these are all children of an
 inactive parent component. The inactive component can be used to control
 all the children at once. For example, adjust the line thickness of the
@@ -670,7 +673,7 @@ parent and all the children will be modified.
 
 ## Data
 
-The Data Panel (enable with `Options->Enable Feature->Data Panel`)
+The Data Panel (enable with `Options`→`Enable Feature`→`Data Panel`)
 contains controls for processing the dataset after it is loaded.
 
 For example, the fill value can be set manually when the dataset has
@@ -759,7 +762,7 @@ More about [filters](filters "wikilink") can be found here.
 
 ## Script
 
-The script panel (enable with Options-\>Enable Feature-\>Script Panel)
+The script panel (enable with Options→Enable Feature→Script Panel)
 provides a convenient place for writing and reviewing the Jython scripts
 to control the application and load data. It provides a simple
 completion and right-click to see additional options. This is intended
@@ -789,10 +792,10 @@ is coming soon.
 
 # <span id="layout"></span>Modifying Layout
 
-![DOM GUI (Accessed via Edit-\>Edit DOM) showing entries for layout.
+![DOM GUI (Accessed via Edit→Edit DOM) showing entries for layout.
 Autolayout must be de-activated for changes to apply
-(Options-\>Auto-\>Autolayout)](layoutdom.png
-"DOM GUI (Accessed via Edit-\>Edit DOM) showing entries for layout. Autolayout must be de-activated for changes to apply (Options-\>Auto-\>Autolayout)")
+(Options→Auto→Autolayout)](layoutdom.png
+"DOM GUI (Accessed via Edit→Edit DOM) showing entries for layout. Autolayout must be de-activated for changes to apply (Options→Auto→Autolayout)")
 
 Autoplot's **canvas** consists of a number of **plots** which are the
 two-dimensional spaces on which data is rendered. **Plot elements**
@@ -930,7 +933,7 @@ Time checkbox: identify the "Depends On" as times.
 
 Data can also be exported as an ASCII tables. Presently data is
 formatted to a comma-separated-values (csv) file, and no formatting
-options are provided. Use Autoplot's "File-\>Export Data", then select a
+options are provided. Use Autoplot's "File→Export Data", then select a
 file name with a .csv, .dat, or .txt extension.
 
 ## Reading CDF
@@ -977,8 +980,8 @@ allows these conventions to be ignored and data plotted.
 
 # Exporting Data
 
-Data can be exported using \[menubar\]-\>File-\>Export Data. This will
-take the data that has the focus set by the last mouse click and export
+Data can be exported using \[menubar\]→File→Export Data. This will take
+the data that has the focus set by the last mouse click and export
 either the data as it was originally loaded in or as it is displayed.
 For example, if Flux\[Time,Energy,Angle\] is loaded, a slice is
 displayed. The scientist can either export the original 4-D data, or
@@ -1018,9 +1021,8 @@ sometimes shown, to provide an example value.
 
 ### .idlsav
 
-The scientist can export data to IDLSAV files. (Note Autoplot cannot
-read this format.) Rank 1 and rank 2 data are now supported. (Rank 2 was
-first supported in v2018a\_6.)
+The scientist can export data to IDLSAV files. Rank 1 and rank 2 data
+are now supported.
 
   - tunits=t1970. The time units for the data. t1970, the default, means
     the number of non-leap seconds since 1970-01-01T00:00Z. "seconds
@@ -1114,19 +1116,19 @@ Data coming from files can typically be combined, or aggregated. For
 example, a single CDF file can be read (using the CDF plug-in) with the
 URI:
 
-` vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/2008/ac_k0_swe_20080620_v01.cdf?Np>
+`vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/2008/ac_k0_swe_20080620_v01.cdf?Np>
 
 If this is one of a series of files, the variable `Np` can be plotted
 across several files using the notation:
 
-` vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2008-June>
+`vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2008-June>
 
 Most of the letters used for the wildcards for time are the same as the
 Unix `date` command, for example `$Y` means a four-letter year while
 `$y` means a two-letter year.
 
 Any file-based reader that returns time for the first dimension can be
-aggregated. Note "Tools-\>Aggregate..." will attempt to create an
+aggregated. Note "Tools→Aggregate..." will attempt to create an
 aggregation spec from a file URL.
 
 <span id="aggregator_main"></span>
@@ -1175,7 +1177,7 @@ Aggregation URIs will contain from the following wildcard codes:
 
 A version wildcard is allowed. Versioned URIs have the form:
 
-` vap+cdf:`<https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July>
+`vap+cdf:`<https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July>
 
 Also, parenthesis can be used to modify fields. For example:
 
@@ -1223,7 +1225,7 @@ Field qualifiers:
   - $(H;span=4) digit indicates beginning of 4 hour interval
   - $(m;Y=2004) The year 2004 is implicit
 
-Note %{m;Y=2004} may be used instead
+Note %{m;Y=2004} may be used instead.
 
 ### Automatic Time Parsing
 
@@ -1366,7 +1368,7 @@ the files every five seconds.
   - DataSource cache - Some data sources use a mechanism called caching
     to cache extra data that is loaded.
 
-Note \[menubar\]-\>Tools-\>"Reload All Data" will reset all in-memory
+Note \[menubar\]→Tools→"Reload All Data" will reset all in-memory
 caches. Files will be reloaded if the remote file is updated (which will
 happen anyway).
 
@@ -1469,7 +1471,7 @@ address bar.
 
 Discovery plug-ins are activated by entering their vap prefix (e.g.
 vap+cdaweb:) into the address bar and are typically accessed using a GUI
-by selecting "File-\>Add Plot From ...".
+by selecting File→"Add Plot From ...".
 
 In some cases, these plug-ins use knowledge of conventions used for the
 layout of a data bases to allow the user to browse all available data
@@ -1488,10 +1490,9 @@ URI prefix: vap+cdaweb:
 "Accessing list of CDAWeb data from Autoplot.")
 
 ![(Click image to expand.) Autoplot's listing of data from CDAWeb that
-is shown when selecting `File->Add Plot From->CDAWeb` or by clicking
-this \[<http://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\]
-](CDAWebDB.png
-"(Click image to expand.) Autoplot's listing of data from CDAWeb that is shown when selecting File-\>Add Plot From-\>CDAWeb or by clicking this [http://autoplot.org/autoplot.jnlp?vap+cdaweb: link] ")
+is shown when selecting `File→Add Plot From→CDAWeb` or by clicking this
+\[<http://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\] ](CDAWebDB.png
+"(Click image to expand.) Autoplot's listing of data from CDAWeb that is shown when selecting File→Add Plot From→CDAWeb or by clicking this [http://autoplot.org/autoplot.jnlp?vap+cdaweb: link] ")
 
 The [CDAWeb group](http://cdaweb.gsfc.nasa.gov/) at
 [NASA/Goddard](http://gsfc.nasa.gov) provides a large volume of data in
@@ -1503,7 +1504,7 @@ To see the list,
 
   - Click this \[<http://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\]
     to start Autoplot with the list shown, or
-  - in Autoplot, select `File->Add Plot From->CDAWeb` as shown in the
+  - in Autoplot, select `File`→`Add Plot From`→`CDAWeb` as shown in the
     top image to the right.
 
   
@@ -1814,9 +1815,9 @@ this contains plot positions, data source references, and style
 settings.
 
 Note if a data source URI is entered on the address bar, the whole
-application is reset to the new vap file settings. However, if
-"File-\>Add Plot From..." is used to access a vap, data URIs from within
-the vap are accessible.
+application is reset to the new vap file settings. However, if File→"Add
+Plot From..." is used to access a vap, data URIs from within the vap are
+accessible.
 
   - Example URL:
     [8](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.vap)
@@ -2098,8 +2099,8 @@ for many formats, such as CDF files, but this allows Autoplot to be used
 when no internet connection is available. This area will grow as more
 data is read, and presently there is no mechanism to automatically
 remove infrequently used resources. Autoplot provides a GUI that can be
-used to manage this cache, see \[menubar\]-\>Tools-\>Cache-\>"Manage
-Cached Files."
+used to manage this cache, see \[menubar\]→Tools→Cache→"Manage Cached
+Files."
 
 ### Data Providers
 

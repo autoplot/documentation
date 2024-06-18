@@ -131,6 +131,10 @@ Using "kill -3":
 This will not destroy the process, but tells it to dump the stack
 information. Look in the console where the Java process was run.
 
+Or, better yet use jstack:
+
+`jstack PID > outfile`
+
 When that doesn't work, try:
 
 `` PID=`ps -ef | grep autoplot | grep jre | awk '{print $2}'` ``  

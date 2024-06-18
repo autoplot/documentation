@@ -8,7 +8,7 @@ parameters can be related, such as asserting that each index of
 "Density" is associated with an "Epoch" time when the data was
 collected.
 
-<img src='apds.cdf.jpg' align='right' width='200' alt='apds.cdf.jpg'>
+![apds.cdf.jpg](apds.cdf.jpg "apds.cdf.jpg")
 
 # Using CDF Files
 
@@ -73,3 +73,24 @@ In an effort to establish standard names for things:
   - "variable" is used as an alias for parameter.
   - "parameter id" is the name identifying the parameter.
 
+<addhtml>
+
+<script>
+
+//$(function() { // $('.thumb').click(function() {
+$(this).toggleClass("thumb").next().toggleClass("thumb").css('width',$(this).width());});
+//});
+
+$('.thumbimage').hover( function() {
+
+`   var thumb = $(this).attr('src');`  
+`   $(this).oldsrc= thumb;`  
+`   var full = thumb.replace(/\/thumb\/.*px-(.*)/,'/$1');`  
+`   $(this).attr('src',full).attr('width',`*`).attr('height',`*`).parent().parent().width('100%').parent().removeClass('tright');`  
+`   }, function() {`  
+`       $(this).attr('src',$(this).oldsrc).attr('width','130').attr('height','100').parent().parent().width('').parent().addClass('tright');`  
+`   } );`
+
+</script>
+
+</addhtml>
