@@ -8,13 +8,11 @@ cases where IDL's plot command would be used. The goal is that
 ```
 IDL> plot, x, y
 ```
-
 would be replaced with
 
 ```
 IDL> applot, x, y
 ```
-
 and the data is packed up and sent over to Autoplot for plotting. This
 plot in Autoplot is then interactive and avoids disturbing IDL's state.
 
@@ -35,7 +33,6 @@ IDL> applot, dist(200)
 IDL> applot, findgen(200), sin(findgen(200))
 IDL> applot, findgen(200), sin(findgen(200)), xunits='seconds since 2001-011T00:00'
 ```
-
 # Discussion
 
 ## How it works

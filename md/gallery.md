@@ -15,19 +15,16 @@ img.thumb {
    margin:auto;
    z-index:1;
 ```
-
 } div.thumb {
 
 ```
   display:none;
 ```
-
 } div.caption {
 
 ```
   background-color:yellow;
 ```
-
 }
 
 1.  thumbframe {
@@ -37,7 +34,6 @@ img.thumb {
    text-align:left;
    z-index:0;
 ```
-
 }
 
 </style>
@@ -49,7 +45,6 @@ $(function() {
 ```
  $('.thumb').click(function() { $(this).toggleClass("thumb").next().toggleClass("thumb").css('width',$(this).width());});
 ```
-
 });
 
 </script>

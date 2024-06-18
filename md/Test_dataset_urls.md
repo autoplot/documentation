@@ -63,7 +63,6 @@ Strange message:
 java.lang.RuntimeException: java.lang.IllegalArgumentException: not supported: Lo E PD
 at org.virbo.autoplot.ApplicationModel.resetDataSetSourceURL(ApplicationModel.java:249)
 ```
-
 {{ Launch2 |
 uri=<ftp://cdaweb.gsfc.nasa.gov/pub/istp/lanl/97_spa/2005/l7_k0_spa_20050405_v01.cdf?spa_p_dens>}}
 This is described in bug
@@ -190,7 +189,6 @@ uri=<file:///c:/Documents+and+Settings/jbf/Desktop/Product+Summary.xls?sheet=nis
    at org.das2.system.RequestProcessor$Runner.run(RequestProcessor.java:201)
    at java.lang.Thread.run(Unknown Source)
 ```
-
 # Miscellaneous URIs
 
 Demonstrates problem with AutoHistogram: {{ Launch2 |

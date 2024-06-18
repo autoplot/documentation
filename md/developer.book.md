@@ -302,7 +302,7 @@ Here's a handy reference: <http://cds130.org/Devel#Wiki>
 
 ## **Scripting**
 
-1.  [.jy scripts](developer.book.jyscripts.md#.jy_scripts "wikilink")
+1.  [.jy scripts](developer.book.jyscripts.md#.jy-scripts "wikilink")
 2.  [commonly used
     functions](developer.book.jyscripts#commonly_used_functions "wikilink")
 3.  [comparison to

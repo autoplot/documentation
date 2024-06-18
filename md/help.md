@@ -107,7 +107,7 @@ Undo and redo actions are attached to the ctrl-Z and ctrl-Y keys
 
   
 In the address bar at the top of the GUI you can enter the name of a
-supported [file format](#formats_read "wikilink") in a data address. If
+supported [file format](#formats-read "wikilink") in a data address. If
 the data address is a URL, HTTP or FTP is used to download the file to a
 local directory within the folder "autoplot\_data." A fully-qualified
 address will contain both the location of the file and additional
@@ -216,7 +216,6 @@ data available. An example URI is:
 ```
 vap+cdaweb:ds=OMNI2_H0_MRG1HR&id=DST1800&timerange=Oct+2016
 ```
-
 which means from the data identified as "OMNI2\_H0\_MRG1HR" plot the
 parameter "DST1800", loading data to cover the time range "Oct 2016."
 
@@ -465,7 +464,7 @@ the current axis units (such as time or dimensionless). For example,
 All labels support "Granny Strings," which has special codes, similar to
 those used in IDL, proposed by Grandel in Nystorm. For example, \!c
 inserts a new line. See
-[help\#Granny\_Strings](help.md#granny_strings "wikilink") for more
+[help\#Granny\_Strings](help.md#granny-strings "wikilink") for more
 information. Also html escapes like \&amp;Delta; will show like &Delta;.
 
 When selected, **Isotropic** constrains the x- and y-axis to have the
@@ -605,7 +604,6 @@ logger.fine('file data.dat is 140 bytes long')
 logger.warning('warning!')
 print 'print message'
 ```
-
 The AP prompt contains an Jython session which can be used for quick
 calculations and to test statements. The keyboard up arrow can be used
 to get to previously-entered commands. The keyboard tab key will show
@@ -827,7 +825,6 @@ To have the labels on the y-axis rendered outside of the canvas, use
 ```
 0%+0
 ```
-
 The layout may be specified in the URI sent to the Autoplot server. In
 this case, the left and right positions are comma separated, as in
 `L%+S,R%+S`. The default is `0%+8em,100%-6em`. For the bottom and top
@@ -885,7 +882,7 @@ Browse" capability) is used to load data for the correct time.
 An editor can be used to help develop a URI with the appropriate
 parameters for Autoplot to read and plot data in a ASCII file. The list
 of parameters that may be used in a URI is given
-[below](#ascii_table "wikilink"). A table is displayed showing how the
+[below](#ascii-table "wikilink"). A table is displayed showing how the
 reader would parse the file. Darker lines that are not broken into
 columns are lines identified as non-records, such as header lines.
 
@@ -912,7 +909,7 @@ copy the fields up into the Time Format text field. Then in the text
 field, highlight each field and use the drop list to identify the field
 type. If the field is already ISO8601 compliant, a manual specification
 of the time format is not required. See
-[\#Wildcard\_codes](#wildcard_codes "wikilink") for a full list of time
+[\#Wildcard\_codes](#wildcard-codes "wikilink") for a full list of time
 codes.
 
 Note that fractional times may be given in the ASCII file, e.g.,
@@ -921,7 +918,6 @@ Note that fractional times may be given in the ASCII file, e.g.,
 ```
 2014 01 02 12.5 -44.1
 ```
-
 will be interpreted as a value of -44.1 at 12:30 on January 2nd, 2014.
 
 Note too that all times are implicitly UTC, and other timezones are not
@@ -1023,7 +1019,6 @@ CDF file and formatted to an ASCII file.
 ds= getDataSet( '`<http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude>`' )
 formatDataSet( ds, '/tmp/mag.txt' )
 ```
-
 ## Formats Supported
 
 The parameters shown can be used in scripts, and the default value is
@@ -1225,7 +1220,7 @@ Example times:
   - $Y-$m-$d 2010-06-23
   - <file:///tmp/$Y$m$d.dat> <file:///tmp/20100623.dat>
 
-Field types (see [\#Wildcard\_codes](#wildcard_codes "wikilink") for
+Field types (see [\#Wildcard\_codes](#wildcard-codes "wikilink") for
 full list and definitions):
 
   - $Y $m $d $H $M $S $(milli) $(micro)
@@ -1358,7 +1353,6 @@ supports time series browse:
 ```
 vap+cdaweb:ds=PO_K0_EFI&id=POTENT&timerange=2000-01-01
 ```
-
 ### Updating
 
 Data sources can provide other capabilities, such as updating. This
@@ -1411,7 +1405,6 @@ command line using:
 ```
 java -Xmx4G -jar autoplot.jar
 ```
-
 ### Linux and OS-X
 
 On the command line, download Autoplot using either wget or curl:
@@ -1424,7 +1417,6 @@ and then start it with
 ```
 java -jar autoplot.jar  
 ```
-
 Note that IcedTea/OpenJDK versions of Java may work, but we recommend
 using Oracle's version of Java
 [2](http://www.java.com/en/download/index.jsp).
@@ -1434,7 +1426,6 @@ To launch Autoplot with more memory, use
 ```
 java -Xmx16G -jar autoplot.jar
 ```
-
 ### 32bit JVMs
 
 A 32 bit JVM can be used, but it must be run with 1GB of memory or less.
@@ -1447,7 +1438,6 @@ Sometimes updates in Autoplot's dependencies cause this error:
 ```
 Unsigned application requesting unrestricted access ...
 ```
-
 To fix, start `javaws -viewer` and delete all CDF and Autoplot
 applications and then delete all CDF and Autoplot resources. Web Start
 is touchy software and resetting things almost always seems to help.
@@ -1470,14 +1460,12 @@ For example, the ASCII Table reader URIs have the form
 ```
 vap+dat:<file>?<params>
 ```
-
 and the params identify how to parse the ASCII table with parameter
 names like skipLines and delim. The
 
 ```
 vap+dat:
 ```
-
 explicitly requests a plug-in (a guess is made if not given). (Details
 on how the ASCII table reader is implemented is described at
 [ascii\_data\_source](ascii_data_source.md "wikilink").)
@@ -1584,7 +1572,7 @@ The ASCII Table reader reads in a flat ASCII file with one record per
 line. Each line of the file is identified as a record or non-record.
 Autoplot URIs are the name of the ascii file and parameters that specify
 how to parse the file, listed below. A
-[GUI](help.md#ascii_editor "wikilink") is also provided that allows the URI
+[GUI](help.md#ascii-editor "wikilink") is also provided that allows the URI
 to be created graphically. This does not provide access to all the
 available controls, but is much easier to use.
 
@@ -1634,7 +1622,7 @@ available controls, but is much easier to use.
   - **timeFormat** specifies the time format, based on the Unix `date`
     command. "ISO8601" means the times are ISO8601 conforment, or use
     template with fields from
-    [\#Wildcard\_codes](#wildcard_codes "wikilink").
+    [\#Wildcard\_codes](#wildcard-codes "wikilink").
   - **time** specifies the field that is the time record. This also sets
     the independent variable.
   - **delim** identifies the delimiter character. By default, the first
@@ -1772,7 +1760,6 @@ ds2= ds[1::2]
 # save it out as a binary stream.
 formatDataSet( ds2, 'vap+bin:`<file:///tmp/output1249405460816.txt?type=ubyte>`' )
 ```
-
 ### CDF
 
 Reads in a variable from a [Common Data
@@ -1804,19 +1791,16 @@ the file part of the url is
 ```
 2000/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000101
 ```
-
 to specify more than one day, use
 
 ```
 2000/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000101 - 20000103 (end is not inclusive)
 ```
-
 to allow access to data that crosses a year boundary, use
 
 ```
 $Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20001231 through 20010101
 ```
-
 ### NcML
 
 NcML is an XML representation of netCDF metadata.
@@ -2025,7 +2009,7 @@ Plots the waveform within wav files.
 
 Example URLs:
 [20](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/trainMono.wav)
-See also [\#Multiple\_plot\_panels](#multiple_plot_panels "wikilink")
+See also [\#Multiple\_plot\_panels](#multiple-plot-panels "wikilink")
 
   - Parameters:
       - **channel** the channel to plot (by default, only the 0th
@@ -2061,13 +2045,11 @@ Example Script (/home/user/script.jyds):
 amplitude= getParam( 'amp', 1.0, 'the amplitude of the waveform' )
 data= amp * sin( linspace( 0, PI*2, 100 ) )
 ```
-
 This is called like so:
 
 ```
 /home/user/script.jyds?amp=2
 ```
-
 An editor is provided that will allow editing of the script, and when
 getParam( name, default, description, \[ constraints \] ) is used, an
 entry form is generated for the parameters.
@@ -2156,7 +2138,6 @@ resource, it will use files from here before downloading.
 jfaden.net> cat /home/jbf/autoplot_data/fscache/http/jfaden.net/~jbf/ro_cache.txt
 /home/jbf/public_html
 ```
-
 #### keychain.txt
 
 Often we need to run batch processes, and the keychain.txt allows data

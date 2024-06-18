@@ -32,7 +32,6 @@
 ```
 `
 ```
-
 ``` xml
 <schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://autoplot.org/schema/bookmarks"
     xmlns:tns="http://autoplot.org/schema/bookmarks" elementFormDefault="qualified">
@@ -81,7 +80,3 @@
     </element>
 
 </schema>
-```
-`
-```
-

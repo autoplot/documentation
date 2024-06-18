@@ -13,7 +13,6 @@ doing. Often I'm running things interactively, and the bug won't show.
 load( '`<file:///home/jbf/ct/hudson/vap/autoSlice.vap>`' )
 writeToPng('/tmp/foo.png')
 ```
-
 # misc
 
 It's much quicker to pick up most of the leaves than every last leaf.
@@ -97,7 +96,6 @@ bar of a development version (or the about screen), and do:
 ```
 ls -l /proc/$PID/fd | grep -v '.jar$' | grep -v '.ttf$' | grep -v 'random$'| grep -v 'socket:' | grep -v 'pipe:' | grep -v 'anon_inode:'
 ```
-
 # Event Thread Response Monitor
 
 The response monitor is a system which regularly fires off events and
@@ -133,7 +131,6 @@ Using "kill -3":
 ` PID=`ps -ef | grep autoplot | grep jre | awk '{print $2}'` `
 kill -3 $PID   
 ```
-
 This will not destroy the process, but tells it to dump the stack
 information. Look in the console where the Java process was run.
 
@@ -142,7 +139,6 @@ Or, better yet use jstack:
 ```
 jstack PID > outfile
 ```
-
 When that doesn't work, try:
 
 ```
@@ -150,7 +146,6 @@ When that doesn't work, try:
 rm -f xxx.hprof
 jmap -dump:format=b,file=xxx.hprof $PID
 ```
-
 and open "xxx.hprof" in Netbeans.
 
 See the previous section as well, which is a mechanism which when

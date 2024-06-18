@@ -25,7 +25,6 @@ interface QFunction {
   QDataSet exampleInput();
 }
 ```
-
 \`\`\`
 
 \`\`\`
@@ -45,7 +44,6 @@ class DemoFunction implements QFunction {
       return v;
 }
 ```
-
 \`\`\`
 
 This is slightly extended to simply implementations and allow for more
@@ -61,7 +59,6 @@ interface QFunction {
   QDataSet exampleOutput();        // call this when you just need the output.
 }
 ```
-
 \`\`\`
 
 Note that implementations of a QFunction may simply check the the
@@ -88,7 +85,6 @@ Here is how QDataSet properties are interpreted in this case:
    * slice(0) is the first argument, slice(1) would be the second, etc.
    * This would be a bundle.
 ```
-
 \`\`\`
 
 1.  Rank handling
@@ -108,68 +104,46 @@ Retrieved from
 ```
    "<`<http://autoplot.org//QFunction>`>"
 ```
-
 1.  1.  Views
 
 ```
  - [Article](/QFunction "View the content page [c]")
-```
 
-```
  - [Discussion](/wiki/index.php?title=Talk:QFunction&action=edit "Discussion about the content page [t]")
-```
 
-```
  - [View
    source](/wiki/index.php?title=QFunction&action=edit "This page is protected. You can view its source. [e]")
-```
 
-```
  - [History](/wiki/index.php?title=QFunction&action=history "Past versions of this page. [h]")
 ```
-
 1.  1.  Personal tools
 
 ```
  - [Log in / create
    account](/wiki/index.php?title=Special:Userlogin&returnto=QFunction "You are encouraged to log in, it is not mandatory however. [o]")
 ```
-
 \[\](/Main\_Page "Visit the Main Page \[z\]")
 
 1.  1.  Navigation
 
 ```
  - [Main Page](/Main_Page "Visit the Main Page [z]")
-```
 
-```
  - [Community
    portal](/autoplot.org:Community_Portal "About the project, what you can do, where to find things")
-```
 
-```
  - [Current
    events](/Current_events "Find background information on current events")
-```
 
-```
  - [Recent
    changes](/Special:Recentchanges "The list of recent changes in the wiki. [r]")
-```
 
-```
  - [Random page](/Special:Random "Load a random page [x]")
-```
 
-```
  - [Help](/Help:Contents "The place to find out.")
-```
 
-```
  - [Donations](/autoplot.org:Site_support "Support us")
 ```
-
 1.  1.  Search
 
 &nbsp;
@@ -179,54 +153,21 @@ Retrieved from
 ```
  - [What links
    here](/Special:Whatlinkshere/QFunction "List of all wiki pages that link here [j]")
-```
 
-```
  - [Related
    changes](/Special:Recentchangeslinked/QFunction "Recent changes in pages linked from this page [k]")
-```
 
-```
  - [Upload file](/Special:Upload "Upload images or media files [u]")
-```
 
-```
  - [Special
    pages](/Special:Specialpages "List of all special pages [q]")
-```
 
-```
  - [Printable
    version](/wiki/index.php?title=QFunction&printable=yes "Printable version of this page [p]")
-```
 
-```
  - [Permanent
    link](/wiki/index.php?title=QFunction&oldid=2682 "Permanent link to this version of the page")
 ```
-
 \[\!\[Powered by
 MediaWiki\](/wiki/skins/common/images/poweredby\_mediawiki\_88x31.png)\](http://www.mediawiki.org/)
-
-```
- - This page was last modified 18:43, 14 March 2011.
-```
-
-```
- - This page has been accessed 1,503 times.
-```
-
-```
- - [Privacy
-   policy](/autoplot.org:Privacy_policy "autoplot.org:Privacy policy")
-```
-
-```
- - [About
-   autoplot.org](/autoplot.org:About "autoplot.org:About")
-```
-
-```
- - [Disclaimers](/autoplot.org:General_disclaimer "autoplot.org:General disclaimer")
-```
 

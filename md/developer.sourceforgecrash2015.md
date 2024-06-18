@@ -88,7 +88,6 @@ before the release:
 ```
 `
 ```
-
 # Other machines
 
 I had changes on my home workstation as well, and these now need to be
@@ -193,7 +192,6 @@ merged in. I am:
 2097  svn diff -r17127:17131 VirboAutoplot/src/external/PlotCommand.java
 2098  history
 ```
-
 # breakdown of changes 17128
 
 I thought it would be useful to summarize that big commits.

@@ -102,7 +102,6 @@ final Logger logger:
 ```
 private static final Logger logger= Logger.getLogger("qdataset.ascii");
 ```
-
 then this is used to log at a level of FINE or less, so scripts will not
 see this message:
 
@@ -110,7 +109,6 @@ see this message:
 logger.finest( 'found column' )
 logger.log( Level.FINE, "found column named {0} at {1}", new Object[]{lookFor, j} );
 ```
-
 If a condition is a warning that the user will want to know about, then
 INFO or above can be used, but realize these messages will need to be
 reported through some other mechanism as well:
@@ -119,14 +117,12 @@ reported through some other mechanism as well:
 logger.log(Level.WARNING, "metadata found for key {0}, but this is not found in the ascii file parser", key);
 warnings.add( String.format( "metadata found for key %s, but this is not found in the ascii file parser", key ) )
 ```
-
 Note Netbeans likes to help out by adding code to send messages to
 loggers based on the class name:
 
 ```
 Logger.getLogger(DataSetUtilTest.class.getName()).log(Level.SEVERE, null, ex);
 ```
-
 # How to turn on logging
 
 When the application is run interactively, logging can be enabled via
@@ -144,7 +140,6 @@ java.util.logging.ConsoleHandler.level=FINEST
 apdss.level=FINER
 jython.level=FINE
 ```
-
 # 2020-02-02
 
 At some point I made it so that AUTOPLOT\_DATA/config/logging.properties

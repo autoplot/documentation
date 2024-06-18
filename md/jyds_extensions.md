@@ -29,12 +29,9 @@ report what script is actually used.
 
 ```
 System.setProperty("jydsExtension_sps","")
-```
-  
-```
+
 System.setProperty("jydsExtension_sps","`<file:/home/jbf/project/earth/svn/public/jyds/readTypeSps.jyds>`")
 ```
-
 # Examples
 
 The extension .sps is associated with the jyds script

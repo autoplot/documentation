@@ -18,7 +18,6 @@ ds= -ds
 plot( ds )
 dom.plots[0].title='-1 * Spacecraft Potential'
 ```
-
 Also scripts can serve as a new data source. In this case, instead of
 loading a URI like
 vap+cdaweb:ds=DE2\_PLASMA500MS\_LANG\&id=satPotential\&timerange=1983-02-16,
@@ -31,7 +30,6 @@ ds= -ds
 ds= putProperty( ds, QDataSet.TITLE, '-1 * Spacecraft Potential' )
 result= ds
 ```
-
 This script could then be saved to the name "/tmp/flipsign.jyds" and the
 script could be run by typing this name into the URI address bar.
 
@@ -54,7 +52,6 @@ myfilter= Butterworth( magz, 2, datum('10 Hz'), False )
 result= myfilter.filter()
 plot( result )
 ```
-
 The first line goes and gets the data, providing feedback via the
 monitor. This is a progress monitor that is made available to the
 script, which will communicate the activity of slow processes to users
@@ -65,7 +62,6 @@ You can apply an FFT to the data as well:
 ```
 plot( 1, fftPower( result,128, monitor ) )
 ```
-
 What's the "1" argument to the plot function? It's a way to allow
 plotting to multiple plots. These are basically identifiers for "slots"
 you can put the data in to, where 0 is the top, and it will add plots
@@ -81,7 +77,6 @@ Now let's add a control to the script. This is done with a call to the
 ```
 cutoff= getParam( 'cutoff', '10 Hz', 'The cutoff frequency' )
 ```
-
 This adds a convenient way to pass information into the script. Hitting
 the execute button uses the default setting '10 Hz' and the user can
 hold shift while pressing the execute button and a parameters GUI is

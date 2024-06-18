@@ -28,7 +28,6 @@ while ( b!=-1 ):
    sys.stdout.write( '%c' % b )
    b= i.read()
 ```
-
 # Solutions
 
 One solution is to turn off this dialog completely. Edit

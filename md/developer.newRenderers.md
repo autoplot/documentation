@@ -37,7 +37,6 @@ vertical coordinates.
        }
    }
 ```
-
 Rarely do renderers stay this small long, and a fully-developed code is
 here:
 <https://saturn.physics.uiowa.edu/svn/das2/dasCore/community/autoplot2011/trunk/dasCore/src/test/graph/MyRenderer.java>
@@ -74,9 +73,7 @@ class MyRenderer( Renderer ):
        msg= ds1.slice(2).toString(); 
        g.drawString( msg, xaxis.transform( datum( ds1.slice(0) ) ), yaxis.transform( datum( ds1.slice(1) ) ) )    
 rend= MyRenderer()
-```
-  
-```
+
 dsb= DataSetBuilder( 2, 100, 3 )
 dsb.setUnits( 0, Units.us2000 )
 dsb.setUnits( 1, Units.dimensionless )
@@ -91,6 +88,5 @@ bind(  dom, 'timeRange', dom.plots[0].xaxis, 'range' )
 dom.timeRange= datumRange( '2003-05' )
 dom.plots[0].yaxis.range= datumRange('0 to 140')
 ```
-
 This script, when run, adds a new renderer.
 

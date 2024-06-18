@@ -40,7 +40,6 @@ example:
 ```
 color=yellow&background=black
 ```
-
 Note in this case, the vapFile should be a valid vapFile. (Anything with
 a .vap extension ought to be a vap.)
 
@@ -57,7 +56,6 @@ parameters, as with Autoplot URIs:
 resourceURL is the name of a file to be transformed that is not a .vap file.
 arg_i be the ith unnamed argument.
 ```
-
 # Examples
 
 <http://autoplot.org/data/autoplot.vap?xslt=http://autoplot.org/data/text.xslt&title='My+data>`"`

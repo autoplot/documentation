@@ -55,7 +55,6 @@ ds.value(i,j,k)   # A value within a rank 3 QDataSet.
 ```
 `
 ```
-
 A rank 1 dataset is similar to a simple 1-D array. A number of elements
 are available (`ds.length()`), and each element is accessed with
 `ds.value(i)`. The index `i` can take on values of
@@ -104,7 +103,6 @@ print 'First element has rank %d and length %d' % ( array[0].rank(), array[0].le
 ```
 `
 ```
-
 Autoplot's scripting has a command "getDataSet" which reads data using
 an Autoplot URI.
 
@@ -115,7 +113,6 @@ print ds  # 'Magnitude[24] (nT)'
 ```
 `
 ```
-
 ## Rank 2 Example
 
 A rank 2 dataset is similar to a 2-D array. Like Java and unlike
@@ -144,7 +141,6 @@ print 'scPos should have rank 2: ', scPos.rank()
 ```
 `
 ```
-
 ## Rank 3 Example
 
 Higher rank datasets exist as well, namely rank 3 and rank 4 datasets.
@@ -156,7 +152,6 @@ The method "slice" accesses the dataset at the position. For example:
 ```
 ds.slice(0) 
 ```
-
 extracts a "slice" of the dataset at the index. Calling the slice
 operator of a rank 3 dataset returns a rank 2, and so on. In Space
 Physics, we have lots of time series data sets, and typically the first
@@ -169,7 +164,6 @@ print 'scPos should have rank 2: ', scPos.rank()
 print 'slice of data: ', scPos.slice(0)
 print 'and one measurement: ', scPos.slice(0).slice(0)
 ```
-
 # More Metadata
 
 We can attach properties to datasets, like:
@@ -194,7 +188,6 @@ timetags.
 ```
 ttags= density.property( QDataSet.DEPEND_0 )
 ```
-
 Properties:
 
   - DEPEND\_0 The independent parameter "causing" the first index, which
@@ -209,7 +202,6 @@ When we need a quick string representation of the data, we would print
 ```
 density[epoch=288]
 ```
-
 to indicate there are 288 elements in the rank 1 dataset "density", and
 it DEPENDS on timetags in a dataset called "epoch".
 
@@ -233,7 +225,6 @@ print epoch.property( QDataSet.UNITS )  # "cdfEpoch"
 ```
 `
 ```
-
 ## Rank 2 QDataSet
 
 ![qdataset-rank2.jpg](qdataset-rank2.jpg "qdataset-rank2.jpg")
@@ -256,7 +247,6 @@ print dep1.property( QDataSet.SCALE_TYPE )  # log
 ```
 `
 ```
-
 ## Others
 
 Autoplot's Metadata tab allows the QDataSet to be browsed. Under the
@@ -280,7 +270,6 @@ so:
 ```
 for i in xrange( int(ds[0]) ): print i
 ```
-
 # Some example operators
 
 ![chickadeeSpectrogram.jpg](chickadeeSpectrogram.jpg
@@ -291,7 +280,6 @@ lots of functionality. For example:
 ds= randomn(5334,10000)   # 5334 is just a seed to make the pseudo-random sequence repeatable, which is useful for testing.
 plot( histogram(ds,-5,5,0.1) )
 ```
-
 There are hundreds more operators. Type in "ds=" and hit tab in the
 editor to see completions.
 
@@ -300,9 +288,7 @@ ds= randomn(5334,10000)
 tt= timegen('2011-01-01T00:00', '1 days', 10000 )
 plot( 0, tt, ds )
 plot( 1, tt, smooth(ds,101) )
-```
 
-```
 reset()
 ds= getDataSet( '`<http://autoplot.org/data/wav/chickadeesong.wav>`' )   # rank 1 dataset
 print ds.property( QDataSet.DEPEND_0 ).property( QDataSet.UNITS )    # seconds
@@ -310,7 +296,6 @@ ps= fftPower( ds, 1024, 2, 'Hanning', monitor )          # returns rank 2 power 
 print ps.property(QDataSet.DEPEND_1)                     # 'dataset[511] (Hz)'
 plot( ps )
 ```
-
 # Ordinal Data
 
 The units representation returned by the UNITS property may be a special
@@ -336,7 +321,6 @@ plot(ds)
 ```
 `
 ```
-
 In this simple case, the three bundled channels must all have the same
 units.
 
@@ -352,7 +336,6 @@ plot( unbundle(ds,'Humidity') )
 ```
 `
 ```
-
 These values can be represented in a rank 2 QDataSet with each record
 having nine elements, but how do you store the different labels and
 units? For this, QDataSet uses the property BUNDLE\_1, which is itself a
@@ -370,7 +353,6 @@ print bds.property( QDataSet.UNITS, 3 )   #  'percent'
 ```
 `
 ```
-
 Having the BundleDataSetDescriptor allows us to model commonly-seen rank
 2 table of numbers:
 
@@ -379,7 +361,6 @@ Having the BundleDataSetDescriptor allows us to model commonly-seen rank
 2019-09-01T05:52:00.000Z 64.0 5.0 59.0 84.0 -1.0E31 -1.0E31 30.19 1022.3 0.0 
 2019-09-01T06:52:00.000Z 65.0 3.0 58.0 78.0 -1.0E31 -1.0E31 30.19 1021.9 0.0 
 ```
-
 which can be modeled and printed like so:
 
 ``` python
@@ -397,7 +378,6 @@ for i in range(3):
 ```
 `
 ```
-
 and a slice results in the nine-element tuple:
 
 ``` python
@@ -405,7 +385,6 @@ ds.slice(0)                               #   results in the tuple of individual
 ```
 `
 ```
-
 To access individual datasets from the bundle, the unbundle function can
 be used:
 
@@ -415,7 +394,6 @@ print unbundle( ds, 'Humidity' )  # results in the dataset with this name.
 ```
 `
 ```
-
 ## High Rank Bundles
 
 A special "high-rank" mode is also supported to unbundle rank 2 (or
@@ -429,7 +407,6 @@ plot(v)
 ```
 `
 ```
-
 It can do this because there is metadata within the bundle properties
 describing this dataset:
 
@@ -443,7 +420,6 @@ print bds.property( QDataSet.ELEMENT_DIMENSIONS, istart )  # "[3]"
 ```
 `
 ```
-
 Note that a rank 2 bundle could contain a rank 3 dataset. It can also
 contain a simple bundle, but it cannot contain another bundle. One more,
 slightly embarrassing, note, sometimes DEPEND\_0 will be a part of the
@@ -492,7 +468,6 @@ plot( 1, Schemes.rank2Waveform())
 ```
 `
 ```
-
 # QDataSet Operations should Handle Metadata
 
 Many operations are included in the Java/Jython implementation of
@@ -514,7 +489,6 @@ print dataset("5cm")+dataset("5m")  # "505.0cm"
 ```
 `
 ```
-
 # Comparing IDL array operations to QDataSets
 
 There are a number of differences between IDLs array operations and

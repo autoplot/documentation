@@ -99,7 +99,6 @@ coming in.
 ```
 java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.pngwalk.CreatePngWalk
 ```
-
 Roughly the same controls are available, but in command line form. They
 are:
 
@@ -122,7 +121,6 @@ Usage: CreatePngWalk
   --autorangeFlags     if true, then check each axis' autorange property, and only autorange if this is set to true.
   --update     only calculate missing images
 ```
-
 # Browsing PNG Walks
 
 The PNGWalk tool provides an efficient browser for sets of images.
@@ -184,15 +182,8 @@ timeFormat  each files' time format identifier, like $Y$m$d.
 qcturl      the base for the quality control files.
 pwd         the web location of the .pngwalk, since they will be downloaded and put into arbitrary locations before passed to Autoplot.
 ```
-
 Autoplot uses the .pngwalk file to define how the pngwalk is to be
 loaded and controlled. The "View in Autoplot" button will be enabled
 when a .vap file corresponding to the .pngwalk can be found. Its
 location can be in several places:
-
-```
-baseurl + product + '.vap'
-pwd + product + '.vap'
-pwd + product + version + '.vap'
-```
 

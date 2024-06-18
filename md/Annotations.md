@@ -90,7 +90,6 @@ Autoplot has an "annotation" command simplifying use in Jython scripts:
 ```
 a= annotation(0,text="Annotation",borderType='Rounded_Rectangle')
 ```
-
 The "0" is like the plot command's index, where it is just an index so
 the page isn't filled with annotations as the script is run repeatedly.
 Arguments will be converted if possible, so for example,
@@ -98,7 +97,6 @@ Arguments will be converted if possible, so for example,
 ```
 ann= annotation( text='featured point', anchorOffset='1em,1em', anchorType='data', anchorPosition='SW', pointAt='12,14' )
 ```
-
 points at (12,14) and 1em,1em offset from this point, with the point to
 the south west (SW) of the annotation.
 
@@ -112,13 +110,11 @@ properties may be resolved. For example,
 ```
 %{USER_PROPERTIES.name} 
 ```
-
 will show the value of the tag "name" in the USER\_PROPERTIES map, and
 
 ```
 %{METADATA._RecCount}
 ```
-
 will show the number of records in a CDF file. Other examples include:
 
 ```
@@ -126,7 +122,6 @@ will show the number of records in a CDF file. Other examples include:
 %{CONTEXT}
 %{TIMERANGE}
 ```
-
 # Control Sequences
 
 There are some control sequences which are useful in labels (axis labels
@@ -135,7 +130,6 @@ as well as annotations) as well:
 ```
 !(color;saddleBrown)
 ```
-
 will set the color to "saddleBrown", and \!(color) will return to the
 initial drawing color. See
 <https://github.com/autoplot/dev/blob/master/rfe/sf/625/demoBuiltIns.jy>.

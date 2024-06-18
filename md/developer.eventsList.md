@@ -32,7 +32,6 @@ treated as an events list:
 2012-09-05T18:00:25.676Z 2012-09-06T02:59:24.361Z       18
 2015-07-11T08:00, 2015-07-11T12:00, 0x00FF00, "Garage Sale"
 ```
-
 When four columns are found, and the third column could be interpreted
 as an RGB color, it is interpreted as such.
 

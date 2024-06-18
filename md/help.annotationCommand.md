@@ -13,13 +13,11 @@ The annotation command creates annotations on the canvas from programs.
 ```
 annotation( text='Plot 1', fontSize=1.4 )  
 ```
-
 will put an annotation on canvas, replacing it if one already exists.
 
 ```
 annotation( index, text='Plot 2', fontSize=1.4 )  
 ```
-
 where index is the annotation number.
 
 ## namedParams
@@ -66,7 +64,6 @@ converted into a color. Examples include:
 annotation = annotation( index=1 )
 annotation.text= 'New Title'
 ```
-
 The "1" indicates that the annotation at index 1 should be used for
 this. This similar to the plot command which also has an index. This is
 so that annotations and plots are replaced instead of added again and

@@ -17,8 +17,3 @@ in this situation. This is useful when running batches where the dialog
 breaks the automation. To use this, either set -DresizeOption=scrollbars
 at the command line, or set it in a script like so:
 
-```
-from java.lang import System
-System.setProperty('resizeOption','scrollbars')
-```
-

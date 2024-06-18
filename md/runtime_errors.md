@@ -44,7 +44,6 @@ that just that line is extracted, then pipe it through base64:
 ```
 cat rte_0335135088_20230203_120506_jonny.xml | grep 0aJjaou+Us | base64 --decode > 20230223_120506.png
 ```
-
 # Provide Feedback
 
 The menu item Help &rarr; &quot;Provide Feedback&quot; uses the same mechanism to

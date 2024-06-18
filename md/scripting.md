@@ -45,7 +45,6 @@ plot( abs( ds2- ds1 ) )
 ```
 `
 ```
-
 loads two grayscale images and plots the result. If this script is
 copied into the script editor (`Options->Enable Feature->Script Editor`)
 and executed, a spectrogram showing the differences between the two
@@ -53,10 +52,10 @@ grayscale images is plotted.
 
 There are two types of scripts:
 
-  - [\#Data Source Context](#data_source_context "wikilink"): Used for
+  - [\#Data Source Context](#data-source-context "wikilink"): Used for
     loading data. These have a URI and can be used like any other data
     source.
-  - [\#Application Context](#application_context "wikilink"): Used for
+  - [\#Application Context](#application-context "wikilink"): Used for
     controlling Autoplot itself.
 
 Finally, scripts can be shared with others. For example, if a script is
@@ -110,7 +109,6 @@ result= abs( ds2- ds1 )
 ```
 `
 ```
-
 was saved and uploaded to
 
 <http://autoplot.org/data/imageDiff.jyds>
@@ -143,7 +141,7 @@ blank line in the script panel.
 ## Example: Reading ASCII file from URL
 
 Autoplot can plot many ASCII files automatically by using either the
-[help\#ASCII\_Editor](help.md#ascii_editor "wikilink") or a [URL
+[help\#ASCII\_Editor](help.md#ascii-editor "wikilink") or a [URL
 template](help#ASCII_table "wikilink"). However, many ASCII files have
 unusual structure and require a script to convert the data in the file
 into a [QDataSet](QDataSet.md "wikilink").
@@ -156,7 +154,6 @@ which has lines of the form
 8601012082243337373350403340303 18 22 22 18 48 27 18 27 251.26  0 67.00 
 8601022082253740303040372720260 22 27 15 15 27 22 12  7 181.05  0 67.60
 ```
-
 The file format specification is given at
 [4](ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/KP_AP/kp_ap.fmt).
 This script reads the file and convert it into a
@@ -187,14 +184,12 @@ the first few lines of the response are
 ```
 `
 ```
-
 Because the ASCII table is simple, we would like to apply the ASCII
 template
 
 ```
 time=field0&column=field4&timeFormat=$Y+$j+$H
 ```
-
 If the URI was to a file
 
 `&nbsp;`&lt;file:/tmp/data.txt&gt;
@@ -224,7 +219,6 @@ data.putProperty( QDataSet.UNITS, 'N/cm^3' )
 ```
 `
 ```
-
 ## Example: Query Parameters
 
 Scripts can also have query parameters which allow more control of the
@@ -238,7 +232,6 @@ f= getParam( 'f', 2.34, 'label to describe' )      # gets a float parameter, wit
 ```
 `
 ```
-
 The user would be able pass options to the script in the URI:
 
 `vap+jyds:file:/tmp/foo.jyds?s=abc&f=3.14159`
@@ -282,7 +275,6 @@ else:
   result= abs(ds)
   result.putProperty( QDataSet.TITLE, 'Positive Spacecraft Potential' )  
 ```
-
 This would then have URIs that have a default time range of 2000-01-09,
 but any timerange can be plotted by adding (for example)
 "?timerange=2000-01-08". Scanning on the time axis will cause the script
@@ -323,7 +315,6 @@ dom.plotElements[0].style.color= Color.RED
 ```
 `
 ```
-
 ## Example: Plot all files in directory
 
 ``` python
@@ -334,7 +325,6 @@ for tr in trs:
 ```
 `
 ```
-
 runs the application through each day of the month January 2010, making
 images of each day.
 
@@ -357,7 +347,6 @@ monitor.finished()     # indicate the task is complete
 ```
 `
 ```
-
 ## Example: Create your own tool
 
 Application Context scripts can be added to the Autoplot GUI by putting
@@ -375,7 +364,6 @@ val= dom.options.isDayOfYear()
 val= 1-val 
 dom.options.setDayOfYear(val)
 ```
-
 Note there is \[menubar\]-\>Tools-\>"Manage and Browse Tools" now, which
 lets you manage the tools just like the bookmarks. This also allows
 tools to reside on remote sites, and for teams to have a standard set of

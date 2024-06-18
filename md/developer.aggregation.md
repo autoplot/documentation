@@ -17,7 +17,6 @@ ds1= getDataSet( '`<http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/sis/level_2
 ds2= getDataSet( '`<http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/sis/level_2_cdaweb/sis_k0/$Y/ac_k0_sis_$Y$m$d_v$v.cdf?H_hi>`', tr )
 result= link( ds1,ds2 )
 ```
-
 this too is a TSB, and likewise
 
 <http://cdaweb.gsfc.nasa.gov/istp_public/data/ace/sis/level_2_cdaweb/sis_k0/$Y/ac_k0_sis_$Y$m$d_v$v.cdf?H_hi&DEPEND_0=H_lo>
@@ -54,13 +53,11 @@ each granule returned
 ```
 image[x;y;r,g,b]
 ```
-
 then the aggregation would be
 
 ```
 image[i;x;y;r,g,b]
 ```
-
 and then I could slice on dim0 to quickly scan through the images and
 get slices of a pixel value over time.
 

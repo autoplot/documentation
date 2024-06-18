@@ -45,7 +45,6 @@ interface UncertProvider {
  double getUncertPlus(i)
  double getUncertMinus(i)
 ```
-
 }
 
 EnhancedXYDataWithUncert extends XYData

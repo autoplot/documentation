@@ -31,7 +31,6 @@ maybe these chunks would be used:
 xfrm  axis transformations in XML document.  This would have a set of pixels rectangles and data coordinates, one for each plot.  This should also contain the absolute size of the plot in case it is resized.
 vapx  a reference to an autoplot .vap file that produced the image.  This may be a relative reference, relative to the png file.
 ```
-
 ## xfrm chunk
 
 This would be an xml document, with nodes something like the following.
@@ -62,7 +61,6 @@ canvas/width             pixel width of the canvas.  Note if the image is resize
 canvas/height            pixel height of the canvas.  Note normalized coordinates might be a better way to support this.
 canvas/text[*]           other text in the canvas, meant to allow for searching.
 ```
-
 ## First Implementation (Feb 2012)
 
 A first implementation was in the code and pngs encoded with the das2
@@ -112,7 +110,6 @@ things again before this gets into production. Note:
    } ]
  }
 ```
-
   - And here's one with a time axis, which uses ISO8601 times:
 
 ```
@@ -126,7 +123,6 @@ things again before this gets into production. Note:
    }
  ]}
 ```
-
 ## Demonstration Applications
 
 ### Autoplot Thin Client Demo

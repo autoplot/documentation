@@ -81,7 +81,6 @@ vap+cdf if the native libraries aren't available.
 ```
 java -jar /tmp/ap/autoplot.jar  # see that Autoplot works
 ```
-
 #### Command-Line Arguments
 
 You can launch with command line arguments as well, like so:
@@ -90,7 +89,6 @@ You can launch with command line arguments as well, like so:
 ```
 java -cp autoplot.jar org.autoplot.AutoplotUI --help
 ```
-
 #### Notes on data server
 
 The following documentation refers to the application used to serve
@@ -103,7 +101,6 @@ java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.AutoplotServer
 ```
 `
 ```
-
 #### Linux
 
 On Linux systems the default install of Java is not complete. On a
@@ -112,13 +109,11 @@ Debian-based system, use
 ```
 apt-get install openjdk-8-jre
 ```
-
 and call java using
 
 ```
 /usr/lib/jvm/java-8-openjdk/bin/java
 ```
-
 ``` bash
 
 wget "http://autoplot.org/jnlp/latest/autoplot.jar"
@@ -127,7 +122,6 @@ java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.AutoplotServer -u "h
 ```
 `
 ```
-
 #### Mac
 
 ``` bash
@@ -138,7 +132,6 @@ java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.AutoplotServer -u "h
 ```
 `
 ```
-
 will create [:Image:BGSM.png](:Image:BGSM.png.md "wikilink")
 
 # Development
@@ -362,7 +355,6 @@ So for example:
 rend+contour:levels=10,20,30,40&fillBelow=lightGrey,grey,darkGrey,red
 rend+series:fillAboveColor=red&fillAboveReference=5.0V&fillBelowColor=grey&fillBelowReference=0.0V
 ```
-
 I'd like to get this in place for people that want to play with it, but
 it will be limited until there are GUIs, etc, and that's a big job. So
 I'll be adding things to the style node as well for now.

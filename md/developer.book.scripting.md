@@ -19,7 +19,6 @@ Bz= getDataSet( '`<http://autoplot.org/data/autoplot.cdf?BGSEc&slice1=2>`' )
 BMag= getDataSet( '`<http://autoplot.org/data/autoplot.cdf?Magnitude>`' )
 result= Bz/BMag
 ```
-
 Autoplot provides a simple editor for creating and running scripts, and
 this is enabled with \[Menubar\]-\>Options-\>"Script Panel". Make sure
 this is running and the "script" tab is visible. Enter the script in the
@@ -32,7 +31,6 @@ BMag= getDataSet( '`<http://autoplot.org/data/autoplot.cdf?Magnitude>`' )
 result= Bz/BMag
 plot( result )
 ```
-
 # Jython Data Sources
 
 Jython scripts can be used as URIs and plotted as you would any other
@@ -66,7 +64,6 @@ for tr in trs:
   dom.timeRange= DatumRangeUtil.parseTimeRange(tr)
   writeToPng( '/tmp/%s.png' % tr )
 ```
-
 (And it's true that initially Autoplot's "Make PNG Walk" was just a
 script.)
 
@@ -98,7 +95,6 @@ environment. Some may wish to use this form for their scripts:
 import autoplot as ap
 Bz= ap.getDataSet( '`<http://autoplot.org/data/autoplot.cdf?BGSEc&slice1=2>`' )
 ```
-
 This clearly indicates where the "getDataSet" command comes from. Note
 however that Autoplot scripts must end in .jy or .jyds.
 
@@ -124,7 +120,6 @@ f= getParam( 'f', 100.0, 'volume' )                # gets a float parameter.
 e= getParam( 'e', 'RBSPA', 'spacecraft', [ 'RBSPA', 'RBSPB' ] )   # enumeration with the values given
 b= getParam( 'v', 'F', 'apply correction', [ 'T', 'F' ] )         # booleans are just enumerations with the values 'T' and 'F'
 ```
-
 ![jydsEditor2.jyds.png](jydsEditor2.jyds.png "jydsEditor2.jyds.png")
 
 Autoplot will look for this in scripts and automatically add to GUI. The
@@ -141,7 +136,6 @@ enumerated. For example:
 ```
 sensor= getParam( 'sensor', 'left', 'sensor antenna', ['left','right'] )
 ```
-
 will get the parameter sensor, which can be either left or right (with
 left as the default). When a GUI is created, a droplist of possible
 values is used instead of a text entry field.
@@ -152,7 +146,6 @@ produced:
 ```
 correct= getParam( 'correct', 'T', 'perform correction on the data', [ 'T', 'F' ] )
 ```
-
 Note you cannot use the result as a boolean in the python code. You must
 compare it to 'T'.
 
@@ -165,7 +158,6 @@ arguments following the first argument (name of the script):
 ```
 java -cp autoplot.jar org.autoplot.JythonMain /tmp/myscript.jy sensor=right correct=T
 ```
-
 #### Creating a GUI from a script
 
 Autoplot works by making a simplified version of the script, and then
@@ -176,19 +168,16 @@ and sometimes not. These functions can be used:
 ```
  "range", "xrange", "lower", "upper"
 ```
-
 so
 
 ```
  x= getParam( 'sc', 1, 'spacecraft ID", range(40) )
 ```
-
 works, but this won't:
 
 ```
  x= getParam( 'sc', 1, 'spacecraft ID", findgen(40) )
 ```
-
 # But wait there's more
 
   - Inline scripts are a Jython script embedded within a URI.

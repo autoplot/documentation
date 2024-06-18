@@ -60,7 +60,6 @@ plot(1,sliceAtL)
 ```
 `
 ```
-
 ## Events Bar under all plots
 
   - plot the top plot
@@ -234,7 +233,6 @@ dom.dataSourceFilters[0].uri='http://cdaweb.gsfc.nasa.gov/istp_public/data/polar
 ```
 `
 ```
-
 # Add Annotations
 
 For several years, people have been able to add annotations to their
@@ -315,14 +313,12 @@ following script computes the time for a `wget` command to execute.
 ```
 `
 ```
-
 It writes to the file "/tmp/webtest.log". To continuously view this
 file, use the undocumented (and not fully tested) feature by appending
 
 ```
 &filePollUpdates=1&tail=100
 ```
-
 to the URI, which will plot the last 100 lines of a file every second:
 
 `vap+dat:file:/tmp/webtest.log?time=field0&column=field6&timeFormat=$Y+$m+$d+$H+$M+$S&filePollUpdates=1&tail=100`
@@ -342,7 +338,6 @@ first field $H-$M-$S. Here's a few lines of the file
 09:46:26  4.5
 09:47:22  5.6
 ```
-
 You could use implicit fields to parse this:
 
 <http://autoplot.org/data/noDate.dat?column=field1&timeFormat=$(H;Y=2000;m=3;d=4>`):$M:$S&time=field0`
@@ -361,7 +356,6 @@ plot(l_erg)
 ```
 `
 ```
-
 To fix this, a "trim" command must be inserted:
 
 ``` python
@@ -372,7 +366,6 @@ plot(l_erg)
 ```
 `
 ```
-
 # Launching (OS-Specific)
 
 ## Associate .vap files in Gnome
@@ -436,9 +429,8 @@ monitor.finished()
 ```
 `
 ```
-
 For creating a movie, see
-[\#Add\_to\_Jython\_Search\_Path](#add_to_jython_search_path "wikilink").
+[\#Add\_to\_Jython\_Search\_Path](#add-to-jython-search-path "wikilink").
 
 ## Browse a timeseries
 
@@ -469,7 +461,6 @@ org.autoplot.AutoplotUtil.openBrowser(String url)
 ```
 `
 ```
-
 ## Tweak DOM parameters not saved to VAP
 
 Not all properties in the DOM are saved to the VAP file (anything under
@@ -484,13 +475,11 @@ dom.plotElements[0].controller.renderer.cadenceCheck = False
 ```
 `
 ```
-
 Save the above as /tmp/webtest.jy and enter
 
 ```
 script:`<file:/tmp/webtest.jy>`    
 ```
-
 in the address bar. (Autoplot 2011 now has cadenceCheck in the DOM, so
 editing Plot Element Properties can accomplish this as well.)
 
@@ -508,7 +497,6 @@ plot(2,ripples(40))
 ```
 `
 ```
-
 This will add plots until the there's a spot "2" for the data. The
 command setPlotLayout(2,3) will make two rows of three plots each.
 
@@ -522,7 +510,6 @@ In the script panel (enabled via options):
 ```
 `
 ```
-
 ## make a plot for each file
 
 In the script panel (enabled via options), enter
@@ -535,7 +522,6 @@ In the script panel (enabled via options), enter
 ```
 `
 ```
-
 ## Python/Jython is great with strings
 
 ``` python
@@ -545,7 +531,6 @@ plot( 'http://www.autoplot.org/data/%s_%s.dat' % ( product, date ) )
 ```
 `
 ```
-
 %s plugs in the corresponding string, %d an integer, %f a float. Often
 you need the result to have a fixed number of characters, so you might
 say %9f so that 9 characters are always used. Prefixing the number with
@@ -559,7 +544,6 @@ print '%9.3f' % 3.14   # '    3.140'
 ```
 `
 ```
-
 ## mash data
 
 Jython (Python in Java) scripts can be used to mash data. The
@@ -569,7 +553,6 @@ script via the URI:
 ```
  vap+jyds:`<file:///home/jbf/inbox/larry.20100212.icee/icee.jyds?type='e_star>`'
 ```
-
 Here's the script:
 
 `&nbsp;`&lt;http://autoplot.org/data/jyds/icee.jyds&gt;
@@ -598,7 +581,6 @@ and enter the script:
 ```
 `
 ```
-
 These scripts work by plotting the variable "data" by default. Note I
 can right click in the script tab and select "getDataSet" and the
 getDataSet command is entered with the current URI. Select "data source
@@ -615,7 +597,6 @@ doesn't. I can remove units from Dan's the same way:
 ```
 `
 ```
-
 Now I can plot one against the other, and plot slices on the same plot.
 Note Autoplot will plot data of different units on the same axis, but
 with a warning message.
@@ -632,7 +613,6 @@ for i in trs:
 ```
 `
 ```
-
 You'll see the output in the java stdout or on the console
 (Options-\>Enable Feature-\>Log Console) if it's enabled.
 
@@ -648,7 +628,6 @@ for i in trs:
 ```
 `
 ```
-
 ## remove the fill data from a list
 
 Remove fill data from a list with the where and valid functions:
@@ -661,7 +640,6 @@ list= list[r]
 ```
 `
 ```
-
 ## interpolating dataset onto another dataset's timetags
 
 Ivar asked about a function I've always meant to implement explicitly,
@@ -689,7 +667,6 @@ plot( 2, flux4min, title='This is the flux' )
 ```
 `
 ```
-
 Here's a generic "synchronize" routine that syncs up data:
 
 ``` python
@@ -700,7 +677,6 @@ BGSE5min= getDataSet( 'http://cdaweb.gsfc.nasa.gov/pub/data/ace/mag/level_2_cdaw
 ```
 `
 ```
-
 Keywords: synchronize synchronizing
 
 ## run test script to see that everything in history is still plottable
@@ -713,7 +689,6 @@ TryHistory.main( [] )
 ```
 `
 ```
-
 This attempts to load every URI in
 $HOME/autoplot\_data/bookmarks/history.txt as a QDataSet, printing the
 result and load times, and then finally reporting the statistics for the
@@ -744,7 +719,6 @@ script:`<http://autoplot.org/data/tools/reloadAllUris.jy>`  # reload all loaded 
 script:`<http://autoplot.org/data/tools/testHtmlConnection.jy>`   # test to see if we're on line.  (This should be renamed testHttpConnection.jy.)
 script:`<http://autoplot.org/data/tools/toggleDayOfYear.jy>`      # toggle the day-of-year setting
 ```
-
 Note scripts can contain the special comment "\# label:" that gives them
 nice labels.
 
@@ -795,7 +769,6 @@ for ex in exceptions.entrySet():
 ```
 `
 ```
-
 ## Import set of common functions
 
 You can import a set of common functions using getFile and "execfile":
@@ -817,7 +790,6 @@ plot( 2, dst )
 ```
 `
 ```
-
 This introduces some possible security concerns, and this may be
 restricted in the future.
 
@@ -837,7 +809,6 @@ print lf.chi2 / (x.length()-1)
 ```
 `
 ```
-
 ## Arbitrary Layout
 
 Autoplot v2015a and more recent versions allow scripts to plot to
@@ -850,7 +821,6 @@ plot(1,linspace(0,1,20),randn(20),xpos='50%,70%',ypos='60%,80%')
 ```
 `
 ```
-
 Em offsets (when an em is the current font size) can be used as well,
 and pixel locations:
 
@@ -860,7 +830,6 @@ plot(1,rand(2000),rand(2000),xpos='100px,200px',ypos='100px,200px')
 ```
 `
 ```
-
 ## Add to Jython Search Path
 
 I want to add the ability to create a video. I can add this to the
@@ -870,15 +839,11 @@ search path in Jython like so:
 import sys
 addToSearchPath(sys.path,'`<http://central.maven.org/maven2/org/jcodec/jcodec-javase/0.2.2/jcodec-javase-0.2.2.jar>`',monitor.getSubtaskMonitor('jar1'))
 addToSearchPath(sys.path,'`<http://central.maven.org/maven2/org/jcodec/jcodec/0.2.2/jcodec-0.2.2.jar>`',monitor.getSubtaskMonitor('jar2'))
-```
-  
-```
+
 from org.jcodec.api.awt import AWTSequenceEncoder
 from javax.imageio import ImageIO
 from java.io import File
-```
-  
-```
+
 enc = AWTSequenceEncoder.createSequenceEncoder(File("/home/jbf/tmp/filename.mp4"),24)
 dd= '/tmp/ap/kris/'
 ff= listDirectory(dd+'demoSound_*.png')
@@ -892,7 +857,6 @@ for f in ff[0:10]:
 enc.finish()
 monitor.finished()
 ```
-
 See <https://sourceforge.net/p/autoplot/feature-requests/584/>.
 
 # Use Screenshots Tool and Pngwalk Verify
@@ -923,7 +887,6 @@ pngwalk tool so that they could be bound together:
 3. and bind their "SELECTED_NAME" property:
    * bind( pw1, pw1.PROP_SELECTED_NAME, pw2, pw1.PROP_SELECTED_NAME )
 ```
-
 The two pngwalks can be used to compare images now, advancing in one
 will advance on the other. Note the timerange property can be bound as
 well, for comparing pngwalks with different filenames or comparing a
@@ -986,7 +949,6 @@ use ffmpeg to split up the mp4 video into jpg files:
 ```
 ffmpeg -i chargeMac.mp4 /tmp/ap/frames%05d.jpg
 ```
-
 Now Autoplot can load each (or the aggregation) using
 /tmp/ap/frames%x.jpg.
 

@@ -14,9 +14,7 @@ ranges, and cadences for inputs.
    QDataSet value( QDataSet in );   // rank 1 input of N parameters and rank 1 output of M values.
    QDataSet exampleInput();
  }
-```
 
-```
  class DemoFunction implements QFunction {
    public QDataSet value( QDataSet in ) {
        return Ops.sin( in );
@@ -31,7 +29,6 @@ ranges, and cadences for inputs.
        return v;
  }
 ```
-
 This is slightly extended to simplify implementations and allow for more
 efficient use when multiple invocations will be made:
 
@@ -43,7 +40,6 @@ efficient use when multiple invocations will be made:
    QDataSet exampleOutput();        // call this when you just need the output.
  }
 ```
-
 Note that implementations of a QFunction may simply check the BUNDLE\_0
 property has not changed to know that none of the properties have
 changed.
@@ -66,7 +62,6 @@ Here is how QDataSet properties are interpreted in this case:
     * slice(0) is the first argument, slice(1) would be the second, etc.
     * This would be a bundle.
 ```
-
 # Rank handling
 
 QFunctions have two methods: value() and values(). `value` always takes

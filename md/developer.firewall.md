@@ -10,7 +10,6 @@ Folks at LANL are using these settings successfully:
 ```
 /usr/lib/jvm/jre-1.6.0-sun.x86_64/bin/java -Dhttp.proxyHost=proxyout.lanl.gov -Dhttp.proxyPort=8080 -Dhttp.noProxyHosts="*.lanl.gov" -jar /packages/lib/autoplot/autoplot.jar "$@"
 ```
-
 # Running under Webstart
 
   - Java Control Panel has Network Settings and Network Proxy Settings.

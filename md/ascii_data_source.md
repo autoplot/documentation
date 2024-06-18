@@ -49,7 +49,6 @@ disposed of. There can be failures, for example:
  2 3 4 5 
  1 2 3 4
 ```
-
 ![ascii\_data\_source\_wiki\_1.png](ascii_data_source_wiki_1.png
 "ascii_data_source_wiki_1.png")
 

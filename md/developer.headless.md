@@ -23,7 +23,6 @@ Java processes are run in headless mode with the command line argument:
 ```
 java -Djava.awt.headless=true -jar autoplot.jar
 ```
-
 In these examples, $JAVA is a Sun/Oracle Java version 1.8 or newer.
 $AUTOPLOT is the single-jar release of Autoplot, found at
 <http://autoplot.org/jnlp/latest/autoplot.jar>.
@@ -41,7 +40,6 @@ java -Djava.awt.headless=true \
   org.autoplot.pngwalk.CreatePngWalk --timeFormat='$(o,id=rbspa-pp)' \
   --timeRange=orbit:rbspa-pp:70-99 --vap=/home/jbf/ct/hudson/vap/rbsp_events.vap -o=pngwalk-rbsp/ --version=v1.2 --update
 ```
-
 This generates PNG images for the product
 /home/jbf/ct/hudson/vap/rbsp\_events.vap each day, only calculating the
 pngs that are missing.
@@ -59,13 +57,11 @@ can be used as well:
 ```
 $JAVA -jar $AUTOPLOT --headless --script /tmp/sayHello.jy
 ```
-
 where here's the /tmp/sayHello.jy script:
 
 ```
 print 'hello!'
 ```
-
 and example values for $JAVA and $AUTOPLOT are:
 
 ```
@@ -75,7 +71,6 @@ JAVA=/usr/local/jre1.8.0/bin/java
 ```
 AUTOPLOT=autoplot.jar
 ```
-
 To remove some of the complexity of the full application, a more direct
 method, better suited for servers, would be the org.autoplot.JythonMain
 class:
@@ -83,7 +78,6 @@ class:
 ```
 $JAVA -cp $AUTOPLOT -Djava.awt.headless=true org.autoplot.JythonMain --script /tmp/sayHello.jy
 ```
-
 In these examples, $JAVA is a Sun/Oracle Java version 1.8 or newer.
 $AUTOPLOT is the single-jar release of Autoplot, found at
 <http://autoplot.org/jnlp/latest/autoplot.jar>.
@@ -126,7 +120,6 @@ jython command with the script:
 from org.das2.util.filesystem import KeyChain
 KeyChain.getDefault().writeKeysFile()
 ```
-
 Note only a minimal amount of thought has gone into this, so please be
 careful with these facilities and use them at your own risk\!
 

@@ -48,25 +48,19 @@ limited, but it asserts maturity of the code.
     * the line thickness in pixels.
     */
    private double lineThick = 1.0;
-```
-  
-```
+
    /**
     * handle for the property lineThick.
     */
    public static final String PROP_LINETHICK = "lineThick";
-```
-  
-```
+
    /**
     * get the line thickness in pixels.
     * @return the line thickness in pixels.
     */
    public double getLineThick() {
    }
-```
-  
-```
+
    /**
     * set the line thickness in pixels.
     * @param newlineThick the line thickness in pixels.
@@ -74,7 +68,6 @@ limited, but it asserts maturity of the code.
    public void setLineThick(double newlineThick) {
    }
 ```
-
 This seems awfully redundant, but JavaBeans are redundant, and when
 things aren't consistent, you get strange behavior.
 
@@ -89,16 +82,10 @@ The javadoc @see should be used with either:
 ```
 @see #guessBackingStore(org.das2.qds.QDataSet) 
 ```
-
 or
 
 ```
 @see #copy(org.das2.qds.QDataSet) copy
 ```
-
 where "copy" is the label which describes the goal of the link, or
-
-```
-@see #copy(org.das2.qds.QDataSet) copy, which copies the data.
-```
 

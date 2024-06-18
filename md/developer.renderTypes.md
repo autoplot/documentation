@@ -25,7 +25,6 @@ interpolation is used to fill in squares of 4 data points.
 ```
 ds[X,Y]
 ```
-
 <http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000109>
 
 There is a plan to add new rebinning methods:
@@ -78,7 +77,6 @@ column.
 ```
 vap+inline:ripples(1000000)
 ```
-
 <http://cdaweb.gsfc.nasa.gov/istp_public/data/omni/hro_5min/$Y/omni_hro_5min_$Y$m01_v$v.cdf?proton_density&timerange=2000>
 
 # Digital
@@ -94,7 +92,6 @@ ds= dataset(3.34)
 ds.putProperty( QDataSet.LABEL, 'answer' )
 plot(ds)
 ```
-
 script:<http://autoplot.org/data/script/schemes/digital.jy>
 
 # Events Bar
@@ -108,7 +105,6 @@ bar shows the message.
 ds[:,4] where tstart,tstop,rgb,event
 ds[:,2] where t,event
 ```
-
 <http://autoplot.org/data/script/schemes/demoEventsBar.jyds>
 
 # Image
@@ -119,7 +115,6 @@ are painted as an image.
 ```
 ds[row,column,3] there the 3 is R,G,B.
 ```
-
 vap+jpg:http://autoplot.org/data/image/Capture\_00158.jpg
 
 # Orbit
@@ -131,7 +126,6 @@ shows a time parameter plotted along a trajectory.
 ds[:,3], an array of bundles of time, x, and y.
 Y[X[T]]
 ```
-
 script:<http://autoplot.org/data/script/schemes/orbitDemo.jy>
 
 vap+jyds:<http://autoplot.org/data/script/schemes/orbitPlot.jyds>
@@ -145,7 +139,6 @@ in the form:
 ```
 ds[angle,radius]
 ```
-
 where the angle is in radians or has units='deg'
 
 vap+jyds:<https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src/pitchAngleDistribution.jyds>

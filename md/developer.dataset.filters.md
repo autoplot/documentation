@@ -15,13 +15,11 @@ Dataset piped through a filter yields another dataset.
 ```
  DataSet | Filter -> DataSet
 ```
-
 This example removes spikes using median-of-three filter:
 
 ```
  DensityDS | median3 -> cleanDensityDS 
 ```
-
 ## One-parameter filter
 
 Dataset piped through a filter yields another dataset. The filter itself
@@ -30,14 +28,12 @@ takes a parameter, in parenthesis:
 ```
  DataSet | Filter(param) -> DataSet
 ```
-
 Here we smooth the data by running a 5-element boxcar average over the
 data:
 
 ```
  DensityDS | boxcar(5) -> SmoothDensityDS
 ```
-
 ## Streamable filter
 
 A streaming filter is one where the processing is done locally on the
@@ -47,7 +43,6 @@ filter,
 ```
  DensityDS | boxcar(5) -> SmoothDensityDS
 ```
-
 is streaming because once the boxcar calculation for point i is
 complete, we needn't access point i-2 again.
 
@@ -60,7 +55,6 @@ filter,
 ```
  WaveformDS | fft > FFTResultDS
 ```
-
 is non-streamable.
 
 ## Filters cannot have datasets as parameters
@@ -73,7 +67,6 @@ aggregated in NetCDF) into one dataset that is the argument:
  DS= bundle( Density1, Density2 )
  DS | innerProduct > Rho
 ```
-
 (Note Rho is a rank zero dataset.)
 
 ## Filters can change data structure
@@ -123,7 +116,6 @@ double array is returned and outputRank() should return 0.
     Object doFilter( double[][][][] in, ... );
  }
 ```
-
 An abstract class is used so that just two methods need to be defined:
 
 ```
@@ -133,7 +125,6 @@ An abstract class is used so that just two methods need to be defined:
     }
  }
 ```
-
 In AbstractFilter:
 
   - name() returns the name of the class, without the package name.
@@ -158,7 +149,6 @@ Syntax is more concise when using QDataSet:
     QDataSet doFilter( QDataSet in );
  }
 ```
-
 ## Python
 
 We wish to provide a language for defining filters that is as efficient
@@ -173,7 +163,6 @@ as possible.
           result[i]= result[i-1]+a[i]
        return result
 ```
-
 # Examples
 
 ## Java using double arrays
@@ -196,7 +185,6 @@ public class Median3 extends AbstractFilter {
   }
 }
 ```
-
 ## Python with double array
 
 ```
@@ -211,7 +199,6 @@ class Median3(AbstractFilter):
          (t1,t2)= (t2,in[i])
       return result   
 ```
-
 ## Python with QDataSet (note it's very similar to the array code)
 
 ```
@@ -226,7 +213,6 @@ class Median3(AbstractFilter):
          (t1,t2)= (t2,in[i])
       return result
 ```
-
 # Use Cases
 
 ## Autoplot URIs

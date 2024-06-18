@@ -56,13 +56,11 @@ case we might format the names of the files like so:
 ```
 product_$4(o,id=rbspa-pp).png
 ```
-
 instead of
 
 ```
 product_$Y$m$d.png
 ```
-
 The default field length will be 5 characters and the default pad will
 be underscore. The digit prefixing the field (4) identifies the length,
 and the pad keyword identifies pad character (only \_ and 0 are
@@ -71,7 +69,6 @@ supported):
 ```
 product_$4(o,id=rbspa-pp,pad=0).png
 ```
-
 ## Multiple Orbit Ranges
 
 Surely people will want to be able to specify multiple orbits. As with

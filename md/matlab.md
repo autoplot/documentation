@@ -34,7 +34,6 @@ You can verify the Java version by calling the Java method:
 ans =
 1.8.0_181
 ```
-
 ## Connecting the Jar File
 
 In either case, you'll need to download the Autoplot "single jar"
@@ -59,13 +58,11 @@ command "javaaddpath":
 ```
 MATLAB> javaaddpath( '/tmp/autoplot.jar' )
 ```
-
 Note this can be a URL, like
 
 ```
 MATLAB> javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )
 ```
-
 Note older versions of Matlab use Java 6 and will not work with Autoplot
 version v2015a\_5 and newer.
 
@@ -77,7 +74,6 @@ APDataSet v1.6.5
 Java Version 1.8.0_181
 disabling HTTP certificate checks.
 ```
-
 ## First Read of Data
 
 ![Autoplot can be used to read data into IDL and
@@ -92,7 +88,6 @@ read data into Autoplot.
 MATLAB> apds.setDataSetURI( '`<http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`' )
 MATLAB> apds.doGetDataSet
 ```
-
 Note there's a bug where MATLAB is unable to read AbstractPreferences,
 and you see an error message associated with this. This message can be
 ignored. Note the default autoplot\_data/fscache must always be used.
@@ -105,12 +100,9 @@ apds =
 ```
 data: data[dep0=288] (dimensionless)
 dep0: dep0[288] (days since 1899-12-30T00:00:00.000Z) (DEPEND_0)
-```
 
-```
 MATLAB> plot( apds.values )
 ```
-
 ## QDataSet in this Interface
 
 This interface is meant to provide access to anything that can be
@@ -129,13 +121,11 @@ object. This should simplify use in the environments. We say:
 dep0Name= apds.depend(0)
 x= apds.values( dep0Name );
 ```
-
 or
 
 ```
 x= apds.values( apds.depend(0) );
 ```
-
 Another difference is that the apds is mutable, meaning its state can be
 changed, whereas QDataSets are generally immutable. For example, you can
 tell the apds what your preferred units are, affecting what is returned
@@ -148,19 +138,15 @@ You can access the dataset properties like so:
 ```
 dsp= apds.properties( )
 dsp.get('NAME')
-```
-  
-```
+
 yp= apds.properties( 'dep0' )
 yp.get('UNITS') 
 ```
-
 or
 
 ```
 apds.property( 'dep0', 'UNITS' )
 ```
-
 # The Rest of the Reader Interface
 
 What are the X values? They are in some strange unit that the data
@@ -172,7 +158,6 @@ want:
 apds.setPreferredUnits( 'hours since 2007-01-17T00:00' )
 plot( apds.values('dep0'), apds.values() ) 
 ```
-
 Here are some example units strings: seconds since 2010-01-01T00:00,
 days since 2010-01-01T00:00, Hz, MHz. Note Autoplot's units are not
 fully developed, and conversions are not always possible.
@@ -182,7 +167,6 @@ We also can work with fill data:
 ```
 apds.setFillValue( -999 )
 ```
-
 This will convert whatever fill is in the dataset to this value. This
 saves the developer the time of reading what the fill, validmin, and
 validmax are in the QDataSet.
@@ -195,7 +179,6 @@ Other classes Autoplot uses can be accessed. For example,
 sc= org.autoplot.ScriptContext;
 x= sc.getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
 ```
-
 lists all the variables in the CDF file.
 
 #### Format datasets from MATLAB
@@ -208,7 +191,6 @@ ds= dsu.asDataSet( rand( 200,1 ) )    % adapt Matlab array to QDataSet.
 sc= org.autoplot.ScriptContext;
 sc.formatDataSet( ds, '/tmp/foo.cdf?randata' )
 ```
-
 The extension is used to control the output format.
 
 ## Static methods in Matlab
@@ -220,7 +202,6 @@ Matlab> dr= org.das2.datum.DatumRangeUtil.parseTimeRange('2014-02')
 Matlab> ff= afsm.getFilesFor( dr );
 Matlab> print ff(0).toString()
 ```
-
 # Problems
 
 There are some technical issues with all this.
@@ -249,7 +230,6 @@ apds.doGetDataSet;
 apds.setPreferredUnits( 'hours since 2019-01-17' );
 plot( apds.values( apds.depend(0) ), apds.values );
 ```
-
 Read Emfisis waveform files:
 
 ```
@@ -260,31 +240,25 @@ apds.doGetDataSet;
 apds.setPreferredUnits( 'seconds since 2013-10-03T17:00' );
 plot( apds.values( apds.depend(1) ), apds.slice(1) );
 ```
-
 We wish to easily write Excel files (.xls). This script allows us to do
 this with Autoplot:
 
 ```
 javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )
 SC= org.autoplot.ScriptContext; 
-```
-  
-```
+
 tt= org.das2.qds.ops.Ops.labels( {  'experiment_1', 'experiment_2' } );  %  There's a warning about "No constructor 'org.das2.qds.ops.Ops' with matching signature found."  This is new.
 ll= org.das2.qds.ops.Ops.labels( { 'ch1','ch2','ch3','ch4','ch5','ch6' } );
 ds= org.das2.qds.ops.Ops.rand(2,6);
 ds= org.das2.qds.DataSetUtil.asDataSet( ds );
 ds= org.das2.qds.ops.Ops.link( tt, ll, ds );
 SC.formatDataSet( ds, '/tmp/mydata.xls?sheet=sh1' );
-```
-  
-```
+
 ds= rand(2,6);
 ds= org.das2.qds.DataSetUtil.asDataSet( ds );
 ds= org.das2.qds.ops.Ops.link( tt, ll, ds );
 SC.formatDataSet( ds, '/tmp/mydata.xls?sheet=sh2&append=T' );
 ```
-
 # Previous Documentation
 
   - Some older scripts show how to pass data to Autoplot from IDL and

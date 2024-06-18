@@ -46,7 +46,6 @@ includes the methods:
 void setFilter( String filter )
 String getFilter()
 ```
-
 Also to preserve the existing functionality of the slice GUI, we would
 need:
 
@@ -54,7 +53,6 @@ need:
 void addPropertyChangeListener()   to register a listener to the GUI, that will be called when a change is indicated to the rest of the system
 void setInput( QDataSet ds )  to allow the droplist to display named dimensions.
 ```
-
 ## Words for things
 
 "Filter" refers to an operation that takes one dataset argument and some

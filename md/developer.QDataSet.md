@@ -46,7 +46,6 @@ density.length() --> 1440
 density.value(0) --> 2.3
 density.property( 'UNITS' ) -> 'cm**-3'
 ```
-
 This dataset is called a "rank 1" dataset, because one index (0) is used
 to access the numbers. Of course we want to know when each measurement
 was taken, so we query for a DEPEND\_0 property:
@@ -57,14 +56,12 @@ time.rank()      --> 1
 time.value(0)    --> 1.4832294E9   (2017-01-01T10:00Z)
 time.property( 'UNITS' )  -->  'seconds since 1970-01-01T00:00Z'
 ```
-
 To encourage a standard method for concisely representing these
 datasets, density would be printed as:
 
 ```
 density[time=1440]
 ```
-
 Note, independent data has no "DEPEND\_0" property. Dependent data has a
 "DEPEND\_0" property. This rank 1 dataset occupies two physical
 dimensions: one for density and one for time.
@@ -81,7 +78,6 @@ flux.property( 'UNITS' ) --> '1/(cm^2-s-sr)'
 flux.property( 'DEPEND_0' ) --> time
 flux.property( 'DEPEND_1' ) --> energy
 ```
-
 # Rank 0 Datasets
 
 Often it's useful to express single measurements, and rank 0 datasets
@@ -91,7 +87,6 @@ data at the slice location. So:
 ```
 density.slice(0) --> '2.3 cm**-3', a rank 0 dataset
 ```
-
 This rank 0 dataset's value can be accessed (with value()), and it still
 has properties.
 
@@ -99,13 +94,11 @@ has properties.
 d1= density.slice(0)
 d1.property( 'UNITS' ) --> 'cm**-3'
 ```
-
 The time value is still carried along with the data:
 
 ```
 d1.property( 'CONTEXT_0' ) --> t1, also a rank 0 dataset.
 ```
-
 # Vector Time Series
 
 The QDataSet representing a vector time series, like a three-component B
@@ -120,7 +113,6 @@ bgsm.value(0,0) --> 2.338 nT
 bgsm.value(0,1) --> -7.167 nT
 bgsm.value(0,2) --> -0.576 nT
 ```
-
 But how do we know which component is which? Instead of a DEPEND\_1
 describing the second index, we find a property BUNDLE\_1. This is a
 dataset that contains properties for each index. So,
@@ -130,7 +122,6 @@ bds= bgsm.property( 'BUNDLE_1' )
 bds.length() -->  3
 bds.property('LABEL',0)  -->  "Bx (GSM)"
 ```
-
 This dataset has dimensions \[3,0\].
 
 Note sometimes it is sufficient to have just labels for each component,
@@ -161,7 +152,6 @@ jds.slice(0).property('DEPEND_0')  --> Time[120]
 jds.slice(1).property('DEPEND_0')  --> Time[300]
 jds.slice(0).property('DEPEND_1')  --> Energy[27]
 ```
-
 A join dimension can be considered an "array of" dimension, so it could
 be used to indicate when measurement cadence changes as well.
 
@@ -240,7 +230,6 @@ plot( bz / bmag )
 angle= toDegrees( acos( bz/bmag ) )
 r= where( angle.lt( 15 ) )
 ```
-
 bz/bmag is a dimensionless quantity with the label "(Bz GSE)/(\<|B|\>
 (nT))", and is still has DEPEND\_0 equal to time.
 
@@ -253,7 +242,6 @@ example, suppose we want to multiply each measurement by 10:
 bgse= getDataSet( 'vap+cdf:`<http://autoplot.org/data/autoplot.cdf?BGSEc>`' )
 bz= bgse[:,2] * 10
 ```
-
 Here the 10 is converted to the rank 0 dataset, and then the rank 0
 dataset is repeated to make a rank 1 dataset of the same geometry.
 
@@ -263,7 +251,6 @@ QDataSets. For example, you can say:
 ```
 r= where( angle.lt('15 degrees') ) 
 ```
-
 to make code more explicit. Note that if angle were in radians, that it
 would have been converted to degrees automatically so that the two could
 be compared, or an error would be thrown if the units could not be
@@ -302,7 +289,6 @@ penalty is severe. For example:
 ```
  if ( 0==DataSetAnnotations.getInstance().getAnnotation(ds,DataSetAnnotations.ANNOTATION_INVALID_COUNT) { ... optimize ...}
 ```
-
 An associated problem with this is that many of the operators have
 inefficient implementations that are there to support mutations in
 jython. For example, Ops.findgen(200000) actually returns a FDataSet

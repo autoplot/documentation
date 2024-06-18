@@ -12,7 +12,6 @@ rank 2 datasets. Analogies:
   "hello".charAt(4)='o'
   ([[2,3,4],[4,5,6],[6,7,8]])[1]= [4,5,6]
 ```
-
 DataSetUtil.slice0(QDataSet,int) has defined slicing thus far.
 
 Trimming is taking a subset of a dataset. It takes to integer arguments,
@@ -22,7 +21,6 @@ the start and end.
   "hello".trim(1,3)= "el"
   ([22,23,24,25,26,27,28]])[1:3]= [23,24]
 ```
-
 There is no stride argument for subsetting.
 DataSetUtil.trim(QDataSet,int,int). Negative indexes are allowed.
 
@@ -66,7 +64,6 @@ instanceof is used to check.
 ```
  QDataSet<-MutablePropertiesDataSet<-WritableDataSet
 ```
-
 Instead, we use calls to the capabilities method:
 
 ```
@@ -74,7 +71,6 @@ Instead, we use calls to the capabilities method:
  WriteCapability write= ds.capability( WriteCapability.class );
  write.putValue( 99, -1e31 );
 ```
-
 This has the virtue of allowing capabilities to be removed, and existing
 objects extended. (We need to consider putCapability as well.)
 
@@ -101,7 +97,6 @@ to QDataSet? Here it is as a capability:
  Slice s= ds.capability( Slice.class );
  if ( s!=null ) s.slice( 1 )
 ```
-
 The lookup could be buried in DataSetOps.slice0, and the dataset wrapper
 avoided. So there is no additional syntax burden here.
 
@@ -111,7 +106,6 @@ If it were an extension to the interface:
  ds= DDataSet.createRank2( 5,30 );
  ds.slice( 1 )
 ```
-
 but then dataset implementations must implement this as well. Note that
 most datasets extend AbstractDataSet, and this is not overly burdensome.
 

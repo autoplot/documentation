@@ -407,7 +407,6 @@ Any of these templates would describe these files: `data_$Y-$m-01.txt`
 ```
 data_$Y-$m-$(d;delta=1m).txt` `data_$Y-$(m;delta=1)-$d.txt
 ```
-
 *shift example*
 
 Sometimes file names contain date elements for a begin time and and end
@@ -500,16 +499,13 @@ seconds). Modifier:
 Generation example: Each file contains 5 seconds of data. Template
 ```
 2001-01-01-0000$(S;delta=5).txt
-```
 
-```
 2001-01-01-000000.txt
 2001-01-01-000005.txt
 2001-01-01-000010.txt
 2001-01-01-000015.txt
 2001-01-01-000020.txt
 ```
-
 Parsing example: Images are taken roughly every five seconds. Template
 is `2001-01-01-0000$S.txt` and list is
 
@@ -520,7 +516,6 @@ is `2001-01-01-0000$S.txt` and list is
 2001-01-01-000015.png
 2001-01-01-000019.png
 ```
-
 software infers timestamps of each image.
 
 Parsing example: When something interesting happens, data are logged for
@@ -531,7 +526,6 @@ Parsing example: When something interesting happens, data are logged for
 2001-01-01-000031.txt
 2001-01-01-000045.txt
 ```
-
 ## periodic
 
 A periodic integer value such as a completely regular orbit number.
@@ -549,7 +543,6 @@ Example: Bartels rotation number
 ```
 data_bartels_$(periodic;offset=2285;start=2000-346T00:00;period=27d).txt
 ```
-
 sample filenames for time range of 2001-01-01 through 2001-03-05
 
 ```
@@ -558,7 +551,6 @@ data_bartels_2286.txt
 data_bartels_2287.txt
 data_bartels_2288.txt
 ```
-
 ## enum
 
 **URI templates with $(enum) can be used for generation or parsing.**
@@ -579,7 +571,6 @@ Example: Data from two instruments, A and B, are saved in daily files.
 2000-01-02-A.dat
 2000-01-02-B.dat
 ```
-
 Template: `$Y-$m-$d-$(enum;values=A,B)`.
 
 To communicate the meaning of the values, the optional `id` modifier may
@@ -647,7 +638,6 @@ For these files, the template would be:
 ```
 http://example.com/summary_images/$Y/$(b;case=cap)/DOY$j/sdpk2_$y$j$(hrinterval;values=a,b).gif
 ```
-
 ## subsec
 
 **URI templates with $(subsec) can be used for generation or parsing.**
@@ -770,7 +760,6 @@ wildcard elements.
 ```
 http://example.com/data/$Y/$Y_$m_$d/$(x;regexp='\d{1,5}')/fa_k0_dcf_$(x;regexp='\d{1,5}')_$(x;regexp='(?:in|on|is|os)').gif
 ```
-
 ## ver
 
 Indicates the version of the URI template specification to use for
@@ -798,7 +787,6 @@ If the timerange is 2000-01-01/2000-01-03, the file list is
 data_2000_01_01.txt
 data_2000_01_02.txt
 ```
-
 If the time width is different than the default, it can be manually
 specified using the `delta` modifier. When URIs are parsed, the duration
 will be set to the time duration given by the value of the `delta`
@@ -807,7 +795,6 @@ modifier. For example, the template
 ```
 data_$Y_$m_$d_$(H;delta=6).txt
 ```
-
 could be used when filenames have only hour values of 00, 06, 12, 18. If
 the timerange is 2000-01-01/2000-01-03, the file list is
 
@@ -821,7 +808,6 @@ data_2000_01_02_06.txt
 data_2000_01_02_12.txt
 data_2000_01_02_18.txt
 ```
-
 Note that the `delta` applies to the entire begin time. Also, the units
 of the `delta` default to those of the time field on which the `delta`
 is being applied, although other units may be used.
@@ -831,7 +817,6 @@ For example, in the template
 ```
 data_$(Y;delta=6H)_$m_$d_$H.txt
 ```
-
 the `6H` for the `delta` applies to the entire start date, so only hours
 00, 06, 12, 18 are present. If the timerange is 2000-01-01/2000-01-03,
 the file list is the same as that in the previous example:
@@ -846,7 +831,6 @@ data_2000_01_02_06.txt
 data_2000_01_02_12.txt
 data_2000_01_02_18.txt
 ```
-
 The hour, minute, second, and also the month date fields have a natural
 defaults for their starting points (hours start at a day boundary,
 minutes at an hour boundary, seconds start at the minute boundary, and
@@ -864,7 +848,6 @@ Example: Data files of three-day duration starting on a specific day:
 ```
 data_$Y_$m_$(d;delta=3;phasestart=2013-01-01).txt
 ```
-
 Given a date range of 2013-01-01 to 2013-01-08 results in
 
 ```
@@ -872,7 +855,6 @@ data_2013_01_01.txt
 data_2013_01_04.txt
 data_2013_01_07.txt
 ```
-
 NOTE: Do not confuse the `phasestart` with the start time of the
 dataset. They might be the same, but they do not have to coincide. In
 the example above, the `phasestart` is just the beginning of ANY of the
@@ -961,7 +943,6 @@ Data files with a 4-day duration
 ```
 ace_mag_$Y_$(j;delta=4;phasestart=2005-01-09)_to_$(Y;end)_$j_$H.cdf
 ```
-
 <!-- end list -->
 
   -   
@@ -1051,7 +1032,6 @@ Examples:
 ```
 data_$(j;Y=2004)_$H$M.txt
 ```
-
 <!-- end list -->
 
   - Same as the above example where the context date can be set on any
@@ -1063,7 +1043,6 @@ data_$(j;Y=2004)_$H$M.txt
 ```
 data_$j_$H$(M;Y=2004).txt
 ```
-
 <!-- end list -->
 
   - Set the context year to be 2004 and the day of year to be 365
@@ -1074,7 +1053,6 @@ data_$j_$H$(M;Y=2004).txt
 ```
 data_$H$(M;Y=2004;j=365).txt
 ```
-
 # Appendix
 
 ## Extending the standard

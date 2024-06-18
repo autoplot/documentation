@@ -53,7 +53,6 @@ Accept-Ranges: bytes
 Content-Length: 20539528
 Content-Type: text/plain
 ```
-
 I touch the jar file and use javaws to run the app. I can see it
 reloading the jar file.
 
@@ -76,7 +75,6 @@ Accept-Ranges: bytes
 Content-Length: 20539528
 Content-Type: text/plain
 ```
-
 ## Experiment on autoplot.org
 
 ```
@@ -95,7 +93,6 @@ Cache-Control: max-age=31536000
 Expires: Thu, 03 Jan 2013 20:40:58 GMT
 Content-Type: application/x-gzip
 ```
-
 And after touching the file on the server...
 
 ```
@@ -114,7 +111,6 @@ Cache-Control: max-age=31536000
 Expires: Thu, 03 Jan 2013 21:12:14 GMT
 Content-Type: application/x-gzip
 ```
-
 # Desktop icon issues
 
 **Experiment 0**
@@ -210,7 +206,6 @@ result in icon on desktop on Mac + Chrome.
 ```
 wget` saves as `jnlp2.cgi
 ```
-
 `curl&nbsp;-I&nbsp;`&lt;http://autoplot.org/cgi-bin/jnlp2.cgi&gt;  
   
 ```
@@ -220,12 +215,9 @@ Server: Apache/2.2.14 (Ubuntu)
 Content-disposition: attachment;filename="autoplot.jnlp"
 Cache-control: no-cache, no-store, must-revalidate
 Content-Type: application/x-java-jnlp-file
-```
 
-```
 wget` saves as `autoplot.jnlp
 ```
-
 `curl&nbsp;-I&nbsp;`&lt;http://autoplot.org/cgi-bin/autoplot.jnlp&gt;
 
 ```
@@ -235,12 +227,9 @@ Server: Apache/2.2.14 (Ubuntu)
 Content-disposition: attachment;filename="autoplot.jnlp"
 Cache-control: no-cache, no-store, must-revalidate
 Content-Type: application/x-java-jnlp-file
-```
 
-```
 wget` saves as `autoplot_attachment.cgi
 ```
-
 `curl&nbsp;-I&nbsp;`&lt;http://autoplot.org/cgi-bin/jnlp_attachment.cgi&gt;  
   
 ```
@@ -250,12 +239,9 @@ Server: Apache/2.2.14 (Ubuntu)
 Content-disposition: attachment;filename="autoplot.jnlp"
 Cache-control: no-cache, no-store, must-revalidate
 Content-Type: application/x-java-jnlp-file
-```
 
-```
 wget` saves as `autoplot_no_content_disposition.cgi
 ```
-
 `curl&nbsp;-I&nbsp;`&lt;http://autoplot.org/cgi-bin/jnlp_no_content_disposition.cgi&gt;  
   
 ```
@@ -264,19 +250,8 @@ Date: Sat, 25 Feb 2012 15:27:56 GMT
 Server: Apache/2.2.14 (Ubuntu)
 Cache-control: no-cache, no-store, must-revalidate
 Content-Type: application/x-java-jnlp-file
-```
 
-```
 wget` saves as `autoplot_inline.cgi
 ```
-
 `curl&nbsp;-I&nbsp;`&lt;http://autoplot.org/cgi-bin/jnlp_inline.cgi&gt;  
   
-```
-HTTP/1.1 200 OK
-Date: Sat, 25 Feb 2012 15:25:39 GMT
-Server: Apache/2.2.14 (Ubuntu)
-Content-disposition: inline;filename="autoplot.jnlp"
-Content-Type: application/x-java-jnlp-file
-```
-

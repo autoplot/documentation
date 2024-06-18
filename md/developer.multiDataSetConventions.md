@@ -14,14 +14,12 @@ x= vap+bin:/tmp/foo.bin?recLength=16&recOffset=4
 y= vap+bin:/tmp/foo.bin?recLength=16&recOffset=8
 plot( x,y )
 ```
-
 You would have:
 
 ```
 ds= vap+bin:/tmp/foo.bin?recLength=16&dep0.recOffset=4&recOffset=8
 plot( ds )
 ```
-
 This would implicitly create a DEPEND\_0 dataset read in with the same
 arguments, except for recOffset. Or more importantly:
 
@@ -31,11 +29,5 @@ z= vap+bin:/tmp/foo.bin?recLength=16&recOffset=8&byteOffset=16
 y= vap+bin:/tmp/foo.bin?recLength=16&recOffset=8&byteOffset=0&recCount=1
 plot( x,y,z )
 ```
-
 becomes:
-
-```
-ds= vap+bin:/tmp/foo.bin?recLength=16&dep0.recOffset=4&recOffset=8&byteOffset=16&dep1.recCount=1&dep1.byteOffset=0
-plot( x,y,z )
-```
 

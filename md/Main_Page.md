@@ -88,7 +88,6 @@ $('\#stats').append($('\#rm\_pkI1\_')); $('\#rm\_pkI1\_').wrap('
 ```
  //$($(".external:contains('Start Autoplot')")).attr('href','`<http://autoplot.org/help#Installation>`').attr('Title','Linux operating system detected - link goes to special WebStart instructions');
 ```
-
 }
 
 ```
@@ -101,7 +100,6 @@ $('\#stats').append($('\#rm\_pkI1\_')); $('\#rm\_pkI1\_').wrap('
        a.appendChild(r);
    })(window,document,'`<https://static.hotjar.com/c/hotjar->`','.js?sv=');
 ```
-
 });
 
 </script>

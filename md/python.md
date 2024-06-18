@@ -54,7 +54,6 @@ Unix> export PYTHONPATH=~/lib64/python
 Unix> python
 >>> from jpype import startJVM, JPackage     # verify that we can import it without ImportError
 ```
-
 ### Ubuntu Linux Notes
 
 I had to install python-dev:
@@ -84,7 +83,6 @@ Larry at The University of Iowa succeeded in using pip to install:
 yum -y install python-pip
 pip2.6 install jpype1
 ```
-
 ## Using condas
 
 Using Anaconda and Spyder, I was able to add jpype and then run the
@@ -93,7 +91,6 @@ scripts from the command line:
 ```
 ./conda install -c conda-forge jpype1
 ```
-
 ## Connecting the Jar File
 
 In either case, you'll need to download the Autoplot "single jar"
@@ -122,7 +119,6 @@ and autoplot.jar can be downloaded from
 QDataSetBridge v2.1.0
 APDataSet v1.5.0
 ```
-
 If you are using Spyder, note Spyder keeps the Python session open, and
 you only need to start the JVM once. So here is a code which addresses
 the issue:
@@ -133,7 +129,6 @@ try:
 except:
    print 'JVM already started'
 ```
-
 At <https://github.com/autoplot/python>, we have a project which hopes
 to make use in Python as easy as possible. This can be downloaded and
 added to Python by hand, or using pip, it's:
@@ -141,7 +136,6 @@ added to Python by hand, or using pip, it's:
 ```
 pip install autoplot
 ```
-
 This will make things more like use in Matlab, where the jar file is
 downloaded and JVM automatically started:
 
@@ -150,7 +144,6 @@ downloaded and JVM automatically started:
 >>> org= javaaddpath('`<http://autoplot.org/devel/autoplot.jar>`')
 >>> apds = org.autoplot.idlsupport.APDataSet()
 ```
-
 ## First Read of Data
 
 Suppose you have been using the Autoplot URI (data address)
@@ -160,23 +153,18 @@ data into Autoplot.
 ```
 >>> apds.setDataSetURI( '`<http://autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`' )
 >>> apds.doGetDataSet()
-```
-  
-```
+
 >>> print( apds.toString() )
 ```
 <http://autoplot.org/data/swe-np.xls?column=data&depend0=dep0>  
 ```
 data: data[dep0=288] (dimensionless)
 dep0: dep0[288] (days since 1899-12-30T00:00:00.000Z) (DEPEND_0)
-```
-  
-```
+
 >>> vv= apds.values()
 >>> print( vv[0] )
 3.4716999530792236
 ```
-
 ## QDataSet in this Interface
 
 This interface is meant to provide access to anything that can be
@@ -196,13 +184,11 @@ For example, we say:
 dep0Name= apds.depend(0)
 x= apds.values( dep0Name )
 ```
-
 or
 
 ```
 x= apds.values( apds.depend(0) )
 ```
-
 Another difference is that the apds is mutable, meaning its state can be
 changed, whereas QDataSets are generally immutable. For example, you can
 tell the apds what your preferred units are, affecting what is returned
@@ -215,19 +201,15 @@ You can access the dataset properties like so:
 ```
 dsp= apds.properties( )
 print dsp.get('NAME')
-```
-  
-```
+
 yp= apds.properties( 'dep0' )
 print yp.get('UNITS') 
 ```
-
 or
 
 ```
 print apds.property( 'dep0', 'UNITS' )
 ```
-
 # The Rest of the Reader Interface
 
 What are the X values? They are in some strange unit that the data
@@ -241,7 +223,6 @@ import matplotlib.pyplot as plt
 plt.plot( apds.values('dep0'), apds.values(), '.-' ) 
 plt.show( ) 
 ```
-
 Here are some example units strings: seconds since 2010-01-01T00:00,
 days since 2010-01-01T00:00, Hz, MHz. Note Autoplot's units are not
 fully developed, and conversions are not always possible.
@@ -251,7 +232,6 @@ We also can work with fill data:
 ```
 apds.setFillDouble( -999 )
 ```
-
 This will convert whatever fill is in the dataset to this value. This
 saves the developer the time of reading what the fill, validmin, and
 validmax are in the QDataSet.
@@ -264,7 +244,6 @@ vv= to_ndarray( apds, 'DST' )
 tt= toDateTime( apds, 'Epoch' )
 plt.plot( tt, vv )
 ```
-
 # Access other Autoplot classes
 
 Other classes Autoplot uses can be accessed. For example,
@@ -276,7 +255,6 @@ org= jpype.JPackage("org")
 sc= org.autoplot.ScriptContext
 x= sc.getCompletions( '`<http://autoplot.org/data/somedata.cdf>`?')
 ```
-
 lists all the variables in the CDF file.
 
 #### Format datasets from Python
@@ -292,7 +270,6 @@ ds= dsu.asDataSet( ops.link( ops.timegen('1999-01-01T00:00Z', '1s', 200 ), ops.r
 sc= org.autoplot.ScriptContext
 sc.formatDataSet( ds, '/tmp/foo.xls' )
 ```
-
 TODO: use a NumPy array. This doesn't work for me.
 
 #### adapt NumPy
@@ -314,7 +291,6 @@ sc.formatDataSet( ds, '/tmp/oneD.cdf' )
 ```
 `
 ```
-
 I had trouble with the two-D case (numpy.zeros(20,30)).
 
 ## Static methods in Python
@@ -329,7 +305,6 @@ dr= dru.parseTimeRange('2014-02')
 ff= afsm.getFilesFor( dr )      # this will download all files in the interval
 for f in ff: print f.toString()
 ```
-
 # Problems
 
 See <http://autoplot.org/idl#Problems>.
@@ -353,9 +328,7 @@ This example assumes you have jpype and matplotlib installed:
 
 ```
 javalib= '/usr/local/jdk1.8/jre/lib/amd64/server/libjvm.so' # you will need to set this to your JVM
-```
-  
-```
+
 from jpype import *
 import urllib
 urllib.urlretrieve( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`', '/tmp/autoplot.jar' )
@@ -377,15 +350,12 @@ import matplotlib.pyplot as plt
 plt.plot( apds.values('Epoch'), apds.values(), '.-' )
 plt.show()
 ```
-
 Here's a Juno example which was crashing Python with an old version of
 jpype:
 
 ```
 javalib= '/usr/local/jdk1.8/jre/lib/amd64/server/libjvm.so' # you will need to set this to your JVM
-```
-  
-```
+
 from jpype import *
 import urllib
 urllib.urlretrieve( '`<http://autoplot.org/jnlp/devel/autoplot.jar>`', '/tmp/autoplot.jar' )
@@ -399,7 +369,6 @@ import matplotlib.pyplot as plt
 plt.plot( apds.values('ds_1'), apds.values('fce'), '.-' )
 plt.show()
 ```
-
 I believe this has something to do with the length of the data. If I
 load just the first 100000 points, it's fine. plt.plot( xx\[0:\],
 yy\[0:\] ) gives a message about "signed integer is greater than

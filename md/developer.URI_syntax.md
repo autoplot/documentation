@@ -38,28 +38,23 @@ All URIs are implicitly "vap", so
 ```
  /home/jbf/mydata.qds
 ```
-
 is translated to the explicit URI
 
 ```
  vap+qds:`<file:///home/jbf/mydata.qds>`.
 ```
-
 # Syntax
 
 ```
  vap[+`<dataSourceID>`:](http|https|ftp|file)://[`<user>`[:`<password>`]@]`<auth>`/`<filepath>`/`<filename>`[.`<ext>`][;`<serverQueryParams>`][?`<dataSourceParams>`][|`<filter>`]*
  \--- data source ---/\----------------------------------------file resource-------------------------------------------------/\---- data source --/\--filters-/
  \--- data source ---/\----------------------------------------resource URI--------------------------------------------------/\---- data source --/\--filters-/
-```
-  
-```
+
  alternate being considered that uses hash (#) to delimit the server-side and client-side parts (no hash implies all client-side):
  vap[+`<dataSourceID>`:](http|https|ftp|file)://[`<user>`[:`<password>`]@]`<auth>`/`<filepath>`/`<filename>`[.`<ext>`][&`<serverQueryParams>`][#`<dataSourceParams>`][|`<filter>`]*
  \--- data source ---/\----------------------------------------file resource-------------------------------------------------/\---- data source --/\--filters-/
  vap[+`<dataSourceID>`:](http|https|ftp|file)://[`<user>`[:`<password>`]@]`<auth>`/`<filepath>`/`<filename>`[.`<ext>`][&`<dataSourceParams>`][!`<filter>`]*
 ```
-
 Note when the file resource protocol is http or https, a semicolon is
 used to delimit the server query params, and the last semicolon should
 be replaced with a question mark "?" before forming the URL. This is not
@@ -71,7 +66,6 @@ ultimately the DataSource must interpret the URI:
 ```
  vap+jbdc:mysql://192.168.0.203:3306/temperatures.sql?table=temperatures&depend0=time&temperature
 ```
-
 Sometimes the URI contains parameters that are used by the server and
 the DataSource. Here, the both the OpenDAP server and the DataSource use
 the parameter "Proton\_Density":
@@ -87,9 +81,7 @@ We the have conventional structure to the query part of the URI:
 
 ```
  ?Density(10000:20000:1000)&param1=value1&param2=value2
-```
 
-```
  data_source_params  =  [ ds_name_subset ] [ "&" param_name "=" param_value | switch_name ] *
  ds_name_subset      =  identifier [ "(" start_index ":" [ end_index ] [ ":" stride ] ")" ]
  param_name          =  identifier
@@ -107,7 +99,6 @@ We the have conventional structure to the query part of the URI:
  stride              =  digit+    (python supports negative stride, but no data sources do.)
  
 ```
-
 Note existing code uses brackets "\[" "\]" in subset, but this is
 discouraged in the URI spec <http://www.ietf.org/rfc/rfc2396.txt>
 
@@ -132,7 +123,6 @@ indexing.
  ::5      every fifth element
  -5:      the last five elements.
 ```
-
 Note some data sources don't follow this convention, such as the OpenDAP
 data source. In this case, the existing convention for OpenDAP is used.
 Data Sources must clearly document the convention used.
@@ -160,7 +150,6 @@ characters.
  L-Shell -> LShell
  V, km/s -> V_km_s
 ```
-
 When a label contains parentheses, these should be interpreted as
 providing a context for the data. In this case, the parenthesis contents
 should be mapped as with the label name, when the context cannot be
@@ -171,7 +160,6 @@ underscore.
  Bx(gsm) -> Bx_gsm
  Speed(km/s)->Speed UNITS=km_s
 ```
-
 Note that droplist should use the labels when presenting options, but
 then use these rules to create valid names (identifiers).
 
@@ -205,14 +193,12 @@ easier to specify the limit rather than form the end from the start:
  data[25:150]
  data[50:175]
 ```
-
 vs
 
 ```
  data[25:]&recCount=125
  data[50:]&recCount=125
 ```
-
 ### where(condition)
 
 subset with condition. Condition contains gt,lt,=,',and,or,etc to
@@ -221,7 +207,6 @@ constrain search. (e.g. constrain in sql query.)
 ```
  vap:sql:jbdc:mysql://192.168.0.203:3306/temperatures.sql?table=temperatures&temperature&depend0=time&where(temperature.lt(32.))
 ```
-
 The parameter names in the condition must match the dataset names.
 
 Note this is analogous to the trim operation when the condition is a
@@ -293,7 +278,6 @@ URI:
 ```
  timeFormat=$Y+$J+$H
 ```
-
 Also, a pair of parenthesis following the dollar sign (e.g.
 $(H;cadence=6)) should be used to further add template configuration.
 
@@ -301,7 +285,6 @@ $(H;cadence=6)) should be used to further add template configuration.
  /home/jbf/data/data$Y$J$(H;cadence=6).dat
  /home/jbf/data/cluster$(scid;enum=1,2,3,4).dat
 ```
-
 ## Automatic GUI creation
 
 It's important to establish norms for URI templates to allow for future
@@ -325,7 +308,6 @@ $(type=int;validmin=0;validmax=4)
 $(version;format='%4.2f')
 $(type=string,name=scid;enum=c1,c2,c3,c4,format='%2s',regex='c[1-4]')
 ```
-
 /home/jbf/data/data.bin?encoding=$(enum=pcm,alaw)\&scale=(float;name=scale;when(enum.eq(pcm)))
 
 ## reserved names for templates
@@ -379,7 +361,6 @@ other examples:
  vap:jbdc:mysql://192.168.0.203:3306/`<C>` shows a list of databases.
  /`<C>`        shows a list of local files in the root directory.
 ```
-
 # Discussion
 
 We wish to uniquely identify datasets with URIs.
@@ -414,7 +395,6 @@ with an extension. For example,
 ```
  bin.http://www.autoplot.org/data/autoplot.cdf
 ```
-
 uses the BinaryDataSource (.bin) to load the resource rather than
 CdfDataSource (.cdf).
 
@@ -424,7 +404,6 @@ explicitly specified. For example,
 ```
  vap+bin:http://www.autoplot.org/data/autoplot.cdf
 ```
-
 uses the BinaryDataSource (.bin) to load the resource rather than
 CdfDataSource (.cdf).
 
@@ -434,64 +413,39 @@ Here is the spec for the query section, from rfc3986:
 
 ```
 query         = *( pchar / "/" / "?" )
-```
-  
-```
+
 pchar         = unreserved / pct-encoded / sub-delims / ":" / "@"
-```
-  
-```
+
 pct-encoded   = "%" HEXDIG HEXDIG
-```
-  
-```
+
 unreserved    = ALPHA / DIGIT / "-" / "." / "_" / "~"
-```
-  
-```
+
 sub-delims    = "!" / "$" / "&" / "'" / "(" / ")"
               / "*" / "+" / "," / ";" / "="
 ```
-
 (and here is the rest, for convenience:)
 
 ```
 fragment      = *( pchar / "/" / "?" )
-```
-  
-```
+
 reserved    = gen-delims / sub-delims
-```
-  
-```
+
 gen-delims  = ":" / "/" / "?" / "#" / "[" / "]" / "@"
-```
-  
-```
+
 sub-delims  = "!" / "$" / "&" / "'" / "(" / ")"
             / "*" / "+" / "," / ";" / "="
-```
-  
-```
+
 authority   = [ userinfo "@" ] host [ ":" port ]
-```
-  
-```
+
 URI         = scheme ":" hier-part [ "?" query ] [ "#" fragment ]
-```
-  
-```
+
 hier-part   = "//" authority path-abempty
             / path-absolute
             / path-rootless
             / path-empty
-```
-  
-```
+
 scheme      = ALPHA *( ALPHA / DIGIT / "+" / "-" / "." )
-```
-  
-```
+
         foo://example.com:8042/over/there?name=ferret#nose
         \_/   \______________/\_________/ \_________/ \__/
          |           |            |            |        |
@@ -517,7 +471,6 @@ ftp://nssdcftp.gsfc.nasa.gov/spacecraft\_data/omni/omni2\_1972.dat?time=field0\&
 ```
 `
 ```
-
 And then .dat is resolved to AsciiTableDataSource elsewhere.
 
 ## fragment

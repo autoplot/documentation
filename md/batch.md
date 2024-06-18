@@ -28,7 +28,6 @@ else: iwb=0
 r= where( ds.eq( iwb ) )
 print r.length()
 ```
-
 The batch tool can be used to used to run this on each image in a set of
 files. In Autoplot, select \[menubar\]-\>Tools-\>Run Batch..., and then
 in the GUI select the script
@@ -106,6 +105,5 @@ list of seed, red, green, and blue values, split by a semicolon:
 1;100;0;100
 2;100;0;200
 ```
-
 This will set seed, red, green, and blue parameters for each step.
 

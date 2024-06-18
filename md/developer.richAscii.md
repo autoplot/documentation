@@ -11,7 +11,6 @@ column, like so:
 2011-01-01T00:00 0.12
 2011-01-01T00:01 0.14
 ```
-
 When data providers have the freedom to pick a data format, they may
 choose to use rich ASCII headers. These use JSON-formatted structures to
 identify metadata for each column, such as labels and units, but also
@@ -25,7 +24,6 @@ dependencies between columns can be declared.
 2011-01-01T00:00 0.12
 2011-01-01T00:01 0.14
 ```
-
 # format
 
 ```
@@ -38,7 +36,6 @@ dependencies between columns can be declared.
 ```
 ...
 ```
-
 NAME\_I should be a Java or C style identifier. (Exceptions like "L\*"
 work, but will be assigned a slightly different name for the QDataSet,
 which must have a conforming name.)
@@ -59,7 +56,6 @@ UNITS, string, units string that is made into canonical das2 units.  A list of d
    Note units like "seconds since 2010-01-01T00:00" can be used for times.  These are non-leap-seconds since the UT time.
    "UTC" should be used to indicate that the time is an ISO8601 formatted time (2016-06-16T01:23).
 ```
-
 Structural properties allow for more complex data:
 
 ```
@@ -74,14 +70,12 @@ DEPEND_1, string, refers to another column's NAME to assign values for the rank 
 DEPEND_0, string, refers to another column's NAME to assign values for the of data.  By default, the first column is used, but this can override.
 ENUM, array of string, enumerated data type.  0=the first element, 1=second element, etc.
 ```
-
 Any root-level JSON object that describes data will contain either:
 
 ```
 START_COLUMN, integer, starting column for the data, where 0 is the first column, or
 VALUES, array of doubles, values are defined in the rich header and not in the table below.  This is typically used for DEPEND_1.
 ```
-
 All other root-level JSON objects are considered to be metadata. Note
 too that each JSON object can contain arbitrary tags to be interpreted
 as metadata.
@@ -97,7 +91,6 @@ properties of the ascii file that follows. This may include the nodes:
   METADATA_STANDARD  ISTP or QDataSet.  Default is Autoplots QDataSet
   ENDIAN - BIG or LITTLE if binary, ignored if text.
 ```
-
 Note ENDIAN is present only because we want to reserve the option to
 allow the file following the JSON header to be binary data, used in
 conjunction with the FORMAT specifier. This binary data would begin
@@ -137,7 +130,6 @@ SCALE\_MIN/SCALE\_MAX would be used often (precise):
 2011-01-01T00:00 0.12
 2011-01-01T00:01 0.14
 ```
-
 Dimension property embeds higher rank data:
 
 ```
@@ -146,7 +138,6 @@ Dimension property embeds higher rank data:
 2011-01-01T00:00 0.12 0.13 0.14
 2011-01-01T00:01 0.14 0.15 0.16
 ```
-
 Dimension property embeds higher rank data, ELEMENTS allows components
 to be accessed
 
@@ -156,7 +147,6 @@ to be accessed
 2011-01-01T00:00 0.12 0.13 0.14
 2011-01-01T00:01 0.14 0.15 0.16
 ```
-
 # Use Cases
 
   - encode data that is impossible to derive using parser: e.g.
@@ -188,7 +178,6 @@ the columns must be adjacent.
 TIME e1 e2 e3 e4 e5
  
 ```
-
 Jon/Reiner: We talked about having "global" properties, such as the
 rec\_count and record format.
 
@@ -199,13 +188,10 @@ rec\_count and record format.
 # TIME DENSITY 
 2011-01-01T00:00 0.12 
 2011-01-01T00:01 0.14
-```
-  
-  
-```
+
+
 # B_gsm: { UNITS:nT, DIMENSION=3, ELEMENTS={ Bx, By, Bz }, "START_COLUMN":1}
 ```
-
 # Examples
 
   - <http://jfaden.net:8080/hudson/job/autoplot-test030/lastSuccessfulBuild/artifact/19820105_1981-025_CPA_l2_fcf-001.txt>

@@ -6,7 +6,6 @@ DataSource object. This means that though Autoplot uses URIs, URIS like
  vap+jbdc:mysql://192.168.0.203:3306/db=orbits&table=cluster1&column=orbitnum&dep0=time
  vap+dat:spawn://home/jbf/readers/cluster.sh
 ```
-
 are excluded.
 
 # Proposal

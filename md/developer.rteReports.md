@@ -45,7 +45,6 @@ Found 'UNKNOWN.001' State 16 Base64 Parts 1 OK
 unix> mv UNKNOWN.001 UNKNOWN.001.png
 unix> eog UNKNOWN.001.png
 ```
-
 ## load the vap
 
 The vap file within the report can be loaded by renamimg the exception
@@ -54,7 +53,6 @@ report and loading it:
 ```
 unix> cp rte_0751346092_20120808_212159_usern.xml rte_0751346092_20120808_212159_usern.xml.vap
 ```
-
 and then in autoplot load this vap. This works because the vap-loading
 code looks for exception report files and handles them specially. Also
 you can prefix the URL with "vapfile:" to force load of a resource as a

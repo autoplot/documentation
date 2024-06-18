@@ -22,31 +22,26 @@ following scheme:
 ```
 { 'size':[640,480], 'numberOfPlots':2, 'plots': [...] }
 ```
-
 The plots node is an array of:
 
 ```
 { 'title':'the title', 'xaxis': { ... }, 'yaxis': { ... } }
 ```
-
 with the yaxis, for example:
 
 ```
 { 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'top':78, 'bottom':644 }
 ```
-
 and the xaxis, for example:
 
 ```
 { 'label':'delay', 'min':0, 'max':10, 'type':'lin', 'units':'nT', 'left':78, 'right':644 }
 ```
-
 You can also have UTC times encoded in ISO8601:
 
 ```
 { 'label':'Epoch', 'min':'2013-01-01T00:00Z', 'max':'2013-01-02T00:00Z', 'type':'lin', 'units':'UTC', 'left':78, 'right':644 }
 ```
-
 # Examples
 
 For the image here (click to download),
@@ -67,7 +62,6 @@ there's the JSON block "plotInfo" within:
   ]
 }
 ```
-
 Try:
 
 ```
@@ -80,7 +74,6 @@ Try:
 ```
 `
 ```
-
 # Example Applications
 
   - Autoplot Thin Client

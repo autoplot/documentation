@@ -30,7 +30,6 @@ one where the renderType would get reset, demonstrated in
 ```
  `<http://sarahandjeremy.net:8080/hudson/job/autoplot-test100/>` test100_Test_3pt8_CopyPlotElementsDown.png 
 ```
-
   - load
     <http://www.rbsp-ect.lanl.gov/data_prot/rbspa/rept/level3/rbspa_pre_ect-rept-sci-L3_$Y$m$d_v$(v,sep>).cdf?FEDU\&timerange=2013-02-04
   - right-click, "Plot Style"-\>Spectrogram

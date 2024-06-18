@@ -133,17 +133,7 @@ dom.plotElements[0].component= '|histogram(0,200,1)'
 waitUntilIdle()
 dom.timeRange = dom.timeRange.next()
 ```
-
 ## Test005
 
 This verifies use case 8.
-
-```
-reset()
-plot( 0,'vap+cdaweb:ds=GE_K0_EFD&id=Ss&filter=geo&timerange=1993-01-01' )
-waitUntilIdle()
-dom.plotElements[0].component= '|histogram(0,200,1)'
-waitUntilIdle()
-dom.timeRange = dom.timeRange.next()
-```
 

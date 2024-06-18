@@ -98,7 +98,6 @@ applet's id is applet\_1, then in JavaScript, one can call
 ```
 applet_1.setTimeRange( '2009-01-01' )
 ```
-
 because the applet defines a public method setTimeRange that accepts a
 string parameter.
 
@@ -171,7 +170,6 @@ and Safari ... A hint: Safari gives
 ```
 liveconnect: JavaScript: default security policy=
 ```
-
 while FF says
 
 `liveconnect:&nbsp;JavaScript:&nbsp;default&nbsp;security&nbsp;policy=`&lt;http://timeseries.org&gt;

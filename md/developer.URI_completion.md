@@ -13,7 +13,6 @@ tree where:
   for each file, a list of parameters
   for each parameter, a list of values (or constraint on valid values)
 ```
-
 # Use Cases
 
   - completion engine provides efficient tool for creating URIs. (GUI
@@ -41,9 +40,7 @@ verified with an xml schema.
 `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`&lt;/params&gt;  
 ```
  </vap+dat>
-```
 
-```
  <vap+odbc>
 ```
 `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`&lt;resourceUri&gt;  
@@ -55,7 +52,6 @@ verified with an xml schema.
 ```
          
 ```
-
 <table>
 
 cluster1
@@ -68,7 +64,6 @@ cluster1
 ```
  </vap+odbc>
 ```
-
 Then completion can be defined as an XML Schema.
 
 But until then we'll use the CompletionContext object and
@@ -130,18 +125,10 @@ Examples:
  timerange=$(timerange,cadence=7d,offset=2009-001)
  $(integer,offset=4,cadence=5)  ...,-6,-1,4,9,14,...
 ```
-
 TODO: name the fields so they unify with time format specification.
 
 ```
  `<file://foo_$(string,id=spacecraft,enum=c1,c2,c3,c4>`,)_$Y$m$d.dat?spacecraft=c1
 ```
-
 TODO: include way to specify resource URIs like:
-
-```
- vap+dat:$(file)   # $(file) indicates it should be the name of one downloadable filename 
- vap+dat:$(file;multiple)  # allow aggregation spec
- vap+odbc:$(odbc)$(paramList)   # extend to new resource URI types like odbc, which may have finders of their own.
-```
 

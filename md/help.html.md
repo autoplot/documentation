@@ -15,12 +15,9 @@
  window.dataLayer = window.dataLayer || [];
  function gtag(){dataLayer.push(arguments);}
  gtag('js', new Date());
-```
 
-```
  gtag('config', 'G-HQZ6R2K1CK');
 ```
-
 </script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -36,7 +33,6 @@
 ```
        
 ```
-
 <title>
 
 autoplot.org - help
@@ -52,7 +48,6 @@ autoplot.org - help
            @import "/wiki/skins/monobook/main.css?97";
        /*]]>*/
 ```
-
 </style>
 
 `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;print&quot; href=&quot;/wiki/skins/common/commonPrint.css?97&quot; /&gt;  
@@ -65,7 +60,6 @@ autoplot.org - help
        
        
 ```
-
 <script type= "text/javascript">
 
 /\*\<\!\[CDATA\[\*/ var skin = "monobook"; var stylepath =
@@ -167,7 +161,6 @@ wgContentLanguage = "en"; var wgBreakFrames = false; var wgCurRevisionId
 ```
                
 ```
-
 <h1 class="firstHeading">
 
 help
@@ -1592,7 +1585,6 @@ To have the labels on the y-axis rendered outside of the canvas, use
 ```
 0%+0
 ```
-
 The layout may be specified in the URI sent to the Autoplot server. In
 this case, the left and right positions are comma separated, as in
 `L%+S,R%+S`. The default is `0%+8em,100%-6em`. For the bottom and top
@@ -2035,7 +2027,6 @@ URI:
 ```
 `
 ```
-
 If this is one of a series of files, the variable `Np` can be plotted
 across several files using the notation:
 
@@ -2046,7 +2037,6 @@ across several files using the notation:
 ```
 `
 ```
-
 Most of the letters used for the wildcards for time are the same as the
 Unix `date` command, for example `$Y` means a four-letter year while
 `$y` means a two-letter year.
@@ -2139,7 +2129,6 @@ A version wildcard is allowed. Versioned URIs have the form:
 ```
 `
 ```
-
 Also, parenthesis can be used to modify fields. For example:
 
   - $Y$m$d-$(H;span=12) indicates the hour is the beginning of a 12 hour
@@ -3263,7 +3252,6 @@ java -jar autoplot.jar
 ```
 `
 ```
-
 Note that IcedTea/OpenJDK versions of Java may work, but we recommend
 using Oracle's version of Java
 <a href="http://www.java.com/en/download/index.jsp" class="external autonumber" title="http://www.java.com/en/download/index.jsp" rel="nofollow">\[2\]</a>.
@@ -4490,7 +4478,6 @@ Personal tools
 ```
    
 ```
-
 </div>
 
 <script type="text/javascript">
@@ -4548,7 +4535,6 @@ Navigation
 ```
            
 ```
-
 </div>
 
 </form>

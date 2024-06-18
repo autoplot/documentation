@@ -50,7 +50,6 @@ use this now.
 ```
 ds.putProperty( RENDER_TYPE, 'fillToZero' )
 ```
-
 ## Proposed extensions
 
 I've been trying to figure out how the dataset can have more control
@@ -62,7 +61,6 @@ to get this close.
 ```
 ds.putProperty( RENDER_TYPE, 'fillToZero>color=yellow&fillColor=yellow' )
 ```
-
 The "fillToZero" refers to a type, and after the greater than sign are
 further qualifications.
 
@@ -72,7 +70,6 @@ colorbar used to render this is default RGB.
 ```
 ds.putProperty( RENDER_TYPE, 'spectrogram>table=greyscale' )
 ```
-
 Reserved words should come from the plotx function, but I'll enumerate
 them here:
 
@@ -92,7 +89,6 @@ them here:
 ds.putProperty( RENDER_TYPE, 'stairSteps?color=yellow' )
 ds.putProperty( RENDER_TYPE, 'series?color=blue&interpolate=nn' )
 ```
-
 Also see the property plotElement.renderControl, which should use these
 as well.
 

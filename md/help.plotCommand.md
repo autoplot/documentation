@@ -14,14 +14,12 @@ show.
 ```
 plot( URI, title='My Plot' )  
 ```
-
 replaces the first data source with the data from the URI, possibly
 setting up Time Series Browse so other time ranges will be loaded. Or
 
 ```
 plot( pos, URI, title='Second Plot' )
 ```
-
 where pos is the *data* position, which with typical use is also the
 plot position, with 0 being the top-most plot.
 
@@ -51,7 +49,6 @@ render type:
 * `**`column`**` the column or columnId of the column to use.
 * `**`[xy]drawTickLabels`**` False turns off the x or y tick labels for the plot
 ```
-
 NOTE: arguments should be flexible, so findgen(5) can be used as well as
 \[0,1,2,3,4\], and timegen('2018-001T00:00Z','24hr',3) instead of
 \['2018-001T00:00Z','2018-002T00:00Z','2018-003T00:00Z'\], and Color.RED

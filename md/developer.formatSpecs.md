@@ -21,7 +21,6 @@ number of repeats: (2X, I3, 2X, I3, 2X, I3, 2X, I3) repeats of a spec:
   F - real numbers, fixed point format
   I - integer
 ```
-
 further constraints: F5.3
 
 # C sprintf spec

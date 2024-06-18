@@ -26,7 +26,6 @@ Connected to localhost.
 autoplot> plot( [1,2,3,4,5], title="My Data" )
 autoplot> plot( '`<http://autoplot.org/data/autoplot.cdf?Magnitude>`' )
 ```
-
 The external software might format data then tell Autoplot to plot the
 data. For example,
 <https://sourceforge.net/p/autoplot/code/HEAD/tree/autoplot/trunk/Autoplot/src/external/applot.pro>
@@ -43,7 +42,6 @@ property of ApplicationModel:
 ```
 dom.controller.applicationModel.prompt='autoplot>\n'
 ```
-
 Note that when the connection is broken, the server will shut down and
 must be restarted.
 

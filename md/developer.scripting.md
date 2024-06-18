@@ -43,7 +43,6 @@ result= abs( ds2- ds1 )
 ```
 `
 ```
-
 It should be fairly clear what the script does: load in two grayscale
 views of images, and then assign the absolute difference to the variable
 result. This variable could then be plotted, for example, or we might
@@ -109,7 +108,6 @@ for tr in trs:
    dom.timeRange= DatumRangeUtil.parseTimeRange(tr)
    writeToPng( '/tmp/%s.png' % tr )
 ```
-
 This script would run the application through each day of the month
 January 2010, making images of each day. All commands are available in
 this context.
@@ -131,20 +129,15 @@ to users. This is the variable 'monitor' and is used like so:
 import java.lang.Thread
 monitor.setTaskSize(200)                     # the number of steps (arbitary units)
 monitor.started()                            # the task is started.  
-```
-  
-```
+
 for i in xrange(200):
    if ( monitor.isCancelled() ): break       # if not called, the cancel button will be insensitive
    monitor.setProgressMessage('at %d' % i)   # this describes actions done to perform the task.  
    monitor.setTaskProgress(i)
    java.lang.Thread.sleep(100);
-```
-  
-```
+
 monitor.finished()     # indicate the task is complete
 ```
-
 A well-written script will use the monitor to effectively convey
 information to the user. Imagine the scientist is the CEO of a company,
 and the script is the Manager of a process. The process is implemented
@@ -167,7 +160,6 @@ f= getParam( 'f', 100.0, 'volume' )                # gets a float parameter.
 e= getParam( 'e', 'RBSPA', 'spacecraft', [ 'RBSPA', 'RBSPB' ] )   # enumeration with the values given
 b= getParam( 'v', 'F', 'apply correction', [ 'T', 'F' ] )         # booleans are just enumerations with the values 'T' and 'F'
 ```
-
 ![jydsEditor2.jyds.png](jydsEditor2.jyds.png "jydsEditor2.jyds.png")
 
 Autoplot will look for this in scripts and automatically add to GUI. The
@@ -189,7 +181,6 @@ enumerated. For example:
 ```
 sensor= getParam( 'sensor', 'left', 'sensor antenna', ['left','right'] )
 ```
-
 will get the parameter sensor, which can be either left or right (with
 left as the default). When a GUI is created, a droplist of possible
 values is used instead of a text entry field.
@@ -200,7 +191,6 @@ produced:
 ```
 correct= getParam( 'correct', 'T', 'perform correction on the data', [ 'T', 'F' ] )
 ```
-
 Note you cannot use the result as a boolean in the Jython code. You must
 compare it to 'T'.
 
@@ -212,13 +202,11 @@ run from the command line as well, and would look like:
 ```
 java -cp autoplot.jar org.autoplot.JythonMain /tmp/myscript.jy sensor=right correct=T
 ```
-
 or if the Autoplot GUI is needed:
 
 ```
 java -cp autoplot.jar org.autoplot.AutoplotUI --script /tmp/myscript.jy sensor=right correct=T
 ```
-
 Positional arguments are read in as arg\_1, arg\_2, etc.
 
 #### Creating a GUI from a script
@@ -231,19 +219,16 @@ and sometimes not. These functions can be used:
 ```
  "range", "xrange", "getParam", "lower", "upper"
 ```
-
 so
 
 ```
  x= getParam( 'sc', 1, 'spacecraft ID", range(40) )
 ```
-
 works, but this won't:
 
 ```
  x= getParam( 'sc', 1, 'spacecraft ID", findgen(40) )
 ```
-
 #### Finer control of Parameters
 
 Finer controls can be used when the fourth argument to getParam is a
@@ -252,14 +237,12 @@ dictionary. For example,
 ```
 x= getParam( 'sc', 1, 'spacecraft ID', { 'labels':['rbsp-a','rbsp-b'], 'values':[1,2] } )
 ```
-
 allows additional labels to be added to the selections. You can also
 have examples, using:
 
 ```
 x= getParam( 'name', 'Jim', 'Operator Name', { 'examples':['Jim','Terry','Sally'] } )
 ```
-
 Other constaints will be coming, like minimum and maximum values for
 numeric data.
 
@@ -279,7 +262,6 @@ try:
 except Exception, ex:
   ERROR.write( '# unable to plot ' + uri + ' because of ' + str(ex) )
 ```
-
 Note most of the functions called are actually Java procedures and throw
 Java exceptions. Unfortunately, the Jython catch needs a second catch
 for Java exceptions, and a second `except` block is needed:
@@ -293,7 +275,6 @@ except Exception, ex:
 except java.lang.Exception, ex:
   ERROR.write( '# unable to plot ' + uri + ' because of ' + str(ex) )
 ```
-
 Or, if you don't need to inspect the exception:
 
 ```
@@ -303,7 +284,6 @@ try:
 except:
   ERROR.write( '# unable to plot ' + uri )
 ```
-
 #### Throwing (or Raising) Exceptions
 
 Sometimes we want our process to stop and let the user know that
@@ -313,7 +293,6 @@ something went wrong, so we throw an exception. This is done like so:
 if ( ds.length()==0 ):
   raise Exception("Dataset is empty")
 ```
-
 ### Adding to the Tools menu
 
 Application-context scripts can be added to the Autoplot GUI by adding
@@ -357,7 +336,6 @@ Source Context), which load data to make a new data set.
 ```
 public static java.awt.Window getViewWindow()
 ```
-
 return the Window for the application, to be used for dialogs. See
 createGui(), which creates the view.
 
@@ -367,7 +345,6 @@ createGui(), which creates the view.
 public static void setCanvasSize(int width,
                                 int height)
 ```
-
 set the size of the canvas. This is only used when the GUI is not used,
 and in headless mode, otherwise the GUI controls the size of the canvas.
 
@@ -389,7 +366,6 @@ A number of plot commands are available.
 ```
 public static void plot(java.lang.String surl)
 ```
-
 bring up the autoplot with the specified URL.
 
 Parameters:
@@ -402,7 +378,6 @@ Parameters:
 public static void plot(java.lang.String surl1,
                        java.lang.String surl2)
 ```
-
 plot one URI against another. No synchronization is done, so beware.
 Introduced for testing non-time axis TSBs.
 
@@ -418,7 +393,6 @@ Parameters:
 public static void plot(int chNum,
                        java.lang.String surl)
 ```
-
 bring up the autoplot with the specified URL. This may be a little
 confusing, because it replaces the datasource with the given number,
 which would typically correspond to the position on the page.
@@ -435,7 +409,6 @@ public static void plot(int chNum,
                        java.lang.String label,
                        java.lang.String surl)
 ```
-
 bring up the autoplot with the specified URL.
 
 Parameters:
@@ -449,7 +422,6 @@ Parameters:
 ```
 public static void plot(org.virbo.dataset.QDataSet ds)
 ```
-
 plot the dataset in the first dataSource node.
 
 Parameters:
@@ -462,7 +434,6 @@ Parameters:
 public static void plot(org.virbo.dataset.QDataSet x,
                        org.virbo.dataset.QDataSet y)
 ```
-
 plot the dataset in the first dataSource node.
 
 Parameters:
@@ -477,7 +448,6 @@ public static void plot(org.virbo.dataset.QDataSet x,
                        org.virbo.dataset.QDataSet y,
                        org.virbo.dataset.QDataSet z)
 ```
-
 plot the dataset in the first dataSource node.
 
 Parameters:
@@ -492,7 +462,6 @@ Parameters:
 public static void plot(int chNum,
                        org.virbo.dataset.QDataSet ds)
 ```
-
 plot the dataset in the specified dataSource node.
 
 Parameters:
@@ -506,7 +475,6 @@ public static void plot(int chNum,
                        org.virbo.dataset.QDataSet x,
                        org.virbo.dataset.QDataSet y)
 ```
-
 plot the dataset in the specified dataSource node.
 
 Parameters:
@@ -523,7 +491,6 @@ public static void plot(int chNum,
                        org.virbo.dataset.QDataSet y,
                        org.virbo.dataset.QDataSet z)
 ```
-
 plot the dataset in the specified dataSource node.
 
 Parameters:
@@ -539,7 +506,6 @@ public static void plot(int chNum,
                        java.lang.String label,
                        org.virbo.dataset.QDataSet ds)
 ```
-
 bring up the autoplot with the dataset
 
 Parameters:
@@ -556,7 +522,6 @@ public static void plot(int chNum,
                        org.virbo.dataset.QDataSet x,
                        org.virbo.dataset.QDataSet y)
 ```
-
 plot the dataset in the specified dataSource node.
 
 Parameters:
@@ -573,7 +538,6 @@ public static void plot(int chNum,
                        org.virbo.dataset.QDataSet y,
                        org.virbo.dataset.QDataSet z)
 ```
-
 plot the dataset in the specified dataSource node.
 
 Parameters:
@@ -595,7 +559,6 @@ xx= linspace( 0, 4*PI, 100 )
 yy= sin( xx )
 plotx( xx, yy, title='sin' )
 ```
-
 Its control tries to match IDL's plot command, with named parameters
 like:
 
@@ -610,7 +573,6 @@ linewidth             =3.0 line thickness in pixels
 color                 ='0xFF0000' or 'RED'
 symbol                ='STAR', 'CROSS', 'TRIANGLES', 'EXES', 'DIAMONDS'
 ```
-
 ## dataset
 
 The dataset command takes its argument and converts it to a QDataSet,
@@ -630,7 +592,6 @@ typicalMin  = suggestions for axis range
 typicalMax  = suggestions for axis range
 scaleType   = 'log' or 'linear' suggestion for axis type
 ```
-
 Note these are converted to the proper type for the property. For
 example, when the string 's' is used for the units, internally it is
 converted to the canonical representation of the unit (Units.seconds)
@@ -640,7 +601,6 @@ converted to the canonical representation of the unit (Units.seconds)
 ```
 public static void setStatus(java.lang.String message)
 ```
-
 set the autoplot status bar string. Use the prefixes "busy:", "warning:"
 and "error:" to set icons.
 
@@ -655,7 +615,6 @@ Parameters:
 public static void addTab(java.lang.String label,
                          javax.swing.JComponent c)
 ```
-
 add a tab to the running application. A new tab will be added with the
 label.
 
@@ -669,7 +628,6 @@ Parameters:
 ```
 public static void setRenderStyle(java.lang.String name)
 ```
-
   - Set the style used to render the data using a string identifier:
     spectrogram, series, scatter, histogram, fill\_to\_zero, digital
 
@@ -683,7 +641,6 @@ Parameters:
 public static void peekAt(java.lang.Object o)
                   throws java.io.IOException
 ```
-
 This is intended to be used with a debugger. The developer should put a
 breakpoint at the out.write statement, and then call peekAt from the
 script.
@@ -697,7 +654,6 @@ Parameters:
 ```
 public static void writeToPng(java.lang.String filename)
 ```
-
 write out the current canvas to a png file. TODO: bug 3113441: this has
 issues with the size. It's coded to get the size from the DOM, but if it
 is fitted and has a container it must get size from the container. Use
@@ -716,7 +672,6 @@ public static void writeToPng(java.lang.String filename,
                              int width,
                              int height)
 ```
-
 write out the current canvas to a png file. TODO: bug 3113441: this has
 issues with the size. It's coded to get the size from the DOM, but if it
 is fitted and has a container it must get size from the container. Use
@@ -735,7 +690,6 @@ Parameters:
 ```
 public static void writeToPng(java.io.OutputStream out)
 ```
-
 write out the current canvas to stdout. This is introduced to support
 servers. TODO: this has issues with the size. See writeToPng(filename).
 
@@ -748,7 +702,6 @@ Parameters:
 ```
 public static void writeToPdf(java.lang.String filename)
 ```
-
 write out the current canvas to a pdf file. TODO: this has issues with
 the size. See writeToPng(filename). It looks like this might be handled
 here
@@ -762,7 +715,6 @@ Parameters:
 ```
 public static void writeToPdf(java.io.OutputStream out)
 ```
-
 write out the current canvas to a pdf to the output stream. This is to
 support servers. TODO: this has issues with the size. See
 writeToPng(filename). It looks like this might be handled here
@@ -776,7 +728,6 @@ Parameters:
 ```
 public static java.awt.image.BufferedImage writeToBufferedImage(Application applicationIn)
 ```
-
 creates a BufferedImage from the provided DOM. This blocks until the
 image is ready. TODO: this has issues with the size. See
 writeToPng(filename). It looks like this might be handled here
@@ -792,7 +743,6 @@ public static java.lang.String[] getTimeRangesFor(java.lang.String surl,
                                                  java.lang.String timeRange,
                                                  java.lang.String format)
 ```
-
 return an array of URLs that match the spec for the time range provided.
 For example,
 
@@ -803,7 +753,6 @@ for x in xx:
    print x
         
 ```
-
 This is also available in the Data Source Context (.jyds files).
 
 Parameters:
@@ -823,7 +772,6 @@ public static java.lang.String[] generateTimeRanges(java.lang.String spec,
                                                    java.lang.String srange)
                                             throws java.text.ParseException
 ```
-
 Given a spec to format timeranges and a range to contain each timerange,
 produce a list of all timeranges covering the range formatted with the
 spec. For example, generateTimeRanges( "%Y-%m-%d", "Jun 2009" ) would
@@ -846,7 +794,6 @@ Returns:
 ```
 public static void setTitle(java.lang.String title)
 ```
-
 set the title of the focus plot.
 
 Parameters:
@@ -858,7 +805,6 @@ Parameters:
 ```
 public static void createGui()
 ```
-
 create a model with a GUI presentation layer. If the GUI is already
 created, then this does nothing.
 
@@ -867,7 +813,6 @@ created, then this does nothing.
 ```
 public static ApplicationModel getApplicationModel()
 ```
-
 returns the internal application model (the object that does all the
 business). This provides access to the internal model for power users.
 Note the applicationModel provides limited access, and the DOM now
@@ -882,7 +827,6 @@ Returns:
 ```
 public static boolean isModelInitialized()
 ```
-
 provide way to see if the model is already initialized (e.g. for clone
 application)
 
@@ -898,7 +842,6 @@ public static void bind(java.lang.Object src,
                        java.lang.Object dst,
                        java.lang.String dstProp)
 ```
-
 binds two bean properties together. Bindings are bidirectional, but the
 initial copy is from src to dst. In MVC terms, src should be the model
 and dst should be a view. The properties must fire property change
@@ -908,7 +851,6 @@ events for the binding mechanism to work. Example:
 bind( dom.plots[0], "title", dom.plots[0].getYaxis(), "label" )
 dom.plots[0].title= 'My Data'
 ```
-
 Parameters:
 
   - src - java bean such as model.getPlotDefaults()
@@ -923,7 +865,6 @@ public static void dumpToQStream(org.virbo.dataset.QDataSet ds,
                                 java.io.OutputStream out,
                                 boolean ascii)
 ```
-
 serializes the dataset to a QStream, a self-documenting, streaming
 format useful for moving datasets.
 
@@ -933,7 +874,6 @@ from java.lang import System
 dumpToQStream( ds, System.out, True )
         
 ```
-
 Parameters:
 
   - ds - The dataset to stream. Note all schemes should be streamable,
@@ -947,7 +887,6 @@ Parameters:
 public static void dumpToDas2Stream(org.virbo.dataset.QDataSet ds,
                                    boolean ascii)
 ```
-
 serializes the dataset to a das2stream, a well-documented, open,
 streaming data format. (that's a joke.) Das2Streams are the legacy
 stream format used by the Plasma Wave Groups's server, and can serialize
@@ -969,7 +908,6 @@ public static void dumpToDas2Stream(org.virbo.dataset.QDataSet ds,
                                    java.lang.String file,
                                    boolean ascii)
 ```
-
 serializes the dataset to a das2stream, a well-documented, open,
 streaming data format. (that's a joke.) Currently, to keep the channel
 open, the stream is created in a buffer and then the buffer is sent.
@@ -989,7 +927,6 @@ public static void formatDataSet(org.virbo.dataset.QDataSet ds,
                                 java.lang.String file)
                          throws java.lang.Exception
 ```
-
 Export the data into a format implied by the filename extension. See the
 export data dialog for additional parameters available for formatting.
 For example:
@@ -999,7 +936,6 @@ ds= getDataSet('`<http://autoplot.org/data/somedata.cdf?BGSEc>`')
 formatDataSet( ds, 'vap+dat:`<file:/home/jbf/temp/foo.dat?tformat=minutes&format=6.2f>`')
         
 ```
-
 Parameters:
 
   - ds - QDataSet
@@ -1048,7 +984,6 @@ formatDataSet(ripplesTimeSeries(20),'/tmp/data.dat?header=rich')
 ```
 public static Application getDocumentModel()
 ```
-
 get the document model (DOM). This may initialize the model, in which
 case defaults like the cache directory are set.
 
@@ -1057,7 +992,6 @@ case defaults like the cache directory are set.
 ```
 public static void save(java.lang.String filename)
 ```
-
 save the current state as a .vap file
 
 Parameters:
@@ -1069,7 +1003,6 @@ Parameters:
 ```
 public static java.lang.String[] getCompletions(java.lang.String file)
 ```
-
 return a list of completions. I was talking to Tom N. who was looking
 for this to get a list of CDF variables, and realized this would be
 useful in the IDL context as well as python scripts. This will perform
@@ -1090,7 +1023,6 @@ Returns:
 ```
 public static void load(java.lang.String filename)
 ```
-
 load the .vap file. This is implemented by calling plot on the URI.
 
 Parameters:
@@ -1102,7 +1034,6 @@ Parameters:
 ```
 public static void reset()
 ```
-
 reset the application to its initial state.
 
 ## setLayout
@@ -1111,7 +1042,6 @@ reset the application to its initial state.
 public static void setLayout( nrows ) 
 public static void setLayout( nrows, ncolumns ) 
 ```
-
 reset to a multi-plot layout.
 
 ## fixLayout
@@ -1119,7 +1049,6 @@ reset to a multi-plot layout.
 ```
 public static void fixLayout(  ) 
 ```
-
 remove empty gaps in the plot.
 
 ## close
@@ -1127,7 +1056,6 @@ remove empty gaps in the plot.
 ```
 protected static void close()
 ```
-
 called when the application closes so if we reopen it will be in a good
 state.
 
@@ -1153,13 +1081,11 @@ print total(dataset([1,2,3,4]))
 print total(2 + dataset([1,2,3,4]) )
 #(This is in the autoplot2011 version only.)
 ```
-
 ## abs
 
 ```
 public static QDataSet abs(QDataSet ds1)
 ```
-
 element-wise abs. For vectors, this returns the length of each element.
 Note jython conflict needs to be resolved.
 
@@ -1175,7 +1101,6 @@ Returns:
 public static QDataSet accum(QDataSet accumDs,
                             QDataSet ds)
 ```
-
 return an array that is the running sum of each element in the array,
 starting with the value accum. Result\[i\]= accum + total( ds\[0:i+1\] )
 
@@ -1198,7 +1123,6 @@ See Also:
 ```
 public static QDataSet accum(QDataSet ds)
 ```
-
 return an array that is the running sum of each element in the array,
 starting with the value accum. Result\[i\]= total( ds\[0:i+1\] )
 
@@ -1219,7 +1143,6 @@ See Also:
 ```
 public static QDataSet acos(QDataSet ds)
 ```
-
 element-wise arccos.
 
 Parameters:
@@ -1234,7 +1157,6 @@ Returns:
 public static QDataSet add(QDataSet ds1,
                           QDataSet ds2)
 ```
-
 add the two datasets have the same geometry.
 
 Parameters:
@@ -1250,7 +1172,6 @@ Returns:
 public static QDataSet and(QDataSet ds1,
                           QDataSet ds2)
 ```
-
 element-wise logical and function. non-zero is true, zero is false.
 
 Parameters:
@@ -1265,7 +1186,6 @@ Returns:
 ```
 public static QDataSet asin(QDataSet ds)
 ```
-
 element-wise arcsin.
 
 Parameters:
@@ -1279,7 +1199,6 @@ Returns:
 ```
 public static QDataSet atan(QDataSet ds)
 ```
-
 element-wise atan.
 
 Parameters:
@@ -1294,7 +1213,6 @@ Returns:
 public static QDataSet atan2(QDataSet dsy,
                             QDataSet dsx)
 ```
-
 element-wise atan2, 4-quadrant atan.
 
 Parameters:
@@ -1309,7 +1227,6 @@ Returns:
 ```
 public static QDataSet autoHistogram(QDataSet ds)
 ```
-
 One pass auto-scaling histogram. See also histogram.
 
 Parameters:
@@ -1323,7 +1240,6 @@ Returns:
 ```
 public static QDataSet boxcar(QDataSet ds, int size) 
 ```
-
 run boxcar average over the dataset, returning a dataset of same
 geometry. Points near the edge are simply copied from the source
 dataset. The result dataset contains a property "weights" that is the
@@ -1344,7 +1260,6 @@ Returns:
 public static QDataSet bundle(QDataSet ds1,
                              QDataSet ds2)
 ```
-
 bundle the two datasets, adding if necessary a bundle dimension. This
 will try to bundle on the second dimension, unlike join. This will also
 isolate the semantics of bundle dimensions as it's introduced.
@@ -1361,7 +1276,6 @@ Returns:
 ```
 public static QDataSet ceil(QDataSet ds1)
 ```
-
 element-wise ceil function.
 
 Parameters:
@@ -1377,7 +1291,6 @@ public static QDataSet circle(double radius)
 public static QDataSet circle(String radius)
 public static QDataSet circle(QDataSet radius)
 ```
-
 return a dataset with X and Y forming a circle, introduced as a
 convenient way to indicate planet location.
 
@@ -1395,7 +1308,6 @@ Returns:
 ```
 public static QDataSet collapse0(QDataSet ds)
 ```
-
 reduce the dataset rank by averaging data over the 0th dimension. If
 there is fill in the reduction, then the result is fill.
 
@@ -1420,7 +1332,6 @@ there is fill in the reduction, then the result is fill.
 public static QDataSet concatenate(QDataSet ds1,
                                   QDataSet ds2)
 ```
-
 concatenates the two datasets together, appending the datasets on the
 zeroth dimension. The two datasets must be QUBES have similar geometry
 on the higher dimensions. If one of the datasets is rank 0 and the
@@ -1453,7 +1364,6 @@ E = 2.718281828459045
 public static QDataSet contour(QDataSet tds,
               QDataSet vv)
 ```
-
 contour the data in rank 2 table tds at rank 0 vv. The result is a rank
 2 bundle of \[:,'x,y,z'\] where i is the contour number. The result will
 have DEPEND\_0 be an monotonically increasing sequence with jumps
@@ -1473,7 +1383,6 @@ public static DatumRange   convertUnitsTo(DatumRange dr, Units u)
 public static Datum    convertUnitsTo(Datum d, Units u)
 public static QDataSet     convertUnitsTo(QDataSet ds, Units u)
 ```
-
 convert the data units to the given units, which must be convertible.
 
 Parameters:
@@ -1491,7 +1400,6 @@ Returns:
 public static QDataSet copysign(QDataSet magnitude,
                                QDataSet sign)
 ```
-
 returns a dataset with the same geometry, but having the floating-point
 magnitude of the first argument with the sign of the second argument.
 
@@ -1513,7 +1421,6 @@ See Also:
 ```
 public static QDataSet cos(QDataSet ds)
 ```
-
 element-wise cos.
 
 Parameters:
@@ -1527,7 +1434,6 @@ Returns:
 ```
 public static QDataSet cosh(QDataSet ds)
 ```
-
 element-wise cosh.
 
 Parameters:
@@ -1543,7 +1449,6 @@ public static QDataSet createEvent(java.lang.String timeRange,
                                   int rgbcolor,
                                   java.lang.String annotation)
 ```
-
 tool for creating ad-hoc events datasets.
 
 Parameters:
@@ -1567,7 +1472,6 @@ public static QDataSet createEvent(QDataSet append,
                                   int rgbcolor,
                                   java.lang.String annotation)
 ```
-
 tool for creating ad-hoc events datasets.
 
 Parameters:
@@ -1590,7 +1494,6 @@ Returns:
 ```
 public static QDataSet dblarr(int len0)
 ```
-
 create a dataset filled with zeros.
 
 Parameters:
@@ -1605,7 +1508,6 @@ Returns:
 public static QDataSet dblarr(int len0,
                              int len1)
 ```
-
 ## dblarr
 
 ```
@@ -1613,7 +1515,6 @@ public static QDataSet dblarr(int len0,
                              int len1,
                              int len2)
 ```
-
 ## dependsOn
 
 ```
@@ -1621,7 +1522,6 @@ public static MutablePropertyDataSet dependsOn(QDataSet ds,
                                               int dim,
                                               QDataSet dep0)
 ```
-
 declare that the dataset is a dependent parameter of an independent
 parameter. This isolates the QDataSet semantics, and verifies
 correctness.
@@ -1640,7 +1540,6 @@ Returns:
 public static QDataSet detrend(QDataSet yy,
               int size)
 ```
-
 remove D/C and low-frequency components from the data by subtracting out
 the smoothed data with a boxcar of the given size. Points on the end are
 zero.
@@ -1659,7 +1558,6 @@ Returns:
 ```
 public static QDataSet dindgen(int len0)
 ```
-
 returns rank 1 dataset with values \[0,1,2,...,len0-1\]
 
 Parameters:
@@ -1676,7 +1574,6 @@ Returns:
 public static QDataSet dindgen(int len0,
                               int len1)
 ```
-
 returns rank 2 dataset with values increasing \[ \[0,1,2\], \[ 3,4,5\]
 \]
 
@@ -1694,7 +1591,6 @@ public static QDataSet dindgen(int len0,
                               int len1,
                               int len2)
 ```
-
 returns rank 3 dataset with values increasing ( \[ \[ \[0,1,2\], \[
 3,4,5\] \], \[ \[6,7,8\] \], ...\] )
 
@@ -1713,7 +1609,6 @@ Returns:
 ```
 public static QDataSet diff(QDataSet ds)
 ```
-
 return array that is the differences between each successive pair in the
 dataset. Result\[i\]= ds\[i+1\]-ds\[i\], so that for an array with N
 elements, an array with N-1 elements is returned. DEPEND\_0 will contain
@@ -1736,7 +1631,6 @@ See Also:
 ```
 public static int dimensionCount(QDataSet dss)
 ```
-
 returns the number of physical dimensions of a dataset. JOIN, BINS do
 not increase dataset dimensionality. DEPEND increases dimensionality by
 dimensionality of DEPEND ds. BUNDLE increases dimensionality by N where
@@ -1758,7 +1652,6 @@ Returns:
 public static QDataSet div(QDataSet ds1,
                           QDataSet ds2)
 ```
-
 element-wise div of two datasets with compatible geometry.
 
 Parameters:
@@ -1773,7 +1666,6 @@ Returns:
 public static QDataSet divide(QDataSet ds1,
                              QDataSet ds2)
 ```
-
 element-wise divide of two datasets with compatible geometry.
 
 Parameters:
@@ -1788,7 +1680,6 @@ Returns:
 public static QDataSet eq(QDataSet ds1,
                          QDataSet ds2)
 ```
-
 element-wise equality test. 1.0 is returned where the two datasets are
 equal. Fill is returned where either measurement is invalid.
 
@@ -1804,7 +1695,6 @@ Returns:
 public static boolean equivalent(QDataSet ds1,
                                 QDataSet ds2)
 ```
-
 returns true if and only if the dataset values are equivalent. Note this
 may promote rank, etc. A rank 0 dataset is promoted to a rank 1 by
 replicating the value, so for example the rank 0 "4" is equivalent to
@@ -1824,7 +1714,6 @@ Returns:
 ```
 public static QDataSet exp(QDataSet ds)
 ```
-
 element-wise exponentiate e\*\*x.
 
 Parameters:
@@ -1838,7 +1727,6 @@ Returns:
 ```
 public static QDataSet exp10(QDataSet ds)
 ```
-
 element-wise exponentiate 10\*\*x.
 
 Parameters:
@@ -1852,7 +1740,6 @@ Returns:
 ```
 public static QDataSet expm1(QDataSet ds)
 ```
-
 returns ex -1. Note that for values of x near 0, the exact sum of
 expm1(x) + 1 is much closer to the true result of ex than exp(x). (TODO
 lost info in wiki)
@@ -1868,7 +1755,6 @@ Returns:
 ```
 public static QDataSet extent(QDataSet ds)
 ```
-
 returns a two element, rank 1 dataset containing the extent of the data.
 Note this accounts for DELTA\_PLUS, DELTA\_MINUS properties. The
 property QDataSet.SCALE\_TYPE is set to lin or log. The property count
@@ -1894,7 +1780,6 @@ See Also:
 public static QDataSet extent(QDataSet ds,
                              QDataSet range)
 ```
-
 returns a two element, rank 1 dataset containing the extent of the data.
 Note this accounts for DELTA\_PLUS, DELTA\_MINUS properties. The
 property QDataSet.SCALE\_TYPE is set to lin or log. The property count
@@ -1916,7 +1801,6 @@ Returns:
 ```
 public static QDataSet fft(QDataSet ds)
 ```
-
 Performs an FFT on the provided rank 1 dataset. A rank 2 dataset of
 complex numbers is returned.
 
@@ -1931,7 +1815,6 @@ Returns:
 ```
 public static QDataSet fft(QDataSet ds, QDataSet window, int stepFraction, ProgressMonitor mon ) 
 ```
-
 perform ffts on the waveform as we do with fftPower, but keep real and
 imaginary components.
 
@@ -1955,7 +1838,6 @@ public static QDataSet fftFilter(QDataSet ds,
                                 int len,
                                 Ops.FFTFilterType filt)
 ```
-
 ## fftPower
 
 ```
@@ -1963,7 +1845,6 @@ public static QDataSet fftPower(QDataSet ds,
                                int len,
                                org.das2.util.monitor.ProgressMonitor mon)
 ```
-
 create a power spectrum on the dataset by breaking it up and doing ffts
 on each segment. right now only rank 2 data is supported, but there is
 no reason that rank 1 shouldn't be supported. Looks for
@@ -1986,7 +1867,6 @@ Returns:
 ```
 public static QDataSet fftPower(QDataSet ds)
 ```
-
 returns the power spectrum of the waveform. Positive frequencies are
 returned for DEPEND\_0, and square of the magnitude is returned for the
 values.
@@ -2003,7 +1883,6 @@ Returns:
 public static QDataSet fftWindow(QDataSet ds,
                                 int len)
 ```
-
 perform ffts on the rank 1 dataset to make a rank2 spectrogram.
 
 Parameters:
@@ -2021,7 +1900,6 @@ Returns:
 public static QDataSet findex(QDataSet uu,
                              QDataSet vv)
 ```
-
 returns the floating point index of each element of vv within the
 monotonically increasing dataset uu. The result dataset will have the
 same geometry as vv. The result will be negative when the element of vv
@@ -2044,7 +1922,6 @@ Returns:
 ```
 public static QDataSet findgen(int len0)
 ```
-
 returns rank 1 dataset with values \[0,1,2,...\]
 
 Parameters:
@@ -2059,7 +1936,6 @@ Returns:
 public static QDataSet findgen(int len0,
                               int len1)
 ```
-
 returns rank 2 dataset with values increasing \[ \[0,1,2\], \[ 3,4,5\]
 \]
 
@@ -2077,7 +1953,6 @@ public static QDataSet findgen(int len0,
                               int len1,
                               int len2)
 ```
-
 returns rank 3 dataset with values increasing
 
 Returns:
@@ -2087,7 +1962,6 @@ Returns:
 ```
 public static QDataSet floor(QDataSet ds1)
 ```
-
 element-wise ceil function.
 
 Parameters:
@@ -2101,7 +1975,6 @@ Returns:
 ```
 public static QDataSet fltarr(int len0)
 ```
-
 create a dataset filled with zeros.
 
 Parameters:
@@ -2116,7 +1989,6 @@ Returns:
 public static QDataSet fltarr(int len0,
                              int len1)
 ```
-
 ## fltarr
 
 ```
@@ -2124,14 +1996,12 @@ public static QDataSet fltarr(int len0,
                              int len1,
                              int len2)
 ```
-
 ## ge
 
 ```
 public static QDataSet ge(QDataSet ds1,
                          QDataSet ds2)
 ```
-
 element-wise function returns 1 where ds1\>=ds2.
 
 Parameters:
@@ -2147,7 +2017,6 @@ Returns:
 public static QDataSet greaterOf(QDataSet ds1,
                                 QDataSet ds2)
 ```
-
 element-wise function returns the greater of ds1 and ds2. If an element
 of ds1 or ds2 is fill, then the result is fill.
 
@@ -2167,7 +2036,6 @@ Returns:
 public static QDataSet gt(QDataSet ds1,
                          QDataSet ds2)
 ```
-
 element-wise function returns 1 where ds1\>ds2.
 
 Parameters:
@@ -2183,7 +2051,6 @@ Returns:
 public static QDataSet hanning(QDataSet ds,
                               int len)
 ```
-
 Hanning filter for use with fftPower. ds= fftPower( hanning( randn(
 20480 ), 512 ) )
 
@@ -2195,7 +2062,6 @@ public static QDataSet histogram(QDataSet ds,
                                 double max,
                                 double binSize)
 ```
-
 returns histogram of dataset, the number of points falling in each bin.
 
 Parameters:
@@ -2213,7 +2079,6 @@ Returns:
 public static QDataSet histogram(QDataSet ds,
                                 int binCount)
 ```
-
 returns a histogram of the dataset, based on the extent and scaletype of
 the data. See also autoHistogram, which automatically identifies bin
 width, min and max.
@@ -2233,7 +2098,6 @@ Returns:
 public static QDataSet interpolate(QDataSet vv,
                                   QDataSet findex)
 ```
-
 interpolate values from rank 1 dataset vv using fractional indices in
 rank N findex. For example, findex=1.5 means interpolate the 1st and 2nd
 indices with equal weight, 1.1 means 90% of the first mixed with 10% of
@@ -2258,7 +2122,6 @@ public static QDataSet interpolate(QDataSet vv,
                                   QDataSet findex0,
                                   QDataSet findex1)
 ```
-
 interpolate values from rank 2 dataset vv using fractional indices in
 rank N findex, using bilinear interpolation.
 
@@ -2277,7 +2140,6 @@ Returns:
 ```
 public static boolean isBundle(QDataSet zds)
 ```
-
 return true if the dataset is a bundle. It is rank 2 or rank 1, and has
 the last dimension a bundle dimension.
 
@@ -2292,7 +2154,6 @@ Returns:
 ```
 public static boolean isLegacyBundle(QDataSet zds)
 ```
-
 return true if DEPEND\_1 is set and its units are EnumerationUnits. This
 was the pre-bundle way of representing a bundle of datasets. It might be
 supported indefinitely, because it has some nice rules about the data.
@@ -2315,7 +2176,6 @@ Returns:
 public static QDataSet join(QDataSet ds1,
                            QDataSet ds2)
 ```
-
 Join two rank N datasets to make a rank N+1 dataset, with the first
 dimension having two elements. This is the anti-slice operator. If the
 first dataset is rank N+1 JoinDataset and the other is rank N, then the
@@ -2342,7 +2202,6 @@ See Also:
 public static QDataSet labels(java.lang.String[] labels,
                              java.lang.String context)
 ```
-
 create a labels dataset for tagging rows of a dataset. If the context
 has been used already, including "default", then the EnumerationUnit for
 the data will be preserved. labels(\["red","green","blue"\],"default")
@@ -2363,7 +2222,6 @@ Returns:
 ```
 public static QDataSet labels(java.lang.String[] labels)
 ```
-
 create a labels dataset for tagging rows of a dataset. Example: dep1=
 labels( \["red","greed","blue"\] )
 
@@ -2381,7 +2239,6 @@ Returns:
 public static QDataSet le(QDataSet ds1,
                          QDataSet ds2)
 ```
-
 element-wise function returns 1 where ds1\<=ds2.
 
 Parameters:
@@ -2396,7 +2253,6 @@ Returns:
 ```
 public static QDataSet lesserOf(QDataSet ds1,QDataSet ds2)
 ```
-
 element-wise function returns the lesser of ds1 and ds2. If an element
 of ds1 or ds2 is fill, then the result is fill.
 
@@ -2414,7 +2270,6 @@ elements is fill, then the result is fill.
 public static QDataSet link(QDataSet x,
                            QDataSet y)
 ```
-
 This is like bundle, but declare the last dataset is dependent on the
 first one. "link" is like a plot command where link(x,y) would behave
 like plot(x,y) except you get a dataset back.
@@ -2433,7 +2288,6 @@ public static QDataSet link(QDataSet x,
                            QDataSet y,
                            QDataSet z)
 ```
-
 like bundle, but declare the last dataset is dependent on the first two.
 
 Parameters:
@@ -2451,7 +2305,6 @@ public static QDataSet linspace(double min,
                                double max,
                                int len0)
 ```
-
 return a rank 1 dataset with len0 linearly-spaced values, the first is
 min and the last is max.
 
@@ -2468,7 +2321,6 @@ Returns:
 ```
 public static QDataSet log(QDataSet ds)
 ```
-
 element-wise natural logarithm.
 
 Parameters:
@@ -2482,7 +2334,6 @@ Returns:
 ```
 public static QDataSet log10(QDataSet ds)
 ```
-
 element-wise base 10 logarithm.
 
 Parameters:
@@ -2497,7 +2348,6 @@ Returns:
 public static QDataSet lt(QDataSet ds1,
                          QDataSet ds2)
 ```
-
 element-wise function returns 1 where ds1\<ds2.
 
 Parameters:
@@ -2512,7 +2362,6 @@ Returns:
 ```
 public static QDataSet magnitude(QDataSet ds)
 ```
-
 return the magnitudes of vectors in a rank 2 or greater dataset. The
 last index must be a cartesian dimension, so it must have a depend
 dataset either named "cartesian" or having the property
@@ -2533,7 +2382,6 @@ Returns:
 public static QDataSet medianFilter(QDataSet ds,
                    int size)
 ```
-
 1-D median filter with a boxcar of the given size. This is not
 particularly efficient and would make a nice project for a student.
 Parameters:
@@ -2552,7 +2400,6 @@ Returns:
 public static QDataSet mod(QDataSet ds1,
                           QDataSet ds2)
 ```
-
 element-wise mod of two datasets with compatible geometry.
 
 Parameters:
@@ -2567,7 +2414,6 @@ Returns:
 public static QDataSet multiply(QDataSet ds1,
                                QDataSet ds2)
 ```
-
 element-wise multiply of two datasets with compatible geometry.
 
 Parameters:
@@ -2582,7 +2428,6 @@ Returns:
 public static QDataSet ne(QDataSet ds1,
                          QDataSet ds2)
 ```
-
 element-wise not equal test. 1.0 is returned where elements are not
 equal. Fill is returned where either measurement is invalid.
 
@@ -2598,7 +2443,6 @@ Returns:
 ```
 public static QDataSet negate(QDataSet ds1)
 ```
-
 return a dataset with each element negated.
 
 Parameters:
@@ -2612,13 +2456,11 @@ Returns:
 ```
 public static QDataSet not(QDataSet ds1)
 ```
-
 element-wise logical not function. non-zero is true, zero is false.
 
 ```
 TODO: This isn't working, use ( ds1.eq(1) ) instead.
 ```
-
 Parameters:
 
   - ds1 -
@@ -2631,7 +2473,6 @@ Returns:
 ```
 public static QDataSet ones(int len0)
 ```
-
 return new dataset filled with ones.
 
 Parameters:
@@ -2646,7 +2487,6 @@ Returns:
 public static QDataSet ones(int len0,
                            int len1)
 ```
-
 return new dataset filled with ones.
 
 Parameters:
@@ -2662,7 +2502,6 @@ public static QDataSet ones(int len0,
                            int len1,
                            int len2)
 ```
-
 return new dataset filled with ones.
 
 Parameters:
@@ -2677,7 +2516,6 @@ Returns:
 public static QDataSet or(QDataSet ds1,
                          QDataSet ds2)
 ```
-
 element-wise logical or function. returns 1 where ds1 is non-zero or ds2
 is non-zero.
 
@@ -2694,7 +2532,6 @@ Returns:
 public static QDataSet outerProduct(QDataSet ds1,
                                    QDataSet ds2)
 ```
-
 returns outerProduct of two rank 1 datasets, a rank 2 dataset with
 elements R\[i,j\]= ds1\[i\] \* ds2\[j\].
 
@@ -2713,7 +2550,6 @@ Returns:
 public static QDataSet pow(QDataSet ds1,
                           QDataSet pow)
 ```
-
 element-wise pow (\*\* in FORTRAN, ^ in IDL) of two datasets with the
 same geometry.
 
@@ -2729,7 +2565,6 @@ Returns:
 ```
 public static QDataSet rand(int len0)
 ```
-
 return returns a rank 1 dataset of random uniform numbers from \[0,1\].
 
 ## randn
@@ -2737,7 +2572,6 @@ return returns a rank 1 dataset of random uniform numbers from \[0,1\].
 ```
 public static QDataSet randn(int len0)
 ```
-
 return returns a rank 1 dataset of random numbers of a guassian (normal)
 distribution.
 
@@ -2747,7 +2581,6 @@ distribution.
 public static QDataSet randomn(long seed,
                               int len0)
 ```
-
 returns a rank 1 dataset of random numbers of a guassian (normal)
 distribution. System.currentTimeMillis() may be used for the seed.
 
@@ -2764,7 +2597,6 @@ Returns:
 public static QDataSet randomu(long seed,
                               int len0)
 ```
-
 returns a rank 1 dataset of random numbers of a uniform distribution.
 System.currentTimeMillis() may be used for the seed.
 
@@ -2780,7 +2612,6 @@ Returns:
 ```
 public static DDataSet rebin(QDataSet ds, QDataSet newTags0, QDataSet newTags1) 
 ```
-
 returns a dataset with tags specified by newTags
 
   - ds a rank 2 dataset. This can be a bundle dataset of \[i;X,Y,Z\]
@@ -2799,7 +2630,6 @@ public static DDataSet rebinBundle(QDataSet ds,
                                   QDataSet dep0,
                                   QDataSet dep1)
 ```
-
 takes rank 2 bundle (x,y,z) and averages it into table z(x,y). This is
 similar to what happens in the spectrogram routine.
 
@@ -2819,7 +2649,6 @@ Returns:
 public static QDataSet reduceMax(QDataSet ds,
                                 int dim)
 ```
-
 reduce the dataset's rank by reporting the max of all the elements along
 a dimension. Only QUBEs are supported presently.
 
@@ -2836,7 +2665,6 @@ Returns:
 public static QDataSet reduceMean(QDataSet ds,
                                  int dim)
 ```
-
 reduce the dataset's rank by reporting the mean of all the elements
 along a dimension. Only QUBEs are supported presently.
 
@@ -2853,7 +2681,6 @@ Returns:
 public static QDataSet reduceMin(QDataSet ds,
                                 int dim)
 ```
-
 reduce the dataset's rank by reporting the min of all the elements along
 a dimension. Only QUBEs are supported presently.
 
@@ -2869,7 +2696,6 @@ Returns:
 ```
 public static QDataSet reform(QDataSet ds)
 ```
-
 Reshape the dataset to remove the first dimension with length 1,
 reducing its rank by 1. Dependencies are also preserved.
 
@@ -2887,7 +2713,6 @@ Returns:
 public static QDataSet reform(QDataSet ds,
                              int[] qube)
 ```
-
 change the dimensionality of the elements of the QUBE dataset. For
 example, convert \[1,2,3,4,5,6\] to \[\[1,2\],\[3,4\],\[5,6\]\].
 
@@ -2907,7 +2732,6 @@ returns:
 public static WritableDataSet replicate(double val,
                                        int len0)
 ```
-
 returns rank 1 dataset with value
 
 Parameters:
@@ -2924,7 +2748,6 @@ public static WritableDataSet replicate(double val,
                                        int len0,
                                        int len1)
 ```
-
 returns rank 2 dataset filled with value
 
 Parameters:
@@ -2943,7 +2766,6 @@ public static WritableDataSet replicate(double val,
                                        int len1,
                                        int len2)
 ```
-
 returns rank 3 dataset with filled with value.
 
 Parameters:
@@ -2961,7 +2783,6 @@ Returns:
 public static WritableDataSet replicate(float val,
                                        int len0)
 ```
-
 returns rank 1 dataset with value
 
 Parameters:
@@ -2978,7 +2799,6 @@ public static WritableDataSet replicate(float val,
                                        int len0,
                                        int len1)
 ```
-
 returns rank 2 dataset filled with value
 
 Parameters:
@@ -2997,7 +2817,6 @@ public static WritableDataSet replicate(float val,
                                        int len1,
                                        int len2)
 ```
-
 returns rank 3 dataset with filled with value.
 
 Parameters:
@@ -3016,7 +2835,6 @@ public static QDataSet rescaleRange(QDataSet dr,
                                    double min,
                                    double max)
 ```
-
 returns rank 1 QDataSet range relative to the range in "dr", where 0. is
 the minimum, and 1. is the maximum. For example rescaleRange(ds,1,2) is
 scanNext, rescaleRange(ds,-1,0) is scanPrevious,
@@ -3039,7 +2857,6 @@ Returns:
 ```
 public static QDataSet residuals(QDataSet ds, int boxcarSize) 
 ```
-
 returns number of stddev from adjacent data.
 
   - ds, rank 1 dataset.
@@ -3054,7 +2871,6 @@ Returns:
 ```
 public static QDataSet reverse(QDataSet ds)
 ```
-
 returns the reverse of the rank 1 dataset.
 
 Parameters:
@@ -3068,7 +2884,6 @@ Returns:
 ```
 public static QDataSet ripples( int len0 )
 ```
-
 rank 1 dataset for demos. It contains fill at index 13.
 
 Parameters:
@@ -3080,7 +2895,6 @@ Returns:
 ```
 public static QDataSet ripples( int len0, int len1 )
 ```
-
 rank 2 dataset for demos.
 
 Parameters:
@@ -3093,7 +2907,6 @@ Returns:
 ```
 public static QDataSet ripples( int len0, int len1, int len2 )
 ```
-
 rank 3 dataset for demos.
 
 Parameters:
@@ -3107,7 +2920,6 @@ Returns:
 ```
 public static QDataSet ripples( int len0, int len1, int len2, int len3 )
 ```
-
 rank 4 dataset for demos.
 
 Parameters:
@@ -3134,7 +2946,6 @@ Returns:
 ```
 public static QDataSet ripplesTimeSeries(int len)
 ```
-
 return fake rank 1 data timeseries for testing
 
 Parameters:
@@ -3164,7 +2975,6 @@ Returns:
 ```
 public static java.lang.String safeName(java.lang.String suggest)
 ```
-
 Make a Java-style identifier from the provided string, which will only
 include a-z, A-Z, 0-9 (though not the first), and \_. For example,
 "a\>b" becomes agtb.
@@ -3183,7 +2993,6 @@ Returns:
 ```
 public static QDataSet sawtooth(QDataSet t)
 ```
-
 generates a sawtooth from the tags, where a peak occurs with a period
 2\*PI. All values of T should be ge zero. TODO: I think there should be
 a modp function that is always positive. (-93 % 10 -\>7 though...)
@@ -3201,7 +3010,6 @@ Returns:
 ```
 public static QDataSet shuffle(QDataSet ds)
 ```
-
 returns a rank 1 dataset of indices that shuffle the rank 1 dataset ds
 
 ```
@@ -3209,7 +3017,6 @@ s= shuffle( ds )
 dsShuffled= ds[s]
     
 ```
-
 Parameters:
 
   - ds - rank 1 dataset
@@ -3223,7 +3030,6 @@ Returns:
 ```
 public static QDataSet signum(QDataSet ds1)
 ```
-
 returns the signum function of the argument; 0.0 if the argument is
 zero, 1.0 if the argument is greater than zero, -1.0 if the argument is
 less than zero.
@@ -3245,7 +3051,6 @@ See Also:
 ```
 public static QDataSet sin(QDataSet ds)
 ```
-
 element-wise sin.
 
 Parameters:
@@ -3259,7 +3064,6 @@ Returns:
 ```
 public static QDataSet sinh(QDataSet ds)
 ```
-
 element-wise sinh.
 
 Parameters:
@@ -3274,7 +3078,6 @@ Returns:
 public static QDataSet smooth(QDataSet ds,
                              int size)
 ```
-
 run boxcar average over the dataset, returning a dataset of same
 geometry. Points near the edge are simply copied from the source
 dataset. The result dataset contains a property "weights" that is the
@@ -3296,7 +3099,6 @@ public static QDataSet smoothFit(QDataSet xx,
                 QDataSet yy,
                 int size)
 ```
-
 run boxcar average over the dataset, returning a dataset of same
 geometry. Points near the edge are fit to a line and replaced. The
 result dataset contains a property "weights" that is the weights for
@@ -3318,7 +3120,6 @@ Returns:
 ```
 public static QDataSet sort(QDataSet ds)
 ```
-
 returns a rank 1 dataset of indices that sort the rank 1 dataset ds.
 This is not the dataset sorted. For example:
 
@@ -3328,7 +3129,6 @@ s= sort( ds )
 dsSorted= ds[s]
     
 ```
-
 Parameters:
 
   - ds - rank 1 dataset
@@ -3342,7 +3142,6 @@ Returns:
 ```
 public static QDataSet sqrt(QDataSet ds)
 ```
-
 element-wise sqrt.
 
 Parameters:
@@ -3356,7 +3155,6 @@ Returns:
 ```
 public static QDataSet square(QDataSet t)
 ```
-
 generates a square from the tags, where a the signal is 1 from 0-PI, 0
 from PI-2\*PI, etc.
 
@@ -3374,7 +3172,6 @@ Returns:
 public static QDataSet subtract(QDataSet ds1,
                                QDataSet ds2)
 ```
-
 subtract one dataset from another.
 
 Parameters:
@@ -3392,7 +3189,6 @@ public static MutablePropertyDataSet taggen(double base,
                                            int len0,
                                            org.das2.datum.Units units)
 ```
-
 creates tags. First tag will be start and they will increase by cadence.
 Units specifies the units of each tag.
 
@@ -3410,7 +3206,6 @@ Returns:
 ```
 public static QDataSet tan(QDataSet ds)
 ```
-
 element-wise tan.
 
 Parameters:
@@ -3424,7 +3219,6 @@ Returns:
 ```
 public static QDataSet tanh(QDataSet ds)
 ```
-
 element-wise tanh.
 
 Parameters:
@@ -3440,7 +3234,6 @@ public static QDataSet timegen(java.lang.String baseTime,
                               java.lang.String cadence,
                               int len0)
 ```
-
 returns rank 1 dataset with values \[0,1,2,...\]
 
 Parameters:
@@ -3458,19 +3251,16 @@ Returns:
 ```
 public static QDataSet toDegrees(QDataSet ds)
 ```
-
 ## toRadians
 
 ```
 public static QDataSet toRadians(QDataSet ds)
 ```
-
 ## toTimeDataSet
 
 ```
 public static QDataSet toTimeDataSet( QDataSet years, QDataSet mons, QDataSet days, QDataSet hour, QDataSet minute, QDataSet second, QDataSet nano )
 ```
-
 returns a rank 1 dataset of timetags, by adding the components. Any of
 the components can be null, except for years and days.
 
@@ -3496,7 +3286,6 @@ Returns:
 ```
 public static double total(QDataSet ds)
 ```
-
 return the total of all the elements in the dataset, returning a rank 0
 dataset. If there are invalid measurements, then fill is returned. Does
 not support BINS or BUNDLE dimensions.
@@ -3516,7 +3305,6 @@ Returns:
 public static QDataSet total(QDataSet ds,
                             int dim)
 ```
-
 reduce the dataset's rank by totalling all the elements along a
 dimension. Only QUBEs are supported presently.
 
@@ -3532,7 +3320,6 @@ Returns:
 ```
 public static QDataSet transpose(QDataSet ds)
 ```
-
 Transpose the rank 2 dataset.
 
 ## uniqValues
@@ -3541,7 +3328,6 @@ Transpose the rank 2 dataset.
 public static QDataSet uniqValues(QDataSet ds,
                                  QDataSet sort)
 ```
-
 return the unique elements from the dataset. If sort is null (jython
 None), then the dataset is assumed to be monotonic, and only repeating
 values are coalesced. If sort is non-null, then it is the result of the
@@ -3561,7 +3347,6 @@ Returns:
 ```
 public static QDataSet valid(QDataSet ds)
 ```
-
 returns a dataset with zero where the data is invalid, and positive
 non-zero where the data is valid. (This just returns the weights plane
 of the dataset.) r= where( valid( ds ) )
@@ -3581,7 +3366,6 @@ Returns:
 ```
 public static QDataSet where(QDataSet ds)
 ```
-
 returns a dataset containing the indices of where the dataset is
 non-zero. For a rank 1 dataset, returns a rank 1 dataset with indices
 for the values. For a higher rank dataset, returns a rank 2 qube dataset
@@ -3604,7 +3388,6 @@ Returns:
 ```
 public static WritableDataSet zeros(int len0)
 ```
-
 return new dataset filled with zeros. Note, unlike Matlab which would
 return a rank 2 matrix of data, this returns a rank 1 dataset.
 
@@ -3622,7 +3405,6 @@ Returns:
 public static WritableDataSet zeros(int len0,
                                    int len1)
 ```
-
 return new dataset filled with zeros.
 
 Parameters:
@@ -3638,7 +3420,6 @@ public static WritableDataSet zeros(int len0,
                                    int len1,
                                    int len2)
 ```
-
 return new dataset filled with zeros.
 
 Parameters:
@@ -3652,7 +3433,6 @@ Returns:
 ```
 public static WritableDataSet zeros(QDataSet ds)
 ```
-
 return a new dataset filled with zeroes that has the same geometry as
 the given dataset. Only supports QUBE datasets.
 
@@ -3671,7 +3451,6 @@ Returns:
 ```
 getParam( name, default [, label[, values ]]  )
 ```
-
 returns the parameter with the name, or the default if not provided.
 This is an interesting operator because it is defined in each context,
 and parameters are passed in differently in each case.
@@ -3706,7 +3485,6 @@ Holding shift and pressing the execute will enter a GUI.
 downloadResourceAsTempFile( url, mon ) -> File
 downloadResourceAsTempFile( url, timeoutSeconds, mon ) -> File
 ```
-
 Download the resource into a file. The URL may be any web address, and
 may contain parameters (unlike the FileSystem). Note, the downloaded
 resource may be reused by other threads for 10 seconds. This allows
@@ -3735,13 +3513,11 @@ Example:
 ```
 fil= downloadResourceAsTempFile( URL('`<http://autoplot.org/data/autoplot.dat>`'), monitor )
 ```
-
 ## getFile( surl, mon )
 
 ```
 getFile( surl, mon )
 ```
-
 Download the file and make it available to the script. The URL may not
 contain parameters, but the result is cached.
 
@@ -3759,14 +3535,12 @@ Returns:
 ```
 getDataSet( uri )
 ```
-
 returns a QDataSet for the given URI. Execution will stop at this point
 until the dataset is loaded.
 
 ```
 getDataSet( uri, monitor )
 ```
-
 can be used to monitor the download. Note "monitor" is the local
 variable that contains a ProgressMonitor object.
 
@@ -3775,7 +3549,6 @@ uri= '`<http://www.rbsp-ect.lanl.gov/data_pub/rbspa/hope/level2/rbspa_rel01_ect-
 timerange= getParam( 'timerange', '2013-04-25', 'timerange to load' )
 ds= getDataSet( uri, timerange )
 ```
-
 When the uri can load data from any timerange, as with aggregations,
 then this will load the data for the given timerange, expressed as
 string.
@@ -3785,13 +3558,11 @@ string.
 ```
 listDirectory( uri )
 ```
-
 For example:
 
 ```
 files= listDirectory( '`<http://autoplot.org/data/>`*.cdf' )
 ```
-
 returns a listing of the directory "uri." If uri ends with a slash, then
 the directory is listed without filtering, otherwise the part following
 the slash is a glob that is matched. Note, the list does not contain the
@@ -3810,7 +3581,6 @@ java.awt.Color is imported, so for example Color.RED may be used.
 ```
 dom.plotElements[0].style.color= Color.RED
 ```
-
 ## DataSetBuilder
 
 The DataSetBuilder object is useful for creating datasets.
@@ -3822,9 +3592,7 @@ for i in xrange(115):
   dsb.putValue(-1,0.0)    # -1 means use the built in position
   dsb.nextRecord()
 plot(dsb.getDataSet())
-```
 
-```
 from org.virbo.dsutil import DataSetBuilder
 dsb= DataSetBuilder(2,100,10)  # creates a rank 2 with 100 10-element records pre-allocated. 
 for i in range(115):
@@ -3832,7 +3600,6 @@ for i in range(115):
      dsb.putValue(i,j,0.0)  
 plot(dsb.getDataSet())
 ```
-
 ## putProperty
 
 The putProperty method sets the property on a dataset. For datasets that
@@ -3844,7 +3611,6 @@ is set on the copy.
 ds= ripples(20)
 ds= putProperty( ds, QDataSet.UNITS, Units.eV )
 ```
-
 ## dataset
 
 Converts many objects into QDataSet. For example dataset(\[1,2,3\])
@@ -3870,7 +3636,6 @@ setLayoutOverplot(2)
 plot( 0, x,y )
 plotx( 1, x, lf.getB() * x + lf.getA(), color=Color.RED )
 ```
-
 # Slice and Trim in Python
 
 The slice and trim operators are available in Python as index operators.
@@ -3880,14 +3645,12 @@ For example:
 ds= ripples(20,30)
 s1= ds[10,:]
 ```
-
 The trim operator is similar:
 
 ```
 ds= ripples(20,30)
 t1= ds[5:15,:]
 ```
-
 ## Other useful Java stuff
 
 ```
@@ -3896,7 +3659,6 @@ Runtime.getRuntime().maxMemory()   memory available to the JVM
 Runtime.getRuntime().totalMemory() memory allocated by the JVM 
 Runtime.getRuntime().freeMemory()  free memory of total memory.
 ```
-
 # DOM
 
 The DOM represents the state of the application, including the canvas,
@@ -3907,7 +3669,6 @@ example,
 dom.timeRange= DatumRangeUtil.parseTimeRange('2014')
 print dom.bindings
 ```
-
 # Proper, Fully-Capable, Jython Scripts
 
 Ed W at RPWG points out that python provides some of the functionality I
@@ -3920,15 +3681,12 @@ these scripts and this section begins this discussion.
 def mysource( orbit='A' ):
   """Look up data for an orbit.
      orbit: the orbit number to lookup. A,B,C,0-41"""
-```
 
-```
 class plugin:
   def dataSourceEditorPanel( uri ): uri
   def getDataSet( params ): QDataSet, or dictionary of calculated parameters
   def formatDataSet( QDataSet, params )
 ```
-
 # TimeSeriesBrowse
 
 Time Series Browse is the datasource's capability to cover long
@@ -3973,7 +3731,6 @@ def mydataSetUpdated(event):
     print event       
 dpr.dataSetUpdated= mydataSetUpdated
 ```
-
 Here dpr has the Java Bean pattern addDataSetUpdateListener which has
 the single method dataSetUpdated.
 
@@ -3987,7 +3744,6 @@ def boxSelected(event):
 mm.boxSelected= boxSelected
 dom.plots[0].controller.dasPlot.addMouseModule(mm)
 ```
-
 Here's a slicer:
 
 ```
@@ -3996,7 +3752,6 @@ def mousePointSelected(event):
     print event
 mm.dataPointSelected= mousePointSelected
 ```
-
 ## Reading the stack trace on error messages
 
 It's tricky to decipher the stack traces in error messages when there's
@@ -4021,7 +3776,6 @@ at org.python.proxies.org.das2.event.DataPointSelectionListener$Adapter.dataPoin
 at org.das2.event.DataPointSelectorMouseModule.fireDataPointSelectionListenerDataPointSelected(DataPointSelectorMouseModule.java:124)
 ...
 ```
-
 # DataSets are immutable, sort of
 
 The QDataSet interface is immutable, or read-only, and should be treated
@@ -4046,7 +3800,6 @@ ds= findgen(20)
 ds[3]= float('NaN')
 plot( ds )
 ```
-
 But what if the findgen command were optimized so successive calls would
 return the same dataset object? Essentially they would be failing their
 contract.
@@ -4149,19 +3902,16 @@ commands, so for example you can type in:
 ```
 AP> ds1= randn(100)
 ```
-
 then
 
 ```
 AP> ds2= findgen(100)
 ```
-
 and
 
 ```
 AP> plot( ds1 + ds2 )
 ```
-
 These are the same commands available in scripts (application context),
 documented above.
 
@@ -4180,7 +3930,6 @@ autoplot> ds1= randn(100)
 autoplot> ds2= findgen(100)
 autoplot> plot( ds1 + ds2 )
 ```
-
 Note this interface introduces a number of security problems, and may
 change.
 
@@ -4216,12 +3965,9 @@ can share code with colleagues. For example:
 ```
 f= getFile( '`<http://www-pw.physics.uiowa.edu/~jbf/autoplot/myfunctions.jy>`',monitor)
 execfile( f.toString() ) 
-```
-  
-```
+
 print mytotal( dataset([12,14]) ) 
 ```
-
 Will bring in the mytotal function from
 <http://www-pw.physics.uiowa.edu/~jbf/autoplot/myfunctions.jy>.
 
@@ -4235,7 +3981,6 @@ feedback is poor.
 import sys
 addToSearchPath( sys.path, jarurl, monitor )
 ```
-
 where jarurl is a URL like
 <http://www-us.apache.org/dist//commons/math/binaries/commons-math3-3.6.1-bin.zip/commons-math3-3.6.1/commons-math3-3.6.1.jar>
 

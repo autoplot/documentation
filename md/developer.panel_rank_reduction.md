@@ -40,7 +40,6 @@ acceptable rank.
  data_1|collapse(where energy>1000)
  data_1(where data_2>0)    sql-like queries
 ```
-
 ## panels
 
 extend the panel node's component property, which is just special a
@@ -53,7 +52,6 @@ slice of the data, to include a full API.
  |slice0(23)   pipe indicates non-component
  |collapse()   reduce the last dimension by averaging all leaf elements.
 ```
-
 # Use Cases
 
 Rank 4 data is loaded from a CDF and the user wants to view rank 2

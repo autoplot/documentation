@@ -15,12 +15,9 @@
  window.dataLayer = window.dataLayer || [];
  function gtag(){dataLayer.push(arguments);}
  gtag('js', new Date());
-```
 
-```
  gtag('config', 'G-HQZ6R2K1CK');
 ```
-
 </script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -36,7 +33,6 @@
 ```
        
 ```
-
 <title>
 
 autoplot.org - Main Page
@@ -52,7 +48,6 @@ autoplot.org - Main Page
            @import "/wiki/skins/monobook/main.css?97";
        /*]]>*/
 ```
-
 </style>
 
 `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; media=&quot;print&quot; href=&quot;/wiki/skins/common/commonPrint.css?97&quot; /&gt;  
@@ -65,7 +60,6 @@ autoplot.org - Main Page
        
        
 ```
-
 <script type= "text/javascript">
 
 /\*\<\!\[CDATA\[\*/ var skin = "monobook"; var stylepath =
@@ -167,7 +161,6 @@ wgCurRevisionId = "7652"; /\*\]\]\>\*/
 ```
                
 ```
-
 <h1 class="firstHeading">
 
 Main Page
@@ -362,7 +355,6 @@ $('\#stats').append($('\#rm\_pkI1\_')); $('\#rm\_pkI1\_').wrap('
 ```
  //$($(".external:contains('Start Autoplot')")).attr('href','`<http://autoplot.org/help#Installation>`').attr('Title','Linux operating system detected - link goes to special WebStart instructions');
 ```
-
 }
 
 ```
@@ -375,7 +367,6 @@ $('\#stats').append($('\#rm\_pkI1\_')); $('\#rm\_pkI1\_').wrap('
        a.appendChild(r);
    })(window,document,'`<https://static.hotjar.com/c/hotjar->`','.js?sv=');
 ```
-
 });
 
 </script>
@@ -444,7 +435,6 @@ Personal tools
 ```
    
 ```
-
 </div>
 
 <script type="text/javascript">
@@ -502,7 +492,6 @@ Navigation
 ```
            
 ```
-
 </div>
 
 </form>

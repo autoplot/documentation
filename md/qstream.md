@@ -26,7 +26,6 @@ descriptor that defines the format for each packet, preceeded by ":01:".
    LENGTH is six-digit content lenth
    CONTENT is xml content.
 ```
-
 A description of the CONTENT portion follows below, but this describes
 the course structure of the stream.
 
@@ -38,7 +37,6 @@ the course structure of the stream.
    LENGTH is six-digit content lenth
    CONTENT is xml content.
 ```
-
 See packet types.
 
 # Packets
@@ -48,7 +46,6 @@ See packet types.
    ID is two-digit reference to a packet descriptor.  Note these are identifiers for stream semmantics, and not the dataset identifiers.
    CONTENT is the data no longer than 1000000 bytes.  It is generally binary but can also be ascii encoded data in a special case.
 ```
-
 # Stream Descriptor XML Content
 
 <stream dataset_id="DSID" byte_order="big_endian"/>  
@@ -56,7 +53,6 @@ See packet types.
    DSID is the name of the default dataset to use.  This ID must be a Java-style identifier ([_a-zA-Z][_a-zA-Z0-9]*).  das2streams could only carry one dataset, so this is to preserve the discovery functionality of the stream.
    byte_order is optional, and when the property is missing, little_endian is default.
 ```
-
 # Packet Descriptor XML
 
 A schema should be written for this, but for now:
@@ -142,7 +138,6 @@ something like:
 [01]001023<1024 byte xml description of data>
 |01|000024<24 bytes of data>
 ```
-
 Note this paves the way for variable-length packets as well.
 
 ## Enumeration Units

@@ -49,13 +49,11 @@ resulting jar files will be in dist.
  cd autoplot/Autoplot
  ant jar
 ```
-
 To run the Autoplot you have built, in the Autoplot folder try:
 
 ```
  ant run
 ```
-
 # Building in Netbeans
 
 Purpose: this document describes the process of checking out and

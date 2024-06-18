@@ -246,7 +246,6 @@ files can be read in. Here are a few examples with the file extensions:
  - QStreams (.qds) is a serialized version of the Autoplot internal
    data model, useful for exchanging data, caching, etc.
 ```
-
 To see a list of the active plug-ins, enter "<about:plugins>" in the
 address bar.
 
@@ -308,7 +307,6 @@ Autoplot is different from other plotting tools in a number of ways:
  - open-source, and building procedure documented from SVN checkout to
    invocation
 ```
-
 In this section we explore some of the more advanced features of
 Autoplot.
 
@@ -326,7 +324,6 @@ automatically.
  - Copy and Paste image into email or PowerPoint
  - Export Data to ASCII table, Excel Spreadsheet, CDF, Binary table
 ```
-
 1.  1.  2.3. There are many hidden features
 
 ```
@@ -335,7 +332,6 @@ automatically.
  - The Tabs "Canvas," "Axis," "Metadata," etc, undock so that the
    panels can be viewed side-by-side.
 ```
-
 1.  1.  2.4. Das2 Graphics Library
 
 Das2 is the graphics library used for rendering and interacting with the
@@ -363,7 +359,6 @@ Autoplot, such as:
  - Renderers. The data is rendered with das2 renderer objects. Editing
    the renderer directly allows fine control of rendering.
 ```
-
 More information about it is available at
 [3](http://www.das2.org)(http://www.das2.org "<http://www.das2.org>").
 
@@ -446,63 +441,42 @@ Retrieved from "\<<http://autoplot.org//Manual>\>"
 
 ```
  - [Article](/Manual "View the content page [c]")
-```
 
-```
  - [Discussion](/Talk:Manual "Discussion about the content page [t]")
-```
 
-```
  - [View
    source](/wiki/index.php?title=Manual&action=edit "This page is protected. You can view its source. [e]")
-```
 
-```
  - [History](/wiki/index.php?title=Manual&action=history "Past versions of this page. [h]")
 ```
-
 1.  1.  Personal tools
 
 ```
  - [Log in / create
    account](/wiki/index.php?title=Special:Userlogin&returnto=Manual "You are encouraged to log in, it is not mandatory however. [o]")
 ```
-
 \[\](/Main\_Page "Visit the Main Page \[z\]")
 
 1.  1.  Navigation
 
 ```
  - [Main Page](/Main_Page "Visit the Main Page [z]")
-```
 
-```
  - [Community
    portal](/autoplot.org:Community_Portal "About the project, what you can do, where to find things")
-```
 
-```
  - [Current
    events](/Current_events "Find background information on current events")
-```
 
-```
  - [Recent
    changes](/Special:Recentchanges "The list of recent changes in the wiki. [r]")
-```
 
-```
  - [Random page](/Special:Random "Load a random page [x]")
-```
 
-```
  - [Help](/Help:Contents "The place to find out.")
-```
 
-```
  - [Donations](/autoplot.org:Site_support "Support us")
 ```
-
 1.  1.  Search
 
 &nbsp;
@@ -512,54 +486,21 @@ Retrieved from "\<<http://autoplot.org//Manual>\>"
 ```
  - [What links
    here](/Special:Whatlinkshere/Manual "List of all wiki pages that link here [j]")
-```
 
-```
  - [Related
    changes](/Special:Recentchangeslinked/Manual "Recent changes in pages linked from this page [k]")
-```
 
-```
  - [Upload file](/Special:Upload "Upload images or media files [u]")
-```
 
-```
  - [Special
    pages](/Special:Specialpages "List of all special pages [q]")
-```
 
-```
  - [Printable
    version](/wiki/index.php?title=Manual&printable=yes "Printable version of this page [p]")
-```
 
-```
  - [Permanent
    link](/wiki/index.php?title=Manual&oldid=6491 "Permanent link to this version of the page")
 ```
-
 \[\!\[Powered by
 MediaWiki\](/wiki/skins/common/images/poweredby\_mediawiki\_88x31.png)\](http://www.mediawiki.org/)
-
-```
- - This page was last modified 12:41, 27 January 2017.
-```
-
-```
- - This page has been accessed 3,596 times.
-```
-
-```
- - [Privacy
-   policy](/autoplot.org:Privacy_policy "autoplot.org:Privacy policy")
-```
-
-```
- - [About
-   autoplot.org](/autoplot.org:About "autoplot.org:About")
-```
-
-```
- - [Disclaimers](/autoplot.org:General_disclaimer "autoplot.org:General disclaimer")
-```
 

@@ -30,14 +30,12 @@ have:
 sc= OBJ_NEW('IDLjavaObject$ScriptContext', 'org.virbo.autoplot.ScriptContext')
 x= sc->getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
 ```
-
 in MATLAB you would have:
 
 ```
 sc= org.virbo.autoplot.ScriptContext
 x= sc.getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
 ```
-
 For this reason, examples are shown in IDL within this document.
 
 # Getting Started
@@ -80,7 +78,6 @@ command "javaaddpath":
 ```
 MATLAB> javaaddpath( '/tmp/autoplot.jar' )
 ```
-
 Note for MATLAB, this can be a URL, like
 <http://autoplot.org/jnlp/v2015a_5/autoplot.jar>
 
@@ -91,7 +88,6 @@ MATLAB> apds  = org.virbo.idlsupport.APDataSet;
 QDataSetBridge v1.8.01
 APDataSet v1.3.2
 ```
-
 ### Connecting to IDL
 
 For IDL, the jar file must be connected to the IDL process before
@@ -101,7 +97,6 @@ will work **inconsistently** if it's not. Using bash:
 ```
 Unix> export CLASSPATH=/tmp/autoplot.jar
 ```
-
 And we can test to see that the jar file is connected:
 
 ```
@@ -109,7 +104,6 @@ IDL> apds= OBJ_NEW('IDLjavaObject$APDataSet', 'org.virbo.idlsupport.APDataSet')
 % QDataSetBridge v1.7.01
 % APDataSet v1.2.3
 ```
-
 ## First Read of Data
 
 I'll show a first read of data in both MATLAB and IDL. ![Autoplot can be
@@ -122,7 +116,6 @@ used to read data into IDL and MATLAB](idlMatlabInterface.png
 MATLAB> apds.setDataSetURI( '`<http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`' )
 MATLAB> apds.doGetDataSet
 ```
-
 Note there's a bug where MATLAB is unable to read AbstractPreferences,
 and you see an error message associated with this. This message can be
 ignored. Note the default autoplot\_data/fscache must always be used.
@@ -133,7 +126,6 @@ data: data[dep0=287] (dimensionless)
 dep0: dep0[287] (t1970) (DEPEND_0)
 MATLAB> plot( apds.values )
 ```
-
 ### IDL
 
 Here's the code in IDL. Remember, the CLASSPATH variable must be set in
@@ -147,7 +139,6 @@ data: data[dep0=287] (dimensionless)
 dep0: dep0[287] (t1970) (DEPEND_0)
 IDL>  plot, apds->values()
 ```
-
 This shows a first look at getting data.
 
 ## QDataSet in this Interface
@@ -168,20 +159,17 @@ instead of:
 ```
 apds->property( QDataSet.DEPEND_0 ).values()
 ```
-
 we say:
 
 ```
 dep0Name= apds->depend(0)
 x= apds->values( dep0Name )
 ```
-
 or
 
 ```
 x= apds->values( apds->depend(0) )
 ```
-
 Another difference is that the apds is mutable, meaning its state can be
 changed, whereas QDataSets are generally immutable. For example, you can
 tell the apds what your preferred units are, affecting what is returned
@@ -194,19 +182,15 @@ You can access the dataset properties like so:
 ```
 dsp= apds->properties( )
 print, ( dsp->get('TITLE') )->toString()    ; unfortunately IDL doesn't quite equate Java strings with IDL strings, so you need "toString()"
-```
-  
-```
+
 yp= apds->properties( 'ds_2' )
 print, ( yp->get('LABEL') )->toString()
 ```
-
 or
 
 ```
 print, ( apds->property( 'ds_2', 'LABEL') )->toString()
 ```
-
 # The Rest of the Reader Interface
 
 What are the X values? They are in some strange unit that the data
@@ -218,7 +202,6 @@ want:
 apds->setPreferredUnits, 'hours since 2007-01-17T00:00' 
 plot( apds->values('dep0'), apds->values() ) 
 ```
-
 (Problem: there's an inconsistency here between ooffice calc and what
 I'm getting. It almost looks like the autoplot xls export shifts to the
 local time. Use a different data source, like CDF.) Here are some
@@ -231,7 +214,6 @@ We also can work with fill data:
 ```
 apds->setFillValue, -999
 ```
-
 This will convert whatever fill is in the dataset to this value. This
 saves the developer the time of reading what the fill, validmin, and
 validmax are in the QDataSet.
@@ -244,7 +226,6 @@ Other classes Autoplot uses can be accessed. For example,
 sc= OBJ_NEW('IDLjavaObject$ScriptContext', 'org.virbo.autoplot.ScriptContext')
 x= sc->getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
 ```
-
 lists all the variables in the CDF file.
 
 #### Format datasets from MATLAB/IDL
@@ -257,7 +238,6 @@ ds= dsu->asDataSet( randomu( s, 200 ) )    ; adapt IDL array to QDataSet. This i
 sc= OBJ_NEW('IDLjavaObject$ScriptContext', 'org.virbo.autoplot.ScriptContext' )
 sc->formatDataSet, ds, '/tmp/foo.xls'
 ```
-
 The extension is used to control the output format. Note formatting to
 CDF is still done via the C-based plugin, not the Java plugin, and
 cannot be used. Note also that error feedback is poor, see
@@ -277,9 +257,7 @@ FileStorageModel objects, note the $Static$ part in the OBJ\_NEW part:
 
 ```
 Unix> export CLASSPATH=/tmp/autoplot.jar
-```
-  
-```
+
 IDL> fs= OBJ_NEW( 'IDLJavaObject$Static$FileSystem', 'org.das2.util.filesystem.FileSystem' ) ; provide access to the create command
 IDL> afs= fs.create('`<http://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/>`') ; create a filesystem object
 IDL> fsm= OBJ_NEW( 'IDLjavaObject$Static$FileStorageModel', 'org.das2.fsm.FileStorageModel' )
@@ -289,7 +267,6 @@ IDL> dr= dru.parseTimeRange('2014-02')
 IDL> ff= afsm.getFilesFor( dr )
 IDL> for i=0,n_elements(ff)-1 do print, ff[i]->toString()
 ```
-
 # Problems
 
 There are some technical issues with all this.
@@ -323,7 +300,6 @@ Remember,
 ```
 Unix> export CLASSPATH=/tmp/autoplot.jar
 ```
-
 And here's the first IDL program:
 
 ```
@@ -333,7 +309,6 @@ apds->doGetDataSet
 apds->setPreferredUnits, 'hours since 2007-01-17T00:00' 
 plot, apds->values( apds->depend(0) ), apds->values()
 ```
-
 Accessing aggregated data
 
 ```
@@ -344,7 +319,6 @@ apds->doGetDataSet
 apds->setPreferredUnits, 'hours since '+t 
 plot, apds->values( apds->depend(0) ), apds->values(), xtitle='hours since '+t
 ```
-
 Using slice to get at irregular data
 
 ```
@@ -359,7 +333,6 @@ print, apds->toString()
 help, apds->slice( 3 )
 plot, apds->slice( 3 ), /ylog
 ```
-
 # Complete MATLAB Examples
 
 Sarah couldn't write .xls files on her Mac. This script allows her to do
@@ -370,24 +343,19 @@ javaaddpath( '`<http://autoplot.org/jnlp/v2015a_5/autoplot.jar>`' )
 Ops = org.virbo.dsops.Ops;
 Util= org.virbo.dataset.DataSetUtil;
 SC= org.virbo.autoplot.ScriptContext; 
-```
-  
-```
+
 tt= Ops.labels( {  'experiment_1', 'experiment_2' } );
 ll= Ops.labels( { 'ch1','ch2','ch3','ch4','ch5','ch6' } );
 ds= rand(2,6);
 ds= Util.asDataSet( ds );
 ds= Ops.link( tt, ll, ds );
 SC.formatDataSet( ds, '/tmp/forSarah.xls?sheet=sh1' );
-```
-  
-```
+
 ds= rand(2,6);
 ds= Util.asDataSet( ds );
 ds= Ops.link( tt, ll, ds );
 SC.formatDataSet( ds, '/tmp/forSarah.xls?sheet=sh2&append=T' );
 ```
-
 And Cassini irregular data, coming from U. Iowa das2 server. Replace KEY
 with one provided by the group:
 
@@ -407,7 +375,6 @@ apds.doGetDataSet();
 apds
 apds.slice( 3 )
 ```
-
 # Previous Documentation
 
   - Some older scripts show how to pass data to Autoplot from IDL and

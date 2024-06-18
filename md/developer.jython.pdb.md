@@ -20,7 +20,6 @@ Note it is easy to hang Autoplot if this is not done properly.
  AP> from java.lang import System
  AP> System.setProperty("jythonDebugger","true")
 ```
-
   - Presently the script must be modified to use the debugger.
       - import pdb
       - pdb.set\_trace() should be called where the Jython interpreter

@@ -40,18 +40,14 @@ Here's a Jython script defining a vertical histogram:
 ```
 from org.das2.graph import Renderer
 from java.awt.geom import GeneralPath
-```
-  
-```
+
 class HistogramRenderer( Renderer ):
    def autorange( self, ds ):
        xr= extent( ds )
        yr= extent( ds.property( QDataSet.DEPEND_0 ) )
        bds= join(rescaleRange(xr,-0.1,1.1),rescaleRange(yr,-0.1,1.1))
        return bds
-```
-  
-```
+
    def render( self, g, xaxis, yaxis, monitor=None ):
        xzero= xaxis.transform(0,xaxis.getUnits())
        ds= self.getDataSet()
@@ -77,21 +73,16 @@ class HistogramRenderer( Renderer ):
        g.fill( gp )
        g.setColor( cb )
        g.draw( gp )
-```
-  
-```
+
 # demo code below shows its use.
 reset()
 ds= append( randomn(5334,10000) , 3+randomn(5335,20000) )
 setCanvasSize(724,460)
 plot( ds, xpos='3em,70%-3em', ypos='50px,400px', color=Color.BLUE, renderType='scatter', symbolSize=3 )
-```
-  
-```
+
 plot( 1, histogram(ds,50), xpos='70%+2em,100%-2em',  ypos='50px,400px', color=Color.BLUE, 
       ydrawTickLabels=False, renderer= HistogramRenderer() )
 ```
-
 ![CustomRendererVertHist.jpg](CustomRendererVertHist.jpg
 "CustomRendererVertHist.jpg")
 

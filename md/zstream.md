@@ -10,7 +10,6 @@ T: the type of packet.  For example, stream descriptor, packet descriptor, or da
 N: the packet identifier.  numbers or zero-length string to indicate anonymous.  This must only be positive and less than 1000, or zero length.
 L: decimal length.  Number of bytes following the packet.  Zero is acceptable (heartbeat).  999999999 is limit.
 ```
-
 The type (T) of packet can be one of:
 
   - S, a stream header. What follows this will always be a valid stream.
@@ -80,7 +79,6 @@ accomplish with streams.
  Chris answer:  Of course, the contents of S packets are defined by the
  protocol number.  Put whatever you like in there.
 ```
-
 # Proposal on Stream Syntax numbers
 
 How about the following for a starter protocol index list:

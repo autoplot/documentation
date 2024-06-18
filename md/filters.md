@@ -77,13 +77,11 @@ these same routines. So for example, loading
 ```
 vap+cdaweb:ds=OMNI_HRO_1MIN&id=Beta&timerange=Oct+2016
 ```
-
 and applying the filter
 
 ```
 |smooth(51)
 ```
-
 is the same as the script:
 
 ```
@@ -91,7 +89,6 @@ ds= getDataSet( 'vap+cdaweb:ds=OMNI_HRO_1MIN&id=Beta&timerange=Oct+2016' )
 ds= smooth( ds, 51 )
 plot( ds )
 ```
-
 Filters make the commonly-used functions of scripting available without
 the overhead of scripting, and available within .vap files.
 

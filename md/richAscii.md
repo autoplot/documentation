@@ -22,7 +22,6 @@ column, like so:
 2015-03-21T00:00:00.476Z 2.0834
 2015-03-21T00:00:06.976Z 2.0829
 ```
-
 The following properties can be attached to each variable:
 
 ```
@@ -39,7 +38,6 @@ UNITS, string, units string that is made into canonical das2 units.  A list of d
    Note units like "seconds since 2010-01-01T00:00" can be used for times.  These are non-leap-seconds since the UT time.
    "UTC" should be used to indicate that the time is an ISO8601 formatted time (2016-06-16T01:23).
 ```
-
 Structural properties allow for more complex data:
 
 ```
@@ -54,14 +52,12 @@ DEPEND_1, string, refers to another column's NAME to assign values for the rank 
 DEPEND_0, string, refers to another column's NAME to assign values for the of data.  By default, the first column is used, but this can override.
 ENUM, array of string, enumerated data type.  0=the first element, 1=second element, etc.
 ```
-
 Any root-level JSON object that describes data will contain either:
 
 ```
 START_COLUMN, integer, starting column for the data, where 0 is the first column, or
 VALUES, array of doubles, values are defined in the rich header and not in the table below.  This is typically used for DEPEND_1.
 ```
-
 All other root-level JSON objects are considered to be metadata. Note
 too that each JSON object can contain arbitrary tags to be interpreted
 as metadata.
@@ -77,7 +73,6 @@ SCALE\_MIN/SCALE\_MAX:
 2011-01-01T00:00 0.12
 2011-01-01T00:01 0.14
 ```
-
 Dimension property embeds higher rank data:
 
 ```
@@ -86,7 +81,6 @@ Dimension property embeds higher rank data:
 2011-01-01T00:00 0.12 0.13 0.14
 2011-01-01T00:01 0.14 0.15 0.16
 ```
-
 Dimension property embeds higher rank data, ELEMENTS allows components
 to be accessed
 
@@ -96,7 +90,6 @@ to be accessed
 2011-01-01T00:00 0.12 0.13 0.14
 2011-01-01T00:01 0.14 0.15 0.16
 ```
-
 # Use Cases
 
   - encode data that is impossible to derive using parser: e.g.

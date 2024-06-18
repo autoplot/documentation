@@ -95,7 +95,6 @@ bds.property('UNITS',0) -> 'Seconds since 2012-01-01T00:00'
 bds.property('UNITS',1) -> 'cm^-3'
 bds.property('UNITS',2) -> 'K'
 ```
-
 Note Autoplot's QDataSet implementation contains a useful 'unbundle'
 function which extracts any of the datasets.
 
@@ -103,7 +102,6 @@ function which extracts any of the datasets.
 bundle( time[1440], density[time=1440], temperature[time=1440] ) -> data[time=1440,3]
 unbundle( data[time=1440,3], 'density' ) -> density[time=1440]
 ```
-
 ## Bins Index
 
 A Bins index indicates that the index describes ranges of a dimension.
@@ -114,7 +112,6 @@ example:
 ds[time,2]
 ds.property(BINS_1)='min,max'
 ```
-
 This would mean that ds\[0,0\] is the lower bound of the first time, and
 ds\[0,1\] is the upper bound. Autoplot looks only for 'min,max' to
 indicate bins in the LANL Nearest Neighbor mode for spectrograms
@@ -134,7 +131,6 @@ Suppose we have roughly 1440 measurements each day:
 ```
 join( ds[time=1440,energy=32], ds[time=1441,energy=32 ) -> ds[join=2,time=1440*,energy=32*]
 ```
-
 Note the asterisk (\*) which indicates the result is not a qube.
 
 Note a join of joins can often be reduced so that there is just one join
@@ -144,7 +140,6 @@ with the existing join dimension:
 ```
 join( ds[time=1440,energy=32], ds[time=1441,energy=32 ) -> ds[time=2881,energy=32]
 ```
-
 ## QDataSet libraries
 
 Any QDataSet library should provide functions for operating on the data.
@@ -496,7 +491,6 @@ ad hoc.
 ```
 dep1.putProperty(QDataSet.COORDINATE_FRAME, "ComplexNumber");
 ```
-
 is used in the fft function, but you could have a COORDINATE\_FRAME with
 complex components.
 
@@ -529,7 +523,6 @@ so that properties can be added:
 ```
     ds= putProperty( ds, 'FilesRead', file )
 ```
-
 Note that there are optimal implementations doing this, such as copying
 over the properties but leaving the data immutable.
 
@@ -541,7 +534,6 @@ altogether and use the capability method. For example,
 ```
     WriteCapability write= ds.capability( WriteCapability.class )
 ```
-
 would return null if the data cannot be modified, or the
 WriteCapability. This method exists in the interface but is not used.
 
@@ -556,7 +548,6 @@ Another way to record this would be using
 ```
     DataSetAnnotations.getInstance().getAnnotation( ds, 'fileSource' )
 ```
-
 Note that when the dataset is no longer used and is garbage collected,
 the annotation will also be removed. (A WeakHashMap is used to store
 them.)
@@ -572,13 +563,11 @@ indicated:
 ```
   D[T=1440;D1,D2,D2,D4]
 ```
-
 so a semicolon would delineate each index. Then
 
 ```
   D[T=1440;D1,Spec[32],D2] 
 ```
-
 would indicate the rich bundle.
 
 Why is this important? Documentation and user feedback depends on this.
@@ -609,38 +598,32 @@ the problems I've had. For example,
 ```
    D[T=1440] 
 ```
-
 would be stated as:
 
 ```
    T(i)->D(i)
 ```
-
 or just:
 
 ```
    T->D
 ```
-
 For spectrograms you can have:
 
 ```
    X(i),Y(j)->Z(i,j)
 ```
-
 and buckshot data would be:
 
 ```
    X(i),Y(i)->Z(i)
 ```
-
 What would a bundle look like (I'm not sure):
 
 ```
    T(i),BDS(j->X,Y,Z)->Z(i,j)
    
 ```
-
 &quot;The TickCurveRenderer plots data T(i\&lt;1440),(j&rarr;X,Y)&rarr;Traj(i,j) along a
 curve. At each point, we collect 4 measurements:
 Traj,(j&rarr;D1,D2,D3,D4)&rarr;D(i,j)&quot; &quot;i,j(0=low,1=high) &rarr; BinBoundary(i,j)&quot;

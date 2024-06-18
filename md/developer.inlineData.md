@@ -16,7 +16,6 @@ vap+inline:3,4;3,6;5,6
 vap+inline:2000-001T00:00,23.5;2000-002T00:00,23.5;2000-003T00:00,23.5
 vap+inline:1,2,3&DEPEND_0=1,2,3&UNITS=hours since 2000-001T00:00
 ```
-
 # Use Cases
 
   - In jython, construct dataset ytags with inline dataset.
@@ -24,14 +23,12 @@ vap+inline:1,2,3&DEPEND_0=1,2,3&UNITS=hours since 2000-001T00:00
 ```
  ytags= getDataSet( 'vap+inline:exp(findgen(20))&UNITS=eV&SCALE_TYPE=log&LABEL=Energy' )
 ```
-
   - Decorate existing datasets. This removes the xtags from the dataset
     (not released):
 
 ```
  vap+inline:getDataSet('`<http://autoplot.org/data/autoplot.cdf?BGSM>`')&DEPEND_0=None
 ```
-
 # Examples
 
 vap+inline:2000-001T00:00,23.5;2000-002T00:00,23.5;2000-003T00:00,23.5

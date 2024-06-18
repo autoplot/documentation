@@ -127,7 +127,6 @@ rank 1 and there is a timetag associated with each measurement.
 ```
 vap+inline:ripplesWaveformTimeSeries(10)
 ```
-
 This has evolved somewhat, where the DEPEND\_1 can be a rank 2 dataset,
 so that each measurement can be located precisely with a floats, and
 also where a rank 3 join of rank 2 waveform datasets is supported.
@@ -141,7 +140,6 @@ Autoplot to use this form, but it can be:
 yy[xx[tt]] where yy xx and tt are all rank 1
 bundle[i;t,x,y]
 ```
-
 # Complex Data
 
 The Ops.fft function returns ds\[n,2\], where ds\[:,0\] are the real

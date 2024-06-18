@@ -92,7 +92,6 @@ $('.thumbimage').hover( function() {
        $(this).attr('src',$(this).oldsrc).attr('width','130').attr('height','100').parent().parent().width('').parent().addClass('tright');
    } );
 ```
-
 </script>
 
 

@@ -14,19 +14,16 @@ labels. The goal would be a units class such that
 ```
 5m/10s = 0.2 m/s
 ```
-
 but also
 
 ```
 5 apples/10 s= 0.2 apples/s
 ```
-
 and
 
 ```
 2010-01-01T00:00 + 13 minutes = 2010-01-01T00:13
 ```
-
 ## Ratio Class
 
 Work out some classes. It would be nice to allow 1/3 to be represented
@@ -37,7 +34,6 @@ Ratio
 numerator:int
 denominator:int
 ```
-
 Canonical form will be positive denominator.
 
 Now to store real numbers.
@@ -47,7 +43,6 @@ RealNumber
 scale:Ratio
 exponent:Ratio
 ```
-
 ## Units Class
 
 ```
@@ -62,7 +57,6 @@ candele:Ratio      ...
 mole:Ratio         ...
 offsetUnits:Units  location units have an offset from some basis.  basis like "since 2014-01-01" and offset units like "microseconds"
 ```
-
 # Examples
 
 Units.pcm3 is count per cm\*\*3, as in number density.
@@ -70,32 +64,27 @@ Units.pcm3 is count per cm\*\*3, as in number density.
 ```
 Units.pcm3= Units( 'cm**-3', m=-3, scale=1e6 )
 ```
-
 Units.kelvin
 
 ```
 Units.kelvin= Units( 'K', K=1 )
 ```
-
 Units.eV
 
 ```
 Units.eV= Units( 'eV', Units.joule, scale= 1.60217653×10**19 )   # derive from previously defined units
 Units.eV= Units( 'eV', kg=1, m=2, s=2, scale=1.60217653×10**19 )
 ```
-
 Units.volts
 
 ```
 Units.volts= Units( 'V', kg=1, m=2, s=-3, A=-1 )
 ```
-
 Units.v2pm2Hz
 
 ```
 Units.v2pm2Hz= Units( 'V^2 m^-2 Hz^-1', Units.volts**2, s=1, m=-2 )
 ```
-
 # Parsing
 
 CDF files and Autoplot URIs contain string representations of units we
@@ -112,12 +101,9 @@ parenthesis are required for demoninator:
 a/b*c   -> a * b^-1 * c
 a/(b*c) -> a * b^-1 * c^-1
 a b c   -> a * b * c^-1
-```
 
-```
   'V^2 m^-2 Hz^-1'
 ```
-
 # Operations
 
   - Units\*Units -\> add all the components. Multiply the scales. If

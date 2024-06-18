@@ -106,7 +106,6 @@ Usage: AutoplotServer
   --rescaleFonts   when the .vap is rescaled, also scale the fonts
 UNIX> java -cp ~/autoplot.jar org.autoplot.AutoplotServer -u '`<http://autoplot.org/data/autoplot.cdf?BGSEc>`' -o image.png
 ```
-
 # Methods
 
 ## Applet

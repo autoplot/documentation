@@ -51,13 +51,11 @@ If the servlet is at
 ```
 http://server/AutoplotServlet/SimpleServlet?url=...
 ```
-
 use the URL
 
 ```
 http://server/cache/AutoplotServlet/SimpleServlet?url=...
 ```
-
 to use a cached image if it exists by adding the following to the Apache
 configuration file:
 
@@ -97,7 +95,6 @@ configuration file:
  ProxyPass /cache/AutoplotServlet ajp://localhost:8009/AutoplotServlet                                                                                                                                                                      
  ProxyPassReverse /cache/AutoplotServlet ajp://localhost:8009/AutoplotServlet
 ```
-
 # Server Configuration
 
 When the server is first installed, there are a number of security
@@ -130,7 +127,6 @@ identifiers in a table. For example:
 bat1   /home/jbf/fun/sounds/BatFlying31109.wav
 boom(.*)   /home/jbf/fun/sounds/boom$1.wav
 ```
-
 in ids.txt will make it so that
 .../AutoplotServlet/SimpleServlet?id=bat1 will plot
 /home/jbf/fun/sounds/BatFlying31109.wav and

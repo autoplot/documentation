@@ -34,7 +34,6 @@ IDL> System= obj_new( 'IDLJavaObject$Static$System', 'java.lang.System' )
 IDL> print, System.getProperty( 'java.version' )
 1.8.0_131
 ```
-
 You will need at least Java version 1.7.0, and 1.8.0\_102 or better is
 needed to access CDAWeb and other https sites. You will need at least
 IDL 7.0, and soon 8.4 will be required.
@@ -78,7 +77,6 @@ will work **inconsistently** if it's not. Using bash:
 ```
 Unix> export CLASSPATH=autoplot.jar
 ```
-
 And start up a new IDL session and we can test to see that the jar file
 is connected:
 
@@ -87,7 +85,6 @@ IDL> apds= OBJ_NEW('IDLjavaObject$APDataSet', 'org.autoplot.idlsupport.APDataSet
 % APDataSet v1.6.2
 % Java Version 1.7.0_25
 ```
-
 ## First Read of Data
 
 Suppose you have been using the Autoplot URI (data address)
@@ -107,7 +104,6 @@ data: data[dep0=287] (dimensionless)
 dep0: dep0[287] (t1970) (DEPEND_0)
 IDL>  plot, apds.values()
 ```
-
 This shows a first look at getting data.
 
 ## QDataSet in this Interface
@@ -128,13 +124,11 @@ object. So we say:
 dep0Name= apds.depend(0)   ; This returns the name of the DEPEND_0 property.
 x= apds.values( dep0Name )
 ```
-
 or
 
 ```
 x= apds.values( apds.depend(0) )
 ```
-
 Another difference is that the apds is mutable, meaning its state can be
 changed, whereas QDataSets are generally immutable. For example, you can
 tell the apds what your preferred units are, affecting what is returned
@@ -148,21 +142,17 @@ You can access the dataset properties like so:
 dsp= apds.properties( )
 p= dsp.get('NAME')
 print, p.toString()    ; unfortunately IDL doesn't quite equate Java strings with IDL strings, so you need "toString()"
-```
-  
-```
+
 yp= apds.properties( 'ds_2' )
 p= yp.get('LABEL')
 print, p.toString()
 ```
-
 or
 
 ```
 ll= apds.property( 'ds_2', 'NAME')
 print, ll.toString()
 ```
-
 # The Rest of the Reader Interface
 
 What are the X values? They are in some strange unit that the data
@@ -174,7 +164,6 @@ want:
 apds.setPreferredUnits, 'hours since 2007-01-17T00:00' 
 plot( apds.values('dep0'), apds.values() ) 
 ```
-
 Here are some example units strings: seconds since 2010-01-01T00:00,
 days since 2010-01-01T00:00, Hz, MHz. Note Autoplot's units are not
 fully developed, and conversions are not always possible.
@@ -184,7 +173,6 @@ We also can work with fill data:
 ```
 apds.setFillValue, -999
 ```
-
 This will convert whatever fill is in the dataset to this value. This
 saves the developer the time of reading what the fill, validmin, and
 validmax are in the QDataSet.
@@ -194,7 +182,6 @@ Last, we can add a filter process string:
 ```
 apds.setFilter, '|slice1(0)'
 ```
-
 Presently this must be done before the getDataSet call. Future versions
 should allow it at any time.
 
@@ -233,12 +220,9 @@ if apds.rank() eq 3 and not apds.isQube() then begin
 endif else begin
   data = apds.values()
 endelse
-```
-  
-```
+
 help, data
 ```
-
 # Access other Autoplot classes
 
 Other classes Autoplot uses can be accessed. For example,
@@ -247,7 +231,6 @@ Other classes Autoplot uses can be accessed. For example,
 sc= OBJ_NEW('IDLjavaObject$ScriptContext', 'org.autoplot.ScriptContext')
 x= sc.getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')
 ```
-
 lists all the variables in the CDF file.
 
 #### Accessing Aggregation in IDL
@@ -259,32 +242,24 @@ ops= OBJ_NEW('IDLJavaObject$Static$Ops', 'org.das2.qds.ops.Ops' )   ; note stati
 ff= fsm.getBestNamesFor( ops.datumRange('1999-12-30/2000-01-04') )   ; wait for 2018-07-18 release
 print, fsm.getRoot() + ff[0]
 ```
-
 #### Format datasets from IDL
 
 Here's how we can use Autoplot's formatting to export data:
 
 ```
 setenv, 'CLASSPATH=autoplot.jar'
-```
-  
-```
+
 sc= OBJ_NEW('IDLjavaObject$ScriptContext', 'org.autoplot.ScriptContext')
 ops= OBJ_NEW('IDLjavaObject$Static$Ops', 'org.das2.qds.ops.Ops' )
 units= OBJ_NEW('IDLjavaObject$Static$Units', 'org.das2.datum.Units' )
-```
-  
-```
+
 tt= ops.dataset( dindgen(100), units.lookupUnits( 'seconds since 1970-01-01T00:00Z' ) )
 dd= ops.dataset( randomn(s,100) )
 dd.putProperty, 'DEPEND_0', tt
-```
-  
-```
+
 sc.formatDataSet, tt, '/tmp/foo.cdf?tt'
 sc.formatDataSet, dd, '/tmp/foo.cdf?dd&append=T'
 ```
-
 The extension is used to control the output format. Note also that error
 feedback is poor, see <https://sourceforge.net/p/autoplot/bugs/768/>. We
 should consider adding a wrapper for often-used functions to simplify
@@ -303,9 +278,7 @@ FileStorageModel objects, note the $Static$ part in the OBJ\_NEW part:
 `Unix&gt;&nbsp;wget&nbsp;-N&nbsp;`&lt;http://autoplot.org/jnlp/latest/autoplot.jar&gt;  
 ```
 Unix> export CLASSPATH=autoplot.jar
-```
-  
-```
+
 IDL> fs= OBJ_NEW( 'IDLJavaObject$Static$FileSystem', 'org.das2.util.filesystem.FileSystem' ) ; provide access to the create command
 IDL> afs= fs.create('`<https://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/>`') ; create a filesystem object
 IDL> fsm= OBJ_NEW( 'IDLjavaObject$Static$FileStorageModel', 'org.das2.fsm.FileStorageModel' )
@@ -315,7 +288,6 @@ IDL> dr= dru.parseTimeRange('2014-02')
 IDL> ff= afsm.getFilesFor( dr )
 IDL> for i=0,n_elements(ff)-1 do print, ff[i].toString()
 ```
-
 And to echo the Java version:
 
 ```
@@ -323,7 +295,6 @@ IDL> System= obj_new( 'IDLJavaObject$Static$System', 'java.lang.System' )
 IDL> print, System.getProperty( 'java.version' )
 1.8.0_131
 ```
-
 Sometimes we don't want an XWindows dependence caused by login prompt
 windows. Set headless property in this case.
 
@@ -333,7 +304,6 @@ IDL> System.setProperty('java.awt.headless','true')
 IDL> apds= OBJ_NEW('IDLjavaObject$APDataSet', 'org.autoplot.idlsupport.APDataSet')
 IDL> apds.loadDataSet, 'vap+das2Server:`<http://jupiter.physics.uiowa.edu/das/server?dataset=Juno/FGM/MagComponents&start_time=2017-02-01T00:00:00.000Z&end_time=2017-02-04T00:00:00.000Z>`'
 ```
-
 ## Other Examples
 
 This github directory shows an example where Autoplot is used to
@@ -379,7 +349,6 @@ Remember,
 ```
 Unix> export CLASSPATH=/tmp/autoplot.jar
 ```
-
 And here's the first IDL program:
 
 ```
@@ -389,7 +358,6 @@ apds.doGetDataSet
 apds.setPreferredUnits, 'hours since 2007-01-17T00:00' 
 plot, apds.values( apds.depend(0) ), apds.values()
 ```
-
 Accessing aggregated data
 
 ```
@@ -400,7 +368,6 @@ apds.doGetDataSet
 apds.setPreferredUnits, 'hours since '+t 
 plot, apds.values( apds->depend(0) ), apds.values(), xtitle='hours since '+t
 ```
-
 Using slice to get at irregular data
 
 ```
@@ -415,40 +382,29 @@ print, apds.toString()
 help, apds.slice( 3 )
 plot, apds.slice( 3 ), /ylog
 ```
-
 Using Autoplot to get a file from the web
 
 ```
 ; Copy and paste these lines to the IDL command prompt.
 ```
-  
 `setenv,&nbsp;'CLASSPATH=autoplot.jar'&nbsp;&nbsp;;&nbsp;download&nbsp;from&nbsp;`&lt;http://autoplot.org/latest/autoplot.jar&gt;  
 ```
 pm= OBJ_NEW( ) ; like null in Java or None in Jython 
-```
-  
-```
+
 url= OBJ_NEW( 'IDLJavaObject$URL', 'java.net.URL', '`<https://emfisis.physics.uiowa.edu/events/rbsp-a/misc-support-files/rbspa-half-orbit-periods2.txt>`' )
-```
-  
-```
+
 DataSetURI= OBJ_NEW( 'IDLJavaObject$Static$DataSetURI', 'org.autoplot.datasource.DataSetURI' )
 ff= DataSetURI.downloadResourceAsTempFile(url,pm)
 print, ff.toString()
-```
-  
-```
+
 openr, lun, ff.toString(), /get_lun
 line = "" 
-```
-  
-```
+
 WHILE NOT EOF(lun) DO BEGIN & $
   READF, lun, line & $
   print, line
 ENDWHILE
 ```
-
 # Previous Documentation
 
   - Some older scripts show how to pass data to Autoplot from IDL and

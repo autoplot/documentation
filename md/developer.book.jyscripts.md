@@ -13,7 +13,6 @@ for tr in trs:
    dom.timeRange= DatumRangeUtil.parseTimeRange(tr)
    writeToPng( '/tmp/%s.png' % tr )
 ```
-
 These scripts are conventionally named with a .jy extension, and can be
 run by entering the location of the .jy script in the address bar. This
 allows one user to deliver functionality to another user via a script on
@@ -321,7 +320,6 @@ AP> plot('`<http://autoplot.org/data/autoplot.cdf?Magnitude>`')
 AP> ds= dom.dataSourceFilters[0].controller.dataSet   # get the data read in
 AP> print max(ds)
 ```
-
 Note that the feature "Server" provides a similar interface, but via
 telnet into a port.
 

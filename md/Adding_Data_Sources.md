@@ -124,7 +124,7 @@ So we can avoid the tedium of jar files and compiling java code, this
 tutorial assumes you are using Netbeans 6.5+ and can build Autoplot as
 described in [Autoplot\_from\_source](Autoplot_from_source.md "wikilink")
 and
-[Autoplot\_from\_source\#Building\_in\_Netbeans](Autoplot_from_source.md#building_in_netbeans "wikilink").
+[Autoplot\_from\_source\#Building\_in\_Netbeans](Autoplot_from_source.md#building-in-netbeans "wikilink").
 
 # Create a Dummy DataSource and Register the DataSource Type
 
@@ -164,7 +164,6 @@ public QDataSet getDataSet(ProgressMonitor mon) throws Exception {
 ```
 `
 ```
-
 ### WavDataSourceFactory
 
   - Create a new class `WavDataSourceFactory` that extends
@@ -261,7 +260,6 @@ public QDataSet getDataSet(DasProgressMonitor mon) throws Exception {
 ```
 `
 ```
-
 If you are interested in the QDataSet data model, you'll want to look at
 the [QDataSet](QDataSet.md "wikilink").
 
@@ -292,7 +290,6 @@ public Map<String,Object> getMetadata(ProgressMonitor mon) throws Exception {
 ```
 `
 ```
-
 ## Assigning time tags with the QDataSet model
 
 To specify physical time tags with the QDataSet model, we can attach
@@ -306,7 +303,6 @@ result.putProperty( QDataSet.DEPEND_0, timeTags );
 ```
 `
 ```
-
 In the QDataSet model, the property DEPEND\_0 contains a dataset with
 the values of the independent variable. See
 <https://saturn.physics.uiowa.edu/svn/das2/dasCore/community/autoplot2010/trunk/dasCoreDatum/src/org/das2/datum/Units.java>
@@ -347,7 +343,6 @@ public List<CompletionContext> getCompletions(CompletionContext cc) {
 ```
 `
 ```
-
 The completions identified here are used to automatically generate a GUI
 to create URIs.
 
@@ -434,7 +429,6 @@ return false;
 ```
 `
 ```
-
 Note data sources that do not reject an empty URI like
 "vap+<em><dsid></em>:" are called "discoverable" and are added to the
 Autoplot menu at File-\>Add Plot From-\>\<<em>dsid</em>\>.
@@ -456,7 +450,6 @@ public boolean prepare(String uri, Window parent, ProgressMonitor mon) throws Ex
 ```
 `
 ```
-
 ### getPanel
 
 Simply implement this method with "`return this;`"
@@ -481,7 +474,6 @@ public void setURI(String uri) {
 ```
 `
 ```
-
 Where jTextField1 and jTextField2 are the two `jTextField`s that display
 the parameter values.
 
@@ -505,7 +497,6 @@ public String getURI() {
 ```
 `
 ```
-
 <hr>
 
 There are many ways to extend the WavDataSourceEditorPanel to include
