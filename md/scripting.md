@@ -43,8 +43,7 @@ ds1= getDataSet( 'http://autoplot.org/data/image/Capture_00158.jpg?channel=greys
 ds2= getDataSet( 'http://autoplot.org/data/image/Capture_00159.jpg?channel=greyscale' )
 plot( abs( ds2- ds1 ) )
 ```
-`
-```
+
 loads two grayscale images and plots the result. If this script is
 copied into the script editor (`Options->Enable Feature->Script Editor`)
 and executed, a spectrogram showing the differences between the two
@@ -107,8 +106,7 @@ ds1= getDataSet( 'http://autoplot.org/data/image/Capture_00158.jpg?channel=greys
 ds2= getDataSet( 'http://autoplot.org/data/image/Capture_00159.jpg?channel=greyscale' )
 result= abs( ds2- ds1 )
 ```
-`
-```
+
 was saved and uploaded to
 
 <http://autoplot.org/data/imageDiff.jyds>
@@ -182,8 +180,7 @@ the first few lines of the response are
  2018   1  1  10.8  16.8
  2018   1  2  10.0  17.4
 ```
-`
-```
+
 Because the ASCII table is simple, we would like to apply the ASCII
 template
 
@@ -217,8 +214,7 @@ data= getDataSet( 'vap+dat:'+file+"?"+template+"&allowHtml=T" )  # allowHtml is 
 
 data.putProperty( QDataSet.UNITS, 'N/cm^3' )
 ```
-`
-```
+
 ## Example: Query Parameters
 
 Scripts can also have query parameters which allow more control of the
@@ -230,8 +226,7 @@ lines at the top
 s= getParam( 's', 'deflt', 'label to describe' )   # gets a string parameter, with default value "deflt"
 f= getParam( 'f', 2.34, 'label to describe' )      # gets a float parameter, with default value 2.34
 ```
-`
-```
+
 The user would be able pass options to the script in the URI:
 
 `vap+jyds:file:/tmp/foo.jyds?s=abc&f=3.14159`
@@ -313,8 +308,7 @@ Change line color
 result= getDataSet( 'http://autoplot.org/data/autoplot.xls?column=A' )
 dom.plotElements[0].style.color= Color.RED
 ```
-`
-```
+
 ## Example: Plot all files in directory
 
 ``` python
@@ -323,8 +317,7 @@ for tr in trs:
     dom.timeRange= DatumRangeUtil.parseTimeRange(tr)
     writeToPng( '/tmp/%s.png' % tr )
 ```
-`
-```
+
 runs the application through each day of the month January 2010, making
 images of each day.
 
@@ -345,8 +338,7 @@ for i in xrange(200):
  
 monitor.finished()     # indicate the task is complete
 ```
-`
-```
+
 ## Example: Create your own tool
 
 Application Context scripts can be added to the Autoplot GUI by putting
