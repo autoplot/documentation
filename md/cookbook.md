@@ -58,8 +58,7 @@ sliceAtL= lspec[:,10]
 plot(lspec,renderType='nnSpectrogram')
 plot(1,sliceAtL)
 ```
-`
-```
+
 ## Events Bar under all plots
 
   - plot the top plot
@@ -231,8 +230,7 @@ dom.canvases[0].controller.dasCanvas.addTopDecorator( top )
 dom.plots[0].controller.dasPlot.setOpaque(True)
 dom.dataSourceFilters[0].uri='http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hydra/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000109'
 ```
-`
-```
+
 # Add Annotations
 
 For several years, people have been able to add annotations to their
@@ -311,8 +309,7 @@ following script computes the time for a `wget` command to execute.
      sleep 1
  done
 ```
-`
-```
+
 It writes to the file "/tmp/webtest.log". To continuously view this
 file, use the undocumented (and not fully tested) feature by appending
 
@@ -354,8 +351,7 @@ tr = '2017-11-28T12:00 to 15:00'
 l_erg= getDataSet('vap+cdaweb:ds=ERG_ORB_L2&filter=erg&id=pos_eq[:,0]',tr)
 plot(l_erg)
 ```
-`
-```
+
 To fix this, a "trim" command must be inserted:
 
 ``` python
@@ -364,8 +360,7 @@ l_erg= getDataSet('vap+cdaweb:ds=ERG_ORB_L2&filter=erg&id=pos_eq[:,0]',tr)
 l_erg= trim( l_erg, tr )
 plot(l_erg)
 ```
-`
-```
+
 # Launching (OS-Specific)
 
 ## Associate .vap files in Gnome
@@ -427,8 +422,7 @@ while ( i<count ):
   monitor.setTaskProgress(i)
 monitor.finished()
 ```
-`
-```
+
 For creating a movie, see
 [\#Add\_to\_Jython\_Search\_Path](#add-to-jython-search-path "wikilink").
 
@@ -459,8 +453,7 @@ David at Google made this script which takes the average of many flags:
 import org.autoplot.AutoplotUtil
 org.autoplot.AutoplotUtil.openBrowser(String url)
 ```
-`
-```
+
 ## Tweak DOM parameters not saved to VAP
 
 Not all properties in the DOM are saved to the VAP file (anything under
@@ -473,8 +466,7 @@ plot( ds )
 dom= getDocumentModel()
 dom.plotElements[0].controller.renderer.cadenceCheck = False
 ```
-`
-```
+
 Save the above as /tmp/webtest.jy and enter
 
 ```
@@ -495,8 +487,7 @@ plot(0,ripples(20))
 plot(1,ripples(30))
 plot(2,ripples(40))
 ```
-`
-```
+
 This will add plots until the there's a spot "2" for the data. The
 command setPlotLayout(2,3) will make two rows of three plots each.
 
@@ -508,8 +499,7 @@ In the script panel (enabled via options):
  for i in listDirectory('http://autoplot.org/data/*.cdf'):
    print i
 ```
-`
-```
+
 ## make a plot for each file
 
 In the script panel (enabled via options), enter
@@ -520,8 +510,7 @@ In the script panel (enabled via options), enter
    plot( 'http://autoplot.org/data/'+i )
    writeToPng( '/tmp/' + i+'.png' )
 ```
-`
-```
+
 ## Python/Jython is great with strings
 
 ``` python
@@ -529,8 +518,7 @@ product= 'c1'
 date= '20010101'
 plot( 'http://www.autoplot.org/data/%s_%s.dat' % ( product, date ) )
 ```
-`
-```
+
 %s plugs in the corresponding string, %d an integer, %f a float. Often
 you need the result to have a fixed number of characters, so you might
 say %9f so that 9 characters are always used. Prefixing the number with
@@ -542,8 +530,7 @@ print '%s' % 'string'  # 'string'
 print '%09d' % 2       # '000000002'
 print '%9.3f' % 3.14   # '    3.140'
 ```
-`
-```
+
 ## mash data
 
 Jython (Python in Java) scripts can be used to mash data. The
@@ -579,8 +566,7 @@ and enter the script:
  
  data= ds
 ```
-`
-```
+
 These scripts work by plotting the variable "data" by default. Note I
 can right click in the script tab and select "getDataSet" and the
 getDataSet command is entered with the current URI. Select "data source
@@ -595,8 +581,7 @@ doesn't. I can remove units from Dan's the same way:
  ds= putProperty(ds,QDataSet.UNITS,None)
  data= ds
 ```
-`
-```
+
 Now I can plot one against the other, and plot slices on the same plot.
 Note Autoplot will plot data of different units on the same axis, but
 with a warning message.
@@ -611,8 +596,7 @@ trs= generateTimeRanges( '$Y-$m-$d', '2012' )
 for i in trs:
   print i
 ```
-`
-```
+
 You'll see the output in the java stdout or on the console
 (Options-\>Enable Feature-\>Log Console) if it's enabled.
 
@@ -626,8 +610,7 @@ for i in trs:
   plot( ds )
   writeToPng( '/tmp/ap/%s.png' % i )
 ```
-`
-```
+
 ## remove the fill data from a list
 
 Remove fill data from a list with the where and valid functions:
@@ -638,8 +621,7 @@ list= putProperty( list, QDataSet.FILL_VALUE, -1e31 )
 r= where( valid( list ) )
 list= list[r] 
 ```
-`
-```
+
 ## interpolating dataset onto another dataset's timetags
 
 Ivar asked about a function I've always meant to implement explicitly,
@@ -665,8 +647,7 @@ plot( 0, density5min, title= 'This is the original data' )
 plot( 1, t4min, density4min, title='These line up with the flux data' )
 plot( 2, flux4min, title='This is the flux' )
 ```
-`
-```
+
 Here's a generic "synchronize" routine that syncs up data:
 
 ``` python
@@ -675,8 +656,7 @@ magn5min= getDataSet( 'http://cdaweb.gsfc.nasa.gov/pub/data/ace/mag/level_2_cdaw
 BGSE5min= getDataSet( 'http://cdaweb.gsfc.nasa.gov/pub/data/ace/mag/level_2_cdaweb/mfi_k0/2017/ac_k0_mfi_20170117_v01.cdf?BGSEc')
 ( magn, BGSE ) = synchronize( flux4min, [magn5min, BGSE5min] )
 ```
-`
-```
+
 Keywords: synchronize synchronizing
 
 ## run test script to see that everything in history is still plottable
@@ -687,8 +667,7 @@ In Jython editor:
 from test.endtoend import TryHistory
 TryHistory.main( [] )
 ```
-`
-```
+
 This attempts to load every URI in
 $HOME/autoplot\_data/bookmarks/history.txt as a QDataSet, printing the
 result and load times, and then finally reporting the statistics for the
@@ -767,8 +746,7 @@ for ex in exceptions.entrySet():
   print '== %s ==' % ex.getKey()
   print ex.getValue()
 ```
-`
-```
+
 ## Import set of common functions
 
 You can import a set of common functions using getFile and "execfile":
@@ -788,8 +766,7 @@ plot( 0, density )
 plot( 1, flux )
 plot( 2, dst )
 ```
-`
-```
+
 This introduces some possible security concerns, and this may be
 restricted in the future.
 
@@ -807,8 +784,7 @@ lf= LinFit( x,y, 6*ones(40) )
 plot( 1, x, x*lf.b + lf.a )
 print lf.chi2 / (x.length()-1)
 ```
-`
-```
+
 ## Arbitrary Layout
 
 Autoplot v2015a and more recent versions allow scripts to plot to
@@ -819,8 +795,7 @@ example:
 plot(0,rand(2000),rand(2000),xpos='20%,90%',ypos='20%,50%')
 plot(1,linspace(0,1,20),randn(20),xpos='50%,70%',ypos='60%,80%')
 ```
-`
-```
+
 Em offsets (when an em is the current font size) can be used as well,
 and pixel locations:
 
@@ -828,8 +803,7 @@ and pixel locations:
 plot(0,rand(2000),rand(2000),xpos='4em,100%-4em',ypos='4em,100%-4em')
 plot(1,rand(2000),rand(2000),xpos='100px,200px',ypos='100px,200px')
 ```
-`
-```
+
 ## Add to Jython Search Path
 
 I want to add the ability to create a video. I can add this to the
