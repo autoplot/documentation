@@ -9,6 +9,10 @@ a new version of the file.  This handles:<ul>
 <li> re-encodes the unicode characters
 <li> removes the "addhtml" blocks
 <li> re-combines lines of code to make block
+<li> internal links need ".md" added to name.  These have "wikilink" 
+<li> rerun again after downloading changes from autoplot.org.
+<li> internal links to hashes (#Wildcard_codes) don't work.
+<li> blocks of code with empty lines delimiting need to be combined.
 </ul>
 ''')
 
@@ -16,7 +20,7 @@ from org.das2.util.filesystem import HtmlUtil
 from org.das2.util import Entities
 
 c= { 'stringType':'file', 'regex':'.*\.md' }
-f= getParam('f','/home/jbf/tmp/git/autoplot/documentation/to_md/tutorial.jythonScripting.md','markdown file',c)
+f= getParam('f','/home/jbf/tmp/git/autoplot/documentation/to_md/CustomRenderers.md','markdown file',c)
 
 c= { 'stringType':'directory' }
 w= getParam('w','/home/jbf/tmp/git/autoplot/documentation/md/','output folder',c) 
@@ -34,6 +38,22 @@ uriBrokeRegex= '\`(vap\+[a-z]+)\:\`\<(.+)\>'
 uriBrokeTest= '`vap+cdf:`<http://autoplot.org/data/autoplot.cdf?BGSM>'
 uriBrokePattern= Pattern.compile(uriBrokeRegex)
 
+wikilinkRegex= '(.*)\[(.*)\]\((.*) \"wikilink\"\)(.*)'
+wikilinkTest= '[Annotations](Annotations "wikilink")'
+wikilinkPattern= Pattern.compile(wikilinkRegex)
+
+def wikilink(l):
+    i= l.find('#')
+    if i==-1:
+        return l+".md"
+    anchor= l[i+1:]
+    anchor= anchor.replace(' ','-').replace('_','-')
+    anchor= anchor.replace('[\(\)]','')
+    if i==0:
+        return l[0:i]+"#"+anchor
+    else:
+        return l[0:i]+".md#"+anchor
+    
 if outf.exists():
     raise Exception('output file already exists: '+str(outf))
 
@@ -51,13 +71,17 @@ codeBlock=ArrayList()
 for s in ss.split('\n'):
     i=i+1
     
+    # combine adjacent code lines into a block. 
     tc= s.strip()
-    if len(tc)>0 and tc[0]=='`' and tc[-1]=='`':
+    hasQuotes= len(tc)>0 and tc[0]=='`' and tc[-1]=='`'
+    if hasQuotes or ( codeBlock.size()>0 and len(tc)==0 ):
         tc= tc.replace(chr(160),' ')
         codeBlock.add(tc[1:-1])
         continue
     elif codeBlock.size()>0:
         out.write('```\n')
+        while codeBlock[codeBlock.size()-1]=='':
+            codeBlock.remove(codeBlock.size()-1)
         for s1 in codeBlock:
             out.write(s1)
             out.write('\n')
@@ -78,6 +102,14 @@ for s in ss.split('\n'):
         uriPrefix= mm.group(1)
         uri= mm.group(2)
         s= '`' + uriPrefix + ':' + uri + '`'
+
+    mm= wikilinkPattern.matcher(s)
+    if mm.matches():
+        pre= mm.group(1)
+        label= mm.group(2)
+        url= wikilink(mm.group(3))
+        post= mm.group(4)
+        s= '%s[%s](%s \"wikilink\")%s' % ( pre, label, url, post )
 
     if s.strip().startswith('<addhtml'):
         s= ''
