@@ -116,7 +116,7 @@ Here's a handy reference: <http://cds130.org/Devel#Wiki>
         3.  radial spectrograms.
     3.  Interactive graphics, such as 2-D slices of a 3-D cube of data.
 
-## **[Installing Autoplot for the first time](Installing_Autoplot_for_the_first_time "wikilink")**
+## **[Installing Autoplot for the first time](Installing_Autoplot_for_the_first_time.md "wikilink")**
 
 1.  Installation with Java Webstart
     1.  Java 1.7 is freely available from Oracle at
@@ -207,12 +207,12 @@ Here's a handy reference: <http://cds130.org/Devel#Wiki>
     4.  The message bubbles can be turned on when printing as well, by
         setting \[Menubar\]&rarr;Edit&rarr;&quot;Additional Options&quot;&rarr;&quot;Printing Log
         Level"
-6.  [bookmarks](bookmarks "wikilink")
+6.  [bookmarks](bookmarks.md "wikilink")
     1.  Bookmarks store URI references to data.
     2.  Bookmarks tool is used to manage bookmarks.
     3.  Bookmarks can also be vap files.
     4.  Bookmarks can be script references.
-7.  [PNG Walks](PNG_Walks "wikilink")
+7.  [PNG Walks](PNG_Walks.md "wikilink")
     1.  The Pngwalk tool generates series of images by stepping through
         times spanning an interval.
     2.  The name of each file is templated, like product\_$Y$m$d.png, so
@@ -237,25 +237,25 @@ Here's a handy reference: <http://cds130.org/Devel#Wiki>
     5.  The box zoom is just another one of these mouse modules.
 2.  [Exporting data to other
     formats](Exporting_data_to_other_formats "wikilink")
-3.  [High-rank data](High-rank_data "wikilink")
+3.  [High-rank data](High-rank_data.md "wikilink")
     1.  3-D data, such as Flux\[Time,Pitch,Energy\], is shown in slices.
     2.  The data tab contains the operations string that controls the
         slice.
     3.  GUI controls dimension and index of the slice.
     4.  mouse wheel can be used to rapidly adjust the slice index.
-4.  [Remote bookmarks](Remote_bookmarks "wikilink")
+4.  [Remote bookmarks](Remote_bookmarks.md "wikilink")
     1.  Support for workgroups where there should be a set of common
         bookmarks.
     2.  remote bookmark is a bookmark-folder with a remoteUrl attribute.
         This is resolved shortly after the bookmarks are loaded.
     3.  a local copy is kept, in case the remote folder cannot be
         loaded.
-5.  [Aggregation](Aggregation "wikilink")
+5.  [Aggregation](Aggregation.md "wikilink")
     1.  Aggregation is a central feature of Autoplot, which allows a set
         of files to be combined into one for each data read.
 6.  [Understanding URIs and
     completions](Understanding_URIs_and_completions "wikilink")
-7.  [Data Mash Up Tool](Data_Mash_Up_Tool "wikilink")
+7.  [Data Mash Up Tool](Data_Mash_Up_Tool.md "wikilink")
     1.  The data mash up tool combines data from multiple sources to
         make new derived datasets.
     2.  For example, a signal taken at 4 Hz and another at 5 Hz are
@@ -302,17 +302,17 @@ Here's a handy reference: <http://cds130.org/Devel#Wiki>
 
 ## **Scripting**
 
-1.  [.jy scripts](developer.book.jyscripts#.jy_scripts "wikilink")
+1.  [.jy scripts](developer.book.jyscripts.md#.jy_scripts "wikilink")
 2.  [commonly used
     functions](developer.book.jyscripts#commonly_used_functions "wikilink")
 3.  [comparison to
     SciPy](developer.book.jyscripts#comparison_to_SciPy "wikilink")
 4.  [Jython vs
     Python](developer.book.jyscripts#Jython_vs_Python "wikilink")
-5.  [QDataSet](developer.book.jyscripts#QDataSet "wikilink")
+5.  [QDataSet](developer.book.jyscripts.md#qdataset "wikilink")
 6.  [script and console
     tabs](developer.book.jyscripts#script_and_console_tabs "wikilink")
-7.  [representation of time](developer.book.time "wikilink")
+7.  [representation of time](developer.book.time.md "wikilink")
 
 This should include a section on how datasets are converted to hand
 compatible geometry. I was surprised to see Xf\[n,2\] \* h\[n\] worked,
@@ -327,20 +327,20 @@ they can use for loading data.
 ## **Data types handled by Autoplot**
 
 1.  Explanation of how data types are read into Autoplot.
-2.  [ASCII tables](ASCII_tables "wikilink")
+2.  [ASCII tables](ASCII_tables.md "wikilink")
     1.  GUI editor
     2.  examples of the types
     3.  syntax of the URI.
     4.  examples
 3.  CDF files
-    [developer.book.apds.cdf](developer.book.apds.cdf "wikilink")
-4.  [CDAWeb](CDAWeb "wikilink")
+    [developer.book.apds.cdf](developer.book.apds.cdf.md "wikilink")
+4.  [CDAWeb](CDAWeb.md "wikilink")
 5.  **.jyds data source**
     1.  [differences with .jy scripts, what you can't
         do](differences_with_.jy_scripts,_what_you_can't_do "wikilink")
     2.  [publishing .jyds scripts for use by the rest of the
         world.](publishing_.jyds_scripts_for_use_by_the_rest_of_the_world. "wikilink")
-    3.  [.jyds extensions](.jyds_extensions "wikilink")
+    3.  [.jyds extensions](.jyds_extensions.md "wikilink")
 6.  "discovery" data sources (File-\>Add Plot From...)
 
 ## **Understanding Das2 Graphics**
@@ -362,13 +362,13 @@ they can use for loading data.
 1.  Applications for server-side Autoplot
     1.  serving data
     2.  serving images
-2.  [Apache](Apache "wikilink")
+2.  [Apache](Apache.md "wikilink")
     1.  Basic
     2.  Cluster
-3.  [Tomcat](Tomcat "wikilink")
+3.  [Tomcat](Tomcat.md "wikilink")
     1.  Basic
     2.  Cluster
-4.  [Command Line](Command_Line "wikilink")
+4.  [Command Line](Command_Line.md "wikilink")
 
 ## **Autoplot in the Browser**
 
@@ -377,7 +377,7 @@ they can use for loading data.
 
 ## **Appendix**
 
-1.  [URI syntax](developer.URI_syntax "wikilink")
+1.  [URI syntax](developer.URI_syntax.md "wikilink")
 2.  **Autoplot from Source**
     1.  Who needs to compile Autoplot from source
     2.  What does it mean to be open-source

@@ -22,7 +22,7 @@ as the spacecraft and instrument name.
 **QDataSet** Autoplot's method for representing a dataset, or data
 model. It allows representing trivial data such as the scalar "6.2",
 Density tabulated as a function of time, spectrograms, or complex joins
-of tables. See [QDataSet](QDataSet "wikilink").
+of tables. See [QDataSet](QDataSet.md "wikilink").
 
 **rank** the number of indices of a QDataSet. E.g. Density\[Time\] is a
 rank 1 dataset with the one index corresponding to time;

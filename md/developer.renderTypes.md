@@ -29,7 +29,7 @@ ds[X,Y]
 <http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000109>
 
 There is a plan to add new rebinning methods:
-[developer.spectrogram.rebin](developer.spectrogram.rebin "wikilink")
+[developer.spectrogram.rebin](developer.spectrogram.rebin.md "wikilink")
 
 # Nearest Neighbor Spectrogram
 
@@ -153,7 +153,7 @@ vap+jyds:<https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/J
 # Custom
 
 Custom renderers, defined in Python code, will soon be an option. See
-[CustomRenderers](CustomRenderers "wikilink").
+[CustomRenderers](CustomRenderers.md "wikilink").
 
 This shows color and size used to visualize data:
 ![custom1.png](custom1.png "custom1.png")

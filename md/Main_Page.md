@@ -8,10 +8,10 @@ Autoplot](http://autoplot.org/jnlp/latest/)&lt;/span&gt;&nbsp;
 Installation</span>  
 <span style="font-weight: bold;">[Start Devel
 Version](http://autoplot.org/jnlp/devel/) </span>  
-<span style="font-weight: bold;">[Installation](help#Installation "wikilink")</span>  
-<span style="font-weight: bold;">[Help](help "wikilink")</span>  
-<span style="font-weight: bold;">[Screenshots](gallery "wikilink")</span>  
-<span style="font-weight: bold;">[Cookbook](cookbook "wikilink")</span>  
+<span style="font-weight: bold;">[Installation](help.md#installation "wikilink")</span>  
+<span style="font-weight: bold;">[Help](help.md "wikilink")</span>  
+<span style="font-weight: bold;">[Screenshots](gallery.md "wikilink")</span>  
+<span style="font-weight: bold;">[Cookbook](cookbook.md "wikilink")</span>  
 <span style="font-weight: bold;">[Developer
 notes](developer "wikilink")</span>
 

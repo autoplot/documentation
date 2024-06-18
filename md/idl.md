@@ -114,7 +114,7 @@ This shows a first look at getting data.
 
 This interface is meant to provide access to anything that can be
 represented within Autoplot and its internal data model,
-[QDataSet](QDataSet "wikilink").
+[QDataSet](QDataSet.md "wikilink").
 
 QDataSet is meant to be a simple, uniform data interface that is adapted
 to many different syntaxes, including Java, Python, C, IDL and MATLAB.
@@ -370,7 +370,7 @@ Here is the nightly test which tells all:
 <http://jfaden.net/jenkins/job/autoplot-test024/>
 
 IDL command applot sends data to Autoplot for display:
-[developer.applot](developer.applot "wikilink")
+[developer.applot](developer.applot.md "wikilink")
 
 # Complete IDL Examples
 

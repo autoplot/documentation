@@ -33,7 +33,7 @@ and clicked, Autoplot will open and render the URI
 where `URI` is the full URI to be placed in the address bar when
 Autoplot starts and `VERSION` is any directory listed at
 <http://autoplot.org/jnlp>. See
-[Main\_Page\#Formats\_Read](Main_Page#Formats_Read "wikilink") and below
+[Main\_Page\#Formats\_Read](Main_Page.md#formats_read "wikilink") and below
 for example links. Each time a link is clicked a new instance of
 Autoplot is started. (Eventually there will be an option to allow the
 user to click a link and have the URI plotted above, below, or over an

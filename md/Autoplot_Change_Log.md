@@ -883,5 +883,5 @@ Daily builds: [1](http://autoplot.org/autoplot.jnlp?version=hudson)
   - include Nand's new Java CDF reader in the stable jars, export to CDF
     from single-jar release.
 
-[Autoplot\_Change\_Log\_archive](Autoplot_Change_Log_archive "wikilink")
+[Autoplot\_Change\_Log\_archive](Autoplot_Change_Log_archive.md "wikilink")
 

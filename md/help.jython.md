@@ -7,5 +7,5 @@ to create data objects similar to arrays in IDL and NumPy, but with
 metadata attached; and also a large set of functions useful for creating
 science workflows.
 
-See also [developer.scripting](developer.scripting "wikilink").
+See also [developer.scripting](developer.scripting.md "wikilink").
 

@@ -32,7 +32,7 @@ are found in the Autoplot source:
 
 A number of functions are often used in scripts, and this section hopes
 to introduce them. A more complete reference is available here:
-[developer.scripting](developer.scripting "wikilink")
+[developer.scripting](developer.scripting.md "wikilink")
 
 ## commonly used functions
 

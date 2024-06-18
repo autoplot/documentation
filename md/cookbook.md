@@ -19,7 +19,7 @@ selector, we change multiple nodes:
 
 The folks at LANL asked for a page with images associated with complex
 plot panel configurations or styles and the procedure to create them:
-[Cooking at LANL](Cooking_at_LANL "wikilink"). See also
+[Cooking at LANL](Cooking_at_LANL.md "wikilink"). See also
 <http://autoplot.org/developer.renderTypes>
 
 ## L-shell as Y axis
@@ -135,7 +135,7 @@ is not logged, and logging is not done in headless mode.
 # Labels
 
 For a complete description of labels, see
-[help\#Axes](help#Axes "wikilink").
+[help\#Axes](help.md#axes "wikilink").
 
 ## Hide Axis
 
@@ -399,11 +399,11 @@ Webstart should work as well, with something like:
 
 # Scripting
 
-See also [scripting](scripting "wikilink"),
-[developer.scripting](developer.scripting "wikilink"),
+See also [scripting](scripting.md "wikilink"),
+[developer.scripting](developer.scripting.md "wikilink"),
 <http://autoplot.org/data/jyds>, and <http://autoplot.org/data/tools/>.
 
-See [script.cookbook](script.cookbook "wikilink") which is just for
+See [script.cookbook](script.cookbook.md "wikilink") which is just for
 scripts.
 
 Last, there's a github repository with hundreds of searchable examples,
@@ -438,7 +438,7 @@ monitor.finished()
 ```
 
 For creating a movie, see
-[\#Add\_to\_Jython\_Search\_Path](#Add_to_Jython_Search_Path "wikilink").
+[\#Add\_to\_Jython\_Search\_Path](#add_to_jython_search_path "wikilink").
 
 ## Browse a timeseries
 

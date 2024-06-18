@@ -4,7 +4,7 @@ Purpose: Introduce scripting in Autoplot, which can be used to control
 Autoplot, load new types of data, and create new more specialized
 applications.
 
-See also [developer.scripting](developer.scripting "wikilink"),
+See also [developer.scripting](developer.scripting.md "wikilink"),
 <http://autoplot.org/data/jyds>, and <http://autoplot.org/data/tools/>.
 
 More scripts in the SVN repository:
@@ -30,9 +30,9 @@ Scripting can be used for various purposes, including to:
   - create a new application.
 
 Mathematical operations may be applied on Autoplot data objects
-([QDataSets](QDataSet "wikilink")) using a syntax that is similar to
+([QDataSets](QDataSet.md "wikilink")) using a syntax that is similar to
 operations on arrays and matrices in IDL or MATLAB. Unlike arrays and
-matrices in IDL and MATLAB, [QDataSets](QDataSet "wikilink") have
+matrices in IDL and MATLAB, [QDataSets](QDataSet.md "wikilink") have
 metadata and physical units; the physical units must be consistent for
 certain operations to be carried out.
 
@@ -53,10 +53,10 @@ grayscale images is plotted.
 
 There are two types of scripts:
 
-  - [\#Data Source Context](#Data_Source_Context "wikilink"): Used for
+  - [\#Data Source Context](#data_source_context "wikilink"): Used for
     loading data. These have a URI and can be used like any other data
     source.
-  - [\#Application Context](#Application_Context "wikilink"): Used for
+  - [\#Application Context](#application_context "wikilink"): Used for
     controlling Autoplot itself.
 
 Finally, scripts can be shared with others. For example, if a script is
@@ -129,7 +129,7 @@ this reason, for example in custom applications that use Autoplot's data
 loading but not the application itself.
 
 Commands available in this context are listed at
-[developer.scripting\#Ops](developer.scripting#Ops "wikilink"). These
+[developer.scripting\#Ops](developer.scripting.md#ops "wikilink"). These
 commands will also appear in a selection menu when TAB is pressed on a
 blank line in the script panel.
 
@@ -138,15 +138,15 @@ blank line in the script panel.
   - In the repository:
     [2](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src/)
     .
-  - In [cookbook\#Scripting](cookbook#Scripting "wikilink")
+  - In [cookbook\#Scripting](cookbook.md#scripting "wikilink")
 
 ## Example: Reading ASCII file from URL
 
 Autoplot can plot many ASCII files automatically by using either the
-[help\#ASCII\_Editor](help#ASCII_Editor "wikilink") or a [URL
+[help\#ASCII\_Editor](help.md#ascii_editor "wikilink") or a [URL
 template](help#ASCII_table "wikilink"). However, many ASCII files have
 unusual structure and require a script to convert the data in the file
-into a [QDataSet](QDataSet "wikilink").
+into a [QDataSet](QDataSet.md "wikilink").
 
 Consider this file
 [3](ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/KP_AP/1986),
@@ -160,7 +160,7 @@ which has lines of the form
 The file format specification is given at
 [4](ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/KP_AP/kp_ap.fmt).
 This script reads the file and convert it into a
-[QDataSet](QDataSet "wikilink"):
+[QDataSet](QDataSet.md "wikilink"):
 [wdc\_kp\_ap.jyds](https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/JythonDataSource/src/wdc_kp_ap.jyds)
 
 ## Example: Reading ASCII response URI
@@ -311,7 +311,7 @@ Application context scripts have file extension `jy`.
     [5](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/VirboAutoplot/src/scripts/)
     (All scripts before and including areaSelect.py have been verified
     to work with current DOM).
-  - In [cookbook\#Scripting](cookbook#Scripting "wikilink")
+  - In [cookbook\#Scripting](cookbook.md#scripting "wikilink")
 
 ## Example: Modify Canvas
 

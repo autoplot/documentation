@@ -115,7 +115,7 @@ MATLAB> plot( apds.values )
 
 This interface is meant to provide access to anything that can be
 represented within Autoplot and its internal data model,
-[QDataSet](QDataSet "wikilink").
+[QDataSet](QDataSet.md "wikilink").
 
 QDataSet is meant to be a simple, uniform data interface that is adapted
 to many different syntaxes, including Java, Python, C, IDL and MATLAB.
@@ -241,6 +241,7 @@ which uses Java (instead of Matlab) to call the interface.
 # Complete MATLAB Examples
 
 ```
+javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )
 apds= org.autoplot.idlsupport.APDataSet;
 t= '2019-01-17';
 apds.setDataSetURI( strcat( '`<https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=>`', t ) );
@@ -252,6 +253,7 @@ plot( apds.values( apds.depend(0) ), apds.values );
 Read Emfisis waveform files:
 
 ```
+javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )
 apds= org.autoplot.idlsupport.APDataSet;
 apds.setDataSetURI( '`<https://emfisis.physics.uiowa.edu/Flight/RBSP-A/L2/2013/10/03/rbsp-a_WFR-waveform-continuous-burst_emfisis-L2_20131003T17_v1.3.2.cdf?BuSamples>`' );
 apds.doGetDataSet;

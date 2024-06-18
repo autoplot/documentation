@@ -72,7 +72,7 @@ are leaves.
     completion model. This is the address bar in the Autoplot GUI.
   - DataSource.getCapability adds various capabilities, such as
     TimeSeriesBrowse. See
-    [developer.capabilities](developer.capabilities "wikilink")
+    [developer.capabilities](developer.capabilities.md "wikilink")
 
 ## Existing Data Sources
 
@@ -122,9 +122,9 @@ added.
 
 So we can avoid the tedium of jar files and compiling java code, this
 tutorial assumes you are using Netbeans 6.5+ and can build Autoplot as
-described in [Autoplot\_from\_source](Autoplot_from_source "wikilink")
+described in [Autoplot\_from\_source](Autoplot_from_source.md "wikilink")
 and
-[Autoplot\_from\_source\#Building\_in\_Netbeans](Autoplot_from_source#Building_in_Netbeans "wikilink").
+[Autoplot\_from\_source\#Building\_in\_Netbeans](Autoplot_from_source.md#building_in_netbeans "wikilink").
 
 # Create a Dummy DataSource and Register the DataSource Type
 
@@ -263,7 +263,7 @@ public QDataSet getDataSet(DasProgressMonitor mon) throws Exception {
 ```
 
 If you are interested in the QDataSet data model, you'll want to look at
-the [QDataSet](QDataSet "wikilink").
+the [QDataSet](QDataSet.md "wikilink").
 
 ## Test
 

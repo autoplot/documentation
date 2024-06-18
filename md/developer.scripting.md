@@ -5,9 +5,9 @@ Audience: Scientists and software people wanting to use Autoplot for
 scripting.
 
 Note: Some of the non-technical aspects of this page are being migrated
-to [scripting](scripting "wikilink").
+to [scripting](scripting.md "wikilink").
 
-See also [scripting](scripting "wikilink"),
+See also [scripting](scripting.md "wikilink"),
 <http://autoplot.org/data/jyds>, and <http://autoplot.org/data/tools/>.
 See also <https://github.com/autoplot/dev>, where many working scripts
 have been developed.
@@ -95,7 +95,7 @@ Commands available in this context are described below under the section
 
 Script examples:
 [2](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src/)
-and [cookbook\#Scripting](cookbook#Scripting "wikilink").
+and [cookbook\#Scripting](cookbook.md#scripting "wikilink").
 
 ## Application Context
 
@@ -116,7 +116,7 @@ this context.
 
 Examples are available at
 [3](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/Autoplot/src/scripts/)
-and [cookbook\#Scripting](cookbook#Scripting "wikilink"). [This
+and [cookbook\#Scripting](cookbook.md#scripting "wikilink"). [This
 javadoc](http://apps-pw.physics.uiowa.edu/hudson/job/autoplot-javadoc2017/lastSuccessfulBuild/artifact/doc/org/autoplot/ScriptContext.html)
 describes the commands available in this Jython Application Context.
 
@@ -4134,7 +4134,7 @@ Python has a debugging method built-in "pdb", which probably could be
 used in Autoplot's scripting environment. However experiments have shown
 that it is very easy to loose control of the debugger, potentially
 hanging the application. That said, some notes about this should be
-recorded here: [developer.jython.pdb](developer.jython.pdb "wikilink")
+recorded here: [developer.jython.pdb](developer.jython.pdb.md "wikilink")
 
 # Using the console and server mode
 

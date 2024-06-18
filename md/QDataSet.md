@@ -8,7 +8,7 @@ codes can describe compliance.
 
 Keywords: qdataset dataset rank property qube bundle bins
 
-See also [developer.qdataset](developer.qdataset "wikilink") which is a
+See also [developer.qdataset](developer.qdataset.md "wikilink") which is a
 new version of this document, in progress.
 
 # Introduction

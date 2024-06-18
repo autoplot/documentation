@@ -1136,9 +1136,9 @@ Thus the full extended code would look like
 A parsing grammar for JavaCC has been created that tokenizes and parses
 template URIs for version 1 of the specification. An entire example
 application is available here
-[uri-templates-2015-10-09.tgz](uri-templates-2015-10-09.tgz "wikilink"),
+[uri-templates-2015-10-09.tgz](uri-templates-2015-10-09.tgz.md "wikilink"),
 and the JavaCC parsing tree file is here
-[uri\_template.jjt](uri_template.jjt "wikilink"). This mechanism does
+[uri\_template.jjt](uri_template.jjt.md "wikilink"). This mechanism does
 only syntax checking -- it does not verify all the rules and constraints
 that apply to each field. It just checks that the field are well-formed.
 The sample application includes several sample templates and also
@@ -1153,6 +1153,6 @@ page](https://java.net/projects/javacc) (or
 JavaCC plugin for Eclipse](http://eclipse-javacc.sourceforge.net/).
 
 See this application
-[uri-templates-2015-10-09.tgz](uri-templates-2015-10-09.tgz "wikilink")
+[uri-templates-2015-10-09.tgz](uri-templates-2015-10-09.tgz.md "wikilink")
 for a context in which to use the above JavaCC parsing tree.
 

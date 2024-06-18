@@ -3,7 +3,7 @@ Using Autoplot in the Python Environment, using JPype.
 Audience: Autoplot users who would like to use the software to read data
 into Python, and to use other Autoplot codes from these environments
 
-See also: [help.jython](help.jython "wikilink") which is the Java-based
+See also: [help.jython](help.jython.md "wikilink") which is the Java-based
 version of Python which is used to script Autoplot.
 
 # Introduction
@@ -181,7 +181,7 @@ dep0: dep0[288] (days since 1899-12-30T00:00:00.000Z) (DEPEND_0)
 
 This interface is meant to provide access to anything that can be
 represented within Autoplot and its internal data model,
-[QDataSet](QDataSet "wikilink").
+[QDataSet](QDataSet.md "wikilink").
 
 QDataSet is meant to be a simple, uniform data interface that is adapted
 to many different syntaxes, including Java, Python, C, IDL and MATLAB.

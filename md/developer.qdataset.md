@@ -67,7 +67,7 @@ ds.property('UNITS') returns a units representation. QDataSet.LABEL and
 QDataSet.UNITS provide easy access to these property names, as well as
 descriptions for each.
 
-Autoplot's [Jython](scripting "wikilink") uses QDataSets as if they were
+Autoplot's [Jython](scripting.md "wikilink") uses QDataSets as if they were
 any other array. In this case ds\[i\] returns each value of a rank 1
 dataset. ds\[i,j\] accesses values of a rank 2 dataset. Examples in this
 document can be run in Autoplot, using \[menubar\]&rarr;Options&rarr;Enable

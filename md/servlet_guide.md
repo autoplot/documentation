@@ -20,7 +20,7 @@ Tomcat on Linux: <https://github.com/autoplot/servlet>
 
 # Parameters
 
-See [api\#Common](api#Common "wikilink") for the list of all parameters.
+See [api\#Common](api.md#common "wikilink") for the list of all parameters.
 Check the [history](http://autoplot.org/servlet_guide&action=history)
 for recent additions. The code for the servlet is here:
 [1](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/AutoplotServlet/src/java/org/virbo/autoplot/SimpleServlet.java)

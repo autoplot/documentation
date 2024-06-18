@@ -8,7 +8,7 @@ environments
 
 This document was split into separate versions for IDL and Matlab. The
 two documents are very similar, but this was done to avoid confusion.
-See [idl](idl "wikilink") and [matlab](matlab "wikilink").
+See [idl](idl "wikilink") and [matlab](matlab.md "wikilink").
 
 # Introduction
 
@@ -160,7 +160,7 @@ This shows a first look at getting data.
 
 This interface is meant to provide access to anything that can be
 represented within Autoplot and its internal data model,
-[QDataSet](QDataSet "wikilink").
+[QDataSet](QDataSet.md "wikilink").
 
 QDataSet is meant to be a simple, uniform data interface that is adapted
 to many different syntaxes, including Java, Python, C, IDL and MATLAB.
@@ -316,7 +316,7 @@ Here is the nightly test which tells all:
 <http://jfaden.net:8080/hudson/job/autoplot-test024/>
 
 IDL command applot sends data to Autoplot for display:
-[developer.applot](developer.applot "wikilink")
+[developer.applot](developer.applot.md "wikilink")
 
 This looks promising for use with native Python, using jpype to bridge
 to Autoplot, so that it can be used to read data. See

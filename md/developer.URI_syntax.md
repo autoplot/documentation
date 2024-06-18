@@ -23,7 +23,7 @@ They also serve to identify datasets, so they must:
     or GUI editor)
 
 See also <http://tsds.org/uri_templates>, which is used for aggregation,
-and a copy of this is [uri\_templates](uri_templates "wikilink").
+and a copy of this is [uri\_templates](uri_templates.md "wikilink").
 
 # URIs, not URLs
 

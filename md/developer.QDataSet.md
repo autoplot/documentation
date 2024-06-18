@@ -3,8 +3,8 @@ implememented and matured, they should be moved to QDataSet.
 
 Audience: developers
 
-See also: [QDataSet](QDataSet "wikilink")
-[developer.qdataset](developer.qdataset "wikilink")
+See also: [QDataSet](QDataSet.md "wikilink")
+[developer.qdataset](developer.qdataset.md "wikilink")
 
 # Introduction
 

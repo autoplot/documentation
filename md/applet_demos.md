@@ -1,6 +1,6 @@
-See also [applet\_guide](applet_guide "wikilink"), Video
+See also [applet\_guide](applet_guide.md "wikilink"), Video
 [1](http://aurora.gmu.edu/autoplot-applet/dist-packed/OnePanelApplet-bgloadAll-movie.html),
-and [\#Spectrogram](#Spectrogram "wikilink")
+and [\#Spectrogram](#spectrogram "wikilink")
 
 # Time Series Browse
 

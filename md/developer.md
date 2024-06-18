@@ -4,7 +4,7 @@ Purpose: Links for miscellaneous developer pages.
 
 The development versions are released "early and often" to accelerate
 maturing of code. They are located here:
-[Autoplot\_Change\_Log](Autoplot_Change_Log "wikilink")
+[Autoplot\_Change\_Log](Autoplot_Change_Log.md "wikilink")
 
   - <http://autoplot.org/jnlp/latest/autoplot.jar> is the "production
     version" which is done roughly monthly, has had extensive testing,
@@ -33,25 +33,25 @@ and this section covers other modes.
 
 ## Servlet
 
-See [servlet\_guide](servlet_guide "wikilink"). Autoplot can be run in a
+See [servlet\_guide](servlet_guide.md "wikilink"). Autoplot can be run in a
 server mode in which case the user specifies a URL to file in a web
 browser and a PNG image is returned. Notes for developers of the servlet
-are here: [developer.servlet](developer.servlet "wikilink")
+are here: [developer.servlet](developer.servlet.md "wikilink")
 
 ## WebStart
 
-See [webstart\_guide](webstart_guide "wikilink").
+See [webstart\_guide](webstart_guide.md "wikilink").
 
 ## Jython
 
 Autoplot uses Jython (Python in Java) for scripting data sources and the
 application itself. Selecting Options-\>Enable Feature-\>Script Panel
 will reveal a tab named "script". See
-[developer.scripting](developer.scripting "wikilink").
+[developer.scripting](developer.scripting.md "wikilink").
 
 ## IDL/MATLAB
 
-See [developer.idlMatlab](developer.idlMatlab "wikilink").
+See [developer.idlMatlab](developer.idlMatlab.md "wikilink").
 
 ## Command line
 
@@ -139,7 +139,7 @@ java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.AutoplotServer -u "h
 `
 ```
 
-will create [:Image:BGSM.png](:Image:BGSM.png "wikilink")
+will create [:Image:BGSM.png](:Image:BGSM.png.md "wikilink")
 
 # Development
 
@@ -183,7 +183,7 @@ Autoplot uses Jenkins for managing automated testing and reporting.
 ## Manual Testing
 
 We have a script for human-driven testing here:
-[developer.tests](developer.tests "wikilink"). These are procedures for
+[developer.tests](developer.tests.md "wikilink"). These are procedures for
 tests that don't translate into automatic tests, such as GUI operations
 and multiple-platform testing.
 
@@ -195,9 +195,9 @@ You may browse the email archive at
 
 ## Presentations
 
-  - AGU 2010 poster: [ppt](:Media:agu2010.ppt "wikilink")
+  - AGU 2010 poster: [ppt](:Media:agu2010.ppt.md "wikilink")
   - QDataSet Poster talks about how data is represented:
-    [ppt](:Media:InsideAutoplot-20110531.ppt "wikilink")
+    [ppt](:Media:InsideAutoplot-20110531.ppt.md "wikilink")
 
 ## Source Code
 
@@ -216,18 +216,18 @@ You may browse the email archive at
   - Details about the internal workings of das2 may be found on their
     [wiki](http://www.das2.org/wiki/)
   - Details about the QDataSet data model may be found at
-    [QDataSet](QDataSet "wikilink")
+    [QDataSet](QDataSet.md "wikilink")
 
 ## List of URIs for Testing
 
-Here is a [List Of URIs](Test_dataset_urls "wikilink") for testing.
+Here is a [List Of URIs](Test_dataset_urls.md "wikilink") for testing.
 These include links that demonstrate that things work, and may quickly
 demonstrate sources that don't work. Feel free to add to the list,
 adding a comment if it doesn't work properly.
 
 ## Notes on Debugging
 
-Here is a [place](developer.tipsAndTricks "wikilink") for thoughts on
+Here is a [place](developer.tipsAndTricks.md "wikilink") for thoughts on
 techniques for debugging, for the senior developer's reference, and for
 those who would like to get into the code.
 
@@ -268,66 +268,66 @@ those who would like to get into the code.
 
 ## Misc.
 
-  - [developer.idlMatlab](developer.idlMatlab "wikilink") IDL/MATLAB
+  - [developer.idlMatlab](developer.idlMatlab.md "wikilink") IDL/MATLAB
     interface
-  - [developer.novice](developer.novice "wikilink") discussion of a
+  - [developer.novice](developer.novice.md "wikilink") discussion of a
     basic/expert user mode.
-  - See [Special:Allpages](Special:Allpages "wikilink") for a list of
+  - See [Special:Allpages](Special:Allpages.md "wikilink") for a list of
     all pages on this wiki.
-  - [QDataSet](QDataSet "wikilink") beginnings of a QDataSet tutorial
+  - [QDataSet](QDataSet.md "wikilink") beginnings of a QDataSet tutorial
     and QDataSet technical description. QDataSet is the internal data
     model.
-  - [developer.scripting](developer.scripting "wikilink") Help with
+  - [developer.scripting](developer.scripting.md "wikilink") Help with
     scripting
-  - [developer.guiConventions](developer.guiConventions "wikilink") GUI
+  - [developer.guiConventions](developer.guiConventions.md "wikilink") GUI
     Conventions
-  - [developer.URI\_syntax](developer.URI_syntax "wikilink") Describes
+  - [developer.URI\_syntax](developer.URI_syntax.md "wikilink") Describes
     Autoplot data set URI construction, rules, and conventions.
-  - [developer.URI\_completion](developer.URI_completion "wikilink")
+  - [developer.URI\_completion](developer.URI_completion.md "wikilink")
     Description of the completion engine used to create valid URIs, to
     assist humans and perhaps allow for data mining...
-  - [developer.Title\_and\_Label\_Templates](developer.Title_and_Label_Templates "wikilink")
+  - [developer.Title\_and\_Label\_Templates](developer.Title_and_Label_Templates.md "wikilink")
     proposal for how titles and labels can use templates to insert
     metadata.
-  - [developer.inlineData](developer.inlineData "wikilink") proposal for
+  - [developer.inlineData](developer.inlineData.md "wikilink") proposal for
     URIs that contain data for quick plotting and tags.
-  - [developer.axis\_auto\_property](developer.axis_auto_property "wikilink")
+  - [developer.axis\_auto\_property](developer.axis_auto_property.md "wikilink")
     proposal for adding "auto" property to axis so autoranging is finely
     controlled.
-  - [developer.DataSource\_API\_Change](developer.DataSource_API_Change "wikilink")
+  - [developer.DataSource\_API\_Change](developer.DataSource_API_Change.md "wikilink")
     proposed for DataSources that would allow for database and other
     non-file-based DataSources.
-  - [developer.panel\_rank\_reduction](developer.panel_rank_reduction "wikilink")
+  - [developer.panel\_rank\_reduction](developer.panel_rank_reduction.md "wikilink")
     spec for how panels can reduce data that's handed to them, and
     implementation notes.
-  - [developer.userDirectory](developer.userDirectory "wikilink") layout
+  - [developer.userDirectory](developer.userDirectory.md "wikilink") layout
     of the user data directory. Right now this is just data, but I want
     to put other things here too.
-  - [developer.bindingTypes](developer.bindingTypes "wikilink") initial
+  - [developer.bindingTypes](developer.bindingTypes.md "wikilink") initial
     thoughts about the need for more binding types.
-  - [developer.helpsets](developer.helpsets "wikilink") conventions for
+  - [developer.helpsets](developer.helpsets.md "wikilink") conventions for
     developing and maintaining help documents.
-  - [developer.datasourceURI.extensions](developer.datasourceURI.extensions "wikilink")
+  - [developer.datasourceURI.extensions](developer.datasourceURI.extensions.md "wikilink")
     propose new features for data sources
-  - [developer.dataset.filters](developer.dataset.filters "wikilink")
+  - [developer.dataset.filters](developer.dataset.filters.md "wikilink")
     work out spec for user-defined filters for QDataSet, Autoplot and
     TSDS.
-  - [developer.python.indexing](developer.python.indexing "wikilink")
+  - [developer.python.indexing](developer.python.indexing.md "wikilink")
     document the logic for PyQDataSet.\_\_getItem\_\_ index parameter.
-  - [developer.addingHelpFiles](developer.addingHelpFiles "wikilink")
+  - [developer.addingHelpFiles](developer.addingHelpFiles.md "wikilink")
     adding help documents
-  - [developer.respondingToEvents](developer.respondingToEvents "wikilink")
+  - [developer.respondingToEvents](developer.respondingToEvents.md "wikilink")
     need to establish conventions for how to respond to events
     (valueIsAdjusting, etc).
-  - [developer.multiDataSetConventions](developer.multiDataSetConventions "wikilink")
+  - [developer.multiDataSetConventions](developer.multiDataSetConventions.md "wikilink")
     thoughts about conventions for data readers to read in Z(X,Y) from
     any data source.
-  - [developer.bugSequences](developer.bugSequences "wikilink")
+  - [developer.bugSequences](developer.bugSequences.md "wikilink")
     Sequences which have been known to demonstrate bugs. These are
     probably good to check periodically.
-  - [developer.autolayout](developer.autolayout "wikilink") New version
+  - [developer.autolayout](developer.autolayout.md "wikilink") New version
     of the autolayout that removes gaps and overlaps between panels.
-  - [developer.logging](developer.logging "wikilink") clean-up of the
+  - [developer.logging](developer.logging.md "wikilink") clean-up of the
     under-used and inconsistent logging system.
 
 ## Autoplot 2012b
@@ -493,7 +493,7 @@ branch.
 
   - Automatic layout inserts extra spaces for multiline plots and axes.
     (Need to specify how this is going to work.)
-    [developer.autolayout](developer.autolayout "wikilink")
+    [developer.autolayout](developer.autolayout.md "wikilink")
   - Handle stack plots that don't have x ticks.
   - plot above/plot below, insert plot below, insert plot above. (done)
   - convert current plot to M by N
@@ -526,7 +526,7 @@ I'll do this. These features include:
   - expert mode will:
       - show the "data" "script" "console" tabs
       - show \[?\] in section labels to link to documentation
-  - see [developer.novice](developer.novice "wikilink")
+  - see [developer.novice](developer.novice.md "wikilink")
 
 ## Autoplot 2010
 

@@ -21,12 +21,12 @@
     for debugging.
   - **column** controls the horizontal layout. Syntax is `L%+S,R%+S`,
     for example `0%+5em,100%-10em` See
-    [help\#layout](help#layout "wikilink"). Use will allow for a stack
+    [help\#layout](help.md#layout "wikilink"). Use will allow for a stack
     of images created with the API with the same time axis to be aligned
     properly.
   - **row** controls the vertical layout. Syntax is `T%+S,B%+S`, for
     example `0%+2em,100%-7em` See
-    [help\#layout](help#layout "wikilink").
+    [help\#layout](help.md#layout "wikilink").
   - **autolayout** automatically adjust the row and column to avoid
     clipping labels.
   - **font** is the font to use on the system. This must identify a font

@@ -1,2 +1,2 @@
-See [help.mashup](help.mashup "wikilink")
+See [help.mashup](help.mashup.md "wikilink")
 
