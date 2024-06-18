@@ -58,10 +58,10 @@ command "javaaddpath":
 
 Note this can be a URL, like
 
-`MATLAB> javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )`
+`MATLAB> javaaddpath( '`[`http://autoplot.org/jnlp/latest/autoplot.jar`](http://autoplot.org/jnlp/latest/autoplot.jar)`' )`
 
 Note older versions of Matlab use Java 6 and will not work with Autoplot
-version v2015a\_5 and newer.
+version v2015a_5 and newer.
 
 Now we can test to see that the jar file is connected:
 
@@ -72,24 +72,27 @@ Now we can test to see that the jar file is connected:
 
 ## First Read of Data
 
-![Autoplot can be used to read data into IDL and
-MATLAB](idlMatlabInterface.png
-"Autoplot can be used to read data into IDL and MATLAB")
+<figure>
+<img src="idlMatlabInterface.png"
+title="Autoplot can be used to read data into IDL and MATLAB" />
+<figcaption>Autoplot can be used to read data into IDL and
+MATLAB</figcaption>
+</figure>
 
 Suppose you have been using the Autoplot URI (data address)
 <http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0> to
 read data into Autoplot.
 
-`MATLAB> apds.setDataSetURI( '`<http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0>`' )`  
+`MATLAB> apds.setDataSetURI( '`[`http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0`](http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0)`' )`  
 `MATLAB> apds.doGetDataSet`
 
 Note there's a bug where MATLAB is unable to read AbstractPreferences,
 and you see an error message associated with this. This message can be
-ignored. Note the default autoplot\_data/fscache must always be used.
+ignored. Note the default autoplot_data/fscache must always be used.
 
 `MATLAB> apds`  
 `apds =`  
-<http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0>  
+[`http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0`](http://www.autoplot.org/data/swe-np.xls?column=data&depend0=dep0)  
 `data: data[dep0=288] (dimensionless)`  
 `dep0: dep0[288] (days since 1899-12-30T00:00:00.000Z) (DEPEND_0)`
 
@@ -162,7 +165,7 @@ validmax are in the QDataSet.
 Other classes Autoplot uses can be accessed. For example,
 
 `sc= org.autoplot.ScriptContext;`  
-`x= sc.getCompletions( 'vap+cdfj:`<http://autoplot.org/data/somedata.cdf>`?')`
+`x= sc.getCompletions( 'vap+cdfj:`[`http://autoplot.org/data/somedata.cdf`](http://autoplot.org/data/somedata.cdf)`?')`
 
 lists all the variables in the CDF file.
 
@@ -179,7 +182,7 @@ The extension is used to control the output format.
 
 ## Static methods in Matlab
 
-`Matlab> afs= org.das2.util.filesystem.FileSystem.create('`<https://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/>`')`  
+`Matlab> afs= org.das2.util.filesystem.FileSystem.create('`[`https://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/`](https://emfisis.physics.uiowa.edu/Flight/RBSP-B/L4/)`')`  
 `Matlab> afsm= org.das2.fsm.FileStorageModel.create(afs,'$Y/$m/$d/rbsp-b_WFR-waveform-magnitude_emfisis-L4_$Y$m$d_v$(v,sep).cdf')`  
 `Matlab> dr= org.das2.datum.DatumRangeUtil.parseTimeRange('2014-02')`  
 `Matlab> ff= afsm.getFilesFor( dr );`  
@@ -191,10 +194,10 @@ There are some technical issues with all this.
 
 Also:
 
-  - It seems clear that you'd want to be able to use Autoplot to verify
-    data, so applot should accept apds as an argument.
-  - Filters are not readily accessible in IDL and MATLAB, and it would
-    nice to show how these could be used.
+- It seems clear that you'd want to be able to use Autoplot to verify
+  data, so applot should accept apds as an argument.
+- Filters are not readily accessible in IDL and MATLAB, and it would
+  nice to show how these could be used.
 
 # See Also
 
@@ -204,19 +207,19 @@ which uses Java (instead of Matlab) to call the interface.
 
 # Complete MATLAB Examples
 
-`javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )`  
+`javaaddpath( '`[`http://autoplot.org/jnlp/latest/autoplot.jar`](http://autoplot.org/jnlp/latest/autoplot.jar)`' )`  
 `apds= org.autoplot.idlsupport.APDataSet;`  
 `t= '2019-01-17';`  
-`apds.setDataSetURI( strcat( '`<https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=>`', t ) );`  
+`apds.setDataSetURI( strcat( '`[`https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=`](https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=)`', t ) );`  
 `apds.doGetDataSet;`  
 `apds.setPreferredUnits( 'hours since 2019-01-17' );`  
 `plot( apds.values( apds.depend(0) ), apds.values );`
 
 Read Emfisis waveform files:
 
-`javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )`  
+`javaaddpath( '`[`http://autoplot.org/jnlp/latest/autoplot.jar`](http://autoplot.org/jnlp/latest/autoplot.jar)`' )`  
 `apds= org.autoplot.idlsupport.APDataSet;`  
-`apds.setDataSetURI( '`<https://emfisis.physics.uiowa.edu/Flight/RBSP-A/L2/2013/10/03/rbsp-a_WFR-waveform-continuous-burst_emfisis-L2_20131003T17_v1.3.2.cdf?BuSamples>`' );`  
+`apds.setDataSetURI( '`[`https://emfisis.physics.uiowa.edu/Flight/RBSP-A/L2/2013/10/03/rbsp-a_WFR-waveform-continuous-burst_emfisis-L2_20131003T17_v1.3.2.cdf?BuSamples`](https://emfisis.physics.uiowa.edu/Flight/RBSP-A/L2/2013/10/03/rbsp-a_WFR-waveform-continuous-burst_emfisis-L2_20131003T17_v1.3.2.cdf?BuSamples)`' );`  
 `apds.doGetDataSet;`  
 `apds.setPreferredUnits( 'seconds since 2013-10-03T17:00' );`  
 `plot( apds.values( apds.depend(1) ), apds.slice(1) );`
@@ -224,7 +227,7 @@ Read Emfisis waveform files:
 We wish to easily write Excel files (.xls). This script allows us to do
 this with Autoplot:
 
-`javaaddpath( '`<http://autoplot.org/jnlp/latest/autoplot.jar>`' )`  
+`javaaddpath( '`[`http://autoplot.org/jnlp/latest/autoplot.jar`](http://autoplot.org/jnlp/latest/autoplot.jar)`' )`  
 `SC= org.autoplot.ScriptContext; `  
   
 `tt= org.das2.qds.ops.Ops.labels( {  'experiment_1', 'experiment_2' } );  %  There's a warning about "No constructor 'org.das2.qds.ops.Ops' with matching signature found."  This is new.`  
@@ -241,7 +244,7 @@ this with Autoplot:
 
 # Previous Documentation
 
-  - Some older scripts show how to pass data to Autoplot from IDL and
-    MATLAB through a pipe:
-    [1](http://autoplot.svn.sourceforge.net/viewvc/autoplot/autoplot/trunk/VirboAutoplot/src/external/)
-  - <http://autoplot.org/wiki/index.php?title=developer&oldid=3660#IDL.2FMATLAB>
+- Some older scripts show how to pass data to Autoplot from IDL and
+  MATLAB through a pipe:
+  [1](http://autoplot.svn.sourceforge.net/viewvc/autoplot/autoplot/trunk/VirboAutoplot/src/external/)
+- <http://autoplot.org/wiki/index.php?title=developer&oldid=3660#IDL.2FMATLAB>

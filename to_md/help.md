@@ -74,16 +74,15 @@ locate data files and servers. Autoplot is installed with a list of
 "Demo Bookmarks" which provide a few initial places where data is found
 so you can see that things are working and play with Autoplot right
 away. For example, from the menu bar select
-"\[Menubar\]→Bookmarks→Demos→Demo 1", and Autoplot will plot data
-from CDAWeb at NASA/Goddard.
+"\[Menubar\]→Bookmarks→Demos→Demo 1", and Autoplot will plot data from
+CDAWeb at NASA/Goddard.
 
 Some other bookmarks:
 
-  - Demo 2: Spectrograms from the POLAR/Hydra instrument.
-  - Demo 5: Data from a CDF file
-  - Demo 6: Use SPASE record for metadata, file reference within for
-    data.
-  - Demo 9: Read data from ASCII file.
+- Demo 2: Spectrograms from the POLAR/Hydra instrument.
+- Demo 5: Data from a CDF file
+- Demo 6: Use SPASE record for metadata, file reference within for data.
+- Demo 9: Read data from ASCII file.
 
 ## Navigation
 
@@ -103,13 +102,16 @@ Undo and redo actions are attached to the ctrl-Z and ctrl-Y keys
 
 ## Address Bar and URIs
 
-![addressbar.png](addressbar.png "addressbar.png")
+<figure>
+<img src="addressbar.png" title="addressbar.png" width="600" />
+<figcaption>addressbar.png</figcaption>
+</figure>
 
   
 In the address bar at the top of the GUI you can enter the name of a
 supported [file format](#Formats_Read "wikilink") in a data address. If
 the data address is a URL, HTTP or FTP is used to download the file to a
-local directory within the folder "autoplot\_data." A fully-qualified
+local directory within the folder "autoplot_data." A fully-qualified
 address will contain both the location of the file and additional
 arguments to read in the data. For example, it may contain a CDF
 filename followed by `?BGSM` to indicate the variable to plot. Together
@@ -163,7 +165,7 @@ A CDF URI is a web address (URL) of a CDF file, which can be a local
 file (file:/tmp/myfile.cdf), and the name of a parameter to load. For
 example, enter the URI into Autoplot:
 
-<http://autoplot.org/data/autoplot.cdf?BGSM>
+[`http://autoplot.org/data/autoplot.cdf?BGSM`](http://autoplot.org/data/autoplot.cdf?BGSM)
 
 Entering this URI will open up the file using the CDF data source,
 reading the parameter identified by "BGSM." This data is loaded into
@@ -178,7 +180,7 @@ using another parameter.
 
 Note the URI given above is more formally stated as:
 
-`vap+cdf:`<http://autoplot.org/data/autoplot.cdf?BGSM>
+`vap+cdf:`[`http://autoplot.org/data/autoplot.cdf?BGSM`](http://autoplot.org/data/autoplot.cdf?BGSM)
 
 and when the vap+cdf prefix (scheme) is missing, the file extension is
 used to infer the data source to use.
@@ -192,7 +194,7 @@ line is split on commas or tabs. This is a simplification of this and
 many controls are provided and described below. But to get started, the
 URI:
 
-<https://cdaweb.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_1972.dat?column=field17&timeFormat=$Y+$j+$H&time=field0&validMax=999>
+[`https://cdaweb.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_1972.dat?column=field17&timeFormat=$Y+$j+$H&time=field0&validMax=999`](https://cdaweb.gsfc.nasa.gov/pub/data/omni/low_res_omni/omni2_1972.dat?column=field17&timeFormat=$Y+$j+$H&time=field0&validMax=999)
 
 breaks the lines of the file into fields using spaces. The keyword
 parameters 'timeFormat' and 'time' group the three fields starting at
@@ -215,7 +217,7 @@ data available. An example URI is:
 
 `vap+cdaweb:ds=OMNI2_H0_MRG1HR&id=DST1800&timerange=Oct+2016`
 
-which means from the data identified as "OMNI2\_H0\_MRG1HR" plot the
+which means from the data identified as "OMNI2_H0_MRG1HR" plot the
 parameter "DST1800", loading data to cover the time range "Oct 2016."
 
 ### HAPI Servers
@@ -225,10 +227,10 @@ their data. What makes HAPI unique is that any group can set up this
 API, which has been developed by a committee of heliophysics data
 providers. HAPI URIs look like:
 
-`vap+hapi:`<https://cdaweb.gsfc.nasa.gov/hapi?id=AC_K0_SWE&parameters=Np,Vp&timerange=2023-11-11>
+`vap+hapi:`[`https://cdaweb.gsfc.nasa.gov/hapi?id=AC_K0_SWE&parameters=Np,Vp&timerange=2023-11-11`](https://cdaweb.gsfc.nasa.gov/hapi?id=AC_K0_SWE&parameters=Np,Vp&timerange=2023-11-11)
 
 which says with the HAPI server located at
-<https://cdaweb.gsfc.nasa.gov/hapi>, from the dataset AC\_K0\_SWE, load
+<https://cdaweb.gsfc.nasa.gov/hapi>, from the dataset AC_K0_SWE, load
 the parameters Np and Vp. Any group can set up a HAPI server using the
 documentation at
 <https://github.com/hapi-server/data-specification/blob/master/hapi-2.1.0/HAPI-data-access-spec-2.1.0.md>
@@ -244,21 +246,21 @@ On a Mac, replace CTRL with CMD.
 
 When pointer is over an axis
 
-  - Drag axis: Middle Mouse Button Down and Drag
-  - Zoom in/out: Mouse Wheel Rotate Up/Down
-  - Pan: CTRL + Mouse Wheel Rotate Up/Down (Pans the axis. This allows
-    for rapid scanning of the data.)
+- Drag axis: Middle Mouse Button Down and Drag
+- Zoom in/out: Mouse Wheel Rotate Up/Down
+- Pan: CTRL + Mouse Wheel Rotate Up/Down (Pans the axis. This allows for
+  rapid scanning of the data.)
 
 Other
 
-  - Zoom: Left click + draw box
-  - Pan: Middle click + drag
-  - Reset Zoom: CTRL-R (on last plot clicked)
-  - Reset Y zoom: CTRL-Shift-Y (on last plot clicked)
-  - Reset X zoom: CTRL-Shift-X (on last plot clicked)
-  - Move plot: Shift-Left click
-  - Undo: CTRL-Z
-  - Redo: CTRL-Y
+- Zoom: Left click + draw box
+- Pan: Middle click + drag
+- Reset Zoom: CTRL-R (on last plot clicked)
+- Reset Y zoom: CTRL-Shift-Y (on last plot clicked)
+- Reset X zoom: CTRL-Shift-X (on last plot clicked)
+- Move plot: Shift-Left click
+- Undo: CTRL-Z
+- Redo: CTRL-Y
 
 More complex interaction with plots, including: mouse wheel control,
 keyboard entry of axis range, context overview plots
@@ -272,23 +274,24 @@ Here are more videos, described below:
 
 ## Keyboard Shortcuts
 
-  - Increase font size: CTRL-plus or CTRL-=
-  - Decrease font size: CTRL-minus
-  - Reset font size: CTRL-0
-  - Show URI completions: TAB in address bar
-      - Example: <http://autoplot.org/data/> + TAB will show a list of
-        files in that directory
-      - Example: <http://autoplot.org/data> + TAB will only show a list
-        of files that you have accessed previously that match the string
+- Increase font size: CTRL-plus or CTRL-=
+- Decrease font size: CTRL-minus
+- Reset font size: CTRL-0
+- Show URI completions: TAB in address bar
+  - Example: <http://autoplot.org/data/> + TAB will show a list of files
+    in that directory
+  - Example: <http://autoplot.org/data> + TAB will only show a list of
+    files that you have accessed previously that match the string
 
 ## Key Menu Items
 
-![menubar.png](menubar.png "menubar.png")  
+<img src="menubar.png" title="menubar.png" width="500"
+alt="menubar.png" />  
 
 ### File → URI History
 
 Autoplot keeps track of everything you have plotted in the file
-HOME/autoplot\_data/bookmarks/history.txt. The URI history dialog is a
+HOME/autoplot_data/bookmarks/history.txt. The URI history dialog is a
 tool that tries to sort out the history and provides a search tool for
 locating lost datasets. For example, if you know that you were plotting
 a txt file, set the filter to "vap+txt" to see all the matching URIs.
@@ -357,9 +360,8 @@ This will reload all of the displayed data.
 
 ### Tools → Manage and Browse
 
-This submenu contains all scripts found in autoplot\_data/tools/\*.jy
-and any Example scripts can be found here
-<http://autoplot.org/data/tools/>.
+This submenu contains all scripts found in autoplot_data/tools/\*.jy and
+any Example scripts can be found here <http://autoplot.org/data/tools/>.
 
 ### Tools → Additional Operations
 
@@ -383,7 +385,7 @@ When you point Autoplot to a URL like
 <http://autoplot.org/data/autoplot.cdf>, Autoplot downloads the file and
 stores it in a cache. (This is because most libraries need direct access
 to data files, so a local copy is necessarily made.) By default this is
-under the "autoplot\_data" folder in the scientist's home folder, in
+under the "autoplot_data" folder in the scientist's home folder, in
 fscache. This cache will grow and grow, and the "Manage Cache" tool must
 be used to manually remove unneeded files.
 
@@ -399,18 +401,18 @@ off-line mode, meaning it can access files that have been loaded
 already. If the server is back up and available again, this tool can be
 used to reset the filesystem to a normal on-line mode.
 
-The environment variable AUTOPLOT\_FSCACHE can be used to set the cache
+The environment variable AUTOPLOT_FSCACHE can be used to set the cache
 location as well.
 
-#### ro\_cache.txt
+#### ro_cache.txt
 
-Note, caches can contain a file "ro\_cache.txt" (read-only cache) which
+Note, caches can contain a file "ro_cache.txt" (read-only cache) which
 is a pointer to a local file system that contains the same files as the
 remote filesystem. This allows data providers to produce .vaps that
 external clients can use, without having to copy the data files into
 their caches. Likewise, a collaborator may wish to mirror the site, and
-they can then use a ro\_cache.txt pointer. Last, the ro\_cache.txt can
-be used with the Git-based filesystem to link to a local copy of the
+they can then use a ro_cache.txt pointer. Last, the ro_cache.txt can be
+used with the Git-based filesystem to link to a local copy of the
 filesystem, so that modifications can be tested without affecting
 others.
 
@@ -436,7 +438,7 @@ under the scientist's control.
 
 ## Tabs
 
-![tabs.png](tabs.png "tabs.png")  
+![](tabs.png "tabs.png")  
 
 ### <span id="axisPanel"></span>Axes
 
@@ -451,20 +453,20 @@ colorbar may not be visible but it always exists).
 Ranges for the x-, y-, and colorbar are strings that are parsed using
 the current axis units (such as time or dimensionless). For example,
 
-  - For an axes with time units: "2000 through 2010", "Sept 16 2009",
-    "2009-009 10:00 to 11:00", and "2009-009T00:00 to 2009-009T10:00"
-    "2012-12-14T23:00/2012-12-14T24:00".
-  - For physical ranges, use the keyword "to" to delimit two real
-    numbers. When the axis has a physical unit, such as "m/s" the range
-    can be qualified with a unit, as in "0 to 100 cm/s."
-  - An automatic test showing example ranges is
-    [here](http://autoplot.svn.sourceforge.net/viewvc/autoplot/autoplot/trunk/VirboAutoplot/src/test/endtoend/Test026.java?view=markup).
+- For an axes with time units: "2000 through 2010", "Sept 16 2009",
+  "2009-009 10:00 to 11:00", and "2009-009T00:00 to 2009-009T10:00"
+  "2012-12-14T23:00/2012-12-14T24:00".
+- For physical ranges, use the keyword "to" to delimit two real numbers.
+  When the axis has a physical unit, such as "m/s" the range can be
+  qualified with a unit, as in "0 to 100 cm/s."
+- An automatic test showing example ranges is
+  [here](http://autoplot.svn.sourceforge.net/viewvc/autoplot/autoplot/trunk/VirboAutoplot/src/test/endtoend/Test026.java?view=markup).
 
 All labels support "Granny Strings," which has special codes, similar to
-those used in IDL, proposed by Grandel in Nystorm. For example, \!c
+those used in IDL, proposed by Grandel in Nystorm. For example, !c
 inserts a new line. See
-[help\#Granny\_Strings](help#Granny_Strings "wikilink") for more
-information. Also html escapes like \&Delta; will show like Δ.
+[help#Granny_Strings](help#Granny_Strings "wikilink") for more
+information. Also html escapes like &Delta; will show like Δ.
 
 When selected, **Isotropic** constrains the x- and y-axis to have the
 same data-to-pixel scaling. This option is ignored when the axes do not
@@ -501,23 +503,23 @@ Autoplot's data representation model, QDataSet, supports invalid data
 place holders, called "fill data." When plotting data, this data is
 skipped and the line connecting points is broken. Fill is represented in
 the data with a special number, for example -1e31. Autoplot has several
-ways of marking fill data. The metadata property FILL\_VALUE is the
-value which marks the invalid number, -1e31, -999, etc. Note NaN is
-always considered fill. The data may also have VALID\_MIN and
-VALID\_MAX, which indicate the range over which the data is valid, and
-values outside of this range are fill. Finally, sometimes a "weights
-plane" could be used to mark fill values. This is a QDataSet with zeros
-where the values are invalid. When the property WEIGHTS is equal to a
-QDataSet, FILL\_VALUE, VALID\_MIN, VALID\_MAX can be ignored. If none of
-these values are found, then only NaN indicates fill.
+ways of marking fill data. The metadata property FILL_VALUE is the value
+which marks the invalid number, -1e31, -999, etc. Note NaN is always
+considered fill. The data may also have VALID_MIN and VALID_MAX, which
+indicate the range over which the data is valid, and values outside of
+this range are fill. Finally, sometimes a "weights plane" could be used
+to mark fill values. This is a QDataSet with zeros where the values are
+invalid. When the property WEIGHTS is equal to a QDataSet, FILL_VALUE,
+VALID_MIN, VALID_MAX can be ignored. If none of these values are found,
+then only NaN indicates fill.
 
 Metadata can be inserted on the plot using macros. For example, from the
 bookmarks plot demo 1
-(vap+cdaweb:ds=OMNI2\_H0\_MRG1HR\&id=DST1800\&timerange=2016-oct) and
+(vap+cdaweb:ds=OMNI2_H0_MRG1HR&id=DST1800&timerange=2016-oct) and
 replace the title with %{METADATA.GlobalAttributes.TITLE}, and when the
 axis is drawn, the metadata node GlobalAttributes.TITLE replaces the
-macro. If the dataset contains a USER\_PROPERTIES node,
-%{USER\_PROPERTIES.prop.name} can be used to show prop.name from that
+macro. If the dataset contains a USER_PROPERTIES node,
+%{USER_PROPERTIES.prop.name} can be used to show prop.name from that
 tree.
 
 ### <span id="stylePanel"></span>Style
@@ -623,11 +625,11 @@ axes together automatically, since this is a common mode of operation.
 
 Keyboard shortcuts:
 
-  - Add plot: Right click on canvas and select Add Plot
-  - Next plot element: CTRL-TAB
-  - Previous plot element: CTRL-Shift-TAB
-  - Add a plot below: CTRL + Play Button (green arrow button)
-  - Add overplot: Shift + Play Button (green arrow button)
+- Add plot: Right click on canvas and select Add Plot
+- Next plot element: CTRL-TAB
+- Previous plot element: CTRL-Shift-TAB
+- Add a plot below: CTRL + Play Button (green arrow button)
+- Add overplot: Shift + Play Button (green arrow button)
 
 <addhtml id="9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGA8SiDBZX8?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -635,7 +637,7 @@ Keyboard shortcuts:
 
 ## <span id="layoutPanel"></span>Layout
 
-![layout.png](layout.png "layout.png") The Layout Panel (enable with
+![](layout.png "layout.png") The Layout Panel (enable with
 Options→Enable Feature→Layout Tab) provides access to all of the plots
 and plot elements on the canvas. This allows you to swap plot position,
 delete plot elements, add groups of plots, etc.  
@@ -658,7 +660,7 @@ tweaks for each plot.
 This Bindings area contains a list of bindings for the application.
 These are properties that are bound together. For example, a stack of
 plots with a common x axis all have their x axes' range bound to the DOM
-property "app\_0.timerange". If one right-clicks on a binding, it can be
+property "app_0.timerange". If one right-clicks on a binding, it can be
 deleted.
 
 ### Plot Elements
@@ -691,21 +693,21 @@ introduced to allow for slicing of high-dimension (high "rank") data
 sets like Flux\[Time,Energy,Angle\], this also has a number of filters
 that are described below.
 
-When the Operations field is "|slice\<dim\>(\<index\>)" the data is
+When the Operations field is "\|slice\<dim\>(\<index\>)" the data is
 sliced to provide a view (like a cross-section) of the data. Note the
 mouse wheel will allow the index of the slice to be adjusted
 interactively.
 
 When a vector component is plotted, Operations simply identifies the
-component to plot, and this is implicitly the "|unbundle(c)" operation.
+component to plot, and this is implicitly the "\|unbundle(c)" operation.
 
-The magnifying glass with three vertical bars (|||) icon enters a GUI
+The magnifying glass with three vertical bars (\|\|\|) icon enters a GUI
 that allows these to be adjusted. This allows several adjustments to be
 made at once, such as slicing the data then running the result through a
 histogram.
 
 **Additional Operators** When the operations field starts with the pipe
-(|) character, it is a list of filters that are to be applied to the
+(\|) character, it is a list of filters that are to be applied to the
 data. These filters include (for example):
 
 `|histogram` perform an "auto" histogram of the data that automatically
@@ -782,7 +784,7 @@ bookmarks, and will appear in the tools menu when the app is reloaded
 (or getViewWindow().reloadTools() is run). For example, run the script:
 <http://autoplot.org/data/tools/flashFocus.jy>. This will show the
 script in a dialog with an execute button. (The scripts can do malicious
-things like delete files, so you must review the script\!) Note in the
+things like delete files, so you must review the script!) Note in the
 review dialog, that there's a checkbox to add to the tools menu. The new
 menu item "Flash Focus" should appear. The script will cause the focus
 plotElement to flash three times.
@@ -792,10 +794,13 @@ is coming soon.
 
 # <span id="layout"></span>Modifying Layout
 
-![DOM GUI (Accessed via Edit→Edit DOM) showing entries for layout.
-Autolayout must be de-activated for changes to apply
-(Options→Auto→Autolayout)](layoutdom.png
-"DOM GUI (Accessed via Edit→Edit DOM) showing entries for layout. Autolayout must be de-activated for changes to apply (Options→Auto→Autolayout)")
+<figure>
+<img src="layoutdom.png"
+title="DOM GUI (Accessed via Edit→Edit DOM) showing entries for layout. Autolayout must be de-activated for changes to apply (Options→Auto→Autolayout)" />
+<figcaption>DOM GUI (Accessed via Edit→Edit DOM) showing entries for
+layout. Autolayout must be de-activated for changes to apply
+(Options→Auto→Autolayout)</figcaption>
+</figure>
 
 Autoplot's **canvas** consists of a number of **plots** which are the
 two-dimensional spaces on which data is rendered. **Plot elements**
@@ -815,9 +820,9 @@ efficiently specify the location. For example, the horizontal (column)
 layout from the left is specified as a percentage plus a shift from the
 left `L%+S`, where
 
-  - L is the percentage of canvas to place the left side of the plot box
-    (only data, no labels)
-  - S is the shift (in px or em)
+- L is the percentage of canvas to place the left side of the plot box
+  (only data, no labels)
+- S is the shift (in px or em)
 
 To have the labels on the y-axis rendered outside of the canvas, use
 `0%+0`
@@ -860,10 +865,10 @@ directory location.
 
 Timeranges or time values occur in multiple places in a VAP file:
 
-  - URIs (vap+cdaweb:ds=AC\_H2\_SEP\&id=H1\&timerange=2005-02-04)
-  - on axes (<datumRange units="us2000" value="2005-02-04"/>),
-  - within defaults for each plotElement, and
-  - for the overall application (in the "timeRange" property).
+- URIs (vap+cdaweb:ds=AC_H2_SEP&id=H1&timerange=2005-02-04)
+- on axes (<datumRange units="us2000" value="2005-02-04"/>),
+- within defaults for each plotElement, and
+- for the overall application (in the "timeRange" property).
 
 The timeRange property, found at the end of the VAP file, is what sets
 the time range. This is what allows arguments to VAP files, e.g.,
@@ -884,7 +889,7 @@ reader would parse the file. Darker lines that are not broken into
 columns are lines identified as non-records, such as header lines.
 
 Details on how the ASCII table reader is implemented is described at
-[ascii\_data\_source](ascii_data_source "wikilink").
+[ascii_data_source](ascii_data_source "wikilink").
 
 <addhtml id="222">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcR0jtxlWrw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -906,7 +911,7 @@ copy the fields up into the Time Format text field. Then in the text
 field, highlight each field and use the drop list to identify the field
 type. If the field is already ISO8601 compliant, a manual specification
 of the time format is not required. See
-[\#Wildcard\_codes](#Wildcard_codes "wikilink") for a full list of time
+[\#Wildcard_codes](#Wildcard_codes "wikilink") for a full list of time
 codes.
 
 Note that fractional times may be given in the ASCII file, e.g.,
@@ -947,7 +952,10 @@ like "Time" or "Epoch." In this way the files store data in a more
 abstract form than ASCII and other file formats, and Autoplot can
 leverage this information.
 
-![cdfEditorPanel.jpg](cdfEditorPanel.jpg "cdfEditorPanel.jpg")
+<figure>
+<img src="cdfEditorPanel.jpg" title="cdfEditorPanel.jpg" />
+<figcaption>cdfEditorPanel.jpg</figcaption>
+</figure>
 
 ### Select variable parameter
 
@@ -959,9 +967,9 @@ example, the timetags variable "Epoch" is not shown. To see all
 parameters, select the "show all" checkbox.
 
 In the middle of the panel is information about the variable. These come
-from the CDF metadata "CATDESC" and "VAR\_NOTES". Minor problems found
-in the CDF may be indicated here, for example if two variables don't
-have the same number of records.
+from the CDF metadata "CATDESC" and "VAR_NOTES". Minor problems found in
+the CDF may be indicated here, for example if two variables don't have
+the same number of records.
 
 ### Advanced Sub-panel
 
@@ -971,7 +979,7 @@ record.
 
 "Only load data where" will load a second variable and filter the data
 when this condition is true. For example, "within" "1e0 to 1e9" will
-only load the FEDU data when HOPE\_ENERGY is with in this range. (TODO:
+only load the FEDU data when HOPE_ENERGY is with in this range. (TODO:
 make more useful example.)
 
 "Interpret Metadata" allows non-conforming CDFs to be used. For example,
@@ -1011,7 +1019,7 @@ this has not yet been explored.) URI parameters for scripting are
 described below. The following script shows how data is loaded from a
 CDF file and formatted to an ASCII file.
 
-`ds= getDataSet( '`<http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude>`' )`  
+`ds= getDataSet( '`[`http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude`](http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude)`' )`  
 `formatDataSet( ds, '/tmp/mag.txt' )`
 
 ## Formats Supported
@@ -1024,10 +1032,10 @@ sometimes shown, to provide an example value.
 The scientist can export data to IDLSAV files. Rank 1 and rank 2 data
 are now supported.
 
-  - tunits=t1970. The time units for the data. t1970, the default, means
-    the number of non-leap seconds since 1970-01-01T00:00Z. "seconds
-    since 2019-01-02T00:00Z" (or whenever) is often used as well, so
-    that the times are just seconds since midnight.
+- tunits=t1970. The time units for the data. t1970, the default, means
+  the number of non-leap seconds since 1970-01-01T00:00Z. "seconds since
+  2019-01-02T00:00Z" (or whenever) is often used as well, so that the
+  times are just seconds since midnight.
 
 Note that rank 2 and higher data is transposed between this and the
 org.autoplot.idlsupport.APDataSet ("IDL/Matlab Bridge") result. This is
@@ -1039,38 +1047,38 @@ optimized for IDL access.
 
 Matlab files can be used to export rank 1 and rank 2 data.
 
-  - tunits=t1970. The time units for the data. t1970, the default, means
-    the number of non-leap seconds since 1970-01-01T00:00Z. "seconds
-    since 2019-01-02T00:00Z" (or whenever) is often used as well, so
-    that the times are just seconds since midnight.
+- tunits=t1970. The time units for the data. t1970, the default, means
+  the number of non-leap seconds since 1970-01-01T00:00Z. "seconds since
+  2019-01-02T00:00Z" (or whenever) is often used as well, so that the
+  times are just seconds since midnight.
 
 ### .das2stream
 
 Format streams for caching data or to explore responses for the
 das2server.
 
-  - version
-  - fracsec
-  - precision
-  - type="ascii". Use ascii or binary for data transfer.
+- version
+- fracsec
+- precision
+- type="ascii". Use ascii or binary for data transfer.
 
 ### .dat .txt (ascii tables)
 
-  - tformat="ISO8601"
-  - header="none". add a header to the data, for example "rich" header
-    describes all sorts of metadata.
-  - format
-  - depend0Units units for times, such as t1970 or "seconds since
-    2019-01-02T00:00Z"
-  - doDep
+- tformat="ISO8601"
+- header="none". add a header to the data, for example "rich" header
+  describes all sorts of metadata.
+- format
+- depend0Units units for times, such as t1970 or "seconds since
+  2019-01-02T00:00Z"
+- doDep
 
 ### .nc (NetCDF)
 
-  - type=double. the data type to use.
-  - arg\_0 name for the variable.
-  - doDep
-  - metadata
-  - append=F. add to the existing file.
+- type=double. the data type to use.
+- arg_0 name for the variable.
+- doDep
+- metadata
+- append=F. add to the existing file.
 
 ### .cdf
 
@@ -1078,24 +1086,24 @@ The append option allows a cdf file to be built up. Alternatively, if it
 is more convenient to have all the data in memory at once, then a bundle
 of data can be exported.
 
-  - type=double. the data type to use, for example float.
-  - append=F. add to the existing file.
-  - bundle=F. format each of the bundled datasets.
-  - timeType=tt2000. or epoch
-  - compressed=F. compress the data within the CDF.
-  - arg\_0 is the parameter name.
+- type=double. the data type to use, for example float.
+- append=F. add to the existing file.
+- bundle=F. format each of the bundled datasets.
+- timeType=tt2000. or epoch
+- compressed=F. compress the data within the CDF.
+- arg_0 is the parameter name.
 
 ### .wav
 
 wav sound files.
 
-  - scale=T. scale the data so that the full dynamic range is used.
-  - byteOrder big or little.
-  - type the data type, like short.
-  - timeScale=1.0. rescale the times. timeScale=2 means "speed up the
-    sound"
-  - timetags=F. if T, then create a second ASCII file which shows the UT
-    time vs index.
+- scale=T. scale the data so that the full dynamic range is used.
+- byteOrder big or little.
+- type the data type, like short.
+- timeScale=1.0. rescale the times. timeScale=2 means "speed up the
+  sound"
+- timetags=F. if T, then create a second ASCII file which shows the UT
+  time vs index.
 
 ### .hapi
 
@@ -1116,12 +1124,12 @@ Data coming from files can typically be combined, or aggregated. For
 example, a single CDF file can be read (using the CDF plug-in) with the
 URI:
 
-`vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/2008/ac_k0_swe_20080620_v01.cdf?Np>
+`vap+cdf:`[`ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/2008/ac_k0_swe_20080620_v01.cdf?Np`](ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/2008/ac_k0_swe_20080620_v01.cdf?Np)
 
 If this is one of a series of files, the variable `Np` can be plotted
 across several files using the notation:
 
-`vap+cdf:`<ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2008-June>
+`vap+cdf:`[`ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2008-June`](ftp://cdaweb.gsfc.nasa.gov/pub/istp/ace/swe/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2008-June)
 
 Most of the letters used for the wildcards for time are the same as the
 Unix `date` command, for example `$Y` means a four-letter year while
@@ -1135,59 +1143,59 @@ aggregation spec from a file URL.
 
 ### Aggregation GUI
 
-![AggregationGUI.jpg](AggregationGUI.jpg "AggregationGUI.jpg")
-Aggregation URIs will have an additional controller in the data source
-editor. This allows timeranges to be browsed and selected. The field
-"Time Range for Aggregation" controls the span that will be aggregated.
-This is a time range parsed like other timeranges in Autoplot: 2010 is a
-year, 2010-Jan is a month, 2010-Jan-01 is a day, 2010-Jan-01 07:00 to
-08:00, and so on. Below are three droplists that allow an interval to be
-selected. The GUI will query the server to see which intervals are
-available. First select from the available years, then from available
-months within that year, and then a day. "Copy" will then copy the value
-into the time range text field. The reduce checkbox enables the
-experimental data reduction feature where data is reduced to axis
-resolution as it is read in.
+![](AggregationGUI.jpg "AggregationGUI.jpg") Aggregation URIs will have
+an additional controller in the data source editor. This allows
+timeranges to be browsed and selected. The field "Time Range for
+Aggregation" controls the span that will be aggregated. This is a time
+range parsed like other timeranges in Autoplot: 2010 is a year, 2010-Jan
+is a month, 2010-Jan-01 is a day, 2010-Jan-01 07:00 to 08:00, and so on.
+Below are three droplists that allow an interval to be selected. The GUI
+will query the server to see which intervals are available. First select
+from the available years, then from available months within that year,
+and then a day. "Copy" will then copy the value into the time range text
+field. The reduce checkbox enables the experimental data reduction
+feature where data is reduced to axis resolution as it is read in.
 
 ### Wildcard codes
 
 Aggregation URIs will contain from the following wildcard codes:
 
-  - $Y four-digit year
-  - $y two-digit year
-  - $j three-digit day of year
-  - $m two-digit month
-  - $b three-letter month (English locale only)
-  - $d two-digit day of month
-  - $H two-digit hour
-  - $M two-digit minute
-  - $S two-digit second
-  - $(milli) three digit milliseconds since second boundary. (please use
-    subsec instead of this)
-  - $(micro) three digit microseconds since millisecond boundary.
-    (please use subsec instead of this)
-  - $(subsec;places=3) three digits are milliseconds. $(subsec;places=6)
-    means the 6 digits are microseconds.
-  - $v version number, decimal sort. $(v;alpha) is for alpha sort, and
-    $(v;sep) for "x.y.z" Note sometimes the filename will contain a V
-    before this, and this should be just the number like so: V$v
-  - $o orbit number, arguments like $(o;id=crres) make this useful. see
-    <http://autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges>
-  - $x ignore, match anything but don't interpret the field.
+- \$Y four-digit year
+- \$y two-digit year
+- \$j three-digit day of year
+- \$m two-digit month
+- \$b three-letter month (English locale only)
+- \$d two-digit day of month
+- \$H two-digit hour
+- \$M two-digit minute
+- \$S two-digit second
+- \$(milli) three digit milliseconds since second boundary. (please use
+  subsec instead of this)
+- \$(micro) three digit microseconds since millisecond boundary. (please
+  use subsec instead of this)
+- \$(subsec;places=3) three digits are milliseconds. \$(subsec;places=6)
+  means the 6 digits are microseconds.
+- \$v version number, decimal sort. \$(v;alpha) is for alpha sort, and
+  \$(v;sep) for "x.y.z" Note sometimes the filename will contain a V
+  before this, and this should be just the number like so: V\$v
+- \$o orbit number, arguments like \$(o;id=crres) make this useful. see
+  <http://autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges>
+- \$x ignore, match anything but don't interpret the field.
 
 A version wildcard is allowed. Versioned URIs have the form:
 
-`vap+cdf:`<https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July>
+`vap+cdf:`[`https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July`](https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July)
 
 Also, parenthesis can be used to modify fields. For example:
 
-  - $Y$m$d-$(H;span=12) indicates the hour is the beginning of a 12 hour
-    interval indicated by the name.
-  - $Y$m$d\_$H$(M;span=10) indicates the files are in ten-minute blocks.
-  - $(m;Y=2011)$d indicates the year field is implicit. TODO: bugs
-    prevent this from working, since we look for $Y to detect
-    aggregations...
-  - $Y$m$d\_$H$M$S.$(milli;span=250)
+- \$Y\$m\$d-\$(H;span=12) indicates the hour is the beginning of a 12
+  hour interval indicated by the name.
+- \$Y\$m\$d\_\$H\$(M;span=10) indicates the files are in ten-minute
+  blocks.
+- \$(m;Y=2011)\$d indicates the year field is implicit. TODO: bugs
+  prevent this from working, since we look for \$Y to detect
+  aggregations...
+- \$Y\$m\$d\_\$H\$M\$S.\$(milli;span=250)
 
 See also
 <https://github.com/hapi-server/uri-templates/wiki/Specification>, which
@@ -1202,9 +1210,9 @@ includes a more complete description.
 One code for parsing and formatting times into strings is used
 throughout Autoplot to:
 
-  - parse times within a file
-  - parse times in a filename (and URI)
-  - generated times in scripts
+- parse times within a file
+- parse times in a filename (and URI)
+- generated times in scripts
 
 Note this is different than the code that parses ranges to control axes.
 That one must guess the format, then parse. This one is given a time
@@ -1212,18 +1220,18 @@ format, and then and parse strings to get timeranges or vice-versa.
 
 Example times:
 
-  - $Y-$m-$d 2010-06-23
-  - <file:///tmp/$Y$m$d.dat> <file:///tmp/20100623.dat>
+- \$Y-\$m-\$d 2010-06-23
+- <file:///tmp/$Y$m$d.dat> <file:///tmp/20100623.dat>
 
-Field types (see [\#Wildcard\_codes](#Wildcard_codes "wikilink") for
-full list and definitions):
+Field types (see [\#Wildcard_codes](#Wildcard_codes "wikilink") for full
+list and definitions):
 
-  - $Y $m $d $H $M $S $(milli) $(micro)
+- \$Y \$m \$d \$H \$M \$S \$(milli) \$(micro)
 
 Field qualifiers:
 
-  - $(H;span=4) digit indicates beginning of 4 hour interval
-  - $(m;Y=2004) The year 2004 is implicit
+- \$(H;span=4) digit indicates beginning of 4 hour interval
+- \$(m;Y=2004) The year 2004 is implicit
 
 Note %{m;Y=2004} may be used instead.
 
@@ -1248,46 +1256,46 @@ range" GUI has a tab to create time ranges of this type.
 
 Here are a number of entries and their interpretations:
 
-| Implicit String                           | Interpreted Start                       | Interpreted Span                                         |
-| ----------------------------------------- | --------------------------------------- | -------------------------------------------------------- |
-| 2000-01-01T13:00Z to 2000-01-01T14:00     | 2000-01-01T13:00:00.000Z                | 60.0 min                                                 |
-| 2000-01-01 13:00 to 14:00                 | 2000-01-01T13:00:00.000Z                | 60.0 min                                                 |
-| 2000-01-02                                | 2000-01-02T00:00:00.000Z                | 24.0 hr                                                  |
-| 2000-002                                  | 2000-01-02T00:00:00.000Z                | 24.0 hr                                                  |
-| 2000-02                                   | 2000-02-01T00:00:00.000Z                | 29.0 days                                                |
-| 2000-feb                                  | 2000-02-01T00:00:00.000Z                | 29.0 days                                                |
-| 2000                                      | 2000-01-01T00:00:00.000Z                | 366 days                                                 |
-| 2000-01-01 to 2000-01-05                  | 2000-01-01T00:00:00.000Z                | 4.0 days                                                 |
-| 2000-01-01 through 2000-01-05             | 2000-01-01T00:00:00.000Z                | 5.0 days                                                 |
-| 2001-01-01 span 10 days                   | 2001-01-01T00:00:00.000Z                | 10.0 days                                                |
-| 2000-01-01T13:00Z/PT1H                    | 2000-01-01T13:00:00.000Z                | 60.0 min                                                 |
-| 20000101T1300Z/PT1H                       | 2000-01-01T13:00:00.000Z                | 60.0 min                                                 |
-| 2000-01-01T00:00Z/P1D                     | 2000-01-01T00:00:00.000Z                | 24.0 hr                                                  |
-| 2007-03-01T13:00:00Z/P1Y2M10DT2H30M       | 2007-03-01T13:00:00.000Z                | 437.11 days                                              |
-| 2007-03-01T13:00:00Z/2008-05-11T15:30:00Z | 2007-03-01T13:00:00.000Z                | 437.11 days                                              |
-| P1Y2M10DT2H30M/2008-05-11T15:30:00Z       | 2007-03-01T13:00:00.000Z                | 437.11 days                                              |
-| 2007-009/2007-021                         | 2007-01-09T00:00:00.000Z                | 12.0 days                                                |
-| 2007-05-15/2007-05-30                     | 2007-05-15T00:00:00.000Z                | 15.0 days                                                |
-| 2007-03-01/P5D                            | 2007-03-01T00:00:00.000Z                | 5.0 days                                                 |
-| P5D/2007-03-06                            | 2007-03-01T00:00:00.000Z                | 5.0 days                                                 |
-| 2000-01-01T13:00/PT1H                     | 2000-01-01T13:00:00.000Z                | 60.0 min                                                 |
-| 20000101T13:00Z/14:00Z                    | 2000-01-01T13:00:00.000Z                | 60.0 min                                                 |
-| 1000                                      | 1000-01-01T00:00:00.000Z                | 365 days                                                 |
-| 9000                                      | 9000-01-01T00:00:00.000Z                | 365 days                                                 |
-| 2000-01-01T00:00:00 span .000001 sec      | 2000-01-01T00:00:00.000Z                | 1.0 microseconds                                         |
-| 2000-01-01T00:00:00 span .000000001 sec   | 2000-01-01T00:00:00.000Z                | 0.0010 microseconds                                      |
-| 2002-01-01T10:10:10 span .000000001 sec   | 2002-01-01T10:10:10.000Z                | 0.0 microseconds                                         |
-| Aug 1969 through Sep 1970                 | 1969-08-01T00:00:00.000Z                | 426 days                                                 |
-| 2004-12-03T20:19:59.990/PT.02S            | 2004-12-03 20:19:59.990 to 20:20:00.010 | within 30.0 micros (0.0 microseconds -0.25 microseconds) |
-| 2004-12-03T20:19:56.2/PT.2S               | 2004-12-03T20:19:56.200Z                | .2 seconds                                               |
-| 2014-08-29T13:27:43.253Z                  |                                         |                                                          |
-| P1D                                       | (1 day ending at the current time)      | 1 day                                                    |
-| PT1H                                      | (1 hour ending at the current time)     | 1 hour                                                   |
-| orbit:rbspa-pp:403                        | 2013-01-27T18:58:17.392Z                | 8.9789 hr                                                |
-| orbit:rbspa-pp:403-406                    | 2013-01-27T18:58:17.392Z                | 1.4965 days                                              |
-| 1972/now-P1D                              | 1972-01-01 00:00 to (24 hours ago)      |                                                          |
-| now-P10D/now-P1D                          | (10 days ago) to (1 day ago)            |                                                          |
-| lastday-P1D/lastday                       | yesterday (UTC), beginning of the day   | 1 day                                                    |
+| Implicit String | Interpreted Start | Interpreted Span |
+|----|----|----|
+| 2000-01-01T13:00Z to 2000-01-01T14:00 | 2000-01-01T13:00:00.000Z | 60.0 min |
+| 2000-01-01 13:00 to 14:00 | 2000-01-01T13:00:00.000Z | 60.0 min |
+| 2000-01-02 | 2000-01-02T00:00:00.000Z | 24.0 hr |
+| 2000-002 | 2000-01-02T00:00:00.000Z | 24.0 hr |
+| 2000-02 | 2000-02-01T00:00:00.000Z | 29.0 days |
+| 2000-feb | 2000-02-01T00:00:00.000Z | 29.0 days |
+| 2000 | 2000-01-01T00:00:00.000Z | 366 days |
+| 2000-01-01 to 2000-01-05 | 2000-01-01T00:00:00.000Z | 4.0 days |
+| 2000-01-01 through 2000-01-05 | 2000-01-01T00:00:00.000Z | 5.0 days |
+| 2001-01-01 span 10 days | 2001-01-01T00:00:00.000Z | 10.0 days |
+| 2000-01-01T13:00Z/PT1H | 2000-01-01T13:00:00.000Z | 60.0 min |
+| 20000101T1300Z/PT1H | 2000-01-01T13:00:00.000Z | 60.0 min |
+| 2000-01-01T00:00Z/P1D | 2000-01-01T00:00:00.000Z | 24.0 hr |
+| 2007-03-01T13:00:00Z/P1Y2M10DT2H30M | 2007-03-01T13:00:00.000Z | 437.11 days |
+| 2007-03-01T13:00:00Z/2008-05-11T15:30:00Z | 2007-03-01T13:00:00.000Z | 437.11 days |
+| P1Y2M10DT2H30M/2008-05-11T15:30:00Z | 2007-03-01T13:00:00.000Z | 437.11 days |
+| 2007-009/2007-021 | 2007-01-09T00:00:00.000Z | 12.0 days |
+| 2007-05-15/2007-05-30 | 2007-05-15T00:00:00.000Z | 15.0 days |
+| 2007-03-01/P5D | 2007-03-01T00:00:00.000Z | 5.0 days |
+| P5D/2007-03-06 | 2007-03-01T00:00:00.000Z | 5.0 days |
+| 2000-01-01T13:00/PT1H | 2000-01-01T13:00:00.000Z | 60.0 min |
+| 20000101T13:00Z/14:00Z | 2000-01-01T13:00:00.000Z | 60.0 min |
+| 1000 | 1000-01-01T00:00:00.000Z | 365 days |
+| 9000 | 9000-01-01T00:00:00.000Z | 365 days |
+| 2000-01-01T00:00:00 span .000001 sec | 2000-01-01T00:00:00.000Z | 1.0 microseconds |
+| 2000-01-01T00:00:00 span .000000001 sec | 2000-01-01T00:00:00.000Z | 0.0010 microseconds |
+| 2002-01-01T10:10:10 span .000000001 sec | 2002-01-01T10:10:10.000Z | 0.0 microseconds |
+| Aug 1969 through Sep 1970 | 1969-08-01T00:00:00.000Z | 426 days |
+| 2004-12-03T20:19:59.990/PT.02S | 2004-12-03 20:19:59.990 to 20:20:00.010 | within 30.0 micros (0.0 microseconds -0.25 microseconds) |
+| 2004-12-03T20:19:56.2/PT.2S | 2004-12-03T20:19:56.200Z | .2 seconds |
+| 2014-08-29T13:27:43.253Z |  |  |
+| P1D | (1 day ending at the current time) | 1 day |
+| PT1H | (1 hour ending at the current time) | 1 hour |
+| orbit:rbspa-pp:403 | 2013-01-27T18:58:17.392Z | 8.9789 hr |
+| orbit:rbspa-pp:403-406 | 2013-01-27T18:58:17.392Z | 1.4965 days |
+| 1972/now-P1D | 1972-01-01 00:00 to (24 hours ago) |  |
+| now-P10D/now-P1D | (10 days ago) to (1 day ago) |  |
+| lastday-P1D/lastday | yesterday (UTC), beginning of the day | 1 day |
 
 # Cookbook
 
@@ -1302,14 +1310,14 @@ All labels may include "Granny" strings defined by Grandle and Nystrom
 [1](http://www.csb.yale.edu/userguides/graphics/explorer/html/doc/ref/stan/nagtext.htm).
 A few of these are
 
-  - \!A superscript
-  - \!B subscript
-  - \!E superscript with smaller font size
-  - \!D subscript with smaller font size
-  - \!N normal position
-  - \!C carriage return (newline)
-  - \!S push current position and size on to stack.
-  - \!R pop position and size from stack.
+- !A superscript
+- !B subscript
+- !E superscript with smaller font size
+- !D subscript with smaller font size
+- !N normal position
+- !C carriage return (newline)
+- !S push current position and size on to stack.
+- !R pop position and size from stack.
 
 so that `!A2!Ns!A-2!N` results in m<sup>2</sup>s<sup>-2</sup>.
 
@@ -1318,9 +1326,9 @@ Labels may include Unicode (indicated using its entity number, e.g.,
 <http://www.fileformat.info/format/w3c/htmlentity.htm> may be used. The
 list includes:
 
-  - Greek letters (use without quotes): "\&Alpha;" "\&Beta;" "\&Delta;"
-    "\&alpha;" "\&beta;" "\&delta;" "\&pi;" "\&rho;" "\&omega;"
-  - Math symbols: "\&sum;" (∑) "\&plusmn;" (±)
+- Greek letters (use without quotes): "&Alpha;" "&Beta;" "&Delta;"
+  "&alpha;" "&beta;" "&delta;" "&pi;" "&rho;" "&omega;"
+- Math symbols: "&sum;" (∑) "&plusmn;" (±)
 
 ## TimeSeriesBrowse and other Capabilities
 
@@ -1357,16 +1365,16 @@ the files every five seconds.
 
 ## Caching
 
-  - FileSystem cache - The data files are kept on your local file
-    storage. HTTP HEAD requests are used to check if new versions are
-    available, limited to once per 10 seconds.
-  - Reference cache - Many data sources use the reference cache to keep
-    track of loaded data. As long as someone is using data, and a
-    reference to it exists in machine memory, the reference will stay
-    valid. If no one is using data, the Java "garbage collector" is free
-    to remove it from memory.
-  - DataSource cache - Some data sources use a mechanism called caching
-    to cache extra data that is loaded.
+- FileSystem cache - The data files are kept on your local file storage.
+  HTTP HEAD requests are used to check if new versions are available,
+  limited to once per 10 seconds.
+- Reference cache - Many data sources use the reference cache to keep
+  track of loaded data. As long as someone is using data, and a
+  reference to it exists in machine memory, the reference will stay
+  valid. If no one is using data, the Java "garbage collector" is free
+  to remove it from memory.
+- DataSource cache - Some data sources use a mechanism called caching to
+  cache extra data that is loaded.
 
 Note \[menubar\]→Tools→"Reload All Data" will reset all in-memory
 caches. Files will be reloaded if the remote file is updated (which will
@@ -1402,8 +1410,8 @@ command line using:
 
 On the command line, download Autoplot using either wget or curl:
 
-`wget -N `<http://autoplot.org/jnlp/latest/autoplot.jar>  
-`curl -O `<http://autoplot.org/jnlp/latest/autoplot.jar>
+`wget -N `[`http://autoplot.org/jnlp/latest/autoplot.jar`](http://autoplot.org/jnlp/latest/autoplot.jar)  
+`curl -O `[`http://autoplot.org/jnlp/latest/autoplot.jar`](http://autoplot.org/jnlp/latest/autoplot.jar)
 
 and then start it with
 
@@ -1456,7 +1464,7 @@ names like skipLines and delim. The
 
 explicitly requests a plug-in (a guess is made if not given). (Details
 on how the ASCII table reader is implemented is described at
-[ascii\_data\_source](ascii_data_source "wikilink").)
+[ascii_data_source](ascii_data_source "wikilink").)
 
 Note data from servers that use query parameters (with URLs containing
 ?) cannot be read directly, since the query parameters are interpreted
@@ -1480,19 +1488,28 @@ plot data from one or more data providers, data directories, and/or data
 files without having to enter a complex URI into the address bar.
 
 Data providers interested in making their plug-ins discoverable should
-see [Adding\_Data\_Sources](Adding_Data_Sources "wikilink").
+see [Adding_Data_Sources](Adding_Data_Sources "wikilink").
 
 #### CDAWeb
 
 URI prefix: vap+cdaweb:
 
-![Accessing list of CDAWeb data from Autoplot.](cdaweb.png
-"Accessing list of CDAWeb data from Autoplot.")
+<figure>
+<img src="cdaweb.png"
+title="Accessing list of CDAWeb data from Autoplot." width="458" />
+<figcaption>Accessing list of CDAWeb data from Autoplot.</figcaption>
+</figure>
 
-![(Click image to expand.) Autoplot's listing of data from CDAWeb that
-is shown when selecting `File→Add Plot From→CDAWeb` or by clicking this
-\[<http://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\] ](CDAWebDB.png
-"(Click image to expand.) Autoplot's listing of data from CDAWeb that is shown when selecting File→Add Plot From→CDAWeb or by clicking this [http://autoplot.org/autoplot.jnlp?vap+cdaweb: link] ")
+<figure>
+<img src="CDAWebDB.png"
+title="(Click image to expand.) Autoplot&#39;s listing of data from CDAWeb that is shown when selecting File→Add Plot From→CDAWeb or by clicking this [http://autoplot.org/autoplot.jnlp?vap+cdaweb: link] "
+width="458" />
+<figcaption>(Click image to expand.) Autoplot's listing of data from
+CDAWeb that is shown when selecting
+<code>File→Add Plot From→CDAWeb</code> or by clicking this [<a
+href="http://autoplot.org/autoplot.jnlp?vap+cdaweb">http://autoplot.org/autoplot.jnlp?vap+cdaweb</a>:
+link] </figcaption>
+</figure>
 
 The [CDAWeb group](http://cdaweb.gsfc.nasa.gov/) at
 [NASA/Goddard](http://gsfc.nasa.gov) provides a large volume of data in
@@ -1502,18 +1519,17 @@ provides a GUI for searching and filtering the list.
 
 To see the list,
 
-  - Click this \[<http://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\]
-    to start Autoplot with the list shown, or
-  - in Autoplot, select `File`→`Add Plot From`→`CDAWeb` as shown in the
-    top image to the right.
+- Click this \[<http://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\] to
+  start Autoplot with the list shown, or
+- in Autoplot, select `File`→`Add Plot From`→`CDAWeb` as shown in the
+  top image to the right.
 
   
 
 #### das2server
 
 URI prefix: vap+das2server:
-![das2ServerEditorPanel.png](das2ServerEditorPanel.png
-"das2ServerEditorPanel.png")
+![](das2ServerEditorPanel.png "das2ServerEditorPanel.png")
 
 Das2 servers are used to supply data to Das2 applications for the Plasma
 Wave Group and its collaborators. Since Autoplot is a Das2 application,
@@ -1530,10 +1546,10 @@ Note the Das2 Server sends data to Autoplot via das2streams or QStreams.
 
 ##### parameters
 
-  - **\_res** explicitly set the data loading resolution, for example
-    \_res=10s will always request 10s data. This is confused with
-    "resolution" and is supported because resolution will be reset to
-    the axis resolution.
+- **\_res** explicitly set the data loading resolution, for example
+  \_res=10s will always request 10s data. This is confused with
+  "resolution" and is supported because resolution will be reset to the
+  axis resolution.
 
 ## Formats Read
 
@@ -1541,14 +1557,15 @@ The data source type is determined using the mime type in the HTTP
 headers; if the mime type is not specified, then the file extension is
 used. The data source type can be explicitly specified by prefixing the
 URI with "vap" plus an extension followed by a colon. For example:
-`vap+dat:`<http://www.autoplot.org/data/autoplot.asc> tells Autoplot to
-treat the data returned by this URI as ascii-table-formatted.
+`vap+dat:`[`http://www.autoplot.org/data/autoplot.asc`](http://www.autoplot.org/data/autoplot.asc)
+tells Autoplot to treat the data returned by this URI as
+ascii-table-formatted.
 
 Once the data source type (most often the file format type) is
 identified, the URI's parameter string is interpreted. Different URI
 types may have different parameter arguments. Additional formats may be
 added - see the tutorial for adding a data source to Autoplot:
-[Adding\_Data\_Sources](Adding_Data_Sources "wikilink")
+[Adding_Data_Sources](Adding_Data_Sources "wikilink")
 
 Note that if a parameters string is not given, the parameters in the
 file or data stream can often be listed by clicking the folder icon to
@@ -1564,73 +1581,72 @@ how to parse the file, listed below. A
 to be created graphically. This does not provide access to all the
 available controls, but is much easier to use.
 
-  - extensions: .dat, .txt
-  - URI prefix: vap+dat, vap+txt
-  - example URLs:
+- extensions: .dat, .txt
+- URI prefix: vap+dat, vap+txt
+- example URLs:
 
-<ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_1963.dat?column=field17&timerange=1963>  
-<http://goes.ngdc.noaa.gov/data/avg/2004/A1050412.TXT?skip=23&timeFormat=$y$m$d+$H$M&column=E1&time=YYMMDD>  
-<ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_$Y.dat?column=field17&timerange=1963&timeFormat=$Y+$j+$H&time=field0&validMax=999>
+[`ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_1963.dat?column=field17&timerange=1963`](ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_1963.dat?column=field17&timerange=1963)  
+[`http://goes.ngdc.noaa.gov/data/avg/2004/A1050412.TXT?skip=23&timeFormat=$y$m$d+$H$M&column=E1&time=YYMMDD`](http://goes.ngdc.noaa.gov/data/avg/2004/A1050412.TXT?skip=23&timeFormat=$y$m$d+$H$M&column=E1&time=YYMMDD)  
+[`ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_$Y.dat?column=field17&timerange=1963&timeFormat=$Y+$j+$H&time=field0&validMax=999`](ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_$Y.dat?column=field17&timerange=1963&timeFormat=$Y+$j+$H&time=field0&validMax=999)
 
 #### Parameters
 
-  - **fixedColumns** an optimized parser should be used since each row
-    of the file has a fixed column width. By default the row are split
-    into columns using a delimiter. The value may take several forms:
-      - value contains ",": specify column locations as in "0-10,20-34"
-      - value is int: specify the number of columns in each row. Actual
-        may be less.
-      - value is unspecified: the first row is split to determine the
-        column locations.
-  - **columnCount** override the number of columns.
-  - **column** identifies the field in each record to treat as the
-    dependent variable. By default the columns are named field0, field1,
-    field2, etc.
-  - **depend0** identifies a field as the independent variable.
-  - **rank2** when in the URL indicates that the dataset produced should
-    be a rank 2 dataset, and the number of fixed columns indicates the
-    number of elements per row. When the value contains a colon (:),
-    this indicates a range. The range is
-    <firstColumn>:<lastColumn exclusive> or
-    <firstColumn>-<lastColumn inclusive>.
-      - value may be empty, meaning use all columns
-      - 1: means the second row and up.
-      - \-5: means the last five rows.
-      - 20:24 means the four rows starting at the 21st row.
-      - field3:field6 three columns
-      - B\_x\_gsm-B\_z\_gsm three columns.
-  - **depend1Labels** indicates the first record contains the labels for
-    the rank 2 dataset. (<firstColumn>:<lastColumn exclusive>)
-  - **depend1Values** indicates the first record contains the values for
-    the rank 2 dataset (so it is displayed as a spectrogram).
-    (<firstColumn>:<lastColumn exclusive>)
-  - **skip** is an integer indicating the number of lines that should be
-    skipped before processing begins.
-  - **fill** is the number that indicates missing or fill data.
-  - **timeFormat** specifies the time format, based on the Unix `date`
-    command. "ISO8601" means the times are ISO8601 conforment, or use
-    template with fields from
-    [\#Wildcard\_codes](#Wildcard_codes "wikilink").
-  - **time** specifies the field that is the time record. This also sets
-    the independent variable.
-  - **delim** identifies the delimiter character. By default, the first
-    record is inspected for commas, tabs and then whitespace.
-  - **comment** prefix string that indicates records to ignore.
-  - **fill** values to be treated as fill data.
-  - **where** constraint for the records, for example with a timerange
-    or containing a string.
-      - where=field2.lt(100)
-      - where=field2.eg(1)
-      - where=field2.eq(rbspa) ordinal data can be used with eq.
-      - where=field2.within(4+to+40)
-      - where=field2.matches(Heater+Status+(On%7COff)) The plus is
-        turned into a space, and %7C is a pipe character.
-  - **label** concise label for the data
-  - **title** one-line title for the data
+- **fixedColumns** an optimized parser should be used since each row of
+  the file has a fixed column width. By default the row are split into
+  columns using a delimiter. The value may take several forms:
+  - value contains ",": specify column locations as in "0-10,20-34"
+  - value is int: specify the number of columns in each row. Actual may
+    be less.
+  - value is unspecified: the first row is split to determine the column
+    locations.
+- **columnCount** override the number of columns.
+- **column** identifies the field in each record to treat as the
+  dependent variable. By default the columns are named field0, field1,
+  field2, etc.
+- **depend0** identifies a field as the independent variable.
+- **rank2** when in the URL indicates that the dataset produced should
+  be a rank 2 dataset, and the number of fixed columns indicates the
+  number of elements per row. When the value contains a colon (:), this
+  indicates a range. The range is <firstColumn>:<lastColumn exclusive>
+  or <firstColumn>-<lastColumn inclusive>.
+  - value may be empty, meaning use all columns
+  - 1: means the second row and up.
+  - -5: means the last five rows.
+  - 20:24 means the four rows starting at the 21st row.
+  - field3:field6 three columns
+  - B_x_gsm-B_z_gsm three columns.
+- **depend1Labels** indicates the first record contains the labels for
+  the rank 2 dataset. (<firstColumn>:<lastColumn exclusive>)
+- **depend1Values** indicates the first record contains the values for
+  the rank 2 dataset (so it is displayed as a spectrogram).
+  (<firstColumn>:<lastColumn exclusive>)
+- **skip** is an integer indicating the number of lines that should be
+  skipped before processing begins.
+- **fill** is the number that indicates missing or fill data.
+- **timeFormat** specifies the time format, based on the Unix `date`
+  command. "ISO8601" means the times are ISO8601 conforment, or use
+  template with fields from
+  [\#Wildcard_codes](#Wildcard_codes "wikilink").
+- **time** specifies the field that is the time record. This also sets
+  the independent variable.
+- **delim** identifies the delimiter character. By default, the first
+  record is inspected for commas, tabs and then whitespace.
+- **comment** prefix string that indicates records to ignore.
+- **fill** values to be treated as fill data.
+- **where** constraint for the records, for example with a timerange or
+  containing a string.
+  - where=field2.lt(100)
+  - where=field2.eg(1)
+  - where=field2.eq(rbspa) ordinal data can be used with eq.
+  - where=field2.within(4+to+40)
+  - where=field2.matches(Heater+Status+(On%7COff)) The plus is turned
+    into a space, and %7C is a pipe character.
+- **label** concise label for the data
+- **title** one-line title for the data
 
 #### Coming with v2017a
 
-  - **X** **Y** **Z** Specify columns for X,Y,Z triples.
+- **X** **Y** **Z** Specify columns for X,Y,Z triples.
 
 #### Notes
 
@@ -1638,21 +1654,21 @@ available controls, but is much easier to use.
 
 Columns are referenced by field identifiers, and the reader will create
 valid identifiers when the header is not valid. So for example BX-GSM is
-BX\_GSM, etc. "field0" will always refer to the first column, etc.
+BX_GSM, etc. "field0" will always refer to the first column, etc.
 
 **range notation**
 
 Ranges of columns are specified for several keywords, such as
 depend1Labels and rank2. These are specified as follows:
 
-  - **1-3** columns 1 through 3
-  - **field1-field3** columns by generic field name
-  - **BX-BZ** columns by field name (BX and BZ are example column
-    identifiers, see notes above)
-  - **1:4** columns 1 through 3 (colon is exclusive to be consistent
-    with Jython, etc.)
-  - **-5:-1** last columns, but not the very last one.
-  - **-5:** last columns
+- **1-3** columns 1 through 3
+- **field1-field3** columns by generic field name
+- **BX-BZ** columns by field name (BX and BZ are example column
+  identifiers, see notes above)
+- **1:4** columns 1 through 3 (colon is exclusive to be consistent with
+  Jython, etc.)
+- **-5:-1** last columns, but not the very last one.
+- **-5:** last columns
 
 ### Comma Separated Values
 
@@ -1662,107 +1678,106 @@ fields.
 
 #### Arguments
 
-  - **column=field4** which column to use as the dependent values
-  - **depend0=field1** which column to use as the independent values
-  - **skip=5** skip five lines before parsing
-  - **bundle1=:** as with the ascii table reader, bundles of data can be
-    read in at once to return a rank 2 dataset.
+- **column=field4** which column to use as the dependent values
+- **depend0=field1** which column to use as the independent values
+- **skip=5** skip five lines before parsing
+- **bundle1=:** as with the ascii table reader, bundles of data can be
+  read in at once to return a rank 2 dataset.
 
 ### Binary table
 
 BinaryTableReader reads in datasets from binary files. Data are assumed
 to be in records of fixed-length.
 
-  - extension: .bin
-  - URI prefix: vap+bin
-  - example URI:
-    vap+bin:<file:///media/mini/data.backup/examples/bin/fromidl.bin?type=float&fieldCount=2&column=1>
-  - supports formatting: yes, rank 1 and 2, written out as doubles.
-  - parameters
-      - **byteOffset** int, number of bytes skip before reading the
-        data. default is 0.
-      - **byteLength** int, total number of bytes to read. default is
-        the content length.
-      - **recLength** int, the number of bytes per record.
-      - **recOffset** int, the byte offset into the record.
-      - **fieldCount** int, number of fields per record, when recLength
-        is not specified. default is 1.
-      - **column** int, field number for the dependent parameter, then
-        recOffset is not specified.
-      - **dims=\[48,64\]** int array, specify dimensions of rank 2 table
-        within each record.
-      - **rank2=:** string like ":" or "5:15" to specify the positions
-        to read in as table.
-      - **type** data type for the dependent parameter. double, float,
-        long, int, short, byte, ubyte. Default is ubyte.
-      - **depend0Offset** int, byte offset into each record for the
-        independent parameter.
-      - **depend0** int, field number for the independent parameter when
-        depend0Offset is not specified. Default is no independent
-        parameter and the byte offset is the independent parameter.
-      - **depend0Type** data type for the independent parameter. double,
-        float, long, int, short, byte.
-      - **byteOrder** data type byte order (endianness). little or big.
-        Default is little.
-      - **validMin**, double minimum valid value
-      - **validMax**, double, maximum valid value
-      - **recFormat**, string, format specifier for each record.
-          - "d,13f" 8-byte double followed by 13 (4-byte) floats
-          - "i,s,ub" int, short, unsigned byte
-          - "x,ub,ui" skip byte, unsigned byte, unsigned int
+- extension: .bin
+- URI prefix: vap+bin
+- example URI:
+  vap+bin:<file:///media/mini/data.backup/examples/bin/fromidl.bin?type=float&fieldCount=2&column=1>
+- supports formatting: yes, rank 1 and 2, written out as doubles.
+- parameters
+  - **byteOffset** int, number of bytes skip before reading the data.
+    default is 0.
+  - **byteLength** int, total number of bytes to read. default is the
+    content length.
+  - **recLength** int, the number of bytes per record.
+  - **recOffset** int, the byte offset into the record.
+  - **fieldCount** int, number of fields per record, when recLength is
+    not specified. default is 1.
+  - **column** int, field number for the dependent parameter, then
+    recOffset is not specified.
+  - **dims=\[48,64\]** int array, specify dimensions of rank 2 table
+    within each record.
+  - **rank2=:** string like ":" or "5:15" to specify the positions to
+    read in as table.
+  - **type** data type for the dependent parameter. double, float, long,
+    int, short, byte, ubyte. Default is ubyte.
+  - **depend0Offset** int, byte offset into each record for the
+    independent parameter.
+  - **depend0** int, field number for the independent parameter when
+    depend0Offset is not specified. Default is no independent parameter
+    and the byte offset is the independent parameter.
+  - **depend0Type** data type for the independent parameter. double,
+    float, long, int, short, byte.
+  - **byteOrder** data type byte order (endianness). little or big.
+    Default is little.
+  - **validMin**, double minimum valid value
+  - **validMax**, double, maximum valid value
+  - **recFormat**, string, format specifier for each record.
+    - "d,13f" 8-byte double followed by 13 (4-byte) floats
+    - "i,s,ub" int, short, unsigned byte
+    - "x,ub,ui" skip byte, unsigned byte, unsigned int
 
 #### Use-cases
 
 **Reverse engineer binary format** How to reverse engineer a binary file
 with the binary reader:
 
-  - Plot the data using the default 1-byte data.
-  - Look for the courser repeating pattern, which are probably records.
-    Timetags will typically identify records, because they are far from
-    zero. Set recLength= this length. rank2 can be used to look at each
-    records bytes in a spectrogram.
-  - Look for a repeating pattern. This implies a data type. For example,
-    if every fourth point is a peak, then try type=float. If the period
-    is 15 bytes long, then try to identify the data type of the first
-    field by using recLength=15\&type=float, recLength=15\&type=double,
-    etc. Once the first field's data type is appearent, it's easy to see
-    if the recLength is correct. Use recOffset to look at other bytes
-    within each record.
-  - If you're getting repeating data with large exponents, then try
-    byteOrder=big
-  - Once the byteOrder is determined, then it's much easier to identify
-    fields.
-  - Example where the query parameters were figured out by the above
-    approach:
-    [3](http://autoplot.org/autoplot.jnlp?vap+bin:http://www-pw.physics.uiowa.edu/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
+- Plot the data using the default 1-byte data.
+- Look for the courser repeating pattern, which are probably records.
+  Timetags will typically identify records, because they are far from
+  zero. Set recLength= this length. rank2 can be used to look at each
+  records bytes in a spectrogram.
+- Look for a repeating pattern. This implies a data type. For example,
+  if every fourth point is a peak, then try type=float. If the period is
+  15 bytes long, then try to identify the data type of the first field
+  by using recLength=15&type=float, recLength=15&type=double, etc. Once
+  the first field's data type is appearent, it's easy to see if the
+  recLength is correct. Use recOffset to look at other bytes within each
+  record.
+- If you're getting repeating data with large exponents, then try
+  byteOrder=big
+- Once the byteOrder is determined, then it's much easier to identify
+  fields.
+- Example where the query parameters were figured out by the above
+  approach:
+  [3](http://autoplot.org/autoplot.jnlp?vap+bin:http://www-pw.physics.uiowa.edu/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
 
 **Unicode to ASCII** Netbeans writes out a Unicode file of its output
 window. (I could tell this because ascii values were interleaved with
 zeros.) `iconv` failed to convert the file, so I tried converting it
 with Autoplot:
 
-`ds= getDataSet('vap+bin:`<file:///tmp/output1249405460816>`')`  
+`ds= getDataSet('vap+bin:`[`file:///tmp/output1249405460816`](file:///tmp/output1249405460816)`')`  
 `# skip every other record, skipping the zeroth record.`  
 `ds2= ds[1::2]  `  
 `# save it out as a binary stream.`  
-`formatDataSet( ds2, 'vap+bin:`<file:///tmp/output1249405460816.txt?type=ubyte>`' )`
+`formatDataSet( ds2, 'vap+bin:`[`file:///tmp/output1249405460816.txt?type=ubyte`](file:///tmp/output1249405460816.txt?type=ubyte)`' )`
 
 ### CDF
 
 Reads in a variable from a [Common Data
 Format](http://cdf.gsfc.nasa.gov/) file.
 
-  - mime type: application/x-cdf-file (Note some servers advertise a
-    content type of application/x-netcdf.)
-  - extension: .cdf
-  - Example URL:
-    [4](http://autoplot.org/autoplot.jnlp?vap+cdf:http://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio)
-  - Supports formatting: Yes, rank 1 and 2, though not yet ISTP
-    compliant.
-  - Parameters
-      - The parameter is the name of the cdf variable.
-      - If not specified, a list of possible variables is given.
-  - Wildcards and aggregation
+- mime type: application/x-cdf-file (Note some servers advertise a
+  content type of application/x-netcdf.)
+- extension: .cdf
+- Example URL:
+  [4](http://autoplot.org/autoplot.jnlp?vap+cdf:http://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio)
+- Supports formatting: Yes, rank 1 and 2, though not yet ISTP compliant.
+- Parameters
+  - The parameter is the name of the cdf variable.
+  - If not specified, a list of possible variables is given.
+- Wildcards and aggregation
 
 In the following, we tell autoplot that the file name has a four-digit
 year, a two-digit month, and a two-digit day. Then we ask it to plot
@@ -1771,7 +1786,7 @@ data on the day 20000109 using the time wildcards described in
 
 The first part of the url is
 
-<http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/>
+[`http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/`](http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/)
 
 the file part of the url is
 
@@ -1789,22 +1804,21 @@ to allow access to data that crosses a year boundary, use
 
 NcML is an XML representation of netCDF metadata.
 
-  - Example URL:
-    [6](http://autoplot.org/autoplot.jnlp?http://autoplot.org/data/autoplot.ncml?skt_surface)
+- Example URL:
+  [6](http://autoplot.org/autoplot.jnlp?http://autoplot.org/data/autoplot.ncml?skt_surface)
 
 ### SPASE
 
-  - SPASE: If the URL or filename corresponds to a SPASE XML file with a
-    NumericalData element, an attempt is made to plot the first
-    AccessURL in the AccessInformation section. (In the future, default
-    behavior will be to look for a URL in the Granule element and to use
-    the information in the NumericalData node to populate the metadata
-    tree.)
+- SPASE: If the URL or filename corresponds to a SPASE XML file with a
+  NumericalData element, an attempt is made to plot the first AccessURL
+  in the AccessInformation section. (In the future, default behavior
+  will be to look for a URL in the Granule element and to use the
+  information in the NumericalData node to populate the metadata tree.)
 
-<!-- end list -->
+<!-- -->
 
-  - Example URL:
-    [7](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.xml)
+- Example URL:
+  [7](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.xml)
 
 ### VAP
 
@@ -1819,33 +1833,33 @@ application is reset to the new vap file settings. However, if File→"Add
 Plot From..." is used to access a vap, data URIs from within the vap are
 accessible.
 
-  - Example URL:
-    [8](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.vap)
+- Example URL:
+  [8](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.vap)
 
 ### Das2Streams and QStreams
 
-  - Das2Streams and QStreams: Das2Streams are self-describing, streaming
-    format developed and used by the Plasma Wave Group at the University
-    of Iowa. "Streaming" is the requirement that at any point along the
-    stream, you have all the data you need have a valid and complete
-    stream. They are generally useful for serializing and deserializing
-    data in das2's internal data model, and Autoplot's QDataSet model.
-    The design goal is any dataset that can be represented in Autoplot
-    can be serialized into a das2Stream. "QStream" refers specifically
-    to a das2Stream with a QDataSet on it, and has the extension .qds.
-    Legacy das2Streams have a .d2s extension.
-  - Mime type: application/x-das2stream
-  - Extensions: .d2s .das2stream .qds
-  - Example URLs:
-    [9](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/proton_density.qds)
-    [10](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/proton_velocity_rtn.qds)
-  - Supports Formatting: yes, rank 1, 2, 3 to QStream
-  - parameters
-      - arg\_0 is the named parameter within the stream, if not
-        specified then default parameter is used.
-  - output parameters
-      - **type**
-          - **binary** means format to binary stream
+- Das2Streams and QStreams: Das2Streams are self-describing, streaming
+  format developed and used by the Plasma Wave Group at the University
+  of Iowa. "Streaming" is the requirement that at any point along the
+  stream, you have all the data you need have a valid and complete
+  stream. They are generally useful for serializing and deserializing
+  data in das2's internal data model, and Autoplot's QDataSet model. The
+  design goal is any dataset that can be represented in Autoplot can be
+  serialized into a das2Stream. "QStream" refers specifically to a
+  das2Stream with a QDataSet on it, and has the extension .qds. Legacy
+  das2Streams have a .d2s extension.
+- Mime type: application/x-das2stream
+- Extensions: .d2s .das2stream .qds
+- Example URLs:
+  [9](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/proton_density.qds)
+  [10](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/proton_velocity_rtn.qds)
+- Supports Formatting: yes, rank 1, 2, 3 to QStream
+- parameters
+  - arg_0 is the named parameter within the stream, if not specified
+    then default parameter is used.
+- output parameters
+  - **type**
+    - **binary** means format to binary stream
 
 ### CEF File Reader
 
@@ -1854,22 +1868,22 @@ Format](http://www.space-plasma.qmw.ac.uk/csds/welcome.html) CEF for
 Cluster. This is experimental, but should work fine for at least 1-D
 data.
 
-  - Example URL:
-    [11](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/C1_CP_CIS-CODIF_HS_H1_PSD__20010226_050000_20010226_061000_V070529.cef?3d_ions__C1_CP_CIS-CODIF_HS_H1_PSD)
+- Example URL:
+  [11](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/C1_CP_CIS-CODIF_HS_H1_PSD__20010226_050000_20010226_061000_V070529.cef?3d_ions__C1_CP_CIS-CODIF_HS_H1_PSD)
 
 ### netCDF file reader
 
 Reads in a variable from a
 [netCDF](http://www.unidata.ucar.edu/software/netcdf/) file.
 
-  - mime type: application/x-netcdf
-  - extension: .nc, .ncml, .hdf5, .h5
-  - Example URL (described on the [unidata web
-    page](http://www.unidata.ucar.edu/software/netcdf/examples/files.html)):
-    [12](http://autoplot.org/jnlp.cgi?http://www.unidata.ucar.edu/software/netcdf/examples/tos_O1_2001-2002.nc?tos)
-  - parameters
-      - The parameter is the name of the netcdf variable.
-      - If not specified, a list of possible variables is given.
+- mime type: application/x-netcdf
+- extension: .nc, .ncml, .hdf5, .h5
+- Example URL (described on the [unidata web
+  page](http://www.unidata.ucar.edu/software/netcdf/examples/files.html)):
+  [12](http://autoplot.org/jnlp.cgi?http://www.unidata.ucar.edu/software/netcdf/examples/tos_O1_2001-2002.nc?tos)
+- parameters
+  - The parameter is the name of the netcdf variable.
+  - If not specified, a list of possible variables is given.
 
 Times can be encoded in NetCDF files as ISO8601 times, using a 2-D array
 of characters. The second dimension should be between 14 and 30
@@ -1878,7 +1892,7 @@ characters, for example 20110101T00:00 is 14 chars long,
 
 ### HDF5 (HDF) files
 
-  - extension: .hdf5, .h5
+- extension: .hdf5, .h5
 
 The NetCDF reader has the ability to read many HDF5 files as well. There
 are a few data schemes (grids) which will are not readable. Note older
@@ -1890,51 +1904,50 @@ Reads in data from [OpenDAP](http://opendap.org) servers. When data
 files are served from an OPeNDAP server, subsets of a variable in a file
 may be requested.
 
-  - mime type:
-  - extensions: .dds and .dods
-  - Example URL:
-    [13](http://autoplot.org/jnlp.cgi?http://cdaweb.gsfc.nasa.gov/cgi-bin/opendap/nph-dods/istp_public/data/genesis/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density)
-  - Parameters
-      - The parameter following the question mark is the name of the
-        OPeNDAP variable. If not specified, a list of possible variables
-        is given.
-      - Numbers in brackets optionally control the cadence in the
-        notation \[min:step:max\] or \[min:max\]. See the [OPeNDAP/DODS
-        documentation](http://www.opendap.org/user/quick-html/quick_1.html).
+- mime type:
+- extensions: .dds and .dods
+- Example URL:
+  [13](http://autoplot.org/jnlp.cgi?http://cdaweb.gsfc.nasa.gov/cgi-bin/opendap/nph-dods/istp_public/data/genesis/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density)
+- Parameters
+  - The parameter following the question mark is the name of the OPeNDAP
+    variable. If not specified, a list of possible variables is given.
+  - Numbers in brackets optionally control the cadence in the notation
+    \[min:step:max\] or \[min:max\]. See the [OPeNDAP/DODS
+    documentation](http://www.opendap.org/user/quick-html/quick_1.html).
 
 ### Excel Spreadsheet
 
 Data is read from a Microsoft Excel spreadsheet using [Jakarta
 POI](http://poi.apache.org/).
 
-  - mime type: application/vnd.ms-excel
-  - extension: .xls
-  - Example URL:
-    [14](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.xls?column=A)
-  - Supports formatting: yes, rank 1 and 2
-  - parameters
-      - **column** is the name of the column (e.g. "C"), and in brackets
-        the starting and ending rows.
-      - **depend0** is the name of the column identifying the X values
-        for each value.
-      - **plane0** is a third parameter. Use with caution, this will
-        probably go away.
-      - **firstRow** is the first row to read (1 is the first row)
-      - **sheet** is the name of the sheet within the workbook to read.
-      - **recCount** limit the number of records to read.
+- mime type: application/vnd.ms-excel
+- extension: .xls
+- Example URL:
+  [14](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.xls?column=A)
+- Supports formatting: yes, rank 1 and 2
+- parameters
+  - **column** is the name of the column (e.g. "C"), and in brackets the
+    starting and ending rows.
+  - **depend0** is the name of the column identifying the X values for
+    each value.
+  - **plane0** is a third parameter. Use with caution, this will
+    probably go away.
+  - **firstRow** is the first row to read (1 is the first row)
+  - **sheet** is the name of the sheet within the workbook to read.
+  - **recCount** limit the number of records to read.
 
 ### TSDS
 
 Data is read from a [TSDS](http://tsds.net) server.
 
-  - Mime type:
-  - Extension: tsds (use vap+tsds:<http://>...)
-  - Example URL:
-    [15](http://autoplot.org/jnlp.cgi?vap+tsds:http://timeseries.org/get.cgi?StartDate=20030301&EndDate=20030401&ext=bin&out=tsml&ppd=1440&param1=OMNI_OMNIHR-26-v0)
-  - parameters
-      - None
-  - Dependencies
-      - BinaryDataSource
+- Mime type:
+- Extension: tsds (use vap+tsds:<http://>...)
+- Example URL:
+  [15](http://autoplot.org/jnlp.cgi?vap+tsds:http://timeseries.org/get.cgi?StartDate=20030301&EndDate=20030401&ext=bin&out=tsml&ppd=1440&param1=OMNI_OMNIHR-26-v0)
+- parameters
+  - None
+- Dependencies
+  - BinaryDataSource
 
 ### FITS
 
@@ -1943,63 +1956,63 @@ Flexible Image Transport System
 that limits what it can access. Soon a new implementation will enable
 more data sources.
 
-  - extension: .fits .fts
-  - Example URLs:
-    [17](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/hsi_qlimg_5050601_001.fits)
-    [18](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/hsi_fsimg_5050612_001.fits)
+- extension: .fits .fts
+- Example URLs:
+  [17](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/hsi_qlimg_5050601_001.fits)
+  [18](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/hsi_fsimg_5050612_001.fits)
 
 ### Images
 
 This data source reads images using java's ImageIO library. The images
 are mapped to a QDataSet internally.
 
-  - mime type:
-  - extension: .gif .jpg .png
+- mime type:
+- extension: .gif .jpg .png
 
-<!-- end list -->
+<!-- -->
 
-  - Example URL
-    [19](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale)
+- Example URL
+  [19](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale)
 
-<!-- end list -->
+<!-- -->
 
-  - Parameters
-      - **channel** specifies how components should be combined to
-        produce the rank 2 dataset.
-          - If channel is not specified, then a rank 3 dataset with
-            original image channels results.
-          - Example channels include:
-          - red, green, blue
-          - hue, saturation, value (brightness)
-          - greyscale is faster to calculate than value
-      - **plotInfo=0** grab the axis information from the richPng
-        metadata. See <http://autoplot.org/richPng>. (Note log=1 doesn't
-        work with 24-bit color images.)
-      - **xaxis=\[valmin,pixmin,valmax,pixmax\]** apply the axis
-        transform on the horizontal axis.
-      - **yaxis=\[valmin,pixmin,valmax,pixmax\]** apply the axis
-        transform on the vertical axis.
-      - **fog=90** apply 90% opaque fog to the image before displaying.
-      - **blur=5** apply a 5=pixel wide blur kernal
-      - **rotate=0** rotate the image clockwise degrees.
+- Parameters
+  - **channel** specifies how components should be combined to produce
+    the rank 2 dataset.
+    - If channel is not specified, then a rank 3 dataset with original
+      image channels results.
+    - Example channels include:
+    - red, green, blue
+    - hue, saturation, value (brightness)
+    - greyscale is faster to calculate than value
+  - **plotInfo=0** grab the axis information from the richPng metadata.
+    See <http://autoplot.org/richPng>. (Note log=1 doesn't work with
+    24-bit color images.)
+  - **xaxis=\[valmin,pixmin,valmax,pixmax\]** apply the axis transform
+    on the horizontal axis.
+  - **yaxis=\[valmin,pixmin,valmax,pixmax\]** apply the axis transform
+    on the vertical axis.
+  - **fog=90** apply 90% opaque fog to the image before displaying.
+  - **blur=5** apply a 5=pixel wide blur kernal
+  - **rotate=0** rotate the image clockwise degrees.
 
 ### Wav Files
 
 Plots the waveform within wav files.
 
-  - extension: .wav
-  - supports formatting: yes, rank 1 to 16 bit PCM. xtags must be
-    seconds or UT time.
+- extension: .wav
+- supports formatting: yes, rank 1 to 16 bit PCM. xtags must be seconds
+  or UT time.
 
 Example URLs:
 [20](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/trainMono.wav)
-See also [\#Multiple\_plot\_panels](#Multiple_plot_panels "wikilink")
+See also [\#Multiple_plot_panels](#Multiple_plot_panels "wikilink")
 
-  - Parameters:
-      - **channel** the channel to plot (by default, only the 0th
-        channel is plotted as a time series).
-      - **offset** the number of seconds into the file to start at
-      - **length** the number of seconds to plot
+- Parameters:
+  - **channel** the channel to plot (by default, only the 0th channel is
+    plotted as a time series).
+  - **offset** the number of seconds into the file to start at
+  - **length** the number of seconds to plot
 
 ### Jython Files (jyds)
 
@@ -2007,21 +2020,21 @@ Jython scripts can be used to create new datasets by combining other
 datasets. See also [http://autoplot.org/scripting
 scripting](http://autoplot.org/scripting_scripting "wikilink").
 
-  - extension: .jyds
-  - Example URLs:
-      - Plot the difference between two images:
-        [21](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/imageDiff.jyds)
-      - Read a complicated ASCII file and plot the result:
-        [22](http://autoplot.org/autoplot.jnlp?https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src//wdc_kp_ap.jyds)
-      - More examples:
-        [23](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src/)
-      - Demonstrates time series browse:
-        [24](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/tsbDemo.jyds)
-  - Parameters:
-      - <name>=<expr> defines parameters for use within the script.
-        Scripts use getParam method to get method parameters.
-      - <expr> after running the script, this expr is evaluated and
-        plotted. The default expression is "data".
+- extension: .jyds
+- Example URLs:
+  - Plot the difference between two images:
+    [21](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/imageDiff.jyds)
+  - Read a complicated ASCII file and plot the result:
+    [22](http://autoplot.org/autoplot.jnlp?https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src//wdc_kp_ap.jyds)
+  - More examples:
+    [23](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src/)
+  - Demonstrates time series browse:
+    [24](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/tsbDemo.jyds)
+- Parameters:
+  - <name>=<expr> defines parameters for use within the script. Scripts
+    use getParam method to get method parameters.
+  - <expr> after running the script, this expr is evaluated and plotted.
+    The default expression is "data".
 
 Example Script (/home/user/script.jyds):
 
@@ -2042,7 +2055,7 @@ script with new time ranges as the time axis is adjusted.
 URIs can also use the resourceURI part to point to a resource that is
 parsed by the script, such as:
 
-`vap+jyds:`<file:///opt/project/cassini/new_hfr_level2_level3/2010_091_180/n2/P2010118.17?script=file:///home/jbf/project/cassini/jared/autoplot/readL2Files3.jyds>
+`vap+jyds:`[`file:///opt/project/cassini/new_hfr_level2_level3/2010_091_180/n2/P2010118.17?script=file:///home/jbf/project/cassini/jared/autoplot/readL2Files3.jyds`](file:///opt/project/cassini/new_hfr_level2_level3/2010_091_180/n2/P2010118.17?script=file:///home/jbf/project/cassini/jared/autoplot/readL2Files3.jyds)
 
 Here the "script=" switch points to the script. This is useful to define
 a parser for a file type, which allows aggregation to be used.
@@ -2054,25 +2067,25 @@ demonstrations or quick-and-dirty annotations. An editor is
 automatically generated for scripts. Any parameter read from the
 getParam function will be provided in the GUI.
 
-  - extension (prefix): vap+inline:
-  - Example URIs:
-      - vap+inline:1,2;3,4;5,6;7,2;9,0 \# five 2-D points
-      - vap+inline:1,3;2,4 \# the points \[1,3\] and \[2,4\]
-      - vap+inline:ripples(100,100) \# demo function from jython support
-      - vap+inline:linspace(0,1,100),linspace(0,1,100),ripples(100,100)
-        \# jython expressions allowed
-      - vap+inline:ripples(100,100)+randn(100,100)/10 \# jython
-        expressions allowed
-      - vap+inline:ripples(100,100)+randn(100,100)/10\&RENDER\_TYPE=nnSpectrogram
-        \# specify QDataSet properties
-      - vap+inline:getDataSet('<http://autoplot.org/data/autoplot.ncml>')\&RENDER\_TYPE=nnSpectrogram
-        \# "decorate" other datasets (TODO: bugs when ? in URI)
+- extension (prefix): vap+inline:
+- Example URIs:
+  - vap+inline:1,2;3,4;5,6;7,2;9,0 \# five 2-D points
+  - vap+inline:1,3;2,4 \# the points \[1,3\] and \[2,4\]
+  - vap+inline:ripples(100,100) \# demo function from jython support
+  - vap+inline:linspace(0,1,100),linspace(0,1,100),ripples(100,100) \#
+    jython expressions allowed
+  - vap+inline:ripples(100,100)+randn(100,100)/10 \# jython expressions
+    allowed
+  - vap+inline:ripples(100,100)+randn(100,100)/10&RENDER_TYPE=nnSpectrogram
+    \# specify QDataSet properties
+  - vap+inline:getDataSet('<http://autoplot.org/data/autoplot.ncml>')&RENDER_TYPE=nnSpectrogram
+    \# "decorate" other datasets (TODO: bugs when ? in URI)
 
 ## PNGWalk Tool
 
 The PNG Walk Tool provides efficient browsing of a series of images.
 Autoplot has a menu item for generating PNG walks. More information
-about this can be found at [PNG\_Walks](PNG_Walks "wikilink").
+about this can be found at [PNG_Walks](PNG_Walks "wikilink").
 
 ## Run Batch Tool
 
@@ -2094,7 +2107,7 @@ the autorange or the width. See
 ## Managing the Cache
 
 Autoplot caches remote files to the local directory
-$HOME/autoplot\_data/fscache. Not only is having local copies necessary
+\$HOME/autoplot_data/fscache. Not only is having local copies necessary
 for many formats, such as CDF files, but this allows Autoplot to be used
 when no internet connection is available. This area will grow as more
 data is read, and presently there is no mechanism to automatically
@@ -2104,14 +2117,14 @@ Files."
 
 ### Data Providers
 
-#### ro\_cache.txt
+#### ro_cache.txt
 
 Data providers will want to know that you can set up a link between your
 local file cache and the local file location of the data, so that the
 local cache is not used. For example,
 <http://jfaden.net/~jbf/1wire/data/furnace.$Y$m$d.d2s> is a resource I
 want to make available to everyone, but in
-/home/jbf/public\_html/1wire/data I have the data locally. In my local
+/home/jbf/public_html/1wire/data I have the data locally. In my local
 file cache, I would use the link file to avoid downloading the data to
 my local cache, making a second copy. When Autoplot looks for the
 resource, it will use files from here before downloading.
@@ -2124,13 +2137,13 @@ resource, it will use files from here before downloading.
 Often we need to run batch processes, and the keychain.txt allows data
 providers to store credentials for batch processing. Note only a minimal
 amount of thought has gone into this, so please be careful with these
-facilities and use them at your own risk\!
+facilities and use them at your own risk!
 [developer.headless](developer.headless "wikilink") talks about this
 more.
 
 ## Applet
 
-  - The Applet mode is no longer supported \*
+- The Applet mode is no longer supported \*
 
 The Autoplot applet requires Java 1.7 or higher and that your browser
 has Java enabled. The applet typically takes less than 2 seconds to load
@@ -2164,19 +2177,19 @@ See <http://autoplot.org/servlet_guide> .
 
 # Abbreviations
 
-  - CDF Common Data Format
-  - CEF Cluster Exchange Format
-  - JYDS Jython Data Source. Jython script used to load data into
-    Autoplot.
-  - JY Jython Script. Jython used to operate Autoplot as a batch mode.
-  - RTE Run-Time Exception. This is an error that occurs that the user
-    should not see, and is given the opportunity to submit the bug to
-    developers.
-  - RFE Request For Enhancement, or feature request.
-  - TCA Time Correllated Axes, which are axes with ephemeris information
-    attached to each tick.
-  - TSB Time Series Browse capability, which is the ability for a data
-    source to load data at different time intervals.
+- CDF Common Data Format
+- CEF Cluster Exchange Format
+- JYDS Jython Data Source. Jython script used to load data into
+  Autoplot.
+- JY Jython Script. Jython used to operate Autoplot as a batch mode.
+- RTE Run-Time Exception. This is an error that occurs that the user
+  should not see, and is given the opportunity to submit the bug to
+  developers.
+- RFE Request For Enhancement, or feature request.
+- TCA Time Correllated Axes, which are axes with ephemeris information
+  attached to each tick.
+- TSB Time Series Browse capability, which is the ability for a data
+  source to load data at different time intervals.
 
 See also <http://autoplot.org/glossary>
 
@@ -2192,7 +2205,7 @@ loggers and allow their verbosity to be controlled.
 
 For example, suppose you are developing CDF files for your instrument,
 but things are not working as you would expect. You define a valid range
-with the VALID\_MIN and VALID\_MAX metadata, but Autoplot is not
+with the VALID_MIN and VALID_MAX metadata, but Autoplot is not
 respecting these. The verbosity of the logger "apdss.cdf" (Autoplot
 dataset source) is increased to FINER, meaning messages issued while the
 CDF file is loaded at the FINER, FINE, INFO, and WARNING levels will be
