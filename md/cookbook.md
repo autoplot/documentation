@@ -159,7 +159,7 @@ unicode characters. Here are a few:
 
   - Greek letters: \&Alpha; \&Beta; \&Delta; \&alpha; \&beta; \&delta;
     \&pi; \&rho; \&omega;
-  - Math symbols: \&amp;sum; (&sum;) \&amp;plusmn; (&plusmn;)
+  - Math symbols: \&sum; (&sum;) \&plusmn; (&plusmn;)
 
 Here's a tool for looking up entities:
 
