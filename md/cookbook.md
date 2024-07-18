@@ -162,7 +162,8 @@ unicode characters. Here are a few:
   - Math symbols: \&amp;sum; (&sum;) \&amp;plusmn; (&plusmn;)
 
 Here's a tool for looking up entities:
-<http://entity-lookup.leftlogic.com/>
+<https://entity-lookup.leftlogic.com/> - look up by name
+<https://shapecatcher.com/> - draw the symbol with your mouse, it tries to identify
 
 ## Modify Many Labels
 
