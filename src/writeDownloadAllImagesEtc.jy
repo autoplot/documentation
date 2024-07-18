@@ -12,4 +12,4 @@ ll= HtmlUtil.getLinks(URL(allUrl),src)
 for l in ll:
     #print l
     if str(l).startswith('http://autoplot.org/wiki/images/'):
-        print 'wget '+str(l)
+        print 'wget -N '+str(l)
