@@ -14,7 +14,11 @@ rarely used.
  svn co https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/ autoplot
  cd autoplot
 ```
-`&nbsp;git&nbsp;clone&nbsp;`&lt;https://github.com/das-developers/das2java.git&gt;
+then
+
+```
+git clone https://github.com/das-developers/das2java.git
+```
 
 Check out the sources with Netbeans or some other svn client into the
 directory "autoplot"
