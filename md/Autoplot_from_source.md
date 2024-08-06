@@ -11,8 +11,8 @@ Branch versions are in
 rarely used.
 
 ```
- svn co https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/ autoplot
- cd autoplot
+svn co https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/ autoplot
+cd autoplot
 ```
 then
 
