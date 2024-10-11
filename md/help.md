@@ -26,7 +26,7 @@ software productively.
 
 # Installation
 
-Autoplot can be found at <http://autoplot.org/latest/>. The "Start
+Autoplot can be found at <https://autoplot.org/latest/>. The "Start
 Autoplot" link brings up a download page for the latest release. The
 software is available separately for each type of computer. A
 "single-jar" version is available for those who already have Java on
@@ -62,7 +62,7 @@ address bar or try out the demonstration bookmarks. The name in the
 address bar is called an "Autoplot URI" and all data in Autoplot is
 identified using URIs. This is typically the name of a data file and
 additional controls needed to read in the data. For example,
-<http://autoplot.org/data/autoplot.cdf?BGSM> refers to the CDF file on a
+<https://autoplot.org/data/autoplot.cdf?BGSM> refers to the CDF file on a
 website, and the BGSM parameter which will be found inside. Autoplot
 will download the CDF file to its cache, load the parameter from the
 file, and plot the data.
@@ -126,8 +126,8 @@ the URI can be completed. For example, when a CDF file name is entered,
 Autoplot rejects the URI because the parameter to plot is needed (for
 example, ...cdf?BSM). Use the GUI to complete the data selection and hit
 its play button to try again. To see this, compare what happens when you
-enter `http://autoplot.org/data/autoplot.cdf` in the address bar versus
-`http://autoplot.org/data/autoplot.cdf?BGSM`.
+enter `https://autoplot.org/data/autoplot.cdf` in the address bar versus
+`https://autoplot.org/data/autoplot.cdf?BGSM`.
 
 The folder/magnifier button, called the "Inspect" button, will return to
 the editor GUI.
@@ -163,7 +163,7 @@ A CDF URI is a web address (URL) of a CDF file, which can be a local
 file (file:/tmp/myfile.cdf), and the name of a parameter to load. For
 example, enter the URI into Autoplot:
 
-<http://autoplot.org/data/autoplot.cdf?BGSM>
+<https://autoplot.org/data/autoplot.cdf?BGSM>
 
 Entering this URI will open up the file using the CDF data source,
 reading the parameter identified by "BGSM." This data is loaded into
@@ -178,7 +178,7 @@ using another parameter.
 
 Note the URI given above is more formally stated as:
 
-`vap+cdf:http://autoplot.org/data/autoplot.cdf?BGSM`
+`vap+cdf:https://autoplot.org/data/autoplot.cdf?BGSM`
 
 and when the vap+cdf prefix (scheme) is missing, the file extension is
 used to infer the data source to use.
@@ -277,9 +277,9 @@ Here are more videos, described below:
   - Decrease font size: CTRL-minus
   - Reset font size: CTRL-0
   - Show URI completions: TAB in address bar
-      - Example: <http://autoplot.org/data/> + TAB will show a list of
+      - Example: <https://autoplot.org/data/> + TAB will show a list of
         files in that directory
-      - Example: <http://autoplot.org/data> + TAB will only show a list
+      - Example: <https://autoplot.org/data> + TAB will only show a list
         of files that you have accessed previously that match the string
 
 ## Key Menu Items
@@ -337,7 +337,7 @@ giving a timerange and a template for each filename (e.g. `$Y$m$d.png`).
 
 For example:
 
-1.  Enter `http://autoplot.org/data/versioning/data_$Y_$m_$d_v$v.qds` in
+1.  Enter `https://autoplot.org/data/versioning/data_$Y_$m_$d_v$v.qds` in
     the address bar
 2.  This should bring up a GUI, because it doesn't have a timerange.
     Enter `2010-03-01`
@@ -360,7 +360,7 @@ This will reload all of the displayed data.
 
 This submenu contains all scripts found in autoplot\_data/tools/\*.jy
 and any Example scripts can be found here
-<http://autoplot.org/data/tools/>.
+<https://autoplot.org/data/tools/>.
 
 ### Tools &rarr; Additional Operations
 
@@ -381,7 +381,7 @@ detrend that are available as well.
 
 The Cache menu is a set of tools for managing the cache of data loaded.
 When you point Autoplot to a URL like
-<http://autoplot.org/data/autoplot.cdf>, Autoplot downloads the file and
+<https://autoplot.org/data/autoplot.cdf>, Autoplot downloads the file and
 stores it in a cache. (This is because most libraries need direct access
 to data files, so a local copy is necessarily made.) By default this is
 under the "autoplot\_data" folder in the scientist's home folder, in
@@ -459,7 +459,7 @@ the current axis units (such as time or dimensionless). For example,
     numbers. When the axis has a physical unit, such as "m/s" the range
     can be qualified with a unit, as in "0 to 100 cm/s."
   - An automatic test showing example ranges is
-    [here](http://autoplot.svn.sourceforge.net/viewvc/autoplot/autoplot/trunk/VirboAutoplot/src/test/endtoend/Test026.java?view=markup).
+    [here](https://autoplot.svn.sourceforge.net/viewvc/autoplot/autoplot/trunk/VirboAutoplot/src/test/endtoend/Test026.java?view=markup).
 
 All labels support "Granny Strings," which has special codes, similar to
 those used in IDL, proposed by Grandel in Nystorm. For example, \!c
@@ -782,7 +782,7 @@ Another use case for scripting is to add new functionality to the GUI.
 Scripts that run in the application context can be added to the tools
 bookmarks, and will appear in the tools menu when the app is reloaded
 (or getViewWindow().reloadTools() is run). For example, run the script:
-<http://autoplot.org/data/tools/flashFocus.jy>. This will show the
+<https://autoplot.org/data/tools/flashFocus.jy>. This will show the
 script in a dialog with an execute button. (The scripts can do malicious
 things like delete files, so you must review the script\!) Note in the
 review dialog, that there's a checkbox to add to the tools menu. The new
@@ -1016,7 +1016,7 @@ described below. The following script shows how data is loaded from a
 CDF file and formatted to an ASCII file.
 
 ```
-ds= getDataSet( 'http://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude' )
+ds= getDataSet( 'https://autoplot.org/data/ac_h2_mfi_20060101_v05.cdf?Magnitude' )
 formatDataSet( ds, '/tmp/mag.txt' )
 ```
 ## Formats Supported
@@ -1177,7 +1177,7 @@ Aggregation URIs will contain from the following wildcard codes:
     $(v;sep) for "x.y.z" Note sometimes the filename will contain a V
     before this, and this should be just the number like so: V$v
   - $o orbit number, arguments like $(o;id=crres) make this useful. see
-    <http://autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges>
+    <https://autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges>
   - $x ignore, match anything but don't interpret the field.
 
 A version wildcard is allowed. Versioned URIs have the form:
@@ -1342,7 +1342,7 @@ to advance to the next day, and the data source will then load data for
 this interval.
 
 The aggregating data source provides this capability. When
-<http://autoplot.org/data/agg/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=2000-01-01>
+<https://autoplot.org/data/agg/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=2000-01-01>
 is loaded, the data source tells Autoplot that it can load data for
 other intervals as well.
 
@@ -1394,7 +1394,7 @@ well, and will be plotted alongside the derived quantity.
 
 ### Windows
 
-Download <http://autoplot.org/jnlp/latest/autoplot.jar> to your desktop
+Download <https://autoplot.org/jnlp/latest/autoplot.jar> to your desktop
 and then double click it. Autoplot should launch if you have Java
 installed.
 
@@ -1409,8 +1409,8 @@ java -Xmx4G -jar autoplot.jar
 
 On the command line, download Autoplot using either wget or curl:
 
-`wget&nbsp;-N&nbsp;`&lt;http://autoplot.org/jnlp/latest/autoplot.jar&gt;  
-`curl&nbsp;-O&nbsp;`&lt;http://autoplot.org/jnlp/latest/autoplot.jar&gt;
+`wget&nbsp;-N&nbsp;`&lt;https://autoplot.org/jnlp/latest/autoplot.jar&gt;  
+`curl&nbsp;-O&nbsp;`&lt;https://autoplot.org/jnlp/latest/autoplot.jar&gt;
 
 and then start it with
 
@@ -1503,8 +1503,8 @@ URI prefix: vap+cdaweb:
 
 ![(Click image to expand.) Autoplot's listing of data from CDAWeb that
 is shown when selecting `File&rarr;Add Plot From&rarr;CDAWeb` or by clicking this
-\[<http://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\] ](CDAWebDB.png
-&quot;(Click image to expand.) Autoplot's listing of data from CDAWeb that is shown when selecting File&rarr;Add Plot From&rarr;CDAWeb or by clicking this [http://autoplot.org/autoplot.jnlp?vap+cdaweb: link] &quot;)
+\[<https://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\] ](CDAWebDB.png
+&quot;(Click image to expand.) Autoplot's listing of data from CDAWeb that is shown when selecting File&rarr;Add Plot From&rarr;CDAWeb or by clicking this [https://autoplot.org/autoplot.jnlp?vap+cdaweb: link] &quot;)
 
 The [CDAWeb group](http://cdaweb.gsfc.nasa.gov/) at
 [NASA/Goddard](http://gsfc.nasa.gov) provides a large volume of data in
@@ -1514,7 +1514,7 @@ provides a GUI for searching and filtering the list.
 
 To see the list,
 
-  - Click this \[<http://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\]
+  - Click this \[<https://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\]
     to start Autoplot with the list shown, or
   - in Autoplot, select `File`&rarr;`Add Plot From`&rarr;`CDAWeb` as shown in the
     top image to the right.
@@ -1746,7 +1746,7 @@ with the binary reader:
     fields.
   - Example where the query parameters were figured out by the above
     approach:
-    [3](http://autoplot.org/autoplot.jnlp?vap+bin:http://www-pw.physics.uiowa.edu/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
+    [3](https://autoplot.org/autoplot.jnlp?vap+bin:http://www-pw.physics.uiowa.edu/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
 
 **Unicode to ASCII** Netbeans writes out a Unicode file of its output
 window. (I could tell this because ascii values were interleaved with
@@ -1769,7 +1769,7 @@ Format](http://cdf.gsfc.nasa.gov/) file.
     content type of application/x-netcdf.)
   - extension: .cdf
   - Example URL:
-    [4](http://autoplot.org/autoplot.jnlp?vap+cdf:http://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio)
+    [4](https://autoplot.org/autoplot.jnlp?vap+cdf:http://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio)
   - Supports formatting: Yes, rank 1 and 2, though not yet ISTP
     compliant.
   - Parameters
@@ -1780,7 +1780,7 @@ Format](http://cdf.gsfc.nasa.gov/) file.
 In the following, we tell autoplot that the file name has a four-digit
 year, a two-digit month, and a two-digit day. Then we ask it to plot
 data on the day 20000109 using the time wildcards described in
-[5](http://autoplot.org/autoplot/index.php/Main_Page#Wildcards_and_Aggregation).
+[5](https://autoplot.org/autoplot/index.php/Main_Page#Wildcards_and_Aggregation).
 
 The first part of the url is
 
@@ -1806,7 +1806,7 @@ $Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20001231
 NcML is an XML representation of netCDF metadata.
 
   - Example URL:
-    [6](http://autoplot.org/autoplot.jnlp?http://autoplot.org/data/autoplot.ncml?skt_surface)
+    [6](https://autoplot.org/autoplot.jnlp?https://autoplot.org/data/autoplot.ncml?skt_surface)
 
 ### SPASE
 
@@ -1820,7 +1820,7 @@ NcML is an XML representation of netCDF metadata.
 <!-- end list -->
 
   - Example URL:
-    [7](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.xml)
+    [7](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/autoplot.xml)
 
 ### VAP
 
@@ -1836,7 +1836,7 @@ Plot From..." is used to access a vap, data URIs from within the vap are
 accessible.
 
   - Example URL:
-    [8](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.vap)
+    [8](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/autoplot.vap)
 
 ### Das2Streams and QStreams
 
@@ -1853,8 +1853,8 @@ accessible.
   - Mime type: application/x-das2stream
   - Extensions: .d2s .das2stream .qds
   - Example URLs:
-    [9](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/proton_density.qds)
-    [10](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/proton_velocity_rtn.qds)
+    [9](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/proton_density.qds)
+    [10](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/proton_velocity_rtn.qds)
   - Supports Formatting: yes, rank 1, 2, 3 to QStream
   - parameters
       - arg\_0 is the named parameter within the stream, if not
@@ -1871,7 +1871,7 @@ Cluster. This is experimental, but should work fine for at least 1-D
 data.
 
   - Example URL:
-    [11](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/C1_CP_CIS-CODIF_HS_H1_PSD__20010226_050000_20010226_061000_V070529.cef?3d_ions__C1_CP_CIS-CODIF_HS_H1_PSD)
+    [11](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/C1_CP_CIS-CODIF_HS_H1_PSD__20010226_050000_20010226_061000_V070529.cef?3d_ions__C1_CP_CIS-CODIF_HS_H1_PSD)
 
 ### netCDF file reader
 
@@ -1882,7 +1882,7 @@ Reads in a variable from a
   - extension: .nc, .ncml, .hdf5, .h5
   - Example URL (described on the [unidata web
     page](http://www.unidata.ucar.edu/software/netcdf/examples/files.html)):
-    [12](http://autoplot.org/jnlp.cgi?http://www.unidata.ucar.edu/software/netcdf/examples/tos_O1_2001-2002.nc?tos)
+    [12](https://autoplot.org/jnlp.cgi?http://www.unidata.ucar.edu/software/netcdf/examples/tos_O1_2001-2002.nc?tos)
   - parameters
       - The parameter is the name of the netcdf variable.
       - If not specified, a list of possible variables is given.
@@ -1909,7 +1909,7 @@ may be requested.
   - mime type:
   - extensions: .dds and .dods
   - Example URL:
-    [13](http://autoplot.org/jnlp.cgi?http://cdaweb.gsfc.nasa.gov/cgi-bin/opendap/nph-dods/istp_public/data/genesis/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density)
+    [13](https://autoplot.org/jnlp.cgi?http://cdaweb.gsfc.nasa.gov/cgi-bin/opendap/nph-dods/istp_public/data/genesis/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density)
   - Parameters
       - The parameter following the question mark is the name of the
         OPeNDAP variable. If not specified, a list of possible variables
@@ -1926,7 +1926,7 @@ POI](http://poi.apache.org/).
   - mime type: application/vnd.ms-excel
   - extension: .xls
   - Example URL:
-    [14](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/autoplot.xls?column=A)
+    [14](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/autoplot.xls?column=A)
   - Supports formatting: yes, rank 1 and 2
   - parameters
       - **column** is the name of the column (e.g. "C"), and in brackets
@@ -1946,7 +1946,7 @@ Data is read from a [TSDS](http://tsds.net) server.
   - Mime type:
   - Extension: tsds (use vap+tsds:<http://>...)
   - Example URL:
-    [15](http://autoplot.org/jnlp.cgi?vap+tsds:http://timeseries.org/get.cgi?StartDate=20030301&EndDate=20030401&ext=bin&out=tsml&ppd=1440&param1=OMNI_OMNIHR-26-v0)
+    [15](https://autoplot.org/jnlp.cgi?vap+tsds:http://timeseries.org/get.cgi?StartDate=20030301&EndDate=20030401&ext=bin&out=tsml&ppd=1440&param1=OMNI_OMNIHR-26-v0)
   - parameters
       - None
   - Dependencies
@@ -1961,8 +1961,8 @@ more data sources.
 
   - extension: .fits .fts
   - Example URLs:
-    [17](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/hsi_qlimg_5050601_001.fits)
-    [18](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/hsi_fsimg_5050612_001.fits)
+    [17](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/hsi_qlimg_5050601_001.fits)
+    [18](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/hsi_fsimg_5050612_001.fits)
 
 ### Images
 
@@ -1975,7 +1975,7 @@ are mapped to a QDataSet internally.
 <!-- end list -->
 
   - Example URL
-    [19](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale)
+    [19](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale)
 
 <!-- end list -->
 
@@ -1989,7 +1989,7 @@ are mapped to a QDataSet internally.
           - hue, saturation, value (brightness)
           - greyscale is faster to calculate than value
       - **plotInfo=0** grab the axis information from the richPng
-        metadata. See <http://autoplot.org/richPng>. (Note log=1 doesn't
+        metadata. See <https://autoplot.org/richPng>. (Note log=1 doesn't
         work with 24-bit color images.)
       - **xaxis=\[valmin,pixmin,valmax,pixmax\]** apply the axis
         transform on the horizontal axis.
@@ -2008,7 +2008,7 @@ Plots the waveform within wav files.
     seconds or UT time.
 
 Example URLs:
-[20](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/trainMono.wav)
+[20](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/trainMono.wav)
 See also [\#Multiple\_plot\_panels](#multiple-plot-panels "wikilink")
 
   - Parameters:
@@ -2020,19 +2020,19 @@ See also [\#Multiple\_plot\_panels](#multiple-plot-panels "wikilink")
 ### Jython Files (jyds)
 
 Jython scripts can be used to create new datasets by combining other
-datasets. See also [http://autoplot.org/scripting
-scripting](http://autoplot.org/scripting_scripting "wikilink").
+datasets. See also [https://autoplot.org/scripting
+scripting](https://autoplot.org/scripting_scripting "wikilink").
 
   - extension: .jyds
   - Example URLs:
       - Plot the difference between two images:
-        [21](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/imageDiff.jyds)
+        [21](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/imageDiff.jyds)
       - Read a complicated ASCII file and plot the result:
-        [22](http://autoplot.org/autoplot.jnlp?https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src//wdc_kp_ap.jyds)
+        [22](https://autoplot.org/autoplot.jnlp?https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src//wdc_kp_ap.jyds)
       - More examples:
         [23](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src/)
       - Demonstrates time series browse:
-        [24](http://autoplot.org/jnlp.cgi?http://autoplot.org/data/tsbDemo.jyds)
+        [24](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/tsbDemo.jyds)
   - Parameters:
       - <name>=<expr> defines parameters for use within the script.
         Scripts use getParam method to get method parameters.
@@ -2083,7 +2083,7 @@ getParam function will be provided in the GUI.
         expressions allowed
       - vap+inline:ripples(100,100)+randn(100,100)/10\&RENDER\_TYPE=nnSpectrogram
         \# specify QDataSet properties
-      - vap+inline:getDataSet('<http://autoplot.org/data/autoplot.ncml>')\&RENDER\_TYPE=nnSpectrogram
+      - vap+inline:getDataSet('<https://autoplot.org/data/autoplot.ncml>')\&RENDER\_TYPE=nnSpectrogram
         \# "decorate" other datasets (TODO: bugs when ? in URI)
 
 ## PNGWalk Tool
@@ -2171,7 +2171,7 @@ For more information on Java applets, see
 
 Autoplot provides a server mode, where external programs can connect to
 Autoplot for plotting and data reading services. See
-<http://autoplot.org/server>. This is not well-used, and the two
+<https://autoplot.org/server>. This is not well-used, and the two
 following modes might be more useful.
 
 Autoplot can be run from the command line to produce graphics for
@@ -2179,7 +2179,7 @@ CGI-based websites.
 
 It can also be run as a servlet with a Java web server such as
 Apache/Tomcat. A war file is available which works with these servers.
-See <http://autoplot.org/servlet_guide> .
+See <https://autoplot.org/servlet_guide> .
 
 # Abbreviations
 
@@ -2197,7 +2197,7 @@ See <http://autoplot.org/servlet_guide> .
   - TSB Time Series Browse capability, which is the ability for a data
     source to load data at different time intervals.
 
-See also <http://autoplot.org/glossary>
+See also <https://autoplot.org/glossary>
 
 # Logging
 
