@@ -3,7 +3,7 @@ Tool.
 
 Audience: Scientists
 
-See also: <http://autoplot.org/PNG_Walks>
+See also: [PNG_Walks](PNG_Walks.md)
 
 # Introduction
 
@@ -32,7 +32,7 @@ others are fixed. In the vap (or current configuration), edit each axis
 so that its "autorange" property is set if you intend for it to be
 autoranged. Axes where this is not set are left alone.
 
-See also <http://autoplot.org/AxisAutoRangeHints>, which allows
+See also [AxisAutoRangeHints](AxisAutoRangeHints.md), which allows
 additional hints (like include zero or select width from a set of
 possibilities) to be set.
 
