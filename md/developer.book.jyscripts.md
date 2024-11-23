@@ -23,7 +23,7 @@ script can accidentally delete data, and malicious scripts could damage
 your system. For this reason, always review scripts before running them,
 unless they come from a trusted source.
 
-<http://autoplot.org/cookbook> has a number of example scripts, and more
+[cookbook](cookbook.md) has a number of example scripts, and more
 are found in the Autoplot source:
 <https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/Autoplot/src/scripts/>
 

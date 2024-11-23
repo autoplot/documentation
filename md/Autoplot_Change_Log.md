@@ -48,11 +48,11 @@ Daily builds: [1](http://autoplot.org/autoplot.jnlp?version=hudson)
   - <http://autoplot.org/jnlp/20171116a/>
   - correction of Java signature
   - Jython codes can define "custom renderers" which paint data onto the
-    plot. See <http://autoplot.org/CustomRenderers> .
+    plot. See [CustomRenderers](CustomRenderers.md) .
   - create PNGWalk allows running with the interactive Autoplot, instead
     of via vap file to a background process, to allow Jython extensions.
   - allow MashUp Tool to be used on a Mac, because dragging from the
-    functions area doesn't work. See <http://autoplot.org/dashup> .
+    functions area doesn't work. See [dashup](dashup.md) .
   - single column ASCII files can be read again.
 
 # v2017a\_5

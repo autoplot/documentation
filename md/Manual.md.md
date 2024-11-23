@@ -435,7 +435,7 @@ Model-View-Controller Architecture makes Autoplot well-suited for server
 side applications as well. An example servlet is provided that shows how
 Autoplot and Tomcat make a high-performance graphics server.
 
-Retrieved from "\<<http://autoplot.org//Manual>\>"
+Retrieved from "\<[Manual](Manual.md)\>"
 
 1.  1.  Views
 

@@ -803,7 +803,7 @@ Here are more videos, described below:
         <a href="http://autoplot.org/data/" class="external free" title="http://autoplot.org/data/" rel="nofollow"><http://autoplot.org/data/></a>
         + TAB will show a list of files in that directory
       - Example:
-        <a href="http://autoplot.org/data" class="external free" title="http://autoplot.org/data" rel="nofollow"><http://autoplot.org/data></a>
+        <a href="http://autoplot.org/data" class="external free" title="http://autoplot.org/data" rel="nofollow">[data](data.md)</a>
         + TAB will only show a list of files that you have accessed
         previously that match the string
 
@@ -4076,7 +4076,7 @@ are mapped to a QDataSet internally.
           - greyscale is faster to calculate than value
       - <b>plotInfo=0</b> grab the axis information from the richPng
         metadata. See
-        <a href="http://autoplot.org/richPng" class="external free" title="http://autoplot.org/richPng" rel="nofollow"><http://autoplot.org/richPng></a>.
+        <a href="http://autoplot.org/richPng" class="external free" title="http://autoplot.org/richPng" rel="nofollow">[richPng](richPng.md)</a>.
         (Note log=1 doesn't work with 24-bit color images.)
       - <b>xaxis=\[valmin,pixmin,valmax,pixmax\]</b> apply the axis
         transform on the horizontal axis.
@@ -4340,7 +4340,7 @@ or
 
 Autoplot provides a server mode, where external programs can connect to
 Autoplot for plotting and data reading services. See
-<a href="http://autoplot.org/server" class="external free" title="http://autoplot.org/server" rel="nofollow"><http://autoplot.org/server></a>.
+<a href="http://autoplot.org/server" class="external free" title="http://autoplot.org/server" rel="nofollow">[server](server.md)</a>.
 This is not well-used, and the two following modes might be more useful.
 
 Autoplot can be run from the command line to produce graphics for
@@ -4349,7 +4349,7 @@ CGI-based websites.
 It can also be run as a servlet with a Java web server such as
 Apache/Tomcat. A war file is available which works with these servers.
 See
-<a href="http://autoplot.org/servlet_guide" class="external free" title="http://autoplot.org/servlet_guide" rel="nofollow"><http://autoplot.org/servlet_guide></a>
+<a href="http://autoplot.org/servlet_guide" class="external free" title="http://autoplot.org/servlet_guide" rel="nofollow">[servlet_guide](servlet_guide.md)</a>
 .
 
 <a name="Abbreviations"></a>
@@ -4375,7 +4375,7 @@ See
     source to load data at different time intervals.
 
 See also
-<a href="http://autoplot.org/glossary" class="external free" title="http://autoplot.org/glossary" rel="nofollow"><http://autoplot.org/glossary></a>
+<a href="http://autoplot.org/glossary" class="external free" title="http://autoplot.org/glossary" rel="nofollow">[glossary](glossary.md)</a>
 
 <a name="Logging"></a>
 
@@ -4419,7 +4419,7 @@ and look for "pycode" to find the line number.
 <div class="printfooter">
 
 Retrieved from
-"<a href="http://autoplot.org//help"><http://autoplot.org//help></a>"
+"<a href="http://autoplot.org//help">[help](help.md)</a>"
 
 </div>
 

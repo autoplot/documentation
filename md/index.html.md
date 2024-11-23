@@ -376,7 +376,7 @@ $('\#stats').append($('\#rm\_pkI1\_')); $('\#rm\_pkI1\_').wrap('
 <div class="printfooter">
 
 Retrieved from
-"<a href="http://autoplot.org//Main_Page"><http://autoplot.org//Main_Page></a>"
+"<a href="http://autoplot.org//Main_Page">[Main_Page](Main_Page.md)</a>"
 
 </div>
 

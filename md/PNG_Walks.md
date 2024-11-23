@@ -1,4 +1,4 @@
-See also: <http://autoplot.org//PNGWalks>
+See also: [PNGWalks](PNGWalks.md)
 
 # Introduction
 

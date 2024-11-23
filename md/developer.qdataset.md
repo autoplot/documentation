@@ -1,6 +1,6 @@
 Purpose: write new page documenting QDataSet, after discovering a lack
 of resources for describing Bundles. This will replace
-<http://autoplot.org/QDataSet>, and will be completed as a part of the
+[QDataSet](QDataSet.md), and will be completed as a part of the
 migration of QDataSet into the das2 core.
 
 Audience: das2 developers and interested scientists.

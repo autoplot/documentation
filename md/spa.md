@@ -40,7 +40,7 @@ which initiates a \~10-second installation process that works on most
 operating systems and browsers.
 
 See <http://autoplot.org/help#Installation> for browser-specific
-installation hints, <http://autoplot.org/help> for usage instructions,
+installation hints, [help](help.md) for usage instructions,
 and send email to <http://groups.google.com/group/autoplot> for help.
 
 When the installation is complete, browse bookmarks by selecting a

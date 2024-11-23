@@ -1,5 +1,5 @@
 Development notes on using Autoplot as an applet. Recent examples:
-<http://autoplot.org/applet_demos>
+[applet_demos](applet_demos.md)
 
 Older examples: Showing timing
 [1](http://aurora.gmu.edu/autoplot-applet/dist-packed/OnePanelApplet-bgloadAll.html).
@@ -39,7 +39,7 @@ The applet jar file can be compressed from 3 MB to 0.3 MB using
 [pack200](http://java.sun.com/j2se/1.5.0/docs/guide/deployment/deployment-guide/pack200.html)
 and [proguard](http://proguard.sourceforge.net/) (each give about a
 factor-of-three compression). See most recent applet release at
-<http://autoplot.org/Autoplot_Change_Log> and select the html file named
+[Autoplot_Change_Log](Autoplot_Change_Log.md) and select the html file named
 AutoplotAppletCompressed.html. See page source for usage example.
 
 The procedure for building Autoplot and the applet is described in

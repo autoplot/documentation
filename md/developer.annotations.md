@@ -26,7 +26,7 @@ It currently misses the bounds if you enlarge the font.
 # Current State (2018-06-14)
 
 This was all implemented, excluding rotations. See
-<http://autoplot.org//Annotations> and
+[Annotations](Annotations.md) and
 <http://autoplot.org//help.annotationCommand>
 
 # New Proposed Changes

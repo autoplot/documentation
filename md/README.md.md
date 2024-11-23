@@ -12,7 +12,7 @@ pandoc looks like its a useful tool. For example:
 converts the one file, but does a poor job with code blocks. I've
 written an Autoplot script to clean this up.
 
-\`pandoc -f html <http://autoplot.org//QFunction> -t markdown\_github -o
+\`pandoc -f html [QFunction](QFunction.md) -t markdown\_github -o
 QFunction.md\`
 
 downloads the mediawiki page and writes directly to markdown. It looks

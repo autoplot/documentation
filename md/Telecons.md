@@ -91,7 +91,7 @@
 
   - Move js/order/autoplotform\* to demo page for servlet. Need servlet,
     applet, and webstart to each have their own release and demo pages\!
-  - <http://autoplot.org/api> What about canvas.aspect?
+  - [api](api.md) What about canvas.aspect?
   - Discuss fullscreen <http://aurora.gmu.edu/svn/js/applet>
   - Discuss Ed working on event list creator
   - Discuss Ed working on dir reader applet
@@ -146,9 +146,9 @@
     <http://aurora.gmu.edu/svn/js/order/autoplotform>.\* into Autoplot
     code tree
   - Action item for before next release: Create
-    <http://autoplot.org/api> (has DOM plus example of how to modify one
+    [api](api.md) (has DOM plus example of how to modify one
     element in the DOM. For help on the meaning of DOM node, user is
-    pointed to <http://autoplot.org/help>
+    pointed to [help](help.md)
   - Data set plugin with URI or DOM inputs of data discussed as future
     feature.
   - EMFISIS is using Autoplot to have first look at raw data coming off

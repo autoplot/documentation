@@ -2,7 +2,7 @@ Audience: Scientists using Jython scripting
 
 Purpose: Describe usage of the Jython annotation command.
 
-See also: <http://autoplot.org//Annotations>
+See also: [Annotations](Annotations.md)
 
 # Introduction
 
