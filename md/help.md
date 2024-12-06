@@ -1171,10 +1171,10 @@ Aggregation URIs will contain from the following wildcard codes:
     subsec instead of this)
   - $(micro) three digit microseconds since millisecond boundary.
     (please use subsec instead of this)
-  - $(subsec;places=3) three digits are milliseconds. $(subsec;places=6)
+  - $\(subsec;places=3\) three digits are milliseconds. $(subsec;places=6)
     means the 6 digits are microseconds.
   - $v version number, decimal sort. $(v;alpha) is for alpha sort, and
-    $(v;sep) for "x.y.z" Note sometimes the filename will contain a V
+    $\(v;sep\) for "x.y.z" Note sometimes the filename will contain a V
     before this, and this should be just the number like so: V$v
   - $o orbit number, arguments like $(o;id=crres) make this useful. see
     <https://autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges>
