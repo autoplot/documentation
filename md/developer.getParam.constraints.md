@@ -1,5 +1,7 @@
 Audience: Scientists and developers
 
+This has not yet been released.
+
 # Introduction
 Autoplot script input is provided through the getParam call.  This allows for constraints, for 
 example a simple list of allowed values:
