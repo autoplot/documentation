@@ -13,7 +13,13 @@ constraints.
 Constraints are useful both at making a script more secure and also serving as documentation.  
 
 # String parameter constraints
-
+* <code>regex</code> the string provided must match this regex. (See Python re.match)
+* <code>format</code> when the format starts with a dollar sign, the string is parsed as a time range and the minimum value is reformatted using format.  
 # Integer parameter constraints
+* <code>min</code> the value must be greater than or equal to this value.
+* <code>max</code> the value must be less than or equal to this value.
 
 # Float parameter constraints
+* <code>min</code> the value must be greater than or equal to this value.
+* <code>max</code> the value must be less than or equal to this value.
+* <code>format</code> when the format starts with a percent, the float is reformatted and parsed using the format.  This allows resolution to be limited.
