@@ -1,6 +1,6 @@
 Audience: Scientists and developers
 
-This has not yet been released.
+This has not yet been released.  The next version of Autoplot (v2025a_1) should have this.
 
 Tickets:
 * https://sourceforge.net/p/autoplot/feature-requests/360/
