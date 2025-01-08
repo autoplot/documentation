@@ -2,6 +2,10 @@ Audience: Scientists and developers
 
 This has not yet been released.
 
+Tickets:
+* https://sourceforge.net/p/autoplot/feature-requests/360/
+* https://sourceforge.net/p/autoplot/feature-requests/805/
+  
 # Introduction
 Autoplot script input is provided through the getParam call.  This allows for constraints, for 
 example a simple list of allowed values:
