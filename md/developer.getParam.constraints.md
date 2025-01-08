@@ -42,3 +42,6 @@ will only allow days in the format $Y-$m-$d to be entered.
 * <code>min</code> the value must be greater than or equal to this value.
 * <code>max</code> the value must be less than or equal to this value.
 * <code>format</code> when the format starts with a percent, the float is reformatted and parsed using the format.  This allows resolution to be limited.
+
+# TODO
+There's a <code>stringType</code> which can be file which needs to be studied.
