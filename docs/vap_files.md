@@ -17,7 +17,7 @@ configuration.
 .vap which loads data from several servers for a day.  It is common to tell Autoplot
 to load this vap but for another day.  For example, if the vap file is 
 http://autoplot.org/data/autoplot.vap then http://autoplot.org/data/autoplot.vap?timerange=2000-01-12
-will load the same data but for 2000-01-12.  Note the File&raar;"Open Vap File" has 
+will load the same data but for 2000-01-12.  Note the File&rarr;"Open Vap File" has 
 a gui control to pick a different time.
 
 # saving .vap files
