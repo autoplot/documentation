@@ -4,7 +4,8 @@ the plot.  These product files are like a .doc file is to Microsoft Word, or
 an HTML file with .jpg references.  When all the data products are from public 
 servers, the .vap file can be sent to collegues so that they can have a look at the 
 same display.  Another common use is to have a public website to share standard 
-plot configurations with others.  
+plot configurations with others.  Note the data is not stored within the .vap file,
+just a URI reference to data.
 
 # loading .vap files
 The .vap files are saved and loaded using the file menu.  If a .vap file name or URI
@@ -16,7 +17,7 @@ configuration.
 .vaps can be tweaked when they are loaded as well.  For example, suppose you have a
 .vap which loads data from several servers for a day.  It is common to tell Autoplot
 to load this vap but for another day.  For example, if the vap file is 
-http://autoplot.org/data/autoplot.vap then http://autoplot.org/data/autoplot.vap?timerange=2000-01-12
+https://autoplot.org/data/autoplot.vap then https://autoplot.org/data/autoplot.vap?timerange=2000-01-12
 will load the same data but for 2000-01-12.  Note the File&rarr;"Open Vap File" has 
 a gui control to pick a different time.
 
