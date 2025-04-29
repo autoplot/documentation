@@ -4,8 +4,8 @@ the plot.  These product files are like a .doc file is to Microsoft Word, or
 an HTML file with .jpg references.  When all the data products are from public 
 servers, the .vap file can be sent to collegues so that they can have a look at the 
 same display.  Another common use is to have a public website to share standard 
-plot configurations with others.  Note the data is not stored within the .vap file,
-just a URI reference to data.
+plot configurations with others.  Note the data are not stored within the .vap file,
+just URI references to data.
 
 # loading .vap files
 The .vap files are saved and loaded using the file menu.  If a .vap file name or URI
