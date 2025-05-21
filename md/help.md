@@ -1506,9 +1506,9 @@ is shown when selecting `File&rarr;Add Plot From&rarr;CDAWeb` or by clicking thi
 \[<https://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\] ](CDAWebDB.png
 &quot;(Click image to expand.) Autoplot's listing of data from CDAWeb that is shown when selecting File&rarr;Add Plot From&rarr;CDAWeb or by clicking this [https://autoplot.org/autoplot.jnlp?vap+cdaweb: link] &quot;)
 
-The [CDAWeb group](http://cdaweb.gsfc.nasa.gov/) at
-[NASA/Goddard](http://gsfc.nasa.gov) provides a large volume of data in
-[CDF](http://cdf.gsfc.nasa.gov) files which Autoplot can read. This
+The [CDAWeb group](https://cdaweb.gsfc.nasa.gov/) at
+[NASA/Goddard](https://gsfc.nasa.gov) provides a large volume of data in
+[CDF](https://cdf.gsfc.nasa.gov) files which Autoplot can read. This
 plug-in knows how to query the database to see what is available and
 provides a GUI for searching and filtering the list.
 
@@ -1553,8 +1553,8 @@ The data source type is determined using the mime type in the HTTP
 headers; if the mime type is not specified, then the file extension is
 used. The data source type can be explicitly specified by prefixing the
 URI with "vap" plus an extension followed by a colon. For example:
-`vap+dat:`<http://www.autoplot.org/data/autoplot.asc> tells Autoplot to
-treat the data returned by this URI as ascii-table-formatted.
+`vap+dat:`<https://autoplot.org/data/autoplot.asc> tells Autoplot to
+treat the data returned by this URI as ASCII table formatted.
 
 Once the data source type (most often the file format type) is
 identified, the URI's parameter string is interpreted. Different URI
@@ -1746,10 +1746,10 @@ with the binary reader:
     fields.
   - Example where the query parameters were figured out by the above
     approach:
-    [3](https://autoplot.org/autoplot.jnlp?vap+bin:http://www-pw.physics.uiowa.edu/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
+    [3](vap+bin:https://space.physics.uiowa.edu/plasma-wave/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
 
-**Unicode to ASCII** Netbeans writes out a Unicode file of its output
-window. (I could tell this because ascii values were interleaved with
+**UTF16 to ASCII** Netbeans writes out a Unicode file of its output
+window using 16-bit unicode. (I could tell this because ascii values were interleaved with
 zeros.) `iconv` failed to convert the file, so I tried converting it
 with Autoplot:
 
@@ -1763,13 +1763,13 @@ formatDataSet( ds2, 'vap+bin:file:///tmp/output1249405460816.txt?type=ubyte' )
 ### CDF
 
 Reads in a variable from a [Common Data
-Format](http://cdf.gsfc.nasa.gov/) file.
+Format](https://cdf.gsfc.nasa.gov/) file.
 
   - mime type: application/x-cdf-file (Note some servers advertise a
     content type of application/x-netcdf.)
   - extension: .cdf
   - Example URL:
-    [4](https://autoplot.org/autoplot.jnlp?vap+cdf:http://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio)
+    [4] vap+cdf:https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio
   - Supports formatting: Yes, rank 1 and 2, though not yet ISTP
     compliant.
   - Parameters
@@ -1784,7 +1784,7 @@ data on the day 20000109 using the time wildcards described in
 
 The first part of the url is
 
-<http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/>
+<https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/>
 
 the file part of the url is
 
