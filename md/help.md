@@ -421,7 +421,7 @@ The events list is used to load a list of times which control the
 application time range. For example, suppose you are interested only in
 data when we pass by the planet (perigee). You set the events list to a
 list of perigee times
-<http://www-pw.physics.uiowa.edu/das2/Orbits/junoPJ.dat>, and use this
+https://github.com/das-developers/das2meta/blob/main/orbits/junoPJ.dat, and use this
 to select the perigee. Then clicking on a time will reset the
 application timerange.
 
