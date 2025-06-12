@@ -20,7 +20,7 @@ selector, we change multiple nodes:
 The folks at LANL asked for a page with images associated with complex
 plot panel configurations or styles and the procedure to create them:
 [Cooking at LANL](Cooking_at_LANL.md "wikilink"). See also
-<http://autoplot.org/developer.renderTypes>
+[developer.renderTypes](developer.renderTypes.md)
 
 ## L-shell as Y axis
 
