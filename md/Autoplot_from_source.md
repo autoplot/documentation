@@ -3,12 +3,7 @@
 Ant is a build system for Java, similar to the old "make" command. This
 assumes that you have Java 1.7 and Apache Ant version 1.8.2 available.
 
-The svn for Autoplot is
-<https://svn.code.sf.net/p/autoplot/code/autoplot/trunk>. Tagged
-versions are in <https://svn.code.sf.net/p/autoplot/code/autoplot/tags>.
-Branch versions are in
-<https://svn.code.sf.net/p/autoplot/code/autoplot/branches> but are
-rarely used.
+The GitHub home for Autoplot is https://github.com/autoplot/autoplot/
 
 ```
 git clone --recurse-submodules git@github.com:autoplot/autoplot.git
