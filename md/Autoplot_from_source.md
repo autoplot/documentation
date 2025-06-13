@@ -1,7 +1,7 @@
 # Building on command line using Ant
 
 Ant is a build system for Java, similar to the old "make" command. This
-assumes that you have Java 1.7 and Apache Ant version 1.8.2 available.
+assumes that you have Java 1.8 and Apache Ant available.
 
 The GitHub home for Autoplot is https://github.com/autoplot/autoplot/
 
