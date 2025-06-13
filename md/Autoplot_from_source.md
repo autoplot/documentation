@@ -11,13 +11,9 @@ Branch versions are in
 rarely used.
 
 ```
-svn co https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/ autoplot
-cd autoplot
-```
-then
-
-```
-git clone https://github.com/das-developers/das2java.git
+git clone --recurse-submodules git@github.com:autoplot/autoplot.git
+cd autoplot/Autoplot
+ant jar
 ```
 
 Check out the sources with Netbeans or some other svn client into the
