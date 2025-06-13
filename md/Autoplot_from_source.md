@@ -12,11 +12,9 @@ rarely used.
 
 ```
 git clone --recurse-submodules git@github.com:autoplot/autoplot.git
-cd autoplot/Autoplot
-ant jar
 ```
-
-Check out the sources with Netbeans or some other svn client into the
+(The recurse-submodules option also clones the Das2 library which is integral and needed
+for Autoplot.)  Check out the sources with Netbeans or into the
 directory "autoplot"
 
 There are a number Netbeans projects that can be built with ant. They
@@ -65,8 +63,8 @@ used.
 
 ## platform
 
-This document assumes you have installed Netbeans 7.3 on your desktop.
-Subversion is included within Netbeans.
+This document assumes you have installed Netbeans 8.1 on your desktop.
+Git is included within Netbeans.
 
 ## procedure
 
