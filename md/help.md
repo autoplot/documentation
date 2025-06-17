@@ -1158,27 +1158,27 @@ resolution as it is read in.
 
 Aggregation URIs will contain from the following wildcard codes:
 
-  <li> <code>$Y</code> four-digit year
-  <li> <code>$y</code> two-digit year
-  <li> <code>$j</code> three-digit day of year
-  <li> <code>$m</code> two-digit month
-  <li> <code>$b</code> three-letter month (English locale only)
-  <li> <code>$d</code> two-digit day of month
-  <li> <code>$H</code> two-digit hour
-  <li> <code>$M</code> two-digit minute
-  <li> <code>$S</code> two-digit second
-  <li> <code>$(milli)</code> three digit milliseconds since second boundary. (Please use
+  - `$Y` four-digit year
+  - `$y` two-digit year
+  - `$j` three-digit day of year
+  - `$m` two-digit month
+  - `$b` three-letter month (English locale only)
+  - `$d` two-digit day of month
+  - `$H` two-digit hour
+  - `$M` two-digit minute
+  - `$S` two-digit second
+  - `$(milli)` three digit milliseconds since second boundary. (Please use
     subsec instead of this)
-  <li> <code>$(micro)</code> three digit microseconds since millisecond boundary.
+  - `$(micro)` three digit microseconds since millisecond boundary.
     (please use subsec instead of this)
-  <li> <code>$(subsec;places=3)</code> three digits are milliseconds. <code>$(subsec;places=6)</code>
+  - `$(subsec;places=3)` three digits are milliseconds. `$(subsec;places=6)`
     means the 6 digits are microseconds.  
-  <li> <code>$v</code> version number, decimal sort. <code>$(v;alpha)</code> is for alpha sort, and
-     <code>$(v;sep)</code> for "x.y.z" Note sometimes the filename will contain a V
+  - `$v` version number, decimal sort. `$(v;alpha)` is for alpha sort, and
+     `$(v;sep)` for "x.y.z" Note sometimes the filename will contain a V
     before this, and this should be just the number like so: V$v
-  <li> <code>$o</code> orbit number, arguments like <code>$(o;id=crres)</code> make this useful. see
+  - `$o` orbit number, arguments like `$(o;id=crres)` make this useful. see
     <https://autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges>
-  <li> <code>$x</code> ignore, match anything but don't interpret the field.
+  - `$x` ignore, match anything but don't interpret the field.
     
 A version wildcard is allowed. Versioned URIs have the form:
 
@@ -1186,13 +1186,13 @@ A version wildcard is allowed. Versioned URIs have the form:
 
 Also, parenthesis can be used to modify fields. For example:
 
-  - <code>$Y$m$d-$(H;span=12)</code> indicates the hour is the beginning of a 12 hour
+  - `$Y$m$d-$(H;span=12)` indicates the hour is the beginning of a 12 hour
     interval indicated by the name.
-  - <code>$Y$m$d\_$H$(M;span=10)</code> indicates the files are in ten-minute blocks.
-  - <code>$(m;Y=2011)$d</code> indicates the year field is implicit. TODO: bugs
+  - `$Y$m$d\_$H$(M;span=10)` indicates the files are in ten-minute blocks.
+  - `$(m;Y=2011)$d` indicates the year field is implicit. TODO: bugs
     prevent this from working, since we look for $Y to detect
     aggregations...
-  - <code>$Y$m$d\_$H$M$S.$(milli;span=250)</code>
+  - `$Y$m$d\_$H$M$S.$(milli;span=250)`
 
 See also
 <https://github.com/hapi-server/uri-templates/wiki/Specification>, which
