@@ -12,6 +12,18 @@ git clone --recurse-submodules git@github.com:autoplot/autoplot.git
 for Autoplot.)  Check out the sources with Netbeans or into the
 directory "autoplot"
 
+You can clone the repo for access if you don't have a login with:
+```
+git clone --recurse-submodules  https://github.com/autoplot/autoplot.git
+```
+or
+
+```
+git clone https://github.com/autoplot/autoplot.git
+cd autoplot
+git clone https://github.com/das-developers/das2java.git
+```
+
 There are a number Netbeans projects that can be built with ant. They
 are:
 
