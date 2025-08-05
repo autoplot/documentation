@@ -84,6 +84,7 @@ Some other bookmarks:
   - Demo 6: Use SPASE record for metadata, file reference within for
     data.
   - Demo 9: Read data from ASCII file.
+  - Demo 16: browse data from NASA/CDAWeb HAPI server
 
 ## Navigation
 
