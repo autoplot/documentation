@@ -26,12 +26,10 @@ The text can contain "granny" codes like E=mc\!u2\!n (E=mc<sup>2</sup>),
 and either \!c or \<br\> will start a new line.
 
 # Anchor Location
-
+<img src="annotationProperties.png" width="500" align="right">
 The annotation properties can be edited with the properties dialog.
 These annotations have a set of controls that is a bit overwhelming, and
-some are used more often than others.
-![annotationProperties.png](annotationProperties.png
-"annotationProperties.png") When anchored to the canvas, the annotation
+some are used more often than others. When anchored to the canvas, the annotation
 is positioned relative to a row and a column, and by default this is the
 row and column of the plot which created the annotation. The rowId and
 columnId properties can be reset, or set to an empty string to mean the

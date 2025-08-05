@@ -1,27 +1,28 @@
 # Building on command line using Ant
 
 Ant is a build system for Java, similar to the old "make" command. This
-assumes that you have Java 1.7 and Apache Ant version 1.8.2 available.
+assumes that you have Java 1.8 and Apache Ant available.
 
-The svn for Autoplot is
-<https://svn.code.sf.net/p/autoplot/code/autoplot/trunk>. Tagged
-versions are in <https://svn.code.sf.net/p/autoplot/code/autoplot/tags>.
-Branch versions are in
-<https://svn.code.sf.net/p/autoplot/code/autoplot/branches> but are
-rarely used.
+The GitHub home for Autoplot is https://github.com/autoplot/autoplot/
 
 ```
-svn co https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/ autoplot
+git clone --recurse-submodules git@github.com:autoplot/autoplot.git
+```
+(The recurse-submodules option also clones the Das2 library which is integral and needed
+for Autoplot.)  Check out the sources with Netbeans or into the
+directory "autoplot"
+
+You can clone the repo for access if you don't have a login with:
+```
+git clone --recurse-submodules  https://github.com/autoplot/autoplot.git
+```
+or
+
+```
+git clone https://github.com/autoplot/autoplot.git
 cd autoplot
-```
-then
-
-```
 git clone https://github.com/das-developers/das2java.git
 ```
-
-Check out the sources with Netbeans or some other svn client into the
-directory "autoplot"
 
 There are a number Netbeans projects that can be built with ant. They
 are:
@@ -69,8 +70,8 @@ used.
 
 ## platform
 
-This document assumes you have installed Netbeans 7.3 on your desktop.
-Subversion is included within Netbeans.
+This document assumes you have installed Netbeans 8.1 on your desktop.
+Git is included within Netbeans.
 
 ## procedure
 

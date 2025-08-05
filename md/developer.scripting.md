@@ -41,8 +41,7 @@ ds1= getDataSet( 'http://autoplot.org/data/image/Capture_00158.jpg?channel=greys
 ds2= getDataSet( 'http://autoplot.org/data/image/Capture_00159.jpg?channel=greyscale' )
 result= abs( ds2- ds1 )
 ```
-`
-```
+
 It should be fairly clear what the script does: load in two grayscale
 views of images, and then assign the absolute difference to the variable
 result. This variable could then be plotted, for example, or we might
@@ -108,6 +107,7 @@ for tr in trs:
    dom.timeRange= DatumRangeUtil.parseTimeRange(tr)
    writeToPng( '/tmp/%s.png' % tr )
 ```
+
 This script would run the application through each day of the month
 January 2010, making images of each day. All commands are available in
 this context.
@@ -138,8 +138,9 @@ for i in xrange(200):
 
 monitor.finished()     # indicate the task is complete
 ```
+
 A well-written script will use the monitor to effectively convey
-information to the user. Imagine the scientist is the CEO of a company,
+information to the user. Imagine the scientist is the head of a company,
 and the script is the Manager of a process. The process is implemented
 by a Worker. All three parties use the progress monitor. The Worker
 calls setProgressMessage and setTaskProgress to convey the state of the

@@ -29,7 +29,7 @@ easily implemented in different environments, often with code that
 achieves high-performance without loosing abstraction.
 
 This poster describes most cleanly the interface: [2011
-Poster](http://autoplot.org/wiki/images/InsideAutoplot-20110531.ppt)
+Poster](https://cottagesystems.com/~jbf/autoplot/posters/InsideAutoplot-20110531.ppt)
 
 # QDataSet v1.0
 

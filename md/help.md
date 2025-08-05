@@ -421,7 +421,7 @@ The events list is used to load a list of times which control the
 application time range. For example, suppose you are interested only in
 data when we pass by the planet (perigee). You set the events list to a
 list of perigee times
-<http://www-pw.physics.uiowa.edu/das2/Orbits/junoPJ.dat>, and use this
+https://github.com/das-developers/das2meta/blob/main/orbits/junoPJ.dat, and use this
 to select the perigee. Then clicking on a time will reset the
 application timerange.
 
@@ -1158,41 +1158,41 @@ resolution as it is read in.
 
 Aggregation URIs will contain from the following wildcard codes:
 
-  - $Y four-digit year
-  - $y two-digit year
-  - $j three-digit day of year
-  - $m two-digit month
-  - $b three-letter month (English locale only)
-  - $d two-digit day of month
-  - $H two-digit hour
-  - $M two-digit minute
-  - $S two-digit second
-  - $(milli) three digit milliseconds since second boundary. (please use
+  - `$Y` four-digit year
+  - `$y` two-digit year
+  - `$j` three-digit day of year
+  - `$m` two-digit month
+  - `$b` three-letter month (English locale only)
+  - `$d` two-digit day of month
+  - `$H` two-digit hour
+  - `$M` two-digit minute
+  - `$S` two-digit second
+  - `$(milli)` three digit milliseconds since second boundary. (Please use
     subsec instead of this)
-  - $(micro) three digit microseconds since millisecond boundary.
+  - `$(micro)` three digit microseconds since millisecond boundary.
     (please use subsec instead of this)
-  - $(subsec;places=3) three digits are milliseconds. $(subsec;places=6)
-    means the 6 digits are microseconds.
-  - $v version number, decimal sort. $(v;alpha) is for alpha sort, and
-    $(v;sep) for "x.y.z" Note sometimes the filename will contain a V
+  - `$(subsec;places=3)` three digits are milliseconds. `$(subsec;places=6)`
+    means the 6 digits are microseconds.  
+  - `$v` version number, decimal sort. `$(v;alpha)` is for alpha sort, and
+     `$(v;sep)` for "x.y.z" Note sometimes the filename will contain a V
     before this, and this should be just the number like so: V$v
-  - $o orbit number, arguments like $(o;id=crres) make this useful. see
+  - `$o` orbit number, arguments like `$(o;id=crres)` make this useful. see
     <https://autoplot.org/developer.orbitTimeSpec#Orbits_in_Time_Ranges>
-  - $x ignore, match anything but don't interpret the field.
-
+  - `$x` ignore, match anything but don't interpret the field.
+    
 A version wildcard is allowed. Versioned URIs have the form:
 
 `vap+cdf:https://cdaweb.gsfc.nasa.gov/data/ace/swepam/level_2_cdaweb/swe_k0/$Y/ac_k0_swe_$Y$m$d_v$v.cdf?Np&timerange=2022-July`
 
 Also, parenthesis can be used to modify fields. For example:
 
-  - $Y$m$d-$(H;span=12) indicates the hour is the beginning of a 12 hour
+  - `$Y$m$d-$(H;span=12)` indicates the hour is the beginning of a 12 hour
     interval indicated by the name.
-  - $Y$m$d\_$H$(M;span=10) indicates the files are in ten-minute blocks.
-  - $(m;Y=2011)$d indicates the year field is implicit. TODO: bugs
+  - `$Y$m$d\_$H$(M;span=10)` indicates the files are in ten-minute blocks.
+  - `$(m;Y=2011)$d` indicates the year field is implicit. TODO: bugs
     prevent this from working, since we look for $Y to detect
     aggregations...
-  - $Y$m$d\_$H$M$S.$(milli;span=250)
+  - `$Y$m$d\_$H$M$S.$(milli;span=250)`
 
 See also
 <https://github.com/hapi-server/uri-templates/wiki/Specification>, which
@@ -1506,9 +1506,9 @@ is shown when selecting `File&rarr;Add Plot From&rarr;CDAWeb` or by clicking thi
 \[<https://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\] ](CDAWebDB.png
 &quot;(Click image to expand.) Autoplot's listing of data from CDAWeb that is shown when selecting File&rarr;Add Plot From&rarr;CDAWeb or by clicking this [https://autoplot.org/autoplot.jnlp?vap+cdaweb: link] &quot;)
 
-The [CDAWeb group](http://cdaweb.gsfc.nasa.gov/) at
-[NASA/Goddard](http://gsfc.nasa.gov) provides a large volume of data in
-[CDF](http://cdf.gsfc.nasa.gov) files which Autoplot can read. This
+The [CDAWeb group](https://cdaweb.gsfc.nasa.gov/) at
+[NASA/Goddard](https://gsfc.nasa.gov) provides a large volume of data in
+[CDF](https://cdf.gsfc.nasa.gov) files which Autoplot can read. This
 plug-in knows how to query the database to see what is available and
 provides a GUI for searching and filtering the list.
 
@@ -1553,8 +1553,8 @@ The data source type is determined using the mime type in the HTTP
 headers; if the mime type is not specified, then the file extension is
 used. The data source type can be explicitly specified by prefixing the
 URI with "vap" plus an extension followed by a colon. For example:
-`vap+dat:`<http://www.autoplot.org/data/autoplot.asc> tells Autoplot to
-treat the data returned by this URI as ascii-table-formatted.
+`vap+dat:`<https://autoplot.org/data/autoplot.asc> tells Autoplot to
+treat the data returned by this URI as ASCII table formatted.
 
 Once the data source type (most often the file format type) is
 identified, the URI's parameter string is interpreted. Different URI
@@ -1746,10 +1746,10 @@ with the binary reader:
     fields.
   - Example where the query parameters were figured out by the above
     approach:
-    [3](https://autoplot.org/autoplot.jnlp?vap+bin:http://www-pw.physics.uiowa.edu/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
+    [3](vap+bin:https://space.physics.uiowa.edu/plasma-wave/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
 
-**Unicode to ASCII** Netbeans writes out a Unicode file of its output
-window. (I could tell this because ascii values were interleaved with
+**UTF16 to ASCII** Netbeans writes out a Unicode file of its output
+window using 16-bit unicode. (I could tell this because ascii values were interleaved with
 zeros.) `iconv` failed to convert the file, so I tried converting it
 with Autoplot:
 
@@ -1763,13 +1763,13 @@ formatDataSet( ds2, 'vap+bin:file:///tmp/output1249405460816.txt?type=ubyte' )
 ### CDF
 
 Reads in a variable from a [Common Data
-Format](http://cdf.gsfc.nasa.gov/) file.
+Format](https://cdf.gsfc.nasa.gov/) file.
 
   - mime type: application/x-cdf-file (Note some servers advertise a
     content type of application/x-netcdf.)
   - extension: .cdf
   - Example URL:
-    [4](https://autoplot.org/autoplot.jnlp?vap+cdf:http://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio)
+    [4] vap+cdf:https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio
   - Supports formatting: Yes, rank 1 and 2, though not yet ISTP
     compliant.
   - Parameters
@@ -1784,7 +1784,7 @@ data on the day 20000109 using the time wildcards described in
 
 The first part of the url is
 
-<http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/>
+<https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/>
 
 the file part of the url is
 

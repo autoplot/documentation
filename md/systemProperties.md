@@ -36,6 +36,19 @@ created in USER/autoplot\_data/config/system.properties .
 
 # turn off certificate checks.
 #noCheckCertificate=true
+
+# use huge scatter for large data sets.
+#useHugeScatter=true
+
+# HAPI cache location.
+#HAPI_DATA=${HOME}/hapi_data
+
+# Enable HAPI Caching.
+#hapiServerCache=true
+
+# Enable Flat LAF, a consistent Look and Feel which can be run on any platform
+#flatLAF=true
+
 ```
 Note that some of these properties are now enabled by default. For
 example, referenceCaching is a mature feature that is enabled by
@@ -43,4 +56,6 @@ default.
 
 These are read in the code (or Jython scripts) using System.getProperty
 calls like:
-
+```
+print System.getProperty("flatLAF","false")
+```
