@@ -150,7 +150,7 @@ but one of Autoplot's plug-ins interprets the address. For example,
 `vap+cdaweb:ds=CRRES_H0_MEA&id=FLUX&timerange=1991-10-09` points to data
 from the CRRES satellite provided via CDAWeb at NASA/Goddard and
 `vap+audiosystem:spec=512&len=2.5` samples from the local machine's
-soundsystem for 2.5 seconds.
+sound system for 2.5 seconds.
 
 ## Example URIs: Data Files
 
@@ -202,6 +202,15 @@ the year, second as the day of year, and third as hour of day. The
 keyword validMax means any value over 999 should be considered invalid,
 and a data break should be displayed.
 
+### PDS3 and PDS4 Files
+PDS3 Label files (with the extension .lbl) can be the target of the 
+URI, and the named quantities described by the label can be plotted.  PDS4
+XML files are detected (along with a few other data types in XML) and
+the named quantities are plotting as with PDS3.  Note the PDS4 library
+used has an odd dependence which is not found in Java 11 and newer,
+so only the .dmg, .exe, .deg, and .rpm releases can access this data.  This
+problem will be addressed at some time in the near future.
+
 ## Example URIs: Data Servers
 
 Some URIs refer to data coming from data servers rather than data files.
@@ -233,7 +242,14 @@ which says with the HAPI server located at
 <https://cdaweb.gsfc.nasa.gov/hapi>, from the dataset AC\_K0\_SWE, load
 the parameters Np and Vp. Any group can set up a HAPI server using the
 documentation at
-<https://github.com/hapi-server/data-specification/blob/master/hapi-2.1.0/HAPI-data-access-spec-2.1.0.md>
+<https://github.com/hapi-server/data-specification/blob/master/hapi-3.3.0/HAPI-data-access-spec-3.3.0.md>
+
+### Das2Servers
+
+Das2Servers, created at the University of Iowa and used at several institutions,
+can be accessed by entering the address of the server.  Note Das2Servers
+support fast browsing by loading reduced data to show overviews, and then
+finer data is loaded when zooming in.
 
 ## Interaction
 
@@ -265,7 +281,7 @@ Other
 More complex interaction with plots, including: mouse wheel control,
 keyboard entry of axis range, context overview plots
 
-
+Click here to see a video showing more actions:<br>
 [![YouTube video player](https://img.youtube.com/vi/Zo-QuK-KvUM/0.jpg)](http://www.youtube.com/watch?v=Zo-QuK-KvUM "YouTube video player")
 
 
@@ -282,6 +298,7 @@ Here are more videos, described below:
         files in that directory
       - Example: <https://autoplot.org/data> + TAB will only show a list
         of files that you have accessed previously that match the string
+      - Example: <https://autoplot.org/data/autoplot.cdf?> + TAB will show the data found inside the CDF file.       
 
 ## Key Menu Items
 
@@ -305,7 +322,8 @@ for text file) and whether the original data, the processed data
 (sliced, fftPower,etc), or just the visible data should be exported.
 
 Note that while only the currently selected plot element's data is
-exported, in the future you will have more options for exporting data.
+exported, File&rarr;"Export all data..." will interpolate all the data on the plot 
+to common timetags and write all data into a file.
 
 ### Options &rarr; Auto &rarr; Autoranging
 
@@ -359,9 +377,9 @@ This will reload all of the displayed data.
 
 ### Tools &rarr; Manage and Browse
 
-This submenu contains all scripts found in autoplot\_data/tools/\*.jy
-and any Example scripts can be found here
-<https://autoplot.org/data/tools/>.
+When a script is run, there's a checkbox which will add the script to
+the Tools menu.  The "Manage and Browse" dialog allows these to be
+reordered and organized into sub-menus.
 
 ### Tools &rarr; Additional Operations
 
