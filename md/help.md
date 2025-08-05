@@ -97,29 +97,28 @@ actions while hovering over it.
 Undo and redo actions are attached to the ctrl-Z and ctrl-Y keys
 (command &#8984;-Z and &#8984;-Y for Macs).
 
-
+The video below on You Tube shows Autoplot (and Das2) mouse interactivity:
 [![YouTube video player](https://img.youtube.com/vi/PcB3feFYb_4/0.jpg)](http://www.youtube.com/watch?v=PcB3feFYb_4 "YouTube video player")
 
 
 ## Address Bar and URIs
 
-![addressbar.png](addressbar.png "addressbar.png")
-
+![icons/addressBar.png](icons/addressBar.png "addressBar.png")
   
 In the address bar at the top of the GUI you can enter the name of a
 supported [file format](#formats-read "wikilink") in a data address. If
 the data address is a URL, HTTP or FTP is used to download the file to a
-local directory within the folder "autoplot\_data." A fully-qualified
+local directory within the folder "autoplot\_data" of your home directory. A fully-qualified
 address will contain both the location of the file and additional
 arguments to read in the data. For example, it may contain a CDF
 filename followed by `?BGSM` to indicate the variable to plot. Together
 these form a "URI", which is the precise address of the data. Autoplot
-will help build URIs by providing graphical editors to pick the data.
+will help build URIs by providing graphical editors to select data.
 Autoplot URIs are designed to give a concise way to refer to data: put a
 data file in a web location, and send the URI to a colleague so they can
 look at it too.
 
-The green "Play" button will tell Autoplot to load this URI. Autoplot
+The green "Play" button (![icons/play.png](icons/play.png)) will tell Autoplot to load this URI. Autoplot
 will decide if the URI is partial, needing more information before it
 can be plotted, and if it is, an editor panel GUI will be shown, so that
 the URI can be completed. For example, when a CDF file name is entered,
@@ -129,20 +128,21 @@ its play button to try again. To see this, compare what happens when you
 enter `https://autoplot.org/data/autoplot.cdf` in the address bar versus
 `https://autoplot.org/data/autoplot.cdf?BGSM`.
 
-The folder/magnifier button, called the "Inspect" button, will return to
+The folder/magnifier button (![icons/inspact.png](icons/inspect.png)), called the "Inspect" button, will return to
 the editor GUI.
 
 Note that if you enter TAB when the address bar is selected, possible
 completions will appear if they exist. This provides a quick way to
 finish URIs as well.
 
-The tiny green and blue buttons to the left of the address bar select
+The tiny green and blue buttons to the left of the address bar (![icons/dataOrTimeRangeSelector.png](icons/dataOrTimeRangeSelector.png)) select
 which of two controls is shown. The blue button shows the current time
 range, which is useful when navigating long time series of data. The
-green button will swap back to the address bar. Autoplot has a basic and
-expert modes. In basic mode, the address bar is not visible and is
-replaced with a controller for the time range. Control-T will switch to
+green button will swap back to the address bar.  Control-T will switch to
 the time range, and Control-D will switch to the data URI.
+
+Autoplot has a basic and expert modes. In basic mode, the address bar is not visible and is replaced with a controller for the time range.  The expert mode is used to both compose layouts and browse data, while the
+basic mode is only used for browsing data.
 
 Sometimes Autoplot URIs do not refer to files. They still locate data,
 but one of Autoplot's plug-ins interprets the address. For example,
