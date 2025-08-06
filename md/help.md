@@ -1507,6 +1507,16 @@ to be in records of fixed-length. [Source_Binary.md](Source_Binary.md)
 CDF files are binary files containing structural data allowing storage
 of named data arrays. [Source_CDF.md](Source_CDF.md)
 
+
+### PDS3 and PDS4 Files
+PDS3 Label files (with the extension .lbl) can be the target of the 
+URI, and the named quantities described by the label can be plotted.  PDS4
+XML files are detected (along with a few other data types in XML) and
+the named quantities are plotting as with PDS3.  Note the PDS4 library
+used has an odd dependence which is not found in Java 11 and newer,
+so only the .dmg, .exe, .deg, and .rpm releases can access this data.  This
+problem will be addressed at some time in the near future.
+
 ### NcML
 
 NcML is an XML representation of netCDF metadata.
