@@ -29,3 +29,5 @@ downloaded jar's executable bit is set, it can be launched like any
 other executable file. There are also .rpm and .dmg releases which are
 available, but the .rpm version has not been thoroughly tested.
 
+Autoplot will run on 32 bit Java 8, but memory will be limited to 1GB.  This
+is  done by using the single-jar release.
