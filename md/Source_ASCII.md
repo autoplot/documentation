@@ -3,7 +3,7 @@
 An editor can be used to help develop a URI with the appropriate
 parameters for Autoplot to read and plot data in a ASCII file. The list
 of parameters that may be used in a URI is given
-[below](#ascii-table "wikilink"). A table is displayed showing how the
+[below](#parameters "wikilink"). A table is displayed showing how the
 reader would parse the file. Darker lines that are not broken into
 columns are lines identified as non-records, such as header lines.
 
@@ -168,4 +168,4 @@ fields.
     read in at once to return a rank 2 dataset.
 
 ## See Also
-See also [ascii_data_source.md].
+See also [ascii_data_source](ascii_data_source.md).
