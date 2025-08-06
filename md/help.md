@@ -2184,7 +2184,7 @@ See <https://autoplot.org/servlet_guide> .
   - JYDS Jython Data Source. Jython script used to load data into
     Autoplot.
   - JY Jython Script. Jython used to operate Autoplot as a batch mode.
-  - RTE Run-Time Exception. This is an error that occurs that the user
+  - RTE Run-Time Exception. This is an error that occurs that the scientist
     should not see, and is given the opportunity to submit the bug to
     developers.
   - RFE Request For Enhancement, or feature request.
@@ -2192,6 +2192,7 @@ See <https://autoplot.org/servlet_guide> .
     attached to each tick.
   - TSB Time Series Browse capability, which is the ability for a data
     source to load data at different time intervals.
+  - HAPI Heliphysics Application Programmer Interface
 
 See also <https://autoplot.org/glossary>
 
