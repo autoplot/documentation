@@ -502,7 +502,7 @@ that contains a number of nodes of information.
 
 The metadata node in the list is metadata provided by the data source.
 In general, Autoplot doesn't understand the metadata and simply provides
-it for reference by the user. However, if the data source also
+it for reference by the scientist. However, if the data source also
 identifies a "metadata model," this is indicated in parenthesis and
 Autoplot will use the metadata to get axis labels and ranges.
 
@@ -1255,7 +1255,7 @@ Note %{m;Y=2004} may be used instead.
 
 A number of places in Autoplot allow for implicit time range parsing.
 For example, typing "May 2014" on a time axis is interpreted as
-2014-05-01 through 2014-05-31. This allows users to easily convey intent
+2014-05-01 through 2014-05-31. This allows scientists to easily convey intent
 to the software without the burden of entering each field. This control
 is intended to be more informal, and to provide reasonable
 interpretations of how time ranges might be represented.
@@ -1466,7 +1466,7 @@ Autoplot's internal data model, [QDataSet](QDataSet.md "wikilink")). Some
 plug-in data sources have graphical (GUI) editors that make it easier to
 compose URIs. For these plug-ins, clicking the folder icon next to the
 address bar will launch the editor, otherwise the URI completions is
-used to provide the user with the available parameters.
+used to provide the scientist with the available parameters.
 
 For example, the ASCII Table reader URIs have the form
 
@@ -1491,7 +1491,7 @@ that, or a Jython script (.jyds) can be used to read the data.
 
 ### Discovery
 
-A discovery plug-in helps the user develop a valid URI to enter into the
+A discovery plug-in helps the scientist develop a valid URI to enter into the
 address bar.
 
 Discovery plug-ins are activated by entering their vap prefix (e.g.
@@ -1499,8 +1499,8 @@ vap+cdaweb:) into the address bar and are typically accessed using a GUI
 by selecting File&rarr;&quot;Add Plot From ...&quot;.
 
 In some cases, these plug-ins use knowledge of conventions used for the
-layout of a data bases to allow the user to browse all available data
-from a given data provider. In other cases, these plug-ins help the user
+layout of a data bases to allow the scientist to browse all available data
+from a given data provider. In other cases, these plug-ins help the scientist
 plot data from one or more data providers, data directories, and/or data
 files without having to enter a complex URI into the address bar.
 
