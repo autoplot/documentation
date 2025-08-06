@@ -168,4 +168,4 @@ fields.
     read in at once to return a rank 2 dataset.
 
 ## See Also
-See also [ascii_data_source.md].
+See also [ascii_data_source](ascii_data_source.md).
