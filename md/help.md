@@ -202,15 +202,6 @@ the year, second as the day of year, and third as hour of day. The
 keyword validMax means any value over 999 should be considered invalid,
 and a data break should be displayed.
 
-### PDS3 and PDS4 Files
-PDS3 Label files (with the extension .lbl) can be the target of the 
-URI, and the named quantities described by the label can be plotted.  PDS4
-XML files are detected (along with a few other data types in XML) and
-the named quantities are plotting as with PDS3.  Note the PDS4 library
-used has an odd dependence which is not found in Java 11 and newer,
-so only the .dmg, .exe, .deg, and .rpm releases can access this data.  This
-problem will be addressed at some time in the near future.
-
 ## Example URIs: Data Servers
 
 Some URIs refer to data coming from data servers rather than data files.
@@ -720,7 +711,7 @@ interactively.
 When a vector component is plotted, Operations simply identifies the
 component to plot, and this is implicitly the "|unbundle(c)" operation.
 
-The magnifying glass with three vertical bars (|||) icon enters a GUI
+The magnifying glass with three vertical bars icon (<img src="icons/pipeMag2.png">) enters a GUI
 that allows these to be adjusted. This allows several adjustments to be
 made at once, such as slicing the data then running the result through a
 histogram.
@@ -729,50 +720,14 @@ histogram.
 (|) character, it is a list of filters that are to be applied to the
 data. These filters include (for example):
 
-`|histogram` perform an "auto" histogram of the data that automatically
-sets bins.
-
-`|log10` take the base-10 log of the data.
-
-`|slice0(index)` slice the data on the zeroth dimension (often time) at
-the given index.
-
 `|slice1(index)` slice the data on the first dimension at the given
 index.
-
-`|collapse0` average over the zeroth dimension to reduce the
-dimensionality.
-
-`|transpose` transpose the rank 2 dataset.
 
 `|fftPower(size)` plot power spectrum by breaking waveform data in
 windows of length <em>size</em>.
 
 `|smooth(size)` boxcar average over the rank 1 data.
 
-`|diff` finite differences between adjacent elements in the rank 1 data.
-
-`|accum` running sum of the rank 1 data. (opposite of diff).
-
-`|grid` grid the rank2 buckshot but gridded data into a rank 2 table.
-
-`|flatten` flatten a rank 2 dataset. The result is a n,3 dataset of
-\[x,y,z\]. (opposite of grid)
-
-`|negate` flip the sign on the data.
-
-`|add(amount)` add a constant to the data. Note this can be datums like
-"15sec".
-
-`|multiply(amount)` multiply the data by add a constant.
-
-`|cos` cos of the data in radians. (No units check)
-
-`|sin` sin of the data in radians. (No units check)
-
-`|toDegrees` convert the data to degrees. (No units check)
-
-`|toRadians` convert the data to radians. (No units check)
 
 These filters can be chained together like so: `|slice1(10)|histogram`.
 The GUI in Autoplot v2015a contains a GUI for working with this string.
@@ -862,21 +817,18 @@ fit on the page.
 
 The state of the application, including information about the plot
 layout, labels, and data URIs that specify where data is loaded can be
-saved in a VAP file using "File \> Save As".
+saved in a "VAP" (Virbo AutoPlot) file using "File \> Save As".
 
 A VAP file does not contain the data used to produce the plot, but only
-references (URIs) to it<sup>+</sup>. To save data along with a VAP file,
+references (URIs) to it.  It's important to note that local file references
+will not work on others' computers.  To save data along with a VAP file,
 select "Embed Data" when saving. The file created is a zip file
 containing the VAP and the data required to display the VAP. See
 [developer.vapzip](developer.vapzip.md "wikilink").
 
-<div style="font-size:85%">
+When a .vap is entered on the address bar, the whole application is reset to the new vap file settings. However, if File→"Add Plot From..." is used to access a vap, data URIs from within the vap are accessible.  (TODO: what happened to this feature?)
 
-<sup>+</sup>Note that if a VAP file has URIs to files on the local
-filesystem, the VAP will only work on systems with data in the same
-directory location.
-
-</div>
+Here is an example .vap file: https://autoplot.org/data/vap/fireworks.vap
 
 ## Time Ranges in VAP Files
 
@@ -1214,7 +1166,7 @@ Also, parenthesis can be used to modify fields. For example:
   - `$Y$m$d\_$H$M$S.$(milli;span=250)`
 
 See also
-<https://github.com/hapi-server/uri-templates/wiki/Specification>, which
+<https://github.com/uri-templates-time/uri-templates-time-code/wiki/Specification>, which
 includes a more complete description.
 
 
@@ -1236,8 +1188,8 @@ format, and then and parse strings to get timeranges or vice-versa.
 
 Example times:
 
-  - $Y-$m-$d 2010-06-23
-  - <file:///tmp/$Y$m$d.dat> <file:///tmp/20100623.dat>
+  - \$Y-\$m-\$d 2010-06-23
+  - file:///tmp/\$Y\$m\$d.dat file:///tmp/20100623.dat
 
 Field types (see [\#Wildcard\_codes](#wildcard-codes "wikilink") for
 full list and definitions):
@@ -1509,57 +1461,28 @@ see [Adding\_Data\_Sources](Adding_Data_Sources.md "wikilink").
 
 #### CDAWeb
 
-URI prefix: vap+cdaweb:
-
-<img src="image/addPlotFromCdaweb.png" width="200px" style="float: right; margin: 0 0 10px 10px;">
-
-The [CDAWeb group](https://cdaweb.gsfc.nasa.gov/) at
-[NASA/Goddard](https://gsfc.nasa.gov) provides a large volume of data in
-[CDF](https://cdf.gsfc.nasa.gov) files which Autoplot can read. This
-plug-in knows how to query the database to see what is available and
-provides a GUI for searching and filtering the list.
-
-<img src="image/cdawebPickDataset.png" width="250px" style="float: right; margin: 0 0 10px 10px;" alt="Accessing list of CDAWeb data from Autoplot.">
-  
-Then a dialog similar to the CDF data source editor is shown, allowing a 
-parameter to be picked:
-
-<img src="image/cdawebDataPick.png" width="250px" style="float: right; margin: 0 0 10px 10px;" alt="Picking variable from CDAWeb data.">
-
-Files covering the time range selected are downloaded and the parameter is plotted.
-Note the availability checkbox, which will (quickly) show where files containing 
-the data are found, instead of plotting data.
+The CDAWeb at NASA/Goddard has special services which organize and allow
+for discovery of datasets stored in CDF files.  [CDAWeb](Source_CDAWeb.md)
 
 #### Das2Server
 
-URI prefix: vap+das2server:
+[Das2 servers](Source_Das2Server.md) are used to supply data to Das2 applications for the University
+of Iowa's Plasma Wave Group and its collaborators.  It supports multi-resolution
+reads, so data is loaded at pixel resolution and finer resolutions as the scientist
+zooms into the data.
 
-Das2 servers are used to supply data to Das2 applications for the University
-of Iowa's Plasma
-Wave Group and its collaborators. Since Autoplot is a Das2 application,
-it's easy to make these data sets available for plotting in Autoplot.
-Data sources that identify an example range should
-work for this range, and they will be adding automated tests to ensure
-this.
+#### HAPI Servers
 
-<img src="das2ServerEditorPanel.png" width="300px" align="right">
-
-Note the Das2 Server sends data to Autoplot via das2streams or QStreams.
-
-##### parameters
-
-  - **\_res** explicitly set the data loading resolution, for example
-    \_res=10s will always request 10s data. This is confused with
-    "resolution" and is supported because resolution will be reset to
-    the axis resolution.
+[HAPI servers](Source_HAPI.md) were introduced around 2017 and are intended to be a useful
+data discovery and transfer system.  These servers always end in "hapi" so
+Autoplot recognizes any HAPI URL automatically.  []
 
 ## Formats Read
 
-The data source type is determined using the mime type in the HTTP
-headers; if the mime type is not specified, then the file extension is
-used. The data source type can be explicitly specified by prefixing the
+The data source type is determined by the extension of the file
+used (cdf for data.cdf). The data source type can be explicitly specified by prefixing the
 URI with "vap" plus an extension followed by a colon. For example:
-`vap+dat:`<https://autoplot.org/data/autoplot.asc> tells Autoplot to
+`vap+dat:https://autoplot.org/data/autoplot.asc` tells Autoplot to
 treat the data returned by this URI as ASCII table formatted.
 
 Once the data source type (most often the file format type) is
@@ -1573,240 +1496,17 @@ file or data stream can often be listed by clicking the folder icon to
 the right of the address bar, or by pressing Tab to trigger completions.
 
 ### ASCII Table
-
-The ASCII Table reader reads in a flat ASCII file with one record per
-line. Each line of the file is identified as a record or non-record.
-Autoplot URIs are the name of the ascii file and parameters that specify
-how to parse the file, listed below. A
-[GUI](help.md#ascii-editor "wikilink") is also provided that allows the URI
-to be created graphically. This does not provide access to all the
-available controls, but is much easier to use.
-
-  - extensions: .dat, .txt
-  - URI prefix: vap+dat, vap+txt
-  - example URLs:
-
-<ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_1963.dat?column=field17&timerange=1963>  
-<http://goes.ngdc.noaa.gov/data/avg/2004/A1050412.TXT?skip=23&timeFormat=$y$m$d+$H$M&column=E1&time=YYMMDD>  
-<ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_$Y.dat?column=field17&timerange=1963&timeFormat=$Y+$j+$H&time=field0&validMax=999>
-
-#### Parameters
-
-  - **fixedColumns** an optimized parser should be used since each row
-    of the file has a fixed column width. By default the row are split
-    into columns using a delimiter. The value may take several forms:
-      - value contains ",": specify column locations as in "0-10,20-34"
-      - value is int: specify the number of columns in each row. Actual
-        may be less.
-      - value is unspecified: the first row is split to determine the
-        column locations.
-  - **columnCount** override the number of columns.
-  - **column** identifies the field in each record to treat as the
-    dependent variable. By default the columns are named field0, field1,
-    field2, etc.
-  - **depend0** identifies a field as the independent variable.
-  - **rank2** when in the URL indicates that the dataset produced should
-    be a rank 2 dataset, and the number of fixed columns indicates the
-    number of elements per row. When the value contains a colon (:),
-    this indicates a range. The range is
-    <firstColumn>:<lastColumn exclusive> or
-    <firstColumn>-<lastColumn inclusive>.
-      - value may be empty, meaning use all columns
-      - 1: means the second row and up.
-      - \-5: means the last five rows.
-      - 20:24 means the four rows starting at the 21st row.
-      - field3:field6 three columns
-      - B\_x\_gsm-B\_z\_gsm three columns.
-  - **depend1Labels** indicates the first record contains the labels for
-    the rank 2 dataset. (<firstColumn>:<lastColumn exclusive>)
-  - **depend1Values** indicates the first record contains the values for
-    the rank 2 dataset (so it is displayed as a spectrogram).
-    (<firstColumn>:<lastColumn exclusive>)
-  - **skip** is an integer indicating the number of lines that should be
-    skipped before processing begins.
-  - **fill** is the number that indicates missing or fill data.
-  - **timeFormat** specifies the time format, based on the Unix `date`
-    command. "ISO8601" means the times are ISO8601 conforment, or use
-    template with fields from
-    [\#Wildcard\_codes](#wildcard-codes "wikilink").
-  - **time** specifies the field that is the time record. This also sets
-    the independent variable.
-  - **delim** identifies the delimiter character. By default, the first
-    record is inspected for commas, tabs and then whitespace.
-  - **comment** prefix string that indicates records to ignore.
-  - **fill** values to be treated as fill data.
-  - **where** constraint for the records, for example with a timerange
-    or containing a string.
-      - where=field2.lt(100)
-      - where=field2.eg(1)
-      - where=field2.eq(rbspa) ordinal data can be used with eq.
-      - where=field2.within(4+to+40)
-      - where=field2.matches(Heater+Status+(On%7COff)) The plus is
-        turned into a space, and %7C is a pipe character.
-  - **label** concise label for the data
-  - **title** one-line title for the data
-
-#### Coming with v2017a
-
-  - **X** **Y** **Z** Specify columns for X,Y,Z triples.
-
-#### Notes
-
-**column identifiers**
-
-Columns are referenced by field identifiers, and the reader will create
-valid identifiers when the header is not valid. So for example BX-GSM is
-BX\_GSM, etc. "field0" will always refer to the first column, etc.
-
-**range notation**
-
-Ranges of columns are specified for several keywords, such as
-depend1Labels and rank2. These are specified as follows:
-
-  - **1-3** columns 1 through 3
-  - **field1-field3** columns by generic field name
-  - **BX-BZ** columns by field name (BX and BZ are example column
-    identifiers, see notes above)
-  - **1:4** columns 1 through 3 (colon is exclusive to be consistent
-    with Jython, etc.)
-  - **-5:-1** last columns, but not the very last one.
-  - **-5:** last columns
-
-### Comma Separated Values
-
-Autoplot implements special handling needed for proper CSV files,
-supporting for example multi-line strings containing commas for quoted
-fields.
-
-#### Arguments
-
-  - **column=field4** which column to use as the dependent values
-  - **depend0=field1** which column to use as the independent values
-  - **skip=5** skip five lines before parsing
-  - **bundle1=:** as with the ascii table reader, bundles of data can be
-    read in at once to return a rank 2 dataset.
+ASCII Tables are easily-read file typically containing one record per line with fields separated by 
+commas or spaces.  [Source_ASCII.md](Source_ASCII.md)
 
 ### Binary table
-
 BinaryTableReader reads in datasets from binary files. Data are assumed
-to be in records of fixed-length.
+to be in records of fixed-length. [Source_Binary.md](Source_Binary.md)
 
-  - extension: .bin
-  - URI prefix: vap+bin
-  - example URI:
-    vap+bin:<file:///media/mini/data.backup/examples/bin/fromidl.bin?type=float&fieldCount=2&column=1>
-  - supports formatting: yes, rank 1 and 2, written out as doubles.
-  - parameters
-      - **byteOffset** int, number of bytes skip before reading the
-        data. default is 0.
-      - **byteLength** int, total number of bytes to read. default is
-        the content length.
-      - **recLength** int, the number of bytes per record.
-      - **recOffset** int, the byte offset into the record.
-      - **fieldCount** int, number of fields per record, when recLength
-        is not specified. default is 1.
-      - **column** int, field number for the dependent parameter, then
-        recOffset is not specified.
-      - **dims=\[48,64\]** int array, specify dimensions of rank 2 table
-        within each record.
-      - **rank2=:** string like ":" or "5:15" to specify the positions
-        to read in as table.
-      - **type** data type for the dependent parameter. double, float,
-        long, int, short, byte, ubyte. Default is ubyte.
-      - **depend0Offset** int, byte offset into each record for the
-        independent parameter.
-      - **depend0** int, field number for the independent parameter when
-        depend0Offset is not specified. Default is no independent
-        parameter and the byte offset is the independent parameter.
-      - **depend0Type** data type for the independent parameter. double,
-        float, long, int, short, byte.
-      - **byteOrder** data type byte order (endianness). little or big.
-        Default is little.
-      - **validMin**, double minimum valid value
-      - **validMax**, double, maximum valid value
-      - **recFormat**, string, format specifier for each record.
-          - "d,13f" 8-byte double followed by 13 (4-byte) floats
-          - "i,s,ub" int, short, unsigned byte
-          - "x,ub,ui" skip byte, unsigned byte, unsigned int
-
-#### Use-cases
-
-**Reverse engineer binary format** How to reverse engineer a binary file
-with the binary reader:
-
-  - Plot the data using the default 1-byte data.
-  - Look for the courser repeating pattern, which are probably records.
-    Timetags will typically identify records, because they are far from
-    zero. Set recLength= this length. rank2 can be used to look at each
-    records bytes in a spectrogram.
-  - Look for a repeating pattern. This implies a data type. For example,
-    if every fourth point is a peak, then try type=float. If the period
-    is 15 bytes long, then try to identify the data type of the first
-    field by using recLength=15\&type=float, recLength=15\&type=double,
-    etc. Once the first field's data type is appearent, it's easy to see
-    if the recLength is correct. Use recOffset to look at other bytes
-    within each record.
-  - If you're getting repeating data with large exponents, then try
-    byteOrder=big
-  - Once the byteOrder is determined, then it's much easier to identify
-    fields.
-  - Example where the query parameters were figured out by the above
-    approach:
-    [3](vap+bin:https://space.physics.uiowa.edu/plasma-wave/voyager/data/pra/v1790205?reportOffset=yes&rank2=6:262&recLength=528&type=ushort&byteOrder=big)
-
-**UTF16 to ASCII** Netbeans writes out a Unicode file of its output
-window using 16-bit unicode. (I could tell this because ascii values were interleaved with
-zeros.) `iconv` failed to convert the file, so I tried converting it
-with Autoplot:
-
-```
-ds= getDataSet('vap+bin:file:///tmp/output1249405460816')
-# skip every other record, skipping the zeroth record.
-ds2= ds[1::2]  
-# save it out as a binary stream.
-formatDataSet( ds2, 'vap+bin:file:///tmp/output1249405460816.txt?type=ubyte' )
-```
 ### CDF
+CDF files are binary files containing structural data allowing storage
+of named data arrays. [Source_CDF.md](Source_CDF.md)
 
-Reads in a variable from a [Common Data
-Format](https://cdf.gsfc.nasa.gov/) file.
-
-  - mime type: application/x-cdf-file (Note some servers advertise a
-    content type of application/x-netcdf.)
-  - extension: .cdf
-  - Example URL:
-    [4] vap+cdf:https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio
-  - Supports formatting: Yes, rank 1 and 2, though not yet ISTP
-    compliant.
-  - Parameters
-      - The parameter is the name of the cdf variable.
-      - If not specified, a list of possible variables is given.
-  - Wildcards and aggregation
-
-In the following, we tell autoplot that the file name has a four-digit
-year, a two-digit month, and a two-digit day. Then we ask it to plot
-data on the day 20000109 using the time wildcards described in
-[5](https://autoplot.org/autoplot/index.php/Main_Page#Wildcards_and_Aggregation).
-
-The first part of the url is
-
-<https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/>
-
-the file part of the url is
-
-```
-2000/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000101
-```
-to specify more than one day, use
-
-```
-2000/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000101 - 20000103 (end is not inclusive)
-```
-to allow access to data that crosses a year boundary, use
-
-```
-$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20001231 through 20010101
-```
 ### NcML
 
 NcML is an XML representation of netCDF metadata.
@@ -1828,51 +1528,13 @@ NcML is an XML representation of netCDF metadata.
   - Example URL:
     [7 https://autoplot.org/data/autoplot.xml](https://autoplot.org/data/autoplot.xml)
 
-### VAP
-
-**VAP**: a **V**iRBO **A**uto**p**lot files save the state of the
-application. This is just like a PowerPoint file which is your whole
-presentation, or an HTML document which is the whole page of a browser,
-this contains plot positions, data source references, and style
-settings.  
-
-It does not contain the data, though, by default.  Instead the URIs for
-each data source are within the file and loaded.  There is a checkbox when saving
-a .vap file to embed the data.  This will create a .vap.zip file, which contains
-both the .vap configuration and the data.
-
-Note if a data source URI is entered on the address bar, the whole
-application is reset to the new vap file settings. However, if File&rarr;&quot;Add
-Plot From..." is used to access a vap, data URIs from within the vap are
-accessible.
-
-  - Example URL:
-    [8 https://autoplot.org/data/vap/fireworks.vap](https://autoplot.org/data/vap/fireworks.vap)
 
 ### Das2Streams and QStreams
-
- Das2Streams and QStreams: Das2Streams are self-describing, streaming
-    format developed and used by the Plasma Wave Group at the University
-    of Iowa. "Streaming" is the requirement that at any point along the
-    stream, you have all the data you need have a valid and complete
-    stream. They are generally useful for serializing and deserializing
-    data in das2's internal data model, and Autoplot's QDataSet model.
-    The design goal is any dataset that can be represented in Autoplot
-    can be serialized into a das2Stream. "QStream" refers specifically
-    to a das2Stream with a QDataSet on it, and has the extension .qds.
-    Legacy das2Streams have a .d2s extension.
-  - Mime type: application/x-das2stream
-  - Extensions: .d2s .das2stream .qds
-  - Example URLs:
-    * [9 https://autoplot.org/data/proton_density.qds](https://autoplot.org/data/proton_density.qds)
-    * [10 https://autoplot.org/data/proton_velocity_rtn.qds](https://autoplot.org/data/proton_velocity_rtn.qds)
-  - Supports Formatting: yes, rank 1, 2, 3 to QStream
-  - parameters
-      - arg\_0 is the named parameter within the stream, if not
-        specified then default parameter is used.
-  - output parameters
-      - **type**
-          - **binary** means format to binary stream
+Das2Streams are self-describing, streaming
+format developed and used by the Plasma Wave Group at the University
+of Iowa.  QStreams were introduced for the RBSP mission and are a serial version of Autoplot's
+internal data model (QDataSet).  [This page](Source_Das2Stream_QStream.md) talks about this 
+in more depth.
 
 ### CEF File Reader
 
@@ -1981,37 +1643,9 @@ see sooner than later.
 
 ### Images
 
-This data source reads images using Java's ImageIO library. The images
-are mapped to a QDataSet internally.
-
-  - mime type:
-  - extension: .gif .jpg .png
-
-  - Example URL
-    [19](https://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale)
-
-  - Parameters
-      - **channel** specifies how components should be combined to
-        produce the rank 2 dataset.
-          - If channel is not specified, then a rank 3 dataset with
-            original image channels results.
-          - Example channels include:
-          - red, green, blue
-          - hue, saturation, value (brightness)
-          - greyscale is faster to calculate than value
-      - **plotInfo=0** grab the axis information from the richPng
-        metadata. See <https://autoplot.org/richPng>. (Note log=1 doesn't
-        work with 24-bit color images.)
-      - **xaxis=\[valmin,pixmin,valmax,pixmax\]** apply the axis
-        transform on the horizontal axis.
-      - **yaxis=\[valmin,pixmin,valmax,pixmax\]** apply the axis
-        transform on the vertical axis.
-      - **fog=90** apply 90% opaque fog to the image before displaying.
-      - **blur=5** apply a 5=pixel wide blur kernal
-      - **rotate=0** rotate the image clockwise degrees.
-
-Note images can be loaded onto the canvas using annotations as well.  This
-is how branding and provisional labels should be added to plots.
+PNG, JPG, and GIF images can be read in as data, which is useful for demonstrations and providing context.
+Additional controls like blur and fog can be added, and [Rich PNG metadata](richPng.md) can be used to 
+grab plots out of png files.  See [Source Images](Source_Images.md).
 
 ### Wav Files
 
@@ -2033,73 +1667,14 @@ Example URLs:
 ### Jython Files (jyds)
 
 Jython scripts can be used to create new datasets by combining other
-datasets. See also [https://autoplot.org/scripting
-scripting](https://autoplot.org/scripting_scripting "wikilink").
-
-  - extension: .jyds
-  - Example URLs:
-      - Plot the difference between two images:
-        [21 https://autoplot.org/data/imageDiff.jyds](https://autoplot.org/data/imageDiff.jyds)
-      - Read a complicated ASCII file and plot the result:
-        [22 https://github.com/autoplot/dev/blob/master/demos/jyds/wdc_kp_ap.jyds](https://github.com/autoplot/dev/blob/master/demos/jyds/wdc_kp_ap.jyds)
-      - Demonstrates time series browse:
-        [24 https://autoplot.org/data/tsbDemo.jyds](https://autoplot.org/data/tsbDemo.jyds)
-  - Parameters:
-      - <name>=<expr> defines parameters for use within the script.
-        Scripts use getParam method to get method parameters.
-      - <expr> after running the script, this expr is evaluated and
-        plotted. The default expression is "data".
-
-Example Script (/home/user/script.jyds):
-
-```
-amplitude= getParam( 'amp', 1.0, 'the amplitude of the waveform' )
-result= amplitude * sin( linspace( 0, PI*2, 100 ) )
-```
-This is called like so:
-
-```
-/home/user/script.jyds?amp=2
-```
-An editor is provided that will allow editing of the script, and when
-getParam( name, default, description, \[ constraints \] ) is used, an
-entry form is generated for the parameters.
-
-Note if the parameter "timerange" is used, then Autoplot will call the
-script with new time ranges as the time axis is adjusted.
-
-URIs can also use the resourceURI part to point to a resource that is
-parsed by the script, such as:
-
-`vap+jyds:https://www.ngdc.noaa.gov/stp/space-weather/geomagnetic-data/INDICES/KP_AP/2018?script=https://github.com/autoplot/dev/blob/master/demos/jyds/wdc_kp_ap.jyds`
-
-Here the "script=" switch points to the script. This is useful to define
-a parser for a file type, which allows aggregation to be used:
-
-`vap+jyds:https://www.ngdc.noaa.gov/stp/space-weather/geomagnetic-data/INDICES/KP_AP/$Y?script=https://github.com/autoplot/dev/blob/master/demos/jyds/wdc_kp_ap.jyds`
+datasets.  See [Source_jyds.md](Source_jyds.md).
 
 ### Inline
 
-Data and short jython commands can be embedded in a URI for
-demonstrations or quick-and-dirty annotations. An editor is
-automatically generated for scripts. Any parameter read from the
-getParam function will be provided in the GUI.
-
-  - extension (prefix): vap+inline:
-  - Example URIs:
-      - vap+inline:1,2;3,4;5,6;7,2;9,0 \# five 2-D points
-      - vap+inline:1,3;2,4 \# the points \[1,3\] and \[2,4\]
-      - vap+inline:ripples(100,100) \# demo function from jython support
-      - vap+inline:linspace(0,1,100),linspace(0,1,100),ripples(100,100)
-        \# jython expressions allowed
-      - vap+inline:ripples(100,100)+randn(100,100)/10 \# jython
-        expressions allowed
-      - vap+inline:ripples(100,100)+randn(100,100)/10\&RENDER\_TYPE=nnSpectrogram
-        \# specify QDataSet properties
-      - vap+inline:getDataSet('<https://autoplot.org/data/autoplot.ncml>')\&RENDER\_TYPE=nnSpectrogram
-        \# "decorate" other datasets (TODO: bugs when ? in URI)
-
-Note the data mash-up just creates an inline URI.
+Inline URIs allow data to be encoded directly into the URI, when there
+are just a few data points, or when simple Jython commands can be used to load
+and combine data. [Source_Inline.md](Source_Inline.md)  Inline URIs
+are used to implement the Mash Up Tool's combinations of data.
 
 ## PNGWalk Tool
 
