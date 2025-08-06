@@ -2180,7 +2180,7 @@ Example Script (/home/user/script.jyds):
 
 ```
 amplitude= getParam( 'amp', 1.0, 'the amplitude of the waveform' )
-data= amp * sin( linspace( 0, PI*2, 100 ) )
+result= amplitude * sin( linspace( 0, PI*2, 100 ) )
 ```
 This is called like so:
 
@@ -2197,10 +2197,12 @@ script with new time ranges as the time axis is adjusted.
 URIs can also use the resourceURI part to point to a resource that is
 parsed by the script, such as:
 
-`vap+jyds:file:///opt/project/cassini/new_hfr_level2_level3/2010_091_180/n2/P2010118.17?script=file:///home/jbf/project/cassini/jared/autoplot/readL2Files3.jyds`
+`vap+jyds:https://www.ngdc.noaa.gov/stp/space-weather/geomagnetic-data/INDICES/KP_AP/2018?script=https://github.com/autoplot/dev/blob/master/demos/jyds/wdc_kp_ap.jyds`
 
 Here the "script=" switch points to the script. This is useful to define
-a parser for a file type, which allows aggregation to be used.
+a parser for a file type, which allows aggregation to be used:
+
+`vap+jyds:https://www.ngdc.noaa.gov/stp/space-weather/geomagnetic-data/INDICES/KP_AP/$Y?script=https://github.com/autoplot/dev/blob/master/demos/jyds/wdc_kp_ap.jyds`
 
 ### Inline
 
