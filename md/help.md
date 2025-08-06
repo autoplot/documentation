@@ -1,3 +1,129 @@
+- [ Introduction](#-introduction)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+  - [Bookmarks](#bookmarks)
+  - [Navigation](#navigation)
+  - [Address Bar and URIs](#address-bar-and-uris)
+  - [Example URIs: Data Files](#example-uris-data-files)
+    - [CDF Files](#cdf-files)
+    - [ASCII Files](#ascii-files)
+    - [PDS3 and PDS4 Files](#pds3-and-pds4-files)
+  - [Example URIs: Data Servers](#example-uris-data-servers)
+    - [CDAWeb](#cdaweb)
+    - [HAPI Servers](#hapi-servers)
+    - [Das2Servers](#das2servers)
+  - [Interaction](#interaction)
+  - [Keyboard Shortcuts](#keyboard-shortcuts)
+  - [Key Menu Items](#key-menu-items)
+    - [File → URI History](#file--uri-history)
+    - [File → Export Data](#file--export-data)
+    - [Options → Auto → Autoranging](#options--auto--autoranging)
+    - [Bookmarks](#bookmarks-1)
+    - [Tools → PNGWalk](#tools--pngwalk)
+    - [Tools → Reload All Data](#tools--reload-all-data)
+    - [Tools → Manage and Browse](#tools--manage-and-browse)
+    - [Tools → Additional Operations](#tools--additional-operations)
+    - [Tools → Cache](#tools--cache)
+      - [ro\_cache.txt](#ro_cachetxt)
+    - [Tools → Events List](#tools--events-list)
+    - [Tools → Fix Layout](#tools--fix-layout)
+  - [Tabs](#tabs)
+    - [Axes](#axes)
+    - [Metadata](#metadata)
+    - [Style](#style)
+    - [Script](#script)
+    - [Console](#console)
+- [Adding Plots](#adding-plots)
+  - [Layout](#layout)
+    - [Plots](#plots)
+    - [Bindings](#bindings)
+    - [Plot Elements](#plot-elements)
+  - [Data](#data)
+  - [Script](#script-1)
+- [Modifying Layout](#modifying-layout)
+- [Saving Plots](#saving-plots)
+  - [Time Ranges in VAP Files](#time-ranges-in-vap-files)
+- [Reading Data Files](#reading-data-files)
+  - [Reading ASCII](#reading-ascii)
+    - [Header tab: identify records and non-records](#header-tab-identify-records-and-non-records)
+    - [Times tab: specify how times are parsed](#times-tab-specify-how-times-are-parsed)
+    - [Data tab: identify data to plot and interdependence](#data-tab-identify-data-to-plot-and-interdependence)
+  - [Reading CDF](#reading-cdf)
+    - [Select variable parameter](#select-variable-parameter)
+    - [Advanced Sub-panel](#advanced-sub-panel)
+- [Exporting Data](#exporting-data)
+  - [Use within scripts](#use-within-scripts)
+  - [Formats Supported](#formats-supported)
+    - [.idlsav](#idlsav)
+    - [.mat](#mat)
+    - [.das2stream](#das2stream)
+    - [.dat .txt (ascii tables)](#dat-txt-ascii-tables)
+    - [.nc (NetCDF)](#nc-netcdf)
+    - [.cdf](#cdf)
+    - [.wav](#wav)
+    - [.hapi](#hapi)
+- [Forming URIs](#forming-uris)
+  - [Aggregation](#aggregation)
+    - [Aggregation GUI](#aggregation-gui)
+    - [Wildcard codes](#wildcard-codes)
+  - [Time Parsing / Formatting](#time-parsing--formatting)
+    - [Automatic Time Parsing](#automatic-time-parsing)
+- [Cookbook](#cookbook)
+- [Advanced Topics](#advanced-topics)
+  - [Granny Strings](#granny-strings)
+  - [TimeSeriesBrowse and other Capabilities](#timeseriesbrowse-and-other-capabilities)
+    - [TimeSeriesBrowse](#timeseriesbrowse)
+    - [Updating](#updating)
+  - [Caching](#caching)
+  - [Failsafe Installation](#failsafe-installation)
+    - [Windows](#windows)
+    - [Linux and OS-X](#linux-and-os-x)
+    - [32bit JVMs](#32bit-jvms)
+    - [Errors](#errors)
+  - [Plug-ins](#plug-ins)
+    - [Data Sources](#data-sources)
+    - [Discovery](#discovery)
+      - [CDAWeb](#cdaweb-1)
+      - [Das2Server](#das2server)
+        - [parameters](#parameters)
+  - [Formats Read](#formats-read)
+    - [ASCII Table](#ascii-table)
+      - [Parameters](#parameters-1)
+      - [Coming with v2017a](#coming-with-v2017a)
+      - [Notes](#notes)
+    - [Comma Separated Values](#comma-separated-values)
+      - [Arguments](#arguments)
+    - [Binary table](#binary-table)
+      - [Use-cases](#use-cases)
+    - [CDF](#cdf-1)
+    - [NcML](#ncml)
+    - [SPASE](#spase)
+    - [VAP](#vap)
+    - [Das2Streams and QStreams](#das2streams-and-qstreams)
+    - [CEF File Reader](#cef-file-reader)
+    - [netCDF file reader](#netcdf-file-reader)
+    - [HDF5 (HDF) files](#hdf5-hdf-files)
+    - [OPeNDAP](#opendap)
+    - [Excel Spreadsheet](#excel-spreadsheet)
+    - [TSDS](#tsds)
+    - [FITS](#fits)
+    - [Images](#images)
+    - [Wav Files](#wav-files)
+    - [Jython Files (jyds)](#jython-files-jyds)
+    - [Inline](#inline)
+  - [PNGWalk Tool](#pngwalk-tool)
+  - [Run Batch Tool](#run-batch-tool)
+  - [Annotations](#annotations)
+  - [Axis Autorange Hints](#axis-autorange-hints)
+  - [Managing the Cache](#managing-the-cache)
+    - [Data Providers](#data-providers)
+      - [ro\_cache.txt](#ro_cachetxt-1)
+      - [keychain.txt](#keychaintxt)
+- [Server Mode](#server-mode)
+- [Abbreviations](#abbreviations)
+- [Logging](#logging)
+
+
 # <span id="intro"></span> Introduction
 
 Autoplot is an interactive browser for data on the web. In the same way
@@ -1268,7 +1394,9 @@ spacecraft, and intervals can be created with "orbit:SCID:ORBITID" where
 SCID is the spacecraft and ORBITID identifies one of its orbits. For
 example, orbit:rbspa-pp:4 refers to orbit 4 of the RBSP-A spacecraft,
 which is the time range 2012-08-31 12:13 to 21:12. The "select time
-range" GUI has a tab to create time ranges of this type.
+range" GUI has a tab to create time ranges of this type.  See 
+https://github.com/das-developers/das2meta/tree/main/orbits, and let us
+know if you have additional spacecraft orbit numbers you would like to add.
 
 Here are a number of entries and their interpretations:
 
@@ -1349,7 +1477,7 @@ list includes:
 ## TimeSeriesBrowse and other Capabilities
 
 Autoplot allows each data source to advertise additional capabilities
-beyond data loading. For example, the most commonly used capability is
+beyond data loading. The most commonly used capability is
 TimeSeriesBrowse.
 
 ### TimeSeriesBrowse
@@ -1372,6 +1500,9 @@ supports time series browse:
 ```
 vap+cdaweb:ds=PO_K0_EFI&id=POTENT&timerange=2000-01-01
 ```
+
+When a .jyds script has the argument "timerange", it will also have TimeSeriesBrowse.
+
 ### Updating
 
 Data sources can provide other capabilities, such as updating. This
@@ -1428,8 +1559,8 @@ java -Xmx4G -jar autoplot.jar
 
 On the command line, download Autoplot using either wget or curl:
 
-`wget&nbsp;-N&nbsp;`&lt;https://autoplot.org/jnlp/latest/autoplot.jar&gt;  
-`curl&nbsp;-O&nbsp;`&lt;https://autoplot.org/jnlp/latest/autoplot.jar&gt;
+`wget -N https://autoplot.org/jnlp/latest/autoplot.jar`
+`curl -O https://autoplot.org/jnlp/latest/autoplot.jar`
 
 and then start it with
 
@@ -1438,7 +1569,7 @@ java -jar autoplot.jar
 ```
 Note that IcedTea/OpenJDK versions of Java may work, but we recommend
 using Oracle's version of Java
-[2](http://www.java.com/en/download/index.jsp).
+[2 https://www.java.com/en/download/manual.jsp](https://www.java.com/en/download/manual.jsp).
 
 To launch Autoplot with more memory, use
 
@@ -1448,18 +1579,7 @@ java -Xmx16G -jar autoplot.jar
 ### 32bit JVMs
 
 A 32 bit JVM can be used, but it must be run with 1GB of memory or less.
-A 64bit JVM is recommended.
-
-### Errors
-
-Sometimes updates in Autoplot's dependencies cause this error:
-
-```
-Unsigned application requesting unrestricted access ...
-```
-To fix, start `javaws -viewer` and delete all CDF and Autoplot
-applications and then delete all CDF and Autoplot resources. Web Start
-is touchy software and resetting things almost always seems to help.
+A 64 bit JVM is recommended.
 
 ## Plug-ins
 
@@ -1517,13 +1637,7 @@ see [Adding\_Data\_Sources](Adding_Data_Sources.md "wikilink").
 
 URI prefix: vap+cdaweb:
 
-![Accessing list of CDAWeb data from Autoplot.](cdaweb.png
-"Accessing list of CDAWeb data from Autoplot.")
-
-![(Click image to expand.) Autoplot's listing of data from CDAWeb that
-is shown when selecting `File&rarr;Add Plot From&rarr;CDAWeb` or by clicking this
-\[<https://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\] ](CDAWebDB.png
-&quot;(Click image to expand.) Autoplot's listing of data from CDAWeb that is shown when selecting File&rarr;Add Plot From&rarr;CDAWeb or by clicking this [https://autoplot.org/autoplot.jnlp?vap+cdaweb: link] &quot;)
+<img src="image/addPlotFromCdaweb.png" width="200px" style="float: right; margin: 0 0 10px 10px;">
 
 The [CDAWeb group](https://cdaweb.gsfc.nasa.gov/) at
 [NASA/Goddard](https://gsfc.nasa.gov) provides a large volume of data in
@@ -1531,33 +1645,32 @@ The [CDAWeb group](https://cdaweb.gsfc.nasa.gov/) at
 plug-in knows how to query the database to see what is available and
 provides a GUI for searching and filtering the list.
 
-To see the list,
-
-  - Click this \[<https://autoplot.org/autoplot.jnlp?vap+cdaweb>: link\]
-    to start Autoplot with the list shown, or
-  - in Autoplot, select `File`&rarr;`Add Plot From`&rarr;`CDAWeb` as shown in the
-    top image to the right.
-
+<img src="image/cdawebPickDataset.png" width="250px" style="float: right; margin: 0 0 10px 10px;" alt="Accessing list of CDAWeb data from Autoplot.">
   
+Then a dialog similar to the CDF data source editor is shown, allowing a 
+parameter to be picked:
 
-#### das2server
+<img src="image/cdawebDataPick.png" width="250px" style="float: right; margin: 0 0 10px 10px;" alt="Picking variable from CDAWeb data.">
+
+Files covering the time range selected are downloaded and the parameter is plotted.
+Note the availability checkbox, which will (quickly) show where files containing 
+the data are found, instead of plotting data.
+
+#### Das2Server
 
 URI prefix: vap+das2server:
-![das2ServerEditorPanel.png](das2ServerEditorPanel.png
-"das2ServerEditorPanel.png")
 
-Das2 servers are used to supply data to Das2 applications for the Plasma
+Das2 servers are used to supply data to Das2 applications for the University
+of Iowa's Plasma
 Wave Group and its collaborators. Since Autoplot is a Das2 application,
 it's easy to make these data sets available for plotting in Autoplot.
-Note quite a few of these IDs were introduced for small studies and no
-longer work. The group is working to add additional metadata to identify
-working products. Data sources that identify an example range should
+Data sources that identify an example range should
 work for this range, and they will be adding automated tests to ensure
 this.
 
-Note the Das2 Server sends data to Autoplot via das2streams or QStreams.
+<img src="das2ServerEditorPanel.png" width="300px" align="right">
 
-  
+Note the Das2 Server sends data to Autoplot via das2streams or QStreams.
 
 ##### parameters
 
@@ -1825,7 +1938,7 @@ $Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20001231
 NcML is an XML representation of netCDF metadata.
 
   - Example URL:
-    [6](https://autoplot.org/autoplot.jnlp?https://autoplot.org/data/autoplot.ncml?skt_surface)
+    [6](https://autoplot.org/data/autoplot.ncml?skt_surface)
 
 ### SPASE
 
@@ -1839,7 +1952,7 @@ NcML is an XML representation of netCDF metadata.
 <!-- end list -->
 
   - Example URL:
-    [7](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/autoplot.xml)
+    [7 https://autoplot.org/data/autoplot.xml](https://autoplot.org/data/autoplot.xml)
 
 ### VAP
 
@@ -1847,7 +1960,12 @@ NcML is an XML representation of netCDF metadata.
 application. This is just like a PowerPoint file which is your whole
 presentation, or an HTML document which is the whole page of a browser,
 this contains plot positions, data source references, and style
-settings.
+settings.  
+
+It does not contain the data, though, by default.  Instead the URIs for
+each data source are within the file and loaded.  There is a checkbox when saving
+a .vap file to embed the data.  This will create a .vap.zip file, which contains
+both the .vap configuration and the data.
 
 Note if a data source URI is entered on the address bar, the whole
 application is reset to the new vap file settings. However, if File&rarr;&quot;Add
@@ -1855,11 +1973,11 @@ Plot From..." is used to access a vap, data URIs from within the vap are
 accessible.
 
   - Example URL:
-    [8](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/autoplot.vap)
+    [8 https://autoplot.org/data/vap/fireworks.vap](https://autoplot.org/data/vap/fireworks.vap)
 
 ### Das2Streams and QStreams
 
-  - Das2Streams and QStreams: Das2Streams are self-describing, streaming
+ Das2Streams and QStreams: Das2Streams are self-describing, streaming
     format developed and used by the Plasma Wave Group at the University
     of Iowa. "Streaming" is the requirement that at any point along the
     stream, you have all the data you need have a valid and complete
@@ -1872,8 +1990,8 @@ accessible.
   - Mime type: application/x-das2stream
   - Extensions: .d2s .das2stream .qds
   - Example URLs:
-    [9](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/proton_density.qds)
-    [10](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/proton_velocity_rtn.qds)
+    * [9 https://autoplot.org/data/proton_density.qds](https://autoplot.org/data/proton_density.qds)
+    * [10 https://autoplot.org/data/proton_velocity_rtn.qds](https://autoplot.org/data/proton_velocity_rtn.qds)
   - Supports Formatting: yes, rank 1, 2, 3 to QStream
   - parameters
       - arg\_0 is the named parameter within the stream, if not
@@ -1884,24 +2002,24 @@ accessible.
 
 ### CEF File Reader
 
-Reads data in the [Cluster Exchange
-Format](http://www.space-plasma.qmw.ac.uk/csds/welcome.html) CEF for
-Cluster. This is experimental, but should work fine for at least 1-D
-data.
+Reads data in the Cluster Exchange
+Format for the ESA Cluster mission.  This is similar to a
+CDF file, but is entirely text-based.
 
   - Example URL:
-    [11](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/C1_CP_CIS-CODIF_HS_H1_PSD__20010226_050000_20010226_061000_V070529.cef?3d_ions__C1_CP_CIS-CODIF_HS_H1_PSD)
+    [11 https://autoplot.org/data/C1_CP_CIS-CODIF_HS_H1_PSD__20010226_050000_20010226_061000_V070529.cef?3d_ions__C1_CP_CIS-CODIF_HS_H1_PSD](https://autoplot.org/data/C1_CP_CIS-CODIF_HS_H1_PSD__20010226_050000_20010226_061000_V070529.cef?3d_ions__C1_CP_CIS-CODIF_HS_H1_PSD)
 
 ### netCDF file reader
 
 Reads in a variable from a
-[netCDF](http://www.unidata.ucar.edu/software/netcdf/) file.
+[netCDF](https://www.unidata.ucar.edu/software/netcdf/) file.
 
   - mime type: application/x-netcdf
   - extension: .nc, .ncml, .hdf5, .h5
   - Example URL (described on the [unidata web
-    page](http://www.unidata.ucar.edu/software/netcdf/examples/files.html)):
-    [12](https://autoplot.org/jnlp.cgi?http://www.unidata.ucar.edu/software/netcdf/examples/tos_O1_2001-2002.nc?tos)
+    page](https://www.unidata.ucar.edu/software/netcdf/examples/files.html)):
+    * [12 http://www.unidata.ucar.edu/software/netcdf/examples/tos_O1_2001-2002.nc?tos](http://www.unidata.ucar.edu/software/netcdf/examples/tos_O1_2001-2002.nc?tos)
+    * [13 https://www.unidata.ucar.edu/software/netcdf/examples/test_echam_spectral.nc?aclcac](https://www.unidata.ucar.edu/software/netcdf/examples/test_echam_spectral.nc?aclcac)
   - parameters
       - The parameter is the name of the netcdf variable.
       - If not specified, a list of possible variables is given.
@@ -1928,7 +2046,7 @@ may be requested.
   - mime type:
   - extensions: .dds and .dods
   - Example URL:
-    [13](https://autoplot.org/jnlp.cgi?http://cdaweb.gsfc.nasa.gov/cgi-bin/opendap/nph-dods/istp_public/data/genesis/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density)
+    [13](http://cdaweb.gsfc.nasa.gov/cgi-bin/opendap/nph-dods/istp_public/data/genesis/3dl2_gim/2003/genesis_3dl2_gim_20030501_v01.cdf.dds?Proton_Density)
   - Parameters
       - The parameter following the question mark is the name of the
         OPeNDAP variable. If not specified, a list of possible variables
@@ -1958,14 +2076,17 @@ POI](http://poi.apache.org/).
       - **sheet** is the name of the sheet within the workbook to read.
       - **recCount** limit the number of records to read.
 
+Note .xlsx files cannot be read presently.  This could probably be enabled with
+a newer library.
+
 ### TSDS
 
-Data is read from a [TSDS](http://tsds.net) server.
+Data is read from a [TSDS](http://tsds.net) server.  Note this server type is no longer in use.
 
   - Mime type:
   - Extension: tsds (use vap+tsds:<http://>...)
   - Example URL:
-    [15](https://autoplot.org/jnlp.cgi?vap+tsds:http://timeseries.org/get.cgi?StartDate=20030301&EndDate=20030401&ext=bin&out=tsml&ppd=1440&param1=OMNI_OMNIHR-26-v0)
+    [15](vap+tsds:http://timeseries.org/get.cgi?StartDate=20030301&EndDate=20030401&ext=bin&out=tsml&ppd=1440&param1=OMNI_OMNIHR-26-v0)
   - parameters
       - None
   - Dependencies
@@ -1974,29 +2095,26 @@ Data is read from a [TSDS](http://tsds.net) server.
 ### FITS
 
 Flexible Image Transport System
-[16](http://fits.gsfc.nasa.gov/fits_intro.html). This is using a library
-that limits what it can access. Soon a new implementation will enable
-more data sources.
+[16 http://fits.gsfc.nasa.gov/fits_intro.html](http://fits.gsfc.nasa.gov/fits_intro.html). This is using a library
+that limits what it can access.  An alternate library is available which should enable reading
+from more FITS sources, but this is a low priority.  Email if this is something you would like to
+see sooner than later.
 
   - extension: .fits .fts
   - Example URLs:
-    [17](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/hsi_qlimg_5050601_001.fits)
-    [18](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/hsi_fsimg_5050612_001.fits)
+    * [17 https://autoplot.org/data/hsi_qlimg_5050601_001.fits](https://autoplot.org/data/hsi_qlimg_5050601_001.fits)
+    * [18 https://autoplot.org/data/hsi_fsimg_5050612_001.fits](https://autoplot.org/data/hsi_fsimg_5050612_001.fits)
 
 ### Images
 
-This data source reads images using java's ImageIO library. The images
+This data source reads images using Java's ImageIO library. The images
 are mapped to a QDataSet internally.
 
   - mime type:
   - extension: .gif .jpg .png
 
-<!-- end list -->
-
   - Example URL
-    [19](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale)
-
-<!-- end list -->
+    [19](https://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale)
 
   - Parameters
       - **channel** specifies how components should be combined to
@@ -2018,6 +2136,9 @@ are mapped to a QDataSet internally.
       - **blur=5** apply a 5=pixel wide blur kernal
       - **rotate=0** rotate the image clockwise degrees.
 
+Note images can be loaded onto the canvas using annotations as well.  This
+is how branding and provisional labels should be added to plots.
+
 ### Wav Files
 
 Plots the waveform within wav files.
@@ -2027,8 +2148,7 @@ Plots the waveform within wav files.
     seconds or UT time.
 
 Example URLs:
-[20](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/trainMono.wav)
-See also [\#Multiple\_plot\_panels](#multiple-plot-panels "wikilink")
+[20 https://autoplot.org/data/trainMono.wav](https://autoplot.org/data/trainMono.wav)
 
   - Parameters:
       - **channel** the channel to plot (by default, only the 0th
@@ -2045,13 +2165,11 @@ scripting](https://autoplot.org/scripting_scripting "wikilink").
   - extension: .jyds
   - Example URLs:
       - Plot the difference between two images:
-        [21](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/imageDiff.jyds)
+        [21 https://autoplot.org/data/imageDiff.jyds](https://autoplot.org/data/imageDiff.jyds)
       - Read a complicated ASCII file and plot the result:
-        [22](https://autoplot.org/autoplot.jnlp?https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src//wdc_kp_ap.jyds)
-      - More examples:
-        [23](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/trunk/JythonDataSource/src/)
+        [22 https://github.com/autoplot/dev/blob/master/demos/jyds/wdc_kp_ap.jyds](https://github.com/autoplot/dev/blob/master/demos/jyds/wdc_kp_ap.jyds)
       - Demonstrates time series browse:
-        [24](https://autoplot.org/jnlp.cgi?https://autoplot.org/data/tsbDemo.jyds)
+        [24 https://autoplot.org/data/tsbDemo.jyds](https://autoplot.org/data/tsbDemo.jyds)
   - Parameters:
       - <name>=<expr> defines parameters for use within the script.
         Scripts use getParam method to get method parameters.
@@ -2104,6 +2222,8 @@ getParam function will be provided in the GUI.
         \# specify QDataSet properties
       - vap+inline:getDataSet('<https://autoplot.org/data/autoplot.ncml>')\&RENDER\_TYPE=nnSpectrogram
         \# "decorate" other datasets (TODO: bugs when ? in URI)
+
+Note the data mash-up just creates an inline URI.
 
 ## PNGWalk Tool
 
@@ -2166,25 +2286,6 @@ facilities and use them at your own risk\!
 [developer.headless](developer.headless.md "wikilink") talks about this
 more.
 
-## Applet
-
-  - The Applet mode is no longer supported \*
-
-The Autoplot applet requires Java 1.7 or higher and that your browser
-has Java enabled. The applet typically takes less than 2 seconds to load
-if the background pre-loading is successful. If the background
-pre-loading is not successful, the applet will take about 10 seconds to
-load the first time.
-
-If you are having problems starting the applet, see the [Applet
-Guide](applet_guide "wikilink") or ask for help by sending an email to
-the Autoplot forum at <http://groups.google.com/group/autoplot>.
-
-The Autoplot applet has a number of features that are disabled, due to
-security restrictions enforced by web browsers. When using the applet,
-you cannot save data to disk or save a pdf or png file of your image.
-For more information on Java applets, see
-<http://en.wikipedia.org/wiki/Applet> or <http://java.sun.com/applets/>.
 
 # Server Mode
 
