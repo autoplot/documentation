@@ -19,8 +19,8 @@ images, from other groups' image walks, to test output and vacation
 pictures. The files need not be pngs either, .gif and .jpg files will
 work as well. To look at another group's walk, point the PNG Walk Viewer
 to either a templated file location like
-<http://autoplot.org/data/pngwalk/product_$Y$m$d.png> or simply a
-wildcard like `http://autoplot.org/data/pngwalk/product_*.png`. The PNG
+<https://autoplot.org/data/pngwalk/product_$Y$m$d.png> or simply a
+wildcard like `https://autoplot.org/data/pngwalk/product_*.png`. The PNG
 Walk Viewer will look for Autoplot features, like a folder called
 "thumbs400" where thumbnails can be loaded quickly.
 
@@ -44,7 +44,7 @@ creating the PNGWalk.
 **Time Format** is the format used to label each image. Note this
 implies the interval covered by each image, so $Y$m$d will be daily
 files. See
-<https://github.com/hapi-server/uri-templates/wiki/Specification#user-content-Full_List_of_Field_Codes>
+<[https://github.com/hapi-server/uri-templates/wiki/Specification#user-content-Full_List_of_Field_Codes](https://github.com/uri-templates-time/uri-templates-time-code/wiki/Specification#user-content-Full_List_of_Field_Codes)>
 
 **Version** if specified, then a version string will be added.
 
@@ -95,31 +95,36 @@ For example, mission operations runs the pngs for their data products
 nightly, so the scientists they serve can easily check that data is
 coming in.
 
-`curl&nbsp;-O&nbsp;`&lt;http://autoplot.org/jnlp/latest/autoplot.jar&gt;  
 ```
+wget -N https://autoplot.org/latest/autoplot.jar
 java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.pngwalk.CreatePngWalk
 ```
 Roughly the same controls are available, but in command line form. They
 are:
 
 ```
-spot5> java -cp local/autoplot/autoplot.jar org.autoplot.pngwalk.CreatePngWalk
-CreatePngWalk 20160610
+spot10> java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.pngwalk.CreatePngWalk
+CreatePngWalk 20200819
 Usage: CreatePngWalk 
-  -f, --timeFormat=    timeformat for png files, e.g. $Y is year, $j is day of year 
-  -r, --timeRange=     time range to cover, e.g. 2011 through 2012 
-  -b, --batchUri=  optionally provide list of timeranges 
-  --batchUriName=  use $o to use the filename in the batch file 
-  -t, --createThumbs=  create thumbnails, y (default) or n 
-  -n, --product=   product name in each filename (default=product) 
-  -o, --outputFolder=  location of root of pngwalk 
-  --outputFormat=  output format png or pdf 
-  -v, --vap=   vap file or URI to plot (required)
-  --rescalex=  rescale factor, such as '0%-1hr,100%+1hr', to provide context to each image 
-  --version=   additional version string to add to each filename, like v1.0 
-  --autorange      rerange dependent dimensions Y and Z
-  --autorangeFlags     if true, then check each axis' autorange property, and only autorange if this is set to true.
-  --update     only calculate missing images
+  --timeFormat=, -f= 	timeformat for png files, e.g. $Y is year, $j is day of year 
+  --timeRange=, -r= 	time range to cover, e.g. 2011 through 2012 
+  --batchUri=, -b= 	optionally provide list of timeranges 
+  --batchUriName= 	use $o to use the filename in the batch file 
+  --createThumbs=, -t= 	create thumbnails, y (default) or n 
+  --product=, -n= 	product name in each filename (default=product) 
+  --outputFolder=, -o= 	location of root of pngwalk 
+  --outputFormat= 	output format png or pdf 
+  --vap=, -v= 	vap file to plot 
+  --uri=, -u= 	single URI plotted 
+  --rescalex= 	rescale factor, such as '0%-1hr,100%+1hr', to provide context to each image 
+  --version= 	additional version string to add to each filename, like v1.0 
+  --autorange  	rerange dependent dimensions Y and Z
+  --autorangeFlags  	only autorange axes with autorange=true
+  --update  	only calculate missing images
+  --removeNoData  	don't produce images which have no visible data.
+  --testException  	throw a runtime exception to test exit code
+
+One of the following needs to be specified: vap, uri
 ```
 # Browsing PNG Walks
 
@@ -127,10 +132,10 @@ The PNGWalk tool provides an efficient browser for sets of images.
 Designed for a series of pre-rendered plots, including those not created
 by Autoplot and even vacation pictures. It takes a template for the
 filenames, deriving the time coverage of each file. For example, if
-pointed to `http://autoplot.org/data/pngwalk/product_$Y$m$d.png`, it
+pointed to `https://autoplot.org/data/pngwalk/product_$Y$m$d.png`, it
 indicates the time covered by each png file. When a template cannot be
 made, a wildcard like \* can be used as well
-(`http://autoplot.org/data/pngwalk/product_*.png`), and in this case the
+(`https://autoplot.org/data/pngwalk/product_*.png`), and in this case the
 filenames are indicated.
 
 ![pngwalk.png](pngwalk.png "pngwalk.png")
@@ -148,7 +153,7 @@ Autoplot address bar will launch the PNGWalk Tool with the correct
 template. A .pngwalk file is also used to describe a set of files in a
 different location or even server.
 
-Rich PNGs are pngs that have additional metadata, indicating axis
+["Rich PNGs"](richPng.md "Rich PNGs") are pngs that have additional metadata, indicating axis
 information. When the image is clicked, the status message towards the
 bottom indicates the click location, in data coordinates. When the Rich
 PNG metadata is not available, the pixel coordinates are indicated.
@@ -163,8 +168,9 @@ The "View in Autoplot" button will be enabled when a .vap file has been
 embedded within the PNG Walk. It will be combined with the image time to
 launch Autoplot with the configuration used to create the image. As of
 v2022a\_3, when the "Run Batch" tool is used to create images, the
-script and the arguments are embedded within the .png and the "View in
-Autoplot" button will re-run the script.
+script and its arguments are embedded within the .png and the "View in
+Autoplot" button will re-run the script after verification from the 
+scientist.
 
 # .pngwalk Files
 
@@ -182,8 +188,3 @@ timeFormat  each files' time format identifier, like $Y$m$d.
 qcturl      the base for the quality control files.
 pwd         the web location of the .pngwalk, since they will be downloaded and put into arbitrary locations before passed to Autoplot.
 ```
-Autoplot uses the .pngwalk file to define how the pngwalk is to be
-loaded and controlled. The "View in Autoplot" button will be enabled
-when a .vap file corresponding to the .pngwalk can be found. Its
-location can be in several places:
-
