@@ -604,7 +604,7 @@ the current axis units (such as time or dimensionless). For example,
     numbers. When the axis has a physical unit, such as "m/s" the range
     can be qualified with a unit, as in "0 to 100 cm/s."
   - An automatic test showing example ranges is
-    [here](https://autoplot.svn.sourceforge.net/viewvc/autoplot/autoplot/trunk/VirboAutoplot/src/test/endtoend/Test026.java?view=markup).
+    [here](https://cottagesystems.com/jenkins/job/autoplot-test026/lastSuccessfulBuild/artifact/Test026.java).
 
 All labels support "Granny Strings," which has special codes, similar to
 those used in IDL, proposed by Grandel in Nystorm. For example, \!c
@@ -927,7 +927,7 @@ Another use case for scripting is to add new functionality to the GUI.
 Scripts that run in the application context can be added to the tools
 bookmarks, and will appear in the tools menu when the app is reloaded
 (or getViewWindow().reloadTools() is run). For example, run the script:
-<https://autoplot.org/data/tools/flashFocus.jy>. This will show the
+<https://github.com/autoplot/scripts/blob/master/flashFocus.jy>. This will show the
 script in a dialog with an execute button. (The scripts can do malicious
 things like delete files, so you must review the script\!) Note in the
 review dialog, that there's a checkbox to add to the tools menu. The new
