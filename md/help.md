@@ -1330,8 +1330,9 @@ file or data stream can often be listed by clicking the folder icon to
 the right of the address bar, or by pressing Tab to trigger completions.
 
 ### ASCII Table
-ASCII Tables are easily-read file typically containing one record per line with fields separated by 
-commas or spaces.  [Source_ASCII.md](Source_ASCII.md)
+<span id="ascii_main"></span>
+ASCII Tables are text files typically containing one record per line 
+with fields separated by commas or spaces.  [Source_ASCII.md](Source_ASCII.md)
 
 ### Binary table
 BinaryTableReader reads in datasets from binary files. Data are assumed
