@@ -44,7 +44,7 @@ creating the PNGWalk.
 **Time Format** is the format used to label each image. Note this
 implies the interval covered by each image, so $Y$m$d will be daily
 files. See
-<https://github.com/hapi-server/uri-templates/wiki/Specification#user-content-Full_List_of_Field_Codes>
+<[https://github.com/hapi-server/uri-templates/wiki/Specification#user-content-Full_List_of_Field_Codes](https://github.com/uri-templates-time/uri-templates-time-code/wiki/Specification#user-content-Full_List_of_Field_Codes)>
 
 **Version** if specified, then a version string will be added.
 
@@ -95,31 +95,36 @@ For example, mission operations runs the pngs for their data products
 nightly, so the scientists they serve can easily check that data is
 coming in.
 
-`curl&nbsp;-O&nbsp;`&lt;http://autoplot.org/jnlp/latest/autoplot.jar&gt;  
 ```
+wget -N http://autoplot.org/latest/autoplot.jar
 java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.pngwalk.CreatePngWalk
 ```
 Roughly the same controls are available, but in command line form. They
 are:
 
 ```
-spot5> java -cp local/autoplot/autoplot.jar org.autoplot.pngwalk.CreatePngWalk
-CreatePngWalk 20160610
+spot10> java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.pngwalk.CreatePngWalk
+CreatePngWalk 20200819
 Usage: CreatePngWalk 
-  -f, --timeFormat=    timeformat for png files, e.g. $Y is year, $j is day of year 
-  -r, --timeRange=     time range to cover, e.g. 2011 through 2012 
-  -b, --batchUri=  optionally provide list of timeranges 
-  --batchUriName=  use $o to use the filename in the batch file 
-  -t, --createThumbs=  create thumbnails, y (default) or n 
-  -n, --product=   product name in each filename (default=product) 
-  -o, --outputFolder=  location of root of pngwalk 
-  --outputFormat=  output format png or pdf 
-  -v, --vap=   vap file or URI to plot (required)
-  --rescalex=  rescale factor, such as '0%-1hr,100%+1hr', to provide context to each image 
-  --version=   additional version string to add to each filename, like v1.0 
-  --autorange      rerange dependent dimensions Y and Z
-  --autorangeFlags     if true, then check each axis' autorange property, and only autorange if this is set to true.
-  --update     only calculate missing images
+  --timeFormat=, -f= 	timeformat for png files, e.g. $Y is year, $j is day of year 
+  --timeRange=, -r= 	time range to cover, e.g. 2011 through 2012 
+  --batchUri=, -b= 	optionally provide list of timeranges 
+  --batchUriName= 	use $o to use the filename in the batch file 
+  --createThumbs=, -t= 	create thumbnails, y (default) or n 
+  --product=, -n= 	product name in each filename (default=product) 
+  --outputFolder=, -o= 	location of root of pngwalk 
+  --outputFormat= 	output format png or pdf 
+  --vap=, -v= 	vap file to plot 
+  --uri=, -u= 	single URI plotted 
+  --rescalex= 	rescale factor, such as '0%-1hr,100%+1hr', to provide context to each image 
+  --version= 	additional version string to add to each filename, like v1.0 
+  --autorange  	rerange dependent dimensions Y and Z
+  --autorangeFlags  	only autorange axes with autorange=true
+  --update  	only calculate missing images
+  --removeNoData  	don't produce images which have no visible data.
+  --testException  	throw a runtime exception to test exit code
+
+One of the following needs to be specified: vap, uri
 ```
 # Browsing PNG Walks
 
@@ -184,6 +189,6 @@ pwd         the web location of the .pngwalk, since they will be downloaded and 
 ```
 Autoplot uses the .pngwalk file to define how the pngwalk is to be
 loaded and controlled. The "View in Autoplot" button will be enabled
-when a .vap file corresponding to the .pngwalk can be found. Its
-location can be in several places:
+when a .vap file corresponding to the .pngwalk can be found.
+
 
