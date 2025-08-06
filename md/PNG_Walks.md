@@ -19,8 +19,8 @@ images, from other groups' image walks, to test output and vacation
 pictures. The files need not be pngs either, .gif and .jpg files will
 work as well. To look at another group's walk, point the PNG Walk Viewer
 to either a templated file location like
-<http://autoplot.org/data/pngwalk/product_$Y$m$d.png> or simply a
-wildcard like `http://autoplot.org/data/pngwalk/product_*.png`. The PNG
+<https://autoplot.org/data/pngwalk/product_$Y$m$d.png> or simply a
+wildcard like `https://autoplot.org/data/pngwalk/product_*.png`. The PNG
 Walk Viewer will look for Autoplot features, like a folder called
 "thumbs400" where thumbnails can be loaded quickly.
 
@@ -96,7 +96,7 @@ nightly, so the scientists they serve can easily check that data is
 coming in.
 
 ```
-wget -N http://autoplot.org/latest/autoplot.jar
+wget -N https://autoplot.org/latest/autoplot.jar
 java -Djava.awt.headless=true -cp autoplot.jar org.autoplot.pngwalk.CreatePngWalk
 ```
 Roughly the same controls are available, but in command line form. They
