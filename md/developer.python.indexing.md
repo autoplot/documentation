@@ -115,5 +115,5 @@ indicates the start or stop is implicitly 0 or length.
 Jeremy has started a script for the tests to verify this logic
 (/home/jbf/ct/autoplot/tests/weigel/PythonIndexing.jy).
 
-See <http://jfaden.net:8080/hudson/job/autoplot-test037/ws/indexing.jy>
+See https://cottagesystems.com/jenkins/job/autoplot-test037/lastSuccessfulBuild/artifact/indexing.jy
 
