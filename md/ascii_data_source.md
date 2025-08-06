@@ -117,10 +117,10 @@ also combining records to form times.
 
 The source code for further review is here:
 
-[AsciiParser.java](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/branches/autoplot2010/QDataSet/src/org/virbo/dsutil/AsciiParser.java),
+[AsciiParser.java](https://github.com/das-developers/das2java/blob/main/QDataSet/src/org/das2/qds/util/AsciiParser.java),
 the code that parses ascii tables.
 
-[AsciiTableDataSource.java](https://autoplot.svn.sourceforge.net/svnroot/autoplot/autoplot/branches/autoplot2010/DataSourcePack/src/org/virbo/ascii/AsciiTableDataSource.java)
+[AsciiTableDataSource.java](https://github.com/autoplot/autoplot/blob/main/DataSourcePack/src/org/autoplot/ascii/AsciiTableDataSource.java)
 the Autoplot plugin data source that wraps AsciiParser.java and provides
 parsing of dates when dates span multiple fields.
 
