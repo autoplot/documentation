@@ -132,10 +132,10 @@ The PNGWalk tool provides an efficient browser for sets of images.
 Designed for a series of pre-rendered plots, including those not created
 by Autoplot and even vacation pictures. It takes a template for the
 filenames, deriving the time coverage of each file. For example, if
-pointed to `http://autoplot.org/data/pngwalk/product_$Y$m$d.png`, it
+pointed to `https://autoplot.org/data/pngwalk/product_$Y$m$d.png`, it
 indicates the time covered by each png file. When a template cannot be
 made, a wildcard like \* can be used as well
-(`http://autoplot.org/data/pngwalk/product_*.png`), and in this case the
+(`https://autoplot.org/data/pngwalk/product_*.png`), and in this case the
 filenames are indicated.
 
 ![pngwalk.png](pngwalk.png "pngwalk.png")
@@ -153,7 +153,7 @@ Autoplot address bar will launch the PNGWalk Tool with the correct
 template. A .pngwalk file is also used to describe a set of files in a
 different location or even server.
 
-Rich PNGs are pngs that have additional metadata, indicating axis
+["Rich PNGs"](richPng.md "Rich PNGs") are pngs that have additional metadata, indicating axis
 information. When the image is clicked, the status message towards the
 bottom indicates the click location, in data coordinates. When the Rich
 PNG metadata is not available, the pixel coordinates are indicated.
@@ -168,8 +168,9 @@ The "View in Autoplot" button will be enabled when a .vap file has been
 embedded within the PNG Walk. It will be combined with the image time to
 launch Autoplot with the configuration used to create the image. As of
 v2022a\_3, when the "Run Batch" tool is used to create images, the
-script and the arguments are embedded within the .png and the "View in
-Autoplot" button will re-run the script.
+script and its arguments are embedded within the .png and the "View in
+Autoplot" button will re-run the script after verification from the 
+scientist.
 
 # .pngwalk Files
 
@@ -187,8 +188,3 @@ timeFormat  each files' time format identifier, like $Y$m$d.
 qcturl      the base for the quality control files.
 pwd         the web location of the .pngwalk, since they will be downloaded and put into arbitrary locations before passed to Autoplot.
 ```
-Autoplot uses the .pngwalk file to define how the pngwalk is to be
-loaded and controlled. The "View in Autoplot" button will be enabled
-when a .vap file corresponding to the .pngwalk can be found.
-
-
