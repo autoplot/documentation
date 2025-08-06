@@ -31,3 +31,44 @@ available, but the .rpm version has not been thoroughly tested.
 
 Autoplot will run on 32 bit Java 8, but memory will be limited to 1GB.  This
 is  done by using the single-jar release.
+
+## Failsafe Installation
+
+### Windows
+
+Download <https://autoplot.org/jnlp/latest/autoplot.jar> to your desktop
+and then double click it. Autoplot should launch if you have Java
+installed.
+
+Some versions of Java will run with limited memory (e.g. 192MB instead
+of 1GB), so check that this will be sufficient; if not, start using the
+command line using:
+
+```
+java -Xmx4G -jar autoplot.jar
+```
+### Linux and OS-X
+
+On the command line, download Autoplot using either wget or curl:
+
+`wget -N https://autoplot.org/jnlp/latest/autoplot.jar`
+`curl -O https://autoplot.org/jnlp/latest/autoplot.jar`
+
+and then start it with
+
+```
+java -jar autoplot.jar  
+```
+Note that IcedTea/OpenJDK versions of Java may work, but we recommend
+using Oracle's version of Java
+[2 https://www.java.com/en/download/manual.jsp](https://www.java.com/en/download/manual.jsp).
+
+To launch Autoplot with more memory, use
+
+```
+java -Xmx16G -jar autoplot.jar
+```
+### 32bit JVMs
+
+A 32 bit JVM can be used, but it must be run with 1GB of memory or less.
+A 64 bit JVM is recommended.
