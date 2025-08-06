@@ -1,40 +1,46 @@
-# CDF Files
+## Reading CDF
 
-Reads in a variable from a [Common Data
-Format](https://cdf.gsfc.nasa.gov/) file.
+CDF files are a special file format developed at NASA/Goddard and used
+to store data in a binary format, but with named parameters within the
+file. These parameters have metadata containing labels and units, but
+also indicating relationships between variables. Dependent parameters
+like "Density" are declared to be dependent on an independent parameter
+like "Time" or "Epoch." In this way the files store data in a more
+abstract form than ASCII and other file formats, and Autoplot can
+leverage this information.
 
-  - mime type: application/x-cdf-file (Note some servers advertise a
-    content type of application/x-netcdf.)
-  - extension: .cdf
-  - Example URL:
-    [4] vap+cdf:https://cdaweb.gsfc.nasa.gov/sp_phys/data/ace/swepam/level_2_cdaweb/swe_k0/2012/ac_k0_swe_20121229_v01.cdf?He_ratio
-  - Supports formatting: Yes, rank 1 and 2, though not yet ISTP
-    compliant.
-  - Parameters
-      - The parameter is the name of the cdf variable.
-      - If not specified, a list of possible variables is given.
-  - Wildcards and aggregation
+![cdfEditorPanel.jpg](cdfEditorPanel.jpg "cdfEditorPanel.jpg")
 
-In the following, we tell autoplot that the file name has a four-digit
-year, a two-digit month, and a two-digit day. Then we ask it to plot
-data on the day 20000109 using the time wildcards described in
-[5](https://autoplot.org/autoplot/index.php/Main_Page#Wildcards_and_Aggregation).
+### Select variable parameter
 
-The first part of the url is
+Select the variable to be plotted. Note when a parameter has components,
+such as a 3-component B-field, then individual components (Bz) can be
+plotted by opening the folder. This is the list of parameters that have
+been marked as "data" and not "support data" in the metadata. For
+example, the timetags variable "Epoch" is not shown. To see all
+parameters, select the "show all" checkbox.
 
-<https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/hyd_h0/>
+In the middle of the panel is information about the variable. These come
+from the CDF metadata "CATDESC" and "VAR\_NOTES". Minor problems found
+in the CDF may be indicated here, for example if two variables don't
+have the same number of records.
 
-the file part of the url is
+### Advanced Sub-panel
 
-```
-2000/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000101
-```
-to specify more than one day, use
+"Load subset" allows a subset of the records to be loaded. For example,
+0:100 will load just the first 100 records. ::2 will load every second
+record.
 
-```
-2000/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20000101 - 20000103 (end is not inclusive)
-```
-to allow access to data that crosses a year boundary, use
+"Only load data where" will load a second variable and filter the data
+when this condition is true. For example, "within" "1e0 to 1e9" will
+only load the FEDU data when HOPE\_ENERGY is with in this range. (TODO:
+make more useful example.)
 
-```
-$Y/po_h0_hyd_$Y$m$d_v01.cdf?ELECTRON_DIFFERENTIAL_ENERGY_FLUX&timerange=20001231 through 20010101
+"Interpret Metadata" allows non-conforming CDFs to be used. For example,
+a variable with poorly formed metadata cannot be plotted, and this
+allows these conventions to be ignored and data plotted.
+
+# X and Y panels
+The X and Y panels allow alternate variables to be used as tags for the data. 
+For example, the file might have L(T) and Density(T), but you can set "X"
+to be L(T) to get a Density vs L plot.

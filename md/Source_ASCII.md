@@ -1,12 +1,65 @@
-### ASCII Table
+## Reading ASCII
 
-The ASCII Table reader reads in a flat ASCII file with one record per
-line. Each line of the file is identified as a record or non-record.
-Autoplot URIs are the name of the ascii file and parameters that specify
-how to parse the file, listed below. A
-[GUI](help.md#ascii-editor "wikilink") is also provided that allows the URI
-to be created graphically. This does not provide access to all the
-available controls, but is much easier to use.
+An editor can be used to help develop a URI with the appropriate
+parameters for Autoplot to read and plot data in a ASCII file. The list
+of parameters that may be used in a URI is given
+[below](#ascii-table "wikilink"). A table is displayed showing how the
+reader would parse the file. Darker lines that are not broken into
+columns are lines identified as non-records, such as header lines.
+
+Details on how the ASCII table reader is implemented is described at
+[ascii\_data\_source](ascii_data_source.md "wikilink").
+
+
+[![YouTube video player](https://img.youtube.com/vi/TcR0jtxlWrw/0.jpg)](http://www.youtube.com/watch?v=TcR0jtxlWrw "YouTube video player")
+
+
+### Header tab: identify records and non-records
+
+Skip Lines: the number of lines to skip before attempting to parse
+records. Press "Select" then click on the first parseable line.  
+Comment Prefix: lines starting with this are treated as non-records.
+
+### Times tab: specify how times are parsed
+
+Time Format: format for interpreting times. For example, `$Y+$m+$d`
+means the first three fields are interpreted as year, month, and day
+separated by a space. `$Y$m$d` means the first field is an 8-digit date.
+Press "Select" and highlight the fields in one of the records. This will
+copy the fields up into the Time Format text field. Then in the text
+field, highlight each field and use the drop list to identify the field
+type. If the field is already ISO8601 compliant, a manual specification
+of the time format is not required. See
+[\#Wildcard\_codes](#wildcard-codes "wikilink") for a full list of time
+codes.
+
+Note that fractional times may be given in the ASCII file, e.g.,
+`$Y+$m+$d+$H` with
+
+```
+2014 01 02 12.5 -44.1
+```
+will be interpreted as a value of -44.1 at 12:30 on January 2nd, 2014.
+
+Note too that all times are implicitly UTC, and other timezones are not
+supported.
+
+### Data tab: identify data to plot and interdependence
+
+Column: the column to plot. Note if the first record is column labels,
+then these labels can be used to identify columns. Press "Select", then
+click on a field to select the column. If a several adjacent fields are
+selected, then a rank 2 table is plotted (e.g. as a spectrogram)
+
+Depends On: the column that tags the column to plot. This is the
+independent parameter upon which the dependent parameter depends. Press
+"Select" then click on the field to select the column.  
+Time checkbox: identify the "Depends On" as times.
+
+Data can also be exported as an ASCII tables. Presently data is
+formatted to a comma-separated-values (csv) file, and no formatting
+options are provided. Use Autoplot's &quot;File&rarr;Export Data&quot;, then select a
+file name with a .csv, .dat, or .txt extension.
 
   - extensions: .dat, .txt
   - URI prefix: vap+dat, vap+txt
@@ -17,6 +70,8 @@ available controls, but is much easier to use.
 <ftp://nssdcftp.gsfc.nasa.gov/spacecraft_data/omni/omni2_$Y.dat?column=field17&timerange=1963&timeFormat=$Y+$j+$H&time=field0&validMax=999>
 
 #### Parameters
+The GUI composes URIs, but for completeness the control parameters in ASCII
+URIs are described below.
 
   - **fixedColumns** an optimized parser should be used since each row
     of the file has a fixed column width. By default the row are split
