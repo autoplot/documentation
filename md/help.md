@@ -1339,6 +1339,7 @@ BinaryTableReader reads in datasets from binary files. Data are assumed
 to be in records of fixed-length. [Source_Binary.md](Source_Binary.md)
 
 ### CDF
+<span id="cdf_main"></span>
 CDF files are binary files containing structural data allowing storage
 of named data arrays. [Source_CDF.md](Source_CDF.md)
 
