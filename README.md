@@ -9,5 +9,5 @@ The [help](md/help.md) page is most useful for people getting started with Autop
 
 Some convenient links:
 * [https://github.com/autoplot/documentation/wiki/scripting]
-* [https://github.com/autoplot/documentation/wiki/help]
+* [https://github.com/autoplot/documentation/wiki/help] Old documentation
 * [https://github.com/autoplot/documentation/wiki/ScriptingReference]
