@@ -533,15 +533,15 @@ Autoplot will swap out controls based on the rendering method.
 The script tab is a workspace for creating Jython scripts. Jython is the
 Java version of Python, and it provides a rich environment for
 developing software which combine and analyze data, and also control
-workflows like running process on each file of a collection of files,
-similar to IDL or Matlab. More on its use is found at
+workflows like running process on each file of a collection of files. More 
+on its use is found at
 [scripting](scripting.md "wikilink"). The script tab creates an environment
 optimized for creating software quickly, like an IDE for other
-languages. For example, the "execute" button runs the script, and the
-Context Selector controls how the script is to be used, explained below.
+languages. For example, the "Run" button runs the script, and errors
+are highlited with a squiggle, and pressing tab shows command completions.
 
-Right-clicking on the editor tab brings up a popup-menu of useful
-functions when coding, for example &quot;Insert Code&quot;&rarr;getDataSet will insert
+Right-clicking on the editor brings up a popup-menu of useful
+functions when coding, for example "Insert Code"&rarr;getDataSet will insert
 a getDataSet command loading the current data Autoplot is focused on.
 &quot;Actions&quot;&rarr;&quot;Inspect URI&quot; will bring up the data source editor for the
 URI.
