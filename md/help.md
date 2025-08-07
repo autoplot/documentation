@@ -550,15 +550,22 @@ The Context Selector controls how the script will be used. There are two
 types of Autoplot scripts, "Application Context" and "Data Source
 Context." Application Context scripts control the Autoplot application
 itself, with access to the dom (the current state of Autoplot) and can
-tell Autoplot to save the canvas to a .png file. The Data Source Context
-is a more limited scripting environment, only able to load data. A Data
+tell Autoplot to save the canvas to a .png file. 
+
+The Data Source Context
+is a more limited scripting environment, only able to load data.  Scripts 
+are unaware of the application itself or the plotting that is done with 
+the data it produces. A Data
 Source Context script is saved with a .jyds extention, and is loaded
-into the canvas as if it were a data file.
+into the canvas as if it were a data file.  Autoplot URIs referencing 
+these files (Autoplot URIs) can be saved in .vap files.
 
 The script panel is intended to be useful for other ascii-file tasks,
 such as counting the number of characters in columns of an ascii file.
 Note that when selecting text the number of characters and lines are
 indicated.
+
+Another use case for scripting is to add new functionality to the GUI. Scripts that run in the application context can be added to the Tools bookmarks, and will appear in the Tools menu. For example, run the script https://github.com/autoplot/scripts/blob/master/flashFocus.jy. This will show the script in a dialog before running it. (The scripts can do malicious things like delete files, so you must review the script!) Note in the review dialog, that there's a checkbox to add to the tools menu. The new menu item "Flash Focus" should appear. The script will cause the focus plotElement to flash three times.
 
 ### <span id="consolePanel"></span>Console
 
