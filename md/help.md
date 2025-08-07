@@ -667,36 +667,6 @@ plotElement.
 
 More about [filters](filters.md "wikilink") can be found here.
 
-### Script
-
-The script panel (enable with Options&rarr;Enable Feature&rarr;Script Panel)
-provides a convenient place for writing and reviewing the Jython scripts
-to control the application and load data. It provides a simple
-completion and right-click to see additional options. This is intended
-to provide full access to advanced users.
-
-Note a .jyds file executed in the "data source context" and loads data
-from a number of places and performs operations to create a new dataset.
-.jy files are executed in the "application context" and control labels,
-add components, run batches and plot ad-hoc datasets. .jyds scripts are
-unaware of the application itself or the plotting that is done with the
-data it produces. Further, .jyds scripts must be saved to a file, and
-references to these files can be saved in .vap files.
-
-Another use case for scripting is to add new functionality to the GUI.
-Scripts that run in the application context can be added to the tools
-bookmarks, and will appear in the tools menu when the app is reloaded
-(or getViewWindow().reloadTools() is run). For example, run the script:
-<https://github.com/autoplot/scripts/blob/master/flashFocus.jy>. This will show the
-script in a dialog with an execute button. (The scripts can do malicious
-things like delete files, so you must review the script\!) Note in the
-review dialog, that there's a checkbox to add to the tools menu. The new
-menu item "Flash Focus" should appear. The script will cause the focus
-plotElement to flash three times.
-
-Jython scripting is being finalized and documented. More documentation
-is coming soon.
-
 # Adding Plots
 
 `Right click`&rarr;`Add Plot` can be used to add additional plots to the
