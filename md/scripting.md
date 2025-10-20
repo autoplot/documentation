@@ -189,11 +189,11 @@ time=field0&column=field4&timeFormat=$Y+$j+$H
 ```
 If the URI was to a file
 
-`&nbsp;`&lt;file:/tmp/data.txt&gt;
+```file:/tmp/data.txt```
 
 we could append an ASCII template to the URI into Autoplot's address bar
 
-`&nbsp;`&lt;file:/tmp/data.txt?time=field0&amp;column=field4&amp;timeFormat=$Y+$j+$H&gt;
+```file:/tmp/data.txt?time=field0&amp;column=field4&amp;timeFormat=$Y+$j+$H```
 
 and a plot with the correct time axis would be shown.
 
