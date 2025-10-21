@@ -347,16 +347,16 @@ them in the HOME/autoplot\_data/tools/ folder.
 
 Under `Options->Rendering Options` there is a option for showing dates
 as "YYYY-MM-DD" or "YYYY-DOY". This option could be made available under
-`Tools->Toggle Day-of-Year` by placing the following in
+`Tools`&rarr;`Toggle Day-of-Year` by placing the following in
 `HOME/autoplot_data/tools/toggleDayOfYear.jy` and restarting Autoplot.
 
 ```
-# label: Toggle Day-of-Year
+setScriptLabel( 'Toggle Day-of-Year' )
 val= dom.options.isDayOfYear()
 val= 1-val 
 dom.options.setDayOfYear(val)
 ```
-Note there is \[menubar\]-\>Tools-\>"Manage and Browse Tools" now, which
+Note there is \[menubar\]&rarr;Tools&rarr;"Manage and Browse Tools" now, which
 lets you manage the tools just like the bookmarks. This also allows
 tools to reside on remote sites, and for teams to have a standard set of
 tools with the remote bookmarks mechanism.
