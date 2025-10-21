@@ -39,8 +39,8 @@ certain operations to be carried out.
 For example, this script
 
 ``` python
-ds1= getDataSet( 'http://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale' )
-ds2= getDataSet( 'http://autoplot.org/data/image/Capture_00159.jpg?channel=greyscale' )
+ds1= getDataSet( 'https://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale' )
+ds2= getDataSet( 'https://autoplot.org/data/image/Capture_00159.jpg?channel=greyscale' )
 plot( abs( ds2- ds1 ) )
 ```
 
@@ -102,8 +102,8 @@ dource).
 If the above script
 
 ``` python
-ds1= getDataSet( 'http://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale' )
-ds2= getDataSet( 'http://autoplot.org/data/image/Capture_00159.jpg?channel=greyscale' )
+ds1= getDataSet( 'https://autoplot.org/data/image/Capture_00158.jpg?channel=greyscale' )
+ds2= getDataSet( 'https://autoplot.org/data/image/Capture_00159.jpg?channel=greyscale' )
 result= abs( ds2- ds1 )
 ```
 
