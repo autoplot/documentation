@@ -27,7 +27,7 @@ The plots node is an array of:
 ```
 { 'title':'the title', 'xaxis': { ... }, 'yaxis': { ... } }
 ```
-with the yaxis, for example:
+with the yaxis, for example (note top of canvas is 0):
 
 ```
 { 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'top':78, 'bottom':644 }
