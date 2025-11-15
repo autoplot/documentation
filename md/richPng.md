@@ -65,14 +65,10 @@ there's the JSON block "plotInfo" within:
 Try:
 
 ```
-`
-```
  unix> wget -N https://raw.githubusercontent.com/autoplot/documentation/refs/heads/main/md/product_20140102.png
  2015-12-10 05:53:29 (583 KB/s) - product_20140102.png saved [34667/34667]
  unix> strings product_20140102.png | grep "AC/MFI" 
      "title":"AC/MFI  [PRELIMINARY VALUES - BROWSE USE ONLY] B-field magnitude", 
-```
-`
 ```
 # Example Applications
 
