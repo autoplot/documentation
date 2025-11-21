@@ -87,7 +87,7 @@ plot( 1, histogram(ds,50), xpos='70%+2em,100%-2em',  ypos='50px,400px', color=Co
 "CustomRendererVertHist.jpg")
 
 See
-<https://github.com/autoplot/dev/blob/master/demos/20190523/demoCustomRenderer.jy>
+<https://github.com/autoplot/dev/blob/master/demos/2019/20190523/demoCustomRenderer.jy>
 
 ## Note
 
