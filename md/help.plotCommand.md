@@ -60,8 +60,8 @@ converted into a color. Examples include:
 
 **DarkRed** X11 color names are resolved. See https://en.wikipedia.org/wiki/X11_color_names and note spaces should be removed from names.
 **0x00FF00** RGB colors specified in hex.
-**0xA000FF00** ARGB where A is the 'alpha'or transparency channel where 0&nbsp;is&nbsp;completely&nbsp;invisible&nbsp;and&nbsp;255&nbsp;(FF)&nbsp;is&nbsp;completely&nbsp;opaque.`  
-**`Color.RED`**`&nbsp;Java&nbsp;color&nbsp;object.`
+**0xA000FF00** ARGB where A is the 'alpha'or transparency channel where 0 is completely invisible and 255 (FF) is completely opaque.
+**Color.RED** Java color object.
 
 ### renderType
 
