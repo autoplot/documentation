@@ -28,27 +28,26 @@ plot position, with 0 being the top-most plot.
 All of these are optional, and may have no effect for a particular
 render type:
 
-```
-* `**`color`**` named color, RBG value, or Color enumeration.  Examples include 'DarkRed', '0x00FF00', and Color.GREEN.
-* `**`symbolSize`**` the size of the symbols, in pixels roughly, of the symbols.
-* `**`lineThick`**` the thickness of the connecting lines, in pixels.
-* `**`lineStyle`**` enumeration of values, one of: solid,none,dotfine,dashfine
-* `**`symbol`**` the plot symbol, one of: dots triangles cross
-* `**`symbolFill`**` the method for filling or not filling the symbol center, one of 'none', 'solid', or 'outline'. (Note this is not saved in .vap files.)
-* `**`legendLabel`**` label for the legend box.
-* `**`title`**` title for the plot
-* `**`[xyz]title`**`  axis labels.
-* `**`[xyz]range`**`  axis ranges, e.g. '0 to 50' or '2016-01-01'
-* `**`[xyz]tickValues`**`  values to use for tick positions.  Use array of strings for times.
-* `**`[xyz]autoRangeHints`**` 
-* '''[xy]scale  data-to-pixel ratio.
-* `**`renderType`**` explicitly sets the renderType, to one of the values: scatter, colorScatter, series, nnSpectrogram, spectrogram, contour, fillToZero, stairSteps, hugeScatter, polar, bounds, digital, stackedHistogram
-* `**`xpos`**` override horizontal position of plot, eg. '50%+1em,100%-2em'
-* `**`ypos`**` override vertical position of plot, eg. '0%+1em,25%-2em', 0 is top
-* `**`row`**` the row or rowId of the row to use.
-* `**`column`**` the column or columnId of the column to use.
-* `**`[xy]drawTickLabels`**` False turns off the x or y tick labels for the plot
-```
+* **color** named color, RBG value, or Color enumeration.  Examples include 'DarkRed', '0x00FF00', and Color.GREEN.
+* **symbolSize** the size of the symbols, in pixels roughly, of the symbols.
+* **lineThick** the thickness of the connecting lines, in pixels.
+* **lineStyle** enumeration of values, one of: solid,none,dotfine,dashfine
+* **symbol** the plot symbol, one of: dots triangles cross
+* **symbolFill** the method for filling or not filling the symbol center, one of 'none', 'solid', or 'outline'. (Note this is not saved in .vap files.)
+* **legendLabel** label for the legend box.
+* **title** title for the plot
+* **[xyz]title**  axis labels.
+* **[xyz]range**  axis ranges, e.g. '0 to 50' or '2016-01-01'
+* **[xyz]tickValues**  values to use for tick positions.  Use array of strings for times.
+* **[xyz]autoRangeHints** 
+* **[xy]scale**  data-to-pixel ratio.
+* **renderType** explicitly sets the renderType, to one of the values: scatter, colorScatter, series, nnSpectrogram, spectrogram, contour, fillToZero, stairSteps, hugeScatter, polar, bounds, digital, stackedHistogram
+* **xpos** override horizontal position of plot, eg. '50%+1em,100%-2em'
+* **ypos** override vertical position of plot, eg. '0%+1em,25%-2em', 0 is top
+* **row** the row or rowId of the row to use.
+* **column** the column or columnId of the column to use.
+* **[xy]drawTickLabels** False turns off the x or y tick labels for the plot
+
 NOTE: arguments should be flexible, so findgen(5) can be used as well as
 \[0,1,2,3,4\], and timegen('2018-001T00:00Z','24hr',3) instead of
 \['2018-001T00:00Z','2018-002T00:00Z','2018-003T00:00Z'\], and Color.RED
@@ -59,9 +58,9 @@ as well as 'Red' and 0xFF0000.
 Color can be a Java color object (Color.GREEN), or a string which can be
 converted into a color. Examples include:
 
-**`'DarkRed`**`'&nbsp;X11&nbsp;color&nbsp;names&nbsp;are&nbsp;resolved.&nbsp;&nbsp;See&nbsp;`&lt;https://en.wikipedia.org/wiki/X11_color_names&gt;`,&nbsp;and&nbsp;note&nbsp;spaces&nbsp;should&nbsp;be&nbsp;removed&nbsp;from&nbsp;names.`  
-**`'0x00FF00`**`'&nbsp;RGB&nbsp;colors&nbsp;specified&nbsp;in&nbsp;hex.`  
-**`'0xA000FF00`**`'&nbsp;ARGB,&nbsp;where&nbsp;A&nbsp;is&nbsp;the&nbsp;&quot;alpha&quot;&nbsp;or&nbsp;transarency,&nbsp;channel,&nbsp;where&nbsp;0&nbsp;is&nbsp;completely&nbsp;invisible&nbsp;and&nbsp;255&nbsp;(FF)&nbsp;is&nbsp;completely&nbsp;opaque.`  
+**DarkRed** X11 color names are resolved. See https://en.wikipedia.org/wiki/X11_color_names and note spaces should be removed from names.
+**0x00FF00** RGB colors specified in hex.
+**0xA000FF00** ARGB where A is the 'alpha'or transparency channel where 0&nbsp;is&nbsp;completely&nbsp;invisible&nbsp;and&nbsp;255&nbsp;(FF)&nbsp;is&nbsp;completely&nbsp;opaque.`  
 **`Color.RED`**`&nbsp;Java&nbsp;color&nbsp;object.`
 
 ### renderType
