@@ -45,7 +45,7 @@ With the yaxis, we can specify location relative to the upper-left corner:
 { 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'top':40, 'bottom':400 }
 ```
 
-or sometimes it's easier to use the lower-left:
+or sometimes it's easier to use the lower-left corner for reference:
 
 ```
 { 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'lower':80, 'upper':440 }
