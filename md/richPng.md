@@ -45,11 +45,15 @@ With the yaxis, we can specify location relative to the upper-left corner:
 { 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'top':40, 'bottom':400 }
 ```
 
-or sometimes it's easier to use the lower-left corner for reference:
+or sometimes it's easier to use the lower-left corner for reference, and 'lower' and 'upper' can be used 
+in that case:
 
 ```
 { 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'lower':80, 'upper':440 }
 ```
+
+Software using RichPNG must handle both specifications (it's just another line of code, really), and should
+assume that any tags can be missing.
 
 # Examples
 
