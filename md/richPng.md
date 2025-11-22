@@ -27,12 +27,8 @@ The plots node is an array of:
 ```
 { 'title':'the title', 'xaxis': { ... }, 'yaxis': { ... } }
 ```
-with the yaxis, for example (note top of canvas is 0):
 
-```
-{ 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'top':78, 'bottom':644 }
-```
-and the xaxis, for example:
+The xaxis, for example:
 
 ```
 { 'label':'delay', 'min':0, 'max':10, 'type':'lin', 'units':'nT', 'left':78, 'right':644 }
@@ -42,6 +38,19 @@ You can also have UTC times encoded in ISO8601:
 ```
 { 'label':'Epoch', 'min':'2013-01-01T00:00Z', 'max':'2013-01-02T00:00Z', 'type':'lin', 'units':'UTC', 'left':78, 'right':644 }
 ```
+
+With the yaxis, we can specify location relative to the upper-left corner:
+
+```
+{ 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'top':40, 'bottom':400 }
+```
+
+or sometimes it's easier to use the lower-left:
+
+```
+{ 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'lower':80, 'upper':440 }
+```
+
 # Examples
 
 For the image here (click to download),
@@ -96,6 +105,6 @@ What happens with this is vaguely defined:
   - make insert Rich PNG Metadata routines for Java, IDL, and Matlab
   - Figure out how to insert metadata into PDF as well.
   - define convention for decorating existing images, for example have
-    ".richpng" file alongside the original.
+    ".plotInfo" file alongside the original.
   - a JSON schema should be written to describe the format.
 
