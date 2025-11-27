@@ -15,9 +15,10 @@ work with current DOM).
 # Introduction
 
 Autoplot can be scripted using
-[Jython](http://wiki.python.org/jython/JythonFaq/GeneralInfo#What_is_Jython.3F).
-Jython is an implementation of the Python scripting language. A Jython
-script has easy access to Java libraries.
+[Jython](http://wiki.python.org/jython/JythonFaq/GeneralInfo#What_is_Jython.3F),
+an implementation of the Python 2.2 scripting language. A Jython
+script has easy access to Java libraries and allows new applications
+to be built on the compiled Autoplot application.
 
 Scripting can be used for various purposes, including to:
 
@@ -31,10 +32,9 @@ Scripting can be used for various purposes, including to:
 
 Mathematical operations may be applied on Autoplot data objects
 ([QDataSets](QDataSet.md "wikilink")) using a syntax that is similar to
-operations on arrays and matrices in IDL or MATLAB. Unlike arrays and
-matrices in IDL and MATLAB, [QDataSets](QDataSet.md "wikilink") have
-metadata and physical units; the physical units must be consistent for
-certain operations to be carried out.
+operations on arrays and matrices in IDL, MATLAB, and NumPy. Unlike arrays and
+matrices in IDL, MATLAB, and Python, [QDataSets](QDataSet.md "wikilink") have
+physical units and labels, and these are considered in arithmetic operations.
 
 For example, this script
 
@@ -58,7 +58,7 @@ There are two types of scripts:
     controlling Autoplot itself.
 
 Finally, scripts can be shared with others. For example, if a script is
-put on a website (http://autoplot.org/data/imageDiff.jyds), it can be
+put on a website (https://autoplot.org/data/imageDiff.jyds), it can be
 run by anyone by entering the name of the script in the address bar.
 
 # Script Editor
@@ -67,8 +67,8 @@ Autoplot has script editor GUI. Selecting `Options->Enable
 Feature->Script Panel` will reveal a tab named "script" where scripts
 may be entered and executed. When a remote script is accessed, the
 script editor will be used show the contents of the script for
-reference. Pressing "execute" will run the script (or load the data in
-the case of the .jyds script), and shift-execute will show a parameters
+reference. Pressing "run" will run the script (or load the data in
+the case of the .jyds script), and shift-run will show a parameters
 dialog so that parameters can be changed interactively.
 
 ![ScriptEditor.png](ScriptEditor.png "ScriptEditor.png")
@@ -96,8 +96,8 @@ data server that knows nothing about the Autoplot application.
 ## Overview
 
 In this context, scripts load data and return a new dataset (or
-datasets). Data context scripts have file extension `jyds` (Jython data
-dource).
+datasets). Data context scripts have file extension `jyds` (yython data
+source).
 
 If the above script
 
@@ -109,25 +109,27 @@ result= abs( ds2- ds1 )
 
 was saved and uploaded to
 
-<http://autoplot.org/data/imageDiff.jyds>
+<https://autoplot.org/data/imageDiff.jyds>
 
 then
 
-<http://autoplot.org/data/imageDiff.jyds?result>
+<https://autoplot.org/data/imageDiff.jyds?result>
 
-would refer to this dataset.
+would refer to this dataset.  The variable "result" is loaded by default, but
+any number of quantities can be calculated and accessed.
 
-Data Source scripts are unaware of the Autoplot GUI and DOM; they can
-load and operate on data, but they cannot manipulate how the data is
+Data Source scripts are unaware of the Autoplot GUI and its internal
+controls. They can
+load and operate on data, but they cannot directly control how the data is
 plotted (for example, the color of the lines may not be modified in a
 Data Source script). These scripts can be used outside of Autoplot for
 this reason, for example in custom applications that use Autoplot's data
 loading but not the application itself.
 
 Commands available in this context are listed at
-[developer.scripting\#Ops](developer.scripting.md#ops "wikilink"). These
-commands will also appear in a selection menu when TAB is pressed on a
-blank line in the script panel.
+[developer.scripting\#Ops](developer.scripting.md#ops "wikilink"), and many
+example scripts can be found on [https://github.com/autoplot/dev](https://github.com/search?q=repo%3Aautoplot%2Fdev%20jyds&type=code)
+and [https://github.com/autoplot/scripts](https://github.com/search?q=repo%3Aautoplot%2Fscripts%20jyds&type=code)
 
 **Examples**:
 
@@ -145,7 +147,7 @@ unusual structure and require a script to convert the data in the file
 into a [QDataSet](QDataSet.md "wikilink").
 
 Consider this file
-[3](ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/KP_AP/1986),
+[3](https://www.ngdc.noaa.gov/stp/space-weather/geomagnetic-data/INDICES/KP_AP/1986),
 which has lines of the form
 
 ```
@@ -153,7 +155,7 @@ which has lines of the form
 8601022082253740303040372720260 22 27 15 15 27 22 12  7 181.05  0 67.60
 ```
 The file format specification is given at
-[4](ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/KP_AP/kp_ap.fmt).
+[4](https://www.ngdc.noaa.gov/stp/space-weather/geomagnetic-data/INDICES/KP_AP/kp_ap.fmt).
 This script reads the file and convert it into a
 [QDataSet](QDataSet.md "wikilink"):
 [wdc\_kp\_ap.jyds](https://svn.code.sf.net/p/autoplot/code/autoplot/trunk/JythonDataSource/src/wdc_kp_ap.jyds)
@@ -223,8 +225,8 @@ example, if you created a script `readData.jyds` with the following
 lines at the top
 
 ``` python
-s= getParam( 's', 'deflt', 'label to describe' )   # gets a string parameter, with default value "deflt"
-f= getParam( 'f', 2.34, 'label to describe' )      # gets a float parameter, with default value 2.34
+s= getParam( 's', 'deflt', 'a string parameter' )   # gets a string parameter, with default value "deflt"
+f= getParam( 'f', 2.34, 'a float parameter' )      # gets a float parameter, with default value 2.34
 ```
 
 The user would be able pass options to the script in the URI:
@@ -256,13 +258,13 @@ can be used as tags:
 Scripts can easily support the "Time Series Browse" capability, so that
 scripts can be used to browse over long time series. For example, a
 script could read any file from
-vap+cdf:<http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf>,
-and then derive data from this (http://autoplot.org/data/tsbDemo4.jyds):
+vap+cdf:<https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/efi_k0/$Y/po_k0_efi_$Y$m$d_v$v.cdf>,
+and then derive data from this (https://autoplot.org/data/tsbDemo4.jyds):
 
 ```
 # demonstrate how script can have timeSeriesBrowse to modify another dataset
 timerange= getParam( 'timerange', '2000-01-09', 'timerange to plot' )
-uri= 'vap+cdf:http://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=%s' % timerange
+uri= 'vap+cdf:https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/efi_k0/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=%s' % timerange
 ds= getDataSet( uri, monitor )
 if ( ds==None ): 
   result= None
@@ -282,7 +284,7 @@ to be called again and more data is loaded.
 Often a process takes a little while, and it would be nice to indicate
 to the scientist that the process is proceeding. This is done with the
 monitor object. See
-<http://autoplot.org/developer.scripting#Building_Scripts> .
+<https://github.com/autoplot/documentation/blob/main/md/developer.scripting.md#building-scripts> .
 
 # Application Context
 
@@ -305,7 +307,7 @@ Application context scripts have file extension `jy`.
 Change line color
 
 ``` python
-result= getDataSet( 'http://autoplot.org/data/autoplot.xls?column=A' )
+result= getDataSet( 'https://autoplot.org/data/autoplot.xls?column=A' )
 dom.plotElements[0].style.color= Color.RED
 ```
 
@@ -319,7 +321,7 @@ for tr in trs:
 ```
 
 runs the application through each day of the month January 2010, making
-images of each day.
+images of each day. (Note the PNG Walk Tool is a better way of doing this.)
 
 ## Example: Progress Monitor
 
@@ -334,7 +336,7 @@ for i in xrange(200):
     if ( monitor.isCancelled() ): break       # if not called, the cancel button will be insensitive
     monitor.setProgressMessage('at %d' % i)   # this describes actions done to perform the task.  
     monitor.setTaskProgress(i)
-    java.lang.Thread.sleep(100);
+    sleep(100)
  
 monitor.finished()     # indicate the task is complete
 ```
@@ -343,7 +345,7 @@ monitor.finished()     # indicate the task is complete
 
 Application Context scripts can be added to the Autoplot GUI by putting
 them in the HOME/autoplot\_data/tools/ folder.
-<http://autoplot.org/data/tools/> shows some example scripts.
+<https://autoplot.org/data/tools/> shows some example scripts.
 
 Under `Options->Rendering Options` there is a option for showing dates
 as "YYYY-MM-DD" or "YYYY-DOY". This option could be made available under
