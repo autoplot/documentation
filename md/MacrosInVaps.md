@@ -14,4 +14,4 @@ as another example.
 
 There's a problem here with the design, where some words are reserved (%{PWD}, %{CONTEXT}, 
 %{TIMERANGE}) and used by Autoplot, and others are used by the science team.  For this reason,
-macros should be fairly unique and not likely to conflict.
+macros should be fairly unique and not likely to conflict.  See https://github.com/autoplot/documentation/wiki/Annotations .
