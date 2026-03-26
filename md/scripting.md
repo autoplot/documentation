@@ -259,6 +259,9 @@ can be used as tags:
   - format - the input is reformatted using this, as a way to constrain input.  For example $Y-$m-$d will
     reformat the time range entered to the first day of the interval
 
+Note also when the default type is integer and the allowed values are [1,0] (True and False in Jython) then
+the value is a boolean and will be controlled with a checkbox.
+
 ## TimeSeriesBrowse
 
 Scripts can easily support the "Time Series Browse" capability, so that
