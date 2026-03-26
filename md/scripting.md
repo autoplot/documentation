@@ -247,11 +247,17 @@ If a fourth parameter is provided, this should be either an array of
 allowed values, or a dictionary. When it is a dictionary, the following
 can be used as tags:
 
-  - values is a list of all allowed values.
-  - examples is a list of values, but the scientist can specify things
+  - values - list of all allowed values.
+  - examples - list of example values, but the scientist can specify things
     other than the examples.
-  - labels is an array which must be the same length as the enumerated
+  - labels - an array which must be the same length as the enumerated
     values (values).
+  - min - formatted datum (e.g. "5 km") indicating the minimum allowed value
+  - max - formatted datum indicating the maximum allowed value
+  - regex - regular expression which the string must match
+  - glob - glob (e.g. *.cdf) the string (or file) must match
+  - format - the input is reformatted using this, as a way to constrain input.  For example $Y-$m-$d will
+    reformat the time range entered to the first day of the interval
 
 ## TimeSeriesBrowse
 
