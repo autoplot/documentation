@@ -195,7 +195,7 @@ If the URI was to a file
 
 we could append an ASCII template to the URI into Autoplot's address bar
 
-```file:/tmp/data.txt?time=field0&amp;column=field4&amp;timeFormat=$Y+$j+$H```
+```file:/tmp/data.txt?time=field0&timeFormat=$Y+$j+$H&column=field4```
 
 and a plot with the correct time axis would be shown.
 
