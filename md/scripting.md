@@ -271,7 +271,7 @@ vap+cdf:<https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/efi_k0/$Y/po_k0
 and then derive data from this (https://autoplot.org/data/tsbDemo4.jyds):
 
 ```
-# demonstrate how script can have timeSeriesBrowse to modify another dataset
+setScriptDescription('''demonstrate how script can have timeSeriesBrowse to modify another dataset''')
 timerange= getParam( 'timerange', '2000-01-09', 'timerange to plot' )
 uri= 'vap+cdf:https://cdaweb.gsfc.nasa.gov/istp_public/data/polar/efi/efi_k0/$Y/po_k0_efi_$Y$m$d_v$v.cdf?POTENT&timerange=%s' % timerange
 ds= getDataSet( uri, monitor )
