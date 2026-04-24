@@ -112,3 +112,7 @@ What happens with this is vaguely defined:
     ".plotInfo" file alongside the original.
   - a JSON schema should be written to describe the format.
 
+# Notes
+Note the Run Batch Tool will insert the script name and arguments used to create the image, and the PNGWalkTool will 
+look for this and offer to rerun the script for a closer look.  This is the property "ScriptURI" in the PNG
+metadata.
