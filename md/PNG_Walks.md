@@ -173,8 +173,8 @@ Autoplot" button will re-run the script after verification from the
 scientist.
 
 Last, when PNGs were created with the Run Batch Tool, the tool embeds
-the name of the script and the arguments used.  The Png Walk Tool will
-detect these and will offer to run the script.  Be sure to review the
+the name of the script (using the ScriptURI value) and the arguments used.  The Png Walk Tool will
+detect this and will offer to run the script.  Be sure to review the
 script before executing the run, to avoid attacks or pranks when a script
 reference is embedded.
 
