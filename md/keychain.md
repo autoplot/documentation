@@ -18,6 +18,6 @@ to the scientist, and the file contains the website, then the user:password comb
 # GitHub/GitLab Filesystems
 GitLab and GitHub filesystems allow access to private repositories when a "token" is used.  This is a long
 string of letters and numbers generated on the website, which can be used to provide colleagues with
-access to the filesystems.
+access to the filesystems.  TODO: Check github support, which I don't think is done yet.
 
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/d2a97d7c-fc31-4a3e-944e-418946402dc7" />
