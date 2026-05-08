@@ -1,4 +1,4 @@
-See https://github.com/das-developers/das2java/wiki/Granny-Text-Strings which appears to be more recent.
+See also https://github.com/das-developers/das2java/wiki/Granny-Text-Strings which describes use in Das2 apps.  This describes Autoplot extentions as well.
 
 
 
