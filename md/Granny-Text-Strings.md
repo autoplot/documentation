@@ -1,3 +1,7 @@
+See https://github.com/das-developers/das2java/wiki/Granny-Text-Strings which appears to be more recent.
+
+
+
 "Granny Strings" are from IDL are supported, so !A will move the pen up, and !N will return to its original level.  Over the years support for additional controls has been added, namely some support for HTML, like &lt;br&gt;, and LaTeX is planned.  
 Color control strings are added which can modify the graphics context.  And beyond that, Java/Jython codes can be plugged in which allows any customization.
 
