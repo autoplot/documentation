@@ -21,6 +21,7 @@ Results from this test are visible at
   - <http://autoplot.org/autoplot.jnlp?http://jfaden.net/~jbf/autoplot/vap/demos/polar/hydraVis.vap>
   - <http://autoplot.org/autoplot.jnlp?http://jfaden.net/~jbf/autoplot/vap/demos/medianFilter.vap>
   - <http://autoplot.org/autoplot.jnlp?http://jfaden.net/~jbf/autoplot/vap/demos/tsbFun.vap>
+  - <http://jfaden.net/~jbf/autoplot/vap/jeremy/OMNI2-ephemeris.vap>
 
 ## CSV ASCII
 

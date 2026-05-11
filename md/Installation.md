@@ -36,20 +36,32 @@ is  done by using the single-jar release.
 
 ### Windows
 
-Download <https://autoplot.org/jnlp/latest/autoplot.jar> to your desktop
-and then double click it. Autoplot should launch if you have Java
-installed.
+The .exe installer will put Autoplot on your system, replacing any old 
+versions which were already installed.  Download the .exe and run it,
+and you will need to accept the security warning for software where
+a developer fee has not been paid to Microsoft.  Otherwise it should 
+install like other software.
 
-Some versions of Java will run with limited memory (e.g. 192MB instead
-of 1GB), so check that this will be sufficient; if not, start using the
-command line using:
+# Macs
+The .dmg installer should be downloaded and launched, which will open a window 
+where Autoplot should be dragged into the applications folder.  When run,
+it will warn that the software was downloaded from the web and you will need
+to confirm the operation.  
 
+# .rpm 
+On Redhat-based systems, superuser (root) can download and install the .rpm.  When superuser access is
+not available, then the following can be used to install it anywhere:
 ```
-java -Xmx4G -jar autoplot.jar
+rpm2cpio ~/Downloads/autoplot_linux_2024_12.rpm | cpio -idv --directory=~/local/opt/autoplot-dev/
 ```
-### Linux and OS-X
 
-On the command line, download Autoplot using either wget or curl:
+# .deb
+On Ubuntu-based systems, superuser (root) can download and install the .deb, as with the RPM.
+The command gdebi is used to install when root access is not available.
+
+### Single-Jar release
+A "single jar" is created as well and is often the easiest method for running Autoplot.  On the 
+command line, download Autoplot using either wget or curl:
 
 `wget -N https://autoplot.org/jnlp/latest/autoplot.jar`
 `curl -O https://autoplot.org/jnlp/latest/autoplot.jar`
@@ -59,9 +71,8 @@ and then start it with
 ```
 java -jar autoplot.jar  
 ```
-Note that IcedTea/OpenJDK versions of Java may work, but we recommend
-using Oracle's version of Java
-[2 https://www.java.com/en/download/manual.jsp](https://www.java.com/en/download/manual.jsp).
+Java 8 or newer is required.  Note that the third-party code to read PDS4 uses a library which was removed
+from Java 11, and will not work.  This will be addressed soon.
 
 To launch Autoplot with more memory, use
 
@@ -70,5 +81,5 @@ java -Xmx16G -jar autoplot.jar
 ```
 ### 32bit JVMs
 
-A 32 bit JVM can be used, but it must be run with 1GB of memory or less.
-A 64 bit JVM is recommended.
+A 32 bit JVM can be used, but it must be run with 1GB of memory or less.  A 64 bit JVM is recommended.
+Note the single-jar release must be used with a 32-bit Java 8 (or newer) runtime.

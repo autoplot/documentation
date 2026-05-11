@@ -120,6 +120,9 @@ will show the number of records in a CDF file. Other examples include:
 %{CONTEXT}
 %{TIMERANGE}
 ```
+Note that .vap files themselves can have macros, which share the same namespace as
+annotations.  See https://github.com/autoplot/documentation/blob/main/md/MacrosInVaps.md .
+
 # Control Sequences
 
 There are some control sequences which are useful in labels (axis labels

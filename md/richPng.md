@@ -27,12 +27,8 @@ The plots node is an array of:
 ```
 { 'title':'the title', 'xaxis': { ... }, 'yaxis': { ... } }
 ```
-with the yaxis, for example:
 
-```
-{ 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'top':78, 'bottom':644 }
-```
-and the xaxis, for example:
+The xaxis, for example:
 
 ```
 { 'label':'delay', 'min':0, 'max':10, 'type':'lin', 'units':'nT', 'left':78, 'right':644 }
@@ -42,6 +38,23 @@ You can also have UTC times encoded in ISO8601:
 ```
 { 'label':'Epoch', 'min':'2013-01-01T00:00Z', 'max':'2013-01-02T00:00Z', 'type':'lin', 'units':'UTC', 'left':78, 'right':644 }
 ```
+
+With the yaxis, we can specify location relative to the upper-left corner:
+
+```
+{ 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'top':40, 'bottom':400 }
+```
+
+or sometimes it's easier to use the lower-left corner for reference, and 'lower' and 'upper' can be used 
+in that case:
+
+```
+{ 'label':'B-field', 'min':0.1, 'max':100, 'type':'log', 'units':'nT', 'lower':80, 'upper':440 }
+```
+
+Software using RichPNG must handle both specifications (it's just another line of code, really), and should
+assume that any tags can be missing.
+
 # Examples
 
 For the image here (click to download),
@@ -65,14 +78,10 @@ there's the JSON block "plotInfo" within:
 Try:
 
 ```
-`
-```
- unix> wget -N http://autoplot.org/wiki/images/product_20140102.png
- 2015-12-10 05:53:29 (583 KB/s) - &lsquo;product_20140102.png&rsquo; saved [34667/34667]
+ unix> wget -N https://autoplot.org/data/product_20140102.png
+ 2015-12-10 05:53:29 (583 KB/s) - product_20140102.png saved [34667/34667]
  unix> strings product_20140102.png | grep "AC/MFI" 
      "title":"AC/MFI  [PRELIMINARY VALUES - BROWSE USE ONLY] B-field magnitude", 
-```
-`
 ```
 # Example Applications
 
@@ -82,7 +91,7 @@ Try:
   - Autoplot PNGWalk Tool allows digitizing (clicking on plot will print
     coordinates at the bottom of the GUI).
   - Autoplot ImageDataSource allows plots to be grabbed from images
-    (http://autoplot.org/wiki/images/product\_20140102.png?plotInfo=0),
+    (https://autoplot.org/data/product_20140102.png?plotInfo=0),
     rendering with correct axes to allow for overplots.
 
 # Unresolved
@@ -100,6 +109,10 @@ What happens with this is vaguely defined:
   - make insert Rich PNG Metadata routines for Java, IDL, and Matlab
   - Figure out how to insert metadata into PDF as well.
   - define convention for decorating existing images, for example have
-    ".richpng" file alongside the original.
+    ".plotInfo" file alongside the original.
   - a JSON schema should be written to describe the format.
 
+# Notes
+Note the Run Batch Tool will insert the script name and arguments used to create the image, and the PNGWalkTool will 
+look for this and offer to rerun the script for a closer look.  This is the property "ScriptURI" in the PNG
+metadata.

@@ -23,6 +23,12 @@ git clone https://github.com/autoplot/autoplot.git
 cd autoplot
 git clone https://github.com/das-developers/das2java.git
 ```
+If you have SSH keys set up with github, then you can use:
+```
+git clone git@github.com:autoplot/autoplot.git
+cd autoplot
+git clone git@github.com:das-developers/das2java.git
+```
 
 There are a number Netbeans projects that can be built with ant. They
 are:

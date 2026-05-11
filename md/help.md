@@ -533,15 +533,15 @@ Autoplot will swap out controls based on the rendering method.
 The script tab is a workspace for creating Jython scripts. Jython is the
 Java version of Python, and it provides a rich environment for
 developing software which combine and analyze data, and also control
-workflows like running process on each file of a collection of files,
-similar to IDL or Matlab. More on its use is found at
+workflows like running process on each file of a collection of files. More 
+on its use is found at
 [scripting](scripting.md "wikilink"). The script tab creates an environment
 optimized for creating software quickly, like an IDE for other
-languages. For example, the "execute" button runs the script, and the
-Context Selector controls how the script is to be used, explained below.
+languages. For example, the "Run" button runs the script, and errors
+are highlited with a squiggle, and pressing tab shows command completions.
 
-Right-clicking on the editor tab brings up a popup-menu of useful
-functions when coding, for example &quot;Insert Code&quot;&rarr;getDataSet will insert
+Right-clicking on the editor brings up a popup-menu of useful
+functions when coding, for example "Insert Code"&rarr;getDataSet will insert
 a getDataSet command loading the current data Autoplot is focused on.
 &quot;Actions&quot;&rarr;&quot;Inspect URI&quot; will bring up the data source editor for the
 URI.
@@ -550,15 +550,22 @@ The Context Selector controls how the script will be used. There are two
 types of Autoplot scripts, "Application Context" and "Data Source
 Context." Application Context scripts control the Autoplot application
 itself, with access to the dom (the current state of Autoplot) and can
-tell Autoplot to save the canvas to a .png file. The Data Source Context
-is a more limited scripting environment, only able to load data. A Data
+tell Autoplot to save the canvas to a .png file. 
+
+The Data Source Context
+is a more limited scripting environment, only able to load data.  Scripts 
+are unaware of the application itself or the plotting that is done with 
+the data it produces. A Data
 Source Context script is saved with a .jyds extention, and is loaded
-into the canvas as if it were a data file.
+into the canvas as if it were a data file.  Autoplot URIs referencing 
+these files (Autoplot URIs) can be saved in .vap files.
 
 The script panel is intended to be useful for other ascii-file tasks,
 such as counting the number of characters in columns of an ascii file.
 Note that when selecting text the number of characters and lines are
 indicated.
+
+Another use case for scripting is to add new functionality to the GUI. Scripts that run in the application context can be added to the Tools bookmarks, and will appear in the Tools menu. For example, run the script https://github.com/autoplot/scripts/blob/master/flashFocus.jy. This will show the script in a dialog before running it. (The scripts can do malicious things like delete files, so you must review the script!) Note in the review dialog, that there's a checkbox to add to the tools menu. The new menu item "Flash Focus" should appear. The script will cause the focus plotElement to flash three times.
 
 ### <span id="consolePanel"></span>Console
 
@@ -606,6 +613,59 @@ a text file containing the text in the console, though note there is a
 limit to the size of the console, and some messages may no longer be
 available. If the provided filename ends with .xml, then all logging
 information is saved, providing complete feedback information to others.
+
+### Data
+
+The Data Panel (enable with `Options`&rarr;`Enable Feature`&rarr;`Data Panel`)
+contains controls for processing the dataset after it is loaded.
+
+For example, the fill value can be set manually when the dataset has
+failed to identify it.
+
+The **Data Source** subpanel controls the data source node that has
+focus. A second URI controller is provided for reference, and can be
+used to control the data loaded as well. Additional operations can be
+applied to the data immediately after loading, such as indicating fill
+values, or when for plotting slices against one another.
+
+<span id="dataPanel_2"></span> **Data Post Processing** specifies the
+operations that should applied before displaying the data. Originally
+introduced to allow for slicing of high-dimension (high "rank") data
+sets like Flux\[Time,Energy,Angle\], this also has a number of filters
+that are described below.
+
+When the Operations field is "|slice\<dim\>(\<index\>)" the data is
+sliced to provide a view (like a cross-section) of the data. Note the
+mouse wheel will allow the index of the slice to be adjusted
+interactively.
+
+When a vector component is plotted, Operations simply identifies the
+component to plot, and this is implicitly the "|unbundle(c)" operation.
+
+The magnifying glass with three vertical bars icon (<img src="icons/pipeMag2.png">) enters a GUI
+that allows these to be adjusted. This allows several adjustments to be
+made at once, such as slicing the data then running the result through a
+histogram.
+
+**Additional Operators** When the operations field starts with the pipe
+(|) character, it is a list of filters that are to be applied to the
+data. These filters include (for example):
+
+`|slice1(index)` slice the data on the first dimension at the given
+index.
+
+`|fftPower(size)` plot power spectrum by breaking waveform data in
+windows of length <em>size</em>.
+
+`|smooth(size)` boxcar average over the rank 1 data.
+
+
+These filters can be chained together like so: `|slice1(10)|histogram`.
+The GUI in Autoplot v2015a contains a GUI for working with this string.
+In the DOM, this is the same as the "component" property of a
+plotElement.
+
+More about [filters](filters.md "wikilink") can be found here.
 
 # Adding Plots
 
@@ -665,88 +725,6 @@ inactive parent component. The inactive component can be used to control
 all the children at once. For example, adjust the line thickness of the
 parent and all the children will be modified.
 
-## Data
-
-The Data Panel (enable with `Options`&rarr;`Enable Feature`&rarr;`Data Panel`)
-contains controls for processing the dataset after it is loaded.
-
-For example, the fill value can be set manually when the dataset has
-failed to identify it.
-
-The **Data Source** subpanel controls the data source node that has
-focus. A second URI controller is provided for reference, and can be
-used to control the data loaded as well. Additional operations can be
-applied to the data immediately after loading, such as indicating fill
-values, or when for plotting slices against one another.
-
-<span id="dataPanel_2"></span> **Data Post Processing** specifies the
-operations that should applied before displaying the data. Originally
-introduced to allow for slicing of high-dimension (high "rank") data
-sets like Flux\[Time,Energy,Angle\], this also has a number of filters
-that are described below.
-
-When the Operations field is "|slice\<dim\>(\<index\>)" the data is
-sliced to provide a view (like a cross-section) of the data. Note the
-mouse wheel will allow the index of the slice to be adjusted
-interactively.
-
-When a vector component is plotted, Operations simply identifies the
-component to plot, and this is implicitly the "|unbundle(c)" operation.
-
-The magnifying glass with three vertical bars icon (<img src="icons/pipeMag2.png">) enters a GUI
-that allows these to be adjusted. This allows several adjustments to be
-made at once, such as slicing the data then running the result through a
-histogram.
-
-**Additional Operators** When the operations field starts with the pipe
-(|) character, it is a list of filters that are to be applied to the
-data. These filters include (for example):
-
-`|slice1(index)` slice the data on the first dimension at the given
-index.
-
-`|fftPower(size)` plot power spectrum by breaking waveform data in
-windows of length <em>size</em>.
-
-`|smooth(size)` boxcar average over the rank 1 data.
-
-
-These filters can be chained together like so: `|slice1(10)|histogram`.
-The GUI in Autoplot v2015a contains a GUI for working with this string.
-In the DOM, this is the same as the "component" property of a
-plotElement.
-
-More about [filters](filters.md "wikilink") can be found here.
-
-## Script
-
-The script panel (enable with Options&rarr;Enable Feature&rarr;Script Panel)
-provides a convenient place for writing and reviewing the Jython scripts
-to control the application and load data. It provides a simple
-completion and right-click to see additional options. This is intended
-to provide full access to advanced users.
-
-Note a .jyds file executed in the "data source context" and loads data
-from a number of places and performs operations to create a new dataset.
-.jy files are executed in the "application context" and control labels,
-add components, run batches and plot ad-hoc datasets. .jyds scripts are
-unaware of the application itself or the plotting that is done with the
-data it produces. Further, .jyds scripts must be saved to a file, and
-references to these files can be saved in .vap files.
-
-Another use case for scripting is to add new functionality to the GUI.
-Scripts that run in the application context can be added to the tools
-bookmarks, and will appear in the tools menu when the app is reloaded
-(or getViewWindow().reloadTools() is run). For example, run the script:
-<https://github.com/autoplot/scripts/blob/master/flashFocus.jy>. This will show the
-script in a dialog with an execute button. (The scripts can do malicious
-things like delete files, so you must review the script\!) Note in the
-review dialog, that there's a checkbox to add to the tools menu. The new
-menu item "Flash Focus" should appear. The script will cause the focus
-plotElement to flash three times.
-
-Jython scripting is being finalized and documented. More documentation
-is coming soon.
 
 # <span id="layout"></span>Modifying Layout
 
