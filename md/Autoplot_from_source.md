@@ -49,8 +49,8 @@ The "src" directory of each of these folders contains the java source
 code. Together these should show nicely what's going on under the hood.
 
 Das2 is the library that provides interactive 2D graphics. It comes from
-a different svn, but should be checked out automatically along with the
-Autoplot source from SourceForge.
+a different git repo, but should be checked out automatically along with the
+Autoplot source from GitHub.
 
 To build using ant, change into the Autoplot project, and run: "ant
 jar". The default target will compile all sub projects, and the
@@ -70,9 +70,8 @@ To run the Autoplot you have built, in the Autoplot folder try:
 Purpose: this document describes the process of checking out and
 building Autoplot using the Netbeans IDE from Sun.
 
-Netbeans 8.2 has been used for quite a while as the primary platform for
-development. Netbeans 9.0 changes a lot of things, and should not be
-used.
+Netbeans 24.0 is the standard platform for development.  Netbeans includes the
+Matisse GUI editor, which is used to build the GUIs.
 
 ## platform
 
