@@ -3629,13 +3629,17 @@ LinFit is a code that does linear fits of Y(X) where there may be errors
 in Y. For example:
 
 ```
+from org.das2.qds.util import LinFit
+
 x= linspace( 0,10,200 )
-y= x * 6.4 + 0.4 + randn(200) 
-from org.virbo.dsutil import LinFit
+y= x * 6.4 + 44 + randn(200) 
+
 lf= LinFit(x,y)
 setLayoutOverplot(2)
 plot( 0, x,y )
-plotx( 1, x, lf.getB() * x + lf.getA(), color=Color.RED )
+plot( 1, x, lf.getSlope() * x + lf.getIntercept(), color=Color.RED )
+
+annotation( 0, text='Fit: %.4f * x + %.4f' % ( lf.getSlope(), lf.getIntercept() ) )
 ```
 # Slice and Trim in Python
 
