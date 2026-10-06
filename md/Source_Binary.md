@@ -38,6 +38,10 @@ to be in records of fixed-length.
           - "d,13f" 8-byte double followed by 13 (4-byte) floats
           - "i,s,ub" int, short, unsigned byte
           - "x,ub,ui" skip byte, unsigned byte, unsigned int
+      - **ccsds**, string (of hex or integer), pull out tables from CCSDS file.
+      - **bitField**, string (of hex or integer), logically AND the data and shift right to look at individual bits
+   
+Note: fields of type "string (of hex or integer)" support hex numbers like 0xA0 and simple arithmetic like 0x01+0x02.
 
 #### Use-cases
 
